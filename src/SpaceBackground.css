@@ -1,0 +1,184 @@
+/* Space Background Styles */
+.space-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #0c0c1d 0%, #1a1a3a 25%, #2d1b69 50%, #1a1a3a 75%, #0c0c1d 100%);
+  z-index: -1;
+  overflow: hidden;
+}
+
+/* Add lighting effect layer */
+.space-background::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 200%;
+  height: 100%;
+  background: linear-gradient(
+    45deg,
+    transparent 0%,
+    transparent 30%,
+    rgba(255, 215, 0, 0.1) 40%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 215, 0, 0.1) 60%,
+    transparent 70%,
+    transparent 100%
+  );
+  animation: cosmic-light-sweep 20s ease-in-out infinite;
+  z-index: 0;
+}
+
+/* Stars layer */
+.space-background::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    /* Star-shaped gradients using cross patterns */
+    radial-gradient(1px 4px at 20px 30px, #fff, transparent),
+    radial-gradient(4px 1px at 20px 30px, #fff, transparent),
+    radial-gradient(1px 3px at 40px 70px, rgba(255,255,255,0.9), transparent),
+    radial-gradient(3px 1px at 40px 70px, rgba(255,255,255,0.9), transparent),
+    radial-gradient(1px 5px at 90px 40px, #fff, transparent),
+    radial-gradient(5px 1px at 90px 40px, #fff, transparent),
+    radial-gradient(1px 3px at 130px 80px, rgba(255,255,255,0.8), transparent),
+    radial-gradient(3px 1px at 130px 80px, rgba(255,255,255,0.8), transparent),
+    radial-gradient(1px 4px at 160px 30px, #fff, transparent),
+    radial-gradient(4px 1px at 160px 30px, #fff, transparent),
+    /* Smaller star crosses */
+    radial-gradient(0.5px 2px at 60px 160px, rgba(255,255,255,0.6), transparent),
+    radial-gradient(2px 0.5px at 60px 160px, rgba(255,255,255,0.6), transparent),
+    radial-gradient(0.5px 2px at 200px 50px, rgba(255,255,255,0.8), transparent),
+    radial-gradient(2px 0.5px at 200px 50px, rgba(255,255,255,0.8), transparent),
+    radial-gradient(0.5px 1px at 10px 100px, rgba(255,255,255,0.5), transparent),
+    radial-gradient(1px 0.5px at 10px 100px, rgba(255,255,255,0.5), transparent),
+    /* Colored nebula star crosses */
+    radial-gradient(1px 3px at 200px 150px, rgba(138, 43, 226, 0.4), transparent),
+    radial-gradient(3px 1px at 200px 150px, rgba(138, 43, 226, 0.4), transparent),
+    radial-gradient(1px 2px at 250px 80px, rgba(255, 20, 147, 0.3), transparent),
+    radial-gradient(2px 1px at 250px 80px, rgba(255, 20, 147, 0.3), transparent);
+  background-repeat: repeat;
+  background-size: 200px 100px;
+  animation: sparkle 20s linear infinite;
+  z-index: 1;
+}
+
+@keyframes sparkle {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-200px);
+  }
+}
+
+@keyframes cosmic-light-sweep {
+  0% {
+    left: -100%;
+    opacity: 0;
+  }
+  15% {
+    opacity: 1;
+  }
+  85% {
+    opacity: 1;
+  }
+  100% {
+    left: 100%;
+    opacity: 0;
+  }
+}
+
+@keyframes sparkle {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-200px);
+  }
+}
+
+@keyframes nebula-drift {
+  0% {
+    filter: hue-rotate(0deg) brightness(1);
+  }
+  25% {
+    filter: hue-rotate(90deg) brightness(1.1);
+  }
+  50% {
+    filter: hue-rotate(180deg) brightness(0.9);
+  }
+  75% {
+    filter: hue-rotate(270deg) brightness(1.1);
+  }
+  100% {
+    filter: hue-rotate(360deg) brightness(1);
+  }
+}
+
+@keyframes sunlight-pass {
+  0% {
+    left: -100%;
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    left: 100%;
+    opacity: 0;
+  }
+}
+
+.space-overlay {
+  position: relative;
+  z-index: 1;
+  /* background: rgba(255, 255, 255, 0.75); */
+  /* backdrop-filter: blur(10px); */
+  border-radius: 12px;
+  margin: 10px;
+  padding: 4px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.space-header {
+  background: rgba(30, 58, 138, 0.7) !important;
+  backdrop-filter: blur(10px);
+  border-radius: 12px 12px 0 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.space-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 215, 0, 0.3) 25%,
+    rgba(255, 255, 255, 0.6) 50%,
+    rgba(255, 215, 0, 0.3) 75%,
+    transparent 100%
+  );
+  animation: sunlight-pass 6s ease-in-out infinite;
+  z-index: 1;
+}
+.space-footer {
+  background: rgba(30, 58, 138, 0.7) !important;
+  backdrop-filter: blur(10px);
+  border-radius: 0 0 12px 12px;
+}
