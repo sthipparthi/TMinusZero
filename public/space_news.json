@@ -1,5 +1,25 @@
 [
   {
+    "id": 32531,
+    "title": "Human minds, robotic hands",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/Human_minds_robotic_hands",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/human_minds_robotic_hands/26830088-1-eng-GB/Human_minds_robotic_hands_card_full.png",
+    "news_site": "ESA",
+    "summary": "Last July, a team of robots explored a simulated martian landscape in Germany, guided by an astronaut aboard the International Space Station. This was the final session of the Surface Avatar experiment, a joint initiative between ESA and the German Aerospace Center (DLR) to investigate how astronauts can remotely control robotic teams.",
+    "published_at": "2025-08-08T07:30:00Z",
+    "updated_at": "2025-08-08T07:40:14.955625Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 32530,
     "title": "Bruno Optimistic about ULA Launch Cadence, Worried About Starship Operations in Florida",
     "authors": [
@@ -1060,31 +1080,6 @@
       },
       {
         "launch_id": "e369a238-2746-4400-9396-62e8b7a660c5",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 32483,
-    "title": "Curiosity Blog, Sols 4616-4617: Standing Tall on the Ridge",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4616-4617-standing-tall-on-the-ridge/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04614_opgs_edr_fcam_FLB_807110248EDR_F1180000FHAZ00302M_.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Wednesday, July 30, 2025 The day started with a little celebration of NISAR, a new Earth observation satellite that made it successfully into orbit a few hours before our planning started. We joined in by saying “GO NISAR, […]",
-    "published_at": "2025-08-04T19:47:14Z",
-    "updated_at": "2025-08-05T06:07:16.230990Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
         "provider": "Launch Library 2"
       }
     ],
