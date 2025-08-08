@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "*/10 * * * *"   # every 10 minutes
   workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths: 
+      - '.github/workflows/trigger-hugging-face.yml'
 
 jobs:
   update-news:
