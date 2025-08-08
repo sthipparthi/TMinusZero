@@ -2,7 +2,7 @@ name: Update Space News (async HF)
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 3 hours (tweak as needed)
+    - cron: "*/10 * * * *"   # every 10 minutes
   workflow_dispatch:
 
 jobs:
