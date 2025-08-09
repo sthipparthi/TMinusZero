@@ -34,7 +34,7 @@ jobs:
       - name: Run fetch and summarize
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_MODEL: "pszemraj/long-t5-tglobal-base-16384-book-summary"
+          HF_MODEL: "facebook/bart-large-cnn"
           MAX_CONC: "6"
           CHUNK_SIZE: "4000"
           TARGET_WORDS: "1000"
