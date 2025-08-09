@@ -1,5 +1,25 @@
 [
   {
+    "id": 32546,
+    "title": "NASA’s SpaceX Crew-10 Mission Returns, Splashes Down Off California",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-10-mission-returns-splashes-down-off-california/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/nasas-spacex-crew-10-splashdown.jpg",
+    "news_site": "NASA",
+    "summary": "The first crew to splash down in the Pacific Ocean off the coast of California as part of NASA’s Commercial Crew Program completed the agency’s 10th commercial crew rotation mission to the International Space Station on Saturday. NASA astronauts Anne McClain and Nichole Ayers, JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi, and Roscosmos cosmonaut […]",
+    "published_at": "2025-08-09T17:29:25Z",
+    "updated_at": "2025-08-09T17:30:08.972527Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA astronauts Anne McClain and Nichole Ayers, JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi, and Roscosmos cosmonaut Kirill Peskov returned to Earth at 11:33 a.m. EDT. Crew-10 contributed hundreds of hours to scientific research, maintenance activities, and technology demonstrations."
+  },
+  {
     "id": 32545,
     "title": "Apollo 13 Astronaut Jim Lovell Passes Away",
     "authors": [
@@ -1006,25 +1026,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Astronomers have taken the sharpest-ever picture of the unexpected interstellar comet 3I/ATLAS, using the NASA/ESA Hubble Space Telescope. Hubble's observations from space are allowing astronomers to more accurately estimate the size of the comet’s solid icy nucleus. The upper limit on the diameter of the nucleus is 5.6 km, but it could be as small as 320 m across."
-  },
-  {
-    "id": 32497,
-    "title": "In Moon Race with China, Duffy Wants Fission Surface Power",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/in-moon-race-with-china-duffy-wants-fission-surface-power/",
-    "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Acting NASA Administrator Sean Duffy wants a nuclear fission reactor on the Moon to support sustained U.S. presence there. Asserting that the United States is in a Moon race with […]",
-    "published_at": "2025-08-06T03:53:17Z",
-    "updated_at": "2025-08-06T04:00:21.067795Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Acting NASA Administrator Sean Duffy wants a nuclear fission reactor on the Moon to support sustained U.S. presence there. The chairmen of NASA’s House and Senate oversight committees wrote to Duffy today asking when and how he will spend the $10 billion Congress provided for NASA in the reconciliation bill that was enacted a month ago. Duffy: \"We are in a race, we’re in aRace to the Moon, in arace with China to the moon. And to have a base on the Moon,. we need energy. And some of the key locations on the moon, we're going to get solar power. But this fission technology is critically important, and so we've spent hundreds of millions of dollars studying can we do it?\" Human exploration of the Moon and Mars is the only sector of the NASA budget that gets an increase in the budget request. NASA planned to continue using the Space Launch System (SLS) rocket and Orion spacecraft for future Artemis missions. Trump Administration wants to terminate SLS/Orion after Artemis III and replace them with commercial systems that do not yet exist."
   }
 ]
