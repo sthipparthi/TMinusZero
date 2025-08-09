@@ -21,11 +21,11 @@ import time
 
 SPACE_API = "https://api.spaceflightnewsapi.net/v4/articles/?limit=48&offset=0&ordering=-published_at"
 OUTFILE = "public/space_news.json"
-HF_MODEL = os.getenv("HF_MODEL", "pszemraj/long-t5-tglobal-base-16384-book-summary")
+HF_MODEL = os.getenv("HF_MODEL", "facebook/bart-large-cnn")
 HF_TOKEN = os.environ.get("HF_TOKEN")
 MAX_CONCURRENT_REQUESTS = int(os.getenv("MAX_CONC", "6"))
 REQUEST_TIMEOUT = aiohttp.ClientTimeout(total=60)
-CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", "4000"))
+CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", "2000"))
 TARGET_SUMMARY_WORDS = int(os.getenv("TARGET_WORDS", "1000"))
 
 if not HF_TOKEN:
@@ -53,6 +53,8 @@ async def fetch_text(session: aiohttp.ClientSession, url: str) -> str:
         desc = soup.find("meta", {"name": "description"})
         if desc and desc.get("content"):
             text = desc["content"]
+
+    print(f"Fetched {len(text)} chars from {url}")          
     return text
 
 def chunk_text(text: str, chunk_size_chars: int) -> List[str]:
@@ -74,6 +76,7 @@ def chunk_text(text: str, chunk_size_chars: int) -> List[str]:
     return chunks
 
 async def hf_summarize_chunk(session: aiohttp.ClientSession, text: str, semaphore: asyncio.Semaphore, retries=3):
+    print(f"Summarizing chunk of {len(text)} chars")
     payload = {"inputs": text, "parameters": {"max_new_tokens": 512}}
     headers = {"Authorization": f"Bearer {HF_TOKEN}", "Accept": "application/json"}
     backoff = 2
@@ -91,7 +94,7 @@ async def hf_summarize_chunk(session: aiohttp.ClientSession, text: str, semaphor
                             return out
                     else:
                         text_resp = await resp.text()
-                        print(f"HF API returned status {resp.status}, body: {text_resp[:400]}")
+                        print(f"HF API returned status {resp.status}, body: {text_resp}")
                         if resp.status in (429, 503, 502, 500):
                             raise Exception(f"Retryable HF status: {resp.status}")
                         return ""
@@ -157,7 +160,7 @@ async def main():
         tasks = []
         for item in items:
             old_item = existing_items.get(item["id"])
-            if old_item and old_item.get("updated_at") == item.get("updated_at") and old_item.get("detailed_news"):
+            if old_item and old_item.get("id") == item.get("id"):
                 # Reuse existing processed item
                 tasks.append(old_item)
             else:
