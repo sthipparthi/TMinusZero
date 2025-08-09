@@ -6,6 +6,8 @@ function App() {
   const [articles, setArticles] = useState([]);
   const [currentTime, setCurrentTime] = useState(new Date());
   const [location, setLocation] = useState("Getting location...");
+  const [selectedArticle, setSelectedArticle] = useState(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   // Fetch from local JSON file in /public
   const apiUrl = process.env.PUBLIC_URL + "/space_news.json";
@@ -102,6 +104,22 @@ function App() {
     };
   }, []);
 
+  const openModal = (article) => {
+    setSelectedArticle(article);
+    setIsModalOpen(true);
+  };
+
+  const closeModal = () => {
+    setIsModalOpen(false);
+    setSelectedArticle(null);
+  };
+
+  const handleModalBackdropClick = (e) => {
+    if (e.target === e.currentTarget) {
+      closeModal();
+    }
+  };
+
   return (
     <>
       {/* Fixed Space Background */}
@@ -131,15 +149,11 @@ function App() {
             {articles.map((article) => (
               <article
                 key={article.id}
-                className="bg-white rounded-lg shadow hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col group relative"
+                className="bg-white rounded-lg shadow hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col group relative cursor-pointer"
+                onClick={() => openModal(article)}
               >
                 <div className="absolute inset-0 bg-black opacity-0 group-hover:opacity-75 transition-opacity duration-300 z-10 rounded-lg"></div>
-                <a
-                  href={article.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex flex-col flex-grow relative z-20"
-                >
+                <div className="flex flex-col flex-grow relative z-20">
                   <img
                     src={article.image_url}
                     alt={article.title}
@@ -157,7 +171,7 @@ function App() {
                       {dayjs(article.published_at).format("MMM D, YYYY")}
                     </p>
                   </div>
-                </a>
+                </div>
               </article>
             ))}
           </main>
@@ -167,6 +181,93 @@ function App() {
           </footer>
         </div>
       </div>
+
+      {/* Modal */}
+      {isModalOpen && selectedArticle && (
+        <div 
+          className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4"
+          onClick={handleModalBackdropClick}
+        >
+          <div className="modal-container modal-space-bg rounded-lg max-w-4xl w-full max-h-[90vh] relative overflow-hidden">
+            {/* Close Button */}
+            <button 
+              onClick={closeModal}
+              className="absolute top-4 right-4 text-gray-300 hover:text-white text-2xl font-bold z-10 bg-black bg-opacity-50 hover:bg-opacity-70 rounded-full w-8 h-8 flex items-center justify-center shadow-lg transition-all duration-200"
+            >
+              ×
+            </button>
+            
+            {/* Modal Content */}
+            <div className="p-6 overflow-y-auto max-h-[90vh] text-white">
+              {/* Header Image */}
+              <img
+                src={selectedArticle.image_url}
+                alt={selectedArticle.title}
+                className="w-full h-64 object-cover rounded-lg mb-6"
+              />
+              
+              {/* Article Info */}
+              <div className="mb-4">
+                <div className="flex items-center gap-2 text-sm text-gray-300 mb-2">
+                  <span className="font-medium text-gray-200">{selectedArticle.news_site || selectedArticle.authors?.[0]?.name}</span>
+                  <span>·</span>
+                  <span>{dayjs(selectedArticle.published_at).format("MMMM D, YYYY at h:mm A")}</span>
+                </div>
+                
+                {/* Authors */}
+                {selectedArticle.authors && selectedArticle.authors.length > 0 && (
+                  <div className="text-sm text-gray-300 mb-4">
+                    By: {selectedArticle.authors.map(author => author.name).join(", ")}
+                  </div>
+                )}
+              </div>
+              
+              {/* Title */}
+              <h1 className="text-3xl font-bold text-white mb-6">
+                {selectedArticle.title}
+              </h1>
+              
+              {/* Detailed News Content */}
+              <div className="prose prose-lg max-w-none mb-6">
+                {selectedArticle.detailed_news && selectedArticle.detailed_news.trim() !== "" ? (
+                  <div className="text-gray-200 leading-relaxed whitespace-pre-wrap">
+                    {selectedArticle.detailed_news}
+                  </div>
+                ) : selectedArticle.summary ? (
+                  <div className="text-gray-200 leading-relaxed">
+                    {selectedArticle.summary}
+                  </div>
+                ) : (
+                  <div className="text-gray-300 italic">
+                    <p>Content is being processed. Please check back later for the complete article summary.</p>
+                  </div>
+                )}
+              </div>
+              
+              {/* Action Buttons */}
+              <div className="flex gap-4 pt-4 border-t border-gray-600">
+                <a
+                  href={selectedArticle.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 flex items-center gap-2"
+                >
+                  Read Original Article
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                  </svg>
+                </a>
+                <button
+                  onClick={closeModal}
+                  className="bg-gray-700 text-gray-200 px-6 py-2 rounded-lg hover:bg-gray-600 transition-colors duration-200"
+                >
+                  Close
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </>
   );
 }

@@ -182,3 +182,133 @@
   backdrop-filter: blur(10px);
   border-radius: 0 0 12px 12px;
 }
+
+/* Modal Lightning Border Effect */
+.modal-container {
+  position: relative;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #0c0c1d 0%, #1a1a3a 25%, #2d1b69 50%, #1a1a3a 75%, #0c0c1d 100%);
+  /* Prevent any content overflow that could cause horizontal scrolling */
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* Space background for modal */
+.modal-space-bg {
+  background: linear-gradient(135deg, #0c0c1d 0%, #1a1a3a 25%, #2d1b69 50%, #1a1a3a 75%, #0c0c1d 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Add lighting effect to modal background */
+.modal-space-bg::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 200%;
+  height: 100%;
+  background: linear-gradient(
+    45deg,
+    transparent 0%,
+    transparent 30%,
+    rgba(255, 215, 0, 0.1) 40%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 215, 0, 0.1) 60%,
+    transparent 70%,
+    transparent 100%
+  );
+  animation: modal-light-sweep 15s ease-in-out infinite;
+  z-index: 0;
+  pointer-events: none;
+}
+
+@keyframes modal-light-sweep {
+  0% {
+    left: -100%;
+    opacity: 0;
+  }
+  15% {
+    opacity: 1;
+  }
+  85% {
+    opacity: 1;
+  }
+  100% {
+    left: 100%;
+    opacity: 0;
+  }
+}
+
+/* Add subtle stars to modal background */
+.modal-space-bg::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    /* Small star crosses */
+    radial-gradient(1px 3px at 20% 30%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(3px 1px at 20% 30%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(1px 2px at 70% 20%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(2px 1px at 70% 20%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 3px at 80% 70%, rgba(255,255,255,0.5), transparent),
+    radial-gradient(3px 1px at 80% 70%, rgba(255,255,255,0.5), transparent),
+    radial-gradient(0.5px 2px at 40% 80%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(2px 0.5px at 40% 80%, rgba(255,255,255,0.3), transparent),
+    /* Colored nebula stars */
+    radial-gradient(1px 2px at 15% 60%, rgba(138, 43, 226, 0.3), transparent),
+    radial-gradient(2px 1px at 15% 60%, rgba(138, 43, 226, 0.3), transparent),
+    radial-gradient(1px 1px at 90% 40%, rgba(255, 20, 147, 0.2), transparent),
+    radial-gradient(1px 1px at 90% 40%, rgba(255, 20, 147, 0.2), transparent);
+  background-repeat: no-repeat;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0.8;
+  animation: modal-stars-twinkle 8s ease-in-out infinite;
+}
+
+@keyframes modal-stars-twinkle {
+  0%, 100% {
+    opacity: 0.8;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.modal-container * {
+  box-sizing: border-box;
+}
+
+/* Ensure images and content don't overflow */
+.modal-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Ensure modal content is above the background stars */
+.modal-container .overflow-y-auto {
+  position: relative;
+  z-index: 2;
+}
+
+/* Ensure modal content is above the background effects */
+.modal-container > div {
+  position: relative;
+  z-index: 2;
+}
+
+@keyframes lightning-rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
