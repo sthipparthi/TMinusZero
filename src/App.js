@@ -101,17 +101,23 @@ function App() {
     return () => {
       clearInterval(articleInterval);
       clearInterval(clockInterval);
+      // Cleanup: restore scrolling if component unmounts
+      document.body.style.overflow = 'unset';
     };
   }, []);
 
   const openModal = (article) => {
     setSelectedArticle(article);
     setIsModalOpen(true);
+    // Prevent background scrolling
+    document.body.style.overflow = 'hidden';
   };
 
   const closeModal = () => {
     setIsModalOpen(false);
     setSelectedArticle(null);
+    // Restore background scrolling
+    document.body.style.overflow = 'unset';
   };
 
   const handleModalBackdropClick = (e) => {
