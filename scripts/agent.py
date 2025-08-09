@@ -157,23 +157,24 @@ async def main():
         items = data.get("results", [])
         print(f"Found {len(items)} items. Checking for updates...")
 
-        tasks = []
+        # Separate existing items from items that need processing
+        to_process = []
+        processed = []
+        
         for item in items:
             old_item = existing_items.get(item["id"])
             if old_item and old_item.get("id") == item.get("id"):
                 # Reuse existing processed item
-                tasks.append(old_item)
+                processed.append(old_item)
             else:
                 # Needs processing
-                tasks.append(process_item(session, item, semaphore))
+                to_process.append(process_item(session, item, semaphore))
 
-        processed = []
-        for t in tqdm_asyncio.as_completed(tasks):
-            if asyncio.iscoroutine(t):
-                processed_item = await t
-            else:
-                processed_item = t
-            processed.append(processed_item)
+        # Process new items with progress bar
+        if to_process:
+            for completed_task in tqdm_asyncio.as_completed(to_process, desc="Processing articles"):
+                processed_item = await completed_task
+                processed.append(processed_item)
 
         processed_sorted = sorted(processed, key=lambda x: x.get("published_at", ""), reverse=True)
 
