@@ -95,6 +95,7 @@ async def hf_summarize_chunk(session: aiohttp.ClientSession, text: str, semaphor
                     else:
                         text_resp = await resp.text()
                         print(f"HF API returned status {resp.status}, body: {text_resp}")
+                        print(f"Using HF model endpoint: {HF_API_URL}")
                         if resp.status in (429, 503, 502, 500):
                             raise Exception(f"Retryable HF status: {resp.status}")
                         return ""
