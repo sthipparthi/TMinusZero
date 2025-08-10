@@ -1,5 +1,25 @@
 [
   {
+    "id": 32547,
+    "title": "Crew-10 Splashes Down Off San Diego",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/crew-10-splashes-down-off-san-diego/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Crew10-splashdown-NASA-300x200.webp",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "NASA’s Crew-10 splashed down in the Pacific Ocean this morning after five months on the International Space Station. Two private astronaut crews, Fram2 and Axiom-4, made West Coast splashdowns earlier […]",
+    "published_at": "2025-08-10T02:46:30Z",
+    "updated_at": "2025-08-10T02:50:12.895844Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Crew Dragon Endurance landed off the coast of San Diego at 11:33 am EDT. SpaceX moved splashdowns from Florida to California to ensure that any surviving pieces of Dragon’s trunk, which separates during reentry, end up in the ocean and not on land. Two private astronaut crews, Fram2 and Axiom-4, made West Coast splashdowns earlier this year, but this is the first NASA crew to land there. NASA ISS Program Manager Dana Weigel said on August 1 that the Russian segment will be used for attitude control during the two-year process. The U.S. Deorbit Vehicle being built by SpaceX then will do the thrusting needed to direct the ISS into an unoccupied area of the Pacific Ocean in 2030."
+  },
+  {
     "id": 32546,
     "title": "NASA’s SpaceX Crew-10 Mission Returns, Splashes Down Off California",
     "authors": [
@@ -1006,25 +1026,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "In April we highlighted the eastern end of the Acheron Fossae region of Mars – an amazingly diverse mix of rugged and smooth terrain covered in ancient ditches, craters, and solidified lava. Today we head back to show the region’s western edge, where the features are equally diverse: deep cracks, valleys, and meandering channels sculpted and filled by slow-moving flows of ice and rock. The Mars Express High Resolution Stereo Camera was developed and is operated by the German Aerospace Center. The systematic processing of the camera data took place at the DLR Institute of Planetary Research in Berlin-Adlershof. The working group of Planetary Science and Remote Sensing at Freie Universität Berlin used the data to create the image products shown here."
-  },
-  {
-    "id": 32519,
-    "title": "Hubble sizes up rare interstellar comet",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/Hubble_sizes_up_rare_interstellar_comet",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/hubble_sizes_up_rare_interstellar_comet/26828252-1-eng-GB/Hubble_sizes_up_rare_interstellar_comet_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "A team of astronomers has taken the sharpest-ever picture of the unexpected interstellar comet 3I/ATLAS, using the crisp vision of the NASA/ESA Hubble Space Telescope.",
-    "published_at": "2025-08-06T08:36:00Z",
-    "updated_at": "2025-08-07T14:10:24.844744Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Astronomers have taken the sharpest-ever picture of the unexpected interstellar comet 3I/ATLAS, using the NASA/ESA Hubble Space Telescope. Hubble's observations from space are allowing astronomers to more accurately estimate the size of the comet’s solid icy nucleus. The upper limit on the diameter of the nucleus is 5.6 km, but it could be as small as 320 m across."
   }
 ]
