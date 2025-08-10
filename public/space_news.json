@@ -1,5 +1,25 @@
 [
   {
+    "id": 32549,
+    "title": "Live Coverage: SpaceX Falcon 9 to make another attempt to launch Amazon Project Kuiper mission",
+    "authors": [
+      {
+        "name": "Spaceflight Now",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/10/live-coverage-spacex-falcon-9-to-make-another-attempt-to-launch-amazon-project-kuiper-mission/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250810-Falcon-9-KF-02.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida is scheduled for 8:57 a.m. EDT (1257 UTC), after three earlier attempts were scrubbed. ",
+    "published_at": "2025-08-10T08:52:02Z",
+    "updated_at": "2025-08-10T09:00:23.687897Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "A SpaceX Falcon 9 will make another attempt Sunday to launch 24 satellites for Amazon’s Project Kuiper internet service. Liftoff from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida is scheduled for 8:57 a.m. EDT (12:57 UTC) This will be the fourth scheduled launch attempt for the mission, designated KF-02. Spaceflight Now will have live coverage beginning about an hour prior to liftoff."
+  },
+  {
     "id": 32547,
     "title": "Crew-10 Splashes Down Off San Diego",
     "authors": [
@@ -38,6 +58,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "NASA astronauts Anne McClain and Nichole Ayers, JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi, and Roscosmos cosmonaut Kirill Peskov returned to Earth at 11:33 a.m. EDT. Crew-10 contributed hundreds of hours to scientific research, maintenance activities, and technology demonstrations."
+  },
+  {
+    "id": 32548,
+    "title": "Crew 10 returns to Earth with Pacific Ocean splashdown",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/09/crew-10-returns-to-earth-with-pacific-ocean-splashdown/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250809_Crew-10_splashdown.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "Two NASA astronauts, a Japanese flier and a Russian cosmonaut plunged back to Earth Saturday, safely splashing down in the Pacific Ocean near San Diego to wrap up a five-month mission. ",
+    "published_at": "2025-08-09T17:07:05Z",
+    "updated_at": "2025-08-10T08:00:21.602439Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Two NASA astronauts, a Japanese flier and a Russian cosmonaut plunged back to Earth Saturday, safely splashing down in the Pacific Ocean near San Diego. The Crew 10 fliers undocked from the station’s forward port at 6:15 p.m. Friday, two days later than originally planned due to high winds."
   },
   {
     "id": 32545,
@@ -981,50 +1021,5 @@
     ],
     "events": [],
     "detailed_news": "Europe's first MetOp Second Generation, MetOp-SG-A1, weather satellite is set for liftoff on an Ariane 6 rocket from Europe’s Spaceport in Kourou, French Guiana, on 13 August 2025. Watch live on ESA Web TV One . Follow the launch live on Wednesday 13 August 2025 (all times in CEST) Ariane 6 is Europe's heavy launcher and a key element of ESA's efforts to ensure autonomous access to space for Europe’s citizens. Its modular and versatile design allows it to launch all missions from low-Earth orbit into deep space. Standing over 60 metres tall, Ariane 6 can weigh almost 900 tonnes when launched with a full payload."
-  },
-  {
-    "id": 32499,
-    "title": "First asteroid sightings push Hera’s camera to the limit",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Space_Safety/Hera/First_asteroid_sightings_push_Hera_s_camera_to_the_limit",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/asteroid_18805_kellyday/26825840-1-eng-GB/Asteroid_18805_Kellyday_card_full.gif",
-    "news_site": "ESA",
-    "summary": "ESA’s Hera mission has captured images of asteroids (1126) Otero and (18805) Kellyday. Though distant and faint, the early observations serve as both a successful instrument test and a demonstration of agile spacecraft operations that could prove useful for planetary defence.",
-    "published_at": "2025-08-06T12:00:00Z",
-    "updated_at": "2025-08-06T13:03:54.732926Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "e1ffdd01-c146-44d0-a250-b845dc2eb20d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "ESA’s Hera mission has captured images of asteroids (1126) Otero and (18805) Kellyday. Though distant and faint, the early observations serve as both a successful instrument test and a demonstration of agile spacecraft operations. Hera is currently travelling through space on its way to a binary asteroid system. The object, named 3I/ATLAS , will pass close to Mars later this year. The scientific community is currently assessing whether any spacecraft at the Red Planet may be able to observe it at the time. “By demonstrating that we can safely and efficiently command Hera to observe a new target on short notice, we are building confidence for the mission’s science phase,\" says Moresco."
-  },
-  {
-    "id": 32498,
-    "title": "When martian ground falls apart",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/When_martian_ground_falls_apart",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/mars_express_views_acheron_fossae_s_western_fringes/26827568-1-eng-GB/Mars_Express_views_Acheron_Fossae_s_western_fringes_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "In its latest postcard from Mars, the European Space Agency’s Mars Express returns to Acheron Fossae: a dramatic network of chasms carved into the surface of the Red Planet.",
-    "published_at": "2025-08-06T09:00:00Z",
-    "updated_at": "2025-08-06T09:10:20.350958Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "In April we highlighted the eastern end of the Acheron Fossae region of Mars – an amazingly diverse mix of rugged and smooth terrain covered in ancient ditches, craters, and solidified lava. Today we head back to show the region’s western edge, where the features are equally diverse: deep cracks, valleys, and meandering channels sculpted and filled by slow-moving flows of ice and rock. The Mars Express High Resolution Stereo Camera was developed and is operated by the German Aerospace Center. The systematic processing of the camera data took place at the DLR Institute of Planetary Research in Berlin-Adlershof. The working group of Planetary Science and Remote Sensing at Freie Universität Berlin used the data to create the image products shown here."
   }
 ]
