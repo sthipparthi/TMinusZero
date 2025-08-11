@@ -1,5 +1,90 @@
 [
   {
+    "id": 32557,
+    "title": "Why Amazon is letting its rival launch its satellites",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/08/why-amazon-is-letting-its-rival-launch-its-satellites/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GkLx4V-bUAIwEGZ.jpg",
+    "news_site": "Arstechnica",
+    "summary": "Satellite companies find themselves between a rocket and a hard place.",
+    "published_at": "2025-08-11T17:30:59Z",
+    "updated_at": "2025-08-11T17:40:07.028438Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX launched a direct competitor to its Starlink network into orbit. Jeff Bezos, founder of Amazon, owns a rocket company of his own in Blue Origin. SpaceX sells launch services to all comers and typically offers the lowest price per kilogram to orbit. For SpaceX, this is great business. SpaceX asked companies seeking launch services to share spectrum rights as a condition of flying on Falcon 9. The term spectrum rights refers to using part of the radio frequency spectrum for transmitting data to and from space. Other companies, including AST SpaceMobile and EchoStar will need to decide whether to buy from SpaceX or pay more for slower access to space from other launch companies."
+  },
+  {
+    "id": 32556,
+    "title": "NASA’s SpaceX Crew-10 Splashes Down in Pacific Ocean",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-10-splashes-down-in-pacific-ocean/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/54709009517-0c71126a06-o.jpg",
+    "news_site": "NASA",
+    "summary": "The members of NASA’s SpaceX Crew-10 mission – Roscosmos cosmonaut Kirill Peskov, left, NASA astronauts Nichole Ayers and Anne McClain, and JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi – are all smiles after having landed in the Pacific Ocean off the coast of San Diego, Calif., Saturday, Aug. 9, 2025. The crew spent seven […]",
+    "published_at": "2025-08-11T17:09:28Z",
+    "updated_at": "2025-08-11T17:10:15.123928Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The crew spent seven months aboard the International Space Station. Crew-10 contributed hundreds of hours to scientific research, maintenance activities, and technology demonstrations. McClain, Ayers, and Onishi completed investigations on plant and microalgae growth, examined how space radiation affects DNA sequences in plants."
+  },
+  {
+    "id": 32554,
+    "title": "ESA to Develop Hummingbird-Inspired Flying Mars Explorer",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-to-develop-hummingbird-inspired-flying-mars-explorer/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/ESA-to-Develop-Hummingbird-Inspired-Flying-Mars-Explorer.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency has published a call to tender for the development of “flapping wing technology” for a Mars surface explorer. In the 8 August call, the agency states that on Mars, a flapping-wing propulsion system could offer greater energy efficiency, manoeuvrability, structural robustness, and adaptability than conventional helicopter or fixed-wing alternatives. As a […]\nThe post ESA to Develop Hummingbird-Inspired Flying Mars Explorer appeared first on European Spaceflight.",
+    "published_at": "2025-08-11T12:09:52Z",
+    "updated_at": "2025-08-11T12:10:13.130013Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The European Space Agency has published a call to tender for the development of ‘flapping wing technology’ for a Mars surface explorer. The agency states that on Mars, a flapping-wing propulsion system could offer greater energy efficiency, manoeuvrability, structural robustness, and adaptability than conventional helicopter or fixed-wing alternatives."
+  },
+  {
+    "id": 32555,
+    "title": "Behind the scenes with MetOp-SG and Sentinel-5",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/Behind_the_scenes_with_MetOp-SG_and_Sentinel-5",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/behind_the_scenes_with_metop-sg_and_sentinel-5/26834752-1-eng-GB/Behind_the_scenes_with_MetOp-SG_and_Sentinel-5_card_full.png",
+    "news_site": "ESA",
+    "summary": "Experience the preparation of the MetOp-SG-A1 satellite, hosting Copernicus Sentinel-5, scheduled for liftoff on an Ariane 6 rocket from Europe’s Spaceport in Kourou, French Guiana, on 13 August 2025 at 02:37 CEST (12 August 21:37 Kourou time). This timelapse video captures key stages from the encapsulation within the Ariane 6 fairing to the installation in the launch tower.",
+    "published_at": "2025-08-11T12:00:00Z",
+    "updated_at": "2025-08-11T16:14:31.898254Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "1b9bed2f-7e00-4d95-b5d1-7b71c36a4ab1",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "MetOp-SG-A1 is the first in a series of three successive pairs of satellites. It will carry the Copernicus Sentinel-5 mission to deliver daily global data on air pollutants and atmospheric trace gases. This timelapse video captures key stages from the encapsulation within the Ariane 6 fairing to the installation in the launch tower."
+  },
+  {
     "id": 32552,
     "title": "Juliana Barajas: Supporting NASA’s Mission, One Task at a Time",
     "authors": [
@@ -926,95 +1011,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Runoff from Greenland’s ice sheet is kicking nutrients up from the ocean depths and boosting phytoplankton growth. During peak summer melt, more than 300,000 gallons of fresh water drain into the sea every second from beneath Jakobshavn Glacier. The meltwater plume is fresh and more buoyant than the surrounding saltwater. The team plans to extend their simulations to the whole Greenland coast and beyond. Some changes appear to be impacting the carbon cycle both positively and negatively. “We didn’t build these tools for one specific application. Our approach is applicable to any region, from the Texas Gulf to Alaska. Like a Swiss Army knife, we can apply it to lots of different scenarios”"
-  },
-  {
-    "id": 32508,
-    "title": "NASA’s Perseverance Rover Captures Mars Vista As Clear As Day",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-captures-mars-vista-as-clear-as-day/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/1-pia26644-enhanced-web-16.jpg",
-    "news_site": "NASA",
-    "summary": "‘Float rocks,’ sand ripples, and vast distances are among the sights to see in the latest high-resolution panorama by the six-wheeled scientist. The imaging team of NASA’s Perseverance Mars rover took advantage of clear skies on the Red Planet to capture one of the sharpest panoramas of its mission so far. Visible in the mosaic, […]",
-    "published_at": "2025-08-06T18:53:40Z",
-    "updated_at": "2025-08-07T07:38:25.029609Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "c4db6995-f25f-4608-8eb9-ce95d5226af2",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "NASA’s Perseverance Mars rover took advantage of clear skies on the Red Planet to capture one of the sharpest panoramas of its mission so far. Visible in the mosaic are a rock that appears to lie on top of a sand ripple, a boundary line between two geologic units, and hills as distant as 40 miles (65 kilometers) away. Arizona State University leads the operations of the Mastcam-Z instrument, working in collaboration with Malin Space Science Systems in San Diego. For more about Perseverance: https://science.nasa.gov/mission/mars-2020-perseverance."
-  },
-  {
-    "id": 32506,
-    "title": "Duffy Approves Moving a Space Shuttle to Houston",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/duffy-approves-moving-a-space-shuttle-to-houston/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Discovery-at-NASM-209x300.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Acting NASA Administrator Sean Duffy has approved moving a space shuttle to Houston in accordance with language in the reconcilation act. NASA will only confirm that a decision was made, […]",
-    "published_at": "2025-08-06T18:05:25Z",
-    "updated_at": "2025-08-06T18:10:24.428825Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Acting NASA Administrator Sean Duffy has approved moving a space shuttle to Houston. NASA will only confirm that a decision was made, not what it is. Sen. John Cornyn (R-TX) introduced legislation to move Space Shuttle Discovery to Johnson Space Center. Discovery is currently at the Smithsonian’s National Air and Space Museum. Sen. Cruz is a co-sponsor of S. 1403. Rep. Randy Weber (R-TX) has an identical bill in the House. The two specially-built Shuttle Carrier Aircraft used to transport shuttle orbiters are decomissioned. A spokesperson for the National Air and Space Museum told SpacePolicyOnline.com today that they haven’t been contacted by NASA."
-  },
-  {
-    "id": 32505,
-    "title": "NASA Astronaut Barry “Butch” Wilmore Retires",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-astronaut-barry-butch-wilmore-retires/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/butch-wilmore.jpg",
-    "news_site": "NASA",
-    "summary": "After 25 years at NASA, flying in four different spacecraft, accumulating 464 days in space, astronaut and test pilot Butch Wilmore has retired from NASA. The Tennessee native earned a bachelor’s and a master’s degree in electrical engineering from Tennessee Technological University and a master’s degree in aviation systems from the University of Tennessee. Wilmoreis […]",
-    "published_at": "2025-08-06T17:53:13Z",
-    "updated_at": "2025-08-06T18:00:10.541561Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Butch Wilmore has retired after 25 years at NASA. He flew in four different spacecraft, accumulating 464 days in space. Wilmore completed three missions launching aboard the space shuttle Atlantis, Roscosmos Soyuz, and Boeing Starliner. He also conducted five spacewalks, totaling 32 hours outside the orbital laboratory."
-  },
-  {
-    "id": 32504,
-    "title": "Curiosity Looks Back Toward Its Landing Site",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/curiosity-looks-back-toward-its-landing-site/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/1-pia26632-curiositys-views-its-power-source-while-talking-to-an-orbiter-da5a52.png",
-    "news_site": "NASA",
-    "summary": "NASA’s Curiosity rover captured a view of its tracks on July 26, 2025. The robotic scientist is now exploring a region of lower Mount Sharp, a 3-mile-tall (5-kilometer-tall) mountain. The pale peak of the mountain can be seen at top right; the rim of Gale Crater, within which the mountain sits, is on the horizon […]",
-    "published_at": "2025-08-06T16:15:45Z",
-    "updated_at": "2025-08-07T07:35:57.559722Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "NASA's Curiosity rover captured a view of its tracks on July 26, 2025. The rover is now exploring a region of lower Mount Sharp, a 3-mile-tall (5-kilometer-tall) mountain. Curiosity touched down on the crater floor 13 years ago."
   }
 ]
