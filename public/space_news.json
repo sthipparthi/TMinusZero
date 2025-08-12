@@ -1,5 +1,25 @@
 [
   {
+    "id": 32565,
+    "title": "Raptor 3 testing ramps up at SpaceX McGregor",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/08/raptor-3-ramps-spacex-mcgregor/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/NSF-2025-08-12-00-07-16-499.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX has ramped up its engine testing efforts at the McGregor test facility this past…\nThe post Raptor 3 testing ramps up at SpaceX McGregor appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-08-12T01:53:59Z",
+    "updated_at": "2025-08-12T02:00:20.488937Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The SpaceX McGregor test site, situated in the small town of McGregor, Texas, serves as the company’s primary rocket development and test facility for propulsion systems. SpaceX has ramped up its engine testing efforts at the McGregor test facility this past week, conducting a total of 24 Raptor engine firings and achieving multiple milestones in engine performance and durability. SpaceX performed a rigorous “torture test” on the vertical stand, firing a single Raptor engine 13 times in succession. In addition to the firings, observers noted increased engine traffic around the site. A Raptor 2 Vacuum engine bearing serial number 580 was seen multiple times between August 4 and 7."
+  },
+  {
     "id": 32563,
     "title": "NASA Invites Media to View Artemis II Orion Stage Adapter at Marshall",
     "authors": [
@@ -60,26 +80,6 @@
     "detailed_news": "NASA is exploring an opportunity to demonstrate technology to raise a spacecraft’s orbit to a higher altitude. Two American companies – Cambrian Works of Reston, Virginia, and Katalyst Space Technologies of Flagstaff, Arizona – will develop concept design studies. The Neil Gehrels Swift Observatory was designed to observe gamma-ray bursts, the universe's most powerful explosions. Cambrian and Katalyst have each been awarded $150,000 under Phase III SBIR contracts for concept design studies. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the Swift mission in collaboration with Penn State, the Los Alamos National Laboratory in New Mexico, and Northrop Grumman Space Systems."
   },
   {
-    "id": 32564,
-    "title": "Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions",
-    "authors": [
-      {
-        "name": "John Sharp",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/vulcan-ariane-starlink-missions/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/IMG_3119.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "After a week of weather delays across the U.S, launch cadence increases as providers strive…\nThe post Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-11T19:09:59Z",
-    "updated_at": "2025-08-11T23:30:11.781329Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A SpaceX Falcon 9 is now scheduled to launch on Tuesday, Aug. 12, at 8:44 PM PDT (Wednesday, 03:44 UTC) from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base (VSFB) in California. The Ariane 6 flying this mission is of the ‘62’ variant, meaning two strap-on solid rocket boosters will be attached to the 5.4 m diameter core stage. The payload for this mission will be the MetOp-SG-A1 satellite, operated by the European Organisation for the Exploitation of Meteorological Satellites. Starlink Group 10-20 will launch atop booster B1085 and will fly northwest, carrying a payload of 28 satellites for insertion into LEO. After launch, the booster will land on the SpaceX droneship Just Read the Instructions. Another Falcon 9 launch is scheduled for Friday, Aug. 15 is Starlink Group 17-5."
-  },
-  {
     "id": 32560,
     "title": "Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions",
     "authors": [
@@ -94,6 +94,26 @@
     "summary": "After a week of weather delays across the U.S, launch cadence increases as providers strive…\nThe post Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions appeared first on NASASpaceFlight.com.",
     "published_at": "2025-08-11T19:09:59Z",
     "updated_at": "2025-08-11T19:10:12.787210Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "A SpaceX Falcon 9 is now scheduled to launch on Tuesday, Aug. 12, at 8:44 PM PDT (Wednesday, 03:44 UTC) from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base (VSFB) in California. The Ariane 6 flying this mission is of the ‘62’ variant, meaning two strap-on solid rocket boosters will be attached to the 5.4 m diameter core stage. The payload for this mission will be the MetOp-SG-A1 satellite, operated by the European Organisation for the Exploitation of Meteorological Satellites. Starlink Group 10-20 will launch atop booster B1085 and will fly northwest, carrying a payload of 28 satellites for insertion into LEO. After launch, the booster will land on the SpaceX droneship Just Read the Instructions. Another Falcon 9 launch is scheduled for Friday, Aug. 15 is Starlink Group 17-5."
+  },
+  {
+    "id": 32564,
+    "title": "Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions",
+    "authors": [
+      {
+        "name": "John Sharp",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/08/vulcan-ariane-starlink-missions/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/IMG_3119.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "After a week of weather delays across the U.S, launch cadence increases as providers strive…\nThe post Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-08-11T19:09:59Z",
+    "updated_at": "2025-08-11T23:30:11.781329Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -950,25 +970,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Wade Sisler worked as a student photographer at NASA’s Ames Research Center. He transitioned to videography when he realized the wonder and understanding the medium could convey. In the 1980s and ’90s, he worked on a wide range of projects, translating complex research into short documentaries. Wade Sisler is the former coordinator of NASA Goddard’s Office of Communications. He helped create the El Niño visualization, which helped drive public understanding of the phenomenon. He also helped launch a NASA Goddard program to link scientific experts with news stations around the world. His proudest accomplishment is the success of the internship program he led. He developed a communication “boot camp’ to help interns develop their storytelling chops. “The best, most powerful thing I think I’ve done in my time at NASA is to help guide the next wave of science communicators. Seeing their success is the gift that keeps on giving”"
-  },
-  {
-    "id": 32515,
-    "title": "ESA Astronaut Raphaël Liégeois",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/ESA_Astronaut_Raphael_Liegeois",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/esa_astronaut_raphael_liegeois/26829623-1-eng-GB/ESA_Astronaut_Raphael_Liegeois_card_full.png",
-    "news_site": "ESA",
-    "summary": "ESA astronaut Raphaël Liégeois from Belgium, a member of the ESA Astronaut Class of 2022, was selected in November 2022 from over 22,500 candidates who applied to ESA’s 2021 call for new astronauts.",
-    "published_at": "2025-08-07T09:30:00Z",
-    "updated_at": "2025-08-07T09:20:17.805512Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "In April 2024 erhielt Raphaël gemeinsam mit seinen Kolleginnen und Kollegen Sophie Adenot, Rosemary Coogan, Pablo Álvarez Fernández and Marco Sieber am EAC sein Astronautenzertifikat – ein offizieller Schritt zum vollwertigen Astronauten. Nach Abschluss seines Pre-Assignment-Trainings befindet er sich nun in der missionsspezifischen Vorbereitung."
   }
 ]
