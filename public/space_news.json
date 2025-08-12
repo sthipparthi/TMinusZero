@@ -1,5 +1,65 @@
 [
   {
+    "id": 32570,
+    "title": "Live coverage: ULA to launch first national security mission on a Vulcan rocket",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/12/live-coverage-ula-to-launch-first-national-security-mission-on-a-vulcan-rocket/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250811_Vulcan_USSF-106_prelaunch_MC-1.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The mission, dubbed USSF-106, will be the first Vulcan rocket launch since the vehicle was certified by the United States Space Force in late March. Liftoff from pad 41 at Cape Canaveral Space Force Station is schedule for 7:59 p.m. EDT (2359 UTC). ",
+    "published_at": "2025-08-12T11:34:19Z",
+    "updated_at": "2025-08-12T11:40:19.455761Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The United States Space Force (USSF)-106 mission is scheduled to launch from Cape Canaveral on Tuesday. The rocket will carry a pair of satellites to geoscynchronous orbit. The launch marks ULA's return to launching payloads as part of the National Security Space Launch (NSSL) program. The USSF-106 mission is comprised of two satellites. One of those remains a mystery with Space Force officials unwilling to provide any details. The other, which is described as the primary payload onboard the Vulcan rocket is the brainchild of the Air Force Research Laboratory. The mission and launch together come with a $250 million price tag. NTS-3 is being tested in the laboratory as well as out in the field. Some of the learns from this, like calibrating a spot beam antenna, can be applied to the next generation of GPS satellites, called GPS 3-F. The prime contractor that manufactured the satellite is L3Harris Technologies."
+  },
+  {
+    "id": 32569,
+    "title": "DGA Selects Infinite Orbits for €50M PALADIN Satellite-Inspection Service",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/dga-selects-infinite-orbits-for-e50m-paladin-satellite-inspection-service/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/DGA-Selects-Infinite-Orbits-for-50M-Euro-PALADIN-Satellite-Inspection-Spacecraft.webp",
+    "news_site": "European Spaceflight",
+    "summary": "France’s Directorate General of Armament has awarded the €50M PALADIN framework agreement to Infinite Orbits to deliver a geostationary orbit inspection and monitoring service for the nation’s Space Command. The PALADIN project is part of France’s Action et Résilience Spatiale (ARES – Space Action and Resilience) initiative, which aims to monitor and counter direct threats […]\nThe post DGA Selects Infinite Orbits for €50M PALADIN Satellite-Inspection Service appeared first on European Spaceflight.",
+    "published_at": "2025-08-12T08:29:33Z",
+    "updated_at": "2025-08-12T08:30:13.722605Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "PALADIN project is part of France’s Action et Résilience Spatiale (ARES – Space Action and Resilience) initiative. Infinite Orbits will develop a dedicated spacecraft capable of delivering the geostationary orbit inspection and monitoring service. The spacecraft is expected to be ready for launch by 2027."
+  },
+  {
+    "id": 32568,
+    "title": "CREAM: avoiding collisions in space through automation",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Space_Debris/CREAM_avoiding_collisions_in_space_through_automation",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/04/model_of_the_distribution_of_space_debris_around_earth/26641745-1-eng-GB/Model_of_the_distribution_of_space_debris_around_Earth_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Earth orbit is becoming increasingly crowded. With over 11 000 active satellites and many thousands more expected in the coming years as well as over 1.2 million pieces of space debris greater than 1 cm, the risk of in-orbit collisions has turned into a daily operational concern. ESA is investing in automation technologies that can help satellite operators respond more effectively to collision risks.",
+    "published_at": "2025-08-12T08:00:00Z",
+    "updated_at": "2025-08-12T08:10:12.725254Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Collision Risk Estimation and Automated Mitigation (CREAM) project is a key element of ESA’s Space Safety Programme. It aims to reduce the workload of operators, the number of false alerts and the response time of collision avoidance measures. Started in 2020, the project has now entered a critical phase of ground systems test operations and in-orbit demonstrations. Europe must have the ambition to have a space programme and a space agency that is world-class. Agenda 2025 will bring European space to the next level. To meet our ambitions we need to accelerate the use of space in Europe. The Zero Debris Community is a collaborative effort for a sustainable future in orbit."
+  },
+  {
     "id": 32565,
     "title": "Raptor 3 testing ramps up at SpaceX McGregor",
     "authors": [
@@ -78,26 +138,6 @@
     "launches": [],
     "events": [],
     "detailed_news": "NASA is exploring an opportunity to demonstrate technology to raise a spacecraft’s orbit to a higher altitude. Two American companies – Cambrian Works of Reston, Virginia, and Katalyst Space Technologies of Flagstaff, Arizona – will develop concept design studies. The Neil Gehrels Swift Observatory was designed to observe gamma-ray bursts, the universe's most powerful explosions. Cambrian and Katalyst have each been awarded $150,000 under Phase III SBIR contracts for concept design studies. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the Swift mission in collaboration with Penn State, the Los Alamos National Laboratory in New Mexico, and Northrop Grumman Space Systems."
-  },
-  {
-    "id": 32560,
-    "title": "Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions",
-    "authors": [
-      {
-        "name": "John Sharp",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/launch-roundup-vulcan-and-ariane-to-launch-ahead-of-starlink-missions/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/IMG_3119.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "After a week of weather delays across the U.S, launch cadence increases as providers strive…\nThe post Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-11T19:09:59Z",
-    "updated_at": "2025-08-11T19:10:12.787210Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A SpaceX Falcon 9 is now scheduled to launch on Tuesday, Aug. 12, at 8:44 PM PDT (Wednesday, 03:44 UTC) from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base (VSFB) in California. The Ariane 6 flying this mission is of the ‘62’ variant, meaning two strap-on solid rocket boosters will be attached to the 5.4 m diameter core stage. The payload for this mission will be the MetOp-SG-A1 satellite, operated by the European Organisation for the Exploitation of Meteorological Satellites. Starlink Group 10-20 will launch atop booster B1085 and will fly northwest, carrying a payload of 28 satellites for insertion into LEO. After launch, the booster will land on the SpaceX droneship Just Read the Instructions. Another Falcon 9 launch is scheduled for Friday, Aug. 15 is Starlink Group 17-5."
   },
   {
     "id": 32564,
@@ -243,6 +283,56 @@
     ],
     "events": [],
     "detailed_news": "MetOp-SG-A1 is the first in a series of three successive pairs of satellites. It will carry the Copernicus Sentinel-5 mission to deliver daily global data on air pollutants and atmospheric trace gases. This timelapse video captures key stages from the encapsulation within the Ariane 6 fairing to the installation in the launch tower."
+  },
+  {
+    "id": 32566,
+    "title": "Ariane 6 with MetOp-SG-A1 in its mobile hangar",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/Ariane_6_with_MetOp-SG-A1_in_its_mobile_hangar",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/ariane_6_with_metop-sg-a1_in_its_mobile_hangar/26836259-2-eng-GB/Ariane_6_with_MetOp-SG-A1_in_its_mobile_hangar_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-08-11T11:55:00Z",
+    "updated_at": "2025-08-12T07:36:51.998182Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "1b9bed2f-7e00-4d95-b5d1-7b71c36a4ab1",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "MetOp-SG-A1 is the first in a series of three successive pairs of satellites. It carries six instruments: a next-generation infrared atmospheric sounder, a microwave sounder and a multispectral imaging radiometer. The European Commission’s Copernicus Sentinel-5 spectrometer is also onboard."
+  },
+  {
+    "id": 32567,
+    "title": "The top of Ariane 6 with MetOp-SG-A1",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/The_top_of_Ariane_6_with_MetOp-SG-A1",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/the_top_of_ariane_6_with_metop-sg-a1/26836306-2-eng-GB/The_top_of_Ariane_6_with_MetOp-SG-A1_pillars.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-08-11T11:55:00Z",
+    "updated_at": "2025-08-12T07:36:58.690656Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "1b9bed2f-7e00-4d95-b5d1-7b71c36a4ab1",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "MetOp-SG-A1 is the first in a series of three successive pairs of satellites. The mission as a whole ensures the continued delivery of global observations from polar orbit for weather forecasting and climate analysis for more than 20 years. The missions will launch on an Ariane 6 with two boosters."
   },
   {
     "id": 32552,
@@ -890,85 +980,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Astronomers using NASA’s James Webb Space Telescope have found strong evidence of a giant planet orbiting a star in the stellar system closest to our own Sun. At just 4 light-years away from Earth, the Alpha Centauri triple star system has long been a compelling target in the search for worlds beyond our solar system. If confirmed, the potential planet seen in the Webb image of Alpha Centauri A would mark a new milestone for exoplanet imaging efforts. The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars."
-  },
-  {
-    "id": 32522,
-    "title": "Webb finds new hints for planet around closest solar twin",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_new_hints_for_planet_around_closest_solar_twin",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/artist_s_concept_of_alpha_centauri_a_and_planet/26828665-1-eng-GB/Artist_s_concept_of_Alpha_Centauri_A_and_planet_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope have found strong evidence of a giant planet orbiting a star in the stellar system closest to our own Sun. At just 4 light-years away from Earth, the Alpha Centauri triple star system has long been a compelling target in the search for worlds beyond our solar system.",
-    "published_at": "2025-08-07T15:00:00Z",
-    "updated_at": "2025-08-07T15:10:19.225913Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope have found strong evidence of a giant planet orbiting a star in the stellar system closest to our own Sun. If confirmed, the planet would be the closest to Earth that orbits in the habitable zone of a Sun-like star. Because the planet candidate is a gas giant, scientists say it would not support life as we know it. Researchers say it could be a gas giant approximately the mass of Saturn orbiting Alpha Centauri A. In half of the possible orbits simulated, the planet moved too close to the star. If confirmed by additional observations, the team’s results could transform the future of exoplanet science."
-  },
-  {
-    "id": 32520,
-    "title": "Three NASA Langley Employees Win Prestigious Silver Snoopy Awards",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/langley/three-nasa-langley-employees-win-prestigious-silver-snoopy-awards/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/tracy-dyson-honorees.jpg",
-    "news_site": "NASA",
-    "summary": "Three employees from NASA’s Langley Research Center in Hampton, Virginia recently earned the Silver Snoopy award, a prestigious honor given to NASA employees and contractors across the agency for exceptional achievements related to spaceflight safety or mission success. Christopher Broadaway, Jeremy Shidner, and Sara Wilson received the awards during a ceremony held at the center […]",
-    "published_at": "2025-08-07T14:22:40Z",
-    "updated_at": "2025-08-07T14:30:11.741275Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Three employees from NASA’s Langley Research Center in Hampton, Virginia recently earned the Silver Snoopy award. Christopher Broadaway, Jeremy Shidner, and Sara Wilson received the awards during a ceremony held at the center on July 22. The award is one of several overseen by the Space Flight Awareness (SFA) Program at NASA."
-  },
-  {
-    "id": 32518,
-    "title": "As NASA Missions Study Interstellar Comet, Hubble Makes Size Estimate",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/as-nasa-missions-study-interstellar-comet-hubble-makes-size-estimate/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2025/08/STScI-01K1X6XDR76ZD4FYJ9VTWN1ERB.tif",
-    "news_site": "NASA",
-    "summary": "A team of astronomers has taken the sharpest-ever picture of the unexpected interstellar comet 3I/ATLAS using the crisp vision of NASA’s Hubble Space Telescope. Hubble is one of many missions across NASA’s fleet of space telescopes slated to observe this comet, together providing more information about its size and physical properties. While the comet poses […]",
-    "published_at": "2025-08-07T14:00:19Z",
-    "updated_at": "2025-08-07T14:10:16.373989Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Astronomers have taken the sharpest-ever picture of the unexpected interstellar comet 3I/ATLAS. Hubble's observations allow astronomers to more accurately estimate the size of the comet’s solid, icy nucleus. The comet is traveling through our solar system at a staggering 130,000 miles (209,000 kilometers) per hour.  Hubble captured this image of the interstellar comet 3I/ATLAS on July 21, 2025, when the comet was 277 million miles from Earth. Hubble shows that the comet has a teardrop-shaped cocoon of dust coming off its solid, icy nucleus. Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe."
-  },
-  {
-    "id": 32516,
-    "title": "Wade Sisler: A Wonder Aficionado in Service of the Cosmos",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/people-of-nasa/wade-sisler-a-wonder-aficionado-in-service-of-the-cosmos/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/07/wade-sisler-webb.jpg",
-    "news_site": "NASA",
-    "summary": "Executive Producer — Goddard Space Flight Center Across 42 years at NASA, Wade Sisler — executive producer at NASA’s Goddard Space Flight Center in Greenbelt, Maryland—watched the edge of human knowledge progress. During that time, the tools for visualizing and communicating those discoveries evolved just as rapidly. “I’ve spent my career surrounded by people with […]",
-    "published_at": "2025-08-07T12:00:00Z",
-    "updated_at": "2025-08-07T12:00:13.194763Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Wade Sisler worked as a student photographer at NASA’s Ames Research Center. He transitioned to videography when he realized the wonder and understanding the medium could convey. In the 1980s and ’90s, he worked on a wide range of projects, translating complex research into short documentaries. Wade Sisler is the former coordinator of NASA Goddard’s Office of Communications. He helped create the El Niño visualization, which helped drive public understanding of the phenomenon. He also helped launch a NASA Goddard program to link scientific experts with news stations around the world. His proudest accomplishment is the success of the internship program he led. He developed a communication “boot camp’ to help interns develop their storytelling chops. “The best, most powerful thing I think I’ve done in my time at NASA is to help guide the next wave of science communicators. Seeing their success is the gift that keeps on giving”"
   }
 ]
