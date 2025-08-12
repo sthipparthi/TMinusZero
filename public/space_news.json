@@ -1,5 +1,92 @@
 [
   {
+    "id": 32576,
+    "title": "LIVE COVERAGE! Vulcan Set To Launch First U.S. National Security Mission",
+    "authors": [
+      {
+        "name": "Zac Aubert",
+        "socials": {
+          "x": "https://x.com/Astro_Aubert",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/zachary-aubert-43853b22/",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://tlpnetwork.com/news/america/vulcan-set-to-launch-first-us-national-security-mission",
+    "image_url": "https://cdn.tlpnetwork.com/articles/2025/1755015722251.jpg",
+    "news_site": "The Launch Pad",
+    "summary": "LIVE COVERAGE! Vulcan Set To Launch First U.S. National Security Mission",
+    "published_at": "2025-08-12T16:15:00Z",
+    "updated_at": "2025-08-12T16:40:19.376158Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The USSF-106 mission, flying for the U.S. Space Force’s Space Systems Command, is scheduled to lift off tonight from Space Launch Complex-41 at Cape Canaveral Space Force Station, Florida. The launch window runs from 7:59 to 8:59 p.m. EDT (2359–0059 UTC), with liftoff targeted within that one-hour period."
+  },
+  {
+    "id": 32573,
+    "title": "Hubble Captures a Tarantula",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/hubble-captures-a-tarantula/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/hubble-30dor-potw2531a-1.jpg",
+    "news_site": "NASA",
+    "summary": "This NASA/ESA Hubble Space Telescope image captures incredible details in the dusty clouds of a star-forming factory called the Tarantula Nebula. Most of the nebulae Hubble images are in our galaxy, but this nebula is in the Large Magellanic Cloud, a dwarf galaxy located about 160,000 light-years away in the constellations Dorado and Mensa. The Large Magellanic […]",
+    "published_at": "2025-08-12T15:35:27Z",
+    "updated_at": "2025-08-12T15:40:08.255632Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Tarantula Nebula is in the Large Magellanic Cloud, a dwarf galaxy located about 160,000 light-years away in the constellations Dorado and Mensa. This image is very close to a rare type of star called a Wolf–Rayet star . Wolf– Rayet stars are massive stars that have lost their outer shell of hydrogen."
+  },
+  {
+    "id": 32572,
+    "title": "NASA Roman Core Survey Will Trace Cosmic Expansion Over Time",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/roman-space-telescope/nasa-roman-core-survey-will-trace-cosmic-expansion-over-time/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/snsn.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Nancy Grace Roman Space Telescope will be a discovery machine, thanks to its wide field of view and resulting torrent of data. Scheduled to launch no later than May 2027, with the team working toward launch as early as fall 2026, its near-infrared Wide Field Instrument will capture an area 200 times larger than […]",
+    "published_at": "2025-08-12T14:00:00Z",
+    "updated_at": "2025-08-12T14:50:07.721488Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Nancy Grace Roman Space Telescope will be a discovery machine. Its near-infrared Wide Field Instrument will capture an area 200 times larger than the Hubble Space Telescope’s infrared camera. Roman will devote about 75% of its science observing time over its five-year primary mission. High-Latitude Time-Domain Survey will be split into two imaging “tiers” — a wide tier that covers more area and a deep tier that will focus on a smaller area for a longer time to detect fainter objects. The observations will take place in two areas, one in the northern sky and another in the southern sky. There will also be a spectroscopic component to this survey, which will be limited to the southern night sky."
+  },
+  {
+    "id": 32571,
+    "title": "Ariane 6: preparing flight VA264 for liftoff",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/Ariane_6_preparing_flight_VA264_for_liftoff",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/ariane_6_preparing_flight_va264_for_liftoff/26837507-2-eng-GB/Ariane_6_preparing_flight_VA264_for_liftoff_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "MetOp-SG-A1 travelled onboard the Canopée ship. Our teams at the European spaceport in French Guiana have been quite busy making sure both the rocket and the payloads are ready for flight VA264.",
+    "published_at": "2025-08-12T13:30:00Z",
+    "updated_at": "2025-08-12T13:50:13.679114Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "MetOp-SG-A1 is the first in a series of three successive pairs of satellites. Will provide global observations from polar orbit for weather forecasting and climate analysis for more than 20 years. Will launch on an Ariane 6 rocket from Europe’s Spaceport in Kourou, French Guiana on August 2025."
+  },
+  {
     "id": 32570,
     "title": "Live coverage: ULA to launch first national security mission on a Vulcan rocket",
     "authors": [
@@ -373,6 +460,46 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Ariane 6 launch pad is called ELA-4 for 'Ensemble de Lancement Ariane' It is the fourth launch pad built for Ariane launches from Europe’s Spaceport in French Guiana. E LA-4 was built from the ground up specifically forAriane 6, some previous generation Ariane rockets reused older launch pads."
+  },
+  {
+    "id": 32574,
+    "title": "Ariane 6 infographic: launch pad",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/Ariane_6_infographic_launch_pad",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/ariane_6_infographic_launch_pad/26834695-2-eng-GB/Ariane_6_infographic_launch_pad_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-08-11T09:49:00Z",
+    "updated_at": "2025-08-12T15:50:14.078891Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Use the weekly Newsquiz to test your knowledge of stories you saw on CNN.com. Today's News Quiz includes a round-up of the most popular stories of the past week. Use the Daily Discussion to help us understand today's featured news stories. Back to the page you came from."
+  },
+  {
+    "id": 32575,
+    "title": "Ariane 6 infographic: countdown to liftoff",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/Ariane_6_infographic_countdown_to_liftoff",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/ariane_6_infographic_countdown_to_liftoff/26837983-2-eng-GB/Ariane_6_infographic_countdown_to_liftoff_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-08-11T09:49:00Z",
+    "updated_at": "2025-08-12T16:10:13.066523Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "A lot happens before an Ariane 6 rocket takes off, especially in the last hours before launch. Ground pipes that supply the rocket with its propellants are chilled slowly to avoid stress on the system. Liquid hydrogen flows at –253°C! When the ground pipes are at temperature the upper and core stages are filled with propellants. Final weather checks are performed before an automated sequence starts."
   },
   {
     "id": 32551,
@@ -860,125 +987,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Italian space agency, ASI, has signed an agreement with SpaceX for an uncrewed mission to Mars. The agreement includes provisions for several payloads, including a plant growth experiment, a radiation sensor, and a meteorological monitoring station. In March, SpaceX CEO Elon Musk stated that the company is targeting the end of next year for Starship’s first mission."
-  },
-  {
-    "id": 32527,
-    "title": "Linking Local Lithologies to a Larger Landscape",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/linking-local-lithologies-to-a-larger-landscape/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2025/perseverance-rover-updates/august-2025/Mars_Perseverance_ZR0_1568_0806136599_348EBY_N0771350ZCAM04183_1100LMJ.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Margaret Deahn, Ph.D. Student at Purdue University NASA’s Mars 2020 rover is continuing to explore a boundary visible from orbit dividing bright, fractured outcrop from darker, smoother regolith (also known as a contact). The team has called this region “Westport,” (a fitting title, as the rover is exploring the western-most rim of Jezero), […]",
-    "published_at": "2025-08-07T18:46:11Z",
-    "updated_at": "2025-08-07T19:10:11.914378Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Olivine-rich materials are typically found draping over older rocks, often infilling depressions, which may provide clues to their origins. Jezero crater is in a region of Mars known as Northeast Syrtis, which hosts the largest contiguous exposure (more than 113,000 square kilometers, or more than 43,600 square miles) The Perseverance rover’s investigation may allow us to better constrain the history of the broader volcanic units."
-  },
-  {
-    "id": 32526,
-    "title": "US-French SWOT Satellite Measures Tsunami After Massive Quake",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/swot/us-french-swot-satellite-measures-tsunami-after-massive-quake/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/1-pia26652-swot-pac-tsunami-blk.jpg",
-    "news_site": "NASA",
-    "summary": "Data provided by the water satellite, a joint effort between NASA and the French space agency, is helping to improve tsunami forecast models, benefitting coastal communities. The SWOT (Surface Water and Ocean Topography) satellite captured the tsunami spawned by an 8.8 magnitude earthquake off the coast of Russia’s Kamchatka Peninsula on July 30, 11:25 a.m. […]",
-    "published_at": "2025-08-07T18:22:12Z",
-    "updated_at": "2025-08-07T18:30:12.267300Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Satellite captured the tsunami spawned by an 8.8 magnitude earthquake off the coast of Russia’s Kamchatka Peninsula on July 30, 11:25 a.m. local time. Data from SWOT provided a multidimensional look at the leading edge of the tsunami wave triggered by the earthquake. Comparing the observations fromSWOT to the model helps forecasters validate their model. The Doppler Orbitography and Radioposition Integrated by Satellite system, the dual frequency Poseidon altimeter, and ground operations were provided by CNES. The KaRIn high-power transmitter assembly was provided by CSA. NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery."
-  },
-  {
-    "id": 32525,
-    "title": "ULA CEO Tory Bruno Outlines plans for Vulcan and beyond",
-    "authors": [
-      {
-        "name": "Ryan Caton",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/ula-bruno-vulcan-and-beyond/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/NSF-2025-08-07-18-25-43-056.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "In a teleconference ahead of the United Launch Alliance’s (ULA) first mission for the U.S.…\nThe post ULA CEO Tory Bruno Outlines plans for Vulcan and beyond appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-07T17:54:47Z",
-    "updated_at": "2025-08-07T18:00:20.582645Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "United Launch Alliance (ULA) to launch Vulcan rocket for U.S. Space Force (USSF) ULA President and CEO Tory Bruno shared insights on a range of topics. Bruno addressed SpaceX’s Starship operations at Kennedy Space Center (KSC) Bruno also discussed ULA's reuse technologies and future launch infrastructure. Bruno expressed confidence in achieving nine launches this year, bolstered by the completion of a new Vertical Integration Facility (VIF) and Mobile Launch Platform (MLP) The payload mix is projected at a 40:60 ratio of government to commercial missions through 2027. Bruno expressed enthusiasm for Sierra Space’s Dream Chaser spacecraft. ULA CEO Tory Bruno used the conference to underscore ULA’s proactive stance in a rapidly evolving space sector. Bruno: ULA is balancing innovation with operational reliability to meet growing demands from both government and commercial clients. ULA: “Starship is an interesting vehicle. It's not just…"
-  },
-  {
-    "id": 32524,
-    "title": "NASA Uses Wind Tunnel to Test Advanced Air Mobility Aircraft Wing",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-wind-tunnel-to-test-advanced-air-mobility-aircraft-wing/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/lrc-2025-ocio-01224.jpg",
-    "news_site": "NASA",
-    "summary": "The advanced air mobility industry is currently working to produce novel aircraft ranging from air taxis to autonomous cargo drones, and all of those designs will require extensive testing – which is why NASA is working to give them a head-start by studying a special kind of model wing. The wing is a scale model […]",
-    "published_at": "2025-08-07T17:31:58Z",
-    "updated_at": "2025-08-07T17:40:14.991905Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA is studying a special kind of model wing. The wing is a scale model of a design used in a type of aircraft called a “tiltwing.” This allows the aircraft to take off, hover, and land like a helicopter, or fly like a fixed-wing airplane."
-  },
-  {
-    "id": 32523,
-    "title": "NASA’s Artemis II Crew Trains in Orion",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-trains-in-orion/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/54699815290-5cb6508dd2-o.jpg",
-    "news_site": "NASA",
-    "summary": "The Artemis II crew (from left to right) CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman don their Orion Crew Survival System Suits for a multi-day crew module training beginning July 31, 2025, at the agency’s Kennedy Space Center in Florida. Behind the crew, wearing clean room apparel, […]",
-    "published_at": "2025-08-07T15:44:16Z",
-    "updated_at": "2025-08-07T15:50:12.176735Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Artemis II crew will begin training on July 31, 2025, at the agency’s Kennedy Space Center in Florida. Testing included a suited crew test and crew equipment interface test. This series of tests marks the first time the crew entered their spacecraft that will take them around the Moon."
-  },
-  {
-    "id": 32521,
-    "title": "NASA’s Webb Finds New Evidence for Planet Around Closest Solar Twin",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-finds-new-evidence-for-planet-around-closest-solar-twin/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01K0FMETMS0VXZ8BNRCB205DKK-5K.tif",
-    "news_site": "NASA",
-    "summary": "Astronomers using NASA’s James Webb Space Telescope have found strong evidence of a giant planet orbiting a star in the stellar system closest to our own Sun. At just 4 light-years away from Earth, the Alpha Centauri triple star system has long been a compelling target in the search for worlds beyond our solar system. […]",
-    "published_at": "2025-08-07T15:00:00Z",
-    "updated_at": "2025-08-07T15:10:11.503730Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Astronomers using NASA’s James Webb Space Telescope have found strong evidence of a giant planet orbiting a star in the stellar system closest to our own Sun. At just 4 light-years away from Earth, the Alpha Centauri triple star system has long been a compelling target in the search for worlds beyond our solar system. If confirmed, the potential planet seen in the Webb image of Alpha Centauri A would mark a new milestone for exoplanet imaging efforts. The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars."
   }
 ]
