@@ -1,5 +1,75 @@
 [
   {
+    "id": 32587,
+    "title": "MetOp-SG-A1 and Sentinel-5 launch highlights",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_launch_highlights",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/metop-sg-a1_and_sentinel-5_launch_highlights/26830736-2-eng-GB/MetOp-SG-A1_and_Sentinel-5_launch_highlights_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Europe’s first MetOp Second Generation, MetOp-SG-A1, weather satellite – which hosts the Copernicus Sentinel-5 mission –  has launched aboard an Ariane 6 rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on 13 August at 02:37 CEST (12 August 21:37 Kourou time).",
+    "published_at": "2025-08-13T10:00:00Z",
+    "updated_at": "2025-08-13T10:05:45.963306Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "1b9bed2f-7e00-4d95-b5d1-7b71c36a4ab1",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "Europe’s first MetOp Second Generation, MetOp-SG-A1, weather satellite – which hosts the Copernicus Sentinel-5 mission – has launched aboard an Ariane 6 rocket. The rocket lifted off on 13 August at 02:37 CEST (12 August 21:37 Kourou time) It is the first in a series of three successive pairs of satellites."
+  },
+  {
+    "id": 32586,
+    "title": "EDGX Secures €2.3M to Build AI In-Orbit Data Processing System",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/edgx-secures-e2-3m-to-build-ai-in-orbit-data-processing-system/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/Screenshot-2025-08-13-at-11.20.38.png",
+    "news_site": "European Spaceflight",
+    "summary": "Belgium-based startup EDGX announced on 11 August that it had secured €2.3 million in seed funding to develop a high-performance, AI-capable on-board computer that will process data collected by a satellite’s sensors directly in orbit. Founded in 2023, EDGX is developing its Sterna on-board computer and the SpaceFeather software that will power it. It aims […]\nThe post EDGX Secures €2.3M to Build AI In-Orbit Data Processing System appeared first on European Spaceflight.",
+    "published_at": "2025-08-13T09:25:35Z",
+    "updated_at": "2025-08-13T09:30:12.236942Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Belgium-based startup EDGX announced on 11 August that it had secured €2.3 million in seed funding to develop a high-performance, AI-capable on-board computer. The company is currently preparing for its initial demonstration mission, dubbed Early Bird, which is scheduled to launch in February 2026 aboard a SpaceX Falcon 9. According to the company, it has already secured a €1.1 million commercial contract with an undisclosed satellite operator."
+  },
+  {
+    "id": 32585,
+    "title": "MetOp-SG-A1 and Sentinel-5 launch on Ariane 6",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_launch_on_Ariane_6",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/metop-sg-a1_and_sentinel-5_launch_on_ariane_6/26830646-3-eng-GB/MetOp-SG-A1_and_Sentinel-5_launch_on_Ariane_6_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Europe’s first MetOp Second Generation, MetOp-SG-A1, weather satellite – which hosts the Copernicus Sentinel-5 mission –  has launched aboard an Ariane 6 rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on 13 August at 02:37 CEST (12 August 21:37 Kourou time).",
+    "published_at": "2025-08-13T06:00:00Z",
+    "updated_at": "2025-08-13T06:50:20.569523Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "1b9bed2f-7e00-4d95-b5d1-7b71c36a4ab1",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "Europe’s first MetOp Second Generation, MetOp-SG-A1, weather satellite – which hosts the Copernicus Sentinel-5 mission – has launched aboard an Ariane 6 rocket. The rocket lifted off on 13 August at 02:37 CEST (12 August 21:37 Kourou time) It is the first in a series of three successive pairs of satellites."
+  },
+  {
     "id": 32584,
     "title": "First MetOp-SG and Sentinel-5 launched",
     "authors": [
@@ -927,65 +997,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The IMAP mission will study the heliosphere, a vast magnetic bubble created by the Sun. Carruthers will use its ultraviolet cameras to monitor how material from the Sun impacts the outermost part of Earth’s atmosphere. The SWFO-L1 mission will observe solar eruptions, and monitor incoming space weather 24/7. Sara Frazier: 202-853-7191 sarah.frazier@nasa.gov Leejay Lockhart Kennedy Space Center, Florida 321-747-8310 leejay.lockhart@n Nasa.gov NASA explores the unknown in air and space, innovates for the benefit of humanity."
-  },
-  {
-    "id": 32538,
-    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/08/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/01/20240118-Starlink-File-Photo-Feature-Image.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 17-4 mission will add another 24 satellites to the growing megaconstellation in low Earth orbit. SpaceX is targeting the launch of its Falcon 9 rocket from pad 4E at Vandenberg Space Force Base at 8:43 p.m.  PDT (11:43 p.m. EDT / 0343 UTC). ",
-    "published_at": "2025-08-08T16:29:25Z",
-    "updated_at": "2025-08-08T16:30:22.141113Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX is gearing up for its first Falcon 9 rocket launch from the West Coast in nine days with a mission to deliver 24 optimized Starlink V2 Mini satellites into a polar, low Earth orbit. Liftoff from Space Launch Complex 4 East at Vandenberg Space Force Base in California is scheduled for 8:43 p.m. PDT. If SpaceX is able to launch the KF-02 mission for Amazon’s Project Kuiper broadband satellite constellation, Saturday morning, the Starlink 17-4 mission will represent the company's 98th launch of 2025."
-  },
-  {
-    "id": 32537,
-    "title": "Rare Type of Black Hole Snacks on Star",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/rare-type-of-black-hole-snacks-on-star/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/unannotated-full-res-for-display.png",
-    "news_site": "NASA",
-    "summary": "NASA’s Hubble Space Telescope and NASA’s Chandra X-ray Observatory teamed up to identify a new possible example of a rare class of black holes, identified by X-ray emission (in purple) in this image released on July 24, 2025. Called NGC 6099 HLX-1, this bright X-ray source seems to reside in a compact star cluster in a giant elliptical galaxy. […]",
-    "published_at": "2025-08-08T16:11:32Z",
-    "updated_at": "2025-08-08T16:20:09.492160Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": " Hubble Space Telescope and NASA’s Chandra X-ray Observatory teamed up to identify a new possible example of a rare class of black holes. Called NGC 6099 HLX-1, this bright X-rays source seems to reside in a compact star cluster in a giant elliptical galaxy. These rare black holes are called intermediate-mass black holes (IMBHs)"
-  },
-  {
-    "id": 32536,
-    "title": "The Exploration Company Completes Test Campaign for Lunar Lander Engine",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/the-exploration-company-completes-test-campaign-for-lunar-lander-engine/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/The-Exploration-Company-Completes-Test-Campaign-for-Lunar-Lander-Engine.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The Exploration Company has completed a hot fire test campaign for the thrust chamber of its Huracan rocket engine. The testing put the fourth prototype of the thrust chamber through its paces, including introducing deliberate pressure disturbances to assess its performance under stress. Developed to power The Exploration Company’s Nyx Moon spacecraft, the Huracan engine […]\nThe post The Exploration Company Completes Test Campaign for Lunar Lander Engine appeared first on European Spaceflight.",
-    "published_at": "2025-08-08T14:13:34Z",
-    "updated_at": "2025-08-08T14:20:14.670324Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Exploration Company has completed a hot fire test campaign for its Huracan rocket engine. The testing put the fourth prototype of the thrust chamber through its paces, including introducing deliberate pressure disturbances to assess its performance under stress. The Huracan engine will support missions to both lunar orbit and the Moon’s surface. The company has not recently updated progress on its Nyx Moon spacecraft."
   }
 ]
