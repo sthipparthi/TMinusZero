@@ -1,5 +1,65 @@
 [
   {
+    "id": 32584,
+    "title": "First MetOp-SG and Sentinel-5 launched",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_and_Sentinel-5_launched",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/metop-sg-a1_and_sentinel-5_take_to_the_skies/26834648-5-eng-GB/MetOp-SG-A1_and_Sentinel-5_take_to_the_skies_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Ushering in a new era of weather and climate monitoring from polar orbit, the first in a new series of satellites, MetOp Second Generation, has been lofted into orbit aboard an Ariane 6 rocket from the European spaceport in Kourou, French Guiana. As part of this new satellite’s sophisticated instrument package is the new Copernicus Sentinel-5 instrument, which is designed to deliver critical data on air pollutants, ozone and climate-related gases.",
+    "published_at": "2025-08-13T02:50:00Z",
+    "updated_at": "2025-08-13T03:10:13.142231Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "First in a new series of satellites, MetOp Second Generation, has been lofted into orbit aboard an Ariane 6 rocket from the European spaceport in Kourou, French Guiana. As part of this new satellite’s sophisticated instrument package is the new Copernicus Sentinel-5 instrument, which is designed to deliver critical data on air pollutants. Each of the three pairs consists of an A-type and B-type satellite. They carry complementary state-of-the-art instruments to provide high-resolution measurements of temperature, precipitation, clouds and winds for weather forecasting and climate analysis. Each MetOp-SG satellite is fitted with an extra thruster, enabling it to self-destruct in Earth’s atmosphere when the mission is complete. Main stage and solid rocket boosters are responsible for the first phase of flight. The stage is powered by the Vulcain 2.1 engine (fuelled by liquid oxygen and hydrogen), with the main thrust at liftoff provided by the P120C boosters. The upper stage will fire two times to reach the required orbit for this mission."
+  },
+  {
+    "id": 32583,
+    "title": "ULA launches Vulcan rocket on first Space Force mission",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/13/ula-launches-vulcan-rocket-on-first-space-force-mission/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250812_Vulcan_USSF-106_liftoff_AB-1.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Equipped with four solid-fuel strap-on boosters for additional takeoff power, the 198-foot-tall Vulcan's two methane-fueled BE-4 engines thundered to life at 8:56p.m. EDT, instantly propelling the rocket away from pad 41 at the Cape Canaveral Space Force Station. ",
+    "published_at": "2025-08-13T02:48:45Z",
+    "updated_at": "2025-08-13T03:00:20.551010Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "United Launch Alliance fired off it’s first fully operational Vulcan rocket Tuesday. The rocket put on a spectacular sky-lighting show as it roared aloft atop nearly 3 million pounds of thrust. At least two satellites were believed to be on board: one classified spacecraft and an experimental satellite. United Launch Alliance chief executive Tory Bruno spoke with Spaceflight Now’s Stephen Clark at the 32nd Space Symposium in Colorado Springs. ULA President and CEO Tory Bruno said the Vulcan's first stage, using high-performance BE-4 engines, is particularly well suited for launching heavy military payloads into hard-to-reach orbits."
+  },
+  {
+    "id": 32582,
+    "title": "ULA’s Vulcan Centaur Lifts Off on First National Security Mission",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/ulas-vulcan-centaur-lifts-off-on-first-national-security-mission/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/USSF106-on-pad-ULA-on-X-300x169.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "ULA’s new Vulcan Centaur rocket lifted off on a national security mission for the first time this evening. One payload aboard the U.S. Space Force’s USSF-106 mission is the Navigation […]",
+    "published_at": "2025-08-13T02:35:14Z",
+    "updated_at": "2025-08-13T02:40:14.188618Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The U.S. Space Force’s USSF-106 mission is the Navigation Technology Satellite-3 that is testing new technologies for future satellite navigation systems like GPS. NTS-3 is a small spacecraft on a very big rocket being launched in one of its most capable configurations. The USSF is not saying what else is aboard. ULA ended live coverage of the launch before reaching orbit. After intense debate in the Senate, then-Senator Bill Nelson brokered a deal in 2016 setting limits on the number of RD-180s ULA could buy and how long they could be used for military missions. ULA had already begun working on a new rocket by then, reaching agreement in 2014 with Jeff Bezos’s Blue Origin to build the engines."
+  },
+  {
     "id": 32581,
     "title": "B1091 “A Heavy Core in Falcon 9 Clothing”",
     "authors": [
@@ -562,26 +622,6 @@
     "detailed_news": "A lot happens before an Ariane 6 rocket takes off, especially in the last hours before launch. Ground pipes that supply the rocket with its propellants are chilled slowly to avoid stress on the system. Liquid hydrogen flows at –253°C! When the ground pipes are at temperature the upper and core stages are filled with propellants. Final weather checks are performed before an automated sequence starts."
   },
   {
-    "id": 32553,
-    "title": "Ariane 6 infographic: launch pad",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2024/08/Ariane_6_infographic_launch_pad",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/08/ariane_6_infographic_launch_pad/26834695-2-eng-GB/Ariane_6_infographic_launch_pad_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-08-11T09:49:00Z",
-    "updated_at": "2025-08-11T10:30:14.283250Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Ariane 6 launch pad is called ELA-4 for 'Ensemble de Lancement Ariane' It is the fourth launch pad built for Ariane launches from Europe’s Spaceport in French Guiana. E LA-4 was built from the ground up specifically forAriane 6, some previous generation Ariane rockets reused older launch pads."
-  },
-  {
     "id": 32574,
     "title": "Ariane 6 infographic: launch pad",
     "authors": [
@@ -600,6 +640,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Use the weekly Newsquiz to test your knowledge of stories you saw on CNN.com. Today's News Quiz includes a round-up of the most popular stories of the past week. Use the Daily Discussion to help us understand today's featured news stories. Back to the page you came from."
+  },
+  {
+    "id": 32553,
+    "title": "Ariane 6 infographic: launch pad",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2024/08/Ariane_6_infographic_launch_pad",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/08/ariane_6_infographic_launch_pad/26834695-2-eng-GB/Ariane_6_infographic_launch_pad_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-08-11T09:49:00Z",
+    "updated_at": "2025-08-11T10:30:14.283250Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Ariane 6 launch pad is called ELA-4 for 'Ensemble de Lancement Ariane' It is the fourth launch pad built for Ariane launches from Europe’s Spaceport in French Guiana. E LA-4 was built from the ground up specifically forAriane 6, some previous generation Ariane rockets reused older launch pads."
   },
   {
     "id": 32551,
@@ -927,65 +987,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Exploration Company has completed a hot fire test campaign for its Huracan rocket engine. The testing put the fourth prototype of the thrust chamber through its paces, including introducing deliberate pressure disturbances to assess its performance under stress. The Huracan engine will support missions to both lunar orbit and the Moon’s surface. The company has not recently updated progress on its Nyx Moon spacecraft."
-  },
-  {
-    "id": 32535,
-    "title": "Week in images: 04-08 August 2025",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_August_2025",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/hubble_sizes_up_rare_interstellar_comet/26828252-1-eng-GB/Hubble_sizes_up_rare_interstellar_comet_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 04-08 August 2025",
-    "published_at": "2025-08-08T13:15:00Z",
-    "updated_at": "2025-08-08T13:10:18.165158Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. Click here for the next gallery of iReporters' snapshots."
-  },
-  {
-    "id": 32534,
-    "title": "Chinese launch cadence picks up as Tianlong-3 prepares for launch",
-    "authors": [
-      {
-        "name": "Martin Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/china-roundup-08072025/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Tianlong-3-simulator.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "China’s Space Pioneer is preparing for the maiden launch of its Tianlong-3, a vehicle similar…\nThe post Chinese launch cadence picks up as Tianlong-3 prepares for launch appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-08T12:59:10Z",
-    "updated_at": "2025-08-08T13:00:20.405207Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "China launched four satellites in as many days in late July and early August. This included a successful return to flight for iSpace’s Shuang Quxian‑1 (or Hyperbola 1) China is preparing for the maiden launch of its Tianlong-3, a vehicle similar in design, size, and payload capacity to the Falcon 9. This is set to be the first of several commercially developed reusable launchers. Guowang and Qianfan constellations aim to compete with Starlink in size and reach. Both megaconstellations remain limited, for the time being, by the current bottlenecks in launcher availability and the speed of manufacturing the satellites. New commercially developed vehicles are edging closer to their debut launches, while some satellites are being manufactured by more than one company. iSpace has launched its own droneship, dedicated to the Shuang Quxian‑3 (or Hyperbola-3) rocket, as it took to the seas for the first time. Galactic Energy launched three Yunyao satellites aboard a Gushenxing-1S (Ceres 1S) in May. Chinarocket had also lofted ten satellite aboard a Jielong 3 in early January. Construction continues on pads LC-3 and 4 at the HICAL site, which will eventually extend to eight launch pads. Space Pioneer’s Tianlong-3 preparing for maiden launch, potentially in September. The two-stage rocket is similar in size, design, and payload capacity to SpaceX's Falcon 9. Its nine Tianhuo-12 (‘sky fire’) engines burn the same mix of liquid kerosene, also known as RP1, and liquid oxygen. Space Epoch fires a previously flown and recovered Longyun-70 engine. The company aims to conduct the Yuanxingzhe-1’s first orbital launch and sea recovery by the end of the year. Space Epoch has ambitions to launch up to 25 times annually."
-  },
-  {
-    "id": 32532,
-    "title": "Rocket Report: Firefly lights the markets up; SpaceX starts selling trips to Mars",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/08/rocket-report-firefly-lights-the-markets-up-spacex-starts-selling-ships-to-mars/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20250805204418_057650.jpeg",
-    "news_site": "Arstechnica",
-    "summary": "\"Get on board! We are going to Mars!\"",
-    "published_at": "2025-08-08T11:00:14Z",
-    "updated_at": "2025-08-08T11:10:13.257389Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Virgin Galactic delays resumption of spaceflights until 2026. Shares in space company Firefly begin trading at $70 on the NASDAQ. iRocket says it has signed a multi-year agreement with SpaceBelt KSA valued at up to $640 million. New York-based iRocket hasn't released much information on any technical progress. Chennai-based startup Agnikul Cosmos has announced the successful development of the world’s largest single-piece 3D-printed Inconel rocket engine. Skyrora became the first British commercial rocket manufacturer to secure a launch license from the UK Civil Aviation Authority. Crew-11 mission launches from Florida. The head of NASA has decided to move one of the agency's retired space shuttles to Houston. Senator John Cornyn did not state which of NASA's winged orbiters would be making the move. SpaceX has signed a \"first of its kind\" agreement with the Italian Space Agency."
   }
 ]
