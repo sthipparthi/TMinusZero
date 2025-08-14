@@ -1,5 +1,25 @@
 [
   {
+    "id": 32603,
+    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/14/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 10-20 mission will add another 28 broadband internet satellites to SpaceX’s megaconstellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled at 6:47 a.m. EDT (1047 UTC). ",
+    "published_at": "2025-08-14T02:59:27Z",
+    "updated_at": "2025-08-14T03:10:18.486305Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX is preparing to launch a batch of 28 of its Starlink V2 Mini satellites into low Earth orbit minutes before sunrise on Thursday morning. It’s targeting the liftoff of its Falcon 9 rocket on the Starlink 10-20 mission from pad 40 at Cape Canaveral Space Force Station at 6:47 a.m. EDT. This will be the 69th orbital launch from Florida so far this year."
+  },
+  {
     "id": 32602,
     "title": "Trump Issues Executive Order on Commercial Space",
     "authors": [
@@ -180,26 +200,6 @@
     "detailed_news": "Astronomers used Hubble’s Cosmic Origins Spectrograph to investigate a white dwarf called WD 0525+526. Located 128 light-years away, it is 20% more massive than the Sun. In visible light, the spectrum of the white dwarf's atmosphere resembled that of a typical white dwarf. But Hubble's ultraviolet vision revealed that it had a very different history from what we would have guessed. The high temperature and low carbon abundance mean that identifying this white dwarf as the product of a merger would have been impossible without Hubble’s sensitivity to ultraviolet light. Because WD 0525+526's origin was revealed only once astronomers glimpsed its ultraviolet spectrum, it's likely that other seemingly “normal” white dwarfs are actually the result of cosmic collisions."
   },
   {
-    "id": 32598,
-    "title": "Webb Narrows Atmospheric Possibilities for Earth-sized Exoplanet TRAPPIST-1 d",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/webb/webb-narrows-atmospheric-possibilities-for-earth-sized-exoplanet-trappist-1-d/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01K0FMNPBZFCKFBF8Z5KZG17JR-4K.tif",
-    "news_site": "NASA",
-    "summary": "The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from NASA’s James Webb Space Telescope, […]",
-    "published_at": "2025-08-13T14:00:00Z",
-    "updated_at": "2025-08-13T16:10:08.566608Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The TRAPPIST-1 system is located 40 light-years away and was revealed as the record-holder for most Earth-sized rocky planets around a single star in 2017. Scientists are motivated to seek signs of atmospheres because red dwarf stars are the most common stars in our galaxy. If planets can hold on to an atmosphere, under waves of harsh stellar radiation, they could, as the saying goes, make it anywhere. The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars. It studies every phase in the… Exoplanets Stars Universe NASA explores the unknown in air and space, innovates for the benefit of humanity."
-  },
-  {
     "id": 32595,
     "title": "NASA’s SpaceX-33 Resupply Mission Launches Research to Station",
     "authors": [
@@ -218,6 +218,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory in late August. For nearly 25 years, the International Space Station has provided research capabilities used by scientists from over 110 countries to conduct more than 4,000 groundbreaking experiments in microgravity. Research conducted aboard the space station advances future space exploration. This investigation is a continuation of ESA’s efforts to develop in-space manufacturing and materials recycling capabilities. The ESA investigation team includes Airbus Defence and Space SAS and the User Support Centre CADMOS in France. Learn more about the research aboard the International Space Station at: www.nasa.gov/iss-science."
+  },
+  {
+    "id": 32598,
+    "title": "Webb Narrows Atmospheric Possibilities for Earth-sized Exoplanet TRAPPIST-1 d",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/webb-narrows-atmospheric-possibilities-for-earth-sized-exoplanet-trappist-1-d/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01K0FMNPBZFCKFBF8Z5KZG17JR-4K.tif",
+    "news_site": "NASA",
+    "summary": "The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from NASA’s James Webb Space Telescope, […]",
+    "published_at": "2025-08-13T14:00:00Z",
+    "updated_at": "2025-08-13T16:10:08.566608Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The TRAPPIST-1 system is located 40 light-years away and was revealed as the record-holder for most Earth-sized rocky planets around a single star in 2017. Scientists are motivated to seek signs of atmospheres because red dwarf stars are the most common stars in our galaxy. If planets can hold on to an atmosphere, under waves of harsh stellar radiation, they could, as the saying goes, make it anywhere. The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars. It studies every phase in the… Exoplanets Stars Universe NASA explores the unknown in air and space, innovates for the benefit of humanity."
   },
   {
     "id": 32591,
@@ -970,25 +990,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Juliana Barajas is an administrative assistant in the Safety and Mission Assurance Office at NASA’s White Sands Test Facility in Las Cruces, New Mexico. “If I can help those around me succeed, then I have fulfilled my duty,” she said. She hopes to pass on courage, resilience, and the determination to persevere."
-  },
-  {
-    "id": 32575,
-    "title": "Ariane 6 infographic: countdown to liftoff",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/Ariane_6_infographic_countdown_to_liftoff",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/ariane_6_infographic_countdown_to_liftoff/26837983-2-eng-GB/Ariane_6_infographic_countdown_to_liftoff_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-08-11T09:49:00Z",
-    "updated_at": "2025-08-12T16:10:13.066523Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A lot happens before an Ariane 6 rocket takes off, especially in the last hours before launch. Ground pipes that supply the rocket with its propellants are chilled slowly to avoid stress on the system. Liquid hydrogen flows at –253°C! When the ground pipes are at temperature the upper and core stages are filled with propellants. Final weather checks are performed before an automated sequence starts."
   }
 ]
