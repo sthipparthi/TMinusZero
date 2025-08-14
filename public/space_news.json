@@ -1,5 +1,85 @@
 [
   {
+    "id": 32602,
+    "title": "Trump Issues Executive Order on Commercial Space",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/trump-issues-executive-order-on-commercial-space/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Trump-EO-policy-300x59.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "President Trump issued a broad Executive Order this afternoon addressing commercial space activities overseen by the Department of Transportation and the Department of Commerce.  Among the provisions, DOT must reform […]",
+    "published_at": "2025-08-13T23:17:04Z",
+    "updated_at": "2025-08-13T23:20:14.865999Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "President Trump issued a broad Executive Order this afternoon addressing commercial space activities. DOT must reform regulations for commercial space launch and reentry and several agencies working together to advance development of spaceport infrastructure. The Executive Order, “ Enabling Competition in the Commercial Space Industry, ” is reminiscent of Trump’s Space Policy Directive-3."
+  },
+  {
+    "id": 32601,
+    "title": "U.S. Transportation Secretary & Acting NASA Administrator Sean P. Duffy Joins President Trump Executive Order Signing to Boost U.S. Space Competitiveness",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/u-s-transportation-secretary-acting-nasa-administrator-sean-p-duffy-joins-president-trump-executive-order-signing-to-boost-u-s-space-competitiveness/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2024/04/meatball.png",
+    "news_site": "NASA",
+    "summary": "U.S. Transportation Secretary and acting NASA Administrator Sean Duffy joined President Donald J. Trump at the White House Wednesday for the historic signing of the Executive Order (EO), “Enabling Competition in the Commercial Space Industry.” “People think the Department of Transportation (DOT) is just planes, trains, and automobiles – but we have a critical role […]",
+    "published_at": "2025-08-13T23:07:45Z",
+    "updated_at": "2025-08-13T23:10:08.318436Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "U.S. Transportation Secretary and acting NASA Administrator Sean Duffy joined President Donald J. Trump at the White House Wednesday for the historic signing of the Executive Order. “People think the Department of Transportation (DOT) is just planes, trains, and automobiles – but we have a critical role to play in unlocking the final frontier,” said Duffy."
+  },
+  {
+    "id": 32600,
+    "title": "Ship 37 completes a Spin Prime test following Engine Swap",
+    "authors": [
+      {
+        "name": "Ryan Weber",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/08/ship-37-spin-prime-engine-swap/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Ship-37-mounted-on-Pad-1-A-Again-for-engine-testing-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "The target launch date for Flight 10 is one step closer after the retest of…\nThe post Ship 37 completes a Spin Prime test following Engine Swap appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-08-13T22:01:41Z",
+    "updated_at": "2025-08-13T22:10:21.430791Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX has completed a pair of static fires on Pad 1 (A) and returned Ship 37 to Mega Bay 2 for more engine testing. The target launch date for Flight 10 is one step closer after the retest of Ship 37, which followed an engine change. The launch pad teams quickly uninstalled all of the modifications and re-installing 16 out of 20 booster hold-down clamps. Ship 37 completed a six engine spin prime during the second closure of Mega Bay 1. With this testing completed, Ship 37 will likely roll back to Mega Bay 2 for final launch preparations and checkouts. SpaceX will likely load the dummy Starlinks for the fourth time on a ship, in an attempt to test the pez deploy system in space."
+  },
+  {
+    "id": 32599,
+    "title": "The NASA RASC-AL 2026 Competition",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-rasc-al-2026-competition/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/rascal.png",
+    "news_site": "NASA",
+    "summary": "NASA is calling on the next generation of collegiate innovators to imagine bold new concepts pushing the boundaries of human exploration on the Moon, Mars, and beyond through the 2026 NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition. The RASC-AL challenge fuels innovation for aerospace systems concepts, analogs, and technology prototyping by bridging […]",
+    "published_at": "2025-08-13T20:01:00Z",
+    "updated_at": "2025-08-13T20:10:11.024954Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "2026 NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition. Challenge fuels innovation for aerospace systems concepts, analogs, and technology prototyping. Award: $112,000 in total prizes. Open Date: August 13, 2025 Close Date: February 23, 2026"
+  },
+  {
     "id": 32597,
     "title": "Alligator Goes for a Swim",
     "authors": [
@@ -120,26 +200,6 @@
     "detailed_news": "The TRAPPIST-1 system is located 40 light-years away and was revealed as the record-holder for most Earth-sized rocky planets around a single star in 2017. Scientists are motivated to seek signs of atmospheres because red dwarf stars are the most common stars in our galaxy. If planets can hold on to an atmosphere, under waves of harsh stellar radiation, they could, as the saying goes, make it anywhere. The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars. It studies every phase in the… Exoplanets Stars Universe NASA explores the unknown in air and space, innovates for the benefit of humanity."
   },
   {
-    "id": 32591,
-    "title": "No Earth-like atmosphere on TRAPPIST-1 d",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/No_Earth-like_atmosphere_on_TRAPPIST-1_d",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/artist_impression_of_trappist-1_d/26837028-1-eng-GB/Artist_impression_of_TRAPPIST-1_d_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from the NASA/ESA/CSA James Webb Space Telescope, it does not have an Earth-like atmosphere.",
-    "published_at": "2025-08-13T14:00:00Z",
-    "updated_at": "2025-08-13T14:00:18.810838Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The TRAPPIST-1 system contains seven Earth-sized worlds orbiting the most common type of star in the galaxy: a red dwarf. Webb’s NIRSpec (Near-Infrared Spectrograph) instrument did not detect molecules that are common in Earth's atmosphere, like water, methane, or carbon dioxide. Webb observations of the outer TRAPPIST-1 planets are ongoing, which hold both potential and peril. On the one hand, planets e, f, g, and h may have better chances of having atmospheres because they are further away from the energetic eruptions of their host star. But their distance and colder environment will make atmospheric signatures more difficult to detect."
-  },
-  {
     "id": 32595,
     "title": "NASA’s SpaceX-33 Resupply Mission Launches Research to Station",
     "authors": [
@@ -158,6 +218,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory in late August. For nearly 25 years, the International Space Station has provided research capabilities used by scientists from over 110 countries to conduct more than 4,000 groundbreaking experiments in microgravity. Research conducted aboard the space station advances future space exploration. This investigation is a continuation of ESA’s efforts to develop in-space manufacturing and materials recycling capabilities. The ESA investigation team includes Airbus Defence and Space SAS and the User Support Centre CADMOS in France. Learn more about the research aboard the International Space Station at: www.nasa.gov/iss-science."
+  },
+  {
+    "id": 32591,
+    "title": "No Earth-like atmosphere on TRAPPIST-1 d",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/No_Earth-like_atmosphere_on_TRAPPIST-1_d",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/artist_impression_of_trappist-1_d/26837028-1-eng-GB/Artist_impression_of_TRAPPIST-1_d_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from the NASA/ESA/CSA James Webb Space Telescope, it does not have an Earth-like atmosphere.",
+    "published_at": "2025-08-13T14:00:00Z",
+    "updated_at": "2025-08-13T14:00:18.810838Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The TRAPPIST-1 system contains seven Earth-sized worlds orbiting the most common type of star in the galaxy: a red dwarf. Webb’s NIRSpec (Near-Infrared Spectrograph) instrument did not detect molecules that are common in Earth's atmosphere, like water, methane, or carbon dioxide. Webb observations of the outer TRAPPIST-1 planets are ongoing, which hold both potential and peril. On the one hand, planets e, f, g, and h may have better chances of having atmospheres because they are further away from the energetic eruptions of their host star. But their distance and colder environment will make atmospheric signatures more difficult to detect."
   },
   {
     "id": 32588,
@@ -910,85 +990,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "A lot happens before an Ariane 6 rocket takes off, especially in the last hours before launch. Ground pipes that supply the rocket with its propellants are chilled slowly to avoid stress on the system. Liquid hydrogen flows at –253°C! When the ground pipes are at temperature the upper and core stages are filled with propellants. Final weather checks are performed before an automated sequence starts."
-  },
-  {
-    "id": 32574,
-    "title": "Ariane 6 infographic: launch pad",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/Ariane_6_infographic_launch_pad",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/ariane_6_infographic_launch_pad/26834695-2-eng-GB/Ariane_6_infographic_launch_pad_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-08-11T09:49:00Z",
-    "updated_at": "2025-08-12T15:50:14.078891Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Use the weekly Newsquiz to test your knowledge of stories you saw on CNN.com. Today's News Quiz includes a round-up of the most popular stories of the past week. Use the Daily Discussion to help us understand today's featured news stories. Back to the page you came from."
-  },
-  {
-    "id": 32553,
-    "title": "Ariane 6 infographic: launch pad",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2024/08/Ariane_6_infographic_launch_pad",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/08/ariane_6_infographic_launch_pad/26834695-2-eng-GB/Ariane_6_infographic_launch_pad_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-08-11T09:49:00Z",
-    "updated_at": "2025-08-11T10:30:14.283250Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Ariane 6 launch pad is called ELA-4 for 'Ensemble de Lancement Ariane' It is the fourth launch pad built for Ariane launches from Europe’s Spaceport in French Guiana. E LA-4 was built from the ground up specifically forAriane 6, some previous generation Ariane rockets reused older launch pads."
-  },
-  {
-    "id": 32551,
-    "title": "Hera observes asteroids as DART reveals more about its destination",
-    "authors": [
-      {
-        "name": "Martijn Luinstra",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/hera-dart-reveals-destination/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Hera_her_CubeSats_and_their_rocky_target_destination.png",
-    "news_site": "NASASpaceflight",
-    "summary": "Travelling through the asteroid belt, the European Space Agency’s Hera spacecraft has taken its first…\nThe post Hera observes asteroids as DART reveals more about its destination appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-10T21:35:57Z",
-    "updated_at": "2025-08-10T21:40:12.443693Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The European Space Agency’s Hera spacecraft has taken its first images of asteroids. The spacecraft is heading toward asteroid 65803 Didymos and its companion Dimorphos, on a mission to study the results of an intentional collision. The Double Asteroid Redirection Test (DART) crashed into Dimmorphos on Sept 26, 2022, intending to change the asteroid’'s course. Together, DART and Hera lay the foundations for future planetary protection missions. Team reprocessed to remove noise and enhance the visibility of individual pieces of debris. They identified 104 boulders ranging from 20 cm to 3.6 m in diameter, hurtling away from the asteroid at speeds up to 52 m/s. Many of these boulders were found outside the main dust plume, indicating that they might have originated from collisions with different parts of the spacecraft. Hera will deploy a pair of CubeSats that will help study the asteroids in more detail. The first, called Milani, will study the dust surrounding Dimorphos and take spectral images of both asteroids. The other spacecraft, named Juventas, will line up with Hera to perform radio science experiments and study the interior of Didymos. Missions like DART, Hera, and Ramses will help astronomers better understand asteroids and the threat they might pose to our planet and its inhabitants. These missions prepare space agencies and the space industry to quickly respond to these threats. All findings from these missions, including the tiny changes to Dimorphis’ orbital inclination, add to the body of knowledge that might eventually save our planet."
-  },
-  {
-    "id": 32550,
-    "title": "What’s Happening in Space Policy August 10-16, 2025",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-10-16-2025/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2024/04/Nicky-Fox-232x300.webp",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of August 10-16, 2025 and any insight we can offer about them. The House and Senate are in recess […]",
-    "published_at": "2025-08-10T20:56:22Z",
-    "updated_at": "2025-08-10T21:00:16.987038Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The 39th annual Small Satellite Conference, SmallSat, takes place for the first time somewhere other than Utah State University in Logan, Utah. About 4,000 people from 1,300 organizations and 45 countries are expected. On the launch front, the big event is ULA’s first Vulcan mission for the U.S. Space Force. We’re especially looking forward to Space News’ webinar on Space Based Solar Power (SBSP) NASA's Office of Technology, Policy and Strategy took a new look last year focused on whether SPS is an option to achieve net-zero greenhouse gas emissions. The third panelist on Thursday, Martin Soltau, clearly disagrees. He’s co-CEO of Space Solar , a U.K. company whose “single corporate priority” is developing SBSP."
   }
 ]
