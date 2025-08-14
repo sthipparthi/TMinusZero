@@ -1,5 +1,45 @@
 [
   {
+    "id": 32605,
+    "title": "NASA Glenn Earns Commercial Invention of the Year Award",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-earns-commercial-invention-of-the-year-award/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/grc-2023-c-02304.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Inventions and Contributions Board (ICB) has awarded Commercial Invention of the Year to NASA Glenn Research Center’s GRX-810: A 3D Printable Alloy Designed for Extreme Environments.   NASA Alloy GRX–810, an oxide dispersion strengthened (ODS) alloy, can endure temperatures over 2,000 degrees Fahrenheit. It is more malleable and can survive more than 1,000 times longer […]",
+    "published_at": "2025-08-14T11:56:06Z",
+    "updated_at": "2025-08-14T12:00:10.535502Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA Glenn Research Center’s GRX-810: A 3D Printable Alloy Designed for Extreme Environments. GRX–810, an oxide dispersion strengthened (ODS) alloy, can endure temperatures over 2,000 degrees Fahrenheit. It is more malleable and can survive more than 1,000 times longer than existing state-of-the-art alloys."
+  },
+  {
+    "id": 32604,
+    "title": "NASA Tests Research Aircraft to Improve Air Taxi Flight Controls",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/aeronautics/air-taxi-flight-controls/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/raven-first-flight-april-2025-straight-angle.jpg",
+    "news_site": "NASA",
+    "summary": "Flying the friendly skies may one day include time-saving trips in air taxis to get from point A to point B – and NASA researchers are currently working to make that future a reality. They are using wind tunnel and flight tests to gather data on an electric Vertical takeoff and landing (eVTOL) scaled-down small […]",
+    "published_at": "2025-08-14T10:00:00Z",
+    "updated_at": "2025-08-14T10:00:15.956459Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA researchers are using wind tunnel and flight tests to gather data on an electric Vertical takeoff and landing (eVTOL) small aircraft. The small aircraft weighs 38 pounds with a wingspan of six feet and has 24 independently moving components. The testing is ongoing at NASA’s Langley Research Center in Hampton, Virginia. NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. missions Artemis Aeronautics STEM Explore NASA’s History NASA: The Journey Through Space and Beyond. Artemis: The journey through space and beyond."
+  },
+  {
     "id": 32603,
     "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
     "authors": [
@@ -200,26 +240,6 @@
     "detailed_news": "Astronomers used Hubble’s Cosmic Origins Spectrograph to investigate a white dwarf called WD 0525+526. Located 128 light-years away, it is 20% more massive than the Sun. In visible light, the spectrum of the white dwarf's atmosphere resembled that of a typical white dwarf. But Hubble's ultraviolet vision revealed that it had a very different history from what we would have guessed. The high temperature and low carbon abundance mean that identifying this white dwarf as the product of a merger would have been impossible without Hubble’s sensitivity to ultraviolet light. Because WD 0525+526's origin was revealed only once astronomers glimpsed its ultraviolet spectrum, it's likely that other seemingly “normal” white dwarfs are actually the result of cosmic collisions."
   },
   {
-    "id": 32595,
-    "title": "NASA’s SpaceX-33 Resupply Mission Launches Research to Station",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-33-resupply-mission-launches-research-to-station/",
-    "image_url": "https://images-assets.nasa.gov/image/jsc2025e064331/jsc2025e064331~orig.jpg",
-    "news_site": "NASA",
-    "summary": "Research traveling to the International Space Station aboard NASA’s SpaceX 33rd commercial resupply mission includes testing 3D bioprinting of an implantable medical device, observing behavior of engineered liver tissues, examining microgravity’s effects on bone-forming cells, and additional 3D printing of metal in space. The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory […]",
-    "published_at": "2025-08-13T14:00:00Z",
-    "updated_at": "2025-08-13T15:10:09.217493Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory in late August. For nearly 25 years, the International Space Station has provided research capabilities used by scientists from over 110 countries to conduct more than 4,000 groundbreaking experiments in microgravity. Research conducted aboard the space station advances future space exploration. This investigation is a continuation of ESA’s efforts to develop in-space manufacturing and materials recycling capabilities. The ESA investigation team includes Airbus Defence and Space SAS and the User Support Centre CADMOS in France. Learn more about the research aboard the International Space Station at: www.nasa.gov/iss-science."
-  },
-  {
     "id": 32598,
     "title": "Webb Narrows Atmospheric Possibilities for Earth-sized Exoplanet TRAPPIST-1 d",
     "authors": [
@@ -238,6 +258,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "The TRAPPIST-1 system is located 40 light-years away and was revealed as the record-holder for most Earth-sized rocky planets around a single star in 2017. Scientists are motivated to seek signs of atmospheres because red dwarf stars are the most common stars in our galaxy. If planets can hold on to an atmosphere, under waves of harsh stellar radiation, they could, as the saying goes, make it anywhere. The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars. It studies every phase in the… Exoplanets Stars Universe NASA explores the unknown in air and space, innovates for the benefit of humanity."
+  },
+  {
+    "id": 32595,
+    "title": "NASA’s SpaceX-33 Resupply Mission Launches Research to Station",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-33-resupply-mission-launches-research-to-station/",
+    "image_url": "https://images-assets.nasa.gov/image/jsc2025e064331/jsc2025e064331~orig.jpg",
+    "news_site": "NASA",
+    "summary": "Research traveling to the International Space Station aboard NASA’s SpaceX 33rd commercial resupply mission includes testing 3D bioprinting of an implantable medical device, observing behavior of engineered liver tissues, examining microgravity’s effects on bone-forming cells, and additional 3D printing of metal in space. The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory […]",
+    "published_at": "2025-08-13T14:00:00Z",
+    "updated_at": "2025-08-13T15:10:09.217493Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory in late August. For nearly 25 years, the International Space Station has provided research capabilities used by scientists from over 110 countries to conduct more than 4,000 groundbreaking experiments in microgravity. Research conducted aboard the space station advances future space exploration. This investigation is a continuation of ESA’s efforts to develop in-space manufacturing and materials recycling capabilities. The ESA investigation team includes Airbus Defence and Space SAS and the User Support Centre CADMOS in France. Learn more about the research aboard the International Space Station at: www.nasa.gov/iss-science."
   },
   {
     "id": 32591,
@@ -945,50 +985,5 @@
     ],
     "events": [],
     "detailed_news": "MetOp-SG-A1 is the first in a series of three successive pairs of satellites. It carries six instruments: a next-generation infrared atmospheric sounder, a microwave sounder and a multispectral imaging radiometer. The European Commission’s Copernicus Sentinel-5 spectrometer is also onboard."
-  },
-  {
-    "id": 32567,
-    "title": "The top of Ariane 6 with MetOp-SG-A1",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/The_top_of_Ariane_6_with_MetOp-SG-A1",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/the_top_of_ariane_6_with_metop-sg-a1/26836306-2-eng-GB/The_top_of_Ariane_6_with_MetOp-SG-A1_pillars.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-08-11T11:55:00Z",
-    "updated_at": "2025-08-12T07:36:58.690656Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "1b9bed2f-7e00-4d95-b5d1-7b71c36a4ab1",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "MetOp-SG-A1 is the first in a series of three successive pairs of satellites. The mission as a whole ensures the continued delivery of global observations from polar orbit for weather forecasting and climate analysis for more than 20 years. The missions will launch on an Ariane 6 with two boosters."
-  },
-  {
-    "id": 32552,
-    "title": "Juliana Barajas: Supporting NASA’s Mission, One Task at a Time",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/white-sands/juliana-barajas-supporting-nasas-mission-one-task-at-a-time/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/07/image000000-e1751903895730.jpg",
-    "news_site": "NASA",
-    "summary": "As an administrative assistant in the Safety and Mission Assurance Office at NASA’s White Sands Test Facility in Las Cruces, New Mexico, Juliana Barajas approaches her work with one clear mission: to help others succeed.   For over two decades, she has supported NASA’s mission with a career grounded in service, perseverance, and gratitude. Whether coordinating […]",
-    "published_at": "2025-08-11T10:00:00Z",
-    "updated_at": "2025-08-11T10:10:07.543566Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Juliana Barajas is an administrative assistant in the Safety and Mission Assurance Office at NASA’s White Sands Test Facility in Las Cruces, New Mexico. “If I can help those around me succeed, then I have fulfilled my duty,” she said. She hopes to pass on courage, resilience, and the determination to persevere."
   }
 ]
