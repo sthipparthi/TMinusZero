@@ -14,11 +14,13 @@ function App() {
   // Space agencies tabs
   const spaceAgencies = [
     { id: "all", name: "Space News" },
+    { id: "isro", name: "ISRO" },
     { id: "nasa", name: "NASA" },
     { id: "spacex", name: "SpaceX" },
-    { id: "isro", name: "ISRO" },
+    { id: "cnsa", name: "CNSA" },
     { id: "jaxa", name: "JAXA" },
     { id: "esa", name: "ESA" },
+    { id: "csa", name: "CSA" },
     { id: "roscosmos", name: "Roscosmos" },
     { id: "blue-origin", name: "Blue Origin" },
     { id: "virgin-galactic", name: "Virgin Galactic" },
