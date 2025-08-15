@@ -1,5 +1,25 @@
 [
   {
+    "id": 32620,
+    "title": "Hubble Examines Low Brightness, High Interest Galaxy",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/hubble-examines-low-brightness-high-interest-galaxy/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/Hubble_NGC45_potw2532a.jpg",
+    "news_site": "NASA",
+    "summary": "This NASA/ESA Hubble Space Telescope image zooms in on the feathery spiral arms of the galaxy NGC 45, which lies just 22 million light-years away in the constellation Cetus (the Whale). The portrait uses data drawn from two complementary observing programs. The first took a broad view of 50 nearby galaxies, leveraging Hubble’s ability to […]",
+    "published_at": "2025-08-15T11:00:00Z",
+    "updated_at": "2025-08-15T11:10:12.846219Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NGC 45 lies just 22 million light-years away in the constellation Cetus (the Whale) NGC 45 is a remarkable type called a low surface brightness galaxy. Low surface brightness galaxies are fainter than the night sky itself. Studying these hard-to-detect galaxies is key to understanding how galaxies form and evolve."
+  },
+  {
     "id": 32619,
     "title": "Curiosity Blog, Sols 4627-4628: A Ridge Stop in the Boxworks",
     "authors": [
@@ -520,26 +540,6 @@
     "detailed_news": "Astronomers used Hubble’s Cosmic Origins Spectrograph to investigate a white dwarf called WD 0525+526. Located 128 light-years away, it is 20% more massive than the Sun. In visible light, the spectrum of the white dwarf's atmosphere resembled that of a typical white dwarf. But Hubble's ultraviolet vision revealed that it had a very different history from what we would have guessed. The high temperature and low carbon abundance mean that identifying this white dwarf as the product of a merger would have been impossible without Hubble’s sensitivity to ultraviolet light. Because WD 0525+526's origin was revealed only once astronomers glimpsed its ultraviolet spectrum, it's likely that other seemingly “normal” white dwarfs are actually the result of cosmic collisions."
   },
   {
-    "id": 32591,
-    "title": "No Earth-like atmosphere on TRAPPIST-1 d",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/No_Earth-like_atmosphere_on_TRAPPIST-1_d",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/artist_impression_of_trappist-1_d/26837028-1-eng-GB/Artist_impression_of_TRAPPIST-1_d_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from the NASA/ESA/CSA James Webb Space Telescope, it does not have an Earth-like atmosphere.",
-    "published_at": "2025-08-13T14:00:00Z",
-    "updated_at": "2025-08-13T14:00:18.810838Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The TRAPPIST-1 system contains seven Earth-sized worlds orbiting the most common type of star in the galaxy: a red dwarf. Webb’s NIRSpec (Near-Infrared Spectrograph) instrument did not detect molecules that are common in Earth's atmosphere, like water, methane, or carbon dioxide. Webb observations of the outer TRAPPIST-1 planets are ongoing, which hold both potential and peril. On the one hand, planets e, f, g, and h may have better chances of having atmospheres because they are further away from the energetic eruptions of their host star. But their distance and colder environment will make atmospheric signatures more difficult to detect."
-  },
-  {
     "id": 32595,
     "title": "NASA’s SpaceX-33 Resupply Mission Launches Research to Station",
     "authors": [
@@ -558,6 +558,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory in late August. For nearly 25 years, the International Space Station has provided research capabilities used by scientists from over 110 countries to conduct more than 4,000 groundbreaking experiments in microgravity. Research conducted aboard the space station advances future space exploration. This investigation is a continuation of ESA’s efforts to develop in-space manufacturing and materials recycling capabilities. The ESA investigation team includes Airbus Defence and Space SAS and the User Support Centre CADMOS in France. Learn more about the research aboard the International Space Station at: www.nasa.gov/iss-science."
+  },
+  {
+    "id": 32591,
+    "title": "No Earth-like atmosphere on TRAPPIST-1 d",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/No_Earth-like_atmosphere_on_TRAPPIST-1_d",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/artist_impression_of_trappist-1_d/26837028-1-eng-GB/Artist_impression_of_TRAPPIST-1_d_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from the NASA/ESA/CSA James Webb Space Telescope, it does not have an Earth-like atmosphere.",
+    "published_at": "2025-08-13T14:00:00Z",
+    "updated_at": "2025-08-13T14:00:18.810838Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The TRAPPIST-1 system contains seven Earth-sized worlds orbiting the most common type of star in the galaxy: a red dwarf. Webb’s NIRSpec (Near-Infrared Spectrograph) instrument did not detect molecules that are common in Earth's atmosphere, like water, methane, or carbon dioxide. Webb observations of the outer TRAPPIST-1 planets are ongoing, which hold both potential and peril. On the one hand, planets e, f, g, and h may have better chances of having atmospheres because they are further away from the energetic eruptions of their host star. But their distance and colder environment will make atmospheric signatures more difficult to detect."
   },
   {
     "id": 32598,
@@ -955,25 +975,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "MetOp-SG-A1 is the first in a series of three successive pairs of satellites. Will provide global observations from polar orbit for weather forecasting and climate analysis for more than 20 years. Will launch on an Ariane 6 rocket from Europe’s Spaceport in Kourou, French Guiana on August 2025."
-  },
-  {
-    "id": 32570,
-    "title": "Live coverage: ULA to launch first national security mission on a Vulcan rocket",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/12/live-coverage-ula-to-launch-first-national-security-mission-on-a-vulcan-rocket/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250811_Vulcan_USSF-106_prelaunch_MC-1.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The mission, dubbed USSF-106, will be the first Vulcan rocket launch since the vehicle was certified by the United States Space Force in late March. Liftoff from pad 41 at Cape Canaveral Space Force Station is schedule for 7:59 p.m. EDT (2359 UTC). ",
-    "published_at": "2025-08-12T11:34:19Z",
-    "updated_at": "2025-08-12T11:40:19.455761Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The United States Space Force (USSF)-106 mission is scheduled to launch from Cape Canaveral on Tuesday. The rocket will carry a pair of satellites to geoscynchronous orbit. The launch marks ULA's return to launching payloads as part of the National Security Space Launch (NSSL) program. The USSF-106 mission is comprised of two satellites. One of those remains a mystery with Space Force officials unwilling to provide any details. The other, which is described as the primary payload onboard the Vulcan rocket is the brainchild of the Air Force Research Laboratory. The mission and launch together come with a $250 million price tag. NTS-3 is being tested in the laboratory as well as out in the field. Some of the learns from this, like calibrating a spot beam antenna, can be applied to the next generation of GPS satellites, called GPS 3-F. The prime contractor that manufactured the satellite is L3Harris Technologies."
   }
 ]
