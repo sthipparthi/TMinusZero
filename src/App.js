@@ -8,6 +8,22 @@ function App() {
   const [location, setLocation] = useState("Getting location...");
   const [selectedArticle, setSelectedArticle] = useState(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [activeTab, setActiveTab] = useState("Space News");
+  const [showScrollButtons, setShowScrollButtons] = useState(false);
+
+  // Space agencies tabs
+  const spaceAgencies = [
+    { id: "all", name: "Space News" },
+    { id: "nasa", name: "NASA" },
+    { id: "spacex", name: "SpaceX" },
+    { id: "isro", name: "ISRO" },
+    { id: "jaxa", name: "JAXA" },
+    { id: "esa", name: "ESA" },
+    { id: "roscosmos", name: "Roscosmos" },
+    { id: "blue-origin", name: "Blue Origin" },
+    { id: "virgin-galactic", name: "Virgin Galactic" },
+    { id: "rocket-lab", name: "Rocket Lab" }
+  ];
 
   // Fetch from local JSON file in /public
   const apiUrl = process.env.PUBLIC_URL + "/space_news.json";
@@ -126,6 +142,44 @@ function App() {
     }
   };
 
+  // Scroll tabs horizontally
+  const scrollTabs = (direction) => {
+    const tabsContainer = document.querySelector('.tabs-container');
+    if (tabsContainer) {
+      const scrollAmount = 200;
+      tabsContainer.scrollBy({
+        left: direction === 'left' ? -scrollAmount : scrollAmount,
+        behavior: 'smooth'
+      });
+    }
+  };
+
+  // Check if tabs container has overflow
+  const checkTabsOverflow = () => {
+    const tabsContainer = document.querySelector('.tabs-container');
+    if (tabsContainer) {
+      const hasOverflow = tabsContainer.scrollWidth > tabsContainer.clientWidth;
+      setShowScrollButtons(hasOverflow);
+    }
+  };
+
+  // Check overflow on window resize
+  useEffect(() => {
+    const handleResize = () => {
+      checkTabsOverflow();
+    };
+
+    // Check overflow after component mounts and tabs are rendered
+    const timer = setTimeout(checkTabsOverflow, 100);
+    
+    window.addEventListener('resize', handleResize);
+    
+    return () => {
+      clearTimeout(timer);
+      window.removeEventListener('resize', handleResize);
+    };
+  }, [spaceAgencies]); // Re-check when agencies change
+
   return (
     <>
       {/* Fixed Space Background */}
@@ -150,6 +204,57 @@ function App() {
               </div>
             </div>
           </header>
+
+          {/* Tabs Section */}
+          <div className="relative bg-gradient-to-r from-blue-900/50 to-purple-900/50 backdrop-blur-sm border-b border-blue-500/20">
+            <div className="flex items-center">
+              {/* Left Scroll Button - Only show if overflow */}
+              {showScrollButtons && (
+                <button
+                  onClick={() => scrollTabs('left')}
+                  className="flex-shrink-0 p-2 text-white/70 hover:text-white hover:bg-white/10 rounded-l-lg transition-all duration-200"
+                  aria-label="Scroll tabs left"
+                >
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
+                </button>
+              )}
+
+              {/* Tabs Container */}
+              <div 
+                className="tabs-container flex overflow-x-auto px-2 py-3 space-x-1 flex-1"
+                style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+              >
+                {spaceAgencies.map((agency) => (
+                  <button
+                    key={agency.id}
+                    onClick={() => setActiveTab(agency.name)}
+                    className={`flex-shrink-0 px-4 py-2 rounded-full text-sm font-medium transition-all duration-200 whitespace-nowrap ${
+                      activeTab === agency.name
+                        ? 'bg-white text-blue-900 shadow-lg'
+                        : 'text-white/80 hover:text-white hover:bg-white/10'
+                    }`}
+                  >
+                    {agency.name}
+                  </button>
+                ))}
+              </div>
+
+              {/* Right Scroll Button - Only show if overflow */}
+              {showScrollButtons && (
+                <button
+                  onClick={() => scrollTabs('right')}
+                  className="flex-shrink-0 p-2 text-white/70 hover:text-white hover:bg-white/10 rounded-r-lg transition-all duration-200"
+                  aria-label="Scroll tabs right"
+                >
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+              )}
+            </div>
+          </div>
 
           <main className="flex-grow p-4 grid gap-3 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
             {articles.map((article) => (

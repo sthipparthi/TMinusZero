@@ -311,4 +311,13 @@
   }
 }
 
+/* Tabs Styling */
+.tabs-container {
+  -webkit-overflow-scrolling: touch;
+}
+
+.tabs-container::-webkit-scrollbar {
+  display: none;
+}
+
 
