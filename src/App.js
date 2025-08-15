@@ -10,6 +10,8 @@ function App() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [activeTab, setActiveTab] = useState("Space News");
   const [showScrollButtons, setShowScrollButtons] = useState(false);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(false);
 
   // Space agencies tabs
   const spaceAgencies = [
@@ -153,6 +155,21 @@ function App() {
         left: direction === 'left' ? -scrollAmount : scrollAmount,
         behavior: 'smooth'
       });
+      
+      // Update scroll button states after scrolling
+      setTimeout(() => checkScrollButtonStates(), 100);
+    }
+  };
+
+  // Check scroll button states based on current scroll position
+  const checkScrollButtonStates = () => {
+    const tabsContainer = document.querySelector('.tabs-container');
+    if (tabsContainer) {
+      const scrollLeft = tabsContainer.scrollLeft;
+      const maxScroll = tabsContainer.scrollWidth - tabsContainer.clientWidth;
+      
+      setCanScrollLeft(scrollLeft > 0);
+      setCanScrollRight(scrollLeft < maxScroll);
     }
   };
 
@@ -162,25 +179,43 @@ function App() {
     if (tabsContainer) {
       const hasOverflow = tabsContainer.scrollWidth > tabsContainer.clientWidth;
       setShowScrollButtons(hasOverflow);
+      
+      // Also check scroll button states
+      if (hasOverflow) {
+        checkScrollButtonStates();
+      }
     }
   };
 
-  // Check overflow on window resize
+  // Check overflow on window resize and scroll
   useEffect(() => {
     const handleResize = () => {
       checkTabsOverflow();
     };
 
+    const handleScroll = () => {
+      checkScrollButtonStates();
+    };
+
     // Check overflow after component mounts and tabs are rendered
     const timer = setTimeout(checkTabsOverflow, 100);
-    
+
     window.addEventListener('resize', handleResize);
     
+    // Add scroll listener to the tabs container
+    const tabsContainer = document.querySelector('.tabs-container');
+    if (tabsContainer) {
+      tabsContainer.addEventListener('scroll', handleScroll);
+    }
+
     return () => {
       clearTimeout(timer);
       window.removeEventListener('resize', handleResize);
+      if (tabsContainer) {
+        tabsContainer.removeEventListener('scroll', handleScroll);
+      }
     };
-  }, [spaceAgencies]); // Re-check when agencies change
+  }, [activeTab]); // Re-run when activeTab changes
 
   return (
     <>
@@ -214,7 +249,12 @@ function App() {
               {showScrollButtons && (
                 <button
                   onClick={() => scrollTabs('left')}
-                  className="flex-shrink-0 p-2 text-white/70 hover:text-white hover:bg-white/10 rounded-l-lg transition-all duration-200"
+                  disabled={!canScrollLeft}
+                  className={`flex-shrink-0 p-2 rounded-l-lg transition-all duration-200 ${
+                    canScrollLeft 
+                      ? 'text-white/70 hover:text-white hover:bg-white/10 cursor-pointer' 
+                      : 'text-white/30 cursor-not-allowed'
+                  }`}
                   aria-label="Scroll tabs left"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -247,7 +287,12 @@ function App() {
               {showScrollButtons && (
                 <button
                   onClick={() => scrollTabs('right')}
-                  className="flex-shrink-0 p-2 text-white/70 hover:text-white hover:bg-white/10 rounded-r-lg transition-all duration-200"
+                  disabled={!canScrollRight}
+                  className={`flex-shrink-0 p-2 rounded-r-lg transition-all duration-200 ${
+                    canScrollRight 
+                      ? 'text-white/70 hover:text-white hover:bg-white/10 cursor-pointer' 
+                      : 'text-white/30 cursor-not-allowed'
+                  }`}
                   aria-label="Scroll tabs right"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
