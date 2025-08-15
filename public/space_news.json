@@ -1,5 +1,25 @@
 [
   {
+    "id": 32619,
+    "title": "Curiosity Blog, Sols 4627-4628: A Ridge Stop in the Boxworks",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4627-4628-a-ridge-stop-in-the-boxworks/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04625_mhli_4625MH0001710001700780R00_DXXX.jpg",
+    "news_site": "NASA",
+    "summary": "Earth planning date: Monday Aug. 11, 2025 Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center On the Curiosity team, we’re continuing our exploration of the boxwork-forming region in Gale Crater. A successful 25-meter drive (about 82 feet) brought the rover from the “peace sign” ridge intersection to a new ridge site. […]",
+    "published_at": "2025-08-15T00:39:14Z",
+    "updated_at": "2025-08-15T01:10:05.702521Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "A successful 25-meter drive brought the rover from the “peace sign” ridge intersection to a new ridge site. Mastcam observations of a potential incipient hollow (“Laguna Miniques”) APXS and MAHLI measurements were planned to explore the local bedrock at two points."
+  },
+  {
     "id": 32618,
     "title": "NASA Seeks Industry Feedback on Fission Surface Power",
     "authors": [
@@ -500,26 +520,6 @@
     "detailed_news": "Astronomers used Hubble’s Cosmic Origins Spectrograph to investigate a white dwarf called WD 0525+526. Located 128 light-years away, it is 20% more massive than the Sun. In visible light, the spectrum of the white dwarf's atmosphere resembled that of a typical white dwarf. But Hubble's ultraviolet vision revealed that it had a very different history from what we would have guessed. The high temperature and low carbon abundance mean that identifying this white dwarf as the product of a merger would have been impossible without Hubble’s sensitivity to ultraviolet light. Because WD 0525+526's origin was revealed only once astronomers glimpsed its ultraviolet spectrum, it's likely that other seemingly “normal” white dwarfs are actually the result of cosmic collisions."
   },
   {
-    "id": 32595,
-    "title": "NASA’s SpaceX-33 Resupply Mission Launches Research to Station",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-33-resupply-mission-launches-research-to-station/",
-    "image_url": "https://images-assets.nasa.gov/image/jsc2025e064331/jsc2025e064331~orig.jpg",
-    "news_site": "NASA",
-    "summary": "Research traveling to the International Space Station aboard NASA’s SpaceX 33rd commercial resupply mission includes testing 3D bioprinting of an implantable medical device, observing behavior of engineered liver tissues, examining microgravity’s effects on bone-forming cells, and additional 3D printing of metal in space. The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory […]",
-    "published_at": "2025-08-13T14:00:00Z",
-    "updated_at": "2025-08-13T15:10:09.217493Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory in late August. For nearly 25 years, the International Space Station has provided research capabilities used by scientists from over 110 countries to conduct more than 4,000 groundbreaking experiments in microgravity. Research conducted aboard the space station advances future space exploration. This investigation is a continuation of ESA’s efforts to develop in-space manufacturing and materials recycling capabilities. The ESA investigation team includes Airbus Defence and Space SAS and the User Support Centre CADMOS in France. Learn more about the research aboard the International Space Station at: www.nasa.gov/iss-science."
-  },
-  {
     "id": 32591,
     "title": "No Earth-like atmosphere on TRAPPIST-1 d",
     "authors": [
@@ -538,6 +538,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "The TRAPPIST-1 system contains seven Earth-sized worlds orbiting the most common type of star in the galaxy: a red dwarf. Webb’s NIRSpec (Near-Infrared Spectrograph) instrument did not detect molecules that are common in Earth's atmosphere, like water, methane, or carbon dioxide. Webb observations of the outer TRAPPIST-1 planets are ongoing, which hold both potential and peril. On the one hand, planets e, f, g, and h may have better chances of having atmospheres because they are further away from the energetic eruptions of their host star. But their distance and colder environment will make atmospheric signatures more difficult to detect."
+  },
+  {
+    "id": 32595,
+    "title": "NASA’s SpaceX-33 Resupply Mission Launches Research to Station",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-33-resupply-mission-launches-research-to-station/",
+    "image_url": "https://images-assets.nasa.gov/image/jsc2025e064331/jsc2025e064331~orig.jpg",
+    "news_site": "NASA",
+    "summary": "Research traveling to the International Space Station aboard NASA’s SpaceX 33rd commercial resupply mission includes testing 3D bioprinting of an implantable medical device, observing behavior of engineered liver tissues, examining microgravity’s effects on bone-forming cells, and additional 3D printing of metal in space. The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory […]",
+    "published_at": "2025-08-13T14:00:00Z",
+    "updated_at": "2025-08-13T15:10:09.217493Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory in late August. For nearly 25 years, the International Space Station has provided research capabilities used by scientists from over 110 countries to conduct more than 4,000 groundbreaking experiments in microgravity. Research conducted aboard the space station advances future space exploration. This investigation is a continuation of ESA’s efforts to develop in-space manufacturing and materials recycling capabilities. The ESA investigation team includes Airbus Defence and Space SAS and the User Support Centre CADMOS in France. Learn more about the research aboard the International Space Station at: www.nasa.gov/iss-science."
   },
   {
     "id": 32598,
@@ -955,25 +975,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The United States Space Force (USSF)-106 mission is scheduled to launch from Cape Canaveral on Tuesday. The rocket will carry a pair of satellites to geoscynchronous orbit. The launch marks ULA's return to launching payloads as part of the National Security Space Launch (NSSL) program. The USSF-106 mission is comprised of two satellites. One of those remains a mystery with Space Force officials unwilling to provide any details. The other, which is described as the primary payload onboard the Vulcan rocket is the brainchild of the Air Force Research Laboratory. The mission and launch together come with a $250 million price tag. NTS-3 is being tested in the laboratory as well as out in the field. Some of the learns from this, like calibrating a spot beam antenna, can be applied to the next generation of GPS satellites, called GPS 3-F. The prime contractor that manufactured the satellite is L3Harris Technologies."
-  },
-  {
-    "id": 32569,
-    "title": "DGA Selects Infinite Orbits for €50M PALADIN Satellite-Inspection Service",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/dga-selects-infinite-orbits-for-e50m-paladin-satellite-inspection-service/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/DGA-Selects-Infinite-Orbits-for-50M-Euro-PALADIN-Satellite-Inspection-Spacecraft.webp",
-    "news_site": "European Spaceflight",
-    "summary": "France’s Directorate General of Armament has awarded the €50M PALADIN framework agreement to Infinite Orbits to deliver a geostationary orbit inspection and monitoring service for the nation’s Space Command. The PALADIN project is part of France’s Action et Résilience Spatiale (ARES – Space Action and Resilience) initiative, which aims to monitor and counter direct threats […]\nThe post DGA Selects Infinite Orbits for €50M PALADIN Satellite-Inspection Service appeared first on European Spaceflight.",
-    "published_at": "2025-08-12T08:29:33Z",
-    "updated_at": "2025-08-12T08:30:13.722605Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "PALADIN project is part of France’s Action et Résilience Spatiale (ARES – Space Action and Resilience) initiative. Infinite Orbits will develop a dedicated spacecraft capable of delivering the geostationary orbit inspection and monitoring service. The spacecraft is expected to be ready for launch by 2027."
   }
 ]
