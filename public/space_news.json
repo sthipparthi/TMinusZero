@@ -1,5 +1,65 @@
 [
   {
+    "id": 32631,
+    "title": "NASA-Developed Printable Metal Can Take the Heat",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-developed-printable-metal-can-take-the-heat/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/672516046c5be-image.jpg",
+    "news_site": "NASA",
+    "summary": "Until now, additive manufacturing, commonly known as 3D printing, of engine components was limited by the lack of affordable metal alloys that could withstand the extreme temperatures of spaceflight. Expensive metal alloys were the only option for 3D printing engine parts until NASA’s Glenn Research Center in Cleveland, Ohio, developed the GRX-810 alloy. The primary […]",
+    "published_at": "2025-08-15T20:13:43Z",
+    "updated_at": "2025-08-15T20:20:05.584112Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Until now, expensive metal alloys were the only option for 3D printing engine parts. NASA’s Glenn Research Center in Cleveland, Ohio, developed the GRX-810 alloy. A ceramic oxide coating on the powdered metal particles increases its heat resistance and improves performance."
+  },
+  {
+    "id": 32629,
+    "title": "Human Rating and NASA-STD-3001",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/general/human-rating-and-nasa-std-3001/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/human-rating-pyramid-static-v1.png",
+    "news_site": "NASA",
+    "summary": "Human-rating is a critical certification process that validates the safety, reliability, and suitability of space systems—including orbiters, launch vehicles, rovers, spacesuits, habitats, and other crewed elements—for human use and interaction. This process ensures that systems are designed not only to protect human life but also to accommodate human needs and effectively integrate human capabilities. Human-rating requires […]",
+    "published_at": "2025-08-15T18:34:58Z",
+    "updated_at": "2025-08-15T18:40:06.260939Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Human-rating validates the safety, reliability, and suitability of space systems. Standards reflect NASA’s commitment to minimizing risk in human spaceflight. Early efforts focused on basic crew survival and redundancy in critical systems. Today, human-rating is an interdisciplinary effort that integrates engineering, medical, operational expertise."
+  },
+  {
+    "id": 32630,
+    "title": "NASA Astronauts to Answer Questions from Students in Minnesota",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-minnesota/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/crew11-7c4516.jpg",
+    "news_site": "NASA",
+    "summary": "NASA astronauts Michael Finke and Zena Cardman will connect with students in Minnesota as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions aboard the International Space Station. The Earth-to-space call will begin at 11 a.m. EDT on Wednesday, Aug. 20, and will stream live on the agency’s Learn With NASA YouTube channel. Media […]",
+    "published_at": "2025-08-15T18:32:05Z",
+    "updated_at": "2025-08-15T18:40:06.305922Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Astronauts Michael Fincke and Zena Cardman will answer prerecorded science, technology, engineering, and mathematics (STEM) questions. The Earth-to-space call will begin at 11 a.m. EDT on Wednesday, Aug. 20, and will stream live on the agency’s Learn With NASA YouTube channel. Media interested in covering the event must RSVP by 5 p.m., Aug. 19, to Elizabeth Ross at: 952-838-1340."
+  },
+  {
     "id": 32628,
     "title": "Countdown to Space Station’s Silver Jubilee with Silver Research",
     "authors": [
@@ -700,26 +760,6 @@
     "detailed_news": "Astronomers used Hubble’s Cosmic Origins Spectrograph to investigate a white dwarf called WD 0525+526. Located 128 light-years away, it is 20% more massive than the Sun. In visible light, the spectrum of the white dwarf's atmosphere resembled that of a typical white dwarf. But Hubble's ultraviolet vision revealed that it had a very different history from what we would have guessed. The high temperature and low carbon abundance mean that identifying this white dwarf as the product of a merger would have been impossible without Hubble’s sensitivity to ultraviolet light. Because WD 0525+526's origin was revealed only once astronomers glimpsed its ultraviolet spectrum, it's likely that other seemingly “normal” white dwarfs are actually the result of cosmic collisions."
   },
   {
-    "id": 32591,
-    "title": "No Earth-like atmosphere on TRAPPIST-1 d",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/No_Earth-like_atmosphere_on_TRAPPIST-1_d",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/artist_impression_of_trappist-1_d/26837028-1-eng-GB/Artist_impression_of_TRAPPIST-1_d_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from the NASA/ESA/CSA James Webb Space Telescope, it does not have an Earth-like atmosphere.",
-    "published_at": "2025-08-13T14:00:00Z",
-    "updated_at": "2025-08-13T14:00:18.810838Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The TRAPPIST-1 system contains seven Earth-sized worlds orbiting the most common type of star in the galaxy: a red dwarf. Webb’s NIRSpec (Near-Infrared Spectrograph) instrument did not detect molecules that are common in Earth's atmosphere, like water, methane, or carbon dioxide. Webb observations of the outer TRAPPIST-1 planets are ongoing, which hold both potential and peril. On the one hand, planets e, f, g, and h may have better chances of having atmospheres because they are further away from the energetic eruptions of their host star. But their distance and colder environment will make atmospheric signatures more difficult to detect."
-  },
-  {
     "id": 32598,
     "title": "Webb Narrows Atmospheric Possibilities for Earth-sized Exoplanet TRAPPIST-1 d",
     "authors": [
@@ -738,6 +778,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "The TRAPPIST-1 system is located 40 light-years away and was revealed as the record-holder for most Earth-sized rocky planets around a single star in 2017. Scientists are motivated to seek signs of atmospheres because red dwarf stars are the most common stars in our galaxy. If planets can hold on to an atmosphere, under waves of harsh stellar radiation, they could, as the saying goes, make it anywhere. The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars. It studies every phase in the… Exoplanets Stars Universe NASA explores the unknown in air and space, innovates for the benefit of humanity."
+  },
+  {
+    "id": 32591,
+    "title": "No Earth-like atmosphere on TRAPPIST-1 d",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/No_Earth-like_atmosphere_on_TRAPPIST-1_d",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/artist_impression_of_trappist-1_d/26837028-1-eng-GB/Artist_impression_of_TRAPPIST-1_d_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from the NASA/ESA/CSA James Webb Space Telescope, it does not have an Earth-like atmosphere.",
+    "published_at": "2025-08-13T14:00:00Z",
+    "updated_at": "2025-08-13T14:00:18.810838Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The TRAPPIST-1 system contains seven Earth-sized worlds orbiting the most common type of star in the galaxy: a red dwarf. Webb’s NIRSpec (Near-Infrared Spectrograph) instrument did not detect molecules that are common in Earth's atmosphere, like water, methane, or carbon dioxide. Webb observations of the outer TRAPPIST-1 planets are ongoing, which hold both potential and peril. On the one hand, planets e, f, g, and h may have better chances of having atmospheres because they are further away from the energetic eruptions of their host star. But their distance and colder environment will make atmospheric signatures more difficult to detect."
   },
   {
     "id": 32595,
@@ -908,65 +968,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "First in a new series of satellites, MetOp Second Generation, has been lofted into orbit aboard an Ariane 6 rocket from the European spaceport in Kourou, French Guiana. As part of this new satellite’s sophisticated instrument package is the new Copernicus Sentinel-5 instrument, which is designed to deliver critical data on air pollutants. Each of the three pairs consists of an A-type and B-type satellite. They carry complementary state-of-the-art instruments to provide high-resolution measurements of temperature, precipitation, clouds and winds for weather forecasting and climate analysis. Each MetOp-SG satellite is fitted with an extra thruster, enabling it to self-destruct in Earth’s atmosphere when the mission is complete. Main stage and solid rocket boosters are responsible for the first phase of flight. The stage is powered by the Vulcain 2.1 engine (fuelled by liquid oxygen and hydrogen), with the main thrust at liftoff provided by the P120C boosters. The upper stage will fire two times to reach the required orbit for this mission."
-  },
-  {
-    "id": 32583,
-    "title": "ULA launches Vulcan rocket on first Space Force mission",
-    "authors": [
-      {
-        "name": "William Harwood",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/13/ula-launches-vulcan-rocket-on-first-space-force-mission/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250812_Vulcan_USSF-106_liftoff_AB-1.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "Equipped with four solid-fuel strap-on boosters for additional takeoff power, the 198-foot-tall Vulcan's two methane-fueled BE-4 engines thundered to life at 8:56p.m. EDT, instantly propelling the rocket away from pad 41 at the Cape Canaveral Space Force Station. ",
-    "published_at": "2025-08-13T02:48:45Z",
-    "updated_at": "2025-08-13T03:00:20.551010Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "United Launch Alliance fired off it’s first fully operational Vulcan rocket Tuesday. The rocket put on a spectacular sky-lighting show as it roared aloft atop nearly 3 million pounds of thrust. At least two satellites were believed to be on board: one classified spacecraft and an experimental satellite. United Launch Alliance chief executive Tory Bruno spoke with Spaceflight Now’s Stephen Clark at the 32nd Space Symposium in Colorado Springs. ULA President and CEO Tory Bruno said the Vulcan's first stage, using high-performance BE-4 engines, is particularly well suited for launching heavy military payloads into hard-to-reach orbits."
-  },
-  {
-    "id": 32582,
-    "title": "ULA’s Vulcan Centaur Lifts Off on First National Security Mission",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/ulas-vulcan-centaur-lifts-off-on-first-national-security-mission/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/USSF106-on-pad-ULA-on-X-300x169.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "ULA’s new Vulcan Centaur rocket lifted off on a national security mission for the first time this evening. One payload aboard the U.S. Space Force’s USSF-106 mission is the Navigation […]",
-    "published_at": "2025-08-13T02:35:14Z",
-    "updated_at": "2025-08-13T02:40:14.188618Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The U.S. Space Force’s USSF-106 mission is the Navigation Technology Satellite-3 that is testing new technologies for future satellite navigation systems like GPS. NTS-3 is a small spacecraft on a very big rocket being launched in one of its most capable configurations. The USSF is not saying what else is aboard. ULA ended live coverage of the launch before reaching orbit. After intense debate in the Senate, then-Senator Bill Nelson brokered a deal in 2016 setting limits on the number of RD-180s ULA could buy and how long they could be used for military missions. ULA had already begun working on a new rocket by then, reaching agreement in 2014 with Jeff Bezos’s Blue Origin to build the engines."
-  },
-  {
-    "id": 32581,
-    "title": "B1091 “A Heavy Core in Falcon 9 Clothing”",
-    "authors": [
-      {
-        "name": "Ryan Caton",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/b1091-heavy-core-falcon-9-clothing/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/NSF-2025-08-12-22-08-46-758.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "SpaceX’s recent launch involved another successful landing of its Falcon 9 booster, but this time…\nThe post B1091 “A Heavy Core in Falcon 9 Clothing” appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-12T21:42:48Z",
-    "updated_at": "2025-08-12T21:50:13.557688Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX’s recent launch involved another successful landing of its Falcon 9 booster, but this time marked a Falcon Heavy center core booster launching and landing as a single-stick Falcon 9 rocket. The booster, designated B1091, powered the KF-02 mission, deploying 24 satellites for Amazon's Project Kuiper broadband constellation into low Earth orbit. The launch occurred on August 11, 2025, at 8:35 a.m. ET from Space Launch Complex 40. SpaceX has repurposed Falcon Heavy side boosters for Falcon 9 missions in the past, including the inaugural Falcon Heavy flight in 2018. The primary deterrent has been the added mass from reinforcements, estimated at 10-20% more than a standard Falcon 9 booster. During its return, observers noticed evidence of the booster’s heavier build during the KF-02 landing."
   }
 ]
