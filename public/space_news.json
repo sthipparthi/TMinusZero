@@ -1,5 +1,25 @@
 [
   {
+    "id": 32632,
+    "title": "FAA approves Starship Flight 10 after mishap probe, eyes August 24 launch",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/08/faa-flight-10-mishap-probe-august-24/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/NSF-2025-08-16-04-06-46-239.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX has received clearance from the Federal Aviation Administration (FAA) to conduct the 10th test…\nThe post FAA approves Starship Flight 10 after mishap probe, eyes August 24 launch appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-08-16T03:36:42Z",
+    "updated_at": "2025-08-16T03:40:09.714497Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX has received clearance from the Federal Aviation Administration (FAA) to conduct the 10th test flight of its Starship rocket, with a targeted launch date of August 24. The FAA announced on Friday morning that it had concluded its review of the mishap from Starship’s Flight 9, which occurred earlier this year. SpaceX revealed that the probable root cause was a failure in the diffuser component of the main fuel tank pressurization system. SpaceX will launch its Starship rocket on August 24. The launch window opens at 6:30 p.m. Central Time and will feature Booster 16 and Ship 37. Ship 36, originally slated for Flight 10, exploded during ground testing in June. SpaceX is enhancing inspections, proof tests, and handling protections for COPVs."
+  },
+  {
     "id": 32631,
     "title": "NASA-Developed Printable Metal Can Take the Heat",
     "authors": [
@@ -948,25 +968,5 @@
     ],
     "events": [],
     "detailed_news": "Europe’s first MetOp Second Generation, MetOp-SG-A1, weather satellite – which hosts the Copernicus Sentinel-5 mission – has launched aboard an Ariane 6 rocket. The rocket lifted off on 13 August at 02:37 CEST (12 August 21:37 Kourou time) It is the first in a series of three successive pairs of satellites."
-  },
-  {
-    "id": 32584,
-    "title": "First MetOp-SG and Sentinel-5 launched",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_and_Sentinel-5_launched",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/metop-sg-a1_and_sentinel-5_take_to_the_skies/26834648-5-eng-GB/MetOp-SG-A1_and_Sentinel-5_take_to_the_skies_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Ushering in a new era of weather and climate monitoring from polar orbit, the first in a new series of satellites, MetOp Second Generation, has been lofted into orbit aboard an Ariane 6 rocket from the European spaceport in Kourou, French Guiana. As part of this new satellite’s sophisticated instrument package is the new Copernicus Sentinel-5 instrument, which is designed to deliver critical data on air pollutants, ozone and climate-related gases.",
-    "published_at": "2025-08-13T02:50:00Z",
-    "updated_at": "2025-08-13T03:10:13.142231Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "First in a new series of satellites, MetOp Second Generation, has been lofted into orbit aboard an Ariane 6 rocket from the European spaceport in Kourou, French Guiana. As part of this new satellite’s sophisticated instrument package is the new Copernicus Sentinel-5 instrument, which is designed to deliver critical data on air pollutants. Each of the three pairs consists of an A-type and B-type satellite. They carry complementary state-of-the-art instruments to provide high-resolution measurements of temperature, precipitation, clouds and winds for weather forecasting and climate analysis. Each MetOp-SG satellite is fitted with an extra thruster, enabling it to self-destruct in Earth’s atmosphere when the mission is complete. Main stage and solid rocket boosters are responsible for the first phase of flight. The stage is powered by the Vulcain 2.1 engine (fuelled by liquid oxygen and hydrogen), with the main thrust at liftoff provided by the P120C boosters. The upper stage will fire two times to reach the required orbit for this mission."
   }
 ]
