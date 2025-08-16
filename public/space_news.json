@@ -1,5 +1,45 @@
 [
   {
+    "id": 32634,
+    "title": "Hurricane Erin sets early season intensification record, becomes Category 5 storm",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/science/2025/08/hurricane-erin-sets-early-season-intensification-record-becomes-category-5-storm/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1.jpg",
+    "news_site": "Arstechnica",
+    "summary": "The good news is that, for now, Erin appears unlikely to directly strike land.",
+    "published_at": "2025-08-16T17:50:31Z",
+    "updated_at": "2025-08-16T18:00:06.939856Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Hurricane Erin has reached Category 5 status, the most powerful kind of hurricane. Erin is expected to pass close to several landmasses between now and next Thursday. Storms like Erin are predicted to become more common due to climate change, scientists say. Erin only became a hurricane at 11 am ET on Friday as it tracked north of the Leeward Islands. The Atlantic season typically peaks in early September, with the majority of storms forming between early August and early October. But with Erin's longevity and intensity this season should soon reach and surpass normal levels of Accumulated Cyclone Energy. Forecast models indicate the likely development of more hurricanes within the next two weeks, but there is no clear consensus on whether they will impact land."
+  },
+  {
+    "id": 32633,
+    "title": "SpaceX schedules 10th test flight for Starship, details recent setbacks",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/16/spacex-schedules-starship-flight-10-details-recent-setbacks/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250815_Starship_Flight_10_Raptor_static_fire.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The next launch of SpaceX’s super heavy lift rocket would come nearly three months after the last test flight. Liftoff from Starbase, Texas, is planned during a one-hour window that opens at 6:30 p.m. CDT (7:30 p.m. EDT / 2330 UTC). ",
+    "published_at": "2025-08-16T13:03:58Z",
+    "updated_at": "2025-08-16T13:10:15.822228Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX is gearing up for a launch of its massive Starship rocket from southern Texas. On Friday, it announced plans for the tenth flight of the fully integrated, two-stage rocket. The test flight is tentatively scheduled during an hour-long window that opens at 6:30 p.m. CDT. Starship reentered Earth’s atmosphere in an off-nominal attitude and communication was lost during entry. SpaceX used the reaction control thrusters on Ship 35 to help off-set the attitude problem and allow the nosecone venting to continue. If Ship 37 is able to make it through its planned milestones and to a controlled, atmospheric reentry it would be the first of the Block 2 version of Starship to do so. B14 flew for a second time, utilizing 29 out of the 33 Raptor engines from its previous flight. An explosion in the aft end of the booster not long after the landing burn began caused a loss of telemetry. “The most probable cause for the failure at landing burn was higher than predicted forces on the booster structure,” SpaceX said. Acting NASA Administrator Sean Duffy spoke with social media influencers about why he wasn’t concerned with the recent setbacks experienced by SpaceX. “It seems like this is a similar process to what they’ve done in the past. They learn from their mistakes and then they quickly get to the finish,” Duffy said."
+  },
+  {
     "id": 32632,
     "title": "FAA approves Starship Flight 10 after mishap probe, eyes August 24 launch",
     "authors": [
@@ -780,26 +820,6 @@
     "detailed_news": "Astronomers used Hubble’s Cosmic Origins Spectrograph to investigate a white dwarf called WD 0525+526. Located 128 light-years away, it is 20% more massive than the Sun. In visible light, the spectrum of the white dwarf's atmosphere resembled that of a typical white dwarf. But Hubble's ultraviolet vision revealed that it had a very different history from what we would have guessed. The high temperature and low carbon abundance mean that identifying this white dwarf as the product of a merger would have been impossible without Hubble’s sensitivity to ultraviolet light. Because WD 0525+526's origin was revealed only once astronomers glimpsed its ultraviolet spectrum, it's likely that other seemingly “normal” white dwarfs are actually the result of cosmic collisions."
   },
   {
-    "id": 32598,
-    "title": "Webb Narrows Atmospheric Possibilities for Earth-sized Exoplanet TRAPPIST-1 d",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/webb/webb-narrows-atmospheric-possibilities-for-earth-sized-exoplanet-trappist-1-d/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01K0FMNPBZFCKFBF8Z5KZG17JR-4K.tif",
-    "news_site": "NASA",
-    "summary": "The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from NASA’s James Webb Space Telescope, […]",
-    "published_at": "2025-08-13T14:00:00Z",
-    "updated_at": "2025-08-13T16:10:08.566608Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The TRAPPIST-1 system is located 40 light-years away and was revealed as the record-holder for most Earth-sized rocky planets around a single star in 2017. Scientists are motivated to seek signs of atmospheres because red dwarf stars are the most common stars in our galaxy. If planets can hold on to an atmosphere, under waves of harsh stellar radiation, they could, as the saying goes, make it anywhere. The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars. It studies every phase in the… Exoplanets Stars Universe NASA explores the unknown in air and space, innovates for the benefit of humanity."
-  },
-  {
     "id": 32591,
     "title": "No Earth-like atmosphere on TRAPPIST-1 d",
     "authors": [
@@ -818,6 +838,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "The TRAPPIST-1 system contains seven Earth-sized worlds orbiting the most common type of star in the galaxy: a red dwarf. Webb’s NIRSpec (Near-Infrared Spectrograph) instrument did not detect molecules that are common in Earth's atmosphere, like water, methane, or carbon dioxide. Webb observations of the outer TRAPPIST-1 planets are ongoing, which hold both potential and peril. On the one hand, planets e, f, g, and h may have better chances of having atmospheres because they are further away from the energetic eruptions of their host star. But their distance and colder environment will make atmospheric signatures more difficult to detect."
+  },
+  {
+    "id": 32598,
+    "title": "Webb Narrows Atmospheric Possibilities for Earth-sized Exoplanet TRAPPIST-1 d",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/webb-narrows-atmospheric-possibilities-for-earth-sized-exoplanet-trappist-1-d/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01K0FMNPBZFCKFBF8Z5KZG17JR-4K.tif",
+    "news_site": "NASA",
+    "summary": "The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from NASA’s James Webb Space Telescope, […]",
+    "published_at": "2025-08-13T14:00:00Z",
+    "updated_at": "2025-08-13T16:10:08.566608Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The TRAPPIST-1 system is located 40 light-years away and was revealed as the record-holder for most Earth-sized rocky planets around a single star in 2017. Scientists are motivated to seek signs of atmospheres because red dwarf stars are the most common stars in our galaxy. If planets can hold on to an atmosphere, under waves of harsh stellar radiation, they could, as the saying goes, make it anywhere. The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars. It studies every phase in the… Exoplanets Stars Universe NASA explores the unknown in air and space, innovates for the benefit of humanity."
   },
   {
     "id": 32595,
@@ -914,51 +954,6 @@
     "summary": "Europe’s first MetOp Second Generation, MetOp-SG-A1, weather satellite – which hosts the Copernicus Sentinel-5 mission –  has launched aboard an Ariane 6 rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on 13 August at 02:37 CEST (12 August 21:37 Kourou time).",
     "published_at": "2025-08-13T10:00:00Z",
     "updated_at": "2025-08-13T10:05:45.963306Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "1b9bed2f-7e00-4d95-b5d1-7b71c36a4ab1",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "Europe’s first MetOp Second Generation, MetOp-SG-A1, weather satellite – which hosts the Copernicus Sentinel-5 mission – has launched aboard an Ariane 6 rocket. The rocket lifted off on 13 August at 02:37 CEST (12 August 21:37 Kourou time) It is the first in a series of three successive pairs of satellites."
-  },
-  {
-    "id": 32586,
-    "title": "EDGX Secures €2.3M to Build AI In-Orbit Data Processing System",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/edgx-secures-e2-3m-to-build-ai-in-orbit-data-processing-system/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/Screenshot-2025-08-13-at-11.20.38.png",
-    "news_site": "European Spaceflight",
-    "summary": "Belgium-based startup EDGX announced on 11 August that it had secured €2.3 million in seed funding to develop a high-performance, AI-capable on-board computer that will process data collected by a satellite’s sensors directly in orbit. Founded in 2023, EDGX is developing its Sterna on-board computer and the SpaceFeather software that will power it. It aims […]\nThe post EDGX Secures €2.3M to Build AI In-Orbit Data Processing System appeared first on European Spaceflight.",
-    "published_at": "2025-08-13T09:25:35Z",
-    "updated_at": "2025-08-13T09:30:12.236942Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Belgium-based startup EDGX announced on 11 August that it had secured €2.3 million in seed funding to develop a high-performance, AI-capable on-board computer. The company is currently preparing for its initial demonstration mission, dubbed Early Bird, which is scheduled to launch in February 2026 aboard a SpaceX Falcon 9. According to the company, it has already secured a €1.1 million commercial contract with an undisclosed satellite operator."
-  },
-  {
-    "id": 32585,
-    "title": "MetOp-SG-A1 and Sentinel-5 launch on Ariane 6",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_launch_on_Ariane_6",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/metop-sg-a1_and_sentinel-5_launch_on_ariane_6/26830646-3-eng-GB/MetOp-SG-A1_and_Sentinel-5_launch_on_Ariane_6_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Europe’s first MetOp Second Generation, MetOp-SG-A1, weather satellite – which hosts the Copernicus Sentinel-5 mission –  has launched aboard an Ariane 6 rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on 13 August at 02:37 CEST (12 August 21:37 Kourou time).",
-    "published_at": "2025-08-13T06:00:00Z",
-    "updated_at": "2025-08-13T06:50:20.569523Z",
     "featured": false,
     "launches": [
       {
