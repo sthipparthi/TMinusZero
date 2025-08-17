@@ -1,5 +1,25 @@
 [
   {
+    "id": 32635,
+    "title": "Live coverage: 24 Starlink satellites to launch from California on 100th Falcon 9 rocket of the year",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/17/live-coverage-24-starlink-satellites-to-launch-from-california-on-100th-falcon-9-rocket-of-the-year/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/02/20240214_Starlink_7-14_prelaunch_small.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 17-5 mission will add another 24 broadband satellites to the company’s constellation of more than 8,100 currently in orbit. SpaceX is targeting liftoff from pad 4E at 9:23 a.m. PDT (12:23 p.m. EDT / 1623 UTC). ",
+    "published_at": "2025-08-17T17:22:06Z",
+    "updated_at": "2025-08-17T17:30:15.109907Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX is set to launch its 100th Falcon 9 rocket of the year on Monday morning. The flight from Vandenberg Space Force Base will carry another batch of Starlink V2 Mini satellites into low Earth orbit. The Starlink 17-5 mission will also be the 72nd SpaceX launch ofStarlink satellites so far in 2025."
+  },
+  {
     "id": 32634,
     "title": "Hurricane Erin sets early season intensification record, becomes Category 5 storm",
     "authors": [
@@ -938,30 +958,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Ohio State University team secured first place in NASA Glenn Research Center’s 2025-2026 University Student Design Challenge. The team will develop a working prototype as part of their senior capstone project during the upcoming academic year. NASA Glenn engineers Nancy Hall and John McQuillan served as student mentors and technical advisors."
-  },
-  {
-    "id": 32587,
-    "title": "MetOp-SG-A1 and Sentinel-5 launch highlights",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_launch_highlights",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/metop-sg-a1_and_sentinel-5_launch_highlights/26830736-2-eng-GB/MetOp-SG-A1_and_Sentinel-5_launch_highlights_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Europe’s first MetOp Second Generation, MetOp-SG-A1, weather satellite – which hosts the Copernicus Sentinel-5 mission –  has launched aboard an Ariane 6 rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on 13 August at 02:37 CEST (12 August 21:37 Kourou time).",
-    "published_at": "2025-08-13T10:00:00Z",
-    "updated_at": "2025-08-13T10:05:45.963306Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "1b9bed2f-7e00-4d95-b5d1-7b71c36a4ab1",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "Europe’s first MetOp Second Generation, MetOp-SG-A1, weather satellite – which hosts the Copernicus Sentinel-5 mission – has launched aboard an Ariane 6 rocket. The rocket lifted off on 13 August at 02:37 CEST (12 August 21:37 Kourou time) It is the first in a series of three successive pairs of satellites."
   }
 ]
