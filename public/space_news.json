@@ -1,5 +1,315 @@
 [
   {
+    "id": 32656,
+    "title": "After recent tests, China appears likely to beat the United States back to the Moon",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/08/after-recent-tests-china-appears-likely-to-beat-the-united-states-back-to-the-moon/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2230278319.jpg",
+    "news_site": "Arstechnica",
+    "summary": "An expert explains why this will be enormously bad for the United States.",
+    "published_at": "2025-08-18T17:18:22Z",
+    "updated_at": "2025-08-18T17:30:05.834319Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Chinese space program has reported some significant milestones in developing its program to land astronauts on the lunar surface by 2030. On August 6, the China Manned Space Agency successfully tested a high-fidelity mockup of its 26-ton \"Lanyue\" lunar lander. This work suggests that China is on course to land on the Moon before the end of this decade. Cheng: It seems quite likely that the Chinese will land on the Moon before NASA can return to the Moon. Cheng: If China regularly dispatches lunar missions, then it will rightfully be able to argue that Chinese should be the language of lunar/cis-lunar space traffic management. The Chinese are stable, systematic. They pursue a given goal (e.g., human spaceflight, a space station) over decades, with persistence and programmatic stability. So I expect that the Chinese will put a Chinese person on the Moon by 2030 and follow that with additional crewed and unmanned facilities. This will be supported by a built-out infrastructure of lunar PNT/comms."
+  },
+  {
+    "id": 32655,
+    "title": "ESA Increases Mars Ambitions with Mars Transportation Infrastructure",
+    "authors": [
+      {
+        "name": "Emily B",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2025/08/esa-increases-mars-ambitions-with-mars-transportation-infrastructure/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/08/LightShip_ESA_s_martian_tug-scaled.jpg",
+    "news_site": "Space Scout",
+    "summary": "As the European Space Agency (ESA)'s ExoMars/Rosalind Franklin Mission prepares for its 2028 launch, the agency is looking forward to future Mars science and exploration needs with an eye towards increasing European space independence.",
+    "published_at": "2025-08-18T17:06:03Z",
+    "updated_at": "2025-08-18T17:10:15.791847Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "LightShip is a mission and spacecraft concept wherein a large tug will carry one or more smaller “payload” spacecraft to Mars orbit and release them. It is named after “Lightships”, or boats sent to dangerous or remote seas and oceans to act as navigational beacons in lieu of lighthouses. The infrastructure side of the LightShip initiative focuses on communications and navigation at Mars. LightShip-1 should complete Phase B1 in the second quarter of 2027 but will need to wait for its implementation phase to be funded by ESA’s member states. This will seemingly lead to a roughly 18-month stretch of downtime before implementation can begin. A single LightShip can carry multiple different types of single large passenger science spacecraft or up to 12 individual smallsat passengers. MedaL envisions a roadmap of missions and associated technology development. The first mission using the MEDaL technologies and architecture is due to launch in 2035. This level of ambition is in line with ESA’s new long term policy goals of gaining true autonomy and self-sufficiency in space exploration. Dr Clare Parfitt, Mars Exploration Study Lead for the European Space Agency’s Exploration Preparation Research and Technology (ExPeRT) team, for clarifying comments and explanations. Your email address will not be published. Use the weekly Newsquiz to test your knowledge of stories you saw on Space Scout."
+  },
+  {
+    "id": 32651,
+    "title": "A Decade of Global Water Cycle Monitoring: NASA Soil Moisture Active Passive Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/earth-science/a-decade-of-global-water-cycle-monitoring-nasa-soil-moisture-active-passive-mission/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2024/05/eo-feature-article-banner.png",
+    "news_site": "NASA",
+    "summary": "Introduction The NASA Soil Moisture Active Passive (SMAP) mission, launched in 2015, has over 10 years of global L-band radiometry observations. The low frequency [1.4 GHz frequency or 21 cm (8 in) wavelength] measurements provide information on the state of land surfaces in all weather conditions – regardless of solar illumination. A principal objective of […]",
+    "published_at": "2025-08-18T16:59:47Z",
+    "updated_at": "2025-08-18T17:10:05.125942Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The NASA Soil Moisture Active Passive (SMAP) mission, launched in 2015, has over 10 years of global L-band radiometry observations. A principal objective of the SMAP mission is to provide estimates of surface soil moisture and its frozen or thawed status. Data have been used to quantify the linkages of the three main metabolic cycles (e.g., carbon, water, and energy) on land. The SMAP science goal is to develop observational benchmarks of how the water, energy, and carbon cycles link together over land. Soil moisture is the variable state of the land branch of the water cycle. Photosynthesis is down-regulated by both the deficit in water availability and the lack of an adequate amount of photosynthetically active radiation. The cryosphere community has raised a call-to-action to use every observing system and model available to monitor the patterns and rates of land ice melt. Surface melt affects the ice cap mass loss in many ways. The long-term climate and mass balance models rely on accurate representation of snow, firn, and ice processes to project the future sea level. The SMAP project has worked with the NASA Earth Science Division Applied Sciences Program (now known as Earth Science to Action) The SMAP data are still used for assessment of current conditions, as well as research and development. SMAP soil moisture data have been used by the U.S. Department of Agriculture for domestic and international crop yield applications. On-orbit data demonstrate that the RFI detection and filtering performs well and improves the quality of SMAP brightness temperature measurements. The algorithms are most effective at filtering RFI that is sparse in time and frequency, with minimal impact on the noise equivalent delta temperature (NEDT) – a measure of the radiometer sensitivity. Analysis of spectral information reveal many sources are likely terrestrial radar systems. The SPL2SMAP_S merges SMAP L-band radio brightness measurements with C-band synthetic aperture radar (SAR) measurements from the ESA Copernicus Sentinel-1 mission. The data have high resolution and allow the generation of 1 and 3 km (0.62 and 1.8 mi) merged surface soil moisture estimates. The SMAP mission was launched in 2015 and has produced over 10 years of science data. The data have been widely used in the Earth system science community and also applied to natural hazards applications. CIMR is currently in development; the first version is expected to launch within this decade and the second version in the mid 2030s."
+  },
+  {
+    "id": 32652,
+    "title": "Summary of the 54th U.S.–Japan ASTER Science Team Meeting",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/earth-science/summary-of-the-54th-u-s-japan-aster-science-team-meeting/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2024/05/eo-meeting-summary-banner.png",
+    "news_site": "NASA",
+    "summary": "Introduction The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) Science Team (ST) organized a three-day workshop that took place June 9–11, 2025, at the Japan Space System’s (JSS) offices in Tokyo, Japan. About 25 people from Japan and the United States participated during the in-person meeting – see Photo 1. U.S. participants included representatives […]",
+    "published_at": "2025-08-18T16:50:13Z",
+    "updated_at": "2025-08-18T17:10:05.157589Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) Science Team (ST) organized a three-day workshop that took place June 9–11, 2025, at the Japan Space System’s (JSS) offices in Tokyo, Japan. About 25 people from Japan and the United States participated during the in-person meeting – see Photo 1. AIST continues to distribute ASTER’s pseudo-natural color scenes in keyhole mark-up language (KML) Michael Ramsey presented work on forecasting volcanic activity with the ASTER long-term archive. Miyuki Muto reported on waste volume changes in 15 open landfills in developing countries using more than 20 years of ASTER digital surface models. Mike Abrams presented on behalf of Cole Krehbiel [LP DAAC] and reported on the assessment of geometric performance of the L1 processing software. Soushi Kato presented results from his September 2024 field campaign in Nevada and Utah. Hideyuki Tonooka discussed the status of installation of the JPL radiometer at Lake Kasumigaura. The goal of the ASTER is to have the instrument acquire at least one cloud-free image for every place on Earth. Urgent observations receive the highest priority and can be scheduled close to acquisition time. The 54th ASTER ST Meeting successfully covered all critical issues introduced during the Opening Plenary Session. The 55 th joint meeting was tentatively scheduled for May 2026."
+  },
+  {
+    "id": 32653,
+    "title": "Portable Planetarium takes Thousands of Alaskan Students on a Cosmic Adventure",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/learning-resources/for-educators/portable-planetarium-takes-thousands-of-alaskan-students-on-a-cosmic-adventure/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2025/1_28_25_(2)-Carolyn_Y._Ng.jpeg",
+    "news_site": "NASA",
+    "summary": "Exploring the Cosmos and Inspiring Young Minds From January through June 2025, the Education Outreach Office at the University of Alaska Fairbanks Geophysical Institute (GI) continued its mission of bringing science to life by delivering the magic of its portable planetarium to communities across Alaska. This year, they reached over 1,807 students, educators, and participants […]",
+    "published_at": "2025-08-18T16:37:46Z",
+    "updated_at": "2025-08-18T17:10:05.164132Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "From January through June 2025, the University of Alaska Fairbanks Geophysical Institute delivered the magic of its portable planetarium to communities across Alaska. This year, they reached over 1,807 students, educators, and participants through engaging, interactive astronomy experiences. This program is funded in part by the NASA Heliophysics Education Activation Team."
+  },
+  {
+    "id": 32650,
+    "title": "Strategy 2040: Europe’s Vision for Exploration Beyond Artemis",
+    "authors": [
+      {
+        "name": "Beverly Casillas",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2025/08/strategy-2040-europes-vision-for-exploration-beyond-artemis/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/08/Header.png",
+    "news_site": "Space Scout",
+    "summary": "Amidst a changing world, space powers like ESA are forced to contend with new realities - where existing allies are no longer and the game has drastically changed.",
+    "published_at": "2025-08-18T16:26:06Z",
+    "updated_at": "2025-08-18T16:30:15.879714Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Four years ago, the European Space Agency laid out a vision to ride the wave. In 2025, the space landscape has continued to evolve, and political uncertainty in the United States has thrown Europe’s position as a valued partner into question. Now, the agency has refined that early vision into Strategy 2040, a roadmap for ESA to reclaim its autonomy on the world stage. ESA would also focus on lunar habitation, communications, navigation, power, and mobility. Explore 2040 characterizes these “European-led capabilities’ as a departure from Europe’s role as a dependent collaborator. The Moon to Mars Architecture attacks Mars “from the top down,” prioritizing high-level decisions about the broad shape of a Mars mission. ESA has not historically enjoyed similar funding to NASA, but must nevertheless present equivalent value on the world stage. Even if the United States scraps its prior commitments and pivots towards an aggressive Mars campaign, Europe’s pursuit of immediately transferable technology programs ensures it will have something tangible and meaningful to bring to the table."
+  },
+  {
+    "id": 32654,
+    "title": "Bone Loss Research Launches Aboard NASA’s SpaceX-33 Resupply Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/directorates/smd/bone-loss-research-launches-aboard-nasas-spacex-33-resupply-mission/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/precision-health/mesenchymal%20stem%20cells.tif",
+    "news_site": "NASA",
+    "summary": "The 33rd SpaceX commercial resupply services mission for NASA, scheduled to liftoff from the agency’s Kennedy Space Center in Florida in late August, is heading to the International Space Station with an important investigation for the future of bone health. The experiment will test how microgravity affects bone-forming and bone-degrading cells and explore potential ways […]",
+    "published_at": "2025-08-18T16:12:28Z",
+    "updated_at": "2025-08-18T17:10:05.183222Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The 33rd SpaceX commercial resupply services mission for NASA is scheduled to liftoff from the Kennedy Space Center in Florida in late August. The experiment will test how microgravity affects bone-forming and bone-degrading cells and explore potential ways to prevent bone loss. This research could help protect astronauts on future long-duration missions to the Moon and Mars."
+  },
+  {
+    "id": 32649,
+    "title": "NASA, Army National Guard Partner on Flight Training for Moon Landing",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-army-national-guard-partner-on-flight-training-for-moon-landing/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/screenshot-2025-08-04-at-2-44-45%E2%80%AFpm.png",
+    "news_site": "NASA",
+    "summary": "By Corinne BeckingerWhen Artemis astronauts land on the Moon’s South Pole in a commercial human landing system, they will encounter a landscape pockmarked with deep craters, sloped connecting ridges, and harsh lighting conditions. The Moon’s lack of contrast, combined with its rolling terrain, will also pose a challenge, making it difficult for astronauts to overcome […]",
+    "published_at": "2025-08-18T16:00:03Z",
+    "updated_at": "2025-08-18T16:10:05.322523Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA and the U.S. Army National Guard are using military helicopters to develop a foundational lunar landersimulated flight training course. The Moon’s lack of contrast, combined with its rolling terrain, will also pose a challenge, making it difficult for astronauts to overcome visual illusions on the lunar surface. The Artemis campaign will send astronauts to explore the Moon for scientific discovery, economic benefits, and to build the foundation for the first crewed missions to Mars. “Our Colorado Army National Guard pilots may not fly around the Moon, but we wear our motto, de monitbus ad astra — from the mountains to the stars — with pride”"
+  },
+  {
+    "id": 32647,
+    "title": "NASA, Army National Guard Partner on Flight Training for Moon Landing",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/general/nasa-army-national-guard-partner-on-flight-training-for-moon-landing/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/screenshot-2025-08-04-at-2-44-45%E2%80%AFpm.png",
+    "news_site": "NASA",
+    "summary": "By Corinne BeckingerWhen Artemis astronauts land on the Moon’s South Pole in a commercial human landing system, they will encounter a landscape pockmarked with deep craters, sloped connecting ridges, and harsh lighting conditions. The Moon’s lack of contrast, combined with its rolling terrain, will also pose a challenge, making it difficult for astronauts to overcome […]",
+    "published_at": "2025-08-18T16:00:03Z",
+    "updated_at": "2025-08-18T16:00:08.398967Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA and the U.S. Army National Guard are using military helicopters to develop a foundational lunar landersimulated flight training course. The Moon’s lack of contrast, combined with its rolling terrain, will also pose a challenge, making it difficult for astronauts to overcome visual illusions on the lunar surface. The Artemis campaign will send astronauts to explore the Moon for scientific discovery, economic benefits, and to build the foundation for the first crewed missions to Mars. “Our Colorado Army National Guard pilots may not fly around the Moon, but we wear our motto, de monitbus ad astra — from the mountains to the stars — with pride”"
+  },
+  {
+    "id": 32648,
+    "title": "Artemis II Crew Practices Night Launch Scenario",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-practices-night-launch-scenario/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/ksc-20250812-ph-kls01-0106orig.jpg",
+    "news_site": "NASA",
+    "summary": "NASA astronauts Christina Koch, Artemis II mission specialist, and Victor Glover, Artemis II pilot, walk on the crew access arm of the mobile launcher in the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Aug. 12, 2025. On Aug. 11 and 12, teams with the agency’s Exploration Ground Systems Program along with NASA […]",
+    "published_at": "2025-08-18T15:52:14Z",
+    "updated_at": "2025-08-18T16:00:08.418755Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Artemis campaign will send astronauts to explore the Moon for scientific discovery, economic benefits, and to build the foundation for the first crewed missions to Mars. On Aug. 11 and 12, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, practiced launch day operations if launch occurs at night."
+  },
+  {
+    "id": 32646,
+    "title": "Evaluating Blue Origin’s Mars Telecom Orbiter Proposal",
+    "authors": [
+      {
+        "name": "Ryan Caton",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/08/blue-origin-mto-proposal/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/NSF-2025-08-14-05-28-08-413.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Blue Origin has revealed its concept for a Mars Telecommunications Orbiter (MTO), entering a burgeoning…\nThe post Evaluating Blue Origin’s Mars Telecom Orbiter Proposal appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-08-18T14:58:25Z",
+    "updated_at": "2025-08-18T15:00:14.793383Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Blue Origin has revealed its concept for a Mars Telecommunications Orbiter (MTO) The proposal includes multiple steerable high-rate links, bolstered by deployable Ultra-High Frequency satellites in low Mars orbit. With over one metric ton of additional payload capacity, Blue Origin asserts orbiter could be ready by 2028. Rocket Lab’s entry draws from its earlier Mars Sample Return (MSR) architecture. The company emphasizes its efficient in-house supply chain and proven track record. Lockheed Martin, a veteran in the field, bases its proposal on a fixed-price MSR mission concept."
+  },
+  {
+    "id": 32645,
+    "title": "NASA Invites Media to Northrop Grumman CRS-23 Station Resupply Launch",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-23-station-resupply-launch/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/53903856291-669a22d3a7-k.jpg",
+    "news_site": "NASA",
+    "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus spacecraft will launch to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 23, or Northrop Grumman […]",
+    "published_at": "2025-08-18T14:51:11Z",
+    "updated_at": "2025-08-18T15:01:09.983962Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "3bfed6d5-d65e-4133-b51a-b664bbd9d006",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus spacecraft will launch to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The spacecraft will remain at the space station for more than two months."
+  },
+  {
+    "id": 32644,
+    "title": "New ESA Business Incubator in Spain Opens First Call for Proposals",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/new-esa-business-incubator-in-spain-opens-first-call-for-proposals/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/New-ESA-Business-Incubator-in-Spain-Opens-First-Call-for-Proposals.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency’s new Business Incubation Centre in Andalusia, southern Spain, has opened its first call for proposals, offering up to €60,000 to space startups in the region. Launched in 2003, the ESA Business Incubation Centres initiative is part of the agency’s efforts to commercialise national investments in its space programmes. The initiative targets […]\nThe post New ESA Business Incubator in Spain Opens First Call for Proposals appeared first on European Spaceflight.",
+    "published_at": "2025-08-18T13:50:21Z",
+    "updated_at": "2025-08-18T14:00:15.013901Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The European Space Agency’s new Business Incubation Centre in Andalusia, southern Spain, has opened its first call for proposals. The initiative targets newly formed companies as well as startups that have been in business for no longer than five years. There are currently more than 30 BICs across Europe, which have supported approximately 1,500 startups."
+  },
+  {
+    "id": 32643,
+    "title": "NASA Challenge Winners Cook Up New Industry Developments",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-challenge-winners-cook/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/il-nucleus-3.jpg",
+    "news_site": "NASA",
+    "summary": "NASA invests in technologies that have the potential to revolutionize space exploration, including the way astronauts live in space. Through the Deep Space Food Challenge, NASA, in partnership with CSA (Canadian Space Agency), sought novel food production systems that could provide long-duration human space exploration missions with safe, nutritious, and tasty food. Three winners selected […]",
+    "published_at": "2025-08-18T13:22:24Z",
+    "updated_at": "2025-08-18T13:30:06.569217Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA sought novel food production systems that could provide long-duration human space exploration missions with safe, nutritious, and tasty food. Interstellar Lab of Merritt Island, Florida, won the challenge’s $750,000 grand prize for its food production system NuCLEUS. Team Nolux, formed from faculty members, graduate, and undergraduate students from the University of California, Riverside, won a $250,000 second prize. NASA is celebrating its centennial with a series of challenges. Stay tuned for more information: http://www.nasa.gov/prizes-challenge-and-crowdsourcing/centennial-challenges. NASA explores the unknown in air and space, innovates for the benefit of humanity."
+  },
+  {
+    "id": 32642,
+    "title": "ESA’s Arctic Weather Satellite adds power to forecasts",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/ESA_s_Arctic_Weather_Satellite_adds_power_to_forecasts",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/07/arctic_weather_satellite_small_but_perfectly_formed/26216370-1-eng-GB/Arctic_Weather_Satellite_small_but_perfectly_formed_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-08-18T11:34:00Z",
+    "updated_at": "2025-08-18T15:00:19.328774Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d61c53c4-669a-44cd-a905-cea38e8e21d6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "The European Centre for Medium-Range Weather Forecasts (ECMWF) is the first centre to use these new observations operationally, which are leading to a robust improvement in forecasts. The data, along with numerous other observations, are merged with a short-range forecast that is guided by earlier measurements to produce the most accurate possible snapshot of the Earth’s current state. The proposed constellation would comprise six satellites for higher temporal coverage. Each satellite would be replenished three times to ensure data is delivered for years to come. It is envisaged that ESA would build the EPS-Sterna constellation in cooperation with Eumetsat, following the established model for Europe's other meteorological missions."
+  },
+  {
     "id": 32641,
     "title": "Curiosity Blog, Sols 4629-4630: Feeling Hollow",
     "authors": [
@@ -684,305 +994,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "MetOp-SG-A1 is the first in a series of three successive pairs of satellites. It hosts the Copernicus Sentinel-5 mission, which delivers daily global data on air pollutants and atmospheric trace gases. Ariane 6 is Europe’s heavy launcher and a key element of ESA's efforts to ensure autonomous access to space."
-  },
-  {
-    "id": 32608,
-    "title": "The Exploration Company Taps Agile Space for Nyx Earth Thrusters",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/the-exploration-company-taps-agile-space-for-nyx-earth-thrusters/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/The-Exploration-Company-Taps-Agile-Space-for-Nyx-Earth-Thrusters.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The Exploration Company has awarded US-based Agile Space a contract to provide thrusters for its Nyx Earth spacecraft. Founded in 2021, The Exploration Company is developing a reusable spacecraft that will initially be used to transport cargo to and from the International Space Station under a European Space Agency contract. An initial mission to the […]\nThe post The Exploration Company Taps Agile Space for Nyx Earth Thrusters appeared first on European Spaceflight.",
-    "published_at": "2025-08-14T13:45:22Z",
-    "updated_at": "2025-08-14T13:50:13.490608Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Exploration Company has awarded a contract to Agile Space for thrusters for its Nyx Earth spacecraft. The company is developing a reusable spacecraft that will initially be used to transport cargo to and from the International Space Station. An initial mission to the orbiting laboratory is expected to take place no later than 2028."
-  },
-  {
-    "id": 32607,
-    "title": "NASA’s Stennis Space Center Employees Receive NASA Honor Awards",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/stennis/stennis-employees-receive-honor-awards/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/s25-019-2-employees-receive-nasa-honor-awards.jpg",
-    "news_site": "NASA",
-    "summary": "NASA Stennis Space Center Director John Bailey and Deputy Director Christine Powell presented NASA Honor Awards to employees during an onsite ceremony Aug. 13. One NASA Stennis employee received NASA’s Outstanding Leadership Medal. The medal is awarded to government employees for notable leadership accomplishments that have significantly influenced the NASA mission. Marvin Horne of Fulton, […]",
-    "published_at": "2025-08-14T13:40:40Z",
-    "updated_at": "2025-08-14T13:50:10.082170Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Three NASA Stennis employees received NASA’s Exceptional Service Medal. Marvin Horne of Fulton, Maryland, received the NASA Outstanding Leadership Medal. Barry Robinson of Slidell, Louisiana, was awarded the medal in absentia. Jared Grover of Diamondhead, Mississippi, led various testing and facility preparation efforts. Eight NASA Stennis employees received NASA’s Exceptional Achievement Medal. Medal is awarded to any government employee for a significant specific achievement or substantial improvement in operations, efficiency, service, financial savings, science, or technology which contributes to the mission of NASA. Leslie Anderson of Picayune, Mississippi received the NASA Exceptional achievement Medal in absentia. Four NASA Stennis employees received NASA’s Early Career Achievement Medal. Dale Woolridge of Slidell, Louisiana received the NASA Exceptional Achievement Medal in absentia. Briou Bourgeois played a key role in modifying the liquid oxygen tanking process during the SLS core stage series. Andrew Bracey of Picayune, Mississippi, received the NASA Silver Achievement Medal for contributions. He has provided critical design support for work related to Green Run testing of the new SLS (Space Launch System) exploration upper stage. Bracey also has been crucial to the NASA Stennis vision of supporting commercial aerospace testing."
-  },
-  {
-    "id": 32605,
-    "title": "NASA Glenn Earns Commercial Invention of the Year Award",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-earns-commercial-invention-of-the-year-award/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/grc-2023-c-02304.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Inventions and Contributions Board (ICB) has awarded Commercial Invention of the Year to NASA Glenn Research Center’s GRX-810: A 3D Printable Alloy Designed for Extreme Environments.   NASA Alloy GRX–810, an oxide dispersion strengthened (ODS) alloy, can endure temperatures over 2,000 degrees Fahrenheit. It is more malleable and can survive more than 1,000 times longer […]",
-    "published_at": "2025-08-14T11:56:06Z",
-    "updated_at": "2025-08-14T12:00:10.535502Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA Glenn Research Center’s GRX-810: A 3D Printable Alloy Designed for Extreme Environments. GRX–810, an oxide dispersion strengthened (ODS) alloy, can endure temperatures over 2,000 degrees Fahrenheit. It is more malleable and can survive more than 1,000 times longer than existing state-of-the-art alloys."
-  },
-  {
-    "id": 32604,
-    "title": "NASA Tests Research Aircraft to Improve Air Taxi Flight Controls",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/aeronautics/air-taxi-flight-controls/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/raven-first-flight-april-2025-straight-angle.jpg",
-    "news_site": "NASA",
-    "summary": "Flying the friendly skies may one day include time-saving trips in air taxis to get from point A to point B – and NASA researchers are currently working to make that future a reality. They are using wind tunnel and flight tests to gather data on an electric Vertical takeoff and landing (eVTOL) scaled-down small […]",
-    "published_at": "2025-08-14T10:00:00Z",
-    "updated_at": "2025-08-14T10:00:15.956459Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA researchers are using wind tunnel and flight tests to gather data on an electric Vertical takeoff and landing (eVTOL) small aircraft. The small aircraft weighs 38 pounds with a wingspan of six feet and has 24 independently moving components. The testing is ongoing at NASA’s Langley Research Center in Hampton, Virginia. NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. missions Artemis Aeronautics STEM Explore NASA’s History NASA: The Journey Through Space and Beyond. Artemis: The journey through space and beyond."
-  },
-  {
-    "id": 32606,
-    "title": "FLEX instrument meets its satellite",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/FLEX_instrument_meets_its_satellite",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/flex_instrument_meets_its_satellite/26839439-1-eng-GB/FLEX_instrument_meets_its_satellite_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-08-14T09:05:00Z",
-    "updated_at": "2025-08-14T13:10:18.446216Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "FLEX’s fluorescence imaging spectrometer is called FLORIS for short. It is designed to map vegetation fluorescence around the globe and quantify photosynthetic activity and plant stress. The next step is to carry out a final series of tests ahead of the launch scheduled in 2026."
-  },
-  {
-    "id": 32603,
-    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/14/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 10-20 mission will add another 28 broadband internet satellites to SpaceX’s megaconstellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled at 6:47 a.m. EDT (1047 UTC). ",
-    "published_at": "2025-08-14T02:59:27Z",
-    "updated_at": "2025-08-14T03:10:18.486305Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX is preparing to launch a batch of 28 of its Starlink V2 Mini satellites into low Earth orbit minutes before sunrise on Thursday morning. It’s targeting the liftoff of its Falcon 9 rocket on the Starlink 10-20 mission from pad 40 at Cape Canaveral Space Force Station at 6:47 a.m. EDT. This will be the 69th orbital launch from Florida so far this year."
-  },
-  {
-    "id": 32602,
-    "title": "Trump Issues Executive Order on Commercial Space",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/trump-issues-executive-order-on-commercial-space/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Trump-EO-policy-300x59.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "President Trump issued a broad Executive Order this afternoon addressing commercial space activities overseen by the Department of Transportation and the Department of Commerce.  Among the provisions, DOT must reform […]",
-    "published_at": "2025-08-13T23:17:04Z",
-    "updated_at": "2025-08-13T23:20:14.865999Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "President Trump issued a broad Executive Order this afternoon addressing commercial space activities. DOT must reform regulations for commercial space launch and reentry and several agencies working together to advance development of spaceport infrastructure. The Executive Order, “ Enabling Competition in the Commercial Space Industry, ” is reminiscent of Trump’s Space Policy Directive-3."
-  },
-  {
-    "id": 32601,
-    "title": "U.S. Transportation Secretary & Acting NASA Administrator Sean P. Duffy Joins President Trump Executive Order Signing to Boost U.S. Space Competitiveness",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/u-s-transportation-secretary-acting-nasa-administrator-sean-p-duffy-joins-president-trump-executive-order-signing-to-boost-u-s-space-competitiveness/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2024/04/meatball.png",
-    "news_site": "NASA",
-    "summary": "U.S. Transportation Secretary and acting NASA Administrator Sean Duffy joined President Donald J. Trump at the White House Wednesday for the historic signing of the Executive Order (EO), “Enabling Competition in the Commercial Space Industry.” “People think the Department of Transportation (DOT) is just planes, trains, and automobiles – but we have a critical role […]",
-    "published_at": "2025-08-13T23:07:45Z",
-    "updated_at": "2025-08-13T23:10:08.318436Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "U.S. Transportation Secretary and acting NASA Administrator Sean Duffy joined President Donald J. Trump at the White House Wednesday for the historic signing of the Executive Order. “People think the Department of Transportation (DOT) is just planes, trains, and automobiles – but we have a critical role to play in unlocking the final frontier,” said Duffy."
-  },
-  {
-    "id": 32600,
-    "title": "Ship 37 completes a Spin Prime test following Engine Swap",
-    "authors": [
-      {
-        "name": "Ryan Weber",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/ship-37-spin-prime-engine-swap/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Ship-37-mounted-on-Pad-1-A-Again-for-engine-testing-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "The target launch date for Flight 10 is one step closer after the retest of…\nThe post Ship 37 completes a Spin Prime test following Engine Swap appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-13T22:01:41Z",
-    "updated_at": "2025-08-13T22:10:21.430791Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX has completed a pair of static fires on Pad 1 (A) and returned Ship 37 to Mega Bay 2 for more engine testing. The target launch date for Flight 10 is one step closer after the retest of Ship 37, which followed an engine change. The launch pad teams quickly uninstalled all of the modifications and re-installing 16 out of 20 booster hold-down clamps. Ship 37 completed a six engine spin prime during the second closure of Mega Bay 1. With this testing completed, Ship 37 will likely roll back to Mega Bay 2 for final launch preparations and checkouts. SpaceX will likely load the dummy Starlinks for the fourth time on a ship, in an attempt to test the pez deploy system in space."
-  },
-  {
-    "id": 32599,
-    "title": "The NASA RASC-AL 2026 Competition",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-rasc-al-2026-competition/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/rascal.png",
-    "news_site": "NASA",
-    "summary": "NASA is calling on the next generation of collegiate innovators to imagine bold new concepts pushing the boundaries of human exploration on the Moon, Mars, and beyond through the 2026 NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition. The RASC-AL challenge fuels innovation for aerospace systems concepts, analogs, and technology prototyping by bridging […]",
-    "published_at": "2025-08-13T20:01:00Z",
-    "updated_at": "2025-08-13T20:10:11.024954Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "2026 NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition. Challenge fuels innovation for aerospace systems concepts, analogs, and technology prototyping. Award: $112,000 in total prizes. Open Date: August 13, 2025 Close Date: February 23, 2026"
-  },
-  {
-    "id": 32597,
-    "title": "Alligator Goes for a Swim",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/alligator-goes-for-a-swim/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/ksc-20170508-ph-sww01-0018orig.jpg",
-    "news_site": "NASA",
-    "summary": "An alligator moves through a brackish waterway at NASA’s Kennedy Space Center in Florida in this May 8, 2017, photo. The center shares space with the Merritt Island National Wildlife Refuge. More than 330 native and migratory bird species, 25 mammals, 117 fishes and 65 amphibians and reptiles call NASA Kennedy and the wildlife refuge […]",
-    "published_at": "2025-08-13T15:24:11Z",
-    "updated_at": "2025-08-13T15:30:10.612460Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The center shares space with the Merritt Island National Wildlife Refuge. More than 330 native and migratory bird species, 25 mammals, 117 fishes and 65 amphibians and reptiles call NASA Kennedy and the wildlife refuge home. The refuge is also home to over 1,000 known plant species."
-  },
-  {
-    "id": 32594,
-    "title": "Portugal’s ASC Granted Licence for Santa Maria Launch Centre",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/portugals-asc-granted-licence-for-santa-maria-launch-centre/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/Portugals-ASC-Granted-Licence-for-Santa-Maria-Launch-Centre.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Portugal has granted the Atlantic Spaceport Consortium a licence to build and operate a rocket launch facility on the island of Santa Maria. The Atlantic Spaceport Consortium (ASC) was founded in 2019 with the goal of developing a commercial spaceport on the island of Santa Maria, 1,500 kilometres off the Portuguese mainland. In September 2024, […]\nThe post Portugal’s ASC Granted Licence for Santa Maria Launch Centre appeared first on European Spaceflight.",
-    "published_at": "2025-08-13T14:36:10Z",
-    "updated_at": "2025-08-13T14:40:13.709618Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Atlantic Spaceport Consortium (ASC) was founded in 2019 with the goal of developing a commercial spaceport on the island of Santa Maria. In September 2024, the company showcased the island’s suitability as a launch site by launching two small solid-fuel rockets that it had developed in-house. In July, ASC signed an agreement with Poland-based rocket builder SpaceForest to launch its 11.5-metre Perun rocket from the island."
-  },
-  {
-    "id": 32596,
-    "title": "Tracking the climate-driven shift in Antarctic plankton from space",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Tracking_the_climate-driven_shift_in_Antarctic_plankton_from_space",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/penguins_resting_on_antarctic_sea_ice/26837587-2-eng-GB/Penguins_resting_on_Antarctic_sea_ice_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Combining 25 years of space-based data with ocean sampling, scientists have uncovered a change in the microscopic organisms that underpin the Southern Ocean’s food chain and carbon storage.",
-    "published_at": "2025-08-13T14:30:00Z",
-    "updated_at": "2025-08-13T15:20:14.404617Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Study uses satellite observations to study phytoplankton in the Southern Ocean. Findings could have effects on the marine food web and role as a carbon sink. Researchers analysed marker pigments in more than 14 000 in-situ samples to investigate changes in species composition over a 25-year period. Phytoplankton biomass and pigment diversity have been designated an essential climate variable. Long-term satellite records are needed to understand the cycles of these organisms. ESA’s climate initiative is establishing a project called Phyto-CCI. It aims to generate global records of phytop lankton types from space."
-  },
-  {
-    "id": 32593,
-    "title": "International Space Station undergoes crew handover, change of command",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/iss-crew-handover-command/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/IMG_9685.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "Expedition 73 aboard the International Space Station (ISS) continues to perform its scheduled science and…\nThe post International Space Station undergoes crew handover, change of command appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-13T14:07:08Z",
-    "updated_at": "2025-08-13T14:10:16.157424Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Crew Dragon Endeavour set a new record for the shortest time from launch to docking. The Station has a new commander and a new set of crew members on the U.S. side of the complex. Crew-11’s astronauts settled into life aboard the orbiting outpost. Four astronauts departed this week to conclude their tour of duty on ISS. Crew-11 may be tasked with a spacewalk on the U.S. segment that Crew-10 did not do. Japan’s HTV-X is scheduled to make its first flight to ISS no earlier than this October. CRS-33, using Cargo Dragon C211 on its third flight, is currently set to launch on Thursday. While Expedition 73 continues, decisions are being made on the ground about the coming budget for the Station. VAST’s Haven Demo, designed to test key systems aboard its coming space station, is scheduled to fly later this year. Thales Alenia in Europe has completed the shell of Axiom Space's first space station module."
-  },
-  {
-    "id": 32592,
-    "title": "NASA’s Hubble Uncovers Rare White Dwarf Merger Remnant",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-rare-white-dwarf-merger-remnant/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2025/08/STScI-01K1TXEFK7AAF8H2AJ37BPG1FD.tif",
-    "news_site": "NASA",
-    "summary": "An international team of astronomers has discovered a cosmic rarity: an ultra-massive white dwarf star resulting from a white dwarf merging with another star, rather than through the evolution of a single star. This discovery, made by NASA’s Hubble Space Telescope’s sensitive ultraviolet observations, suggests these rare white dwarfs may be more common than previously […]",
-    "published_at": "2025-08-13T14:00:10Z",
-    "updated_at": "2025-08-13T14:10:11.716738Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Astronomers used Hubble’s Cosmic Origins Spectrograph to investigate a white dwarf called WD 0525+526. Located 128 light-years away, it is 20% more massive than the Sun. In visible light, the spectrum of the white dwarf's atmosphere resembled that of a typical white dwarf. But Hubble's ultraviolet vision revealed that it had a very different history from what we would have guessed. The high temperature and low carbon abundance mean that identifying this white dwarf as the product of a merger would have been impossible without Hubble’s sensitivity to ultraviolet light. Because WD 0525+526's origin was revealed only once astronomers glimpsed its ultraviolet spectrum, it's likely that other seemingly “normal” white dwarfs are actually the result of cosmic collisions."
   }
 ]
