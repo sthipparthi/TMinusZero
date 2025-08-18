@@ -1,5 +1,30 @@
 [
   {
+    "id": 32641,
+    "title": "Curiosity Blog, Sols 4629-4630: Feeling Hollow",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4629-4630-feeling-hollow/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04628_opgs_edr_ncam_NLB_808343280EDR_F1180924NCAM00353M_.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Elena Amador-French, Science Operations Coordinator at NASA’s Jet Propulsion Laboratory Earth planning date: Wednesday, Aug. 13, 2025 Today’s team investigated the texture and chemistry of the bedrock within a topographic low, or hollow, found within the greater boxwork area. We will place our APXS instrument on the “Asiruqucha” target, some light-toned, small-scale nodular […]",
+    "published_at": "2025-08-18T07:03:09Z",
+    "updated_at": "2025-08-18T07:56:52.160504Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "Today’s team investigated the texture and chemistry of the bedrock within a topographic low, or hollow, found within the greater boxwork area. We will also observe a small crescent-shaped rock named “Wedge Tailed Hillstar” with MAHLI. Once these observations are completed Curiosity will set off on a 30-meter drive (about 98 feet) to an interesting ridge feature."
+  },
+  {
     "id": 32640,
     "title": "Countdown To Launch : What to Expect From Starship Flight 10",
     "authors": [
@@ -959,25 +984,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Astronomers used Hubble’s Cosmic Origins Spectrograph to investigate a white dwarf called WD 0525+526. Located 128 light-years away, it is 20% more massive than the Sun. In visible light, the spectrum of the white dwarf's atmosphere resembled that of a typical white dwarf. But Hubble's ultraviolet vision revealed that it had a very different history from what we would have guessed. The high temperature and low carbon abundance mean that identifying this white dwarf as the product of a merger would have been impossible without Hubble’s sensitivity to ultraviolet light. Because WD 0525+526's origin was revealed only once astronomers glimpsed its ultraviolet spectrum, it's likely that other seemingly “normal” white dwarfs are actually the result of cosmic collisions."
-  },
-  {
-    "id": 32595,
-    "title": "NASA’s SpaceX-33 Resupply Mission Launches Research to Station",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-33-resupply-mission-launches-research-to-station/",
-    "image_url": "https://images-assets.nasa.gov/image/jsc2025e064331/jsc2025e064331~orig.jpg",
-    "news_site": "NASA",
-    "summary": "Research traveling to the International Space Station aboard NASA’s SpaceX 33rd commercial resupply mission includes testing 3D bioprinting of an implantable medical device, observing behavior of engineered liver tissues, examining microgravity’s effects on bone-forming cells, and additional 3D printing of metal in space. The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory […]",
-    "published_at": "2025-08-13T14:00:00Z",
-    "updated_at": "2025-08-13T15:10:09.217493Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory in late August. For nearly 25 years, the International Space Station has provided research capabilities used by scientists from over 110 countries to conduct more than 4,000 groundbreaking experiments in microgravity. Research conducted aboard the space station advances future space exploration. This investigation is a continuation of ESA’s efforts to develop in-space manufacturing and materials recycling capabilities. The ESA investigation team includes Airbus Defence and Space SAS and the User Support Centre CADMOS in France. Learn more about the research aboard the International Space Station at: www.nasa.gov/iss-science."
   }
 ]
