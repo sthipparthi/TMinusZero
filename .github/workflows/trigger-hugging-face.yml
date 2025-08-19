@@ -36,10 +36,14 @@ jobs:
           TARGET_WORDS: "1000"
         run: python scripts/agent.py
 
-      - name: Commit and push updated news.json
+      - name: Run upcoming events fetch
+        run: python scripts/upcoming-events-agent.py
+
+      - name: Commit and push updated files
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add public/space_news.json || true
-          git commit -m "chore: update space news with detailed summaries" || echo "no changes"
+          git add public/upcoming_events.json || true
+          git commit -m "chore: update space news and upcoming launches" || echo "no changes"
           git push origin HEAD:${{ github.ref_name }}

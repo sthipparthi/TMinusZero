@@ -12,6 +12,11 @@ function App() {
   const [showScrollButtons, setShowScrollButtons] = useState(false);
   const [canScrollLeft, setCanScrollLeft] = useState(false);
   const [canScrollRight, setCanScrollRight] = useState(false);
+  const [upcomingLaunches, setUpcomingLaunches] = useState([]);
+  const [showLaunchScrollButtons, setShowLaunchScrollButtons] = useState(false);
+  const [canScrollLaunchLeft, setCanScrollLaunchLeft] = useState(false);
+  const [canScrollLaunchRight, setCanScrollLaunchRight] = useState(false);
+  const [autoScrollInterval, setAutoScrollInterval] = useState(null);
 
   // Space agencies tabs
   const spaceAgencies = [
@@ -78,6 +83,19 @@ function App() {
     }
   };
 
+  const fetchUpcomingLaunches = async () => {
+    try {
+      const res = await fetch(process.env.PUBLIC_URL + "/upcoming_events.json?t=" + Date.now());
+      const data = await res.json();
+      // Extract launches from the wrapped data structure
+      const launches = data.launches || [];
+      setUpcomingLaunches(launches.slice(0, 10)); // Limit to 10 launches
+    } catch (error) {
+      console.error("Error fetching upcoming launches:", error);
+      setUpcomingLaunches([]); // Set empty array on error
+    }
+  };
+
   const getLocation = async () => {
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
@@ -111,8 +129,10 @@ function App() {
   useEffect(() => {
     fetchArticles();
     getLocation();
+    fetchUpcomingLaunches();
 
     const articleInterval = setInterval(fetchArticles, 60 * 60 * 1000); // Hourly
+    const launchInterval = setInterval(fetchUpcomingLaunches, 30 * 60 * 1000); // Every 30 minutes
     const clockInterval = setInterval(
       () => setCurrentTime(new Date()),
       1000
@@ -120,6 +140,7 @@ function App() {
 
     return () => {
       clearInterval(articleInterval);
+      clearInterval(launchInterval);
       clearInterval(clockInterval);
       // Cleanup: restore scrolling if component unmounts
       document.body.style.overflow = 'unset';
@@ -187,6 +208,91 @@ function App() {
     }
   };
 
+  // Launch carousel scroll functions with looping
+  const scrollLaunches = (direction) => {
+    const launchContainer = document.querySelector('.launch-carousel');
+    if (launchContainer) {
+      const scrollAmount = 176; // Width of smaller card (160px) + gap (16px)
+      const currentScroll = launchContainer.scrollLeft;
+      const maxScroll = launchContainer.scrollWidth - launchContainer.clientWidth;
+      
+      if (direction === 'right') {
+        if (currentScroll >= maxScroll - 10) { // Near the end
+          // Loop back to start
+          launchContainer.scrollTo({
+            left: 0,
+            behavior: 'smooth'
+          });
+        } else {
+          launchContainer.scrollBy({
+            left: scrollAmount,
+            behavior: 'smooth'
+          });
+        }
+      } else if (direction === 'left') {
+        if (currentScroll <= 10) { // Near the start
+          // Loop to end
+          launchContainer.scrollTo({
+            left: maxScroll,
+            behavior: 'smooth'
+          });
+        } else {
+          launchContainer.scrollBy({
+            left: -scrollAmount,
+            behavior: 'smooth'
+          });
+        }
+      }
+      
+      // Update scroll button states after scrolling
+      setTimeout(() => checkLaunchScrollButtonStates(), 100);
+    }
+  };
+
+  // Auto-scroll function
+  const startAutoScroll = () => {
+    if (autoScrollInterval) clearInterval(autoScrollInterval);
+    
+    const interval = setInterval(() => {
+      scrollLaunches('right');
+    }, 2000); // Auto scroll every 2 seconds
+    
+    setAutoScrollInterval(interval);
+  };
+
+  const stopAutoScroll = () => {
+    if (autoScrollInterval) {
+      clearInterval(autoScrollInterval);
+      setAutoScrollInterval(null);
+    }
+  };
+
+  // Check launch carousel scroll button states
+  const checkLaunchScrollButtonStates = () => {
+    const launchContainer = document.querySelector('.launch-carousel');
+    if (launchContainer) {
+      const scrollLeft = launchContainer.scrollLeft;
+      const maxScroll = launchContainer.scrollWidth - launchContainer.clientWidth;
+      
+      setCanScrollLaunchLeft(scrollLeft > 0);
+      setCanScrollLaunchRight(scrollLeft < maxScroll);
+    }
+  };
+
+  // Check if launch carousel has overflow
+  const checkLaunchOverflow = () => {
+    const launchContainer = document.querySelector('.launch-carousel');
+    if (launchContainer) {
+      const hasOverflow = launchContainer.scrollWidth > launchContainer.clientWidth;
+      setShowLaunchScrollButtons(hasOverflow);
+      
+      // Also check scroll button states
+      if (hasOverflow) {
+        checkLaunchScrollButtonStates();
+      }
+    }
+  };
+
   // Check overflow on window resize and scroll
   useEffect(() => {
     const handleResize = () => {
@@ -216,6 +322,44 @@ function App() {
       }
     };
   }, [activeTab]); // Re-run when activeTab changes
+
+  // Check launch carousel overflow on resize and mount
+  useEffect(() => {
+    const handleResize = () => {
+      checkLaunchOverflow();
+    };
+
+    const handleLaunchScroll = () => {
+      checkLaunchScrollButtonStates();
+    };
+
+    // Check overflow after launches are loaded
+    const timer = setTimeout(() => {
+      checkLaunchOverflow();
+      // Start auto-scroll if we have launches
+      if (upcomingLaunches.length > 0) {
+        startAutoScroll();
+      }
+    }, 200);
+
+    window.addEventListener('resize', handleResize);
+    
+    // Add scroll listener to the launch container
+    const launchContainer = document.querySelector('.launch-carousel');
+    if (launchContainer) {
+      launchContainer.addEventListener('scroll', handleLaunchScroll);
+    }
+
+    return () => {
+      clearTimeout(timer);
+      window.removeEventListener('resize', handleResize);
+      if (launchContainer) {
+        launchContainer.removeEventListener('scroll', handleLaunchScroll);
+      }
+      // Clean up auto-scroll
+      stopAutoScroll();
+    };
+  }, [upcomingLaunches]); // Re-run when launches change
 
   return (
     <>
@@ -302,6 +446,112 @@ function App() {
               )}
             </div>
           </div>
+
+          {/* Launch Carousel Section */}
+          {upcomingLaunches.length > 0 && (
+            <div className="bg-gradient-to-r from-purple-900/15 to-blue-900/15 border-b border-purple-500/20">
+              <div className="px-4 py-3">
+                {/* Launch Cards Carousel with Side Controls */}
+                <div className="relative flex items-center">
+                  {/* Left Scroll Button */}
+                  {showLaunchScrollButtons && (
+                    <button
+                      onClick={() => {
+                        stopAutoScroll();
+                        scrollLaunches('left');
+                        setTimeout(startAutoScroll, 1000); // Restart auto-scroll after manual interaction
+                      }}
+                      className="absolute left-2 z-20 p-3 bg-black/50 hover:bg-black/70 text-white rounded-full transition-all duration-200 hover:scale-110 backdrop-blur-sm"
+                      aria-label="Scroll launches left"
+                    >
+                      <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                      </svg>
+                    </button>
+                  )}
+
+                  {/* Launch Cards Container */}
+                  <div 
+                    className="launch-carousel flex gap-4 overflow-x-auto pb-2 px-16 py-4"
+                    style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+                    onMouseEnter={stopAutoScroll}
+                    onMouseLeave={startAutoScroll}
+                  >
+                    {upcomingLaunches.map((launch) => (
+                      <div 
+                        key={launch.id} 
+                        className="flex-shrink-0 w-40 bg-white/10 rounded-lg p-2 border border-white/20 hover:border-white/40 transition-all duration-300 hover:transform hover:scale-105 hover:shadow-2xl hover:shadow-black/50"
+                      >
+                        {/* Launch Image */}
+                        {launch.image && (
+                          <img
+                            src={launch.image}
+                            alt={launch.name}
+                            className="w-full h-20 object-cover rounded-lg mb-2"
+                            onError={(e) => {
+                              e.target.src = "https://images.unsplash.com/photo-1517976487492-5750f3195933?w=400&h=200&fit=crop";
+                            }}
+                          />
+                        )}
+                        
+                        {/* Launch Info */}
+                        <div className="text-white">
+                          <h3 className="font-semibold text-sm mb-2 line-clamp-2">
+                            {launch.name}
+                          </h3>
+                          
+                          <div className="space-y-1 text-xs text-gray-300">
+                            <div className="flex items-center gap-1">
+                              <span className="font-medium">📅</span>
+                              <span>{dayjs(launch.window_start).format("MMM D, YYYY")}</span>
+                            </div>
+                            
+                            {launch.location && (
+                              <div className="flex items-center gap-1">
+                                <span className="font-medium">📍</span>
+                                <span className="line-clamp-1 text-xs">{launch.location}</span>
+                              </div>
+                            )}
+                            
+                            {launch.lsp_name && (
+                              <div className="flex items-center gap-1">
+                                <span className="font-medium">🏢</span>
+                                <span className="line-clamp-1 text-xs">{launch.lsp_name}</span>
+                              </div>
+                            )}
+                            
+                            {launch.mission && launch.mission !== "Unknown Payload" && (
+                              <div className="flex items-center gap-1">
+                                <span className="font-medium">🚀</span>
+                                <span className="line-clamp-1 text-xs">{launch.mission}</span>
+                              </div>
+                            )}
+                          </div>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+
+                  {/* Right Scroll Button */}
+                  {showLaunchScrollButtons && (
+                    <button
+                      onClick={() => {
+                        stopAutoScroll();
+                        scrollLaunches('right');
+                        setTimeout(startAutoScroll, 1000); // Restart auto-scroll after manual interaction
+                      }}
+                      className="absolute right-2 z-20 p-3 bg-black/50 hover:bg-black/70 text-white rounded-full transition-all duration-200 hover:scale-110 backdrop-blur-sm"
+                      aria-label="Scroll launches right"
+                    >
+                      <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                      </svg>
+                    </button>
+                  )}
+                </div>
+              </div>
+            </div>
+          )}
 
           <main className="flex-grow p-4 grid gap-3 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
             {articles.map((article) => (

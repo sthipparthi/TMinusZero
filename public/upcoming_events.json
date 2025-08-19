@@ -1,0 +1,179 @@
+{
+  "count": 9,
+  "last_updated": "2025-08-19T15:35:32.844029Z",
+  "source": "The Space Devs API",
+  "filter_criteria": "status.name == \"Go\"",
+  "launches": [
+    {
+      "id": "49678ae6-8664-4d60-9aa2-622c087ed917",
+      "name": "Soyuz 2.1a | Bion-M No. 2",
+      "status": {
+        "id": 1,
+        "name": "Go"
+      },
+      "net": "2025-08-20T17:13:00Z",
+      "window_start": "2025-08-20T17:13:00Z",
+      "window_end": "2025-08-20T17:13:00Z",
+      "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+      "mission": "Bion-M No. 2",
+      "mission_type": "Biology",
+      "pad": "31/6",
+      "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/49678ae6-8664-4d60-9aa2-622c087ed917/"
+    },
+    {
+      "id": "709a1d9f-a0aa-4fd0-b108-1015393f49e1",
+      "name": "Angara 1.2 | Kosmos (Unknown Payload)",
+      "status": {
+        "id": 1,
+        "name": "Go"
+      },
+      "net": "2025-08-21T08:30:00Z",
+      "window_start": "2025-08-21T08:30:00Z",
+      "window_end": "2025-08-21T10:30:00Z",
+      "lsp_name": "Russian Space Forces",
+      "mission": "Kosmos (Unknown Payload)",
+      "mission_type": "Government/Top Secret",
+      "pad": "35/1",
+      "location": "Plesetsk Cosmodrome, Russian Federation",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/angara25201.2_image_20190224012254.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/709a1d9f-a0aa-4fd0-b108-1015393f49e1/"
+    },
+    {
+      "id": "80af8d63-64aa-4d16-9abd-bdbe167cecb9",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-6",
+      "status": {
+        "id": 1,
+        "name": "Go"
+      },
+      "net": "2025-08-22T15:44:00Z",
+      "window_start": "2025-08-22T15:44:00Z",
+      "window_end": "2025-08-22T19:44:00Z",
+      "lsp_name": "SpaceX",
+      "mission": "Starlink Group 17-6",
+      "mission_type": "Communications",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/80af8d63-64aa-4d16-9abd-bdbe167cecb9/"
+    },
+    {
+      "id": "5b483b3d-d5c5-44df-8a67-c5a8ad87a123",
+      "name": "Electron | Live, Laugh, Launch",
+      "status": {
+        "id": 1,
+        "name": "Go"
+      },
+      "net": "2025-08-23T22:30:00Z",
+      "window_start": "2025-08-23T22:30:00Z",
+      "window_end": "2025-08-23T22:30:00Z",
+      "lsp_name": "Rocket Lab",
+      "mission": "Live, Laugh, Launch",
+      "mission_type": "Communications",
+      "pad": "Unknown Pad",
+      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/5b483b3d-d5c5-44df-8a67-c5a8ad87a123/"
+    },
+    {
+      "id": "e8e93778-657c-401c-9c88-3cd4c7c45c9d",
+      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-33",
+      "status": {
+        "id": 1,
+        "name": "Go"
+      },
+      "net": "2025-08-24T06:45:00Z",
+      "window_start": "2025-08-24T06:45:00Z",
+      "window_end": "2025-08-24T06:45:00Z",
+      "lsp_name": "SpaceX",
+      "mission": "Dragon CRS-2 SpX-33",
+      "mission_type": "Resupply",
+      "pad": "Space Launch Complex 40",
+      "location": "Cape Canaveral SFS, FL, USA",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/e8e93778-657c-401c-9c88-3cd4c7c45c9d/"
+    },
+    {
+      "id": "3b4e8252-90d0-440f-a055-ddf687b7ce14",
+      "name": "Long March 8A | Unknown Payload",
+      "status": {
+        "id": 1,
+        "name": "Go"
+      },
+      "net": "2025-08-24T19:25:00Z",
+      "window_start": "2025-08-24T19:18:00Z",
+      "window_end": "2025-08-24T19:43:00Z",
+      "lsp_name": "China Aerospace Science and Technology Corporation",
+      "mission": "Unknown Payload",
+      "mission_type": "Unknown",
+      "pad": "Commercial LC-1",
+      "location": "Wenchang Space Launch Site, People's Republic of China",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_y1_in_vab_image_20250213053137.JPG",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/3b4e8252-90d0-440f-a055-ddf687b7ce14/"
+    },
+    {
+      "id": "fc1dafd8-bcb0-4e77-8ba9-2d03134f04e4",
+      "name": "Starship | Flight 10",
+      "status": {
+        "id": 1,
+        "name": "Go"
+      },
+      "net": "2025-08-24T23:30:00Z",
+      "window_start": "2025-08-24T23:30:00Z",
+      "window_end": "2025-08-25T00:30:00Z",
+      "lsp_name": "SpaceX",
+      "mission": "Flight 10",
+      "mission_type": "Test Flight",
+      "pad": "Orbital Launch Mount A",
+      "location": "SpaceX Starbase, TX, USA",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/fc1dafd8-bcb0-4e77-8ba9-2d03134f04e4/"
+    },
+    {
+      "id": "cad4ded9-6f24-4b6c-b4ed-b5dca4613cdd",
+      "name": "Falcon 9 Block 5 | NAOS",
+      "status": {
+        "id": 1,
+        "name": "Go"
+      },
+      "net": "2025-08-26T18:53:00Z",
+      "window_start": "2025-08-26T18:53:00Z",
+      "window_end": "2025-08-26T19:20:00Z",
+      "lsp_name": "SpaceX",
+      "mission": "NAOS",
+      "mission_type": "Government/Top Secret",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/cad4ded9-6f24-4b6c-b4ed-b5dca4613cdd/"
+    },
+    {
+      "id": "a2f73993-79f6-4228-bebc-0ada6840e503",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-11",
+      "status": {
+        "id": 1,
+        "name": "Go"
+      },
+      "net": "2025-08-27T05:49:00Z",
+      "window_start": "2025-08-27T05:49:00Z",
+      "window_end": "2025-08-27T09:49:00Z",
+      "lsp_name": "SpaceX",
+      "mission": "Starlink Group 10-11",
+      "mission_type": "Communications",
+      "pad": "Space Launch Complex 40",
+      "location": "Cape Canaveral SFS, FL, USA",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/a2f73993-79f6-4228-bebc-0ada6840e503/"
+    }
+  ]
+}
