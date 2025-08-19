@@ -1,6 +1,6 @@
 {
-  "count": 9,
-  "last_updated": "2025-08-19T15:35:32.844029Z",
+  "count": 10,
+  "last_updated": "2025-08-19T17:08:00.847374Z",
   "source": "The Space Devs API",
   "filter_criteria": "status.name == \"Go\"",
   "launches": [
@@ -60,6 +60,25 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "infographic": null,
       "url": "https://ll.thespacedevs.com/2.0.0/launch/80af8d63-64aa-4d16-9abd-bdbe167cecb9/"
+    },
+    {
+      "id": "92ec4610-4576-4077-b538-65272a5d6491",
+      "name": "New Shepard | NS-35",
+      "status": {
+        "id": 1,
+        "name": "Go"
+      },
+      "net": "2025-08-23T12:30:00Z",
+      "window_start": "2025-08-23T12:30:00Z",
+      "window_end": "2025-08-23T19:30:00Z",
+      "lsp_name": "Blue Origin",
+      "mission": "NS-35",
+      "mission_type": "Tourism",
+      "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+      "location": "Corn Ranch, Van Horn, TX, USA",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new2520shepard_image_20190207032624.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/92ec4610-4576-4077-b538-65272a5d6491/"
     },
     {
       "id": "5b483b3d-d5c5-44df-8a67-c5a8ad87a123",

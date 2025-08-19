@@ -17,7 +17,7 @@ from pathlib import Path
 # Configuration
 API_URL = "https://ll.thespacedevs.com/2.0.0/launch/upcoming/"
 OUTPUT_FILE = "../public/upcoming_events.json"
-MAX_EVENTS = 50  # Fetch more events to ensure we get 10+ with "Go" status
+MAX_EVENTS = 100  # Fetch more events to ensure we get 15+ with "Go" status
 
 async def fetch_upcoming_launches(session, limit=MAX_EVENTS):
     """
