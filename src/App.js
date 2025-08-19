@@ -89,7 +89,7 @@ function App() {
       const data = await res.json();
       // Extract launches from the wrapped data structure
       const launches = data.launches || [];
-      setUpcomingLaunches(launches.slice(0, 10)); // Limit to 10 launches
+      setUpcomingLaunches(launches.slice(0, 15)); // Limit to 15 launches
     } catch (error) {
       console.error("Error fetching upcoming launches:", error);
       setUpcomingLaunches([]); // Set empty array on error
