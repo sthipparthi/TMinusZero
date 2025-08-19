@@ -442,26 +442,6 @@
     "detailed_news": "SpaceX is targeting Sunday, August 24, 2025, for the tenth flight test of Starship. The launch window opens at 6:30 p.m. CT (23:30 UTC) Starship will carry eight Starlink simulators sized to match next-generation Starlink V3 satellites. SpaceX is steadily moving closer to its operational goal: a rapidly reusable super-heavy launch system. Every test generates terabytes of telemetry and video data, feeding directly into next-generation Starship designs. The company has stated that only two more flights remain with the current generation of Starship/Super Heavy."
   },
   {
-    "id": 32638,
-    "title": "Launch Roundup: Falcon 9, Starship, and Russia flying this week",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/launch-roundup-falcon-9-starship-and-russia-flying-this-week/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2024/10/A-Falcon-9-sits-on-the-pad-at-SLC-4E-at-the-Vandenberg-Space-Force-Base-Credit-SpaceX-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "A pair of Russian space missions, a trio of Falcon 9 launches, and the long-awaited…\nThe post Launch Roundup: Falcon 9, Starship, and Russia flying this week appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-17T22:38:42Z",
-    "updated_at": "2025-08-17T22:40:22.052828Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A pair of Russian space missions, a trio of Falcon 9 launches, and the long-awaited Starship Flight 10 are scheduled to fly this week. A Soyuz rocket is to fly a modernized version of the Vostok capsule that flew crewed missions in the 1960s from Baikonur while an Angara rocket is flying from the Russian military launch site in Plesetsk. SpaceX is flying one Starlink mission, a national security mission and a cargo flight to the International Space Station. Bion-M no. 2 will fly 75 mice and study how these mice are affected by radiation. 1,000 fruit flies will also be on board along with plants and microorganisms. The mission is scheduled to last for 30 days before the spacecraft returns to Earth. U.S. Space Force national security launch scheduled to fly aboard a Falcon 9. Falcon 9|Starlink 17-6 is scheduled to fly on Friday, Aug. 22 at 8:44 AM PDT (15:44 UTC) from Space Launch Complex-4E at VSFB. The flight will carry 24 Starlink v2 Mini satellites to low-Earth orbit, while the booster, B1081-17, will perform a recovery on Of Course I Still Love You. This will be the fourth Starship flight of 2025 and the next to last flight from Pad 1 in its current configuration. On this flight, Ship 37 is carrying eight dummy Starlink satellites to be deployed. SpaceX will attempt to get valuable reentry data before a planned splashdown in the Indian Ocean. This flight would also be the first fully successful Block 2 flight if it splashes down intact."
-  },
-  {
     "id": 32661,
     "title": "Launch Roundup: SpaceX, Chinese, and Russian missions make up busy week",
     "authors": [
@@ -480,6 +460,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "A Chinese rocket, a pair of Russian missions, a trio of Falcon 9 launches, and the long-awaited tenth flight of Starship are scheduled to fly this week. A Soyuz rocket is to fly a modernized version of the Vostok capsule that flew crewed missions in the 1960s from Baikonur, while an Angara rocket is flying from the Russian military launch site in Plesetsk. Soyuz 2.1a rocket will loft Bion-M spacecraft to a 300-370 km altitude. The 6,300 kg spacecraft is derived from the Vostok spacecraft that launched Yuri Gagarin to space on April 12, 1961. The mission is scheduled to last for 30 days before the spacecraft returns to Earth. U.S. Space Force’s USSF-36 mission will fly aboard a Falcon 9 from Kennedy Space Center. A X-37B Orbital Test Vehicle (OTV) is flying the program’s eighth mission since the OTV-1 mission in 2010 aboard an Atlas V. This flight will be the 101st Falcon 9 launch of 2025, as SpaceX works to fly up to 160 missions this year. CRS-33 mission is scheduled for Sunday, Aug. 24, at 2:45 AM EDT (06:45 UTC) from SLC-40 at the Cape Canaveral Space Force Station. Ship 36 exploded on the test stand at Masseys just before it was supposed to perform a six-engine static fire, forcing SpaceX to reassign Ship 37 to Flight 10. The explosion knocked the Massey’s Test Facility out of service for at least several months for static fire testing. To work around the lack of testing infrastructure, SpaceX designed a mount to static fire Ship 37 on the orbital launch mount at Pad 1."
+  },
+  {
+    "id": 32638,
+    "title": "Launch Roundup: Falcon 9, Starship, and Russia flying this week",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/08/launch-roundup-falcon-9-starship-and-russia-flying-this-week/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2024/10/A-Falcon-9-sits-on-the-pad-at-SLC-4E-at-the-Vandenberg-Space-Force-Base-Credit-SpaceX-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "A pair of Russian space missions, a trio of Falcon 9 launches, and the long-awaited…\nThe post Launch Roundup: Falcon 9, Starship, and Russia flying this week appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-08-17T22:38:42Z",
+    "updated_at": "2025-08-17T22:40:22.052828Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "A pair of Russian space missions, a trio of Falcon 9 launches, and the long-awaited Starship Flight 10 are scheduled to fly this week. A Soyuz rocket is to fly a modernized version of the Vostok capsule that flew crewed missions in the 1960s from Baikonur while an Angara rocket is flying from the Russian military launch site in Plesetsk. SpaceX is flying one Starlink mission, a national security mission and a cargo flight to the International Space Station. Bion-M no. 2 will fly 75 mice and study how these mice are affected by radiation. 1,000 fruit flies will also be on board along with plants and microorganisms. The mission is scheduled to last for 30 days before the spacecraft returns to Earth. U.S. Space Force national security launch scheduled to fly aboard a Falcon 9. Falcon 9|Starlink 17-6 is scheduled to fly on Friday, Aug. 22 at 8:44 AM PDT (15:44 UTC) from Space Launch Complex-4E at VSFB. The flight will carry 24 Starlink v2 Mini satellites to low-Earth orbit, while the booster, B1081-17, will perform a recovery on Of Course I Still Love You. This will be the fourth Starship flight of 2025 and the next to last flight from Pad 1 in its current configuration. On this flight, Ship 37 is carrying eight dummy Starlink satellites to be deployed. SpaceX will attempt to get valuable reentry data before a planned splashdown in the Indian Ocean. This flight would also be the first fully successful Block 2 flight if it splashes down intact."
   },
   {
     "id": 32639,
