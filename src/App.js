@@ -208,40 +208,33 @@ function App() {
     }
   };
 
-  // Launch carousel scroll functions with looping
+  // Launch carousel scroll functions with continuous looping
   const scrollLaunches = (direction) => {
     const launchContainer = document.querySelector('.launch-carousel');
     if (launchContainer) {
       const scrollAmount = 176; // Width of smaller card (160px) + gap (16px)
       const currentScroll = launchContainer.scrollLeft;
       const maxScroll = launchContainer.scrollWidth - launchContainer.clientWidth;
+      const halfPoint = launchContainer.scrollWidth / 2;
       
       if (direction === 'right') {
-        if (currentScroll >= maxScroll - 10) { // Near the end
-          // Loop back to start
-          launchContainer.scrollTo({
-            left: 0,
-            behavior: 'smooth'
-          });
-        } else {
-          launchContainer.scrollBy({
-            left: scrollAmount,
-            behavior: 'smooth'
-          });
+        if (currentScroll >= halfPoint) {
+          // When past halfway point, reset to beginning for seamless loop
+          launchContainer.scrollLeft = currentScroll - halfPoint;
         }
+        launchContainer.scrollBy({
+          left: scrollAmount,
+          behavior: 'smooth'
+        });
       } else if (direction === 'left') {
-        if (currentScroll <= 10) { // Near the start
-          // Loop to end
-          launchContainer.scrollTo({
-            left: maxScroll,
-            behavior: 'smooth'
-          });
-        } else {
-          launchContainer.scrollBy({
-            left: -scrollAmount,
-            behavior: 'smooth'
-          });
+        if (currentScroll <= scrollAmount) {
+          // When near start, jump to corresponding position in second half
+          launchContainer.scrollLeft = currentScroll + halfPoint;
         }
+        launchContainer.scrollBy({
+          left: -scrollAmount,
+          behavior: 'smooth'
+        });
       }
       
       // Update scroll button states after scrolling
@@ -477,9 +470,65 @@ function App() {
                     onMouseEnter={stopAutoScroll}
                     onMouseLeave={startAutoScroll}
                   >
+                    {/* First set of launches */}
                     {upcomingLaunches.map((launch) => (
                       <div 
-                        key={launch.id} 
+                        key={`first-${launch.id}`} 
+                        className="flex-shrink-0 w-40 bg-white/10 rounded-lg p-2 border border-white/20 hover:border-white/40 transition-all duration-300 hover:transform hover:scale-105 hover:shadow-2xl hover:shadow-black/50"
+                      >
+                        {/* Launch Image */}
+                        {launch.image && (
+                          <img
+                            src={launch.image}
+                            alt={launch.name}
+                            className="w-full h-20 object-cover rounded-lg mb-2"
+                            onError={(e) => {
+                              e.target.src = "https://images.unsplash.com/photo-1517976487492-5750f3195933?w=400&h=200&fit=crop";
+                            }}
+                          />
+                        )}
+                        
+                        {/* Launch Info */}
+                        <div className="text-white">
+                          <h3 className="font-semibold text-sm mb-2 line-clamp-2">
+                            {launch.name}
+                          </h3>
+                          
+                          <div className="space-y-1 text-xs text-gray-300">
+                            <div className="flex items-center gap-1">
+                              <span className="font-medium">📅</span>
+                              <span>{dayjs(launch.window_start).format("MMM D, YYYY")}</span>
+                            </div>
+                            
+                            {launch.location && (
+                              <div className="flex items-center gap-1">
+                                <span className="font-medium">📍</span>
+                                <span className="line-clamp-1 text-xs">{launch.location}</span>
+                              </div>
+                            )}
+                            
+                            {launch.lsp_name && (
+                              <div className="flex items-center gap-1">
+                                <span className="font-medium">🏢</span>
+                                <span className="line-clamp-1 text-xs">{launch.lsp_name}</span>
+                              </div>
+                            )}
+                            
+                            {launch.mission && launch.mission !== "Unknown Payload" && (
+                              <div className="flex items-center gap-1">
+                                <span className="font-medium">🚀</span>
+                                <span className="line-clamp-1 text-xs">{launch.mission}</span>
+                              </div>
+                            )}
+                          </div>
+                        </div>
+                      </div>
+                    ))}
+                    
+                    {/* Second set of launches for seamless looping */}
+                    {upcomingLaunches.map((launch) => (
+                      <div 
+                        key={`second-${launch.id}`} 
                         className="flex-shrink-0 w-40 bg-white/10 rounded-lg p-2 border border-white/20 hover:border-white/40 transition-all duration-300 hover:transform hover:scale-105 hover:shadow-2xl hover:shadow-black/50"
                       >
                         {/* Launch Image */}
