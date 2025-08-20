@@ -1,5 +1,225 @@
 [
   {
+    "id": 32674,
+    "title": "Curiosity Blog, Sols 4634-4635: A Waiting Game",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4634-4635-a-waiting-game/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04633_opgs_edr_ncam_NLB_808788777EDR_S1181350NCAM00250M_.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Lucy Thompson, Planetary Scientist and APXS Team Member, University of New Brunswick, Canada Earth Planning Date: Monday, Aug. 18, 2025 The downlink data from our weekend activities arrived on Earth as we started planning this morning. As the APXS payload uplink and downlink lead, I assess the downlink data to ensure that our […]",
+    "published_at": "2025-08-19T19:22:47Z",
+    "updated_at": "2025-08-19T20:10:12.424666Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Downlink data from our weekend activities arrived on Earth as we started planning this morning. The drive executed as planned and we are on stable ground, which will enable us to unstow the arm for contact science with APXS and MAHLI. We selected a representative bedrock patch (“Gil”) that was large enough and smooth enough to brush for dust removal. ChemCam will also analyze this target with LIBS, and Mastcam will capture a documentation image."
+  },
+  {
+    "id": 32673,
+    "title": "Curiosity Blog, Sols 4631-4633: Radiant Ridge Revolution",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4631-4633-radiant-ridge-revolution/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04629_opgs_edr_ncam_NLB_808441485EDR_F1181194NCAM00296M_.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Remington Free, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Aug. 15, 2025 Today we uplinked a three-sol weekend plan with lots of exciting activities — to support both the science and engineering teams!  While usually our science activities take front and center stage, we often also do engineering […]",
+    "published_at": "2025-08-19T18:40:46Z",
+    "updated_at": "2025-08-19T19:10:05.060904Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "On Sol 4631, we planned a maintenance activity of our Battery Control Boards (BCBs) This maintenance is done periodically to correct for any time drift on the BCBs, so we get as accurate of data as possible. After completing our engineering activities, we started off with some remote science; this included Mastcam imaging and ChemCam measurements of several interesting targets. On Sol 4633, we continued with more science imaging, including a horizon movie using Navcam and a dust-devil movie, before proceeding into our drive."
+  },
+  {
+    "id": 32672,
+    "title": "Sun at the Center: Teacher Ambassadors Bring Heliophysics to Classrooms Nationwide",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/learning-resources/science-activation/sun-at-the-center-teacher-ambassadors-bring-heliophysics-to-classrooms-nationwide/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2025/Linh_and_Samuel_optimized_1000-Carolyn_Y._Ng.jpg",
+    "news_site": "NASA",
+    "summary": "For the fourth year in a row, the American Association of Physics Teachers, a collaborator on the NASA Heliophysics Education Activation Team (HEAT), selected eight new educators to serve as ambassadors for heliophysics education. Meeting in Boulder, CO, from July 14-17, 2025, these teachers met to work through AAPT’s lessons that bring physics content to […]",
+    "published_at": "2025-08-19T16:46:56Z",
+    "updated_at": "2025-08-19T17:10:13.911000Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The American Association of Physics Teachers selected eight new educators to serve as ambassadors for heliophysics education. The Ambassador program began in 2022 as an effort to identify highly-motivated secondary and tertiary educators. Since the program began, 32 Ambassadors have been identified and participated in the multi-day professional learning experience."
+  },
+  {
+    "id": 32671,
+    "title": "NASA’s X-59 Nears First Flight",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasas-x-59-nears-first-flight/",
+    "image_url": "https://images-assets.nasa.gov/image/P25-056-49/P25-056-49~large.jpg",
+    "news_site": "NASA",
+    "summary": "As we honor the legacy of aviation pioneers this National Aviation Day, NASA’s X-59 is preparing to push the boundaries of what’s possible in air travel. The quiet supersonic aircraft’s historic first flight is on the horizon, with final ground tests about to begin. Following completion of low-speed taxi tests in July 2025 in Palmdale, […]",
+    "published_at": "2025-08-19T16:00:00Z",
+    "updated_at": "2025-08-19T16:00:09.045299Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The quiet supersonic aircraft’s historic first flight is on the horizon. The X-59 will reach speeds of approximately 240 mph at an altitude of about 12,000 feet. The flight data will help inform U.S. and international regulators as they consider new noise standards."
+  },
+  {
+    "id": 32670,
+    "title": "What is BioNutrients?",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/general/what-is-bionutrients/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2019/04/acd19-0013-101-0.jpg",
+    "news_site": "NASA",
+    "summary": "A series of biology experiments, called BioNutrients, is testing ways to use microorganisms to produce nutrients – off Earth and on demand – that will be critical for human health in space. Editor’s note: This article was updated on Aug. 19, 2025, to clarify which BioNutrients experiments in the series are completed and adds new […]",
+    "published_at": "2025-08-19T15:35:04Z",
+    "updated_at": "2025-08-19T15:40:05.829951Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA is developing technologies to biomanufacture valuable products on-demand. Long-duration human exploration missions to the Moon and Mars will require minimizing the amounts of supplies launched. Planning new ways to supply food for a multi-year mission on the Moon or Mars may require making food and nutrients in space. The BioNutrients-3 investigation is planned to launch to the space station in August 2025 aboard NASA’s SpaceX CRS-33 mission. It aims to develop a platform biomanufacturing technology that demonstrates microbial production of targeted nutrients for long-duration space missions. The concept is similar to making familiar fermented foods, such as how milk – transformed by bacteria – becomes yogurt. BioNutrients-3 includes the same commercial yogurt and kefir starters used in BioNutrient-2 and adds yeast strains that have been bioengineered to produce multiple nutrients in a single bag. The growth substrate – the ingredients needed to sustain the microorganisms as they grow, including a color-changing indicator of the level of acidity in the samples – is fully edible."
+  },
+  {
+    "id": 32669,
+    "title": "NASA’s Psyche Captures Images of Earth, Moon",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/psyche-mission/nasas-psyche-captures-images-of-earth-moon/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/1-pia26569-annotated-image-of-stars-and-earth-clean.jpg",
+    "news_site": "NASA",
+    "summary": "Headed for a metal-rich asteroid of the same name, the Psyche spacecraft successfully calibrated its cameras by looking homeward. On schedule for its 2029 arrival at the asteroid Psyche, NASA’s Psyche spacecraft recently looked back toward home and captured images of Earth and our Moon from about 180 million miles (290 million kilometers) away. The […]",
+    "published_at": "2025-08-19T15:02:38Z",
+    "updated_at": "2025-08-19T15:10:20.650966Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA's Psyche spacecraft recently looked back toward home and captured images of Earth and our Moon from about 180 million miles (290 million kilometers) away. The images were obtained during one of the mission team’s periodic checkouts of the spacecraft's science instruments. Psyche is headed for a metal-rich asteroid of the same name and is scheduled to arrive in 2029. Psyche is the 14th mission selected as part of NASA’s Discovery Program. Moonquakes pose little risk to astronauts during a mission lasting just a few days. NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery."
+  },
+  {
+    "id": 32668,
+    "title": "Moonlight and Our Atmosphere",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/moonlight-and-our-atmosphere/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/iss072e978997orig.jpg",
+    "news_site": "NASA",
+    "summary": "The Moon’s light is refracted by Earth’s atmosphere in this April 13, 2025, photograph from the International Space Station as it orbited into a sunset 264 miles above the border between Bolivia and Brazil in South America. Understanding the Moon helps us understand other planets, how they have evolved and the processes which have shaped […]",
+    "published_at": "2025-08-19T14:51:32Z",
+    "updated_at": "2025-08-19T15:00:10.322287Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": " Understanding the Moon helps us understand other planets, how they have evolved and the processes which have shaped their surfaces. By using the Moon as our closest testing ground for robotics and instrument systems, we can further human exploration to not only the Moon, but the rest of the solar system. Through Artemis missions, NASA will send astronauts to explore the Moon for scientific discovery and economic benefits."
+  },
+  {
+    "id": 32666,
+    "title": "National Aviation Day: Celebrating NASA’s Heritage While Charting Our Future",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/aeronautics/national-aviation-day-celebrating-nasas-heritage-while-charting-our-future/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/x59sunrise.jpg",
+    "news_site": "NASA",
+    "summary": "As we observe National Aviation Day Tuesday – a tribute to Orville Wright’s birthday – let’s reflect on both America’s and NASA’s aviation heritage and share how we are pushing the boundaries of flight for the nation’s future. Modern NASA grew from the National Advisory Committee for Aeronautics (NACA), an agency created by Congress in […]",
+    "published_at": "2025-08-19T14:25:51Z",
+    "updated_at": "2025-08-19T14:30:06.586636Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA grew from the National Advisory Committee for Aeronautics (NACA) NACA was created by Congress in 1915 to advance U.S. aviation. NASA’s commitment to aviation innovation did not stop with early experimental high-speed aircraft. Later this year, NASA Test Pilot Nils Larson will usher in a new era of quiet supersonic flight. Todd Ericson: I am continually inspired by the ingenuity of our past and the promise of our future. He says the pursuit of quiet supersonic aircraft, hypersonic technologies, and revitalized general aviation will keep the U.S. aviation industry strong and sustainable."
+  },
+  {
+    "id": 32667,
+    "title": "Starbase Pad 2: Design Advancements from Pad 1",
+    "authors": [
+      {
+        "name": "Jake Rees",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/08/starbase-pad-2-advancements-pad-1/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Screenshot_20250810_234655_Gallery.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX’s Starbase facility in Boca Chica, Texas, continues to evolve as the company pushes the…\nThe post Starbase Pad 2: Design Advancements from Pad 1 appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-08-19T14:24:59Z",
+    "updated_at": "2025-08-19T14:30:21.961076Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Pad 2 launch tower base features a stainless steel framework filled with concrete, a significant departure from Pad A’s concrete base with stainless steel cladding. The housing at the rear of the Pad 2 tower base is substantially larger and more robust. Pad 2 chopsticks are approximately 10 metres shorter than Pad 1's; this is expected to improve responsiveness during catch attempts. The Pad 2 carriage incorporates a redesigned skate system, differing from the Pad 1 configuration. The pistons used for moving these chopsticks laterally are significantly simplified compared to those on Pad 1. The rigging layout on the Pad 2 tower differs from Pad 1’s regarding the placement of the drawworks and the dead spool & deadline anchor. The Pad 2 launch mount is equipped with two Booster Quick Disconnects (BQDs), as opposed to Pad 1’s single BQD. These two BQDs appear to be separated for liquid oxygen and liquid methane supply. The top surface of the launch mount incorporates a water-cooled steel plate, similar to the one implemented under Pad 1 since Flight 2. Pad 2 will only share storage tanks with Pad 1. The layout of the Pad 2 end of the tank farm is entirely different from Pad 1’s, likely based on extensive lessons learned from all prior Starship ground tests and launches. Pad 2 will have its dedicated liquid oxygen and liquid methane pumps and subcoolers, amongst other items of GSE-related hardware. Starbase Pad 2 is scheduled to be completed by the end of 2025. It will be the second Starbase Pad to be built in the U.S. The project is funded by the National Aeronautics and Space Administration (NASASpaceflight.com)"
+  },
+  {
+    "id": 32665,
+    "title": "NASA-funded Compact Radar Drives Big Changes in Airborne and Suborbital Radar Capabilities",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/directorates/smd/earth-science-division/nasa-funded-compact-radar-drives-big-changes-in-airborne-and-suborbital-radar-capabilities/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2025/Wye_Balloon_Final.jpeg",
+    "news_site": "NASA",
+    "summary": "A collaboration between NASA and the small business Aloft Sensing produced a new compact radar system that will enable researchers to leverage High Altitude Long Endurance (HALE) platforms to observe dynamic Earth systems. This new radar is small, provides highly sensitive measurements, and doesn’t require GPS for positioning; eventually, it could be used on vehicles […]",
+    "published_at": "2025-08-19T13:57:58Z",
+    "updated_at": "2025-08-19T14:10:05.457823Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "New radar is small, provides highly sensitive measurements, and doesn’t require GPS for positioning. Eventually, it could be used on vehicles in space. “It’s a level of sensitivity that has eluded traditional radar sensors, without making them bulky and expensive,” said Lauren Wye, CEO of Aloft Sensing. HALE InSAR can be used to navigate without GPS in austere environments where reliable GPS signals may be unavailable. The Aloft Sensing team recently achieved several key milestones, validating their instrument aboard an airship at 65,000 feet as well as small stratospheric balloons. The Snapshot Wisconsin project recently collected their 100 millionth trail camera photo."
+  },
+  {
+    "id": 32664,
+    "title": "Polish Consortium Selects Payloads for State-Sponsored Suborbital Rocket Launch",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/polish-consortium-selects-payloads-for-state-sponsored-suborbital-rocket-launch/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/Polish-Consortium-Selects-Payloads-for-State-Sponsored-Suborbital-Rocket-Launch.webp",
+    "news_site": "European Spaceflight",
+    "summary": "On 19 August, Poland’s Łukasiewicz Research Network’s Institute of Aviation revealed the four payloads that were selected to fly aboard a suborbital rocket under a Polish Space Agency–funded launch service. In April, the Polish Space Agency issued a call for proposals under its “Development of Launch Technology and Demonstration of Launch Capability on Polish Suborbital […]\nThe post Polish Consortium Selects Payloads for State-Sponsored Suborbital Rocket Launch appeared first on European Spaceflight.",
+    "published_at": "2025-08-19T13:23:02Z",
+    "updated_at": "2025-08-19T13:40:10.816072Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Polish Space Agency issued a call for proposals for a suborbital rocket test flight in April. In late July, the Polish Institute of Aviation invited proposals for potential payloads. The application process for this call closed on 11 August. On 19 August, Łukasiewicz ILOT announced that it had received 23 proposals and had selected four. The launch carrying the four payloads is expected to take place in October."
+  },
+  {
     "id": 32663,
     "title": "NASA Invites You to Celebrate National Aviation Day 2025",
     "authors": [
@@ -442,26 +662,6 @@
     "detailed_news": "SpaceX is targeting Sunday, August 24, 2025, for the tenth flight test of Starship. The launch window opens at 6:30 p.m. CT (23:30 UTC) Starship will carry eight Starlink simulators sized to match next-generation Starlink V3 satellites. SpaceX is steadily moving closer to its operational goal: a rapidly reusable super-heavy launch system. Every test generates terabytes of telemetry and video data, feeding directly into next-generation Starship designs. The company has stated that only two more flights remain with the current generation of Starship/Super Heavy."
   },
   {
-    "id": 32638,
-    "title": "Launch Roundup: Falcon 9, Starship, and Russia flying this week",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/launch-roundup-falcon-9-starship-and-russia-flying-this-week/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2024/10/A-Falcon-9-sits-on-the-pad-at-SLC-4E-at-the-Vandenberg-Space-Force-Base-Credit-SpaceX-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "A pair of Russian space missions, a trio of Falcon 9 launches, and the long-awaited…\nThe post Launch Roundup: Falcon 9, Starship, and Russia flying this week appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-17T22:38:42Z",
-    "updated_at": "2025-08-17T22:40:22.052828Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A pair of Russian space missions, a trio of Falcon 9 launches, and the long-awaited Starship Flight 10 are scheduled to fly this week. A Soyuz rocket is to fly a modernized version of the Vostok capsule that flew crewed missions in the 1960s from Baikonur while an Angara rocket is flying from the Russian military launch site in Plesetsk. SpaceX is flying one Starlink mission, a national security mission and a cargo flight to the International Space Station. Bion-M no. 2 will fly 75 mice and study how these mice are affected by radiation. 1,000 fruit flies will also be on board along with plants and microorganisms. The mission is scheduled to last for 30 days before the spacecraft returns to Earth. U.S. Space Force national security launch scheduled to fly aboard a Falcon 9. Falcon 9|Starlink 17-6 is scheduled to fly on Friday, Aug. 22 at 8:44 AM PDT (15:44 UTC) from Space Launch Complex-4E at VSFB. The flight will carry 24 Starlink v2 Mini satellites to low-Earth orbit, while the booster, B1081-17, will perform a recovery on Of Course I Still Love You. This will be the fourth Starship flight of 2025 and the next to last flight from Pad 1 in its current configuration. On this flight, Ship 37 is carrying eight dummy Starlink satellites to be deployed. SpaceX will attempt to get valuable reentry data before a planned splashdown in the Indian Ocean. This flight would also be the first fully successful Block 2 flight if it splashes down intact."
-  },
-  {
     "id": 32661,
     "title": "Launch Roundup: SpaceX, Chinese, and Russian missions make up busy week",
     "authors": [
@@ -480,6 +680,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "A Chinese rocket, a pair of Russian missions, a trio of Falcon 9 launches, and the long-awaited tenth flight of Starship are scheduled to fly this week. A Soyuz rocket is to fly a modernized version of the Vostok capsule that flew crewed missions in the 1960s from Baikonur, while an Angara rocket is flying from the Russian military launch site in Plesetsk. Soyuz 2.1a rocket will loft Bion-M spacecraft to a 300-370 km altitude. The 6,300 kg spacecraft is derived from the Vostok spacecraft that launched Yuri Gagarin to space on April 12, 1961. The mission is scheduled to last for 30 days before the spacecraft returns to Earth. U.S. Space Force’s USSF-36 mission will fly aboard a Falcon 9 from Kennedy Space Center. A X-37B Orbital Test Vehicle (OTV) is flying the program’s eighth mission since the OTV-1 mission in 2010 aboard an Atlas V. This flight will be the 101st Falcon 9 launch of 2025, as SpaceX works to fly up to 160 missions this year. CRS-33 mission is scheduled for Sunday, Aug. 24, at 2:45 AM EDT (06:45 UTC) from SLC-40 at the Cape Canaveral Space Force Station. Ship 36 exploded on the test stand at Masseys just before it was supposed to perform a six-engine static fire, forcing SpaceX to reassign Ship 37 to Flight 10. The explosion knocked the Massey’s Test Facility out of service for at least several months for static fire testing. To work around the lack of testing infrastructure, SpaceX designed a mount to static fire Ship 37 on the orbital launch mount at Pad 1."
+  },
+  {
+    "id": 32638,
+    "title": "Launch Roundup: Falcon 9, Starship, and Russia flying this week",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/08/launch-roundup-falcon-9-starship-and-russia-flying-this-week/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2024/10/A-Falcon-9-sits-on-the-pad-at-SLC-4E-at-the-Vandenberg-Space-Force-Base-Credit-SpaceX-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "A pair of Russian space missions, a trio of Falcon 9 launches, and the long-awaited…\nThe post Launch Roundup: Falcon 9, Starship, and Russia flying this week appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-08-17T22:38:42Z",
+    "updated_at": "2025-08-17T22:40:22.052828Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "A pair of Russian space missions, a trio of Falcon 9 launches, and the long-awaited Starship Flight 10 are scheduled to fly this week. A Soyuz rocket is to fly a modernized version of the Vostok capsule that flew crewed missions in the 1960s from Baikonur while an Angara rocket is flying from the Russian military launch site in Plesetsk. SpaceX is flying one Starlink mission, a national security mission and a cargo flight to the International Space Station. Bion-M no. 2 will fly 75 mice and study how these mice are affected by radiation. 1,000 fruit flies will also be on board along with plants and microorganisms. The mission is scheduled to last for 30 days before the spacecraft returns to Earth. U.S. Space Force national security launch scheduled to fly aboard a Falcon 9. Falcon 9|Starlink 17-6 is scheduled to fly on Friday, Aug. 22 at 8:44 AM PDT (15:44 UTC) from Space Launch Complex-4E at VSFB. The flight will carry 24 Starlink v2 Mini satellites to low-Earth orbit, while the booster, B1081-17, will perform a recovery on Of Course I Still Love You. This will be the fourth Starship flight of 2025 and the next to last flight from Pad 1 in its current configuration. On this flight, Ship 37 is carrying eight dummy Starlink satellites to be deployed. SpaceX will attempt to get valuable reentry data before a planned splashdown in the Indian Ocean. This flight would also be the first fully successful Block 2 flight if it splashes down intact."
   },
   {
     "id": 32639,
@@ -774,225 +994,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "NSF conducted a flyover this week near the Kennedy Space Center (KSC) and the Cape Canaveral Space Force Station (CCSFS) NSF’s latest photos show assembly tents and a number of cranes and construction equipment surrounding the launch tower. Rebar work is still going on in the flame trench, with bucket halves and trench wall sections being delivered. Draft environmental impact statement for SpaceX’s latest Starship operations plans at LC-39A shows that the company plans to conduct up to 44 launches per year from the complex. The company is also now building the Giga Bay and planning a future Starfactory next to its current operation at Roberts Road. A new tower section has also been spotted at the Roberts Road facility, along with hardware for additional tower sections and pieces for a framework of a new set of Mechazilla arms. Stoke Space plans to field a fully reusable launch vehicle known as Nova. Relativity is still working on its Terran R partially reusable launch vehicles. NASA’s Artemis program is continuing to work on ML2 despite budget uncertainty in Washington. Blue Origin will be tasked with supporting the recovery of GS1 on the second flight of New Glenn."
-  },
-  {
-    "id": 32623,
-    "title": "NASA Seeks Proposals for 2026 Human Exploration Rover Challenge",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-seeks-proposals-for-2026-human-exploration-rover-challenge/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/herc-handbook-cover-2026.png",
-    "news_site": "NASA",
-    "summary": "NASA now is accepting proposals from student teams for a contest to design, build, and test rovers for Moon and Mars exploration through Sept. 15. Known as the Human Exploration Rover Challenge, student rovers should be capable of traversing a course while completing mission tasks. The challenge handbook has guidelines for remote-controlled and human-powered divisions. “Last year, we saw […]",
-    "published_at": "2025-08-15T14:00:00Z",
-    "updated_at": "2025-08-15T14:00:07.864311Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA is accepting proposals from student teams for a contest to design, build, and test rovers for Moon and Mars exploration. Known as the Human Exploration Rover Challenge, student rovers should be capable of traversing a course while completing mission tasks. This year’s mission mimics future Artemis missions to the lunar surface."
-  },
-  {
-    "id": 32622,
-    "title": "Spartan Space and Airbus Complete CNES Lunar Surface Airlock Study",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/spartan-space-and-airbus-complete-cnes-lunar-surface-airlock-study/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/Spartan-Space-and-Airbus-Complete-CNES-Lunar-Surface-Airlock-Study.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Spartan Space and Airbus Defence and Space have completed a feasibility study for a lunar habitat airlock, commissioned by the French aerospace agency CNES. In September 2021, CNES launched its Lunar Integrated Shelter for Exploration (LISE) initiative. LISE is part of the agency’s Spaceship France programme, which focuses on developing core technologies for future crewed […]\nThe post Spartan Space and Airbus Complete CNES Lunar Surface Airlock Study appeared first on European Spaceflight.",
-    "published_at": "2025-08-15T13:41:50Z",
-    "updated_at": "2025-08-15T13:50:10.172216Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Spartan Space and Airbus Defence and Space have completed a feasibility study for a lunar habitat airlock, commissioned by the French aerospace agency CNES. In September 2021, CNES launched its Lunar Integrated Shelter for Exploration (LISE) initiative. LISE is part of the agency’s Spaceship France programme, which focuses on developing technologies for future crewed missions to the Moon and Mars."
-  },
-  {
-    "id": 32621,
-    "title": "Week in images: 11-15 August 2025",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_August_2025",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/ariane_6_lofts_metop-sg-a1_and_sentinel-5_into_orbit/26835610-3-eng-GB/Ariane_6_lofts_MetOp-SG-A1_and_Sentinel-5_into_orbit_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 11-15 August 2025",
-    "published_at": "2025-08-15T13:10:00Z",
-    "updated_at": "2025-08-15T13:00:12.718441Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. Click here for the next gallery of iReporters' snapshots."
-  },
-  {
-    "id": 32620,
-    "title": "Hubble Examines Low Brightness, High Interest Galaxy",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/hubble-examines-low-brightness-high-interest-galaxy/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/Hubble_NGC45_potw2532a.jpg",
-    "news_site": "NASA",
-    "summary": "This NASA/ESA Hubble Space Telescope image zooms in on the feathery spiral arms of the galaxy NGC 45, which lies just 22 million light-years away in the constellation Cetus (the Whale). The portrait uses data drawn from two complementary observing programs. The first took a broad view of 50 nearby galaxies, leveraging Hubble’s ability to […]",
-    "published_at": "2025-08-15T11:00:00Z",
-    "updated_at": "2025-08-15T11:10:12.846219Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NGC 45 lies just 22 million light-years away in the constellation Cetus (the Whale) NGC 45 is a remarkable type called a low surface brightness galaxy. Low surface brightness galaxies are fainter than the night sky itself. Studying these hard-to-detect galaxies is key to understanding how galaxies form and evolve."
-  },
-  {
-    "id": 32624,
-    "title": "Summer Triangle Corner: Altair",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-altair/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/nightsky/articles/Summer%20Triangle%20005.jpeg",
-    "news_site": "NASA",
-    "summary": "Altair is the last stop on our trip around the Summer Triangle! The last star in the asterism to rise for Northern Hemisphere observers before summer begins, brilliant Altair is high overhead at sunset at the end of the season in September. Altair might be the most unusual of the three stars of the Triangle, […]",
-    "published_at": "2025-08-15T10:00:00Z",
-    "updated_at": "2025-08-15T14:10:05.524493Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": " Altair is the brightest star in the constellation of Aquila, the Eagle. Altair represents the cowherd in the ancient tale “Cowherd and the Weaver Girl’ Altair’s rapid spinning was first detected in the 1960s. As summer winds down, you can still take a Trip Around the Summer Triangle."
-  },
-  {
-    "id": 32619,
-    "title": "Curiosity Blog, Sols 4627-4628: A Ridge Stop in the Boxworks",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4627-4628-a-ridge-stop-in-the-boxworks/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04625_mhli_4625MH0001710001700780R00_DXXX.jpg",
-    "news_site": "NASA",
-    "summary": "Earth planning date: Monday Aug. 11, 2025 Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center On the Curiosity team, we’re continuing our exploration of the boxwork-forming region in Gale Crater. A successful 25-meter drive (about 82 feet) brought the rover from the “peace sign” ridge intersection to a new ridge site. […]",
-    "published_at": "2025-08-15T00:39:14Z",
-    "updated_at": "2025-08-15T01:10:05.702521Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A successful 25-meter drive brought the rover from the “peace sign” ridge intersection to a new ridge site. Mastcam observations of a potential incipient hollow (“Laguna Miniques”) APXS and MAHLI measurements were planned to explore the local bedrock at two points."
-  },
-  {
-    "id": 32618,
-    "title": "NASA Seeks Industry Feedback on Fission Surface Power",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/nasa-seeks-industry-feedback-on-fission-surface-power/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2024/04/nasa_meatball_4.png",
-    "news_site": "NASA",
-    "summary": "As part of the agency’s initiative to return humanity to the Moon and eventually send the first astronaut – an American – to Mars, NASA is surveying industry for interest and feedback on a fission surface power system, through a Request for Information issued Thursday. Earlier this month, NASA declared its intent to put a […]",
-    "published_at": "2025-08-14T22:34:13Z",
-    "updated_at": "2025-08-14T22:40:04.690741Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA is surveying industry for interest and feedback on a fission surface power system. Earlier this month, NASA declared its intent to put a nuclear reactor on the Moon by the mid-2030s. Nuclear power is a key element for NASA’s Artemis missions and supporting a robust lunar economy."
-  },
-  {
-    "id": 32617,
-    "title": "Astronauts Plant Seed Pillows in New Space Agriculture Study",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/directorates/smd/astronauts-plant-seed-pillows-in-new-space-agriculture-study/",
-    "image_url": "https://images-assets.nasa.gov/image/KSC-20250529-PH-CSH01_0070/KSC-20250529-PH-CSH01_0070~large.jpg",
-    "news_site": "NASA",
-    "summary": "When the Crew-11 astronauts launched to the International Space Station on August 1, 2025, they carried with them another chapter in space farming: the latest VEG-03 experiments, complete with seed pillows ready for planting. Growing plants provides nutrition for astronauts, as well as psychological benefits that help maintain crew morale during missions. During VEG-03 MNO, […]",
-    "published_at": "2025-08-14T18:40:40Z",
-    "updated_at": "2025-08-14T19:10:04.531235Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Astronauts will plant Wasabi mustard greens, Red Russian Kale, and Dragoon lettuce. The experiment takes place inside Veggie, a chamber about the size of carry-on luggage. Fresh food will become critical as astronauts venture farther from Earth on missions to the Moon and Mars."
-  },
-  {
-    "id": 32615,
-    "title": "Skyrora weighs options on the path to the UK’s first vertical launch",
-    "authors": [
-      {
-        "name": "Martin Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/skyrora-efis/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Render-of-Skyrora-XL-and-its-launch-tower-Skyrora.webp",
-    "news_site": "NASASpaceflight",
-    "summary": "Edinburgh-based Skyrora was granted its Spaceflight Operator Licence from the UK Civil Aviation Authority (CAA)…\nThe post Skyrora weighs options on the path to the UK’s first vertical launch appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-14T17:52:08Z",
-    "updated_at": "2025-08-14T18:00:15.534911Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Edinburgh-based Skyrora was granted its Spaceflight Operator Licence from the UK Civil Aviation Authority (CAA) on August 5. The license authorizes one initial launch, and covers up to 16 flights per year from the SaxaVord spaceport situated 80 km to the northeast of mainland Scotland on the northernmost of the Shetland Islands. Despite being awarded the long-awaited UK license, the company might yet decide to conduct a second launch of Skylark L from another site. Skyrora has developed a containerized ‘spaceport in a box’ concept, which means that it doesn’t especially need a pad to launch from. The company’s first vehicle, the Skylark Nano, launched from the Kildermorie Estate in Ross-shire in August 2018. The relationship with the Langanes Peninsula of Iceland began with the launch of the two-stage Skylarks. Skylark L is the company’s second rocket, following the Skylark Micro. The vehicle stands 11.6 m tall and 0.7 m wide. It is powered by a combination of High-Test Peroxide (HTP) and kerosene. Skyrora uses in-house distillation processes to reach the strength needed. In 2019, Skyrora located and returned parts of this rocket’s first stage to the UK, marking its 48th anniversary. Although it offers a little less performance than when using cryogenics for oxidizers, HTP can be stored at room temperature."
-  },
-  {
-    "id": 32616,
-    "title": "After Storied 34 Year Career, Steve Platnick Retires from NASA",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/earth-science/after-storied-34-year-career-steve-platnick-retires-from-nasa/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/earth-observer/2025/2025-summer/platnick/steve-p-image.jpg",
-    "news_site": "NASA",
-    "summary": "Dr. Steven “Steve” Platnick stepped down from his role at NASA on August 8, 2025, after more than three decades of public service. Steve began his career at NASA as a physical scientist at Goddard Space Flight Center in 2002. He moved to the Earth Science Division in 2009, where he has served in various […]",
-    "published_at": "2025-08-14T17:14:54Z",
-    "updated_at": "2025-08-14T18:10:13.958912Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Dr. Steven “Steve” Platnick stepped down from his role at NASA on August 8, 2025. Steve began his career at NASA as a physical scientist at Goddard Space Flight Center in 2002. He moved to the Earth Science Division in 2009, where he has served in various senior management roles. Steve has been supportive of the activities of NASA’s Science Support Office (SSO) He has participated in many NASA Science exhibits at both national and international scientific conferences. Steve has been a champion of continuing to retain a historical record of NASA meetings to maintain a chronology of advances made by different groups within the NASA Earth Science community. Steve has received numerous NASA Group Achievement Awards, including for the Cloud, Aerosol and Monsoon Processes Philippines Experiment (CAMP2Ex) Steve has published more than 150 scholarly articles. He began his career at the Joint Center for Earth Systems Technology (JCET) at University of Maryland Baltimore County in 1996."
-  },
-  {
-    "id": 32613,
-    "title": "Small Companies Win Big in NASA’s TechLeap Challenge",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/directorates/smd/small-companies-win-big-in-nasas-techleap-challenge/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/bps-general/TechLeapsLogo.png",
-    "news_site": "NASA",
-    "summary": "NASA announced 10 winning teams for its latest TechLeap Prize — the Space Technology Payload Challenge — on June 26. The winners emerged from a record-breaking field of more than 200 applicants to earn cash prizes worth up to $500,000, if they have a flight-ready unit. Recipients may also have the opportunity to flight test […]",
-    "published_at": "2025-08-14T16:29:21Z",
-    "updated_at": "2025-08-14T17:10:06.288505Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA announced 10 winning teams for its latest TechLeap Prize on June 26. The winners emerged from a record-breaking field of more than 200 applicants. Recipients may have the opportunity to flight test their technologies. The projects receive funding through the Commercially Enabled Rapid Space Science initiative."
   }
 ]
