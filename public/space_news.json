@@ -1,5 +1,45 @@
 [
   {
+    "id": 32674,
+    "title": "Curiosity Blog, Sols 4634-4635: A Waiting Game",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4634-4635-a-waiting-game/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04633_opgs_edr_ncam_NLB_808788777EDR_S1181350NCAM00250M_.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Lucy Thompson, Planetary Scientist and APXS Team Member, University of New Brunswick, Canada Earth Planning Date: Monday, Aug. 18, 2025 The downlink data from our weekend activities arrived on Earth as we started planning this morning. As the APXS payload uplink and downlink lead, I assess the downlink data to ensure that our […]",
+    "published_at": "2025-08-19T19:22:47Z",
+    "updated_at": "2025-08-19T20:10:12.424666Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Downlink data from our weekend activities arrived on Earth as we started planning this morning. The drive executed as planned and we are on stable ground, which will enable us to unstow the arm for contact science with APXS and MAHLI. We selected a representative bedrock patch (“Gil”) that was large enough and smooth enough to brush for dust removal. ChemCam will also analyze this target with LIBS, and Mastcam will capture a documentation image."
+  },
+  {
+    "id": 32673,
+    "title": "Curiosity Blog, Sols 4631-4633: Radiant Ridge Revolution",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4631-4633-radiant-ridge-revolution/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04629_opgs_edr_ncam_NLB_808441485EDR_F1181194NCAM00296M_.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Remington Free, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Aug. 15, 2025 Today we uplinked a three-sol weekend plan with lots of exciting activities — to support both the science and engineering teams!  While usually our science activities take front and center stage, we often also do engineering […]",
+    "published_at": "2025-08-19T18:40:46Z",
+    "updated_at": "2025-08-19T19:10:05.060904Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "On Sol 4631, we planned a maintenance activity of our Battery Control Boards (BCBs) This maintenance is done periodically to correct for any time drift on the BCBs, so we get as accurate of data as possible. After completing our engineering activities, we started off with some remote science; this included Mastcam imaging and ChemCam measurements of several interesting targets. On Sol 4633, we continued with more science imaging, including a horizon movie using Navcam and a dust-devil movie, before proceeding into our drive."
+  },
+  {
     "id": 32672,
     "title": "Sun at the Center: Teacher Ambassadors Bring Heliophysics to Classrooms Nationwide",
     "authors": [
@@ -954,45 +994,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "NSF conducted a flyover this week near the Kennedy Space Center (KSC) and the Cape Canaveral Space Force Station (CCSFS) NSF’s latest photos show assembly tents and a number of cranes and construction equipment surrounding the launch tower. Rebar work is still going on in the flame trench, with bucket halves and trench wall sections being delivered. Draft environmental impact statement for SpaceX’s latest Starship operations plans at LC-39A shows that the company plans to conduct up to 44 launches per year from the complex. The company is also now building the Giga Bay and planning a future Starfactory next to its current operation at Roberts Road. A new tower section has also been spotted at the Roberts Road facility, along with hardware for additional tower sections and pieces for a framework of a new set of Mechazilla arms. Stoke Space plans to field a fully reusable launch vehicle known as Nova. Relativity is still working on its Terran R partially reusable launch vehicles. NASA’s Artemis program is continuing to work on ML2 despite budget uncertainty in Washington. Blue Origin will be tasked with supporting the recovery of GS1 on the second flight of New Glenn."
-  },
-  {
-    "id": 32623,
-    "title": "NASA Seeks Proposals for 2026 Human Exploration Rover Challenge",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-seeks-proposals-for-2026-human-exploration-rover-challenge/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/herc-handbook-cover-2026.png",
-    "news_site": "NASA",
-    "summary": "NASA now is accepting proposals from student teams for a contest to design, build, and test rovers for Moon and Mars exploration through Sept. 15. Known as the Human Exploration Rover Challenge, student rovers should be capable of traversing a course while completing mission tasks. The challenge handbook has guidelines for remote-controlled and human-powered divisions. “Last year, we saw […]",
-    "published_at": "2025-08-15T14:00:00Z",
-    "updated_at": "2025-08-15T14:00:07.864311Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA is accepting proposals from student teams for a contest to design, build, and test rovers for Moon and Mars exploration. Known as the Human Exploration Rover Challenge, student rovers should be capable of traversing a course while completing mission tasks. This year’s mission mimics future Artemis missions to the lunar surface."
-  },
-  {
-    "id": 32622,
-    "title": "Spartan Space and Airbus Complete CNES Lunar Surface Airlock Study",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/spartan-space-and-airbus-complete-cnes-lunar-surface-airlock-study/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/Spartan-Space-and-Airbus-Complete-CNES-Lunar-Surface-Airlock-Study.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Spartan Space and Airbus Defence and Space have completed a feasibility study for a lunar habitat airlock, commissioned by the French aerospace agency CNES. In September 2021, CNES launched its Lunar Integrated Shelter for Exploration (LISE) initiative. LISE is part of the agency’s Spaceship France programme, which focuses on developing core technologies for future crewed […]\nThe post Spartan Space and Airbus Complete CNES Lunar Surface Airlock Study appeared first on European Spaceflight.",
-    "published_at": "2025-08-15T13:41:50Z",
-    "updated_at": "2025-08-15T13:50:10.172216Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Spartan Space and Airbus Defence and Space have completed a feasibility study for a lunar habitat airlock, commissioned by the French aerospace agency CNES. In September 2021, CNES launched its Lunar Integrated Shelter for Exploration (LISE) initiative. LISE is part of the agency’s Spaceship France programme, which focuses on developing technologies for future crewed missions to the Moon and Mars."
   }
 ]
