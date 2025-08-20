@@ -1,6 +1,6 @@
 {
   "count": 12,
-  "last_updated": "2025-08-20T03:14:14.707764Z",
+  "last_updated": "2025-08-20T06:02:01.334540Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -104,8 +104,8 @@
       "video_urls": [
         {
           "priority": 7,
-          "title": "SpaceX - Falcon 9 - USSF-36 (OTV-8) - LC-39A - Kennedy Space Center - Space Affairs Live",
-          "description": "Launch Date: August 21, 2025 (EDT)\nLaunch Time:  11:40 p.m. EDT (August 22, 0340 UTC, 05:40 CEST)\nLaunch Window:  Available til August 22, 03:40 a.m. EDT.\nLaunch Site: Launch Complex 39A (LC-39A - Ken...",
+          "title": "GO! - SpaceX - Falcon 9 - USSF-36 (OTV-8) - LC-39A - Kennedy Space Center - Space Affairs Live",
+          "description": "Launch Date: August 21, 2025 (EDT)\nLaunch Time:  11:50 p.m. EDT (August 22, 0350 UTC, 05:40 CEST)\nLaunch Window:  Available til August 22, 03:20 a.m. EDT.\nLaunch Site: Launch Complex 39A (LC-39A - Ken...",
           "feature_image": "https://i.ytimg.com/vi/wipfIrakKHc/maxresdefault_live.jpg",
           "url": "https://www.youtube.com/watch?v=wipfIrakKHc"
         },
