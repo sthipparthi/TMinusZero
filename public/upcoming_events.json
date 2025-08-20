@@ -1,6 +1,6 @@
 {
-  "count": 12,
-  "last_updated": "2025-08-20T06:02:01.334540Z",
+  "count": 11,
+  "last_updated": "2025-08-20T18:02:27.145579Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,34 +11,6 @@
     "Media URLs"
   ],
   "launches": [
-    {
-      "id": "49678ae6-8664-4d60-9aa2-622c087ed917",
-      "name": "Soyuz 2.1b | Bion-M No. 2",
-      "status": "Go",
-      "net": "2025-08-20T17:13:10Z",
-      "window_start": "2025-08-20T17:13:10Z",
-      "window_end": "2025-08-20T17:13:10Z",
-      "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-      "lsp_description": "The Roscosmos State Corporation for Space Activities, commonly known as Roscosmos, is the governmental body responsible for the space science program of the Russian Federation and general aerospace research. Soyuz has many launch locations the Russian sites are Baikonur, Plesetsk and Vostochny however Ariane also purchases the vehicle and launches it from French Guiana.",
-      "lsp_type": "Government",
-      "lsp_country": "RUS",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/russian2520federal2520space2520agency25202528roscosmos2529_logo_20190207032459.png",
-      "mission_name": "Bion-M No. 2",
-      "mission_description": "Bion-M is the next generation of Russian biological research satellites. While retaining the Vostok/Zenit-derived reentry module of the earlier Bion, the propulsion module has been replace by a Yantar type module, which provides maneuvering capabilities and longer mission support. The mission duration has been increased to up to 6 months by using solar cells for energy generation. The weight of scientific equipment has been increased by 100 kilograms.",
-      "mission_type": "Biology",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "31/6, Baikonur Cosmodrome, Republic of Kazakhstan",
-      "pad": "31/6",
-      "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "rocket": "Soyuz 2.1b",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/49678ae6-8664-4d60-9aa2-622c087ed917/",
-      "webcast_live": false,
-      "probability": null,
-      "info_urls": [],
-      "video_urls": []
-    },
     {
       "id": "709a1d9f-a0aa-4fd0-b108-1015393f49e1",
       "name": "Angara 1.2 | Kosmos (Unknown Payload)",
@@ -91,7 +63,7 @@
       "infographic": null,
       "url": "https://ll.thespacedevs.com/2.0.0/launch/2d5f2335-c3c2-4306-9dde-8ec37f348ccf/",
       "webcast_live": false,
-      "probability": null,
+      "probability": 65,
       "info_urls": [
         {
           "priority": 10,
