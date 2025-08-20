@@ -514,10 +514,10 @@ function App() {
                               </div>
                             )}
                             
-                            {launch.mission && launch.mission !== "Unknown Payload" && (
+                            {(launch.mission_name || launch.mission) && (launch.mission_name || launch.mission) !== "Unknown Payload" && (
                               <div className="flex items-center gap-1">
                                 <span className="font-medium">🚀</span>
-                                <span className="line-clamp-1 text-xs">{launch.mission}</span>
+                                <span className="line-clamp-1 text-xs">{launch.mission_name || launch.mission}</span>
                               </div>
                             )}
                           </div>
@@ -569,10 +569,10 @@ function App() {
                               </div>
                             )}
                             
-                            {launch.mission && launch.mission !== "Unknown Payload" && (
+                            {(launch.mission_name || launch.mission) && (launch.mission_name || launch.mission) !== "Unknown Payload" && (
                               <div className="flex items-center gap-1">
                                 <span className="font-medium">🚀</span>
-                                <span className="line-clamp-1 text-xs">{launch.mission}</span>
+                                <span className="line-clamp-1 text-xs">{launch.mission_name || launch.mission}</span>
                               </div>
                             )}
                           </div>

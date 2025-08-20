@@ -48,48 +48,168 @@ async def fetch_upcoming_launches(session, limit=MAX_EVENTS):
         print(f"❌ Error fetching data: {e}")
         return None
 
-def filter_go_status_launches(launches_data):
+async def fetch_launch_details(session, launch_url):
     """
-    Filter launches to only include those with status "Go"
+    Fetch detailed information for a specific launch
     
     Args:
+        session: aiohttp ClientSession
+        launch_url: URL to fetch detailed launch information
+    
+    Returns:
+        dict: Detailed launch data or None if failed
+    """
+    try:
+        async with session.get(launch_url) as response:
+            if response.status == 200:
+                return await response.json()
+            else:
+                print(f"⚠️  Failed to fetch details from {launch_url} (status {response.status})")
+                return None
+    except Exception as e:
+        print(f"⚠️  Error fetching launch details from {launch_url}: {e}")
+        return None
+
+async def filter_and_enhance_launches(session, launches_data):
+    """
+    Filter launches to only include those with status "Go" and fetch detailed information
+    
+    Args:
+        session: aiohttp ClientSession
         launches_data: Raw API response data
     
     Returns:
-        list: Filtered list of launches with status "Go"
+        list: Enhanced list of launches with status "Go" and detailed information
     """
     if not launches_data or 'results' not in launches_data:
         return []
     
     go_launches = []
     
+    # First filter for "Go" status launches
+    go_launch_candidates = []
     for launch in launches_data['results']:
-        # Check if status exists and name is "Go"
         if (launch.get('status') and 
             isinstance(launch['status'], dict) and 
-            launch['status'].get('name') == 'Go'):
+            launch['status'].get('name') == 'Go' and
+            launch.get('url')):
+            go_launch_candidates.append(launch)
+    
+    print(f"🔍 Found {len(go_launch_candidates)} launches with 'Go' status, fetching detailed information...")
+    
+    # Fetch detailed information for each "Go" launch
+    for i, launch in enumerate(go_launch_candidates):
+        print(f"📡 Fetching details for launch {i+1}/{len(go_launch_candidates)}: {launch.get('name', 'Unknown')}")
+        
+        # Fetch detailed launch information
+        detailed_data = await fetch_launch_details(session, launch['url'])
+        
+        # Extract enhanced information
+        if detailed_data:
+            # Get launch service provider details
+            lsp_info = detailed_data.get('launch_service_provider', {})
+            lsp_name = lsp_info.get('name', launch.get('lsp_name', 'Unknown'))
+            lsp_description = lsp_info.get('description', '')
+            lsp_type = lsp_info.get('type', '')
+            lsp_country = lsp_info.get('country_code', '')
+            lsp_logo = lsp_info.get('logo_url', '')
             
-            # Clean up the launch data for frontend consumption
+            # Get mission details
+            mission_info = detailed_data.get('mission', {})
+            mission_name = mission_info.get('name', launch.get('mission', 'Unknown'))
+            mission_description = mission_info.get('description', '')
+            mission_type = mission_info.get('type', launch.get('mission_type', ''))
+            orbit_info = mission_info.get('orbit', {})
+            orbit_name = orbit_info.get('name', '') if orbit_info else ''
+            
+            # Get pad and location details
+            pad_info = detailed_data.get('pad', {})
+            pad_name = pad_info.get('name', launch.get('pad', ''))
+            location_info = pad_info.get('location', {}) if pad_info else {}
+            location_name = location_info.get('name', launch.get('location', ''))
+            
+            # Get rocket information
+            rocket_info = detailed_data.get('rocket', {})
+            rocket_config = rocket_info.get('configuration', {}) if rocket_info else {}
+            rocket_name = rocket_config.get('full_name', rocket_config.get('name', ''))
+            
+            # Build enhanced launch data
+            cleaned_launch = {
+                'id': detailed_data.get('id', launch.get('id')),
+                'name': detailed_data.get('name', launch.get('name')),
+                'status': detailed_data.get('status', {}).get('name', 'Go'),
+                'net': detailed_data.get('net', launch.get('net')),
+                'window_start': detailed_data.get('window_start', launch.get('window_start')),
+                'window_end': detailed_data.get('window_end', launch.get('window_end')),
+                
+                # Enhanced Launch Service Provider information
+                'lsp_name': lsp_name,
+                'lsp_description': lsp_description,
+                'lsp_type': lsp_type,
+                'lsp_country': lsp_country,
+                'lsp_logo': lsp_logo,
+                
+                # Enhanced Mission information
+                'mission_name': mission_name,
+                'mission_description': mission_description,
+                'mission_type': mission_type,
+                'orbit': orbit_name,
+                
+                # Launch site information
+                'launch_site': f"{pad_name}, {location_name}" if pad_name and location_name else (location_name or pad_name or ''),
+                'pad': pad_name,
+                'location': location_name,
+                
+                # Rocket information
+                'rocket': rocket_name,
+                
+                # Media and links
+                'image': detailed_data.get('image', launch.get('image')),
+                'infographic': detailed_data.get('infographic', launch.get('infographic')),
+                'url': detailed_data.get('url', launch.get('url')),
+                
+                # Additional metadata
+                'webcast_live': detailed_data.get('webcast_live', False),
+                'probability': detailed_data.get('probability'),
+                'info_urls': detailed_data.get('infoURLs', []),
+                'video_urls': detailed_data.get('vidURLs', [])
+            }
+            
+            go_launches.append(cleaned_launch)
+        else:
+            # Fall back to basic data if detailed fetch failed
             cleaned_launch = {
                 'id': launch.get('id'),
                 'name': launch.get('name'),
-                'status': launch.get('status'),
-                'net': launch.get('net'),  # Launch time
+                'status': 'Go',
+                'net': launch.get('net'),
                 'window_start': launch.get('window_start'),
                 'window_end': launch.get('window_end'),
-                'lsp_name': launch.get('lsp_name'),  # Launch Service Provider
-                'mission': launch.get('mission'),
-                'mission_type': launch.get('mission_type'),
-                'pad': launch.get('pad'),
-                'location': launch.get('location'),
+                'lsp_name': launch.get('lsp_name', 'Unknown'),
+                'lsp_description': '',
+                'lsp_type': '',
+                'lsp_country': '',
+                'lsp_logo': '',
+                'mission_name': launch.get('mission', 'Unknown'),
+                'mission_description': '',
+                'mission_type': launch.get('mission_type', ''),
+                'orbit': '',
+                'launch_site': launch.get('location', ''),
+                'pad': launch.get('pad', ''),
+                'location': launch.get('location', ''),
+                'rocket': '',
                 'image': launch.get('image'),
                 'infographic': launch.get('infographic'),
-                'url': launch.get('url')
+                'url': launch.get('url'),
+                'webcast_live': False,
+                'probability': None,
+                'info_urls': [],
+                'video_urls': []
             }
             
             go_launches.append(cleaned_launch)
     
-    print(f"✅ Filtered {len(go_launches)} launches with 'Go' status")
+    print(f"✅ Enhanced {len(go_launches)} launches with detailed information")
     return go_launches
 
 def save_to_json(data, output_path):
@@ -112,8 +232,15 @@ def save_to_json(data, output_path):
         output_data = {
             'count': len(data),
             'last_updated': datetime.utcnow().isoformat() + 'Z',
-            'source': 'The Space Devs API',
+            'source': 'The Space Devs API (Enhanced)',
             'filter_criteria': 'status.name == "Go"',
+            'data_includes': [
+                'Launch Service Provider details',
+                'Mission descriptions',
+                'Rocket information',
+                'Launch site details',
+                'Media URLs'
+            ],
             'launches': data
         }
         
@@ -143,7 +270,7 @@ async def main():
     print(f"💾 Output file: {output_path}")
     
     # Create HTTP session with timeout
-    timeout = aiohttp.ClientTimeout(total=30)
+    timeout = aiohttp.ClientTimeout(total=60)  # Increased timeout for multiple requests
     async with aiohttp.ClientSession(timeout=timeout) as session:
         # Fetch upcoming launches
         launches_data = await fetch_upcoming_launches(session)
@@ -152,8 +279,8 @@ async def main():
             print("❌ Failed to fetch launch data")
             return False
         
-        # Filter for "Go" status launches
-        go_launches = filter_go_status_launches(launches_data)
+        # Filter for "Go" status launches and enhance with detailed information
+        go_launches = await filter_and_enhance_launches(session, launches_data)
         
         if not go_launches:
             print("⚠️  No launches with 'Go' status found")
@@ -173,6 +300,10 @@ async def main():
                 launch_time = datetime.fromisoformat(launch['net'].replace('Z', '+00:00'))
                 print(f"  {i+1}. {launch['name']} - {launch_time.strftime('%Y-%m-%d %H:%M')} UTC")
                 print(f"     🏢 {launch['lsp_name']} | 📍 {launch['location']}")
+                if launch.get('mission_description'):
+                    desc = launch['mission_description'][:100] + "..." if len(launch['mission_description']) > 100 else launch['mission_description']
+                    print(f"     📋 {desc}")
+                print()  # Empty line for readability
             
             return True
         else:
