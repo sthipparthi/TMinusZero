@@ -1,6 +1,6 @@
 {
-  "count": 13,
-  "last_updated": "2025-08-21T06:01:59.440515Z",
+  "count": 12,
+  "last_updated": "2025-08-21T12:02:12.217983Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,34 +11,6 @@
     "Media URLs"
   ],
   "launches": [
-    {
-      "id": "709a1d9f-a0aa-4fd0-b108-1015393f49e1",
-      "name": "Angara 1.2 | Kosmos (Unknown Payload)",
-      "status": "Go",
-      "net": "2025-08-21T08:30:00Z",
-      "window_start": "2025-08-21T08:30:00Z",
-      "window_end": "2025-08-21T10:30:00Z",
-      "lsp_name": "Russian Space Forces",
-      "lsp_description": "The Russian Space Forces are a branch of the Russian Aerospace Forces, that provides aerospace warning, air sovereignty, and protection for Russia. Having been reestablished following August 1, 2015 merger between the Russian Air Force and the Russian Aerospace Defence Forces after a 2011 dissolving of the branch. The Russian Space Forces were originally formed on August 10, 1992 and the creation of the Russian Armed Forces.",
-      "lsp_type": "Government",
-      "lsp_country": "RUS",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/russian2520space2520forces_logo_20200805185824.png",
-      "mission_name": "Kosmos (Unknown Payload)",
-      "mission_description": "Unknown classified payload for the Russian military.",
-      "mission_type": "Government/Top Secret",
-      "orbit": "Polar Orbit",
-      "launch_site": "35/1, Plesetsk Cosmodrome, Russian Federation",
-      "pad": "35/1",
-      "location": "Plesetsk Cosmodrome, Russian Federation",
-      "rocket": "Angara 1.2",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/angara25201.2_image_20190224012254.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/709a1d9f-a0aa-4fd0-b108-1015393f49e1/",
-      "webcast_live": false,
-      "probability": null,
-      "info_urls": [],
-      "video_urls": []
-    },
     {
       "id": "2d5f2335-c3c2-4306-9dde-8ec37f348ccf",
       "name": "Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)",
@@ -59,9 +31,9 @@
       "pad": "Launch Complex 39A",
       "location": "Kennedy Space Center, FL, USA",
       "rocket": "Falcon 9 Block 5",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_lc-_image_20250821083642.jpeg",
       "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/2d5f2335-c3c2-4306-9dde-8ec37f348ccf/",
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/2d5f2335-c3c2-4306-9dde-8ec37f348ccf/?format=json",
       "webcast_live": false,
       "probability": 65,
       "info_urls": [
