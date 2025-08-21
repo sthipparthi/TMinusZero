@@ -1,6 +1,6 @@
 {
   "count": 12,
-  "last_updated": "2025-08-21T12:02:12.217983Z",
+  "last_updated": "2025-08-21T18:02:36.770825Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -33,7 +33,7 @@
       "rocket": "Falcon 9 Block 5",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_lc-_image_20250821083642.jpeg",
       "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/2d5f2335-c3c2-4306-9dde-8ec37f348ccf/?format=json",
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/2d5f2335-c3c2-4306-9dde-8ec37f348ccf/",
       "webcast_live": false,
       "probability": 65,
       "info_urls": [
@@ -158,9 +158,9 @@
       "id": "e8e93778-657c-401c-9c88-3cd4c7c45c9d",
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-33",
       "status": "Go",
-      "net": "2025-08-24T06:45:00Z",
-      "window_start": "2025-08-24T06:45:00Z",
-      "window_end": "2025-08-24T06:45:00Z",
+      "net": "2025-08-24T06:45:09Z",
+      "window_start": "2025-08-24T06:45:09Z",
+      "window_end": "2025-08-24T06:45:09Z",
       "lsp_name": "SpaceX",
       "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
       "lsp_type": "Commercial",
@@ -189,6 +189,13 @@
         }
       ],
       "video_urls": [
+        {
+          "priority": 9,
+          "title": "NASA's SpaceX 33rd Commercial Resupply Services Launch",
+          "description": "The 33rd SpaceX commercial resupply mission to the International Space Station is set to lift off at 2:45 a.m. EDT (0645 UTC) on Sunday, Aug. 24, from Space Launch Complex 40 at Cape Canaveral Space F...",
+          "feature_image": "https://i.ytimg.com/vi/qk1JnExKcoo/maxresdefault_live.jpg",
+          "url": "https://www.youtube.com/watch?v=qk1JnExKcoo"
+        },
         {
           "priority": 10,
           "title": "CRS-33 Mission | Launch",
