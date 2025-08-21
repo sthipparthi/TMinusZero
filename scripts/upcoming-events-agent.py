@@ -16,7 +16,6 @@ from pathlib import Path
 
 # AI Summarization imports
 import aiohttp
-import torch
 
 # Configuration
 API_URL = "https://ll.thespacedevs.com/2.0.0/launch/upcoming/"
