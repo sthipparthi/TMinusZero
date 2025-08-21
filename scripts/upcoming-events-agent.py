@@ -33,7 +33,7 @@ AI_MODEL_NAME = None  # Will be set based on successful loading
 
 async def make_api_request(session, url, params=None, description="API request"):
     """
-    Make a simple API request with basic error handling and rate limit retry
+    Make a simple API request with basic error handling
     
     Args:
         session: aiohttp ClientSession
@@ -44,41 +44,22 @@ async def make_api_request(session, url, params=None, description="API request")
     Returns:
         dict: JSON response or None if failed
     """
-    max_retries = 2
-    retry_delay = 60  # 1 minute delay for rate limit retry
-    
-    for attempt in range(max_retries + 1):
-        try:
-            print(f"📡 Making {description} to {url}")
-            if attempt > 0:
-                print(f"   🔄 Retry attempt {attempt}/{max_retries}")
-                
-            async with session.get(url, params=params) as response:
-                if response.status == 200:
-                    data = await response.json()
-                    print(f"✅ {description} successful")
-                    return data
-                elif response.status == 429:
-                    print(f"⚠️  {description} rate limited (429)")
-                    if attempt < max_retries:
-                        print(f"   ⏱️  Waiting {retry_delay} seconds before retry...")
-                        await asyncio.sleep(retry_delay)
-                        continue
-                    else:
-                        print(f"   ❌ Max retries reached for rate limiting")
-                        return None
-                else:
-                    print(f"❌ {description} failed with status {response.status}")
-                    return None
-        except Exception as e:
-            print(f"❌ Error during {description}: {e}")
-            if attempt < max_retries:
-                print(f"   ⏱️  Waiting {retry_delay // 2} seconds before retry...")
-                await asyncio.sleep(retry_delay // 2)
-                continue
-            return None
-    
-    return None
+    try:
+        print(f"📡 Making {description} to {url}")
+        async with session.get(url, params=params) as response:
+            if response.status == 200:
+                data = await response.json()
+                print(f"✅ {description} successful")
+                return data
+            elif response.status == 429:
+                print(f"⚠️  {description} rate limited (429)")
+                return None
+            else:
+                print(f"❌ {description} failed with status {response.status}")
+                return None
+    except Exception as e:
+        print(f"❌ Error during {description}: {e}")
+        return None
 
 class AILaunchSummarizer:
     """
@@ -314,7 +295,7 @@ async def filter_and_enhance_launches(session, launches_data, existing_launches=
         
         # Add delay between requests to be respectful to the API (only for new launches)
         if new_launch_count > 1:
-            await asyncio.sleep(15)  # 15 seconds delay between requests to avoid rate limiting
+            await asyncio.sleep(1)  # 1 seconds delay between requests to avoid rate limiting
         
         # Try to fetch detailed launch information for new launches
         detailed_data = await fetch_launch_details(session, launch['url'], launch_name)
