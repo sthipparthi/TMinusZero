@@ -8,6 +8,8 @@ function App() {
   const [location, setLocation] = useState("Getting location...");
   const [selectedArticle, setSelectedArticle] = useState(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [selectedLaunch, setSelectedLaunch] = useState(null);
+  const [isLaunchModalOpen, setIsLaunchModalOpen] = useState(false);
   const [activeTab, setActiveTab] = useState("Space News");
   const [showScrollButtons, setShowScrollButtons] = useState(false);
   const [canScrollLeft, setCanScrollLeft] = useState(false);
@@ -161,9 +163,29 @@ function App() {
     document.body.style.overflow = 'unset';
   };
 
+  const openLaunchModal = (launch) => {
+    setSelectedLaunch(launch);
+    setIsLaunchModalOpen(true);
+    // Prevent background scrolling
+    document.body.style.overflow = 'hidden';
+  };
+
+  const closeLaunchModal = () => {
+    setIsLaunchModalOpen(false);
+    setSelectedLaunch(null);
+    // Restore background scrolling
+    document.body.style.overflow = 'unset';
+  };
+
   const handleModalBackdropClick = (e) => {
     if (e.target === e.currentTarget) {
       closeModal();
+    }
+  };
+
+  const handleLaunchModalBackdropClick = (e) => {
+    if (e.target === e.currentTarget) {
+      closeLaunchModal();
     }
   };
 
@@ -474,7 +496,8 @@ function App() {
                     {upcomingLaunches.map((launch) => (
                       <div 
                         key={`first-${launch.id}`} 
-                        className="flex-shrink-0 w-40 bg-white/10 rounded-lg p-2 border border-white/20 hover:border-white/40 transition-all duration-300 hover:transform hover:scale-105 hover:shadow-2xl hover:shadow-black/50"
+                        className="flex-shrink-0 w-40 bg-white/10 rounded-lg p-2 border border-white/20 hover:border-white/40 transition-all duration-300 hover:transform hover:scale-105 hover:shadow-2xl hover:shadow-black/50 cursor-pointer"
+                        onClick={() => openLaunchModal(launch)}
                       >
                         {/* Launch Image */}
                         {launch.image && (
@@ -529,7 +552,8 @@ function App() {
                     {upcomingLaunches.map((launch) => (
                       <div 
                         key={`second-${launch.id}`} 
-                        className="flex-shrink-0 w-40 bg-white/10 rounded-lg p-2 border border-white/20 hover:border-white/40 transition-all duration-300 hover:transform hover:scale-105 hover:shadow-2xl hover:shadow-black/50"
+                        className="flex-shrink-0 w-40 bg-white/10 rounded-lg p-2 border border-white/20 hover:border-white/40 transition-all duration-300 hover:transform hover:scale-105 hover:shadow-2xl hover:shadow-black/50 cursor-pointer"
+                        onClick={() => openLaunchModal(launch)}
                       >
                         {/* Launch Image */}
                         {launch.image && (
@@ -716,6 +740,156 @@ function App() {
                 </a>
                 <button
                   onClick={closeModal}
+                  className="bg-gray-700 text-gray-200 px-6 py-2 rounded-lg hover:bg-gray-600 transition-colors duration-200"
+                >
+                  Close
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Launch Modal */}
+      {isLaunchModalOpen && selectedLaunch && (
+        <div 
+          className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4"
+          onClick={handleLaunchModalBackdropClick}
+        >
+          <div className="modal-container modal-space-bg rounded-lg max-w-4xl w-full max-h-[90vh] relative overflow-hidden">
+            {/* Close Button */}
+            <button 
+              onClick={closeLaunchModal}
+              className="absolute top-4 right-4 text-gray-300 hover:text-white text-2xl font-bold z-10 bg-black bg-opacity-50 hover:bg-opacity-70 rounded-full w-8 h-8 flex items-center justify-center shadow-lg transition-all duration-200"
+            >
+              ×
+            </button>
+            
+            {/* Modal Content */}
+            <div className="p-6 overflow-y-auto max-h-[90vh] text-white">
+              {/* Header Image */}
+              <img
+                src={selectedLaunch.image || "https://images.unsplash.com/photo-1517976487492-5750f3195933?w=800&h=400&fit=crop"}
+                alt={selectedLaunch.name}
+                className="w-full h-64 object-cover rounded-lg mb-6"
+                onError={(e) => {
+                  e.target.src = "https://images.unsplash.com/photo-1517976487492-5750f3195933?w=800&h=400&fit=crop";
+                }}
+              />
+              
+              {/* Launch Info Header */}
+              <div className="mb-4">
+                <div className="flex items-center gap-2 text-sm text-gray-300 mb-2">
+                  <span className="font-medium text-gray-200">{selectedLaunch.lsp_name}</span>
+                  <span>·</span>
+                  <span>{dayjs(selectedLaunch.net).format("MMMM D, YYYY at h:mm A")} UTC</span>
+                  {selectedLaunch.status && (
+                    <>
+                      <span>·</span>
+                      <span className={`px-2 py-1 rounded-full text-xs font-medium ${
+                        selectedLaunch.status === 'Go' ? 'bg-green-600 text-white' : 
+                        selectedLaunch.status === 'TBD' ? 'bg-yellow-600 text-white' : 
+                        'bg-gray-600 text-white'
+                      }`}>
+                        {selectedLaunch.status}
+                      </span>
+                    </>
+                  )}
+                </div>
+                
+                {/* Launch Window */}
+                {selectedLaunch.window_start && selectedLaunch.window_end && (
+                  <div className="text-sm text-gray-300 mb-2">
+                    Launch Window: {dayjs(selectedLaunch.window_start).format("h:mm A")} - {dayjs(selectedLaunch.window_end).format("h:mm A")} UTC
+                  </div>
+                )}
+              </div>
+              
+              {/* Title */}
+              <h1 className="text-3xl font-bold text-white mb-6">
+                {selectedLaunch.name}
+              </h1>
+              
+              {/* Launch Details Grid */}
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                {/* Mission Details */}
+                <div className="bg-white/5 rounded-lg p-4">
+                  <h3 className="text-xl font-semibold text-white mb-3 flex items-center gap-2">
+                    🚀 Mission Details
+                  </h3>
+                  <div className="space-y-2 text-gray-200">
+                    <div><strong>Mission:</strong> {selectedLaunch.mission_name || 'Unknown'}</div>
+                    {selectedLaunch.mission_type && (
+                      <div><strong>Type:</strong> {selectedLaunch.mission_type}</div>
+                    )}
+                    {selectedLaunch.orbit && (
+                      <div><strong>Target Orbit:</strong> {selectedLaunch.orbit}</div>
+                    )}
+                  </div>
+                </div>
+
+                {/* Launch Site Details */}
+                <div className="bg-white/5 rounded-lg p-4">
+                  <h3 className="text-xl font-semibold text-white mb-3 flex items-center gap-2">
+                    📍 Launch Site
+                  </h3>
+                  <div className="space-y-2 text-gray-200">
+                    <div><strong>Location:</strong> {selectedLaunch.location || 'Unknown'}</div>
+                    {selectedLaunch.pad && (
+                      <div><strong>Launch Pad:</strong> {selectedLaunch.pad}</div>
+                    )}
+                    {selectedLaunch.launch_site && selectedLaunch.launch_site !== selectedLaunch.location && (
+                      <div><strong>Site:</strong> {selectedLaunch.launch_site}</div>
+                    )}
+                  </div>
+                </div>
+
+                {/* Rocket Details */}
+                <div className="bg-white/5 rounded-lg p-4">
+                  <h3 className="text-xl font-semibold text-white mb-3 flex items-center gap-2">
+                    🚀 Rocket
+                  </h3>
+                  <div className="space-y-2 text-gray-200">
+                    <div><strong>Vehicle:</strong> {selectedLaunch.rocket || 'Unknown'}</div>
+                    {selectedLaunch.rocket_config_family && (
+                      <div><strong>Family:</strong> {selectedLaunch.rocket_config_family}</div>
+                    )}
+                  </div>
+                </div>
+
+                {/* Launch Provider */}
+                <div className="bg-white/5 rounded-lg p-4">
+                  <h3 className="text-xl font-semibold text-white mb-3 flex items-center gap-2">
+                    🏢 Launch Provider
+                  </h3>
+                  <div className="space-y-2 text-gray-200">
+                    <div><strong>Company:</strong> {selectedLaunch.lsp_name || 'Unknown'}</div>
+                    {selectedLaunch.lsp_type && (
+                      <div><strong>Type:</strong> {selectedLaunch.lsp_type}</div>
+                    )}
+                    {selectedLaunch.lsp_country && (
+                      <div><strong>Country:</strong> {selectedLaunch.lsp_country}</div>
+                    )}
+                  </div>
+                </div>
+              </div>
+
+              {/* Mission Description */}
+              {selectedLaunch.mission_description && (
+                <div className="mb-6">
+                  <h3 className="text-xl font-semibold text-white mb-3 flex items-center gap-2">
+                    📋 Mission Description
+                  </h3>
+                  <div className="text-gray-200 leading-relaxed bg-white/5 rounded-lg p-4">
+                    {selectedLaunch.ai_summary}
+                  </div>
+                </div>
+              )}
+              
+              {/* Action Buttons */}
+              <div className="flex gap-4 pt-4 border-t border-gray-600">
+                <button
+                  onClick={closeLaunchModal}
                   className="bg-gray-700 text-gray-200 px-6 py-2 rounded-lg hover:bg-gray-600 transition-colors duration-200"
                 >
                   Close
