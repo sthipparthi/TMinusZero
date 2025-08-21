@@ -20,6 +20,46 @@
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
+    "id": 32691,
+    "title": "NASA Selecting New Astronauts, Gearing Up for Artemis II",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-selecting-new-astronauts-gearing-up-for-artemis-ii/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Artemis-II-smiling-Apr-2023-NASA-261x300.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "In four weeks, NASA will introduce a new class of astronauts as it begins gearing up for the launch of Artemis II, the first time humans will travel around the […]",
+    "published_at": "2025-08-21T03:05:47Z",
+    "updated_at": "2025-08-21T03:10:20.428987Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA will introduce a new class of astronauts as it begins gearing up for the launch of Artemis II, the first time humans will travel around the Moon since the Apollo era. Artemis II is a test flight that will not attempt even to orbit the Moon, much less land. The four-person American-Canadian crew will fly a free-return trajectory taking them past the Moon and back to Earth. Cruz posted a video of the JSC visit and wrote that he is “making sure we have the tools we need to maintain American dominance in space,” but provided no details about the fate of the $10 billion. He and Babin wrote to Duffy on August 5 asking for details on when and how it will be spent. NASA laid out an architecture for routine flights beyond that, including assembling a lunar Gateway space station. The Trump Administration wants to kill not only Gateway, but SLS and Orion after Artemis III and replace them with commercial alternatives. Congress disagrees, pointing out commercial alternatives don’t exist yet."
+  },
+  {
+    "id": 32690,
+    "title": "Curiosity Blog, Sols 4636-4637: Up Against a Wall",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4636-4637-up-against-a-wall/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04634_opgs_edr_ncam_NLB_808883082EDR_F1181608NCAM00251M_.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator, Framework Earth planning date: Wednesday, Aug. 20, 2025 What does a good rover do when her back is up against a wall? Fight for science! Curiosity indeed fought the good fight at “Río Frío,” the wall of one of the many ridges cutting through the boxwork terrain […]",
+    "published_at": "2025-08-21T02:28:07Z",
+    "updated_at": "2025-08-21T03:10:12.973646Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The observations along the wall today provide insight into the internal structure and chemistry of the ridges. The structural story will be told by the large Mastcam mosaics we planned, covering the ridge from base to top. The mosaic target, “Jardín de las Delicias,” will surely yield a surfeit of Martian delights."
+  },
+  {
     "id": 32689,
     "title": "Firefly Looks to Japan’s Hokkaido Spaceport for First Asia Launch Site; Signs Feasibility Study MOU",
     "authors": [
@@ -947,52 +987,5 @@
     ],
     "events": [],
     "detailed_news": "Today’s team investigated the texture and chemistry of the bedrock within a topographic low, or hollow, found within the greater boxwork area. We will also observe a small crescent-shaped rock named “Wedge Tailed Hillstar” with MAHLI. Once these observations are completed Curiosity will set off on a 30-meter drive (about 98 feet) to an interesting ridge feature."
-  },
-  {
-    "id": 32640,
-    "title": "Countdown To Launch : What to Expect From Starship Flight 10",
-    "authors": [
-      {
-        "name": "Zac Aubert",
-        "socials": {
-          "x": "https://x.com/Astro_Aubert",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/zachary-aubert-43853b22/",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://tlpnetwork.com/news/america/countdown-to-launch-what-to-expect-from-starship-flight-10",
-    "image_url": "https://cdn.tlpnetwork.com/articles/2025/1755474284234.jpeg",
-    "news_site": "The Launch Pad",
-    "summary": "Countdown To Launch : What to Expect From Starship Flight 10",
-    "published_at": "2025-08-17T22:58:00Z",
-    "updated_at": "2025-08-18T00:00:56.536466Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX is targeting Sunday, August 24, 2025, for the tenth flight test of Starship. The launch window opens at 6:30 p.m. CT (23:30 UTC) Starship will carry eight Starlink simulators sized to match next-generation Starlink V3 satellites. SpaceX is steadily moving closer to its operational goal: a rapidly reusable super-heavy launch system. Every test generates terabytes of telemetry and video data, feeding directly into next-generation Starship designs. The company has stated that only two more flights remain with the current generation of Starship/Super Heavy."
-  },
-  {
-    "id": 32661,
-    "title": "Launch Roundup: SpaceX, Chinese, and Russian missions make up busy week",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/launch-roundup-081825/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/07/IMG_2367-scaled.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "A Chinese rocket, a pair of Russian missions, a trio of Falcon 9 launches, and…\nThe post Launch Roundup: SpaceX, Chinese, and Russian missions make up busy week appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-17T22:38:42Z",
-    "updated_at": "2025-08-18T21:20:10.278531Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A Chinese rocket, a pair of Russian missions, a trio of Falcon 9 launches, and the long-awaited tenth flight of Starship are scheduled to fly this week. A Soyuz rocket is to fly a modernized version of the Vostok capsule that flew crewed missions in the 1960s from Baikonur, while an Angara rocket is flying from the Russian military launch site in Plesetsk. Soyuz 2.1a rocket will loft Bion-M spacecraft to a 300-370 km altitude. The 6,300 kg spacecraft is derived from the Vostok spacecraft that launched Yuri Gagarin to space on April 12, 1961. The mission is scheduled to last for 30 days before the spacecraft returns to Earth. U.S. Space Force’s USSF-36 mission will fly aboard a Falcon 9 from Kennedy Space Center. A X-37B Orbital Test Vehicle (OTV) is flying the program’s eighth mission since the OTV-1 mission in 2010 aboard an Atlas V. This flight will be the 101st Falcon 9 launch of 2025, as SpaceX works to fly up to 160 missions this year. CRS-33 mission is scheduled for Sunday, Aug. 24, at 2:45 AM EDT (06:45 UTC) from SLC-40 at the Cape Canaveral Space Force Station. Ship 36 exploded on the test stand at Masseys just before it was supposed to perform a six-engine static fire, forcing SpaceX to reassign Ship 37 to Flight 10. The explosion knocked the Massey’s Test Facility out of service for at least several months for static fire testing. To work around the lack of testing infrastructure, SpaceX designed a mount to static fire Ship 37 on the orbital launch mount at Pad 1."
   }
 ]
