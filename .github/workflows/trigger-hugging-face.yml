@@ -37,6 +37,9 @@ jobs:
         run: python scripts/agent.py
 
       - name: Run upcoming events fetch
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_MODEL: "facebook/bart-large-cnn"
         run: python scripts/upcoming-events-agent.py
 
       - name: Commit and push updated files
