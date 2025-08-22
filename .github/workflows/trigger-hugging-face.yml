@@ -42,11 +42,19 @@ jobs:
           HF_MODEL: "facebook/bart-large-cnn"
         run: python scripts/upcoming-events-agent.py
 
+      - name: Update sitemap lastmod
+        run: |
+          # Update sitemap.xml with current date
+          CURRENT_DATE=$(date -u +%Y-%m-%d)
+          sed -i "s|<lastmod>.*</lastmod>|<lastmod>$CURRENT_DATE</lastmod>|g" public/sitemap.xml
+          echo "Updated sitemap.xml lastmod to: $CURRENT_DATE"
+
       - name: Commit and push updated files
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add public/space_news.json || true
           git add public/upcoming_events.json || true
+          git add public/sitemap.xml || true
           git commit -m "chore: update space news and upcoming launches" || echo "no changes"
           git push origin HEAD:${{ github.ref_name }}

@@ -1,3 +1,7 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Disallow: 
+
+# Sitemap
+Sitemap: https://t-minus-zero.vercel.app/sitemap.xml

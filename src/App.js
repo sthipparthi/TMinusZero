@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Helmet, HelmetProvider } from "react-helmet-async";
 import dayjs from "dayjs";
 import "./SpaceBackground.css";
 
@@ -377,9 +378,17 @@ function App() {
   }, [upcomingLaunches]); // Re-run when launches change
 
   return (
-    <>
-      {/* Fixed Space Background */}
-      <div className="space-background"></div>
+    <HelmetProvider>
+      <Helmet>
+        <title>T-0 Space News | Latest Space Exploration News & Rocket Launches</title>
+        <meta name="description" content="Stay updated with the latest space exploration news, rocket launches, and cosmic discoveries. Real-time updates on SpaceX, NASA missions, and upcoming space events." />
+        <meta name="keywords" content="space news, rocket launches, SpaceX, NASA, space exploration, satellites, space missions, astronomy, aerospace" />
+        <link rel="canonical" href="https://t-minus-zero.vercel.app/" />
+      </Helmet>
+      
+      <>
+        {/* Fixed Space Background */}
+        <div className="space-background"></div>
 
       {/* Main Content Overlay */}
       <div className="min-h-screen flex flex-col">
@@ -899,7 +908,8 @@ function App() {
           </div>
         </div>
       )}
-    </>
+      </>
+    </HelmetProvider>
   );
 }
 
