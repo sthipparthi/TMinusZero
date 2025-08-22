@@ -20,6 +20,186 @@
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
+    "id": 32708,
+    "title": "Lunar Environment Structural Test Rig",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/lunar-environment-structural-test-rig/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/grc-2025-c-05348.jpg",
+    "news_site": "NASA",
+    "summary": "The Lunar Environment Structural Test Rig simulates the intense cold of the lunar night, ranging from 40 Kelvin (K) to 125 K while maintaining a vacuum environment. This creates a tool by which scientists and engineers can test materials, electronics, and flight hardware for future Moon and Mars missions, characterizing their behaviors at these temperatures while also validating their ability to meet design requirements.",
+    "published_at": "2025-08-22T12:29:37Z",
+    "updated_at": "2025-08-22T12:30:08.567377Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "LESTR simulates the intense cold of the lunar night, ranging from 40 Kelvin (K) to 125 K. It uses a cryocooler to reject heat and bring the test section to any point desired by the test engineer. LESTR enables safe, accurate, and cost-effective testing of materials and hardware."
+  },
+  {
+    "id": 32706,
+    "title": "Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/08/rocket-report-pivotal-starship-test-on-tap-firefly-wants-to-be-big-in-japan/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Gy5mgr3XsAAs79t.jpg",
+    "news_site": "Arstechnica",
+    "summary": "Starship returns to the launch pad for the first time in three months.",
+    "published_at": "2025-08-22T11:00:18Z",
+    "updated_at": "2025-08-22T11:10:04.714886Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX's Starship rocket will return to the launch pad for the first time in three months on Sunday. A Chinese methane-powered rocket failed on Friday after the carrier rocket experienced an \"anomaly\" The French government has granted Avio a 10-year license to carry out Vega rocket operations from the Guiana Space Centre. SpaceX launched its 100th Falcon 9 rocket of the year Monday morning. Students from Concordia University cheered and whistled as the Starsailor rocket lifted off on Cree territory on August 15. This was Canada's first space launch in more than 25 years, and the first to be achieved by a team of students, according to the university. SpaceX has not had a good run of things with the ambitious Starship vehicle this year. Three times, in January, March, and May, the vehicle took flight. Sources at SpaceX believe the upper stage issues can be resolved. But the acid test will only come on upcoming flights, beginning Sunday. Engineers recreated the diffuser failure on the ground during the investigation. They then redesigned the part to better direct pressurized gas into the main fuel tank. This will also \"substantially decrease\" strain on the Diffuser structure, SpaceX said. The Falcon 9 is scheduled to launch on August 22."
+  },
+  {
+    "id": 32707,
+    "title": "Hubble Observes Noteworthy Nearby Spiral Galaxy",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/hubble-observes-noteworthy-nearby-spiral-galaxy/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC2835_potw2533a.jpg",
+    "news_site": "NASA",
+    "summary": "This NASA/ESA Hubble Space Telescope image offers a new view of the nearby spiral galaxy NGC 2835, which lies 35 million light-years away in the constellation Hydra (the Water Snake). The galaxy’s spiral arms are dotted with young blue stars sweeping around an oval-shaped center where older stars reside. This image differs from previously released […]",
+    "published_at": "2025-08-22T11:00:00Z",
+    "updated_at": "2025-08-22T11:10:05.669636Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NGC 2835 lies 35 million light-years away in the constellation Hydra (the Water Snake) The galaxy’s spiral arms are dotted with young blue stars sweeping around an oval-shaped center where older stars reside. This image differs from previously released images from Hubble and the NASA/ESA/CSA James Webb Space Telescope."
+  },
+  {
+    "id": 32704,
+    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/22/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/03/20250320_F9_SLC-4E_small.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The mission will include the 1,800th Starlink satellite launched in 2025. SpaceX is targeting liftoff from pad 4E at Vandenberg Space Force Base at 10:02 a.m. PDT (1:02 p.m. EDT / 1702 UTC).",
+    "published_at": "2025-08-22T05:18:06Z",
+    "updated_at": "2025-08-22T08:47:47.751781Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "80af8d63-64aa-4d16-9abd-bdbe167cecb9",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "SpaceX is planning to launch of its latest batch of Starlink V2 Mini satellites from Vandenberg Space Force Base in California on Friday. The Starlink 17-6 mission will add another 24 satellites to the low Earth orbit constellation. With a successful completion of this mission, SpaceX will have launched more than 1,800 of its Starlink satellites in 2025 alone."
+  },
+  {
+    "id": 32705,
+    "title": "SpaceX launches Space Force’s X-37B spaceplane to demo laser communications, quantum navigation",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/22/spacex-launches-space-forces-x-37b-spaceplane-to-demo-laser-communications-quantum-navigation/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250821_USSF-36_streak_JP-1.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The uncrewed spacecraft will operate in low Earth orbit for an unspecified amount of time. This is the eighth launch of an X-37B Orbital Test Vehicle since its first flight in 2010.",
+    "published_at": "2025-08-22T05:15:08Z",
+    "updated_at": "2025-08-22T08:47:30.191874Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "2d5f2335-c3c2-4306-9dde-8ec37f348ccf",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "The X-37B Orbital Test Vehicle was launched Thursday night. It's the eighth mission for the program, which began operational flights in April 2010. There are two operational spaceplanes in the X- 37B fleet. The rocket's first stage will attempt to land on a SpaceX droneship. NASA, Boeing and Lockheed Martin argued that the United States shouldn't skip past the Moon in favor of Mars. The discussion came up during a panel at the SpaceCom conference concerning the Artemis 2 mission. A SpaceX Falcon 9 rocket loaded with 10 Iridium Next communications satellite is awaiting a predawn launch Wednesday from Vandenberg Air Force Base."
+  },
+  {
+    "id": 32703,
+    "title": "X-37B Lifts Off on Eighth Mission",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/x-37b-lifts-off-on-eighth-mission/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/X-37B-after-OTV6-USSF-300x200.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The U.S. Space Force’s X-37B Orbital Test Vehicle lifted off from Kennedy Space Center just before midnight on its eighth flight, OTV-8. Looking like a small space shuttle, the spaceplane […]",
+    "published_at": "2025-08-22T03:52:08Z",
+    "updated_at": "2025-08-22T08:47:23.060168Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "2d5f2335-c3c2-4306-9dde-8ec37f348ccf",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "The U.S. Space Force’s X-37B Orbital Test Vehicle lifted off from Kennedy Space Center just before midnight on its eighth flight, OTV-8. Looking like a small space shuttle, the spaceplane was nestled inside the fairing of a SpaceX Falcon 9 rocket. The USSF released a pre-launch photo and shared a few nuggets about some of the experiments aboard, but little is known about what these X- 37B missions do. Boeing built two X-37Bs. USSF didn’t specify which is being used for this mission. Some question whether it may be a space weapon of some kind. Secure World Foundation tracks global counterspace capabilities and concludes that’s not likely."
+  },
+  {
+    "id": 32701,
+    "title": "NASA’s SpaceX 33rd Commercial Resupply Mission Overview",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-33rd-commercial-resupply-mission-overview/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/spacex-falcon9-dragon.png",
+    "news_site": "NASA",
+    "summary": "NASA and SpaceX are targeting no earlier than 2:45 a.m. EDT on Sunday, Aug. 24, for the next launch to deliver scientific investigations, supplies, and equipment to the International Space Station.",
+    "published_at": "2025-08-21T20:51:21Z",
+    "updated_at": "2025-08-22T08:47:16.752064Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "e8e93778-657c-401c-9c88-3cd4c7c45c9d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "The SpaceX Dragon spacecraft will arrive at the space station at approximately 7:30 a.m. on Monday, Aug. 25. NASA astronauts Mike Fincke and Jonny Kim will monitor the spacecraft’s arrival. It will stay docked to the orbiting laboratory for about four months before splashing down. Reboost Kit – This kit will perform a reboost demonstration of the station to maintain its current altitude. Separator Orbital Unit – The unit draws air and condensate mixture from a condensing heat exchanger. Reducer Cylinder Assembly & Emergency Portable Breathing Apparatus – Together, this hardware provides 15 minutes of oxygen to a crew member in case of an emergency. Oxygen Generation Assembly Pump converts potable water from the water recovery system into oxygen and hydrogen. The oxygen is sent to the crew cabin, and the hydrogen is either vented or used to produce more water. The Rate Gyro Enclosure Assembly determines the space station’s rate of angular motion."
+  },
+  {
+    "id": 32702,
+    "title": "To See the World in a Grain of Sand: Investigating Megaripples at ‘Kerrlaguna’",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/to-see-the-world-in-a-grain-of-sand-investigating-megaripples-at-kerrlaguna/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2025/perseverance-rover-updates/august-2025/Mars_Perseverance_ZR0_1593_0808356707_285EBY_N0780780ZCAM09652_1100LMJ.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Athanasios Klidaras, Ph.D. candidate at Purdue University On Mars, the past is written in stone — but the present is written in sand. Last week, Perseverance explored inactive megaripples to learn more about the wind-driven processes that are reshaping the Martian landscape every day.  After wrapping up its investigation at the contact between […]",
+    "published_at": "2025-08-21T20:07:56Z",
+    "updated_at": "2025-08-21T21:10:06.586835Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Perseverance explored inactive megaripples to learn more about the wind-driven processes that are reshaping the Martian landscape every day. It is hoped that this investigation at “Kerrlaguna’ can provide a practice run for a more comprehensive campaign located at a more extensive field of larger bedforms at ‘Lac de Charmes’"
+  },
+  {
     "id": 32700,
     "title": "NASA Astronauts to Answer Questions from Students in Ohio",
     "authors": [
@@ -58,26 +238,6 @@
     "launches": [],
     "events": [],
     "detailed_news": "Artemis II crew will be the first humans to test NASA’s Orion spacecraft in space. Crew will analyze and photograph geologic features on the surface. Astronauts will practice describing nuances in shapes, textures, and colors of surface features. Artemis III astronauts will investigate the land forms, rocks, and other features around their landing site.  Artemis II will conduct experiments on the lunar surface. This data could inform long-term lunar exploration and future human missions to Mars. These experiments will be managed through the Payload Mission Operations Directorate at NASA’s Marshall Space Flight Center, in Huntsville, Alabama. For more information on Artemis II, visit: www.nasa.gov/mission/artemis-ii."
-  },
-  {
-    "id": 32698,
-    "title": "La NASA invita a los medios al lanzamiento conjunto de misiones sobre el Sol y la meteorología espacial",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-al-lanzamiento-conjunto-de-misiones-sobre-el-sol-y-la-meteorologia-espacial/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/imap-closeouts.jpg",
-    "news_site": "NASA",
-    "summary": "Read this release in English here. La NASA ha abierto el plazo para la acreditación de los medios para el lanzamiento de tres observatorios que estudiarán el Sol y mejorarán nuestra capacidad de hacer pronósticos precisos de meteorología espacial, ayudando a proteger los sistemas tecnológicos que impactan la vida en la Tierra. La NASA tiene previsto […]",
-    "published_at": "2025-08-21T16:20:38Z",
-    "updated_at": "2025-08-21T16:30:06.504746Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "La misión SWFO-L1, gestionada por la NOAA, utilizará un conjunto de instrumentos para proporcionar mediciones en tiempo real del viento solar. El observatorio sirve como baliza de alerta temprana para fenómenos meteorológicos espaciales potencialmente destructivos. Sus datos, disponibles las 24 horas del día, los 7 días de la semana, ayudarán al Centro de Predicción MeteorolóGica Espacial."
   },
   {
     "id": 32697,
@@ -847,145 +1007,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Chinese space program has reported some significant milestones in developing its program to land astronauts on the lunar surface by 2030. On August 6, the China Manned Space Agency successfully tested a high-fidelity mockup of its 26-ton \"Lanyue\" lunar lander. This work suggests that China is on course to land on the Moon before the end of this decade. Cheng: It seems quite likely that the Chinese will land on the Moon before NASA can return to the Moon. Cheng: If China regularly dispatches lunar missions, then it will rightfully be able to argue that Chinese should be the language of lunar/cis-lunar space traffic management. The Chinese are stable, systematic. They pursue a given goal (e.g., human spaceflight, a space station) over decades, with persistence and programmatic stability. So I expect that the Chinese will put a Chinese person on the Moon by 2030 and follow that with additional crewed and unmanned facilities. This will be supported by a built-out infrastructure of lunar PNT/comms."
-  },
-  {
-    "id": 32657,
-    "title": "Summary of the 2025 GEDI Science Team Meeting",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/uncategorized/summary-of-the-2025-gedi-science-team-meeting/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2024/05/eo-meeting-summary-banner.png",
-    "news_site": "NASA",
-    "summary": "Introduction The 2025 Global Ecosystem Dynamics Investigation (GEDI) Science Team Meeting (STM) took place April 1–3, 2025 at the University of Maryland, College Park (UMD). Upwards of 60 participants attended in-person, while several others joined virtually by Zoom. The GEDI Mission and Competed Science Team members were in attendance along with the GEDI NASA program […]",
-    "published_at": "2025-08-18T17:08:05Z",
-    "updated_at": "2025-08-18T18:10:05.645560Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The 2025 Global Ecosystem Dynamics Investigation (GEDI) Science Team Meeting (STM) took place April 1–3, 2025 at the University of Maryland, College Park. Participants shared updates on the GEDI instrument and data products post-hibernation. They also shared progress reports on the second Competed Science Team cohort’s projects. GEDI-related publications and datasets are appearing in high-impact journals, including PNAS , Nature , and Science families. As of March 2025, each of the instrument’s three lasers logged over 22,000 hours in firing mode, collecting more than 20 billion shots each. The Science Data Processing System also underwent a technical refresh that increased computational and data storage capability. GEDI quality filtering and aboveground biomass density (AGBD) model selection and prediction rely heavily on stratification by plant functional type and geographic world region. Canopy structure data, like that provided by GEDI, can play a key role in developing physics-based fire behavior models, such as QUIC-Fire. Chris Hakkenberg presented research using GEDI to characterize fuel structure, burn severity, and post-fire response across the regions of California affected by wildfire. Sean Healey presented an overview of the Online Biomass Inference using Waveforms and iNventory (OBI-WAN) project. Michelle Hofton and Sarah Story returned to the topic of G EDI data product status. GEDI Co-I presented on GEDI L2B data, which provides gridded footprint-level [25-m (82-ft) resolution] metrics such as canopy cover. John Armston explained that the upcoming V3.0 release will differ from V2.0 in that it will use GEDi-derived canopy-ground reflectance ratios to estimate canopy cover, thus allowing for spatial variability. L4A V2.1 was updated to include data through mission week (MW) 311 (i.e., through November 2024) and is now available to end users. V3.0, along with an updated Algorithm Theoretical Basis Document (ATBD), is expected later in 2025. The revised ATBD will outline enhancements to the waveform simulator, quality filtering, stratification, and model selection. GEDI L4D Imputed Waveform product aims to generate a wall-to-wall 30-m (98-ft) resolution map of GEDI waveforms across the globe in 2023. Neha Hunka [European Space Agency] shared her work using GEDi to fill gaps in the Republic of Sudan’s National Forest Inventory ( NFI) Stuart Davies [Smithsonian Institution) presented his work on GEO-TREES, a global forest biomass reference system. GEDI can detect both immediate fire effects as well as recovery after disturbance, including stand-replacement and understory clearing. By overlaying disturbance maps with GEDI data, the team observed that recovery rates differ across height class. Chi Chen’s research aims to generate gap-free, high-temporal-frequency canopy profile data. GEDI L3 and L4 datasets have been released: L4B (country-level summaries of aboveground biomass), L4C (footprint level waveform structural complexity index) and a GEDI-FIA (fusion dataset for training lidar models to forest attributes) In total, almost 34,000 unique users have downloaded GEDC data 13,770,648 times, with L4A being the most popular at 13.1 million downloads. As of April 30, 2025, all G EDI footprint-level datasets from L1–L4 are available with data through MW 311. GEDI datasets can help identify critical data and knowledge gaps, guiding the development of new missions – e.g., the Surface Topography and Vegetation (STV) mission concept called for in the 2017 Earth Science Decadal Survey report. Jody Vogeler presented her research using GEDI data fusions to characterize post-fire landscapes and understand habitat refugia for the threatened Canada lynx. The 2025 GEDI STM was especially exciting, as it came on the cusp of post-storage data being processed and released as V2.1. The meeting highlighted the mission’s ongoing success and scientific value following hibernation on the ISS. Looking ahead, data users can anticipate the V3.0 product release later in 2025."
-  },
-  {
-    "id": 32655,
-    "title": "ESA Increases Mars Ambitions with Mars Transportation Infrastructure",
-    "authors": [
-      {
-        "name": "Emily B",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacescout.info/2025/08/esa-increases-mars-ambitions-with-mars-transportation-infrastructure/",
-    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/08/LightShip_ESA_s_martian_tug-scaled.jpg",
-    "news_site": "Space Scout",
-    "summary": "As the European Space Agency (ESA)'s ExoMars/Rosalind Franklin Mission prepares for its 2028 launch, the agency is looking forward to future Mars science and exploration needs with an eye towards increasing European space independence.",
-    "published_at": "2025-08-18T17:06:03Z",
-    "updated_at": "2025-08-18T17:10:15.791847Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "LightShip is a mission and spacecraft concept wherein a large tug will carry one or more smaller “payload” spacecraft to Mars orbit and release them. It is named after “Lightships”, or boats sent to dangerous or remote seas and oceans to act as navigational beacons in lieu of lighthouses. The infrastructure side of the LightShip initiative focuses on communications and navigation at Mars. LightShip-1 should complete Phase B1 in the second quarter of 2027 but will need to wait for its implementation phase to be funded by ESA’s member states. This will seemingly lead to a roughly 18-month stretch of downtime before implementation can begin. A single LightShip can carry multiple different types of single large passenger science spacecraft or up to 12 individual smallsat passengers. MedaL envisions a roadmap of missions and associated technology development. The first mission using the MEDaL technologies and architecture is due to launch in 2035. This level of ambition is in line with ESA’s new long term policy goals of gaining true autonomy and self-sufficiency in space exploration. Dr Clare Parfitt, Mars Exploration Study Lead for the European Space Agency’s Exploration Preparation Research and Technology (ExPeRT) team, for clarifying comments and explanations. Your email address will not be published. Use the weekly Newsquiz to test your knowledge of stories you saw on Space Scout."
-  },
-  {
-    "id": 32651,
-    "title": "A Decade of Global Water Cycle Monitoring: NASA Soil Moisture Active Passive Mission",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/earth-science/a-decade-of-global-water-cycle-monitoring-nasa-soil-moisture-active-passive-mission/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2024/05/eo-feature-article-banner.png",
-    "news_site": "NASA",
-    "summary": "Introduction The NASA Soil Moisture Active Passive (SMAP) mission, launched in 2015, has over 10 years of global L-band radiometry observations. The low frequency [1.4 GHz frequency or 21 cm (8 in) wavelength] measurements provide information on the state of land surfaces in all weather conditions – regardless of solar illumination. A principal objective of […]",
-    "published_at": "2025-08-18T16:59:47Z",
-    "updated_at": "2025-08-18T17:10:05.125942Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The NASA Soil Moisture Active Passive (SMAP) mission, launched in 2015, has over 10 years of global L-band radiometry observations. A principal objective of the SMAP mission is to provide estimates of surface soil moisture and its frozen or thawed status. Data have been used to quantify the linkages of the three main metabolic cycles (e.g., carbon, water, and energy) on land. The SMAP science goal is to develop observational benchmarks of how the water, energy, and carbon cycles link together over land. Soil moisture is the variable state of the land branch of the water cycle. Photosynthesis is down-regulated by both the deficit in water availability and the lack of an adequate amount of photosynthetically active radiation. The cryosphere community has raised a call-to-action to use every observing system and model available to monitor the patterns and rates of land ice melt. Surface melt affects the ice cap mass loss in many ways. The long-term climate and mass balance models rely on accurate representation of snow, firn, and ice processes to project the future sea level. The SMAP project has worked with the NASA Earth Science Division Applied Sciences Program (now known as Earth Science to Action) The SMAP data are still used for assessment of current conditions, as well as research and development. SMAP soil moisture data have been used by the U.S. Department of Agriculture for domestic and international crop yield applications. On-orbit data demonstrate that the RFI detection and filtering performs well and improves the quality of SMAP brightness temperature measurements. The algorithms are most effective at filtering RFI that is sparse in time and frequency, with minimal impact on the noise equivalent delta temperature (NEDT) – a measure of the radiometer sensitivity. Analysis of spectral information reveal many sources are likely terrestrial radar systems. The SPL2SMAP_S merges SMAP L-band radio brightness measurements with C-band synthetic aperture radar (SAR) measurements from the ESA Copernicus Sentinel-1 mission. The data have high resolution and allow the generation of 1 and 3 km (0.62 and 1.8 mi) merged surface soil moisture estimates. The SMAP mission was launched in 2015 and has produced over 10 years of science data. The data have been widely used in the Earth system science community and also applied to natural hazards applications. CIMR is currently in development; the first version is expected to launch within this decade and the second version in the mid 2030s."
-  },
-  {
-    "id": 32652,
-    "title": "Summary of the 54th U.S.–Japan ASTER Science Team Meeting",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/earth-science/summary-of-the-54th-u-s-japan-aster-science-team-meeting/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2024/05/eo-meeting-summary-banner.png",
-    "news_site": "NASA",
-    "summary": "Introduction The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) Science Team (ST) organized a three-day workshop that took place June 9–11, 2025, at the Japan Space System’s (JSS) offices in Tokyo, Japan. About 25 people from Japan and the United States participated during the in-person meeting – see Photo 1. U.S. participants included representatives […]",
-    "published_at": "2025-08-18T16:50:13Z",
-    "updated_at": "2025-08-18T17:10:05.157589Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) Science Team (ST) organized a three-day workshop that took place June 9–11, 2025, at the Japan Space System’s (JSS) offices in Tokyo, Japan. About 25 people from Japan and the United States participated during the in-person meeting – see Photo 1. AIST continues to distribute ASTER’s pseudo-natural color scenes in keyhole mark-up language (KML) Michael Ramsey presented work on forecasting volcanic activity with the ASTER long-term archive. Miyuki Muto reported on waste volume changes in 15 open landfills in developing countries using more than 20 years of ASTER digital surface models. Mike Abrams presented on behalf of Cole Krehbiel [LP DAAC] and reported on the assessment of geometric performance of the L1 processing software. Soushi Kato presented results from his September 2024 field campaign in Nevada and Utah. Hideyuki Tonooka discussed the status of installation of the JPL radiometer at Lake Kasumigaura. The goal of the ASTER is to have the instrument acquire at least one cloud-free image for every place on Earth. Urgent observations receive the highest priority and can be scheduled close to acquisition time. The 54th ASTER ST Meeting successfully covered all critical issues introduced during the Opening Plenary Session. The 55 th joint meeting was tentatively scheduled for May 2026."
-  },
-  {
-    "id": 32653,
-    "title": "Portable Planetarium takes Thousands of Alaskan Students on a Cosmic Adventure",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/learning-resources/for-educators/portable-planetarium-takes-thousands-of-alaskan-students-on-a-cosmic-adventure/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2025/1_28_25_(2)-Carolyn_Y._Ng.jpeg",
-    "news_site": "NASA",
-    "summary": "Exploring the Cosmos and Inspiring Young Minds From January through June 2025, the Education Outreach Office at the University of Alaska Fairbanks Geophysical Institute (GI) continued its mission of bringing science to life by delivering the magic of its portable planetarium to communities across Alaska. This year, they reached over 1,807 students, educators, and participants […]",
-    "published_at": "2025-08-18T16:37:46Z",
-    "updated_at": "2025-08-18T17:10:05.164132Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "From January through June 2025, the University of Alaska Fairbanks Geophysical Institute delivered the magic of its portable planetarium to communities across Alaska. This year, they reached over 1,807 students, educators, and participants through engaging, interactive astronomy experiences. This program is funded in part by the NASA Heliophysics Education Activation Team."
-  },
-  {
-    "id": 32650,
-    "title": "Strategy 2040: Europe’s Vision for Exploration Beyond Artemis",
-    "authors": [
-      {
-        "name": "Beverly Casillas",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacescout.info/2025/08/strategy-2040-europes-vision-for-exploration-beyond-artemis/",
-    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/08/Header.png",
-    "news_site": "Space Scout",
-    "summary": "Amidst a changing world, space powers like ESA are forced to contend with new realities - where existing allies are no longer and the game has drastically changed.",
-    "published_at": "2025-08-18T16:26:06Z",
-    "updated_at": "2025-08-18T16:30:15.879714Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Four years ago, the European Space Agency laid out a vision to ride the wave. In 2025, the space landscape has continued to evolve, and political uncertainty in the United States has thrown Europe’s position as a valued partner into question. Now, the agency has refined that early vision into Strategy 2040, a roadmap for ESA to reclaim its autonomy on the world stage. ESA would also focus on lunar habitation, communications, navigation, power, and mobility. Explore 2040 characterizes these “European-led capabilities’ as a departure from Europe’s role as a dependent collaborator. The Moon to Mars Architecture attacks Mars “from the top down,” prioritizing high-level decisions about the broad shape of a Mars mission. ESA has not historically enjoyed similar funding to NASA, but must nevertheless present equivalent value on the world stage. Even if the United States scraps its prior commitments and pivots towards an aggressive Mars campaign, Europe’s pursuit of immediately transferable technology programs ensures it will have something tangible and meaningful to bring to the table."
-  },
-  {
-    "id": 32654,
-    "title": "Bone Loss Research Launches Aboard NASA’s SpaceX-33 Resupply Mission",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/directorates/smd/bone-loss-research-launches-aboard-nasas-spacex-33-resupply-mission/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/precision-health/mesenchymal%20stem%20cells.tif",
-    "news_site": "NASA",
-    "summary": "The 33rd SpaceX commercial resupply services mission for NASA, scheduled to liftoff from the agency’s Kennedy Space Center in Florida in late August, is heading to the International Space Station with an important investigation for the future of bone health. The experiment will test how microgravity affects bone-forming and bone-degrading cells and explore potential ways […]",
-    "published_at": "2025-08-18T16:12:28Z",
-    "updated_at": "2025-08-18T17:10:05.183222Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The 33rd SpaceX commercial resupply services mission for NASA is scheduled to liftoff from the Kennedy Space Center in Florida in late August. The experiment will test how microgravity affects bone-forming and bone-degrading cells and explore potential ways to prevent bone loss. This research could help protect astronauts on future long-duration missions to the Moon and Mars."
   }
 ]
