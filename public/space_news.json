@@ -40,26 +40,6 @@
     "detailed_news": "NASA and aviation safety company ResilienX Inc. demonstrated how these tools can be integrated into commercial systems. Timely, predictive, and up-to-date risk assessment within a single platform makes it much easier for drone or air taxi operators to check flight plans. Allowing operators to perform these tasks quickly reduces the safety risk to flight passengers as well as humans on the ground."
   },
   {
-    "id": 32713,
-    "title": "La NASA revela los finalistas del concurso de diseño de la mascota lunar de Artemis II",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/es/la-nasa-revela-los-finalistas-del-concurso-de-diseno-de-la-mascota-lunar-de-artemis-ii/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/54699815290-5cb6508dd2-o.jpg",
-    "news_site": "NASA",
-    "summary": "Read this story in English here. La NASA ya tiene 25 finalistas para el diseño del indicador de gravedad cero de Artemis II que volará con la tripulación de esta misión alrededor de la Luna y de regreso a la Tierra el próximo año. Los astronautas Reid Wiseman, Victor Glover y Christina Koch de la […]",
-    "published_at": "2025-08-22T16:09:58Z",
-    "updated_at": "2025-08-22T16:10:12.462301Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 32714,
     "title": "NASA Shares Final Contenders for Artemis II Moon Mascot Design Contest",
     "authors": [
@@ -1007,5 +987,25 @@
     "launches": [],
     "events": [],
     "detailed_news": "Pad 2 launch tower base features a stainless steel framework filled with concrete, a significant departure from Pad A’s concrete base with stainless steel cladding. The housing at the rear of the Pad 2 tower base is substantially larger and more robust. Pad 2 chopsticks are approximately 10 metres shorter than Pad 1's; this is expected to improve responsiveness during catch attempts. The Pad 2 carriage incorporates a redesigned skate system, differing from the Pad 1 configuration. The pistons used for moving these chopsticks laterally are significantly simplified compared to those on Pad 1. The rigging layout on the Pad 2 tower differs from Pad 1’s regarding the placement of the drawworks and the dead spool & deadline anchor. The Pad 2 launch mount is equipped with two Booster Quick Disconnects (BQDs), as opposed to Pad 1’s single BQD. These two BQDs appear to be separated for liquid oxygen and liquid methane supply. The top surface of the launch mount incorporates a water-cooled steel plate, similar to the one implemented under Pad 1 since Flight 2. Pad 2 will only share storage tanks with Pad 1. The layout of the Pad 2 end of the tank farm is entirely different from Pad 1’s, likely based on extensive lessons learned from all prior Starship ground tests and launches. Pad 2 will have its dedicated liquid oxygen and liquid methane pumps and subcoolers, amongst other items of GSE-related hardware. Starbase Pad 2 is scheduled to be completed by the end of 2025. It will be the second Starbase Pad to be built in the U.S. The project is funded by the National Aeronautics and Space Administration (NASASpaceflight.com)"
+  },
+  {
+    "id": 32665,
+    "title": "NASA-funded Compact Radar Drives Big Changes in Airborne and Suborbital Radar Capabilities",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/directorates/smd/earth-science-division/nasa-funded-compact-radar-drives-big-changes-in-airborne-and-suborbital-radar-capabilities/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2025/Wye_Balloon_Final.jpeg",
+    "news_site": "NASA",
+    "summary": "A collaboration between NASA and the small business Aloft Sensing produced a new compact radar system that will enable researchers to leverage High Altitude Long Endurance (HALE) platforms to observe dynamic Earth systems. This new radar is small, provides highly sensitive measurements, and doesn’t require GPS for positioning; eventually, it could be used on vehicles […]",
+    "published_at": "2025-08-19T13:57:58Z",
+    "updated_at": "2025-08-19T14:10:05.457823Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "New radar is small, provides highly sensitive measurements, and doesn’t require GPS for positioning. Eventually, it could be used on vehicles in space. “It’s a level of sensitivity that has eluded traditional radar sensors, without making them bulky and expensive,” said Lauren Wye, CEO of Aloft Sensing. HALE InSAR can be used to navigate without GPS in austere environments where reliable GPS signals may be unavailable. The Aloft Sensing team recently achieved several key milestones, validating their instrument aboard an airship at 65,000 feet as well as small stratospheric balloons. The Snapshot Wisconsin project recently collected their 100 millionth trail camera photo."
   }
 ]
