@@ -20,6 +20,46 @@
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
+    "id": 32722,
+    "title": "Lindy Garay: Supporting Space Station Safety and Success",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/garay-lindy.jpg",
+    "news_site": "NASA",
+    "summary": "Lindy Garay always knew she wanted to develop software. She did not anticipate that her work would contribute to human spaceflight. The electrical and software engineering degree Garay earned from the University of Texas at Austin paved the way for a 25-year career with NASA’s Johnson Space Center in Houston. Her first job out of […]",
+    "published_at": "2025-08-25T10:00:00Z",
+    "updated_at": "2025-08-25T10:00:08.574933Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
+  },
+  {
+    "id": 32723,
+    "title": "Juice team resolves anomaly on approach to Venus",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2022/03/juice_s_flyby_of_venus_close-up/23992257-1-eng-GB/Juice_s_flyby_of_Venus_close-up_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August, following the successful resolution of a spacecraft communication anomaly that temporarily severed contact with Earth.",
+    "published_at": "2025-08-25T10:00:00Z",
+    "updated_at": "2025-08-25T10:00:14.789193Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
+  },
+  {
     "id": 32721,
     "title": "Live Coverage: SpaceX gets ready for crucial 10th test flight of Starship",
     "authors": [
@@ -967,45 +1007,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "On Sol 4631, we planned a maintenance activity of our Battery Control Boards (BCBs) This maintenance is done periodically to correct for any time drift on the BCBs, so we get as accurate of data as possible. After completing our engineering activities, we started off with some remote science; this included Mastcam imaging and ChemCam measurements of several interesting targets. On Sol 4633, we continued with more science imaging, including a horizon movie using Navcam and a dust-devil movie, before proceeding into our drive."
-  },
-  {
-    "id": 32672,
-    "title": "Sun at the Center: Teacher Ambassadors Bring Heliophysics to Classrooms Nationwide",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/learning-resources/science-activation/sun-at-the-center-teacher-ambassadors-bring-heliophysics-to-classrooms-nationwide/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2025/Linh_and_Samuel_optimized_1000-Carolyn_Y._Ng.jpg",
-    "news_site": "NASA",
-    "summary": "For the fourth year in a row, the American Association of Physics Teachers, a collaborator on the NASA Heliophysics Education Activation Team (HEAT), selected eight new educators to serve as ambassadors for heliophysics education. Meeting in Boulder, CO, from July 14-17, 2025, these teachers met to work through AAPT’s lessons that bring physics content to […]",
-    "published_at": "2025-08-19T16:46:56Z",
-    "updated_at": "2025-08-19T17:10:13.911000Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The American Association of Physics Teachers selected eight new educators to serve as ambassadors for heliophysics education. The Ambassador program began in 2022 as an effort to identify highly-motivated secondary and tertiary educators. Since the program began, 32 Ambassadors have been identified and participated in the multi-day professional learning experience."
-  },
-  {
-    "id": 32671,
-    "title": "NASA’s X-59 Nears First Flight",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasas-x-59-nears-first-flight/",
-    "image_url": "https://images-assets.nasa.gov/image/P25-056-49/P25-056-49~large.jpg",
-    "news_site": "NASA",
-    "summary": "As we honor the legacy of aviation pioneers this National Aviation Day, NASA’s X-59 is preparing to push the boundaries of what’s possible in air travel. The quiet supersonic aircraft’s historic first flight is on the horizon, with final ground tests about to begin. Following completion of low-speed taxi tests in July 2025 in Palmdale, […]",
-    "published_at": "2025-08-19T16:00:00Z",
-    "updated_at": "2025-08-19T16:00:09.045299Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The quiet supersonic aircraft’s historic first flight is on the horizon. The X-59 will reach speeds of approximately 240 mph at an altitude of about 12,000 feet. The flight data will help inform U.S. and international regulators as they consider new noise standards."
   }
 ]
