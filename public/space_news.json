@@ -20,24 +20,104 @@
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
-    "id": 32722,
-    "title": "Lindy Garay: Supporting Space Station Safety and Success",
+    "id": 32761,
+    "title": "Vulcan Begins Operational Missions",
     "authors": [
       {
-        "name": "NASA",
+        "name": "Nik Alexander",
         "socials": null
       }
     ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/garay-lindy.jpg",
-    "news_site": "NASA",
-    "summary": "Lindy Garay always knew she wanted to develop software. She did not anticipate that her work would contribute to human spaceflight. The electrical and software engineering degree Garay earned from the University of Texas at Austin paved the way for a 25-year career with NASA’s Johnson Space Center in Houston. Her first job out of […]",
-    "published_at": "2025-08-25T10:00:00Z",
-    "updated_at": "2025-08-25T10:00:08.574933Z",
+    "url": "https://www.spacescout.info/2025/08/vulcan-begins-operational-missions/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/08/joebvulcan-scaled.jpg",
+    "news_site": "Space Scout",
+    "summary": "On August 12, 2025 at 8:56 p.m. EDT (0056 UTC), United Launch Alliance successfully launched its Vulcan Centaur VC4S vehicle from Space Launch Complex-41 at Cape Canaveral Space Force Station for the USSF-106 mission.",
+    "published_at": "2025-08-25T17:20:40Z",
+    "updated_at": "2025-08-25T17:30:22.638781Z",
     "featured": false,
     "launches": [],
     "events": [],
-    "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
+    "detailed_news": "On August 12, 2025 at 8:56 p.m. EDT (0056 UTC), United Launch Alliance successfully launched its Vulcan Centaur VC4S vehicle. This was the third overall flight of the Vulcan rocket but its first to carry national security payloads. The ascent was nominal, despite an SRB nozzle anomaly on flight 2 which led to a lengthy stand down. Vulcan successfully launched USSF-106 from Cape Canaveral on April 4, 2025. The launch was part of the second round of the National Security Space Launch program. The program seeks to distribute vital government payloads across industry to prevent potential bottlenecks. The path to operational Vulcan flights has been marred with challenges, with the company encountering several key issues."
+  },
+  {
+    "id": 32759,
+    "title": "With a new Soyuz rocket, Russia seeks to break its Ukrainian dependency",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/08/with-a-new-soyuz-rocket-russia-seeks-to-break-its-ukrainian-dependency/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2202741417.jpg",
+    "news_site": "Arstechnica",
+    "summary": "Now you Zenit, now you don't",
+    "published_at": "2025-08-25T17:17:20Z",
+    "updated_at": "2025-08-25T17:20:05.930051Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Soyuz-5 will be Russia's new medium-lift rocket. The rocket has been in development since 2016 and largely repurposes older technology. It takes rocket elements formerly made in Ukraine and now manufactures them in Russia. Full operational service is not expected to begin until 2028. The vehicle's debut has been repeatedly pushed back, however, with Russia now expected to debut the vehicle no earlier than 2030. Ars Technica has been separating the signal from the noise for over 25 years. With our unique combination of technical savvy and wide-ranging interest in the technological arts and sciences, Ars is the trusted source in a sea of information."
+  },
+  {
+    "id": 32760,
+    "title": "Live coverage: SpaceX preps for Starship Flight 10 following Sunday scrub",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/25/live-coverage-spacex-preps-for-starship-flight-10-following-sunday-scrub/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250825_Starship_Flight-10.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "SpaceX Founder and Chief Engineer Elon Musk said on his social media site, X, that the scrub was caused by a “Ground side liquid oxygen leak (that) needs to be fixed.” The launch is scheduled for no earlier than Monday, Aug. 25, at 6:30 p.m. CDT (7:30 p.m. EDT / 2330 UTC). ",
+    "published_at": "2025-08-25T17:12:46Z",
+    "updated_at": "2025-08-25T17:20:18.614471Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX is preparing for its second attempt to launch the 10th test flight of a Starship rocket from southern Texas as soon as Monday evening. Liftoff from Pad A at Starbase is scheduled for 6:30 p.m. CDT (7:30pm. EDT / 2330 UTC), which is the opening of the hour-long launch window. SpaceX announced on social media that it was scrubbing the Sunday launch attempt to “allow time to troubleshoot an issue with ground systems” SpaceX will perform a multi-hour experiment on the second stage of a Falcon 9 rocket after the launcher deploys a Dragon supply ship on the way to the International Space Station. Orbital ATK and SpaceX won Pentagon contracts worth a combined value of up to $241 million Wednesday."
+  },
+  {
+    "id": 32758,
+    "title": "Cargo ship docks with International Space Station",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/25/cargo-ship-docks-with-international-space-station/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250825_crs33_docking.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "Launched Sunday from Cape Canaveral Space Force Station atop a Falcon 9 rocket, the cargo Dragon closed out a 28-hour rendezvous with an ahead-of-schedule docking at the lab's forward port at 7:05 a.m. EDT as the two spacecraft were passing 260 miles above the Ivory Coast of Africa. ",
+    "published_at": "2025-08-25T13:45:43Z",
+    "updated_at": "2025-08-25T17:10:18.859051Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Tortillas are a crumb-free bread substitute for crews dining in weightlessness. The Dragon also brought an add-on thruster kit to help boost the space station’s altitude. A Russian Soyuz rocket rolled out to a launch pad in Kazakhstan early Thursday in preparation for liftoff Saturday."
+  },
+  {
+    "id": 32757,
+    "title": "ESA data records help underpin climate change report",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_data_records_help_underpin_climate_change_report",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/soil_moisture_anomalies_over_2024_compared_to_1991_2020/26846786-1-eng-GB/Soil_moisture_anomalies_over_2024_compared_to_1991_2020_card_full.gif",
+    "news_site": "ESA",
+    "summary": "According to the newly released 35th State of the Climate report, 2024 saw record highs in greenhouse gas concentrations, global land and ocean temperatures, sea levels, and ocean heat content. Glaciers also suffered their largest annual ice loss on record. Data records from ESA’s Climate Change Initiative helped underpin these findings.",
+    "published_at": "2025-08-25T11:49:00Z",
+    "updated_at": "2025-08-25T14:10:20.100605Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The 35th State of the Climate report has been published by the Bulletin of the American Meteorological Society. 2024 saw record highs in greenhouse gas concentrations, global land and ocean temperatures, sea levels, and ocean heat content. Glaciers suffered their largest annual ice loss on record. Data records from ESA’s Climate Change Initiative helped underpin these findings. Permafrost stores nearly 1700 billion tonnes of frozen and thawing carbon. Anthropogenic warming threatens to release an unknown quantity of this carbon to the atmosphere. Sometimes permafrost can thaw rapidly, but scientists are unsure why and what these abrupt thaws mean in terms of feedback loops."
   },
   {
     "id": 32723,
@@ -58,6 +138,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
+  },
+  {
+    "id": 32722,
+    "title": "Lindy Garay: Supporting Space Station Safety and Success",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/garay-lindy.jpg",
+    "news_site": "NASA",
+    "summary": "Lindy Garay always knew she wanted to develop software. She did not anticipate that her work would contribute to human spaceflight. The electrical and software engineering degree Garay earned from the University of Texas at Austin paved the way for a 25-year career with NASA’s Johnson Space Center in Houston. Her first job out of […]",
+    "published_at": "2025-08-25T10:00:00Z",
+    "updated_at": "2025-08-25T10:00:08.574933Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
   },
   {
     "id": 32721,
@@ -900,112 +1000,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Surya uses advances in AI to analyze vast amounts of solar data. The model can be used to provide early warnings to satellite operators. It also helps scientists predict how the Sun’s ultraviolet output affects Earth's upper atmosphere. Preliminary results show Surya is making strides in solar flare forecasting. Surya is designed to study the Sun, but its architecture and methodology are adaptable across scientific domains. The project lays the foundational infrastructure for similar AI efforts in diverse domains. Both the model and training datasets are freely available online to researchers, educators, and students worldwide. NASA's commitment to open science fuels groundbreaking research while maximizing transparency, innovation, and collaboration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. The agency is based in Washington, D.C. and has offices around the world."
-  },
-  {
-    "id": 32680,
-    "title": "Iberian wildfires seen from space",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Iberian_wildfires_seen_from_space",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/iberian_fires_august_2025/26845081-2-eng-GB/Iberian_fires_August_2025_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Southern Europe is once again in the grip of extreme summer heat. Soaring temperatures and bone-dry land have fuelled widespread wildfires, with the Iberian Peninsula among the regions hardest hit. Flames continue to sweep across parched landscapes, as these images show.",
-    "published_at": "2025-08-20T11:45:00Z",
-    "updated_at": "2025-08-20T15:12:41.294408Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Soaring temperatures and bone-dry land have fuelled widespread wildfires, with the Iberian Peninsula among the regions hardest hit. From orbit, Earth-observing satellites offer a unique way of tracking the spread of fires and supporting emergency crews battling the blazes on the ground. The images featured here reveal the scale of the crisis, with dense smoke plumes from several fires stretching across large areas of northwest Spain and northern Portugal. The Climate Change Initiative is designed to generate consistent, long-term global datasets of Essential Climate Variables that provide robust evidence of our changing climate. These projects are helping to improve predictions, guide adaptation strategies, and strengthen our collective response to a warming world. You can only like this page once."
-  },
-  {
-    "id": 32677,
-    "title": "UK Space Agency to Lose Limited Autonomy to Government Streamlining",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/uk-space-agency-to-lose-limited-autonomy-to-government-streamlining/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/UK-Space-Agency-to-Lose-Limited-Autonomy-to-Government-Streamlining-hero.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The UK Space Agency has announced that from April 2026 it will be absorbed into the Department for Science, Innovation and Technology, losing its executive agency status. In its 20 August announcement, the UK Space Agency stated that the restructuring, which is part of broader governmental “streamlining”, would remove duplication, reduce bureaucracy, and put “public […]\nThe post UK Space Agency to Lose Limited Autonomy to Government Streamlining appeared first on European Spaceflight.",
-    "published_at": "2025-08-20T09:43:01Z",
-    "updated_at": "2025-08-20T09:50:17.658790Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The UK Space Agency has announced that from April 2026 it will be absorbed into the Department for Science, Innovation and Technology. In 2010, the country began the process of establishing its own centralized space agency set up as an executive agency. As a DSIT executive agency, the UKSA currently operates with limited managerial independence in delivering government space policy. Save my name, email, and website in this browser for the next time I comment. Help European Spaceflight continue to go after stories that are too often overlooked. You can donate from as little as €1. Every cent goes to fueling our mission. Back to the page you came from."
-  },
-  {
-    "id": 32676,
-    "title": "UK Government Abolishes Independent UK Space Agency; Will Merge Into DSIT by 2026",
-    "authors": [
-      {
-        "name": "Zac Aubert",
-        "socials": {
-          "x": "https://x.com/Astro_Aubert",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/zachary-aubert-43853b22/",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://tlpnetwork.com/news/europe/uk-government-abolishes-independent-uk-space-agency-will-merge-into-dsit-by-2026",
-    "image_url": "https://cdn.tlpnetwork.com/articles/2025/1755679269673.png",
-    "news_site": "The Launch Pad",
-    "summary": "UK Government Abolishes Independent UK Space Agency; Will Merge Into DSIT by 2026",
-    "published_at": "2025-08-20T08:27:00Z",
-    "updated_at": "2025-08-20T08:50:18.169956Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The UK Space Agency will cease to exist as an independent body by April 2026. The agency will be absorbed into the Department for Science, Innovation and Technology (DSIT) Officials said the change would reduce duplication, improve efficiency, and ensure stronger ministerial oversight. Supporters of the agency expressed concern that the merger could slow innovation and reduce agility."
-  },
-  {
-    "id": 32674,
-    "title": "Curiosity Blog, Sols 4634-4635: A Waiting Game",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4634-4635-a-waiting-game/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04633_opgs_edr_ncam_NLB_808788777EDR_S1181350NCAM00250M_.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Lucy Thompson, Planetary Scientist and APXS Team Member, University of New Brunswick, Canada Earth Planning Date: Monday, Aug. 18, 2025 The downlink data from our weekend activities arrived on Earth as we started planning this morning. As the APXS payload uplink and downlink lead, I assess the downlink data to ensure that our […]",
-    "published_at": "2025-08-19T19:22:47Z",
-    "updated_at": "2025-08-19T20:10:12.424666Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Downlink data from our weekend activities arrived on Earth as we started planning this morning. The drive executed as planned and we are on stable ground, which will enable us to unstow the arm for contact science with APXS and MAHLI. We selected a representative bedrock patch (“Gil”) that was large enough and smooth enough to brush for dust removal. ChemCam will also analyze this target with LIBS, and Mastcam will capture a documentation image."
-  },
-  {
-    "id": 32673,
-    "title": "Curiosity Blog, Sols 4631-4633: Radiant Ridge Revolution",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4631-4633-radiant-ridge-revolution/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04629_opgs_edr_ncam_NLB_808441485EDR_F1181194NCAM00296M_.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Remington Free, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Aug. 15, 2025 Today we uplinked a three-sol weekend plan with lots of exciting activities — to support both the science and engineering teams!  While usually our science activities take front and center stage, we often also do engineering […]",
-    "published_at": "2025-08-19T18:40:46Z",
-    "updated_at": "2025-08-19T19:10:05.060904Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "On Sol 4631, we planned a maintenance activity of our Battery Control Boards (BCBs) This maintenance is done periodically to correct for any time drift on the BCBs, so we get as accurate of data as possible. After completing our engineering activities, we started off with some remote science; this included Mastcam imaging and ChemCam measurements of several interesting targets. On Sol 4633, we continued with more science imaging, including a horizon movie using Navcam and a dust-devil movie, before proceeding into our drive."
   }
 ]
