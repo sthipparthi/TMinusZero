@@ -1,6 +1,6 @@
 {
-  "count": 7,
-  "last_updated": "2025-08-25T00:04:18.297640Z",
+  "count": 8,
+  "last_updated": "2025-08-25T06:02:06.951516Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (7 successful)"
+    "AI-generated summaries (8 successful)"
   ],
   "launches": [
     {
@@ -53,6 +53,69 @@
       "probability": null,
       "video_urls": [],
       "ai_summary": "Long March 8A is an orbital launch vehicle developed by the China Academy of Launch Vehicle Technology based on the Long March 8. It has an increased capability of up to 7 tonnes to a 700 km altitude sun-synchronous orbit. The rocket has a track record of (2/2 successful launches)."
+    },
+    {
+      "id": "fc1dafd8-bcb0-4e77-8ba9-2d03134f04e4",
+      "name": "Starship | Flight 10",
+      "status": "Go",
+      "net": "2025-08-25T23:30:00Z",
+      "window_start": "2025-08-25T23:30:00Z",
+      "window_end": "2025-08-26T00:30:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Flight 10",
+      "mission_description": "10th test flight of the two-stage Starship launch vehicle.",
+      "mission_type": "Test Flight",
+      "orbit": "Suborbital",
+      "launch_site": "Orbital Launch Mount A, SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Mount A",
+      "location": "SpaceX Starbase, TX, USA",
+      "rocket": "Starship",
+      "rocket_config_description": "Fully reusable two-stage super heavy-lift launch vehicle.",
+      "rocket_config_family": "Starship",
+      "rocket_config_full_name": "Starship",
+      "rocket_config_total_launch_count": 9,
+      "rocket_config_successful_launches": 4,
+      "rocket_config_failed_launches": 5,
+      "rocket_config_pending_launches": 3,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 555,
+      "rocket_manufacturer_successful_launches": 540,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/fc1dafd8-bcb0-4e77-8ba9-2d03134f04e4/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 9,
+          "title": "TBD - SpaceX - Starship - Suborbital Test Flight 10  - OLP-A - Starbase Texas - Space Affairs Live",
+          "description": "Launch Date: August TBD 25, 2025 (CDT)\nLaunch Status: The launch window will open at 6:30 p.m. CDT, 2330 UTC - August 26, 01:30 CEST.\nLaunch Window: Open until 8:00 p.m. CDT\nStatus: Scheduled and anno...",
+          "feature_image": "https://i.ytimg.com/vi/mczsxVZn2_Q/maxresdefault_live.jpg",
+          "url": "https://www.youtube.com/watch?v=mczsxVZn2_Q"
+        },
+        {
+          "priority": 10,
+          "title": "Starship's Tenth Flight Test",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/GzKrtDrWQAAa_Ee.jpg",
+          "url": "https://x.com/i/broadcasts/1vAxRQZzOLNJl"
+        },
+        {
+          "priority": 12,
+          "title": "SpaceX Starship Flight 10 - Second Attempt",
+          "description": "SpaceX launches the 10th flight of Starship from Starbase, Texas. The launch window for Booster 16 and Ship 37 opens at 6:30PM CT local time (23:30 UTC) on Sunday, August 24, 2025 from Pad A.\n\nThis mi...",
+          "feature_image": "https://i.ytimg.com/vi/dwC9sr6GEUk/maxresdefault_live.jpg",
+          "url": "https://www.youtube.com/watch?v=dwC9sr6GEUk"
+        }
+      ],
+      "ai_summary": "This Test Flight mission involves 10th test flight of the two-stage Starship launch vehicle. SpaceX will launch Starship | Flight 10 from Orbital Launch Mount A, SpaceX Starbase, TX, USA. The rocket has a track record of (4/9 successful launches)."
     },
     {
       "id": "cad4ded9-6f24-4b6c-b4ed-b5dca4613cdd",
@@ -304,8 +367,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 7,
+    "successful_summaries": 8,
     "empty_summaries": 0,
-    "total_launches": 7
+    "total_launches": 8
   }
 }
