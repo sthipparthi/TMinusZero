@@ -20,6 +20,46 @@
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
+    "id": 32721,
+    "title": "Live Coverage: SpaceX gets ready for crucial 10th test flight of Starship",
+    "authors": [
+      {
+        "name": "Spaceflight Now",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/24/live-coverage-spacex-gets-ready-for-crucial-10th-test-flight-of-starship/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2023/11/20231120-Starship-IFT-2-Adam-Remote.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Watch live as a Super Heavy booster and Starship launch on a crucial test flight for SpaceX's fully reusable rocket, following three consecutive failures of the Starship upper stage in-flight and an explosion on the test stand. Liftoff is scheduled for  6:30 p.m. CDT / 7:30 p.m. EDT / 2330 UTC. ",
+    "published_at": "2025-08-24T21:51:16Z",
+    "updated_at": "2025-08-24T22:00:28.125688Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX scrubbed the launch attempt due to a ground systems issue. This tenth test flight follows three consecutive failures of the Starship upper stage in-flight and an explosion on the test stand. Liftoff of the 10th fully integrated Starship from SpaceX’s Starbase facility at Boca Chica Beach, in Texas."
+  },
+  {
+    "id": 32720,
+    "title": "What’s Happening in Space Policy August 24-30, 2025",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-24-30-2025/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Starbase-stunning-Aug-2025-300x169.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of August 24-30, 2025 and any insight we can offer about them. The House and Senate are in recess […]",
+    "published_at": "2025-08-24T18:36:56Z",
+    "updated_at": "2025-08-24T18:40:12.643367Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpacePolicyOnline.com has compiled a list of space policy events for the week of August 24-30, 2025. The House and Senate are in recess until September 2 except for pro forma sessions. The FAA will have four in-person meetings this week to gather public input on its Draft Environmental Impact Statement. The House Rules Committee set Thursday, August 28, as the deadline for Members to offer amendments to the FY2026 NDAA. The House plans to take up the bill the second week of September. The NDAA is the one piece of legislation that has passed every year since the first in 1961."
+  },
+  {
     "id": 32719,
     "title": "NASA, SpaceX launch Dragon to the ISS on extended cargo, station boosting mission",
     "authors": [
@@ -967,45 +1007,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The quiet supersonic aircraft’s historic first flight is on the horizon. The X-59 will reach speeds of approximately 240 mph at an altitude of about 12,000 feet. The flight data will help inform U.S. and international regulators as they consider new noise standards."
-  },
-  {
-    "id": 32670,
-    "title": "What is BioNutrients?",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/what-is-bionutrients/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2019/04/acd19-0013-101-0.jpg",
-    "news_site": "NASA",
-    "summary": "A series of biology experiments, called BioNutrients, is testing ways to use microorganisms to produce nutrients – off Earth and on demand – that will be critical for human health in space. Editor’s note: This article was updated on Aug. 19, 2025, to clarify which BioNutrients experiments in the series are completed and adds new […]",
-    "published_at": "2025-08-19T15:35:04Z",
-    "updated_at": "2025-08-19T15:40:05.829951Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA is developing technologies to biomanufacture valuable products on-demand. Long-duration human exploration missions to the Moon and Mars will require minimizing the amounts of supplies launched. Planning new ways to supply food for a multi-year mission on the Moon or Mars may require making food and nutrients in space. The BioNutrients-3 investigation is planned to launch to the space station in August 2025 aboard NASA’s SpaceX CRS-33 mission. It aims to develop a platform biomanufacturing technology that demonstrates microbial production of targeted nutrients for long-duration space missions. The concept is similar to making familiar fermented foods, such as how milk – transformed by bacteria – becomes yogurt. BioNutrients-3 includes the same commercial yogurt and kefir starters used in BioNutrient-2 and adds yeast strains that have been bioengineered to produce multiple nutrients in a single bag. The growth substrate – the ingredients needed to sustain the microorganisms as they grow, including a color-changing indicator of the level of acidity in the samples – is fully edible."
-  },
-  {
-    "id": 32669,
-    "title": "NASA’s Psyche Captures Images of Earth, Moon",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/psyche-mission/nasas-psyche-captures-images-of-earth-moon/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/1-pia26569-annotated-image-of-stars-and-earth-clean.jpg",
-    "news_site": "NASA",
-    "summary": "Headed for a metal-rich asteroid of the same name, the Psyche spacecraft successfully calibrated its cameras by looking homeward. On schedule for its 2029 arrival at the asteroid Psyche, NASA’s Psyche spacecraft recently looked back toward home and captured images of Earth and our Moon from about 180 million miles (290 million kilometers) away. The […]",
-    "published_at": "2025-08-19T15:02:38Z",
-    "updated_at": "2025-08-19T15:10:20.650966Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA's Psyche spacecraft recently looked back toward home and captured images of Earth and our Moon from about 180 million miles (290 million kilometers) away. The images were obtained during one of the mission team’s periodic checkouts of the spacecraft's science instruments. Psyche is headed for a metal-rich asteroid of the same name and is scheduled to arrive in 2029. Psyche is the 14th mission selected as part of NASA’s Discovery Program. Moonquakes pose little risk to astronauts during a mission lasting just a few days. NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery."
   }
 ]
