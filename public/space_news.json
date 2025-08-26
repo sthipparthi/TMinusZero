@@ -20,6 +20,51 @@
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
+    "id": 32765,
+    "title": "Time moves fast when you are preparing for liftoff!",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/Time_moves_fast_when_you_are_preparing_for_liftoff",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/time_moves_fast_when_you_are_preparing_for_liftoff/26847605-1-eng-GB/Time_moves_fast_when_you_are_preparing_for_liftoff_card_full.png",
+    "news_site": "ESA",
+    "summary": " ",
+    "published_at": "2025-08-26T09:50:00Z",
+    "updated_at": "2025-08-26T10:50:10.631509Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "MetOp-SG-A1 was launched aboard an Ariane 6 rocket from the European spaceport in French Guiana, on 13 August at 02:37 CEST (12 August 21:37 Kourou time) This new weather satellite also carries the Copernicus Sentinel-5 mission to deliver daily global data."
+  },
+  {
+    "id": 32764,
+    "title": "Gaia proves our skies are filled with chains of starry gatherings",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_proves_our_skies_are_filled_with_chains_of_starry_gatherings",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/08/stellar_families_in_gaia_s_sky/19677629-1-eng-GB/Stellar_families_in_Gaia_s_sky_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "In the past decade, the European Space Agency’s Gaia mission has revealed the nature, history, and behaviour of billions of stars. Our pioneering stargazer has reshaped our view of the skies around us like no other, revealing that star clusters are more connected than expected over vast distances.",
+    "published_at": "2025-08-26T08:00:00Z",
+    "updated_at": "2025-08-26T08:12:23.768093Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "2044f8a1-4dad-4c8b-a3a9-5ecc7045c257",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "The European Space Agency’s Gaia mission has revealed the nature, history, and behaviour of billions of stars. Since it opened its eyes in 2014, Gaia has mapped how different stars zip through space and pinpointed their whereabouts more precisely than ever. The telescope has watched whether they shrink and swell, spotted surprising ‘ starquakes ’, monitored how stars grow, evolve, and crystallise as they die. Gaia has revolutionised our view of the solar neighbourhood, allowing scientists to comprehensively map all the stars and interstellar ‘stuff’ near the Sun in a way they were unable to do before. Scientists have also applied Artificial Intelligence (AI) to Gaia data, using algorithms and machine learning approaches to pinpoint new cluster members and subgroups of stars. In this way, Gaia has pushed us to rethink how we hunt for stellar groups.  Gaia has shown that structures resembling streams, beads, strings, pearls, snakes, rings, or filaments of stars are reasonably common in young cluster formation. It has also revealed that large-scale galactic dynamics influence how young star clusters form in the first place. Thanks to Gaia, open clusters are no longer seen as isolated entities but as dynamically evolving structures, slowly dissolving into our galaxy. Gaia has now completed its sky-scanning observations and, as of March 2025, is quietly orbiting the Sun in its retirement orbit. The vast majority of data collected by the spacecraft is yet to be released, with a couple of huge data releases planned by the end of the decade. Scientists are already using Gaia’s treasure trove of released observations to explore billions of stars and objects in our galaxy and beyond."
+  },
+  {
     "id": 32763,
     "title": "Weather Scrubs Second Starship IFT-10 Launch Attempt",
     "authors": [
@@ -960,45 +1005,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Viking 1 touched down on the red planet on July 20, 1976, becoming the first truly successful landing on Mars. Viking 1 was the first of a pair of complex deep space probes that were designed to reach Mars. NASA’s exploration of Mars continues, with rovers exploring the surface and spacecraft studying from orbit."
-  },
-  {
-    "id": 32682,
-    "title": "Live coverage: SpaceX to launch X-37B military spaceplane on Falcon 9 rocket from the Kennedy Space Center",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/20/live-coverage-spacex-to-launch-x-37b-military-spaceplane-on-falcon-9-rocket-from-the-kennedy-space-center/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/03/20250307-X37B.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "This will be the eighth flight of the X-37B and the third time that it will launched by SpaceX. The Falcon 9 rocket is scheduled to liftoff from Launch Complex 39A at 11:50 p.m. EDT (0350 UTC). ",
-    "published_at": "2025-08-20T16:41:36Z",
-    "updated_at": "2025-08-20T16:50:18.326645Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The U.S. Space Force and SpaceX are preparing to launch the Boeing-built X-37B spaceplane on its eighth mission shortly before midnight on Thursday. The winged spacecraft, flying under the mission names USSF-36 and Orbital Test Vehicle 8 (OTV-8), will launch atop a Falcon 9 rocket from pad 39A at NASA’s Kennedy Space Center at 11:50 p.m. EDT (0350 UTC) Meteorologists with the 45th Weather Squadron forecast a 65 percent chance for favorable conditions for liftoff. The OTV-8 flight will also feature what the Space Force calls “the world’s highest performing quantum inertial sensor ever used in space” It will demonstrate navigational capabilities without the use of GPS by instead “detecting rotation and acceleration of atoms”"
-  },
-  {
-    "id": 32681,
-    "title": "Firefly Aerospace explores launching its Alpha rocket from Japan",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/20/firefly-aerospace-explores-launching-its-alpha-rocket-from-japan/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250818_FLA006_launch.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "If the company moves forward with this possibility, it would present Firefly with a third launch site for its Alpha rockets. ",
-    "published_at": "2025-08-20T16:07:14Z",
-    "updated_at": "2025-08-20T16:10:17.431474Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Hokkaido Spaceport has room for two launch complexes designed to support the launches of small, orbital-class rockets. All six of Firefly Aerospace’s Alpha rocket launches so far took off from Space Launch Complex 2 at Vandenberg Space Force Base in California. Rocket Lab has launched the vast majority of its more than 60 Electron rockets from Mahia, New Zealand.  Firefly Aerospace launched its Alpha rocket Friday after a launch attempt on Wednesday was scrubbed by bad weather. The infrastructure expansion in Briggs, Texas, boosts the company’s manufacturing space from 92,000 to 207,000 square feet. Liftoff with a payload for Lockheed Martin occurred at 9:32 a.m. PST."
   }
 ]
