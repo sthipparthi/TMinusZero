@@ -20,6 +20,26 @@
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
+    "id": 32763,
+    "title": "Weather Scrubs Second Starship IFT-10 Launch Attempt",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/weather-scrubs-second-starship-ift-10-launch-attempt/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/IFT10-webcast-9-Aug-25-25-218x300.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "SpaceX is still trying to get its 10th Starship Integrated Flight Test, IFT-10, off the ground.  Yesterday’s attempt was canceled because of a ground-side liquid oxygen leak. Today’s was scrubbed […]",
+    "published_at": "2025-08-26T02:08:26Z",
+    "updated_at": "2025-08-26T02:10:20.441778Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX is still trying to get its 10th Starship Integrated Flight Test, IFT-10, off the ground. Yesterday’s attempt was canceled because of a ground-side liquid oxygen leak. SpaceX might try again tomorrow. Musk made a surprise appearance on the launch webcast sharing his views on the need for a multiplanetary species. NASA contracted with SpaceX in 2021 for a Starship Human Landing System (HLS) to put NASA astronauts on the lunar surface in 2024. SpaceX must perform an uncrewed lunar landing demonstration first and fire the engines to show it can lift off the surface. Getting American astronauts back on the Moon before China puts taikonauts there is a unifying goal of Republicans and Democrats."
+  },
+  {
     "id": 32762,
     "title": "ICEYE Secures €9.38M in Funding from Poland’s National Development Bank",
     "authors": [
@@ -140,26 +160,6 @@
     "detailed_news": "The 35th State of the Climate report has been published by the Bulletin of the American Meteorological Society. 2024 saw record highs in greenhouse gas concentrations, global land and ocean temperatures, sea levels, and ocean heat content. Glaciers suffered their largest annual ice loss on record. Data records from ESA’s Climate Change Initiative helped underpin these findings. Permafrost stores nearly 1700 billion tonnes of frozen and thawing carbon. Anthropogenic warming threatens to release an unknown quantity of this carbon to the atmosphere. Sometimes permafrost can thaw rapidly, but scientists are unsure why and what these abrupt thaws mean in terms of feedback loops."
   },
   {
-    "id": 32722,
-    "title": "Lindy Garay: Supporting Space Station Safety and Success",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/garay-lindy.jpg",
-    "news_site": "NASA",
-    "summary": "Lindy Garay always knew she wanted to develop software. She did not anticipate that her work would contribute to human spaceflight. The electrical and software engineering degree Garay earned from the University of Texas at Austin paved the way for a 25-year career with NASA’s Johnson Space Center in Houston. Her first job out of […]",
-    "published_at": "2025-08-25T10:00:00Z",
-    "updated_at": "2025-08-25T10:00:08.574933Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
-  },
-  {
     "id": 32723,
     "title": "Juice team resolves anomaly on approach to Venus",
     "authors": [
@@ -178,6 +178,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
+  },
+  {
+    "id": 32722,
+    "title": "Lindy Garay: Supporting Space Station Safety and Success",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/garay-lindy.jpg",
+    "news_site": "NASA",
+    "summary": "Lindy Garay always knew she wanted to develop software. She did not anticipate that her work would contribute to human spaceflight. The electrical and software engineering degree Garay earned from the University of Texas at Austin paved the way for a 25-year career with NASA’s Johnson Space Center in Houston. Her first job out of […]",
+    "published_at": "2025-08-25T10:00:00Z",
+    "updated_at": "2025-08-25T10:00:08.574933Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
   },
   {
     "id": 32721,
@@ -980,25 +1000,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Hokkaido Spaceport has room for two launch complexes designed to support the launches of small, orbital-class rockets. All six of Firefly Aerospace’s Alpha rocket launches so far took off from Space Launch Complex 2 at Vandenberg Space Force Base in California. Rocket Lab has launched the vast majority of its more than 60 Electron rockets from Mahia, New Zealand.  Firefly Aerospace launched its Alpha rocket Friday after a launch attempt on Wednesday was scrubbed by bad weather. The infrastructure expansion in Briggs, Texas, boosts the company’s manufacturing space from 92,000 to 207,000 square feet. Liftoff with a payload for Lockheed Martin occurred at 9:32 a.m. PST."
-  },
-  {
-    "id": 32678,
-    "title": "Steve Platnick Steps Down from NASA After 34 Years of Service",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/earth-science/steve-platnick-steps-down-from-nasa-after-34-years-of-service/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/earth-observer/2025/2025-summer/platnick/steve-p-image.jpg",
-    "news_site": "NASA",
-    "summary": "Dr. Steven “Steve” Platnick took the NASA agency Deferred Resignation Program (DRP). His last work day was August 8, 2025. Steve spent more than three decades at, or associated with, NASA. While he began his civil servant career at the NASA’s Goddard Space Flight Center (GSFC) in 2002, his Goddard association went back to 1993, […]",
-    "published_at": "2025-08-20T13:15:19Z",
-    "updated_at": "2025-08-20T15:12:35.520134Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Dr. Steven “Steve” Platnick took the NASA Deferred Resignation Program (DRP) His last work day was August 8, 2025. Steve played an integral role in the sustainability and advancement of NASA’s Earth Observing System platforms and data. Steve has participated in numerous major airborne field campaigns over his career. His key ER-2 flight scientist and/or science team management roles included the Monterey Area Ship Track experiment (MAST, 1994) Steve has been a champion of continuing to retain a historical record of NASA science team meetings. He has received numerous honors, including the Goddard William Nordberg Memorial Award for Earth Science in 2023."
   }
 ]
