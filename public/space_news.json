@@ -20,6 +20,26 @@
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
+    "id": 32762,
+    "title": "ICEYE Secures €9.38M in Funding from Poland’s National Development Bank",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/iceye-secures-e9-38m-in-funding-from-polands-national-development-bank/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/ICEYE-Secures-E9.38M-in-Funding-from-Polands-National-Development-Bank.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Earth observation data provider and satellite manufacturer ICEYE has secured over PLN 40 million (€9.38 million) in new funding from Vinci S.A., an investment vehicle of Bank Gospodarstwa Krajowego (BGK), Poland’s National Development Bank. As an investment vehicle for BGK, Vinci S.A. is tasked with investing in the commercialization and expansion of Polish startups. According […]\nThe post ICEYE Secures €9.38M in Funding from Poland’s National Development Bank appeared first on European Spaceflight.",
+    "published_at": "2025-08-25T21:50:16Z",
+    "updated_at": "2025-08-25T22:00:12.527446Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "ICEYE has secured over PLN 40 million (€9.38 million) in new funding from Vinci S.A. Vinci is an investment vehicle of Bank Gospodarstwa Krajowego (BGK), Poland’s National Development Bank."
+  },
+  {
     "id": 32761,
     "title": "Vulcan Begins Operational Missions",
     "authors": [
@@ -120,26 +140,6 @@
     "detailed_news": "The 35th State of the Climate report has been published by the Bulletin of the American Meteorological Society. 2024 saw record highs in greenhouse gas concentrations, global land and ocean temperatures, sea levels, and ocean heat content. Glaciers suffered their largest annual ice loss on record. Data records from ESA’s Climate Change Initiative helped underpin these findings. Permafrost stores nearly 1700 billion tonnes of frozen and thawing carbon. Anthropogenic warming threatens to release an unknown quantity of this carbon to the atmosphere. Sometimes permafrost can thaw rapidly, but scientists are unsure why and what these abrupt thaws mean in terms of feedback loops."
   },
   {
-    "id": 32723,
-    "title": "Juice team resolves anomaly on approach to Venus",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2022/03/juice_s_flyby_of_venus_close-up/23992257-1-eng-GB/Juice_s_flyby_of_Venus_close-up_card_full.png",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August, following the successful resolution of a spacecraft communication anomaly that temporarily severed contact with Earth.",
-    "published_at": "2025-08-25T10:00:00Z",
-    "updated_at": "2025-08-25T10:00:14.789193Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
-  },
-  {
     "id": 32722,
     "title": "Lindy Garay: Supporting Space Station Safety and Success",
     "authors": [
@@ -158,6 +158,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
+  },
+  {
+    "id": 32723,
+    "title": "Juice team resolves anomaly on approach to Venus",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2022/03/juice_s_flyby_of_venus_close-up/23992257-1-eng-GB/Juice_s_flyby_of_Venus_close-up_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August, following the successful resolution of a spacecraft communication anomaly that temporarily severed contact with Earth.",
+    "published_at": "2025-08-25T10:00:00Z",
+    "updated_at": "2025-08-25T10:00:14.789193Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
   },
   {
     "id": 32721,
@@ -980,25 +1000,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Dr. Steven “Steve” Platnick took the NASA Deferred Resignation Program (DRP) His last work day was August 8, 2025. Steve played an integral role in the sustainability and advancement of NASA’s Earth Observing System platforms and data. Steve has participated in numerous major airborne field campaigns over his career. His key ER-2 flight scientist and/or science team management roles included the Monterey Area Ship Track experiment (MAST, 1994) Steve has been a champion of continuing to retain a historical record of NASA science team meetings. He has received numerous honors, including the Goddard William Nordberg Memorial Award for Earth Science in 2023."
-  },
-  {
-    "id": 32679,
-    "title": "NASA, IBM’s ‘Hot’ New AI Model Unlocks Secrets of Sun",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/artificial-intelligence-model-heliophysics/",
-    "image_url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001435/GSFC_20171208_Archive_e001435~large.jpg",
-    "news_site": "NASA",
-    "summary": "Editor’s Note: This article was updated Aug. 20, 2025, to correct the number of years of training data used and the model accuracy. The original article said the model was trained on 14 years of Solar Dynamics Observatory data and surpassed existing benchmarks by 15%; the model was actually trained on 9 years of data and […]",
-    "published_at": "2025-08-20T13:03:30Z",
-    "updated_at": "2025-08-20T15:12:35.530034Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Surya uses advances in AI to analyze vast amounts of solar data. The model can be used to provide early warnings to satellite operators. It also helps scientists predict how the Sun’s ultraviolet output affects Earth's upper atmosphere. Preliminary results show Surya is making strides in solar flare forecasting. Surya is designed to study the Sun, but its architecture and methodology are adaptable across scientific domains. The project lays the foundational infrastructure for similar AI efforts in diverse domains. Both the model and training datasets are freely available online to researchers, educators, and students worldwide. NASA's commitment to open science fuels groundbreaking research while maximizing transparency, innovation, and collaboration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. The agency is based in Washington, D.C. and has offices around the world."
   }
 ]
