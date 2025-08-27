@@ -20,6 +20,46 @@
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
+    "id": 32781,
+    "title": "Inside NASA’s New Orion Mission Evaluation Room for Artemis II",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/artemis/orion/inside-nasas-new-orion-mission-evaluation-room-for-artemis-ii/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/jsc2025e070712.jpg",
+    "news_site": "NASA",
+    "summary": "As NASA’s Orion spacecraft is carrying crew around the Moon on the Artemis II mission, a team of expert engineers in the Mission Control Center at NASA’s Johnson Space Center in Houston will be meticulously monitoring the spacecraft along its journey. They’ll be operating from a new space in the mission control complex built to […]",
+    "published_at": "2025-08-26T20:46:20Z",
+    "updated_at": "2025-08-26T20:50:05.787438Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Orion Mission Evaluation Room will be monitoring the spacecraft during the Artemis II mission. The room is staffed around the clock throughout the nearly 10 day mission, up until the spacecraft has been safely secured inside the U.S. Navy ship that will recover it after splashdown. The evaluation room will operate in three daily shifts, beginning about 48 hours prior to liftoff. Asteroid Bennu will be sampled by NASA’s OSIRIS-REx mission in 2020. Bennu is a mixture of dust that could be used to study the solar system. NASA explores the unknown in air and space, innovates for the benefit of humanity."
+  },
+  {
+    "id": 32782,
+    "title": "Live coverage: SpaceX tries for third time to launch Starship Flight 10 from Starbase, Texas",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/26/live-coverage-spacex-tries-for-third-time-to-launch-starship-flight-10-from-starbase-texas/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250826_Starship_Flight-10_sunset.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "SpaceX will make its latest attempt following scrubs due to ground systems issues and then poor weather. Liftoff from Pad A at Starbase is scheduled for 6:30 p.m. CDT (7:30 p.m. EDT / 2330 UTC). ",
+    "published_at": "2025-08-26T20:46:02Z",
+    "updated_at": "2025-08-26T20:50:15.355974Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX is hoping to launch its massive Starship rocket on its third launch attempt on Tuesday evening. SpaceX will not attempt to catch the Super Heavy booster, tail number B16. Instead, SpaceX plans to preform a controlled water landing in the Gulf and demonstrate that it can safely land in an off-nominal scenario."
+  },
+  {
     "id": 32780,
     "title": "Live coverage: SpaceX to launch Falcon 9 rocket on rideshare mission from Vandenberg SFB",
     "authors": [
@@ -510,26 +550,6 @@
     "detailed_news": "The 35th State of the Climate report has been published by the Bulletin of the American Meteorological Society. 2024 saw record highs in greenhouse gas concentrations, global land and ocean temperatures, sea levels, and ocean heat content. Glaciers suffered their largest annual ice loss on record. Data records from ESA’s Climate Change Initiative helped underpin these findings. Permafrost stores nearly 1700 billion tonnes of frozen and thawing carbon. Anthropogenic warming threatens to release an unknown quantity of this carbon to the atmosphere. Sometimes permafrost can thaw rapidly, but scientists are unsure why and what these abrupt thaws mean in terms of feedback loops."
   },
   {
-    "id": 32723,
-    "title": "Juice team resolves anomaly on approach to Venus",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2022/03/juice_s_flyby_of_venus_close-up/23992257-1-eng-GB/Juice_s_flyby_of_Venus_close-up_card_full.png",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August, following the successful resolution of a spacecraft communication anomaly that temporarily severed contact with Earth.",
-    "published_at": "2025-08-25T10:00:00Z",
-    "updated_at": "2025-08-25T10:00:14.789193Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
-  },
-  {
     "id": 32722,
     "title": "Lindy Garay: Supporting Space Station Safety and Success",
     "authors": [
@@ -548,6 +568,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
+  },
+  {
+    "id": 32723,
+    "title": "Juice team resolves anomaly on approach to Venus",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2022/03/juice_s_flyby_of_venus_close-up/23992257-1-eng-GB/Juice_s_flyby_of_Venus_close-up_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August, following the successful resolution of a spacecraft communication anomaly that temporarily severed contact with Earth.",
+    "published_at": "2025-08-25T10:00:00Z",
+    "updated_at": "2025-08-25T10:00:14.789193Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
   },
   {
     "id": 32721,
@@ -948,45 +988,5 @@
     ],
     "events": [],
     "detailed_news": "The SpaceX Dragon spacecraft will arrive at the space station at approximately 7:30 a.m. on Monday, Aug. 25. NASA astronauts Mike Fincke and Jonny Kim will monitor the spacecraft’s arrival. It will stay docked to the orbiting laboratory for about four months before splashing down. Reboost Kit – This kit will perform a reboost demonstration of the station to maintain its current altitude. Separator Orbital Unit – The unit draws air and condensate mixture from a condensing heat exchanger. Reducer Cylinder Assembly & Emergency Portable Breathing Apparatus – Together, this hardware provides 15 minutes of oxygen to a crew member in case of an emergency. Oxygen Generation Assembly Pump converts potable water from the water recovery system into oxygen and hydrogen. The oxygen is sent to the crew cabin, and the hydrogen is either vented or used to produce more water. The Rate Gyro Enclosure Assembly determines the space station’s rate of angular motion."
-  },
-  {
-    "id": 32702,
-    "title": "To See the World in a Grain of Sand: Investigating Megaripples at ‘Kerrlaguna’",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/to-see-the-world-in-a-grain-of-sand-investigating-megaripples-at-kerrlaguna/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2025/perseverance-rover-updates/august-2025/Mars_Perseverance_ZR0_1593_0808356707_285EBY_N0780780ZCAM09652_1100LMJ.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Athanasios Klidaras, Ph.D. candidate at Purdue University On Mars, the past is written in stone — but the present is written in sand. Last week, Perseverance explored inactive megaripples to learn more about the wind-driven processes that are reshaping the Martian landscape every day.  After wrapping up its investigation at the contact between […]",
-    "published_at": "2025-08-21T20:07:56Z",
-    "updated_at": "2025-08-21T21:10:06.586835Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Perseverance explored inactive megaripples to learn more about the wind-driven processes that are reshaping the Martian landscape every day. It is hoped that this investigation at “Kerrlaguna’ can provide a practice run for a more comprehensive campaign located at a more extensive field of larger bedforms at ‘Lac de Charmes’"
-  },
-  {
-    "id": 32700,
-    "title": "NASA Astronauts to Answer Questions from Students in Ohio",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-ohio/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/nasa-astronauts-mike-fincke-and-zena-cardman-downlink-advisory-aug-21.jpg",
-    "news_site": "NASA",
-    "summary": "NASA astronauts Michael Fincke and Zena Cardman will connect with students in Ohio as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions aboard the International Space Station. The Earth-to-space call will begin at 10:15 a.m. EDT on Wednesday, Aug. 27, and will stream live on the agency’s Learn With NASA YouTube channel. Media […]",
-    "published_at": "2025-08-21T17:55:14Z",
-    "updated_at": "2025-08-21T18:00:07.327821Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Astronauts Michael Fincke and Zena Cardman will answer prerecorded science, technology, engineering, and mathematics questions. The Earth-to-space call will begin at 10:15 a.m. EDT on Wednesday, Aug. 27. Media interested in covering the event must RSVP by 5 p.m., Monday, August 25."
   }
 ]
