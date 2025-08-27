@@ -1,6 +1,6 @@
 {
-  "count": 5,
-  "last_updated": "2025-08-27T06:01:46.707242Z",
+  "count": 4,
+  "last_updated": "2025-08-27T12:02:18.398972Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (5 successful)"
+    "AI-generated summaries (4 successful)"
   ],
   "launches": [
-    {
-      "id": "1ba21ab5-9f23-4709-bf78-991831aee638",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-56",
-      "status": "Go",
-      "net": "2025-08-27T10:53:00Z",
-      "window_start": "2025-08-27T10:53:00Z",
-      "window_end": "2025-08-27T14:53:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Starlink Group 10-56",
-      "mission_description": "A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mission_type": "Communications",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Space Launch Complex 40, Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "location": "Cape Canaveral SFS, FL, USA",
-      "rocket": "Falcon 9 Block 5",
-      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
-      "rocket_config_family": "Falcon",
-      "rocket_config_full_name": "Falcon 9 Block 5",
-      "rocket_config_total_launch_count": 461,
-      "rocket_config_successful_launches": 460,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 106,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 552,
-      "rocket_manufacturer_successful_launches": 537,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/1ba21ab5-9f23-4709-bf78-991831aee638/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability. This Communications mission involves A batch of 28 satellites for the Starlink mega-constellation."
-    },
     {
       "id": "a2f73993-79f6-4228-bebc-0ada6840e503",
       "name": "Falcon 9 Block 5 | Starlink Group 10-11",
@@ -222,8 +181,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 5,
+    "successful_summaries": 4,
     "empty_summaries": 0,
-    "total_launches": 5
+    "total_launches": 4
   }
 }
