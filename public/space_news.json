@@ -20,6 +20,66 @@
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
+    "id": 32785,
+    "title": "SpaceX successfully launches Super Heavy-Starship on critical test flight",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/27/spacex-successfully-launches-super-heavy-starship-on-critical-test-flight/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250826_Starship_Flight-10_liftoff.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "While re-entry heating damaged a protective \"skirt\" around the the engine bay of the upper stage Starship, along with partially melting a control flap near its hinge, the vehicle remained under control throughout and made it all the way to a powered splashdown in the Indian Ocean as planned. ",
+    "published_at": "2025-08-27T05:49:30Z",
+    "updated_at": "2025-08-27T05:50:17.623932Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX launches its Super Heavy-Starship rocket for the 10th time. The rocket is the most powerful ever built, with 16 million pounds of thrust. A launch try Sunday was called off because of trouble with ground equipment. A second attempt Monday was blocked by cloudy weather. SpaceX's Starship rocket is designed to fly itself back to a launch gantry for mid-air capture. SpaceX has not yet attempted a return-to-launch-site with a Starship. The company fired up nine Merlin main engines at the bottom of a previously-flown Falcon 9 booster. A United Launch Alliance Atlas 5 rocket is set to roll to its launch pad Wednesday. The launch of a SpaceX Falcon 9 rocket with a Spanish communications satellite is expected to be shuffled after the Atlas 5 flight. The mission marked the 200th Falcon 9 launch from pad 40 at Cape Canaveral Space Force Station."
+  },
+  {
+    "id": 32784,
+    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/27/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The mission is poised to feature the 400th successful booster landing on a droneship. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 7:10 a.m. EDT (1110 UTC). ",
+    "published_at": "2025-08-27T05:36:49Z",
+    "updated_at": "2025-08-27T05:40:23.271578Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Starlink 10-56 mission will add another 28 Starlink V2 Mini satellites into low Earth orbit roughly an hour after launch. Liftoff from Space Launch Complex 40 is scheduled for 7:10 a.m. EDT (1110 UTC) SpaceX will use the Falcon 9 first stage booster, tail number 1095, to launch this mission, which will fly for a second time."
+  },
+  {
+    "id": 32783,
+    "title": "A Great Day for Starship",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/a-great-day-for-starship/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Starship-with-dimensions-IFT10-276x300.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "SpaceX got some much needed good news today with a successful Starship flight test. After three failures in a row, tonight’s suborbital Integrated Flight Test-10 seemed to be flawless with […]",
+    "published_at": "2025-08-27T02:24:01Z",
+    "updated_at": "2025-08-27T02:30:15.977153Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "After three failures in a row, tonight’s suborbital Integrated Flight Test-10 seemed to be flawless with launch, payload deployment, in-space engine relight, and soft landings of the booster in the Gulf and the ship in the Indian Ocean. The previous three tests in January, March, and May ended in RUDs — Rapid Unscheduled Disassemblies. Under the $2.9 billion contract with NASA, SpaceX must first fly an uncrewed demonstration flight that lands on the Moon’s South Pole and lifts off again. If he misses that November-December 2026 window, he’ll have to wait another 26 months before the Earth and Mars are properly aligned to try again."
+  },
+  {
     "id": 32781,
     "title": "Inside NASA’s New Orion Mission Evaluation Room for Artemis II",
     "authors": [
@@ -550,26 +610,6 @@
     "detailed_news": "The 35th State of the Climate report has been published by the Bulletin of the American Meteorological Society. 2024 saw record highs in greenhouse gas concentrations, global land and ocean temperatures, sea levels, and ocean heat content. Glaciers suffered their largest annual ice loss on record. Data records from ESA’s Climate Change Initiative helped underpin these findings. Permafrost stores nearly 1700 billion tonnes of frozen and thawing carbon. Anthropogenic warming threatens to release an unknown quantity of this carbon to the atmosphere. Sometimes permafrost can thaw rapidly, but scientists are unsure why and what these abrupt thaws mean in terms of feedback loops."
   },
   {
-    "id": 32722,
-    "title": "Lindy Garay: Supporting Space Station Safety and Success",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/garay-lindy.jpg",
-    "news_site": "NASA",
-    "summary": "Lindy Garay always knew she wanted to develop software. She did not anticipate that her work would contribute to human spaceflight. The electrical and software engineering degree Garay earned from the University of Texas at Austin paved the way for a 25-year career with NASA’s Johnson Space Center in Houston. Her first job out of […]",
-    "published_at": "2025-08-25T10:00:00Z",
-    "updated_at": "2025-08-25T10:00:08.574933Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
-  },
-  {
     "id": 32723,
     "title": "Juice team resolves anomaly on approach to Venus",
     "authors": [
@@ -588,6 +628,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
+  },
+  {
+    "id": 32722,
+    "title": "Lindy Garay: Supporting Space Station Safety and Success",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/garay-lindy.jpg",
+    "news_site": "NASA",
+    "summary": "Lindy Garay always knew she wanted to develop software. She did not anticipate that her work would contribute to human spaceflight. The electrical and software engineering degree Garay earned from the University of Texas at Austin paved the way for a 25-year career with NASA’s Johnson Space Center in Houston. Her first job out of […]",
+    "published_at": "2025-08-25T10:00:00Z",
+    "updated_at": "2025-08-25T10:00:08.574933Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
   },
   {
     "id": 32721,
@@ -913,80 +973,5 @@
     ],
     "events": [],
     "detailed_news": "SpaceX is planning to launch of its latest batch of Starlink V2 Mini satellites from Vandenberg Space Force Base in California on Friday. The Starlink 17-6 mission will add another 24 satellites to the low Earth orbit constellation. With a successful completion of this mission, SpaceX will have launched more than 1,800 of its Starlink satellites in 2025 alone."
-  },
-  {
-    "id": 32705,
-    "title": "SpaceX launches Space Force’s X-37B spaceplane to demo laser communications, quantum navigation",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/22/spacex-launches-space-forces-x-37b-spaceplane-to-demo-laser-communications-quantum-navigation/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250821_USSF-36_streak_JP-1.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The uncrewed spacecraft will operate in low Earth orbit for an unspecified amount of time. This is the eighth launch of an X-37B Orbital Test Vehicle since its first flight in 2010.",
-    "published_at": "2025-08-22T05:15:08Z",
-    "updated_at": "2025-08-22T08:47:30.191874Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "2d5f2335-c3c2-4306-9dde-8ec37f348ccf",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "The X-37B Orbital Test Vehicle was launched Thursday night. It's the eighth mission for the program, which began operational flights in April 2010. There are two operational spaceplanes in the X- 37B fleet. The rocket's first stage will attempt to land on a SpaceX droneship. NASA, Boeing and Lockheed Martin argued that the United States shouldn't skip past the Moon in favor of Mars. The discussion came up during a panel at the SpaceCom conference concerning the Artemis 2 mission. A SpaceX Falcon 9 rocket loaded with 10 Iridium Next communications satellite is awaiting a predawn launch Wednesday from Vandenberg Air Force Base."
-  },
-  {
-    "id": 32703,
-    "title": "X-37B Lifts Off on Eighth Mission",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/x-37b-lifts-off-on-eighth-mission/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/X-37B-after-OTV6-USSF-300x200.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "The U.S. Space Force’s X-37B Orbital Test Vehicle lifted off from Kennedy Space Center just before midnight on its eighth flight, OTV-8. Looking like a small space shuttle, the spaceplane […]",
-    "published_at": "2025-08-22T03:52:08Z",
-    "updated_at": "2025-08-22T08:47:23.060168Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "2d5f2335-c3c2-4306-9dde-8ec37f348ccf",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "The U.S. Space Force’s X-37B Orbital Test Vehicle lifted off from Kennedy Space Center just before midnight on its eighth flight, OTV-8. Looking like a small space shuttle, the spaceplane was nestled inside the fairing of a SpaceX Falcon 9 rocket. The USSF released a pre-launch photo and shared a few nuggets about some of the experiments aboard, but little is known about what these X- 37B missions do. Boeing built two X-37Bs. USSF didn’t specify which is being used for this mission. Some question whether it may be a space weapon of some kind. Secure World Foundation tracks global counterspace capabilities and concludes that’s not likely."
-  },
-  {
-    "id": 32701,
-    "title": "NASA’s SpaceX 33rd Commercial Resupply Mission Overview",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-33rd-commercial-resupply-mission-overview/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/spacex-falcon9-dragon.png",
-    "news_site": "NASA",
-    "summary": "NASA and SpaceX are targeting no earlier than 2:45 a.m. EDT on Sunday, Aug. 24, for the next launch to deliver scientific investigations, supplies, and equipment to the International Space Station.",
-    "published_at": "2025-08-21T20:51:21Z",
-    "updated_at": "2025-08-22T08:47:16.752064Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "e8e93778-657c-401c-9c88-3cd4c7c45c9d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "The SpaceX Dragon spacecraft will arrive at the space station at approximately 7:30 a.m. on Monday, Aug. 25. NASA astronauts Mike Fincke and Jonny Kim will monitor the spacecraft’s arrival. It will stay docked to the orbiting laboratory for about four months before splashing down. Reboost Kit – This kit will perform a reboost demonstration of the station to maintain its current altitude. Separator Orbital Unit – The unit draws air and condensate mixture from a condensing heat exchanger. Reducer Cylinder Assembly & Emergency Portable Breathing Apparatus – Together, this hardware provides 15 minutes of oxygen to a crew member in case of an emergency. Oxygen Generation Assembly Pump converts potable water from the water recovery system into oxygen and hydrogen. The oxygen is sent to the crew cabin, and the hydrogen is either vented or used to produce more water. The Rate Gyro Enclosure Assembly determines the space station’s rate of angular motion."
   }
 ]
