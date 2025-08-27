@@ -1,23 +1,113 @@
 [
   {
-    "id": 32675,
-    "title": "Aurora Australis over Concordia station",
+    "id": 32794,
+    "title": "Strap In! NASA Aeroshell Material Takes Extended Space Trip",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/langley/strap-in-nasa-aeroshell-material-takes-extended-space-trip/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/hiadstrap.jpg",
+    "news_site": "NASA",
+    "summary": "Components of a NASA technology that could one day help crew and cargo enter harsh planetary environments, like that of Mars, are taking an extended trip to space courtesy of the United States Space Force. On Aug. 21, several pieces of webbing material, known as Zylon, which comprise the straps of the HIAD (Hypersonic Inflatable […]",
+    "published_at": "2025-08-27T17:01:32Z",
+    "updated_at": "2025-08-27T17:10:15.561115Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Several pieces of webbing material, known as Zylon, comprise the straps of the HIAD (Hypersonic Inflatable Aerodynamic Decelerator) aeroshell developed by NASA. The HIAD technology could allow larger spacecraft to safely descend through the atmospheres of celestial bodies like Mars, Venus, and even Saturn’s moon, Titan."
+  },
+  {
+    "id": 32793,
+    "title": "NASA Seeks Volunteers to Track Artemis II Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-volunteers-to-track-artemis-ii-mission/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/art001e001999_orig.jpg",
+    "news_site": "NASA",
+    "summary": "NASA seeks volunteers to passively track the Artemis II Orion spacecraft as the crewed mission travels to the Moon and back to Earth. The Artemis II test flight, a launch of the agency’s SLS (Space Launch System) rocket and Orion spacecraft, will send NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA […]",
+    "published_at": "2025-08-27T15:37:12Z",
+    "updated_at": "2025-08-27T15:42:13.455656Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": " Artemis II test flight will send NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, on an approximately 10-day mission around the Moon. The mission, targeted for no later than April 2026, will rely on NASA’s Near Space Network and Deep Space Network for primary communications and tracking support."
+  },
+  {
+    "id": 32792,
+    "title": "Portrait of an Astronaut",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/portrait-of-an-astronaut/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/54434141863-7757af4db2-o.jpg",
+    "news_site": "NASA",
+    "summary": "NASA astronaut Zena Cardman poses for a portrait in a photography studio on March 22, 2024, at NASA’s Johnson Space Center in Houston, Texas. Cardman is currently aboard the International Space Station, where she perform research, technology demonstrations, and maintenance activities. Recently, she took a robotics test on a computer for the portion of the […]",
+    "published_at": "2025-08-27T15:10:11Z",
+    "updated_at": "2025-08-27T15:42:03.703551Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Astronaut Zena Cardman is currently aboard the International Space Station. Cardman launched to the space station on NASA’s SpaceX Crew-11 mission. Members of Crew- 11 will contribute to NASA's Artemis program by simulating Moon landing scenarios that future crews may encounter near the lunar South Pole."
+  },
+  {
+    "id": 32791,
+    "title": "Algae bloom chlorophyll South Australia",
     "authors": [
       {
         "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/aurora_australis_over_concordia_station/26843757-1-eng-GB/Aurora_Australis_over_Concordia_station_card_full.jpg",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/Algae_bloom_chlorophyll_South_Australia",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/algae_bloom_chlorophyll_south_australia/26850185-1-eng-GB/Algae_bloom_chlorophyll_South_Australia_card_full.jpg",
     "news_site": "ESA",
-    "summary": "The Aurora Australis, photographed over Concordia station in July 2025, during the ongoing solar activity maximum, the peak of the Sun's 11-year cycle. ",
-    "published_at": "2025-08-27T08:00:00Z",
-    "updated_at": "2025-08-20T08:50:11.122359Z",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-08-27T13:18:00Z",
+    "updated_at": "2025-08-27T15:41:51.667071Z",
     "featured": false,
     "launches": [],
     "events": [],
-    "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
+    "detailed_news": "Chlorophyll-a is a key indicator of the presence of algae in the ocean. The bloom, first detected in mid-March 2025 around the Fleurieu Peninsula, is caused by the marine dinoflagellate Karenia mikimotoi. While the algae is not classified as toxic to humans, it can irritate the skin and eyes."
+  },
+  {
+    "id": 32789,
+    "title": "ESA and JAXA advance potential Apophis mission collaboration",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_advance_potential_Apophis_mission_collaboration",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/esa_s_ramses_mission_at_the_asteroid_apophis/26824036-1-eng-GB/ESA_s_Ramses_mission_at_the_asteroid_Apophis_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The Japan Aerospace Exploration Agency (JAXA) has requested funding to participate in the European Space Agency’s (ESA) Rapid Apophis Mission for Space Safety (Ramses).",
+    "published_at": "2025-08-27T12:00:00Z",
+    "updated_at": "2025-08-27T15:42:32.100037Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "03756d3f-98c2-42b6-942f-db3960c96274",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "Japan Aerospace Exploration Agency ( JAXA ) has requested funding to participate in the European Space Agency’s (ESA) Rapid Apophis Mission for Space Safety ( Ramses) Ramses is ESA's proposed mission to rendezvous with the 375 m asteroidApophis and accompany it through a safe but exceptionally close flyby of Earth in 2029. Researchers would use the data gathered by Ramses to improve our ability to defend our planet from any asteroids."
   },
   {
     "id": 32788,
@@ -38,6 +128,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Butterfly Nebula is located about 3400 light-years away in the constellation Scorpius. It is one of the best-studied planetary nebulas in our galaxy. This stunning nebula was previously imaged by the NASA/ESA Hubble Space Telescope. Now, Webb has captured a new view of this nebula. Team also spotted light emitted by carbon-based molecules known as polycyclic aromatic hydrocarbons. They form flat, ring-like structures, much like the honeycomb shapes found in beehives. This may be the first-ever evidence of PAHs forming in a oxygen-rich planetary nebula."
+  },
+  {
+    "id": 32675,
+    "title": "Aurora Australis over Concordia station",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/aurora_australis_over_concordia_station/26843757-1-eng-GB/Aurora_Australis_over_Concordia_station_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The Aurora Australis, photographed over Concordia station in July 2025, during the ongoing solar activity maximum, the peak of the Sun's 11-year cycle. ",
+    "published_at": "2025-08-27T08:00:00Z",
+    "updated_at": "2025-08-20T08:50:11.122359Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
   },
   {
     "id": 32787,
@@ -280,26 +390,6 @@
     "detailed_news": "The Exploration Company’s reusable Nyx Earth spacecraft has passed Phase 1 of the International Space Station Safety Review. Nyx is being developed to ferry cargo and, eventually, crew, to and from low Earth orbit destinations. The company's first mission to the ISS in 2028 will deliver 2,600 kilograms of supplies."
   },
   {
-    "id": 32771,
-    "title": "NASA Stennis Provides Ideal Setting for Range Operations",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/stennis/an-ideal-setting-for-range-operations/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2016/06/dsc-0992-range-airspace-operations-drone.jpg",
-    "news_site": "NASA",
-    "summary": "Think of NASA’s Stennis Space Center, and one likely thinks of rocket propulsion testing. The site has a long history of testing to support the nation’s space efforts, including the current Artemis program to send astronauts to the Moon to prepare for future human exploration of Mars. However, NASA Stennis also is working to become […]",
-    "published_at": "2025-08-26T14:00:00Z",
-    "updated_at": "2025-08-26T16:10:05.769362Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA Stennis has its own protected airspace, similar to how airports control the skies around them. It operates two main airspace zones – a propulsion testing area extending from ground level up to 12,000 feet for safely testing rocket engines. The centerpiece of the NASA Stennis marine range is its extensive 7.5-mile canal system. The NASA Stennis federal city already hosts more than 50 federal, state, academic, public, and private aerospace, technology, and research organizations. “NASA Stennis is open for business, and we want to provide a user-friendly range for operators to test vehicles,” Peterson said."
-  },
-  {
     "id": 32770,
     "title": "NASA Test Deploys Roman Space Telescope Solar Panels, ‘Visor’",
     "authors": [
@@ -318,6 +408,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Nancy Grace Roman Space Telescope team assessed observatory's solar panels and sunshade. Roman slated to launch no later than May 2027. Engineers confirmed successful operation during a closely monitored sequence in simulated space-like conditions. On the first day, Roman’s outer solar panels were deployed one at a time."
+  },
+  {
+    "id": 32771,
+    "title": "NASA Stennis Provides Ideal Setting for Range Operations",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/stennis/an-ideal-setting-for-range-operations/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2016/06/dsc-0992-range-airspace-operations-drone.jpg",
+    "news_site": "NASA",
+    "summary": "Think of NASA’s Stennis Space Center, and one likely thinks of rocket propulsion testing. The site has a long history of testing to support the nation’s space efforts, including the current Artemis program to send astronauts to the Moon to prepare for future human exploration of Mars. However, NASA Stennis also is working to become […]",
+    "published_at": "2025-08-26T14:00:00Z",
+    "updated_at": "2025-08-26T16:10:05.769362Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA Stennis has its own protected airspace, similar to how airports control the skies around them. It operates two main airspace zones – a propulsion testing area extending from ground level up to 12,000 feet for safely testing rocket engines. The centerpiece of the NASA Stennis marine range is its extensive 7.5-mile canal system. The NASA Stennis federal city already hosts more than 50 federal, state, academic, public, and private aerospace, technology, and research organizations. “NASA Stennis is open for business, and we want to provide a user-friendly range for operators to test vehicles,” Peterson said."
   },
   {
     "id": 32767,
@@ -343,6 +453,31 @@
     ],
     "events": [],
     "detailed_news": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of the U.S. for next week. Visit CNN.com/Travel each week for a new gallery of snapshots. Visit www.dailymail.co.uk/travel for the latest."
+  },
+  {
+    "id": 32790,
+    "title": "ESA wraps up 300-million-kilometre optical communication campaign",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Operations/ESA_wraps_up_300-million-kilometre_optical_communication_campaign",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/esa_s_ground_laser_transmitter_shooting_lasers_at_nasa_s_psyche_sped_up_1000_times/26849687-2-eng-GB/ESA_s_Ground_Laser_Transmitter_shooting_lasers_at_NASA_s_Psyche_sped_up_1000_times_card_full.gif",
+    "news_site": "ESA",
+    "summary": "Over the summer, the European Space Agency ran an optical communication demonstration campaign using two observatories on Earth and NASA’s Psyche mission. All four optical links were successful.",
+    "published_at": "2025-08-26T13:38:00Z",
+    "updated_at": "2025-08-27T15:42:19.651960Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "66133437-db31-4098-8e3e-cf34c8125f9b",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "ESA successfully completed a series of four increasingly complex deep-space optical communication links with NASA’s Deep Space Optical Communications (DSOC) experiment aboard the Psyche spacecraft. Each link demanded greater accuracy, longer distances, and more refined operations, culminating in a final transmission that pushed the boundaries of what's possible in interplanetary laser communications. Helmos Observatory in Greece was ESA’s main operations hub. Team coordinated every pass, including interface between GLR, GLT and JPL. Data will undergo detailed analysis to evaluate performance of each system. A GLR-twin is now under development to be paired with larger telescopes, with a validation campaign planned in Chile in 2026."
   },
   {
     "id": 32765,
@@ -670,26 +805,6 @@
     "detailed_news": "The 35th State of the Climate report has been published by the Bulletin of the American Meteorological Society. 2024 saw record highs in greenhouse gas concentrations, global land and ocean temperatures, sea levels, and ocean heat content. Glaciers suffered their largest annual ice loss on record. Data records from ESA’s Climate Change Initiative helped underpin these findings. Permafrost stores nearly 1700 billion tonnes of frozen and thawing carbon. Anthropogenic warming threatens to release an unknown quantity of this carbon to the atmosphere. Sometimes permafrost can thaw rapidly, but scientists are unsure why and what these abrupt thaws mean in terms of feedback loops."
   },
   {
-    "id": 32723,
-    "title": "Juice team resolves anomaly on approach to Venus",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2022/03/juice_s_flyby_of_venus_close-up/23992257-1-eng-GB/Juice_s_flyby_of_Venus_close-up_card_full.png",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August, following the successful resolution of a spacecraft communication anomaly that temporarily severed contact with Earth.",
-    "published_at": "2025-08-25T10:00:00Z",
-    "updated_at": "2025-08-25T10:00:14.789193Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
-  },
-  {
     "id": 32722,
     "title": "Lindy Garay: Supporting Space Station Safety and Success",
     "authors": [
@@ -708,6 +823,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
+  },
+  {
+    "id": 32723,
+    "title": "Juice team resolves anomaly on approach to Venus",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2022/03/juice_s_flyby_of_venus_close-up/23992257-1-eng-GB/Juice_s_flyby_of_Venus_close-up_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August, following the successful resolution of a spacecraft communication anomaly that temporarily severed contact with Earth.",
+    "published_at": "2025-08-25T10:00:00Z",
+    "updated_at": "2025-08-25T10:00:14.789193Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
   },
   {
     "id": 32721,
@@ -848,125 +983,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "NASA and aviation safety company ResilienX Inc. demonstrated how these tools can be integrated into commercial systems. Timely, predictive, and up-to-date risk assessment within a single platform makes it much easier for drone or air taxi operators to check flight plans. Allowing operators to perform these tasks quickly reduces the safety risk to flight passengers as well as humans on the ground."
-  },
-  {
-    "id": 32714,
-    "title": "NASA Shares Final Contenders for Artemis II Moon Mascot Design Contest",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/nasa-shares-final-contenders-for-artemis-ii-moon-mascot-design-contest/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/54699815290-5cb6508dd2-o.jpg",
-    "news_site": "NASA",
-    "summary": "NASA is down to 25 finalists for the Artemis II zero gravity indicator set to fly with the mission’s crew around the Moon and back next year. Astronauts Reid Wiseman, Victor Glover, and Christina Koch of NASA, and CSA (Canadian Space Agency) astronaut Jeremy Hansen will soon select one of the finalist designs to join […]",
-    "published_at": "2025-08-22T16:08:40Z",
-    "updated_at": "2025-08-22T16:10:12.497149Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA is down to 25 finalists for the Artemis II zero gravity indicator set to fly with the mission’s crew around the Moon and back next year. Astronauts Reid Wiseman, Victor Glover, and Christina Koch of NASA, and CSA (Canadian Space Agency) astronaut Jeremy Hansen will soon select one of the finalist designs to join them inside the Orion spacecraft."
-  },
-  {
-    "id": 32712,
-    "title": "UK Space Agency Hires Consultants to Explain the UK Space Sector",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/uk-space-agency-hires-consultants-to-explain-the-uk-space-sector/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/UK-Space-Agency-Hires-Consultants-to-Explain-the-UK-Space-Sector.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The UK Space Agency has commissioned Frazer-Nash Consultancy to review the nation’s capacity to deliver on in-situ resource utilisation capabilities. According to the agency, the results of the study will be used to “inform future activities in this area.” In an 18 August press release, Surrey-based Frazer-Nash Consultancy explained that the study will examine the […]\nThe post UK Space Agency Hires Consultants to Explain the UK Space Sector appeared first on European Spaceflight.",
-    "published_at": "2025-08-22T15:48:23Z",
-    "updated_at": "2025-08-22T15:50:09.678973Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The UK Space Agency has commissioned Frazer-Nash Consultancy to review the nation’s capacity to deliver on in-situ resource utilisation capabilities. The results of the study will be used to “inform future activities in this area” As a “first step,” Frazers has asked companies developing ISRU technology or solutions to complete a 10-minute survey before 17 October."
-  },
-  {
-    "id": 32711,
-    "title": "Epic Research Can Help Mars Missions",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/epic-research-can-help-mars-missions/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/afrc2025-0094-0864orig.jpg",
-    "news_site": "NASA",
-    "summary": "The parachute of the Enhancing Parachutes by Instrumenting the Canopy, or EPIC, test experiment deploys following an air launch from an Alta X drone on June 4, 2025, at NASA’s Armstrong Flight Research Center in Edwards, California. NASA researchers are developing technology to make supersonic parachutes safer and more reliable for delivering instruments and payloads […]",
-    "published_at": "2025-08-22T14:47:36Z",
-    "updated_at": "2025-08-22T14:50:06.590631Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA researchers are developing technology to make supersonic parachutes safer and more reliable for delivering instruments and payloads to Mars. The flight tests were a first step toward filling gaps in computer models to improve the parachutes. This work could also open the door to future partnerships, including with the aerospace and auto racing industries."
-  },
-  {
-    "id": 32710,
-    "title": "NASA’s Bennu Samples Reveal Complex Origins, Dramatic Transformation",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/uncategorized/nasas-bennu-samples-reveal-complex-origins-dramatic-transformation/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2025e069611_Bennu_particle.tif",
-    "news_site": "NASA",
-    "summary": "Asteroid Bennu, sampled by NASA’s OSIRIS-REx mission in 2023, is a mixture of dust that formed in our solar system, organic matter from interstellar space, and pre-solar system stardust. Its unique and varied contents were dramatically transformed over time by interactions with water and exposure to the harsh space environment. These insights come from a trio of newly published papers based on the analysis of Bennu samples by scientists at NASA and other institutions.",
-    "published_at": "2025-08-22T14:01:11Z",
-    "updated_at": "2025-08-22T14:10:06.633147Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Asteroid Bennu is a mixture of dust that formed in our solar system, organic matter from interstellar space, and pre-solar system stardust. Its unique and varied contents were dramatically transformed over time by interactions with water and exposure to the harsh space environment. These insights come from a trio of newly published papers based on the analysis of Bennu samples. Asteroids provide a record of the solar system’s history. Some types of asteroids burn up in the atmosphere and never make it to the ground. The next samples NASA expects to help unravel our solar system's story will be Moon rocks returned by the Artemis III astronauts."
-  },
-  {
-    "id": 32709,
-    "title": "Week in images: 18-22 August 2025",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_August_2025",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/iberian_fires_august_2025/26845081-2-eng-GB/Iberian_fires_August_2025_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 18-22 August 2025",
-    "published_at": "2025-08-22T13:10:00Z",
-    "updated_at": "2025-08-22T13:20:10.855496Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. Click here for the next gallery of iReporters' snapshots."
-  },
-  {
-    "id": 32708,
-    "title": "Lunar Environment Structural Test Rig",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/lunar-environment-structural-test-rig/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/grc-2025-c-05348.jpg",
-    "news_site": "NASA",
-    "summary": "The Lunar Environment Structural Test Rig simulates the intense cold of the lunar night, ranging from 40 Kelvin (K) to 125 K while maintaining a vacuum environment. This creates a tool by which scientists and engineers can test materials, electronics, and flight hardware for future Moon and Mars missions, characterizing their behaviors at these temperatures while also validating their ability to meet design requirements.",
-    "published_at": "2025-08-22T12:29:37Z",
-    "updated_at": "2025-08-22T12:30:08.567377Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "LESTR simulates the intense cold of the lunar night, ranging from 40 Kelvin (K) to 125 K. It uses a cryocooler to reject heat and bring the test section to any point desired by the test engineer. LESTR enables safe, accurate, and cost-effective testing of materials and hardware."
   }
 ]
