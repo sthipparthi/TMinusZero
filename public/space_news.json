@@ -1,5 +1,45 @@
 [
   {
+    "id": 32803,
+    "title": "Katie Bisci: Resourcing for Big Science",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/goddard/katie-bisci-resourcing-for-big-science/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/k-bisci-portraits-0002.jpg",
+    "news_site": "NASA",
+    "summary": "Deputy Project Manager for Resources – Goddard Space Flight Center How are you helping set the stage for the Roman mission? I’m a deputy project manager for resources on the Nancy Grace Roman Space Telescope team, sharing the role with Kris Steeley. Together, we oversee the business team, finance, outreach, scheduling, and more. I focus […]",
+    "published_at": "2025-08-28T12:00:00Z",
+    "updated_at": "2025-08-28T12:00:11.230767Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Nancy Grace Roman Space Telescope deputy project manager. Her job is to help along the technical parts of the mission, while supporting cost and schedule control. The Roman team is amazing, and those relationships are what keep me excited to come to work every day. She says the best part about Roman is the people. I’ve learned about how the Hubble Space Telescope , Webb, and Roman all build on each other during my time on this project. It’s really fulfilling to be a small part of something so big. I’m usually at their sports games or chauffeuring them around to one event or another."
+  },
+  {
+    "id": 32802,
+    "title": "Izaña-2 joins the laser game to track space debris",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/Izana-2_joins_the_laser_game_to_track_space_debris",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/izana-2_joins_the_laser_game_to_track_space_debris/26850289-3-eng-GB/Izana-2_joins_the_laser_game_to_track_space_debris_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "In Tenerife, Spain, stands a unique duo: ESA’s Izaña-1 and Izaña-2 laser-ranging stations. Together, they form an optical technology testbed of the European Space Agency that takes the monitoring of space debris and satellites to a new level while maturing new technologies for commercialisation.  ",
+    "published_at": "2025-08-28T08:00:00Z",
+    "updated_at": "2025-08-28T08:50:15.674979Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Space debris is a threat to satellites and is rapidly becoming a daily concern for satellite operators. The Space Safety Programme helps develop new technologies to detect and track debris. One of these efforts takes place at the Izaña station in Tenerife. There, ESA and partner companies are testing how to deliver precise orbit data on demand with laser-based technologies."
+  },
+  {
     "id": 32801,
     "title": "Over Soroya Ridge & Onward!",
     "authors": [
@@ -943,45 +983,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The 35th State of the Climate report has been published by the Bulletin of the American Meteorological Society. 2024 saw record highs in greenhouse gas concentrations, global land and ocean temperatures, sea levels, and ocean heat content. Glaciers suffered their largest annual ice loss on record. Data records from ESA’s Climate Change Initiative helped underpin these findings. Permafrost stores nearly 1700 billion tonnes of frozen and thawing carbon. Anthropogenic warming threatens to release an unknown quantity of this carbon to the atmosphere. Sometimes permafrost can thaw rapidly, but scientists are unsure why and what these abrupt thaws mean in terms of feedback loops."
-  },
-  {
-    "id": 32722,
-    "title": "Lindy Garay: Supporting Space Station Safety and Success",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/garay-lindy.jpg",
-    "news_site": "NASA",
-    "summary": "Lindy Garay always knew she wanted to develop software. She did not anticipate that her work would contribute to human spaceflight. The electrical and software engineering degree Garay earned from the University of Texas at Austin paved the way for a 25-year career with NASA’s Johnson Space Center in Houston. Her first job out of […]",
-    "published_at": "2025-08-25T10:00:00Z",
-    "updated_at": "2025-08-25T10:00:08.574933Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Lindy Garay has worked at NASA's Johnson Space Center in Houston for 25 years. She is a training systems software architect and technical lead for training system external interfaces. Garay was recently named as a 2025 NASA Space Flight Awareness Program Honoree – one of the highest recognitions presented to the agency’s workforce."
-  },
-  {
-    "id": 32723,
-    "title": "Juice team resolves anomaly on approach to Venus",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2022/03/juice_s_flyby_of_venus_close-up/23992257-1-eng-GB/Juice_s_flyby_of_Venus_close-up_card_full.png",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August, following the successful resolution of a spacecraft communication anomaly that temporarily severed contact with Earth.",
-    "published_at": "2025-08-25T10:00:00Z",
-    "updated_at": "2025-08-25T10:00:14.789193Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Jupiter Icy Moons Explorer (Juice) is on track for its gravity-assist flyby at Venus on 31 August. The issue emerged during a routine ground station pass on 16 July. It temporarily disrupted Juice’s ability to transmit information about its health and status (telemetry) Jupiter Icy Moons Explorer, ‘Juice’, is humankind’s next bold mission to the outer Solar System. It will make detailed observations of gas giant Jupiter and its three large ocean-bearing moons – Ganymede, Callisto and Europa. It has an eight-year cruise with flybys of Earth and Venus to slingshot it to Jupiter."
   }
 ]
