@@ -1,5 +1,45 @@
 [
   {
+    "id": 32813,
+    "title": "NASA, NOAA prep spacecraft trio to study the Sun and its impacts",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/29/nasa-noaa-prep-spacecraft-trio-to-study-the-sun-and-its-impacts/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250828-IMAP_processing-1.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "NASA’s Interstellar Mapping and Acceleration Probe (IMAP) will be the primary payload on a SpaceX Falcon 9 rocket launching no earlier than Sep. 23. The vehicle is joined by the Carruthers Geocorona Observatory and NOAA’s Space Weather Follow-On - Lagrange 1 (SWFO-L1) observatory. ",
+    "published_at": "2025-08-29T09:58:50Z",
+    "updated_at": "2025-08-29T10:00:24.681884Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA’s Interstellar Mapping and Acceleration Probe (IMAP) will study the Sun and its effects on Earth and across the solar system. IMAP is joined by the Carruthers Geocorona Observatory and the Space Weather Follow-On – Lagrange 1 (SWFO-L1) observatory. All three spacecraft are fueled for launch, which is scheduled for no earlier than Sep. 23. SWFO-L1 will be capable of sending back solar weather data in less than five minutes. Carruthers will also study space weather, specifically, it’s interplay with this exosphere. Engineers hope to fly the rotorcraft four more times in the next two weeks before calling it quits."
+  },
+  {
+    "id": 32812,
+    "title": "Dusty wisps round a dusty disc",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Dusty_wisps_round_a_dusty_disc",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/webb_s_view_of_planet-forming_disc_iras_04302_2247/26849640-1-eng-GB/Webb_s_view_of_planet-forming_disc_IRAS_04302_2247_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "For this new Picture of the Month feature, the NASA/ESA/CSA James Webb Space Telescope has provided a fantastic new view of IRAS 04302+2247, a planet-forming disc located about 525 light-years away in a dark cloud within the Taurus star-forming region. With Webb, researchers can study the properties and growth of dust grains within protoplanetary discs like this one, shedding light on the earliest stages of planet formation.",
+    "published_at": "2025-08-29T08:00:00Z",
+    "updated_at": "2025-08-29T08:10:12.183661Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "James Webb Space Telescope has provided a fantastic new view of IRAS 04302+2247, a planet-forming disc located about 525 light-years away in the Taurus star-forming region. With Webb, researchers can study the properties and growth of dust grains within protoplanetary discs like this one. ESA was responsible for the development and qualification of Ariane 5 adaptations for the Webb mission. ESA also provided the workhorse spectrograph NIRSpec and 50% of the mid-infrared instrument MIRI. Webb is an international partnership between NASA, ESA and the Canadian Space Agency (CSA)"
+  },
+  {
     "id": 32811,
     "title": "NASA Awards Spaceflight Operations, Systems Organization Contract",
     "authors": [
@@ -943,45 +983,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "On August 12, 2025 at 8:56 p.m. EDT (0056 UTC), United Launch Alliance successfully launched its Vulcan Centaur VC4S vehicle. This was the third overall flight of the Vulcan rocket but its first to carry national security payloads. The ascent was nominal, despite an SRB nozzle anomaly on flight 2 which led to a lengthy stand down. Vulcan successfully launched USSF-106 from Cape Canaveral on April 4, 2025. The launch was part of the second round of the National Security Space Launch program. The program seeks to distribute vital government payloads across industry to prevent potential bottlenecks. The path to operational Vulcan flights has been marred with challenges, with the company encountering several key issues."
-  },
-  {
-    "id": 32759,
-    "title": "With a new Soyuz rocket, Russia seeks to break its Ukrainian dependency",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/08/with-a-new-soyuz-rocket-russia-seeks-to-break-its-ukrainian-dependency/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2202741417.jpg",
-    "news_site": "Arstechnica",
-    "summary": "Now you Zenit, now you don't",
-    "published_at": "2025-08-25T17:17:20Z",
-    "updated_at": "2025-08-25T17:20:05.930051Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Soyuz-5 will be Russia's new medium-lift rocket. The rocket has been in development since 2016 and largely repurposes older technology. It takes rocket elements formerly made in Ukraine and now manufactures them in Russia. Full operational service is not expected to begin until 2028. The vehicle's debut has been repeatedly pushed back, however, with Russia now expected to debut the vehicle no earlier than 2030. Ars Technica has been separating the signal from the noise for over 25 years. With our unique combination of technical savvy and wide-ranging interest in the technological arts and sciences, Ars is the trusted source in a sea of information."
-  },
-  {
-    "id": 32760,
-    "title": "Live coverage: SpaceX preps for Starship Flight 10 following Sunday scrub",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/25/live-coverage-spacex-preps-for-starship-flight-10-following-sunday-scrub/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250825_Starship_Flight-10.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "SpaceX Founder and Chief Engineer Elon Musk said on his social media site, X, that the scrub was caused by a “Ground side liquid oxygen leak (that) needs to be fixed.” The launch is scheduled for no earlier than Monday, Aug. 25, at 6:30 p.m. CDT (7:30 p.m. EDT / 2330 UTC). ",
-    "published_at": "2025-08-25T17:12:46Z",
-    "updated_at": "2025-08-25T17:20:18.614471Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX is preparing for its second attempt to launch the 10th test flight of a Starship rocket from southern Texas as soon as Monday evening. Liftoff from Pad A at Starbase is scheduled for 6:30 p.m. CDT (7:30pm. EDT / 2330 UTC), which is the opening of the hour-long launch window. SpaceX announced on social media that it was scrubbing the Sunday launch attempt to “allow time to troubleshoot an issue with ground systems” SpaceX will perform a multi-hour experiment on the second stage of a Falcon 9 rocket after the launcher deploys a Dragon supply ship on the way to the International Space Station. Orbital ATK and SpaceX won Pentagon contracts worth a combined value of up to $241 million Wednesday."
   }
 ]
