@@ -1,5 +1,25 @@
 [
   {
+    "id": 32822,
+    "title": "Rocket Lab inaugurates LC-3 at Wallops",
+    "authors": [
+      {
+        "name": "Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/08/rocket-lab-inaugurates-lc-3-wallops/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/NSF-2025-08-30-05-07-20-754.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Rocket Lab has inaugurated Launch Complex 3 (LC-3) for its Neutron rocket, which is set…\nThe post Rocket Lab inaugurates LC-3 at Wallops appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-08-30T04:38:05Z",
+    "updated_at": "2025-08-30T04:40:11.363535Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Rocket Lab has inaugurated Launch Complex 3 (LC-3) for its Neutron rocket. The rocket is set to launch from the Mid-Atlantic Regional Spaceport (MARS) on Wallops Island, Virginia. The pad was completed in under two years by a Virginia-based team of engineers. Rocket Lab aims for Neutron’s maiden flight by the end of 2025. The first stage is powered by nine Archimedes engines (up from an original seven), while the second stage uses one vacuum-optimized archimedes engine. Both stages use liquid oxygen (LOX) and liquid methane as propellants, enabling reusability."
+  },
+  {
     "id": 32821,
     "title": "Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit",
     "authors": [
@@ -948,25 +968,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Nancy Grace Roman Space Telescope team assessed observatory's solar panels and sunshade. Roman slated to launch no later than May 2027. Engineers confirmed successful operation during a closely monitored sequence in simulated space-like conditions. On the first day, Roman’s outer solar panels were deployed one at a time."
-  },
-  {
-    "id": 32771,
-    "title": "NASA Stennis Provides Ideal Setting for Range Operations",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/stennis/an-ideal-setting-for-range-operations/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2016/06/dsc-0992-range-airspace-operations-drone.jpg",
-    "news_site": "NASA",
-    "summary": "Think of NASA’s Stennis Space Center, and one likely thinks of rocket propulsion testing. The site has a long history of testing to support the nation’s space efforts, including the current Artemis program to send astronauts to the Moon to prepare for future human exploration of Mars. However, NASA Stennis also is working to become […]",
-    "published_at": "2025-08-26T14:00:00Z",
-    "updated_at": "2025-08-26T16:10:05.769362Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA Stennis has its own protected airspace, similar to how airports control the skies around them. It operates two main airspace zones – a propulsion testing area extending from ground level up to 12,000 feet for safely testing rocket engines. The centerpiece of the NASA Stennis marine range is its extensive 7.5-mile canal system. The NASA Stennis federal city already hosts more than 50 federal, state, academic, public, and private aerospace, technology, and research organizations. “NASA Stennis is open for business, and we want to provide a user-friendly range for operators to test vehicles,” Peterson said."
   }
 ]
