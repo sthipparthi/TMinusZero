@@ -1,5 +1,25 @@
 [
   {
+    "id": 32823,
+    "title": "Live coverage: SpaceX’s Sunday morning Falcon 9 launch will send 1,900th Starlink to orbit in 2025",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/08/30/live-coverage-spacexs-sunday-morning-falcon-9-launch-will-send-1900th-starlink-to-orbit-in-2025/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "SpaceX continues its blistering pace of orbital launches with its ninth and final Starlink launch of August. It’s targeting liftoff of its Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station at 7:17 a.m. EDT (1117 UTC). ",
+    "published_at": "2025-08-30T17:46:55Z",
+    "updated_at": "2025-08-30T17:50:22.768563Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX will launch the Starlink 10-14 mission using the Falcon 9 first stage booster 1077, which will make its 23rd trip to space and back. Sunday’s launch will the 108th of the year. SpaceX plans to launch at least 170 Falcon 9 rockets across 2025, with the majority of those supporting its Starlink constellation. A SpaceX Falcon 9 rocket successfully took off early Sunday with a Japanese video and data relay satellite. The rocket then stuck a landing on a barge stationed nearly 400 miles east of Cape Canaveral. The launch was part of a joint venture between SpaceX and a Japanese satellite company."
+  },
+  {
     "id": 32822,
     "title": "Rocket Lab inaugurates LC-3 at Wallops",
     "authors": [
@@ -948,25 +968,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Exploration Company’s reusable Nyx Earth spacecraft has passed Phase 1 of the International Space Station Safety Review. Nyx is being developed to ferry cargo and, eventually, crew, to and from low Earth orbit destinations. The company's first mission to the ISS in 2028 will deliver 2,600 kilograms of supplies."
-  },
-  {
-    "id": 32770,
-    "title": "NASA Test Deploys Roman Space Telescope Solar Panels, ‘Visor’",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasa-test-deploys-roman-space-telescope-solar-panels-visor/",
-    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "news_site": "NASA",
-    "summary": "On Aug. 7 and 8, NASA’s Nancy Grace Roman Space Telescope team assessed the observatory’s solar panels and a visor-like sunshade called the deployable aperture cover — two components that will be stowed for launch and unfold in space. Engineers confirmed their successful operation during a closely monitored sequence in simulated space-like conditions. On the […]",
-    "published_at": "2025-08-26T14:00:00Z",
-    "updated_at": "2025-08-26T16:10:05.751085Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Nancy Grace Roman Space Telescope team assessed observatory's solar panels and sunshade. Roman slated to launch no later than May 2027. Engineers confirmed successful operation during a closely monitored sequence in simulated space-like conditions. On the first day, Roman’s outer solar panels were deployed one at a time."
   }
 ]
