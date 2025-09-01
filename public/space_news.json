@@ -1,5 +1,25 @@
 [
   {
+    "id": 32826,
+    "title": "Trump’s Labor Union EO Designates NASA as Primarily An Intelligence/National Security Agency",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/trumps-labor-union-eo-designates-nasa-as-primarily-intelligence-national-security-agency/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/nasa-act-1-283x300.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "An Executive Order issued by President Trump to exclude NASA and other agencies from collective bargaining rights does so by designating them as having intelligence or national security as a […]",
+    "published_at": "2025-09-01T03:54:44Z",
+    "updated_at": "2025-09-01T04:00:17.691759Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "President Trump issued an Executive Order (EO) on Thursday excluding a number of agencies and agency subdivisions from collective bargaining representation. Some agencies were excluded from FSLMRS when the law was written, including the FBI, CIA, and the National Security Agency. Presidents may add to the list by Executive Order if an agency is “determined to have as a primary function intelligence, counterintelligence, investigative, or national security work” NASA was created as a civilian agency to emphasize the U.S. goal of using space for peaceful purposes and to encourage international cooperation. A White House fact sheet cited NASA’s development and operation of “advanced air and space technologies” as a justification for designating the agency as having intelligence, counterintelligence, investigative, or national security work as a “primary function”"
+  },
+  {
     "id": 32825,
     "title": "Scientists investigate moonquakes using Apollo 17 samples, LRO observations",
     "authors": [
@@ -948,25 +968,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The 10th flight of Starship is expected to liftoff on Aug. 26 at 6:30 PM CDT (23:30 UTC) The week’s first batch of Starlink satellites is launching into LEO on a Falcon 9. Blue Origin is scheduled to launch New Shepard on the NS-35 mission on August 27. Starlink Group 10-14 is launching on Aug. 30 at 7:38 AM EDT (11:38 UTC) from SLC-40 at CCSFS. This mission will carry 28 Starlink v2 Mini satellites to a LEO with a 53.16-degree inclination. The booster, B1077, will attempt to land on SpaceX’s autonomous droneship, Just Read the Instructions."
-  },
-  {
-    "id": 32769,
-    "title": "Reaching Out",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/reaching-out/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/msh1552-lg.jpg",
-    "news_site": "NASA",
-    "summary": "This image released on Aug. 20, 2025, combines new radio data from the Australia Telescope Compact Array with X-ray data from NASA’s Chandra X-ray Observatory. Chandra first released an image of this pulsar and its surrounding hand-shaped nebula in 2009. The new data provides a fresh view of this exploded star and its environment, which […]",
-    "published_at": "2025-08-26T16:08:59Z",
-    "updated_at": "2025-08-26T16:10:05.711054Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Image released on Aug. 20, 2025, combines new radio data from the Australia Telescope Compact Array with X-ray data from NASA. Chandra first released an image of this pulsar and its surrounding hand-shaped nebula in 2009. The new data provides a fresh view of this exploded star and its environment."
   }
 ]
