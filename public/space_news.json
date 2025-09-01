@@ -1,5 +1,30 @@
 [
   {
+    "id": 32827,
+    "title": "Double trouble: Solar Orbiter traces superfast electrons back to Sun",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Double_trouble_Solar_Orbiter_traces_superfast_electrons_back_to_Sun",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/solar_orbiter_traces_superfast_electrons_back_to_sun2/26849994-2-eng-GB/Solar_Orbiter_traces_superfast_electrons_back_to_Sun_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency-led Solar Orbiter mission has split the flood of energetic particles flung out into space from the Sun into two groups, tracing each back to a different kind of outburst from our star.",
+    "published_at": "2025-09-01T07:00:00Z",
+    "updated_at": "2025-09-01T07:18:45.158097Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "acdd0fab-b485-4c18-bb6f-c45cb62bdfd7",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "European Space Agency-led Solar Orbiter mission has split the flood of energetic particles flung out into space from the Sun into two groups. Researchers trace each back to a different kind of outburst from our star. The study is the most comprehensive of SEE events to date, and produces a catalogue that will only grow through Solar orbiter’s lifetime. The study fulfils an important goal of Solar Orbiter: to trace ejected particles back to their sources at the Sun. Crucially, the finding is important for our understanding of space weather, where accurate forecasting is essential to keep our spacecraft operational and safe. One of the two kinds of SEE events is more important for space weather: that connected to CMEs, which tend to hold more high-energy particles."
+  },
+  {
     "id": 32826,
     "title": "Trump’s Labor Union EO Designates NASA as Primarily An Intelligence/National Security Agency",
     "authors": [
@@ -948,25 +973,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "SpaceX is preparing for its 37th Falcon 9 rocket launch from Vandenberg. The orbital flight features an Italian defense satellite along with nine other rideshare payloads. The mission featuring OHB Italia’s NAOS (National Advanced Optical System) spacecraft will fly on a southerly trajectory after taking off from Space Launch Complex 4 East. SpaceX’s Falcon 9 rocket disintegrated shortly after launch from Cape Canaveral on Sunday. This was the second of two back-to-back overnight launches. “We’re proud to continue enabling fast, reliable access to space for industry leaders like Capella Space, Pixxel and more,” Dhruva Space said."
-  },
-  {
-    "id": 32779,
-    "title": "Launch Roundup: Starship, NS-35, and Falcon 9 launches planned",
-    "authors": [
-      {
-        "name": "Aaron McCrea",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/launch-roundup-08-25-25/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "Eight launches are scheduled this week by SpaceX, Blue Origin, and CSNA. CSNA will kick…\nThe post Launch Roundup: Starship, NS-35, and Falcon 9 launches planned appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-26T16:13:40Z",
-    "updated_at": "2025-08-26T16:20:11.110850Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The 10th flight of Starship is expected to liftoff on Aug. 26 at 6:30 PM CDT (23:30 UTC) The week’s first batch of Starlink satellites is launching into LEO on a Falcon 9. Blue Origin is scheduled to launch New Shepard on the NS-35 mission on August 27. Starlink Group 10-14 is launching on Aug. 30 at 7:38 AM EDT (11:38 UTC) from SLC-40 at CCSFS. This mission will carry 28 Starlink v2 Mini satellites to a LEO with a 53.16-degree inclination. The booster, B1077, will attempt to land on SpaceX’s autonomous droneship, Just Read the Instructions."
   }
 ]
