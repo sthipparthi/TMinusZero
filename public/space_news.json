@@ -1,5 +1,45 @@
 [
   {
+    "id": 32829,
+    "title": "EU to Commission Mobile Responsive Launch System Studies",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/eu-to-commission-mobile-responsive-launch-system-studies/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/EU-to-Commission-Mobile-Responsive-Launch-System-Studies.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Commission has launched a call for studies to examine the potential of a mobile responsive launch system, a capability that would enable the rapid deployment of satellites into orbit from non-permanent (mobile) ground platforms. In the preamble to the call published on 10 July, the Commission notes that due to an increasing number […]\nThe post EU to Commission Mobile Responsive Launch System Studies appeared first on European Spaceflight.",
+    "published_at": "2025-09-02T08:29:44Z",
+    "updated_at": "2025-09-02T08:30:10.577241Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The European Commission has launched a call for studies to examine the potential of a mobile responsive launch system. The capability would enable the rapid deployment of satellites into orbit from non-permanent (mobile) ground platforms. The total budget for the call is €1.95 million, with up to €650,000 available for each study."
+  },
+  {
+    "id": 32830,
+    "title": "New MetOp Second Generation weather satellite returns first data",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/New_MetOp_Second_Generation_weather_satellite_returns_first_data",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/first_glimpse_of_metop-sg-a1_microwave_sounder_data/26852519-1-eng-GB/First_glimpse_of_MetOp-SG-A1_Microwave_Sounder_data_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Less than three weeks since the first MetOp Second Generation weather satellite, MetOp-SG-A1, was launched, this remarkable new satellite has already started transmitting data from two of its cutting-edge instruments, offering a tantalising glimpse of what’s to come.",
+    "published_at": "2025-09-02T08:00:00Z",
+    "updated_at": "2025-09-02T09:00:16.461935Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The MetOp Second Generation (MetOp-SG) mission builds on the proven success of the first-generation MetOp satellites. It will provide the essential data needed to strengthen weather prediction models and deepen our understanding of Earth’s changing climate. Launched on 13 August, aboard an Ariane 6 rocket from the European Spaceport in French Guiana, Eumetsat is currently putting the new satellite through a rigorous commissioning phase. Metop-SG-A1 is expected to require months of thorough testing and calibration before any data are released to Member State meteorological services and other users. Both the MWS and RO will provide inputs of unprecedented precision for numerical weather predication. The curves are plotted alongside ECMWF forecast data. The RO measurements refine and update temperature and humidity structure predictions."
+  },
+  {
     "id": 32828,
     "title": "Launch Roundup: SpaceX to launch five Falcon 9 missions this week",
     "authors": [
@@ -933,45 +973,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "After three failures in a row, tonight’s suborbital Integrated Flight Test-10 seemed to be flawless with launch, payload deployment, in-space engine relight, and soft landings of the booster in the Gulf and the ship in the Indian Ocean. The previous three tests in January, March, and May ended in RUDs — Rapid Unscheduled Disassemblies. Under the $2.9 billion contract with NASA, SpaceX must first fly an uncrewed demonstration flight that lands on the Moon’s South Pole and lifts off again. If he misses that November-December 2026 window, he’ll have to wait another 26 months before the Earth and Mars are properly aligned to try again."
-  },
-  {
-    "id": 32781,
-    "title": "Inside NASA’s New Orion Mission Evaluation Room for Artemis II",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/orion/inside-nasas-new-orion-mission-evaluation-room-for-artemis-ii/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/jsc2025e070712.jpg",
-    "news_site": "NASA",
-    "summary": "As NASA’s Orion spacecraft is carrying crew around the Moon on the Artemis II mission, a team of expert engineers in the Mission Control Center at NASA’s Johnson Space Center in Houston will be meticulously monitoring the spacecraft along its journey. They’ll be operating from a new space in the mission control complex built to […]",
-    "published_at": "2025-08-26T20:46:20Z",
-    "updated_at": "2025-08-26T20:50:05.787438Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Orion Mission Evaluation Room will be monitoring the spacecraft during the Artemis II mission. The room is staffed around the clock throughout the nearly 10 day mission, up until the spacecraft has been safely secured inside the U.S. Navy ship that will recover it after splashdown. The evaluation room will operate in three daily shifts, beginning about 48 hours prior to liftoff. Asteroid Bennu will be sampled by NASA’s OSIRIS-REx mission in 2020. Bennu is a mixture of dust that could be used to study the solar system. NASA explores the unknown in air and space, innovates for the benefit of humanity."
-  },
-  {
-    "id": 32782,
-    "title": "Live coverage: SpaceX tries for third time to launch Starship Flight 10 from Starbase, Texas",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/26/live-coverage-spacex-tries-for-third-time-to-launch-starship-flight-10-from-starbase-texas/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250826_Starship_Flight-10_sunset.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "SpaceX will make its latest attempt following scrubs due to ground systems issues and then poor weather. Liftoff from Pad A at Starbase is scheduled for 6:30 p.m. CDT (7:30 p.m. EDT / 2330 UTC). ",
-    "published_at": "2025-08-26T20:46:02Z",
-    "updated_at": "2025-08-26T20:50:15.355974Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX is hoping to launch its massive Starship rocket on its third launch attempt on Tuesday evening. SpaceX will not attempt to catch the Super Heavy booster, tail number B16. Instead, SpaceX plans to preform a controlled water landing in the Gulf and demonstrate that it can safely land in an off-nominal scenario."
   }
 ]
