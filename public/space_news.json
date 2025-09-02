@@ -1,5 +1,25 @@
 [
   {
+    "id": 32828,
+    "title": "Launch Roundup: SpaceX to launch five Falcon 9 missions this week",
+    "authors": [
+      {
+        "name": "John Sharp",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/09/launch-roundup-090125/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Five Falcon 9 launches make up the launch manifest for this week. Collectively, four of…\nThe post Launch Roundup: SpaceX to launch five Falcon 9 missions this week appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-09-01T22:01:09Z",
+    "updated_at": "2025-09-01T22:10:20.560054Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The first of SpaceX’s five scheduled Falcon 9 missions for this week, Starlink Group 17-8, is due to launch from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base (VSFB) in California on Tuesday, Sept. 2. A new booster, B1097, is expected to support this mission. The payload will consist of 24 Starlink v2 Mini satellites launched due south to a Sun-synchronous orbit (SSO) The first stage booster is powered by nine Merlin 1D engines, while the second stage utilizes a single vacuum-optimized Merlin engine. Starlink Group 10-57 mission is expected to launch on Thursday, Sept. 4, at 7:18 AM EDT (11:18 UTC) from Launch Complex 39A (LC-39A) at the Kennedy Space Center in Florida. Falcon 9’s payload will consist of 28 Starlink v2 Mini satellites launched northeast to a low Earth orbit (LEO) Falcon 9 | Nusantara 5 (Lima) mission will place an Indonesian high-throughput telecommunications satellite into geostationary transfer orbit."
+  },
+  {
     "id": 32827,
     "title": "Double trouble: Solar Orbiter traces superfast electrons back to Sun",
     "authors": [
@@ -953,25 +973,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "SpaceX is hoping to launch its massive Starship rocket on its third launch attempt on Tuesday evening. SpaceX will not attempt to catch the Super Heavy booster, tail number B16. Instead, SpaceX plans to preform a controlled water landing in the Gulf and demonstrate that it can safely land in an off-nominal scenario."
-  },
-  {
-    "id": 32780,
-    "title": "Live coverage: SpaceX to launch Falcon 9 rocket on rideshare mission from Vandenberg SFB",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/26/live-coverage-spacex-to-launch-falcon-9-rocket-on-rideshare-mission-from-vandenberg-sfb/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/02/20240214_Starlink_7-14_prelaunch_small.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The mission features OHB Italia’s NAOS satellite along with seven other secondary satellites. SpaceX is targeting liftoff from pad 4E at Vandenberg Space Force Base at 11:53 a.m. PDT (2:53 p.m. EDT / 1853 UTC). ",
-    "published_at": "2025-08-26T16:36:51Z",
-    "updated_at": "2025-08-26T16:40:34.080511Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX is preparing for its 37th Falcon 9 rocket launch from Vandenberg. The orbital flight features an Italian defense satellite along with nine other rideshare payloads. The mission featuring OHB Italia’s NAOS (National Advanced Optical System) spacecraft will fly on a southerly trajectory after taking off from Space Launch Complex 4 East. SpaceX’s Falcon 9 rocket disintegrated shortly after launch from Cape Canaveral on Sunday. This was the second of two back-to-back overnight launches. “We’re proud to continue enabling fast, reliable access to space for industry leaders like Capella Space, Pixxel and more,” Dhruva Space said."
   }
 ]
