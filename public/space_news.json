@@ -1,5 +1,125 @@
 [
   {
+    "id": 32836,
+    "title": "Ted Cruz reminds us why NASA’s rocket is called the “Senate Launch System”",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/09/ted-cruz-reminds-us-why-nasas-rocket-is-called-the-senate-launch-system/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/ted-cruz.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"We need better than just window dressing.\"",
+    "published_at": "2025-09-02T17:21:31Z",
+    "updated_at": "2025-09-02T17:30:06.710147Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Ted Cruz, a Texas Republican, chairs the Senate Commerce, Science, and Transportation Committee. He has made a significant shift toward supporting the SLS rocket and its chief contractor, Boeing. Cruz has made it clear that his priorities for human spaceflight are to beat China back to the Moon. NASA has contracted with SpaceX and Blue Origin to build reusable lunar landers for Artemis, without which NASA astronauts can only fly around the Moon. By itself, the SLS rocket is expected to have a flight rate of once every other year, or annually at best. If Congress wants a sustained presence on the Moon, it needs one or both of SpaceX's Starship or Blue Origin's Mark II landers to work."
+  },
+  {
+    "id": 32835,
+    "title": "What’s Up: September 2025 Skywatching Tips from NASA",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/centers-and-facilities/jpl/whats-up-september-2025-skywatching-tips-from-nasa/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2025/september/Saturn_skychart_September2025.png",
+    "news_site": "NASA",
+    "summary": "Saturn’s spectacle, a Conjunction, and the Autumnal Equinox Saturn shines throughout the month, a conjunction sparkles in the sky, and we welcome the autumnal equinox.  Skywatching Highlights Transcript What’s Up for September? Saturn puts on a spectacular show, a sunrise conjunction shines bright, and we ring in the autumnal equinox. Saturn at Opposition Saturn will […]",
+    "published_at": "2025-09-02T15:36:03Z",
+    "updated_at": "2025-09-02T16:10:07.481183Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "On September 21, Saturn will be at opposition, meaning Earth will find itself in between Saturn and the Sun, temporarily lined up. On September 22, we mark the autumnal equinox or the official start of fall in the northern hemisphere. The Moon will be nestled up right next to both Venus and Regulus."
+  },
+  {
+    "id": 32834,
+    "title": "Circular Star Trails",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/circular-star-trails/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/iss073e0427643orig.jpg",
+    "news_site": "NASA",
+    "summary": "On July 26, 2025, NASA astronaut Nichole Ayers took this long-exposure photograph – taken over 31 minutes from a window inside the International Space Station’s Kibo laboratory module – capturing the circular arcs of star trails. In its third decade of continuous human presence, the space station has a far-reaching impact as a microgravity lab […]",
+    "published_at": "2025-09-02T14:17:28Z",
+    "updated_at": "2025-09-02T14:20:11.571068Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Long-exposure photograph taken over 31 minutes from a window inside the International Space Station’s Kibo laboratory module. In its third decade of continuous human presence, the space station has a far-reaching impact as a microgravity lab hosting technology, demonstrations, and scientific investigations."
+  },
+  {
+    "id": 32833,
+    "title": "Advancing Single-Photon Sensing Image Sensors to Enable the Search for Life Beyond Earth",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/directorates/stmd/advancing-single-photon-sensing-image-sensors-to-enable-the-search-for-life-beyond-earth/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2025/SPSCMOSsensor1.jpg",
+    "news_site": "NASA",
+    "summary": "Advancing Single-Photon Sensing Image Sensors to Enable the Search for Life Beyond Earth A NASA-sponsored team is advancing single-photon sensing Complementary Metal-Oxide-Semiconductor (CMOS) detector technology that will enable future NASA astrophysics space missions to search for life on other planets. As part of their detector maturation program, the team is characterizing sensors before, during, and […]",
+    "published_at": "2025-09-02T14:00:32Z",
+    "updated_at": "2025-09-02T14:10:06.767813Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "A NASA-sponsored team is advancing single-photon sensing Complementary Metal-Oxide-Semiconductor (CMOS) detector technology. The technology will enable future NASA astrophysics space missions to search for life on other planets. The Habitable Worlds Observatory will seek to find biosignatures in the ultraviolet, optical, and near-infrared (NIR) spectra of exoplanet atmospheres. The RIT team is developing new readout modes that are not available in commercial CMOS sensors. These custom modes sample the signal over time (a \"ramp\" acquisition) to enable the detection and removal of cosmic ray artifacts. In one mode, when the system identifies an artifact, it segments the signal ramp and selectively averages the segments to reconstruct the original signal. SPSCMOS technology promises to be a game-changer for exoplanet and general astrophysics research. These sensors will enhance our ability to detect and analyze distant worlds. This could bring us one step closer to answering one of humanity’s most profound questions: are we alone?"
+  },
+  {
+    "id": 32832,
+    "title": "Tech From NASA’s Hurricane-hunting TROPICS Flies on Commercial Satellites",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/earth/tech-from-nasas-hurricane-hunting-tropics-flies-on-commercial-satellites/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/05/TROPICS-Pathfinder-300x300-1.jpg",
+    "news_site": "NASA",
+    "summary": "NASA science and American industry have worked hand-in-hand for more than 60 years, transforming novel technologies created with NASA research into commercial products like cochlear implants, memory-foam mattresses, and more. Now, a NASA-funded device for probing the interior of storm systems has been made a key component of commercial weather satellites. The novel atmospheric sounder […]",
+    "published_at": "2025-09-02T13:53:35Z",
+    "updated_at": "2025-09-02T14:00:08.653728Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA-funded device for probing the interior of storm systems has been made a key component of commercial weather satellites. Atmospheric sounders allow researchers to gather data describing humidity, temperature, and wind speed. From low-Earth orbit, these devices help make air travel safer, shipping more efficient, and severe weather warnings more reliable. Tomorrow.io plans to have a full constellation of atmospheric sounders in orbit by 2025. The company also has two radar instruments that were launched in 2023. Tomorrow.io was among eight companies selected by NASA’s Commercial SmallSat Data Acquisition (CSDA) program in September 2024."
+  },
+  {
+    "id": 32831,
+    "title": "SpaceX McGregor looks to the future, from Raptor 3 to potential HLS testing",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/09/spacex-mcgregor-raptor-3-hls/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/NSF-2025-09-02-04-39-19-634.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX’s engine development and testing site in McGregor—the world’s most active rocket engine test facility—continues…\nThe post SpaceX McGregor looks to the future, from Raptor 3 to potential HLS testing appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-09-02T12:13:12Z",
+    "updated_at": "2025-09-02T12:20:19.686911Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NSF photographer Gary Blair captured the assembly of a substantial new rig at one of the facility's test locations. The McGregor facility serves as a versatile testing ground for various Starship components. Recent updates reveal intensified Raptor engine trials and the construction of a large-scale rig. The latter has ignited speculation about its potential ties to Starship’s Human Landing System. SpaceX has not commented on the rig’s intended use, and observers caution that it could be for more mundane applications. The new structure could theoretically support a compact prototype of the HLS lander, outfitted with essential systems for lunar landing simulations. It might house an array of sensors positioned above a mock lunar terrain to refine autonomous landing capabilities, which are crucial for HLS."
+  },
+  {
     "id": 32829,
     "title": "EU to Commission Mobile Responsive Launch System Studies",
     "authors": [
@@ -853,125 +973,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Aurora Australis appears when charged particles from the Sun are guided by Earth’s magnetic field towards the polar regions. Concordia station, perched high on Antarctica’‘Dome C plateau, is one of the most remote research outposts on Earth. Each year, ESA sponsors a medical doctor to live and work at Concordia."
-  },
-  {
-    "id": 32788,
-    "title": "Webb investigates complex heart of a cosmic butterfly",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_complex_heart_of_a_cosmic_butterfly",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/butterfly_nebula_ngc_6302_hubble_webb_alma_images/26848710-1-eng-GB/Butterfly_Nebula_NGC_6302_Hubble_Webb_ALMA_images_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The NASA/ESA/CSA James Webb Space Telescope has revealed new details in the core of the Butterfly Nebula, NGC 6302. From the dense, dusty torus that surrounds the star hidden at the centre of the nebula to its outflowing jets, the Webb observations reveal many new discoveries that paint a never-before-seen portrait of a dynamic and structured planetary nebula.",
-    "published_at": "2025-08-27T08:00:00Z",
-    "updated_at": "2025-08-27T08:00:18.946284Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Butterfly Nebula is located about 3400 light-years away in the constellation Scorpius. It is one of the best-studied planetary nebulas in our galaxy. This stunning nebula was previously imaged by the NASA/ESA Hubble Space Telescope. Now, Webb has captured a new view of this nebula. Team also spotted light emitted by carbon-based molecules known as polycyclic aromatic hydrocarbons. They form flat, ring-like structures, much like the honeycomb shapes found in beehives. This may be the first-ever evidence of PAHs forming in a oxygen-rich planetary nebula."
-  },
-  {
-    "id": 32787,
-    "title": "Avio and Isar Aerospace Win ESA Flight Ticket Initiative Launch Contracts",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/avio-and-isar-aerospace-win-esa-flight-ticket-initiative-launch-contracts/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/08/Avio-and-Isar-Aerospace-Win-ESA-Flight-Ticket-Initiative-Launch-Contracts.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency has awarded launch service contracts to Avio and Isar Aerospace under its Flight Ticket Initiative. Announced in October 2023, the Flight Ticket Initiative is a programme run jointly by ESA and the European Union that offers subsidised flight opportunities for European companies and organisations seeking to demonstrate new satellite technologies in […]\nThe post Avio and Isar Aerospace Win ESA Flight Ticket Initiative Launch Contracts appeared first on European Spaceflight.",
-    "published_at": "2025-08-27T07:24:13Z",
-    "updated_at": "2025-08-27T07:30:11.219749Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "European Space Agency has awarded launch service contracts to Avio and Isar Aerospace under its Flight Ticket Initiative. The contracts will support the launches of the ISISpace Cassini and Infinite Orbits Tom & Jerry missions, both set to fly aboard Isar aerospace rockets from 2026 onwards. Each launch opportunity would carry a maximum award of €5 million."
-  },
-  {
-    "id": 32786,
-    "title": "Flight Ticket Initiative: first five missions secured with Avio and Isar Aerospace",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Flight_Ticket_Initiative_first_five_missions_secured_with_Avio_and_Isar_Aerospace",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/flight_ticket_initiative/26849504-2-eng-GB/Flight_Ticket_Initiative_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-08-27T06:35:00Z",
-    "updated_at": "2025-08-27T07:10:11.102608Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Flight Ticket Initiative is a collaboration between the European Space Agency (ESA) and the European Commission. It allows European companies and institutions to test and prove new products and applications in space. It encourages the use of new European launchers. Testing prototypes in space provides valuable insight for research projects and unlocks the market potential of commercial applications."
-  },
-  {
-    "id": 32785,
-    "title": "SpaceX successfully launches Super Heavy-Starship on critical test flight",
-    "authors": [
-      {
-        "name": "William Harwood",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/27/spacex-successfully-launches-super-heavy-starship-on-critical-test-flight/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250826_Starship_Flight-10_liftoff.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "While re-entry heating damaged a protective \"skirt\" around the the engine bay of the upper stage Starship, along with partially melting a control flap near its hinge, the vehicle remained under control throughout and made it all the way to a powered splashdown in the Indian Ocean as planned. ",
-    "published_at": "2025-08-27T05:49:30Z",
-    "updated_at": "2025-08-27T05:50:17.623932Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX launches its Super Heavy-Starship rocket for the 10th time. The rocket is the most powerful ever built, with 16 million pounds of thrust. A launch try Sunday was called off because of trouble with ground equipment. A second attempt Monday was blocked by cloudy weather. SpaceX's Starship rocket is designed to fly itself back to a launch gantry for mid-air capture. SpaceX has not yet attempted a return-to-launch-site with a Starship. The company fired up nine Merlin main engines at the bottom of a previously-flown Falcon 9 booster. A United Launch Alliance Atlas 5 rocket is set to roll to its launch pad Wednesday. The launch of a SpaceX Falcon 9 rocket with a Spanish communications satellite is expected to be shuffled after the Atlas 5 flight. The mission marked the 200th Falcon 9 launch from pad 40 at Cape Canaveral Space Force Station."
-  },
-  {
-    "id": 32784,
-    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/27/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The mission is poised to feature the 400th successful booster landing on a droneship. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 7:10 a.m. EDT (1110 UTC). ",
-    "published_at": "2025-08-27T05:36:49Z",
-    "updated_at": "2025-08-27T05:40:23.271578Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Starlink 10-56 mission will add another 28 Starlink V2 Mini satellites into low Earth orbit roughly an hour after launch. Liftoff from Space Launch Complex 40 is scheduled for 7:10 a.m. EDT (1110 UTC) SpaceX will use the Falcon 9 first stage booster, tail number 1095, to launch this mission, which will fly for a second time."
-  },
-  {
-    "id": 32783,
-    "title": "A Great Day for Starship",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/a-great-day-for-starship/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Starship-with-dimensions-IFT10-276x300.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "SpaceX got some much needed good news today with a successful Starship flight test. After three failures in a row, tonight’s suborbital Integrated Flight Test-10 seemed to be flawless with […]",
-    "published_at": "2025-08-27T02:24:01Z",
-    "updated_at": "2025-08-27T02:30:15.977153Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "After three failures in a row, tonight’s suborbital Integrated Flight Test-10 seemed to be flawless with launch, payload deployment, in-space engine relight, and soft landings of the booster in the Gulf and the ship in the Indian Ocean. The previous three tests in January, March, and May ended in RUDs — Rapid Unscheduled Disassemblies. Under the $2.9 billion contract with NASA, SpaceX must first fly an uncrewed demonstration flight that lands on the Moon’s South Pole and lifts off again. If he misses that November-December 2026 window, he’ll have to wait another 26 months before the Earth and Mars are properly aligned to try again."
   }
 ]
