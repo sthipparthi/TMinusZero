@@ -1,5 +1,25 @@
 [
   {
+    "id": 32845,
+    "title": "A robotic real-time strategy game in space",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/09/A_robotic_real-time_strategy_game_in_space",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/a_robotic_real-time_strategy_game_in_space/26853611-1-eng-GB/A_robotic_real-time_strategy_game_in_space_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-09-03T08:00:00Z",
+    "updated_at": "2025-09-03T08:00:13.581616Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA astronaut Jonny Kim guided a team of robots across a simulated martian landscape while orbiting 400 km above Earth on the International Space Station. The demonstration marked the final session of Surface Avatar , a joint effort between ESA and the German Aerospace Center (DLR) to investigate how astronauts can coordinate robotic partners for future missions."
+  },
+  {
     "id": 32843,
     "title": "Juno Detected the Final Missing Auroral Signature from Jupiter’s Four Largest Moons",
     "authors": [
@@ -943,25 +963,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "SpaceX has completed Flight 10 of the Starship program. The first attempt was scrubbed due to problems with the supply line for LOX. Crews used a motorized winch at the top of the tower to reinstall a new supply hose. Flight 10 ended with both vehicles performing controlled splashdowns in the water. SpaceX's Starship Flight 10 took off from Pad 1 (A) at 6:30:00 p.m. Central Daylight Time. This was the second-to-last flight of a Block 2 booster with Booster 15-2 slated to be the last one to fly. The SpaceX logistics team brought in around 38 Liquid Nitrogen (LN2) tankers and around 40 LOX tankers. Ship 37 made it through reentry with no major problems. The aft flaps partially came apart, possibly due to hot-staging damage, and then early reentry tore them both open. The port or left side engine chill lines ruptured under the aft flap fairing and punched a hole into the ship’s drive section skirt."
-  },
-  {
-    "id": 32796,
-    "title": "SpaceX completes 400th Falcon booster landing on a drone ship",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/27/spacex-completes-400th-falcon-booster-landing-on-a-drone-ship/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250827_B1095-2_JRTI_landing.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The accomplishment came during Wednesday’s flight of the Starlink 10-56 mission from Cape Canaveral Space Force Station. The touchdown was also SpaceX’s 494th overall successful booster landing. ",
-    "published_at": "2025-08-27T18:56:28Z",
-    "updated_at": "2025-08-27T19:00:27.846095Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A Falcon 9 rocket placed another 28 Starlink satellites into orbit shortly after sunrise on Wednesday. The B1095 first stage booster, making its second flight, touched down on the drone ship ‘Just Read the Instructions’ (JRTI) stationed in the Atlantic Ocean east of the Carolinas. The majority of the 400 aquatic landings have occurred on SpaceX’s drone ship, ‘Of Course I Still Love You’ SpaceX released a new batch of photos showing the Feb. 6 liftoff of the company’s first Falcon Heavy rocket from pad 39A at the Kennedy Space Center in Florida. Liftoff from Space Launch Complex 40 happened at 8:32 p.m. EDT (0032 UTC) The crucial pre-launch engine test has been repeatedly delayed."
   }
 ]
