@@ -1,5 +1,72 @@
 [
   {
+    "id": 32852,
+    "title": "Ted Cruz criticizes Trump plan to cancel SLS and Lunar Gateway as “folly”",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/09/ted-cruz-criticizes-trump-plan-to-cancel-sls-and-lunar-gateway-as-folly/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/GettyImages-1228805258.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"It is highly unlikely the United States will beat China’s projected timeline.\"",
+    "published_at": "2025-09-03T21:11:20Z",
+    "updated_at": "2025-09-03T21:20:04.769642Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 32851,
+    "title": "PERSEI Space to test tether solution for orbital mobility",
+    "authors": [
+      {
+        "name": "Sean Yoder",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/09/persei-space/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/persei_electrodynamic_tethers_crop.png",
+    "news_site": "NASASpaceflight",
+    "summary": "In the increasingly crowded corridors of low-Earth orbit, a Spanish company is pioneering technology that…\nThe post PERSEI Space to test tether solution for orbital mobility appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-09-03T19:51:53Z",
+    "updated_at": "2025-09-03T20:00:14.119732Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 32850,
+    "title": "FAA Approves Expanded Falcon 9 Operations at Cape Canaveral’s SLC-40 with New Landing Zone",
+    "authors": [
+      {
+        "name": "Zac Aubert",
+        "socials": {
+          "x": "https://x.com/Astro_Aubert",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/zachary-aubert-43853b22/",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://tlpnetwork.com/news/america/faa-approves-expanded-spacex-falcon-9-operations-at-cape-canaverals-slc-40-with-new-landing-zone",
+    "image_url": "https://cdn.tlpnetwork.com/articles/2025/1756923593189.jpg",
+    "news_site": "The Launch Pad",
+    "summary": "FAA Approves Expanded Falcon 9 Operations at Cape Canaveral’s SLC-40 with New Landing Zone",
+    "published_at": "2025-09-03T18:13:00Z",
+    "updated_at": "2025-09-03T18:40:19.186460Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 32849,
     "title": "Thinning Arctic Sea Ice",
     "authors": [
@@ -903,65 +970,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "French rocket builder MaiaSpace has announced the completion of a months-long test campaign. The company subjected several subscale prototypes of its propellant tanks to high-pressure burst tests. The data collected will be used to validate mechanical models that will inform the final design of the full-scale propellant Tanks."
-  },
-  {
-    "id": 32803,
-    "title": "Katie Bisci: Resourcing for Big Science",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/goddard/katie-bisci-resourcing-for-big-science/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/k-bisci-portraits-0002.jpg",
-    "news_site": "NASA",
-    "summary": "Deputy Project Manager for Resources – Goddard Space Flight Center How are you helping set the stage for the Roman mission? I’m a deputy project manager for resources on the Nancy Grace Roman Space Telescope team, sharing the role with Kris Steeley. Together, we oversee the business team, finance, outreach, scheduling, and more. I focus […]",
-    "published_at": "2025-08-28T12:00:00Z",
-    "updated_at": "2025-08-28T12:00:11.230767Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Nancy Grace Roman Space Telescope deputy project manager. Her job is to help along the technical parts of the mission, while supporting cost and schedule control. The Roman team is amazing, and those relationships are what keep me excited to come to work every day. She says the best part about Roman is the people. I’ve learned about how the Hubble Space Telescope , Webb, and Roman all build on each other during my time on this project. It’s really fulfilling to be a small part of something so big. I’m usually at their sports games or chauffeuring them around to one event or another."
-  },
-  {
-    "id": 32802,
-    "title": "Izaña-2 joins the laser game to track space debris",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/08/Izana-2_joins_the_laser_game_to_track_space_debris",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/08/izana-2_joins_the_laser_game_to_track_space_debris/26850289-3-eng-GB/Izana-2_joins_the_laser_game_to_track_space_debris_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "In Tenerife, Spain, stands a unique duo: ESA’s Izaña-1 and Izaña-2 laser-ranging stations. Together, they form an optical technology testbed of the European Space Agency that takes the monitoring of space debris and satellites to a new level while maturing new technologies for commercialisation.  ",
-    "published_at": "2025-08-28T08:00:00Z",
-    "updated_at": "2025-08-28T08:50:15.674979Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Space debris is a threat to satellites and is rapidly becoming a daily concern for satellite operators. The Space Safety Programme helps develop new technologies to detect and track debris. One of these efforts takes place at the Izaña station in Tenerife. There, ESA and partner companies are testing how to deliver precise orbit data on demand with laser-based technologies."
-  },
-  {
-    "id": 32801,
-    "title": "Over Soroya Ridge & Onward!",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/over-soroya-ridge-onward/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2025/perseverance-rover-updates/august-2025/Mars_Perseverance_NLF_1597_0808718560_880ECM_N0783588NCAM14597_04_195J.png",
-    "news_site": "NASA",
-    "summary": "Written by Eleanor Moreland, Ph.D. Student Collaborator at Rice University Perseverance has continued exploring beyond the rim of Jezero crater, spending time last week at Parnasset conducting a mini-campaign on aeolian bedforms. After wrapping up that work, three separate drives brought Perseverance further southeast to an outcrop named Soroya. Soroya was first picked out from […]",
-    "published_at": "2025-08-27T21:33:42Z",
-    "updated_at": "2025-08-27T22:10:13.746022Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Perseverance spent last week at Parnasset conducting a mini-campaign on aeolian bedforms. Three separate drives brought Perseverance further southeast to an outcrop named Soroya. Soroya was first picked out from orbital images as a target of interest because, as can be seen in the above image, it appears as a much lighter color compared to the surroundings."
   }
 ]
