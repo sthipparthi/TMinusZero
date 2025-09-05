@@ -1,5 +1,45 @@
 [
   {
+    "id": 32873,
+    "title": "Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/09/rocket-report-neutrons-pad-opens-for-business-spacex-gets-falcon-9-green-light/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Gz7fosCXUAA2Q3I.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"Nobody’s waving the white flag here until the last hour of the last day.\"",
+    "published_at": "2025-09-05T11:00:13Z",
+    "updated_at": "2025-09-05T11:10:12.728478Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Israel successfully launches Ofek 19 satellite from Palmachim Airbase. MaiaSpace completes tank tests. Reaction Dynamics invests in Nova Scotia launch site. Orienspace secures B+ round funding as it moves towards a test flight, Space News reports.\"Nobody’s waving the white flag here until the last hour of the last day\" Orienspace secured funding of between $27 million and $124 million. The capital will be used mainly for the follow-up development and mass production of the Gravity-2 medium-lift liquid launch vehicle. Rocket Lab sees Neutron as a contender to ease the bottleneck in demand from both commercial and military customers for a ride to space. SpaceX founder Elon Musk says heat shield tiles almost entirely stayed attached. SpaceX wants to be able to refly Starships within 24 hours. It takes more than 200 tanker trucks traveling from distant refineries to deliver all of the methane, liquid oxygen, and liquid nitrogen for a Starship launch. You don't need to know everything, only what’s important. After all, you don’t need to be a genius to know how to get things done. You just need to do what you need to get the job done. That's all that's important."
+  },
+  {
+    "id": 32874,
+    "title": "Hubble Spies Galaxy with Lots to See",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/hubble-spies-galaxy-with-lots-to-see/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/Hubble_NGC7569_potw2535a.jpg",
+    "news_site": "NASA",
+    "summary": "While it may appear as just another spiral galaxy among billions in the universe, this image from the NASA/ESA Hubble Space Telescope reveals a galaxy with plenty to study. The galaxy, NGC 7456, is located over 51 million light-years away in the constellation Grus (the Crane). This Hubble image reveals fine detail in the galaxy’s […]",
+    "published_at": "2025-09-05T11:00:00Z",
+    "updated_at": "2025-09-05T11:10:13.447164Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The galaxy, NGC 7456, is located over 51 million light-years away in the constellation Grus (the Crane) This Hubble image reveals fine detail in the galaxy’s patchy spiral arms, followed by clumps of dark, obscuring dust. Blossoms of glowing pink are rich reservoirs of gas where new stars are forming."
+  },
+  {
     "id": 32872,
     "title": "Duffy: “I’ll Be Damned” If U.S. Doesn’t Beat China Back to the Moon",
     "authors": [
@@ -214,26 +254,6 @@
     "detailed_news": ""
   },
   {
-    "id": 32860,
-    "title": "NASA Contract Officer Helps Power Journey Back to the Moon",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/co-patricia-white-helps-moon-journey/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/s25-025-patricia-white.jpg",
-    "news_site": "NASA",
-    "summary": "When NASA’s Artemis II mission launches in 2026, it will inspire the world through discovery in a new Golden Age of innovation and exploration. It will be another inspiring NASA moment Patricia White can add to her growing list. White supports the Artemis program to send astronauts to the Moon to prepare for future human […]",
-    "published_at": "2025-09-04T14:00:00Z",
-    "updated_at": "2025-09-04T14:10:08.675993Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 32862,
     "title": "Glittering glimpse of star birth",
     "authors": [
@@ -254,20 +274,20 @@
     "detailed_news": ""
   },
   {
-    "id": 32859,
-    "title": "Glittering Glimpse of Star Birth From NASA’s Webb Telescope",
+    "id": 32860,
+    "title": "NASA Contract Officer Helps Power Journey Back to the Moon",
     "authors": [
       {
         "name": "NASA",
         "socials": null
       }
     ],
-    "url": "https://science.nasa.gov/missions/webb/glittering-glimpse-of-star-birth-from-nasas-webb-telescope/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01K2JB3KKEFSMGWY9092BM6C7K-11K.tif",
+    "url": "https://www.nasa.gov/image-article/co-patricia-white-helps-moon-journey/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/s25-025-patricia-white.jpg",
     "news_site": "NASA",
-    "summary": "This is a sparkling scene of star birth captured by NASA’s James Webb Space Telescope. What appears to be a craggy, starlit mountaintop kissed by wispy clouds is actually a cosmic dust-scape being eaten away by the blistering winds and radiation of nearby, massive, infant stars. Called Pismis 24, this young star cluster resides in […]",
+    "summary": "When NASA’s Artemis II mission launches in 2026, it will inspire the world through discovery in a new Golden Age of innovation and exploration. It will be another inspiring NASA moment Patricia White can add to her growing list. White supports the Artemis program to send astronauts to the Moon to prepare for future human […]",
     "published_at": "2025-09-04T14:00:00Z",
-    "updated_at": "2025-09-04T14:10:08.635519Z",
+    "updated_at": "2025-09-04T14:10:08.675993Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -288,6 +308,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2025-09-04T14:00:00Z",
     "updated_at": "2025-09-04T14:10:14.991117Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 32859,
+    "title": "Glittering Glimpse of Star Birth From NASA’s Webb Telescope",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/glittering-glimpse-of-star-birth-from-nasas-webb-telescope/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/webb-STScI-01K2JB3KKEFSMGWY9092BM6C7K-11K.tif",
+    "news_site": "NASA",
+    "summary": "This is a sparkling scene of star birth captured by NASA’s James Webb Space Telescope. What appears to be a craggy, starlit mountaintop kissed by wispy clouds is actually a cosmic dust-scape being eaten away by the blistering winds and radiation of nearby, massive, infant stars. Called Pismis 24, this young star cluster resides in […]",
+    "published_at": "2025-09-04T14:00:00Z",
+    "updated_at": "2025-09-04T14:10:08.635519Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -944,45 +984,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "President Trump issued an Executive Order (EO) on Thursday excluding a number of agencies and agency subdivisions from collective bargaining representation. Some agencies were excluded from FSLMRS when the law was written, including the FBI, CIA, and the National Security Agency. Presidents may add to the list by Executive Order if an agency is “determined to have as a primary function intelligence, counterintelligence, investigative, or national security work” NASA was created as a civilian agency to emphasize the U.S. goal of using space for peaceful purposes and to encourage international cooperation. A White House fact sheet cited NASA’s development and operation of “advanced air and space technologies” as a justification for designating the agency as having intelligence, counterintelligence, investigative, or national security work as a “primary function”"
-  },
-  {
-    "id": 32825,
-    "title": "Scientists investigate moonquakes using Apollo 17 samples, LRO observations",
-    "authors": [
-      {
-        "name": "Haygen Warren",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/moonquakes-a17-lro/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/as17-140-21497large-e1756668379781.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "While Earth and Mars are known for their intense surface quakes, other terrestrial bodies in…\nThe post Scientists investigate moonquakes using Apollo 17 samples, LRO observations appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-31T21:19:05Z",
-    "updated_at": "2025-08-31T21:20:12.003999Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Moonquakes are rare and significantly weaker than earthquakes. The most powerful moonquakes reach magnitudes of around 5.0. Moonquakes occur along active fault lines on the lunar surface. These fault lines are cracks in the Moon’s crust that form due to the Moon's shrinking as its interior slowly cools. Scientists have identified thousands of active faults along the lunar surface that may be regularly producing moonquakes. For their study, the scientists analyzed surface changes near the Lee-Lincoln fault in the Taurus-Littrow valley. A magnitude 3.0 moonquake rattles the region once every 5.6 million years. NASA/JSC/ASU: August 20, 2025, August 17, 2025 and August 31, 2025. NASASpaceflight.com: May 18, 2024, December 3, 2023, April 26, 20 23, March 28, 2024, April 28, 2025 April 11, 2025 August 10, 2025 July 30, 2025    ©2005-2025 - NASAS Spaceflight."
-  },
-  {
-    "id": 32824,
-    "title": "What’s Happening in Space Policy August 31-September 6, 2025",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-31-september-6-2025/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/04/Cruz-at-Isaacman-hrg-Apr-9-25-NASA-300x199.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of August 31-September 6, 2025 and any insight we can offer about them. The House and Senate are in […]",
-    "published_at": "2025-08-31T15:35:04Z",
-    "updated_at": "2025-08-31T21:00:18.493043Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Senate Commerce Committee will hold a hearing on Wednesday entitled “There’s a Bad Moon on the Rise: How Congress and NASA Can Thwart China in the Space Race” The hearing isn’t only about the Artemis program, but it certainly will be a key focus. The House plans to take up their NDAA bill next week. The Commerce-Justice-Science (CJS) bill that funds NASA was approved by the Senate Appropriations Committee on July 17. The House Appropriations Committee was supposed to mark up the CJS bill the day before recess was scheduled to begin, but the House adjourned a day early so the markup was postponed. Several other great events are on tap this week as well, including a discussion of “Space Law Across Borders” SpacePolicyOnline.com has the right (but not the obligation) to monitor the comments and to remove any materials it deems inappropriate. We do not post comments that include links to other websites since we have no control over that content nor can we verify the security of such links. Those and other events we know about as of Sunday morning are shown below."
   }
 ]
