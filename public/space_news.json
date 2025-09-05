@@ -1,5 +1,112 @@
 [
   {
+    "id": 32872,
+    "title": "Duffy: “I’ll Be Damned” If U.S. Doesn’t Beat China Back to the Moon",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/duffy-ill-be-damned-if-u-s-doesnt-beat-china-back-to-the-moon/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/07/Sean-Duffy-200x300.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Reacting to comments at yesterday’s Senate hearing on the space race with China, acting NASA Administrator Sean Duffy forcefully exclaimed today that he fully expects the United States to get […]",
+    "published_at": "2025-09-04T23:44:27Z",
+    "updated_at": "2025-09-04T23:50:17.530055Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 32871,
+    "title": "East Coast steps up a gear for Starship’s arrival",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/09/ksc-starship-foundation/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/NSF-2025-09-03-18-33-56-730-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "As SpaceX continues to ramp up its Starship program, recent developments at Florida’s spaceports highlight…\nThe post East Coast steps up a gear for Starship’s arrival appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-09-04T22:19:27Z",
+    "updated_at": "2025-09-04T22:20:20.621522Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 32869,
+    "title": "Live coverage: SpaceX aims for 500th Falcon booster landing amid sunrise Starlink mission",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/09/04/live-coverage-spacex-aims-for-500th-falcon-booster-landing-amid-sunrise-starlink-mission/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/12/20241222-Starlink-12-2-at-39A-day.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 10-57 mission is also SpaceX’s 80th launch this year carrying Starlink satellites to low Earth obit. It’s targeting liftoff from pad 39A at NASA’s Kennedy Space Center is scheduled for 7:29 a.m. EDT (1129 UTC). ",
+    "published_at": "2025-09-04T20:50:27Z",
+    "updated_at": "2025-09-04T21:00:50.522275Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 32870,
+    "title": "Curiosity Blog, Sols 4641-4648: Thinking Outside and Inside the ‘Boxwork’",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4641-4648-thinking-outside-and-inside-the-boxwork/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04643_opgs_edr_ncam_NLB_809681934EDR_F1182028NCAM00354M_.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Ashley Stroupe, Mission Operations Engineer and Rover Planner at NASA’s Jet Propulsion Laboratory Earth planning week: Aug. 25, 2025. This week Curiosity has been exploring the boxwork unit, investigating both the ridges and the hollows to better characterize them and understand how they may have formed. We’ve been doing lots of remote science, […]",
+    "published_at": "2025-09-04T20:34:41Z",
+    "updated_at": "2025-09-04T21:10:14.907174Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "This week Curiosity has been exploring the boxwork unit, investigating both the ridges and the hollows to better characterize them and understand how they may have formed. We’ve been doing lots of remote science, contact science, and driving in each plan. And after each drive, we also use AEGIS to do some autonomous target selection."
+  },
+  {
+    "id": 32868,
+    "title": "NASA Names Amit Kshatriya Associate Administrator, Signaling Renewed Focus on Exploration",
+    "authors": [
+      {
+        "name": "Zac Aubert",
+        "socials": {
+          "x": "https://x.com/Astro_Aubert",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/zachary-aubert-43853b22/",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://tlpnetwork.com/news/america/nasa-names-amit-kshatriya-associate-administrator-signaling-renewed-focus-on-exploration",
+    "image_url": "https://cdn.tlpnetwork.com/articles/2025/1757009069123.png",
+    "news_site": "The Launch Pad",
+    "summary": "NASA Names Amit Kshatriya Associate Administrator, Signaling Renewed Focus on Exploration",
+    "published_at": "2025-09-04T18:03:00Z",
+    "updated_at": "2025-09-04T18:20:24.687150Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 32867,
     "title": "JetBlue Becomes First Airline to Join Amazon’s Project Kuiper, Upgrading Free Fly-Fi Wi-Fi",
     "authors": [
@@ -147,26 +254,6 @@
     "detailed_news": ""
   },
   {
-    "id": 32861,
-    "title": "Glittering glimpse of starbirth",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_starbirth",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/glittering_glimpse_of_starbirth/26854361-2-eng-GB/Glittering_glimpse_of_starbirth_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-09-04T14:00:00Z",
-    "updated_at": "2025-09-04T14:10:14.991117Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 32859,
     "title": "Glittering Glimpse of Star Birth From NASA’s Webb Telescope",
     "authors": [
@@ -181,6 +268,26 @@
     "summary": "This is a sparkling scene of star birth captured by NASA’s James Webb Space Telescope. What appears to be a craggy, starlit mountaintop kissed by wispy clouds is actually a cosmic dust-scape being eaten away by the blistering winds and radiation of nearby, massive, infant stars. Called Pismis 24, this young star cluster resides in […]",
     "published_at": "2025-09-04T14:00:00Z",
     "updated_at": "2025-09-04T14:10:08.635519Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 32861,
+    "title": "Glittering glimpse of starbirth",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_starbirth",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/glittering_glimpse_of_starbirth/26854361-2-eng-GB/Glittering_glimpse_of_starbirth_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-09-04T14:00:00Z",
+    "updated_at": "2025-09-04T14:10:14.991117Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -877,105 +984,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Senate Commerce Committee will hold a hearing on Wednesday entitled “There’s a Bad Moon on the Rise: How Congress and NASA Can Thwart China in the Space Race” The hearing isn’t only about the Artemis program, but it certainly will be a key focus. The House plans to take up their NDAA bill next week. The Commerce-Justice-Science (CJS) bill that funds NASA was approved by the Senate Appropriations Committee on July 17. The House Appropriations Committee was supposed to mark up the CJS bill the day before recess was scheduled to begin, but the House adjourned a day early so the markup was postponed. Several other great events are on tap this week as well, including a discussion of “Space Law Across Borders” SpacePolicyOnline.com has the right (but not the obligation) to monitor the comments and to remove any materials it deems inappropriate. We do not post comments that include links to other websites since we have no control over that content nor can we verify the security of such links. Those and other events we know about as of Sunday morning are shown below."
-  },
-  {
-    "id": 32823,
-    "title": "Live coverage: SpaceX’s Sunday morning Falcon 9 launch will send 1,900th Starlink to orbit in 2025",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/30/live-coverage-spacexs-sunday-morning-falcon-9-launch-will-send-1900th-starlink-to-orbit-in-2025/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "SpaceX continues its blistering pace of orbital launches with its ninth and final Starlink launch of August. It’s targeting liftoff of its Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station at 7:17 a.m. EDT (1117 UTC). ",
-    "published_at": "2025-08-30T17:46:55Z",
-    "updated_at": "2025-08-30T17:50:22.768563Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX will launch the Starlink 10-14 mission using the Falcon 9 first stage booster 1077, which will make its 23rd trip to space and back. Sunday’s launch will the 108th of the year. SpaceX plans to launch at least 170 Falcon 9 rockets across 2025, with the majority of those supporting its Starlink constellation. A SpaceX Falcon 9 rocket successfully took off early Sunday with a Japanese video and data relay satellite. The rocket then stuck a landing on a barge stationed nearly 400 miles east of Cape Canaveral. The launch was part of a joint venture between SpaceX and a Japanese satellite company."
-  },
-  {
-    "id": 32822,
-    "title": "Rocket Lab inaugurates LC-3 at Wallops",
-    "authors": [
-      {
-        "name": "Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/08/rocket-lab-inaugurates-lc-3-wallops/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/NSF-2025-08-30-05-07-20-754.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Rocket Lab has inaugurated Launch Complex 3 (LC-3) for its Neutron rocket, which is set…\nThe post Rocket Lab inaugurates LC-3 at Wallops appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-08-30T04:38:05Z",
-    "updated_at": "2025-08-30T04:40:11.363535Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Rocket Lab has inaugurated Launch Complex 3 (LC-3) for its Neutron rocket. The rocket is set to launch from the Mid-Atlantic Regional Spaceport (MARS) on Wallops Island, Virginia. The pad was completed in under two years by a Virginia-based team of engineers. Rocket Lab aims for Neutron’s maiden flight by the end of 2025. The first stage is powered by nine Archimedes engines (up from an original seven), while the second stage uses one vacuum-optimized archimedes engine. Both stages use liquid oxygen (LOX) and liquid methane as propellants, enabling reusability."
-  },
-  {
-    "id": 32821,
-    "title": "Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/08/29/live-coverage-spacex-to-launch-24-starlink-satellites-into-polar-orbit/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/08/20250829_Falcon-9_sunset.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 17-7 mission is the penultimate planned launch of these broadband satellites in August. SpaceX is targeting liftoff from pad 4E at 8:08 p.m. PDT (11:08 p.m. EDT / 0308 UTC). ",
-    "published_at": "2025-08-29T17:08:27Z",
-    "updated_at": "2025-08-29T17:10:18.612068Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The mission dubbed Starlink 17-7 will be the fourth and final Starlink mission to launch from California in August. SpaceX continues to bolster its low Earth orbit Starlink constellation as it rolls out the service to more countries and territories around the world. According to numbers tracked by astronomer and expert orbital tracker, Jonathan McDowell, there are more than 8,200 Starlink satellites on orbit."
-  },
-  {
-    "id": 32820,
-    "title": "SpaceX got good heat shield data for Starship, so what comes next?",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/08/spacex-got-good-heat-shield-data-for-starship-so-what-comes-next/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/starship.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"The latest upgrades are looking good!\"",
-    "published_at": "2025-08-29T16:10:39Z",
-    "updated_at": "2025-08-29T16:20:07.605079Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX's Starship rocket made a soft landing in the Indian Ocean on Tuesday. A striking orange discoloration of the second stage led to all sorts of speculation. SpaceX founder Elon Musk provided some clarity on this discolration on Thursday. Musk: \"The latest upgrades are looking good!\" SpaceX is working on a range of missions that could lead to operational Starlink satellites. The company is also likely to conduct an in-orbit refueling test. This is a key step toward allowing Starships to go to the Moon (for NASA's Artemis Program) and Mars."
-  },
-  {
-    "id": 32819,
-    "title": "NASA Astronaut Megan McArthur Retires",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-astronaut-megan-mcarthur-retires/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/megan-mcarthur-iss.jpg",
-    "news_site": "NASA",
-    "summary": "NASA astronaut Megan McArthur has retired, concluding a career spanning more than two decades. A veteran of two spaceflights, McArthur logged 213 days in space, including being the first woman to pilot a SpaceX Dragon spacecraft and the last person to “touch” the Hubble Space Telescope with the space shuttle’s robotic arm. McArthur launched as […]",
-    "published_at": "2025-08-29T15:21:40Z",
-    "updated_at": "2025-08-29T15:30:06.737825Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Megan McArthur was the first woman to pilot a SpaceX Dragon spacecraft. She was the last person to “touch” the Hubble Space Telescope with the space shuttle’s robotic arm. McArthur has served in various technical and leadership roles within NASA. She also served as the assistant director of flight operations for the International Space Station Program. “I am grateful I had the opportunity to contribute to this work, and I’m excited to watch our brilliant engineers and scientists at NASA conquer new challenges,” says Shaneequa Vereen. To learn more about NASA’s astronauts and their contributions to space exploration, visit: https://www.nasa.gov/astronauts."
   }
 ]
