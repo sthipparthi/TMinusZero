@@ -1,5 +1,30 @@
 [
   {
+    "id": 32884,
+    "title": "Live coverage: SpaceX to pass 2,000 Starlink satellites deployed in 2025 with Saturday launch",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/09/06/live-coverage-spacex-to-pass-2000-starlink-satellites-deployed-in-2025-with-saturday-launch/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/02/20240214_Starlink_7-14_prelaunch_small.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 17-9 mission will add another 24 broadband satellites to its low Earth orbit constellation of more than 8,300. SpaceX is targeting liftoff from pad 4E at Vandenberg Space Force Base at 11:05 a.m. PDT (2:05 p.m. EDT / 1805 UTC).",
+    "published_at": "2025-09-06T13:12:25Z",
+    "updated_at": "2025-09-06T13:49:26.750101Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "a0310ea9-b526-4c9b-b767-90872c1cdafd",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 32883,
     "title": "NASA Seeks Industry Input on Next Phase of Commercial Space Stations",
     "authors": [
@@ -454,26 +479,6 @@
     "detailed_news": ""
   },
   {
-    "id": 32860,
-    "title": "NASA Contract Officer Helps Power Journey Back to the Moon",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/co-patricia-white-helps-moon-journey/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/s25-025-patricia-white.jpg",
-    "news_site": "NASA",
-    "summary": "When NASA’s Artemis II mission launches in 2026, it will inspire the world through discovery in a new Golden Age of innovation and exploration. It will be another inspiring NASA moment Patricia White can add to her growing list. White supports the Artemis program to send astronauts to the Moon to prepare for future human […]",
-    "published_at": "2025-09-04T14:00:00Z",
-    "updated_at": "2025-09-04T14:10:08.675993Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 32861,
     "title": "Glittering glimpse of starbirth",
     "authors": [
@@ -488,6 +493,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2025-09-04T14:00:00Z",
     "updated_at": "2025-09-04T14:10:14.991117Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 32860,
+    "title": "NASA Contract Officer Helps Power Journey Back to the Moon",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/co-patricia-white-helps-moon-journey/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/s25-025-patricia-white.jpg",
+    "news_site": "NASA",
+    "summary": "When NASA’s Artemis II mission launches in 2026, it will inspire the world through discovery in a new Golden Age of innovation and exploration. It will be another inspiring NASA moment Patricia White can add to her growing list. White supports the Artemis program to send astronauts to the Moon to prepare for future human […]",
+    "published_at": "2025-09-04T14:00:00Z",
+    "updated_at": "2025-09-04T14:10:08.675993Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -959,25 +984,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Ted Cruz, a Texas Republican, chairs the Senate Commerce, Science, and Transportation Committee. He has made a significant shift toward supporting the SLS rocket and its chief contractor, Boeing. Cruz has made it clear that his priorities for human spaceflight are to beat China back to the Moon. NASA has contracted with SpaceX and Blue Origin to build reusable lunar landers for Artemis, without which NASA astronauts can only fly around the Moon. By itself, the SLS rocket is expected to have a flight rate of once every other year, or annually at best. If Congress wants a sustained presence on the Moon, it needs one or both of SpaceX's Starship or Blue Origin's Mark II landers to work."
-  },
-  {
-    "id": 32835,
-    "title": "What’s Up: September 2025 Skywatching Tips from NASA",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/centers-and-facilities/jpl/whats-up-september-2025-skywatching-tips-from-nasa/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2025/september/Saturn_skychart_September2025.png",
-    "news_site": "NASA",
-    "summary": "Saturn’s spectacle, a Conjunction, and the Autumnal Equinox Saturn shines throughout the month, a conjunction sparkles in the sky, and we welcome the autumnal equinox.  Skywatching Highlights Transcript What’s Up for September? Saturn puts on a spectacular show, a sunrise conjunction shines bright, and we ring in the autumnal equinox. Saturn at Opposition Saturn will […]",
-    "published_at": "2025-09-02T15:36:03Z",
-    "updated_at": "2025-09-02T16:10:07.481183Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "On September 21, Saturn will be at opposition, meaning Earth will find itself in between Saturn and the Sun, temporarily lined up. On September 22, we mark the autumnal equinox or the official start of fall in the northern hemisphere. The Moon will be nestled up right next to both Venus and Regulus."
   }
 ]
