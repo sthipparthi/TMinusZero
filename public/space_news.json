@@ -1,5 +1,25 @@
 [
   {
+    "id": 32934,
+    "title": "Perseverance Meets the Megabreccia",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2025/perseverance-rover-updates/august-2025/Mars_Perseverance_NLF_1610_0809876187_676ECM_N0790102NCAM00501_01_295J.png",
+    "news_site": "NASA",
+    "summary": "Written by By Henry Manelski, Ph.D. student at Purdue University Last week, the Perseverance rover began an exciting new journey. Driving northwest of the Soroya ridge, Perseverance entered an area filled with a diverse range of boulders that the science team believes could hold clues to Mars’ early history. The terrain we are exploring is […]",
+    "published_at": "2025-09-08T23:32:18Z",
+    "updated_at": "2025-09-09T00:10:05.844918Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Perseverance has entered an area filled with boulders that could hold clues to Mars’ early history. The terrain we are exploring is known as megabreccia : a chaotic mixture of broken rock fragments likely produced during ancient asteroid impacts. Some blocks may have originated in the gargantuan Isidis impact event, which created a 1,200-mile-wide crater just east of Jezero."
+  },
+  {
     "id": 32933,
     "title": "Launch Roundup: Cygnus XL and Progress to fly cargo missions to ISS",
     "authors": [
@@ -992,25 +1012,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The galaxy, NGC 7456, is located over 51 million light-years away in the constellation Grus (the Crane) This Hubble image reveals fine detail in the galaxy’s patchy spiral arms, followed by clumps of dark, obscuring dust. Blossoms of glowing pink are rich reservoirs of gas where new stars are forming."
-  },
-  {
-    "id": 32899,
-    "title": "Earth observation firms are trying to solve a latency problem with ‘Dynamic Targeting’",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/earth-observation-firms-are-trying-to-solve-a-latency-problem-with-dynamic-targeting/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/CogniSat-6_launched_in_March_2024-scaled.png?fit=1024%2C819&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFor years, satellite sensors have transmitted vast quantities of imagery to the ground, where analysts then discarded views obscured by clouds, identified natural features or objects and shared pictures with customers. The entire process took days. Recently, companies have cut the timeline to hours — or even less — through frequent contact with ground stations, […]\nThe post Earth observation firms are trying to solve a latency problem with ‘Dynamic Targeting’ appeared first on SpaceNews.",
-    "published_at": "2025-09-05T11:00:00Z",
-    "updated_at": "2025-09-08T05:50:20.778414Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
   }
 ]
