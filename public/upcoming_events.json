@@ -1,6 +1,6 @@
 {
-  "count": 11,
-  "last_updated": "2025-09-11T12:05:25.097402Z",
+  "count": 10,
+  "last_updated": "2025-09-11T18:02:25.204753Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,51 +10,10 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (9 successful)",
+    "AI-generated summaries (8 successful)",
     "Empty AI summaries (2 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "d4813e5c-305e-4401-ba4f-917aa1aaceae",
-      "name": "Soyuz 2.1a | Progress MS-32 (93P)",
-      "status": "Go",
-      "net": "2025-09-11T15:54:06Z",
-      "window_start": "2025-09-11T15:54:06Z",
-      "window_end": "2025-09-11T15:54:06Z",
-      "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-      "lsp_description": "The Roscosmos State Corporation for Space Activities, commonly known as Roscosmos, is the governmental body responsible for the space science program of the Russian Federation and general aerospace research. Soyuz has many launch locations the Russian sites are Baikonur, Plesetsk and Vostochny however Ariane also purchases the vehicle and launches it from French Guiana.",
-      "lsp_type": "Government",
-      "lsp_country": "RUS",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/russian2520federal2520space2520agency25202528roscosmos2529_logo_20190207032459.png",
-      "mission_name": "Progress MS-32 (93P)",
-      "mission_description": "Progress resupply mission to the International Space Station.",
-      "mission_type": "Resupply",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "31/6, Baikonur Cosmodrome, Republic of Kazakhstan",
-      "pad": "31/6",
-      "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "rocket": "Soyuz 2.1a",
-      "rocket_config_description": "The Soyuz 2.1A converted the flight control system from analog to digital, which allowed launch from fixed platforms. It also allowed big fairings and payloads.\r\nIt is currently used for crewed Soyuz and Progress flights to the ISS.",
-      "rocket_config_family": "Soyuz",
-      "rocket_config_full_name": "Soyuz 2.1a",
-      "rocket_config_total_launch_count": 52,
-      "rocket_config_successful_launches": 51,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 3,
-      "rocket_manufacturer_name": "Progress Rocket Space Center",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Progress Rocket Space Centre, formerly known as TsSKB-Progress, is a space science and aerospace research company which is known for manufacturing launch vehicles and satellites. Most notably, Progress Rocket Space Centre is the manufacturer of Soyuz launch vehicles.",
-      "rocket_manufacturer_total_launch_count": 45,
-      "rocket_manufacturer_successful_launches": 44,
-      "rocket_manufacturer_failed_launches": 1,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/d4813e5c-305e-4401-ba4f-917aa1aaceae/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": "Russian Federal Space Agency (ROSCOSMOS) will launch Soyuz 2.1a | Progress MS-32 (93P) from 31/6, Baikonur Cosmodrome, Republic of Kazakhstan."
-    },
     {
       "id": "84a2a107-1e44-4994-ad9f-430ee81a741a",
       "name": "Falcon 9 Block 5 | Nusantara Lima",
@@ -508,8 +467,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 9,
+    "successful_summaries": 8,
     "empty_summaries": 2,
-    "total_launches": 11
+    "total_launches": 10
   }
 }
