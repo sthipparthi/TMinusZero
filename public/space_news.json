@@ -1,5 +1,45 @@
 [
   {
+    "id": 33042,
+    "title": "Golden Dome’s cost: anywhere from billions to trillions, depending on design",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/golden-domes-cost-anywhere-from-billions-to-trillions-depending-on-design/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Screenshot-2025-06-04-at-1.34.59-PM.png?fit=1024%2C601&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA new report by Todd Harrison of the American Enterprise Institute estimates Golden Dome could cost from $252 billion to $3.6 trillion over 20 years, based on scope and capabilities\nThe post Golden Dome’s cost: anywhere from billions to trillions, depending on design appeared first on SpaceNews.",
+    "published_at": "2025-09-13T15:14:37Z",
+    "updated_at": "2025-09-13T15:20:24.500141Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33041,
+    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/09/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/02/20240214_Starlink_7-14_prelaunch_small.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "SpaceX is targeting a liftoff from pad 4 East at 8:41 a.m. PDT (11:41 a.m. EDT / 1541 UTC). ",
+    "published_at": "2025-09-13T13:06:12Z",
+    "updated_at": "2025-09-13T13:10:18.877159Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Starlink 17-10 mission on Saturday will add another 24 broadband internet satellites to the low Earth orbit constellation. This will be SpaceX’s 42nd launch from California this year. The launch of another 60 Starlink internet spacecraft from Cape Canaveral Sunday thrust SpaceX past a major milestone in rocket reuse: the 10th successful flight of a Falcon 9 booster."
+  },
+  {
     "id": 33040,
     "title": "60 years after Gemini, newly processed images reveal incredible details",
     "authors": [
@@ -960,53 +1000,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 32992,
-    "title": "Satellite Solar Panel Startup Astradyne Closes €2M Seed Round",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/satellite-solar-panel-startup-astradyne-closes-e2m-seed-round/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/Satellite-Solar-Panel-Startup-Astradyne-Closes-2M-Euro-Seed-Round.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Italian startup Astradyne has secured €2 million in seed funding to accelerate the development of its Solar-Z product, a lightweight solar array designed to enhance the capabilities of small satellites. Astradyne was founded in 2021 with the aim of developing an off-the-shelf deployable solar array for small satellites that is lighter, more compact, and more […]\nThe post Satellite Solar Panel Startup Astradyne Closes €2M Seed Round appeared first on European Spaceflight.",
-    "published_at": "2025-09-11T08:49:50Z",
-    "updated_at": "2025-09-11T08:50:11.272368Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 32991,
-    "title": "Eutelsat opens OneWeb ground stations to Earth observation with Ka-band boost",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/eutelsat-opens-oneweb-ground-stations-to-earth-observation-with-ka-band-boost/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/09/Eutelsat_Paris-Rambouillet_teleport_in_France_-_credit_Eutelsat_Adrien_Daste_2018_credit_.jpeg?fit=1000%2C666&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEutelsat has teamed up with French satellite connectivity startup Skynopy to offer Earth observation operators spare capacity on the ground stations used for OneWeb, its LEO broadband service.\nThe post Eutelsat opens OneWeb ground stations to Earth observation with Ka-band boost appeared first on SpaceNews.",
-    "published_at": "2025-09-11T07:00:00Z",
-    "updated_at": "2025-09-11T07:00:48.552233Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
