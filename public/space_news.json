@@ -1,5 +1,25 @@
 [
   {
+    "id": 33040,
+    "title": "60 years after Gemini, newly processed images reveal incredible details",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/01-Aldrin-Selfie-Before-After_NASA_ASU_Andy-Saunders.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"It's that level of risk that they were taking. I think that's what really hit home.\"",
+    "published_at": "2025-09-13T11:15:47Z",
+    "updated_at": "2025-09-13T11:20:05.331388Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Gemini & Mercury Remastered is a collection of 300 photographs from NASA's Mercury and Gemini programs during the 1960s. Andy Saunders meticulously restored the images and then deeply researched their background to more fully tell the stories behind them. Saunders: \"It's really the photographs that will just forever symbolize and document at the beginning of our expansion out into the cosmos\" With Apollo, they took about 35,000 photographs, with Mercury and Gemini, there were about 5,000. I went through every frame of film that was captured from launch to splashdown on every mission. The final 300 that are in the book are those that are either aesthetically stunning, or they're a big transformation. Saunders has been working on the book since the middle of 2019, nonstop. There are only about 100 million photos from the Space Shuttle era. The process I used for this, on the low-quality 16 mm film, was to stack hundreds of frames. To see this level of detail, to me, it's just like a portrait of courage."
+  },
+  {
     "id": 33039,
     "title": "Maxar executive renews warning that budget cuts threaten commercial remote sensing industry",
     "authors": [
@@ -989,25 +1009,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 32990,
-    "title": "House Passes FY2026 NDAA",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/house-passes-fy2026-ndaa/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/09/ndaa-fy26-vote-300x44.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "The House passed the FY2026 National Defense Authorization Act this evening, authorizing funding for the U.S. Space Force and other components of the Department of Defense.  Only a fraction of […]",
-    "published_at": "2025-09-11T03:41:39Z",
-    "updated_at": "2025-09-11T03:50:14.172773Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The House passed the FY2026 National Defense Authorization Act this evening. Only a fraction of the amendments offered to the NDAA were allowed to be debated on the floor. One that was not cleared would have overturned a requirement in the reconciliation bill to move a space vehicle — likely the Space Shuttle Discovery — from Virginia to Houston."
   }
 ]
