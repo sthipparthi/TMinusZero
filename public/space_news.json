@@ -1,5 +1,55 @@
 [
   {
+    "id": 33045,
+    "title": "Live coverage: SpaceX to launch new, improved Northrop Grumman Cygnus XL resupply ship to the space station",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/09/14/live-coverage-spacex-to-launch-new-improved-northrop-grumman-cygnus-xl-resupply-ship-to-the-space-station/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250913_Cygnus_XL_unboxing.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The new Cygnus XL spacecraft will deliver more than 11,000 pounds (4,990 kg) of food, science supplies and cargo to the International Space Station. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:11 a.m. EDT (2211 UTC).",
+    "published_at": "2025-09-14T13:00:19Z",
+    "updated_at": "2025-09-14T13:53:34.159063Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "3bfed6d5-d65e-4133-b51a-b664bbd9d006",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "The next cargo resupply mission to the International Space Station is launching Sunday and will feature a new iteration of the Cygnus spacecraft from Northrop Grumman. SpaceX is scheduled to launch the cargo craft atop a Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station at 6:11 a.m. EDT (2211 UTC) It will be the fourth flight of the Falcon 9 first stage booster, which entered service in April this year."
+  },
+  {
+    "id": 33044,
+    "title": "SpaceX set to launch Cygnus XL to ISS on CRS NG-23 mission",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/09/crs-ng-23/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/IMG_1665.png",
+    "news_site": "NASASpaceflight",
+    "summary": "Just days after the Progress MS-32 cargo ship launched to the International Space Station from…\r\nThe post SpaceX set to launch Cygnus XL to ISS on CRS NG-23 mission appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-09-14T12:37:37Z",
+    "updated_at": "2025-09-14T13:53:28.889199Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "3bfed6d5-d65e-4133-b51a-b664bbd9d006",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "The Cygnus XL cargo ship, named S.S. William C. “Willie” McCool after the pilot of Columbia on STS-107, is scheduled to launch atop a Falcon 9 on the NG-23 mission on Sunday, Sept. 14. Falcon 9 will liftoff from Space Launch Complex 40 (SLC-40) at the Cape Canaveral Space Force Station (CCSFS) in Florida. The launch window is instantaneous, as is typically the case with many flights to the International Space Station (ISS) The Cygnus XL cargo ship will rendezvous with the ISS on Wednesday, Sept. 17. The spacecraft will be berthed to the Station’s Unity node module nadir port. The berthing process differs from docking in that the spacecraft do not connect to the station under their own power. Once unberthed and released, the spacecraft will deorbit and perform a destructive reentry. NG-23 is the first Cygnus spacecraft to fly since the NG-21 mission in August 2024. The next cargo flight to the Station after NG-23 mission will be the first launch of Japan’s HTV-X cargo ship, which is currently scheduled for Oct. 21. The damaged NG-22 spacecraft will be manifested on a future mission."
+  },
+  {
     "id": 33043,
     "title": "NASA reestablishes contact with one of two TRACERS satellites",
     "authors": [
@@ -939,55 +989,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The fourth satellite for the Copernicus Sentinel-1 mission has arrived at Félix Eboué airport, the main airport in French Guiana. It will be transported to launch preparation facilities at the European Spaceport in Kourou. This is the start of a launch campaign that will lead up to the launch date, still to be announced. The satellite will reach its orbit on board an Ariane 6."
-  },
-  {
-    "id": 32995,
-    "title": "Progress MS-32 set for launch to ISS from Baikonur",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/09/progress-ms-32/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/IMG_1432.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "Just over two weeks after the CRS-33 cargo delivery to the International Space Station, another…\r\nThe post Progress MS-32 set for launch to ISS from Baikonur appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-09-11T13:08:29Z",
-    "updated_at": "2025-09-11T15:01:02.900410Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d4813e5c-305e-4401-ba4f-917aa1aaceae",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "The Progress MS-32 cargo ship is scheduled to dock with the International Space Station on Saturday, Sept. 13. The docking, as is usual for Progress craft, will be automated, but with a manual backup available for use if needed. The Progress spacecraft can carry up to 2,140 kg of trash for disposal. Kurs-NA requires just one phased array antenna as opposed to the old system’s use of four. The new system is also lighter and uses less power, with additional computerization, while being manufactured entirely in Russia. The TORU capability was last used in 2021, when current Station commander, Ryzhikov, used the manual backup to successfully dock Progress MS-16."
-  },
-  {
-    "id": 32994,
-    "title": "Plato arrived at ESA’s test centre by boat",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_arrived_at_ESA_s_test_centre_by_boat",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/plato_sailing_to_the_netherlands_by_boat/26862081-1-eng-GB/Plato_sailing_to_the_Netherlands_by_boat_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s Plato spacecraft has safely arrived at ESTEC, ESA’s technical heart in the Netherlands. There, engineers will complete the spacecraft by connecting its solar panels and sunshield, and carry out a series of critical tests to confirm that Plato is fit for launch and ready for its planet-hunting mission in space.",
-    "published_at": "2025-09-11T12:00:00Z",
-    "updated_at": "2025-09-11T15:00:56.555263Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "526b4a0f-f0c9-4a20-9066-e9fc8c79307b",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "Plato is scheduled to launch on an Ariane 6 rocket in December 2026. It will search for Earth-like planets orbiting stars similar to our Sun. The spacecraft is equipped with 26 ultrasensitive cameras designed to capture the tiniest variations in the intensity of a star’s light."
   }
 ]
