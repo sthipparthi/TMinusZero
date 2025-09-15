@@ -1,5 +1,25 @@
 [
   {
+    "id": 33053,
+    "title": "UK-Based Hyperspectral Data Analytics Startup Messium Raises £3.3M",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/uk-based-hyperspectral-data-analytics-startup-messium-raises-3-3m/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/UK-Based-Hyperspectral-Data-Analytics-Startup-Messium-Raises-3.3M-Updated.webp",
+    "news_site": "European Spaceflight",
+    "summary": "UK-based startup Messium has raised £3.3 million in seed funding to accelerate the rollout of its agricultural analytics platform, which uses AI to analyse hyperspectral satellite data to track nitrogen levels in crops. The analysis can then be used by farmers to more efficiently fertilise crops, minimising waste and maximising yield. On 10 September, the […]\nThe post UK-Based Hyperspectral Data Analytics Startup Messium Raises £3.3M appeared first on European Spaceflight.",
+    "published_at": "2025-09-15T11:20:14Z",
+    "updated_at": "2025-09-15T11:30:14.724725Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "UK-based startup Messium has raised £3.3 million in seed funding to accelerate the rollout of its agricultural analytics platform. The platform uses AI to analyse hyperspectral satellite data to track nitrogen levels in crops. The analysis can be used by farmers to more efficiently fertilise crops, minimising waste and maximising yield."
+  },
+  {
     "id": 33051,
     "title": "Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS",
     "authors": [
@@ -983,25 +1003,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "NASA’s James Webb Space Telescope captured this sparkling scene of star birth in an image released on Sept. 4, 2025. Called Pismis 24, this young star cluster resides in the core of the nearby Lobster Nebula, approximately 5,500 light-years from Earth."
-  },
-  {
-    "id": 33002,
-    "title": "New U.S.-European Sea Level Satellite Will Help Safeguard Ships at Sea",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/new-u-s-european-sea-level-satellite-will-help-safeguard-ships-at-sea/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/ship-waves-bering-sea-noaa.jpg",
-    "news_site": "NASA",
-    "summary": "Sea surface height data from the Sentinel-6B satellite, led by NASA and ESA, will help with the development of marine weather forecasts, alerting ships to possible dangers. Because most global trade travels by ship, accurate, timely ocean forecasts are essential. These forecasts provide crucial information about storms, high winds, and rough water, and they depend […]",
-    "published_at": "2025-09-11T17:41:16Z",
-    "updated_at": "2025-09-11T17:50:06.426760Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Sentinel-6B will provide essential sea level and other ocean data after it launches this November. The satellite will eventually take over from its twin, Sentinel-6 Michael Freilich, which launched in 2020. Both satellites have an altimeter instrument that measures sea levels, wind speeds, and wave heights, among other characteristics. Sentinel-6B will extend a long-term dataset featuring more than 30 years of sea level measurements. The dataset has turned this dataset into the gold standard sea level measurement from space. “This kind of data can’t be easily replaced,” said Mehra."
   }
 ]
