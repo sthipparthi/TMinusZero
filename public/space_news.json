@@ -1,5 +1,92 @@
 [
   {
+    "id": 33049,
+    "title": "NASA Science, Cargo Launches Aboard Northrop Grumman CRS-23",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launches-aboard-northrop-grumman-crs-23/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/northrop-grumman-crs-23-launch.png",
+    "news_site": "NASA",
+    "summary": "NASA is sending more science, technology demonstrations, and crew supplies to the International Space Station following the successful launch of the agency’s Northrop Grumman Commercial Resupply Services 23 mission, or Northrop Grumman CRS-23. The company’s Cygnus XL spacecraft, carrying more than 11,000 pounds of cargo to the orbiting laboratory, lifted off at 6:11 p.m. EDT […]",
+    "published_at": "2025-09-14T23:59:51Z",
+    "updated_at": "2025-09-15T00:00:11.639477Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Northrop Grumman Cygnus XL is scheduled to be captured at 6:35 a.m. on Wednesday, Sept. 17. The spacecraft will be installed to the Unity module’s Earth-facing port for cargo unloading. The resupply mission is carrying dozens of research experiments."
+  },
+  {
+    "id": 33048,
+    "title": "Mechele Elliott Safeguards Agency Information Systems at Johnson",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/mechele-elliott-safeguards-agency-information-systems-at-johnson/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/1000002963.jpg",
+    "news_site": "NASA",
+    "summary": "As an IT security administrator at NASA’s Johnson Space Center in Houston, Mechele Elliott protects the information systems that support astronaut health and mission readiness. The encouragement of a family friend set her on this path, leading to a rewarding and somewhat unexpected career in human spaceflight. “While I was caring for my son during […]",
+    "published_at": "2025-09-14T21:00:00Z",
+    "updated_at": "2025-09-14T21:10:12.586951Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Mechele Elliott is an IT security administrator at NASA’s Johnson Space Center in Houston. She protects the information systems that support astronaut health and mission readiness. Outside of work, Elliott enjoys several hobbies that help her relax and maintain balance. She began painting at a young age and continues to find calm through her art."
+  },
+  {
+    "id": 33047,
+    "title": "Vast backs new NASA commercial space station strategy",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/vast-backs-new-nasa-commercial-space-station-strategy/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/haven1-dragon.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWASHINGTON — The chief executive of commercial space station developer Vast says he supports NASA’s revised approach to supporting development of such stations, calling it the best way to avoid a gap in U.S. human presence in orbit. Speaking Sept. 11 at the Global Aerospace Summit, Max Haot endorsed NASA’s new strategy, announced more than […]\nThe post Vast backs new NASA commercial space station strategy appeared first on SpaceNews.",
+    "published_at": "2025-09-14T20:30:39Z",
+    "updated_at": "2025-09-14T20:40:22.787493Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33046,
+    "title": "What’s Happening in Space Policy September 14-20, 2025",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-14-20-2025/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/09/cygnus-xl-300x204.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 14-20, 2025 and any insight we can offer about them. The House and Senate are in session […]",
+    "published_at": "2025-09-14T20:18:23Z",
+    "updated_at": "2025-09-14T20:20:15.519031Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpacePolicyOnline.com's list of space policy events for the week of September 14-20, 2025. The week begins with the launch of Northrop Grumman’s next Cygnus cargo ship, NG-23, to the International Space Station at 6:11 pm ET. The House and Senate are in session this week. Nomination of Neil Jacobs to be NOAA Administrator sent back to committee. Senate Majority Leader John Thune concerned Democrats could object to the manner in which the vote was taken. Plans are underway to begin work on a Continuing Resolution to keep all of the government open when FY2026 begins on October 1."
+  },
+  {
     "id": 33045,
     "title": "Live coverage: SpaceX to launch new, improved Northrop Grumman Cygnus XL resupply ship to the space station",
     "authors": [
@@ -909,85 +996,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Northrop Grumman CRS-23 will deliver more than 11,000 pounds of science and supplies to the International Space Station. This mission will be the first flight of the Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Upper, X, Y, and Z Isolator Assemblies are launching as spares for the space station’s treadmill. Quick Don Mask Assembly – This mask is used by the crew, along with the Pre-Breath Assembly, in emergency situations. Anomaly Gas Analyzer – This analyzer senses various gases, like oxygen, carbon dioxide, carbon monoxide, ammonia, and others."
-  },
-  {
-    "id": 32998,
-    "title": "After Biosignature Announcement, Mars Sample Return Remains in Limbo",
-    "authors": [
-      {
-        "name": "Alejandro Turnbull",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacescout.info/2025/09/after-biosignature-announcement-mars-sample-return-remains-in-limbo/",
-    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2024/04/CurrentPlan.jpeg",
-    "news_site": "Space Scout",
-    "summary": "Ambitious plans by NASA and the European Space Agency to return samples of the Martian surface to Earth continue to remain in limbo even as the Agency has announced the collection of a potentially biosignature-containing sample aboard the Perseverance rover.",
-    "published_at": "2025-09-11T16:41:21Z",
-    "updated_at": "2025-09-11T16:50:19.703285Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA and the European Space Agency have announced the collection of a potentially biosignature-containing sample aboard the Perseverance rover. This sample, stored in a tube inside the rover, is intended for return to earth on a future Mars Sample Return mission. This tantalizing discovery may provide a renewed sense of urgency for Martian exploration within the second Trump administration. The potential game-changing nature of the Sapphire Canyon sample adds new urgency to the future of the Mars Sample Return program. China has announced plans to launch their own Mars sample return mission as early as 2028. Europe, meanwhile, appears intent on further developing its own Martian capabilities."
-  },
-  {
-    "id": 33016,
-    "title": "ispace-Europe Completes Key Milestone for ESA MAGPIE Lunar Rover",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/ispace-europe-completes-key-milestone-for-esa-magpie-lunar-rover/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/ispace-Europe-Completes-Key-Milestone-for-ESA-MAGPIE-Lunar-Lander-update.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Luxembourg-based ispace-Europe has completed the Mission Definition Review for the European Space Agency’s MAGPIE lunar rover mission. The Mission for Advanced Geophysics and Polar Ice Exploration (MAGPIE) is designed to prospect for water ice in the Moon’s south polar region. It will also map the distribution of hydrogen and study the geological history of the […]\nThe post ispace-Europe Completes Key Milestone for ESA MAGPIE Lunar Rover appeared first on European Spaceflight.",
-    "published_at": "2025-09-11T15:50:13Z",
-    "updated_at": "2025-09-12T09:50:11.528486Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Luxembourg-based ispace-Europe has completed the Mission Definition Review for the European Space Agency’s MAGPIE lunar rover mission. The Mission for Advanced Geophysics and Polar Ice Exploration (MAGPIE) is designed to prospect for water ice in the Moon's south polar region. It will also map the distribution of hydrogen and study the geological history of the area."
-  },
-  {
-    "id": 32996,
-    "title": "ispace-Europe Completes Key Milestone for ESA MAGPIE Lunar Lander",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/ispace-europe-completes-key-milestone-for-esa-magpie-lunar-lander/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/ispace-Europe-Completes-Key-Milestone-for-ESA-MAGPIE-Lunar-Lander-update.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Luxembourg-based ispace-Europe has completed the Mission Definition Review for the European Space Agency’s MAGPIE lunar lander mission. The Mission for Advanced Geophysics and Polar Ice Exploration (MAGPIE) is designed to prospect for water ice in the Moon’s south polar region. It will also map the distribution of hydrogen and study the geological history of the […]\nThe post ispace-Europe Completes Key Milestone for ESA MAGPIE Lunar Lander appeared first on European Spaceflight.",
-    "published_at": "2025-09-11T15:50:13Z",
-    "updated_at": "2025-09-11T15:50:22.704308Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Luxembourg-based ispace-Europe has completed the Mission Definition Review for the European Space Agency’s MAGPIE lunar lander mission. The Mission for Advanced Geophysics and Polar Ice Exploration (MAGPIE) is designed to prospect for water ice in the Moon's south polar region. It will also map the distribution of hydrogen and study the geological history of the area."
-  },
-  {
-    "id": 32997,
-    "title": "Sentinel-1D in French Guiana for launch campaign",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_in_French_Guiana_for_launch_campaign",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/unloading_sentinel-1d/26864007-1-eng-GB/Unloading_Sentinel-1D_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The fourth satellite for the Copernicus Sentinel-1 mission, Sentinel-1D, has arrived at Félix Eboué airport, the main airport in French Guiana. From there the spacecraft, safely stored in its protective casing, will be transported to launch preparation facilities at the European Spaceport in Kourou.",
-    "published_at": "2025-09-11T15:30:00Z",
-    "updated_at": "2025-09-11T16:00:15.450040Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The fourth satellite for the Copernicus Sentinel-1 mission has arrived at Félix Eboué airport, the main airport in French Guiana. It will be transported to launch preparation facilities at the European Spaceport in Kourou. This is the start of a launch campaign that will lead up to the launch date, still to be announced. The satellite will reach its orbit on board an Ariane 6."
   }
 ]

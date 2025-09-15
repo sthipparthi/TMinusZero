@@ -1,6 +1,6 @@
 {
   "count": 9,
-  "last_updated": "2025-09-14T18:01:51.084481Z",
+  "last_updated": "2025-09-15T00:04:47.641077Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,51 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (8 successful)",
-    "Empty AI summaries (1 failed/unavailable)"
+    "AI-generated summaries (9 successful)"
   ],
   "launches": [
-    {
-      "id": "3bfed6d5-d65e-4133-b51a-b664bbd9d006",
-      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-23",
-      "status": "Go",
-      "net": "2025-09-15T21:49:00Z",
-      "window_start": "2025-09-15T21:49:00Z",
-      "window_end": "2025-09-15T21:49:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Cygnus CRS-2 NG-23",
-      "mission_description": "This is the 23rd flight of the Northrop Grumman's uncrewed resupply spacecraft Cygnus and its 22nd flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
-      "mission_type": "Resupply",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Space Launch Complex 40, Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "location": "Cape Canaveral SFS, FL, USA",
-      "rocket": "Falcon 9 Block 5",
-      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
-      "rocket_config_family": "Falcon",
-      "rocket_config_full_name": "Falcon 9 Block 5",
-      "rocket_config_total_launch_count": 471,
-      "rocket_config_successful_launches": 470,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 98,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 563,
-      "rocket_manufacturer_successful_launches": 548,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/3bfed6d5-d65e-4133-b51a-b664bbd9d006/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "57b5b880-7892-42b1-a327-1c919c033cb6",
       "name": "Long March 2C/YZ-1S | Unknown Payload",
@@ -193,6 +151,55 @@
         }
       ],
       "ai_summary": "SpaceX will launch Falcon 9 Block 5 | Starlink Group 10-61 from Space Launch Complex 40, Cape Canaveral SFS, FL, USA using their Falcon 9 rocket. This Communications mission involves A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system to Low Earth Orbit."
+    },
+    {
+      "id": "92ec4610-4576-4077-b538-65272a5d6491",
+      "name": "New Shepard | NS-35",
+      "status": "Go",
+      "net": "2025-09-18T13:00:00Z",
+      "window_start": "2025-09-18T12:30:00Z",
+      "window_end": "2025-09-18T20:30:00Z",
+      "lsp_name": "Blue Origin",
+      "lsp_description": "Blue Origin is an American privately funded aerospace manufacturer and spaceflight services company set up by Amazon.com founder Jeff Bezos with its headquarters in Kent, Washington. The company is developing technologies to enable private human access to space with the goal to dramatically lower costs and increase reliability. Blue Origin currently launches its New Shepard sub-orbital vehicle from its West Texas launch site, they are currently constructing a launch pad for their orbital vehicle New Glenn at Cape Canaveral LC-36.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_logo_20190207032427.png",
+      "mission_name": "NS-35",
+      "mission_description": "NS-35 is the 35th flight for the New Shepard program. This flight will fly more than 40 scientific and research payloads to space and back, including 24 experiments from NASA’s TechRise Student Challenge and payloads for Johns Hopkins Applied Physics Laboratory, Oklahoma State University, University of Florida, Carthage College, University of Central Florida, Teledyne, Space Lab Technologies, and Teachers in Space, among others.",
+      "mission_type": "Suborbital",
+      "orbit": "Suborbital",
+      "launch_site": "West Texas Suborbital Launch Site/ Corn Ranch, Corn Ranch, Van Horn, TX, USA",
+      "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+      "location": "Corn Ranch, Van Horn, TX, USA",
+      "rocket": "New Shepard",
+      "rocket_config_description": "The New Shepard reusable launch system is a vertical-takeoff, vertical-landing (VTVL), suborbital manned rocket that is being developed by Blue Origin as a commercial system for suborbital space tourism.",
+      "rocket_config_family": "",
+      "rocket_config_full_name": "New Shepard",
+      "rocket_config_total_launch_count": 34,
+      "rocket_config_successful_launches": 33,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Blue Origin",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Blue Origin is an American privately funded aerospace manufacturer and spaceflight services company set up by Amazon.com founder Jeff Bezos with its headquarters in Kent, Washington. The company is developing technologies to enable private human access to space with the goal to dramatically lower costs and increase reliability. Blue Origin currently launches its New Shepard sub-orbital vehicle from its West Texas launch site, they are currently constructing a launch pad for their orbital vehicle New Glenn at Cape Canaveral LC-36.",
+      "rocket_manufacturer_total_launch_count": 35,
+      "rocket_manufacturer_successful_launches": 34,
+      "rocket_manufacturer_failed_launches": 1,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new2520shepard_image_20190207032624.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/92ec4610-4576-4077-b538-65272a5d6491/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "New Shepard Mission NS-35 Webcast",
+          "description": "Blue Origin’s 35th New Shepard flight and 15th payload mission will liftoff from Launch Site One in West Texas on Saturday, August 23. This flight will carry more than 40 scientific and research paylo...",
+          "feature_image": "https://i.ytimg.com/vi/J626rJR0v5g/maxresdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=J626rJR0v5g"
+        }
+      ],
+      "ai_summary": "The New Shepard reusable launch system is a vertical-takeoff, vertical-landing (VTVL), suborbital manned rocket that is being developed by Blue Origin. This flight will fly more than 40 scientific and research payloads to space and back."
     },
     {
       "id": "161ca0fe-fef2-40a3-88f8-de777c7fc895",
@@ -419,8 +426,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 8,
-    "empty_summaries": 1,
+    "successful_summaries": 9,
+    "empty_summaries": 0,
     "total_launches": 9
   }
 }
