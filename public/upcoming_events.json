@@ -1,6 +1,6 @@
 {
-  "count": 11,
-  "last_updated": "2025-09-15T18:03:10.324170Z",
+  "count": 10,
+  "last_updated": "2025-09-16T06:02:06.753846Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (11 successful)"
+    "AI-generated summaries (10 successful)"
   ],
   "launches": [
-    {
-      "id": "57b5b880-7892-42b1-a327-1c919c033cb6",
-      "name": "Long March 2C/YZ-1S | Unknown Payload",
-      "status": "Go",
-      "net": "2025-09-15T01:20:00Z",
-      "window_start": "2025-09-15T01:15:00Z",
-      "window_end": "2025-09-15T01:43:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Launch Area 4 (SLS-2 / 603), Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 4 (SLS-2 / 603)",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Long March 2C/YZ-1S",
-      "rocket_config_description": "The Long March 2C is a family of expendable launch vehicles made and operated by China. It is a two stage launch vehicle with storable propellants, consisting of Nitrogen Tetroxide and Unsymmetrical Dimethylhydrazine.",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 2C/YZ-1S",
-      "rocket_config_total_launch_count": 8,
-      "rocket_config_successful_launches": 7,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 541,
-      "rocket_manufacturer_successful_launches": 527,
-      "rocket_manufacturer_failed_launches": 14,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2c-i_image_20210908194304.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/57b5b880-7892-42b1-a327-1c919c033cb6/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": "The Long March 2C is a family of expendable launch vehicles made and operated by China. It is a two stage launch vehicle with storable propellants, consisting of Nitrogen Tetroxide and Unsymmetrical Dimethylhydrazine. The rocket has a track record of (7/8 successful launches)."
-    },
     {
       "id": "64b19cd9-9b2a-4724-890b-6a7001eb3644",
       "name": "Falcon 9 Block 5 | Starlink Group 17-12",
@@ -524,8 +483,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 11,
+    "successful_summaries": 10,
     "empty_summaries": 0,
-    "total_launches": 11
+    "total_launches": 10
   }
 }
