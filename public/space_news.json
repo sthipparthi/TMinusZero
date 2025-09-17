@@ -1,5 +1,52 @@
 [
   {
+    "id": 33107,
+    "title": "Thruster issue delays Cygnus arrival at ISS",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/thruster-issue-delays-cygnus-arrival-at-iss/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/iss071e416851large.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA is delaying the arrival of a Cygnus spacecraft at the International Space Station to investigate a thruster problem with the cargo vehicle.\nThe post Thruster issue delays Cygnus arrival at ISS appeared first on SpaceNews.",
+    "published_at": "2025-09-17T03:38:07Z",
+    "updated_at": "2025-09-17T03:40:18.552024Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33106,
+    "title": "Cygnus Cargo Ship Enroute to ISS Experiences Propulsion Anomalies",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/cygnus-cargo-ship-enroute-to-iss-experiences-propulsion-anomalies/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/09/cygnus-xl-300x204.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The Northrop Grumman Cygnus cargo ship loaded with 11,000 pounds of experiments and supplies for the International Space Station will not dock tomorrow morning as planned. Launched on Sunday, the […]",
+    "published_at": "2025-09-17T03:07:55Z",
+    "updated_at": "2025-09-17T03:10:25.397966Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NG-23 spacecraft experienced propulsion anomalies today as it raised its orbit to match that of the ISS. NASA and Northrop Grumman are assessing what steps are needed next. A new arrival date is to be determined. NG-23 lifted off on time Sunday evening at 6:11 pm ET aboard a SpaceX Falcon 9 from Cape Canaveral."
+  },
+  {
     "id": 33105,
     "title": "NASA, Northrop Grumman postpone Cygnus XL arrival to ISS following propulsion issue",
     "authors": [
@@ -996,45 +1043,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Rocky Mountains offer similar visual illusions and flight environments to the Moon. The newly certified lander flight training course marks a key milestone in crew training for Artemis missions. Through Artemis, NASA will explore the lunar South Pole, paving the way for human exploration farther into the solar system, including Mars."
-  },
-  {
-    "id": 33058,
-    "title": "To lead in space, we must go all-in on our industrial base",
-    "authors": [
-      {
-        "name": "Casey Anglada DeRaad",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/to-lead-in-space-we-must-go-all-in-on-our-industrial-base/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/53359913328_b82878da3e_h.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe United States space enterprise is undergoing a sweeping transformation: commercial innovation is progressing at an incredible pace, with profound implications for national defense, economic competitiveness and industrial resilience. The shift represents unprecedented urgency across all levels of government to drive greater commercial space integration. At our annual 2025 State of the Space Industrial Base […]\nThe post To lead in space, we must go all-in on our industrial base appeared first on SpaceNews.",
-    "published_at": "2025-09-15T13:00:00Z",
-    "updated_at": "2025-09-15T13:10:32.845195Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33057,
-    "title": "Military spending and direct-to-device competition are reshaping the space economy",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/military-spending-and-direct-to-device-competition-are-reshaping-the-space-economy/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/sp.png?fit=1024%2C577&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nPARIS – Expanding defense budgets and the direct-to-device race are driving growth in the global space economy, Novaspace CEO Pacôme Révillon, said at the outset of the World Space Business Week conference here. At the same time, the space sector is experiencing significant consolidation, with an average of more than 50 annual mergers and acquisitions completed […]\nThe post Military spending and direct-to-device competition are reshaping the space economy appeared first on SpaceNews.",
-    "published_at": "2025-09-15T12:50:44Z",
-    "updated_at": "2025-09-15T13:00:26.050874Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
   }
 ]
