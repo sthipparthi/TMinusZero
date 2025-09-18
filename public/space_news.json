@@ -1,5 +1,377 @@
 [
   {
+    "id": 33148,
+    "title": "NASA’s Chandra Finds Black Hole With Tremendous Growth",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/chandra/nasas-chandra-finds-black-hole-with-tremendous-growth/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/red6.jpg",
+    "news_site": "NASA",
+    "summary": "A black hole is growing at one of the fastest rates ever recorded, according to a team of astronomers. This discovery from NASA’s Chandra X-ray Observatory may help explain how some black holes can reach enormous masses relatively quickly after the big bang. The black hole weighs about a billion times the mass of the […]",
+    "published_at": "2025-09-18T17:31:55Z",
+    "updated_at": "2025-09-18T17:40:09.507735Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33146,
+    "title": "ISS Operations Continue with New Cargo and Crews",
+    "authors": [
+      {
+        "name": "Nik Alexander",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2025/09/iss-operations-continue-with-new-cargo-and-crews/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/09/davidfilm.jpg",
+    "news_site": "Space Scout",
+    "summary": "NASA’s flagship laboratory, the International Space Station (ISS), has returned to a period of normalcy, but as the facility approaches its third decade of operation - considerable shakeups and changes are expected as the space agencies responsible face an uncertain future.",
+    "published_at": "2025-09-18T16:41:29Z",
+    "updated_at": "2025-09-18T16:55:41.775422Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "8c2412ae-fbef-443f-aae8-db538f38eec6",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "3bfed6d5-d65e-4133-b51a-b664bbd9d006",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "e8e93778-657c-401c-9c88-3cd4c7c45c9d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33145,
+    "title": "Building a Lunar Network: Johnson Tests Wireless Technologies for the Moon",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-jett7-nov-2024-121.jpg",
+    "news_site": "NASA",
+    "summary": "NASA engineers are strapping on backpacks loaded with radios, cameras, and antennas to test technology that might someday keep explorers connected on the lunar surface. Their mission: test how astronauts on the Moon will stay connected during Artemis spacewalks using 3GPP (LTE/4G and 5G) and Wi-Fi technologies.  With Artemis, NASA will establish a long-term presence […]",
+    "published_at": "2025-09-18T16:37:50Z",
+    "updated_at": "2025-09-18T16:40:06.237408Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33147,
+    "title": "New NASA Mission to Reveal Earth’s Invisible ‘Halo’",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/uncategorized/new-nasa-mission-to-reveal-earths-invisible-halo/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/geospace/moon-based-telescope.jpg",
+    "news_site": "NASA",
+    "summary": "A new NASA mission will capture images of Earth’s invisible “halo,” the faint light given off by our planet’s outermost atmospheric layer, the exosphere, as it morphs and changes in response to the Sun. Understanding the physics of the exosphere is a key step toward forecasting dangerous conditions in near-Earth space, a requirement for protecting […]",
+    "published_at": "2025-09-18T16:15:49Z",
+    "updated_at": "2025-09-18T17:10:13.866491Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33144,
+    "title": "Milky Way Views",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/milky-way-views/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/iss073e0516005orig.jpg",
+    "news_site": "NASA",
+    "summary": "The Milky Way appears above Earth’s bright atmospheric glow in this Aug. 23, 2025, photograph from the International Space Station as it soared 261 miles above southern Iran at approximately 12:54 a.m. local time. The camera was configured for low light and long duration settings. Our home galaxy has hundreds of billions of stars, enough […]",
+    "published_at": "2025-09-18T16:14:05Z",
+    "updated_at": "2025-09-18T16:20:06.639811Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33143,
+    "title": "Educating customers may be half the battle for nascent hyperspectral sector",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/rsz_wy.png?fit=879%2C682&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nPARIS – A significant challenge for hyperspectral satellite operators is alerting potential customers to promising applications, according to speakers at the Summit on Earth Observation Business here. Hyperspectral datasets can reveal atmospheric greenhouse gases, identify stores of lithium and other high-value minerals, measure nitrogen in agricultural fields, and pinpoint the telltale signs of biological, nuclear […]\nThe post Educating customers may be half the battle for nascent hyperspectral sector appeared first on SpaceNews.",
+    "published_at": "2025-09-18T15:35:32Z",
+    "updated_at": "2025-09-18T15:40:26.305212Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33142,
+    "title": "Blue Origin retires New Shepard capsule after payload flight",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/blue-origin-retires-new-shepard-capsule-after-payload-flight/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/ns35-descent.jpeg?fit=1024%2C647&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Blue Origin is retiring a New Shepard capsule that flew a dozen uncrewed missions over nearly eight years.\r\nThe post Blue Origin retires New Shepard capsule after payload flight appeared first on SpaceNews.",
+    "published_at": "2025-09-18T15:08:48Z",
+    "updated_at": "2025-09-18T16:54:22.225708Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "92ec4610-4576-4077-b538-65272a5d6491",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33141,
+    "title": "New military satcom services program to focus on ‘maneuverable’ small GEO satellites",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/new-military-satcom-services-program-to-focus-on-maneuverable-small-geo-satellites/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/HummingSat-scaled.jpg?fit=1024%2C654&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe U.S. Space Force this week issued a new request for information for the Maneuverable Geosynchronous Orbit (MGEO) Commercial Satellite-Based Services program\nThe post New military satcom services program to focus on ‘maneuverable’ small GEO satellites appeared first on SpaceNews.",
+    "published_at": "2025-09-18T14:51:08Z",
+    "updated_at": "2025-09-18T15:00:37.259333Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33139,
+    "title": "Construction Officially Begins on Multi-User Launch Facility in French Guiana",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/construction-officially-begins-on-multi-user-launch-facility-in-french-guiana/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/Construction-Officially-Begins-on-Multi-User-Launch-Facility-in-French-Guiana.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The French space agency CNES has officially begun construction of a new multi-user commercial launch facility on the grounds of the Guiana Space Centre in French Guiana. In early 2021, CNES announced plans to convert the old Diamant launch site at the Guiana Space Centre into a new multi-user facility for commercial launch providers operating […]\nThe post Construction Officially Begins on Multi-User Launch Facility in French Guiana appeared first on European Spaceflight.",
+    "published_at": "2025-09-18T14:35:22Z",
+    "updated_at": "2025-09-18T14:40:21.757158Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33140,
+    "title": "Northrop Grumman cargo ship reaches space Station",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/09/18/northrop-grumman-cargo-ship-reaches-space-station/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250918_CygnusXL_rendezvous.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The capture came after Northrop Grumman engineers adjusted the sensitivity of main engine fault detection software that prematurely triggered shut downs during two rendezvous thruster firings Tuesday.",
+    "published_at": "2025-09-18T14:31:58Z",
+    "updated_at": "2025-09-18T16:53:34.278111Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "3bfed6d5-d65e-4133-b51a-b664bbd9d006",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1243,
+        "provider": "Launch Library 2"
+      },
+      {
+        "event_id": 1277,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 33138,
+    "title": "NASA’s Hubble Sees White Dwarf Eating Piece of Pluto-Like Object",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-sees-white-dwarf-eating-piece-of-pluto-like-object/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2025/09/STScI-01K4FHRVYTEF017J1HWGE8TPSF.tif",
+    "news_site": "NASA",
+    "summary": "In our nearby stellar neighborhood, a burned-out star is snacking on a fragment of a Pluto-like object. With its unique ultraviolet capability, only NASA’s Hubble Space Telescope could identify that this meal is taking place. The stellar remnant is a white dwarf about half the mass of our Sun, but that is densely packed into […]",
+    "published_at": "2025-09-18T13:59:50Z",
+    "updated_at": "2025-09-18T16:53:24.791731Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33137,
+    "title": "AI, sovereignty and the next generation of satellites",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/ai-sovereignty-and-the-next-generation-of-satellites/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/otoole-blacksky-ceo-series-spaceminds-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIn this week’s special CEO Series edition of Space Minds, we're at the World Space Business Week in Paris. In today's episode, SpaceNews editor Mike Gruss talks with Brian O'Toole, CEO of BlackSky.\nThe post AI, sovereignty and the next generation of satellites appeared first on SpaceNews.",
+    "published_at": "2025-09-18T13:30:39Z",
+    "updated_at": "2025-09-18T13:40:25.694126Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33136,
+    "title": "Stratospheric pseudo-satellites nearing commercial role in hybrid space networks",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/stratospheric-pseudo-satellites-nearing-commercial-role-in-hybrid-space-networks/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/HAPS-panel.jpg?fit=1024%2C574&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nStratospheric pseudo-satellites are shedding their reputation as fringe experiments as governments and industry step up demand, according to executives closing in on commercial services for their high-altitude platform stations (HAPS).\nThe post Stratospheric pseudo-satellites nearing commercial role in hybrid space networks appeared first on SpaceNews.",
+    "published_at": "2025-09-18T13:14:40Z",
+    "updated_at": "2025-09-18T13:20:19.572360Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33134,
+    "title": "Lone Star space: How Texas can revitalize its galactic industry",
+    "authors": [
+      {
+        "name": "Dhaval Jadav",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/lone-star-space-how-texas-can-revitalize-its-galactic-industry/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Texas.A2002317.1720.500m-scaled.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIn 1970, the crew aboard Apollo 13 called back to Earth to report the catastrophic failure of its oxygen supply. Their famous phrase “Houston, we have a problem” and the subsequent solution piqued the national imagination, representing the indomitable resolve and ingenuity of America’s space program. Since then, the public appetite for space has declined. […]\nThe post Lone Star space: How Texas can revitalize its galactic industry appeared first on SpaceNews.",
+    "published_at": "2025-09-18T13:00:00Z",
+    "updated_at": "2025-09-18T13:10:22.712998Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33133,
+    "title": "Cygnus arrives at ISS after thruster glitch",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/cygnus-arrives-at-iss-after-thruster-glitch/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/ng23-arrival2.jpeg?fit=1024%2C572&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "A Cygnus cargo spacecraft arrived at the International Space Station Sept. 19 after a one-day delay caused by a thruster issue.\r\nThe post Cygnus arrives at ISS after thruster glitch appeared first on SpaceNews.",
+    "published_at": "2025-09-18T12:08:19Z",
+    "updated_at": "2025-09-18T16:53:18.880205Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "3bfed6d5-d65e-4133-b51a-b664bbd9d006",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1243,
+        "provider": "Launch Library 2"
+      },
+      {
+        "event_id": 1277,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
     "id": 33131,
     "title": "Defense and security agencies propel demand for Earth-observation data",
     "authors": [
@@ -700,326 +1072,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "NASA and its partners recently tested a tool for remotely piloted operations that could enable operators to transport people and goods more efficiently within urban areas. The team’s goal is to ensure that when these remotely Piloted aircraft – including electric vertical takeoff and landing vehicles (eVTOLs) – take to the skies, air traffic controllers won’t be overburdened."
-  },
-  {
-    "id": 33099,
-    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/09/16/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/03/20250320_F9_SLC-4E_small.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 17-12 mission will send the two dozen broadband internet satellites into a polar, low Earth orbit. SpaceX is targeting liftoff from pad 4E at Vandenberg Space Force Base at 8:43 a.m. PDT (11:43 a.m. EDT / 1543 UTC). ",
-    "published_at": "2025-09-16T18:37:55Z",
-    "updated_at": "2025-09-16T18:40:20.762421Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Starlink 17-12 mission is the 83rd mission supporting SpaceX’s megaconstellation so far in 2025. The company aims to launch its Falcon 9 rocket from pad 4E at Vandenberg Space Force Base at 8:43 a.m. PDT. Nearly 8.5 minutes after taking off from the California coast, SpaceX plans to land B1088 on the drone ship ‘Of Course I Still Love You’ If successful, this will be the 152nd landing on this vessel and the 506th booster landing to date."
-  },
-  {
-    "id": 33098,
-    "title": "Architecture Workshop Registration Requests",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/architecture-workshop-registration-request/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/martianastronaut-still-03-4k.png",
-    "news_site": "NASA",
-    "summary": "Please fill out the form below to request registration for the 2026 Moon to Mars Architecture workshops. A request to register does not guarantee participation in the event. Form coming soon…",
-    "published_at": "2025-09-16T18:28:48Z",
-    "updated_at": "2025-09-16T18:30:09.705841Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A request to register does not guarantee participation in the event. NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. Please fill out the form below to request registration for the 2026 Moon to Mars Architecture workshops."
-  },
-  {
-    "id": 33097,
-    "title": "Starship Block 3 development continues at Starbase and McGregor",
-    "authors": [
-      {
-        "name": "Adrian Beil and Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/09/spacex-starship-block-3-engine-testing-mcgregor/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/NSF-2025-09-16-19-19-36-760.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "SpaceX is gearing up for the next evolution of Starship, with Block 3 hardware on…\nThe post Starship Block 3 development continues at Starbase and McGregor appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-09-16T18:20:13Z",
-    "updated_at": "2025-09-16T18:20:19.655645Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX is gearing up for the next evolution of Starship, with Block 3 hardware on display at Starbase. SpaceX is set to begin launches with the Block 3 vehicle in 2026. Glimpses of Ship 39 are providing visual updates on the Flight 12 vehicle, currently housed in scaffolding within the Starfactory. SpaceX's McGregor, Texas, facility experienced a busy week, with 20 engine tests conducted. Eight involved Raptor engines, while the remainder focused on Merlin engines. A standout achievement occurred on Wednesday at the Raptor South Stand, now dedicated to Raptor 3 variants. The immediate focus remains on the upcoming Flight 11 of Starship, the final launch of the Block 2 vehicle."
-  },
-  {
-    "id": 33096,
-    "title": "Webinar Series: Teaching with EMERGE & GLOBE Mission Mosquito",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/get-involved/citizen-science/webinar-series-teaching-with-emerge-globe-mission-mosquito/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2025/emerge_landsat-1-Cassie-Soeffing.jpg",
-    "news_site": "NASA",
-    "summary": "Educators, join our free two-part webinar, and learn about bringing coding and citizen science to your learners! The Global Learning and Observation to Benefit the Environment (GLOBE) program is a science and education program that focuses on advancing Earth systems science through data collection and analysis by citizen scientists. These webinars introduce GLOBE Mission Mosquito—a global program where […]",
-    "published_at": "2025-09-16T17:49:26Z",
-    "updated_at": "2025-09-16T18:10:15.157005Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Learn about bringing coding and citizen science to your learners. The GLOBE program is a science and education program that focuses on advancing Earth systems science through data collection and analysis by citizen scientists. You’ll learn how students can collect mosquito habitat and land cover data with the free GLOBe Observer app."
-  },
-  {
-    "id": 33095,
-    "title": "Kepler Communications CEO talks sovereignty, security, and space data",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/kepler-communications-ceo-talks-sovereignty-security-and-space-data/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/mitry-ceo-kepler-communications-ceo-series-spaceminds-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this week’s special CEO Series edition of Space Minds, we're at the World Space Business Week in Paris. In today's episode, SpaceNews editor Mike Gruss talks with Mina Mitry, CEO of Kepler Communications. \nThe post Kepler Communications CEO talks sovereignty, security, and space data appeared first on SpaceNews.",
-    "published_at": "2025-09-16T17:08:07Z",
-    "updated_at": "2025-09-16T17:10:31.355901Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33094,
-    "title": "An Eye-catching Star Cluster",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/an-eye-catching-star-cluster/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/54735875999-125f41fdb7-o.jpg",
-    "news_site": "NASA",
-    "summary": "Westerlund 1, the biggest and closest “super” star cluster to Earth, dazzles in this image released on July 23, 2025. This view combines x-ray data from NASA’s Chandra X-ray Observatory (in pink, blue, purple, and orange), infrared data from NASA’s James Webb Space Telescope (in yellow, gold, and blue), and optical data from NASA’s Hubble […]",
-    "published_at": "2025-09-16T16:40:15Z",
-    "updated_at": "2025-09-16T16:50:05.321072Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Westerlund 1 is the biggest and closest “super” star cluster to Earth. Data from Chandra and other telescopes is helping astronomers delve deeper into this galactic factory. Observations from Chandra have uncovered thousands of individual stars pumping out X-ray emission into the cluster."
-  },
-  {
-    "id": 33093,
-    "title": "A new report finds China’s space program will soon equal that of the US",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/09/a-new-report-finds-chinas-space-program-will-soon-equal-that-of-the-us/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2183848672.jpg",
-    "news_site": "Arstechnica",
-    "summary": "China \"poised to overtake us in the next five to 10 years if we don't do something.\"",
-    "published_at": "2025-09-16T16:22:38Z",
-    "updated_at": "2025-09-16T16:30:06.541427Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A new report looks at China's space ambitions and the threat they pose to the U.S. The report was sponsored by the Commercial Space Federation, which advocates for the country's commercial space industry. The Chinese government made a key decision in 2014, known as \"Document 60,\" that allowed native companies to license government technology and for private capital to be used. The report is named after the wavelength shift of light for objects accelerating away. The bottom line, Cavossa said, is that now represents the last possible opportunity for the United States to make investments. If not, China will soon reach parity and potentially move ahead, hence the decision to name the report."
-  },
-  {
-    "id": 33091,
-    "title": "SpaceX planning first tests of new direct-to-device spectrum next year",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/spacex-planning-first-tests-of-new-direct-to-device-spectrum-next-year/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/wsbw25-shotwell.jpeg?fit=1024%2C769&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpaceX expects to begin testing direct-to-device services using newly acquired spectrum from EchoStar as soon as the end of next year.\nThe post SpaceX planning first tests of new direct-to-device spectrum next year appeared first on SpaceNews.",
-    "published_at": "2025-09-16T15:46:12Z",
-    "updated_at": "2025-09-16T15:50:26.740484Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33092,
-    "title": "Viasat and Space42 to pool satellite spectrum for direct-to-device services",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/viasat-and-space42-to-pool-satellite-spectrum-for-direct-to-device-services/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/equatys-announcement-logo-lock-up-scaled.png?fit=1024%2C722&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nViasat and Space42 have agreed to combine geostationary Mobile Satellite Services resources, aiming to create the world’s largest coordinated spectrum block for direct-to-device services within three years.\nThe post Viasat and Space42 to pool satellite spectrum for direct-to-device services appeared first on SpaceNews.",
-    "published_at": "2025-09-16T15:46:07Z",
-    "updated_at": "2025-09-16T15:50:26.754672Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33090,
-    "title": "PLD Space Completes MIURA 5 Stage 1 Burst Test",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-stage-1-burst-test/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/PLD-Space-Completes-MIURA-5-Stage-1-Burst-Test.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Spanish rocket builder PLD Space has successfully completed a burst test of a full-scale prototype of its MIURA 5 first stage booster. PLD Space was founded in 2011 and is developing a range of launch vehicles from its small single-stage suborbital MIURA 1 to the multi-booster MIURA Next Super Heavy rocket, which is designed to […]\nThe post PLD Space Completes MIURA 5 Stage 1 Burst Test appeared first on European Spaceflight.",
-    "published_at": "2025-09-16T15:43:52Z",
-    "updated_at": "2025-09-16T15:50:17.096857Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Spanish rocket builder PLD Space has successfully completed a burst test of a full-scale prototype of its MIURA 5 first stage booster. The test subjected the stage to pressures beyond its intended operating limits to determine the point of structural failure. The company will now proceed with a fully integrated qualification model of the stage that includes all the elements required for flight."
-  },
-  {
-    "id": 33088,
-    "title": "BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/blacksky-wins-second-nga-luno-contract-to-track-global-changes-with-satellites-and-ai/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Gy-EmccXsAkw3pj.jpeg?fit=1024%2C636&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe deal underscores NGA’s push to fold commercial satellite data and artificial intelligence into U.S. national security workflows.\nThe post BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI appeared first on SpaceNews.",
-    "published_at": "2025-09-16T15:03:21Z",
-    "updated_at": "2025-09-16T15:10:21.439083Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33087,
-    "title": "Regions on Asteroid Explored by NASA’s Lucy Mission Get Official Names",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/solar-system/regions-on-asteroid-explored-by-nasas-lucy-mission-get-official-names/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lucy/Donaldjohanson%20Postcard.png",
-    "news_site": "NASA",
-    "summary": "The IAU (International Astronomical Union), a global naming authority for celestial objects, has approved official names for features on Donaldjohanson, an asteroid NASA’s Lucy spacecraft visited on April 20.",
-    "published_at": "2025-09-16T15:01:58Z",
-    "updated_at": "2025-09-16T15:10:06.155403Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The IAU (International Astronomical Union) has approved official names for features on Donaldjohanson, an asteroid NASA’s Lucy spacecraft visited on April 20. The asteroid was named in 2015 after paleoanthropologist Donald Johanson, discoverer of one of the most famous fossils ever found."
-  },
-  {
-    "id": 33089,
-    "title": "How NASA’s Roman Mission Will Unveil Our Home Galaxy Using Cosmic Dust",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-unveil-our-home-galaxy-using-cosmic-dust/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/wavelength-extinction-3d-v1.gif",
-    "news_site": "NASA",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope will help scientists better understand our Milky Way galaxy’s less sparkly components — gas and dust strewn between stars, known as the interstellar medium. One of Roman’s major observing programs, called the Galactic Plane Survey, will peer through our galaxy to its most distant edge, mapping roughly 20 billion […]",
-    "published_at": "2025-09-16T15:00:00Z",
-    "updated_at": "2025-09-16T15:20:07.120053Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA's Nancy Grace Roman Space Telescope will help scientists better understand our Milky Way galaxy’s less sparkly components. Roman will peer through our galaxy to its most distant edge, mapping roughly 20 billion stars. Scientists will use data from these stars to study and map the dust their light travels through. Roman will identify young clusters of stars in new, distant star-forming regions. Roman’s data will be available to the public online via the Roman Research Nexus and the Barbara A. Mikulski Archive for Space Telescopes. Roman is slated to launch no later than May 2027, with a potential early launch as soon as fall 2026."
-  },
-  {
-    "id": 33086,
-    "title": "SES moves to iterative MEO deployment with K2 Space partnership",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ses-moves-to-iterative-meo-deployment-with-k2-space-partnership/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/SES-CEO-at-WSBW-scaled.jpg?fit=1024%2C632&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSES announced plans Sept. 16 to deploy a satellite co-developed with manufacturing startup K2 Space early next year, marking the start of a more iterative approach to upgrading its MEO broadband constellation.\nThe post SES moves to iterative MEO deployment with K2 Space partnership appeared first on SpaceNews.",
-    "published_at": "2025-09-16T14:37:56Z",
-    "updated_at": "2025-09-16T14:50:22.579055Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33085,
-    "title": "NASA Makes Webby 30s List of Most Iconic, Influential on Internet",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/hq/nasa-makes-webby-30s-list-of-most-iconic-influential-on-internet/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-webby-image-2-sept-2025.jpg",
-    "news_site": "NASA",
-    "summary": "NASA has earned a spot on The Webby 30, a curated list celebrating 30 companies and organizations that have shaped the digital landscape. “This honor reflects the talent of NASA’s communications professionals who bring our story to life,” said Will Boyington, associate administrator for the Office of Communications at NASA Headquarters in Washington. “Being recognized […]",
-    "published_at": "2025-09-16T14:36:18Z",
-    "updated_at": "2025-09-16T14:40:19.757377Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Webby 30 is a curated list celebrating 30 companies and organizations that have shaped the digital landscape. NASA’s inclusion in the list underscores the agency's long-standing commitment to sharing its awe-inspiring missions, discoveries, and educational resources with audiences around the globe."
   }
 ]
