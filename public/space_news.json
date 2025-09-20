@@ -1,5 +1,37 @@
 [
   {
+    "id": 33180,
+    "title": "NASA revives VIPER lunar rover mission with Blue Origin lander award",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/viper-bluemoon.jpeg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "NASA has revived a robotic lunar rover mission by selecting Blue Origin to deliver it to the moon’s south pole in 2027.\r\nThe post NASA revives VIPER lunar rover mission with Blue Origin lander award appeared first on SpaceNews.",
+    "published_at": "2025-09-20T06:07:43Z",
+    "updated_at": "2025-09-20T06:57:06.355196Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "c5ebc8b1-ae7f-4e8d-8619-99bbe0d8025a",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "NASA has revived a robotic lunar rover mission by selecting Blue Origin. Blue Origin will deliver it to the moon’s south pole in 2027. VIPER will search for water ice at the lunar south pole, including in permanently shadowed craters. In July 2024, NASA said it would cancel VIPER , citing cost overruns. Get unlimited access to SpaceNews.com for as low as $5 per week. You’ll also receive our weekly SpaceNews This Week newsletter every Friday. Opt-out at any time. Sales tax may apply. No refunds. (*Billed quarterly) See all subscription options."
+  },
+  {
     "id": 33179,
     "title": "The Ancient Mars Variety Show",
     "authors": [
@@ -1034,26 +1066,6 @@
     "summary": "\nAstra is targeting next summer for the first flight of its Rocket 4 vehicle as the company prepares to reenter the launch market.\nThe post Astra plans mid-2026 first launch of Rocket 4 appeared first on SpaceNews.",
     "published_at": "2025-09-18T10:10:15Z",
     "updated_at": "2025-09-18T10:10:41.418340Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33132,
-    "title": "Phoebus: keeping cool with oxygen",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Phoebus_keeping_cool_with_oxygen",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/phoebus_team/26874516-2-eng-GB/Phoebus_team_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-09-18T08:44:00Z",
-    "updated_at": "2025-09-18T12:00:23.526867Z",
     "featured": false,
     "launches": [],
     "events": [],
