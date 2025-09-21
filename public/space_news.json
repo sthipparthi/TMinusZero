@@ -1,5 +1,82 @@
 [
   {
+    "id": 33184,
+    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/09/20/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/02/20250211_Starlink_12-18_prelaunch.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 10-27 mission will be the 280th orbital launch for SpaceX from Cape Canaveral Space Force Station. Liftoff from Space Launch Complex 40 is scheduled for 6:53 a.m. EDT (1053 UTC). ",
+    "published_at": "2025-09-20T23:19:41Z",
+    "updated_at": "2025-09-20T23:20:18.104216Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX is preparing for a near sunrise Falcon 9 launch from Cape Canaveral on Sunday. The Starlink 10-27 mission will send 28 Starlink V2 Mini satellites into low Earth orbit. The rocket will head away from Florida’s Space Coast on a north-easterly trajectory. Spaceflight Now will have live coverage beginning about an hour prior to liftoff."
+  },
+  {
+    "id": 33183,
+    "title": "NASA safety panel warns Starship lunar lander could be delayed by years",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-safety-panel-warns-starship-lunar-lander-could-be-delayed-by-years/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/06/starshiphls.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA safety advisers say they doubt the lunar lander version of SpaceX’s Starship will be ready to support the Artemis 3 mission as planned in 2027.\nThe post NASA safety panel warns Starship lunar lander could be delayed by years appeared first on SpaceNews.",
+    "published_at": "2025-09-20T19:13:55Z",
+    "updated_at": "2025-09-20T19:20:19.140654Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA safety advisers say they doubt the lunar lander version of SpaceX’s Starship will be ready to support the Artemis 3 mission as planned in 2027. Members of the Aerospace Safety Advisory Panel said they believed the Human Landing System, or HLS, version of Starship could be “years late” Get unlimited access to SpaceNews.com now. As low as $5 per week * Cancel anytime. Sales tax may apply. No refunds. (*Billed quarterly) See all subscription options   Enter the code sent to your email. Enter your password. Sign in to an existing account."
+  },
+  {
+    "id": 33182,
+    "title": "Ship 38 on Pad 1 for Static Fire testing as Masseys rebuild continues",
+    "authors": [
+      {
+        "name": "Ryan Weber",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/09/ship-38-pad-1-static-fire-masseys-rebuild/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Starbase-Texas-from-the-air-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "As SpaceX presses on with attempts to complete static fire testing with Ship 38 ahead…\r\nThe post Ship 38 on Pad 1 for Static Fire testing as Masseys rebuild continues appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-09-20T18:32:08Z",
+    "updated_at": "2025-09-20T18:59:29.771232Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41068e09-4097-448f-ac7c-421c19b6aab9",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1289,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": "Following the anomaly with Ship 36, SpaceX has made significant progress in rebuilding the test stand. Crews have nearly rebuilt the entire Methane tank farm, upgrading storage capacity with the addition of a new horizontal tank. SpaceX is also using its own valve skids for both the Liquid Oxygen (LOX) and Liquid Methane (LCH4) sides of the tank farm. SpaceX has rolled test tank B18.3 out to Masseys. This test tank is designed to evaluate the hot stage truss, new grid fin cavities, and the rest of the forward section of the Block 3 booster. Gigabay construction has made significant progress, with crews completing seven concrete pours so far. Ship 38 has had two aborted attempts at a static fire. SpaceX needs permission to build on the wetlands, tidal flats, and uplands that they own south of the current launch site. To fly Block 3 and later from that location, SpaceX must upgrade the pad to the newer design. SpaceX is expected to have the required land swap credits by early 2026."
+  },
+  {
     "id": 33181,
     "title": "CNES Pushes FROG-H Reusable Rocket Demonstrator Debut to 2026",
     "authors": [
@@ -978,87 +1055,6 @@
     "summary": "\nStratospheric pseudo-satellites are shedding their reputation as fringe experiments as governments and industry step up demand, according to executives closing in on commercial services for their high-altitude platform stations (HAPS).\nThe post Stratospheric pseudo-satellites nearing commercial role in hybrid space networks appeared first on SpaceNews.",
     "published_at": "2025-09-18T13:14:40Z",
     "updated_at": "2025-09-18T13:20:19.572360Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33134,
-    "title": "Lone Star space: How Texas can revitalize its galactic industry",
-    "authors": [
-      {
-        "name": "Dhaval Jadav",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/lone-star-space-how-texas-can-revitalize-its-galactic-industry/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Texas.A2002317.1720.500m-scaled.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn 1970, the crew aboard Apollo 13 called back to Earth to report the catastrophic failure of its oxygen supply. Their famous phrase “Houston, we have a problem” and the subsequent solution piqued the national imagination, representing the indomitable resolve and ingenuity of America’s space program. Since then, the public appetite for space has declined. […]\nThe post Lone Star space: How Texas can revitalize its galactic industry appeared first on SpaceNews.",
-    "published_at": "2025-09-18T13:00:00Z",
-    "updated_at": "2025-09-18T13:10:22.712998Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33133,
-    "title": "Cygnus arrives at ISS after thruster glitch",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/cygnus-arrives-at-iss-after-thruster-glitch/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/ng23-arrival2.jpeg?fit=1024%2C572&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "A Cygnus cargo spacecraft arrived at the International Space Station Sept. 19 after a one-day delay caused by a thruster issue.\r\nThe post Cygnus arrives at ISS after thruster glitch appeared first on SpaceNews.",
-    "published_at": "2025-09-18T12:08:19Z",
-    "updated_at": "2025-09-18T16:53:18.880205Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "3bfed6d5-d65e-4133-b51a-b664bbd9d006",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [
-      {
-        "event_id": 1243,
-        "provider": "Launch Library 2"
-      },
-      {
-        "event_id": 1277,
-        "provider": "Launch Library 2"
-      }
-    ],
-    "detailed_news": ""
-  },
-  {
-    "id": 33131,
-    "title": "Defense and security agencies propel demand for Earth-observation data",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/defense-and-security-agencies-propel-demand-for-earth-observation-data/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/EO-market-trends.png?fit=1024%2C585&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nPARIS – Defense and security applications provided almost half of the revenue generated by Earth-observation satellites in 2024, Novaspace principal Annekatrien Debien said at the Summit on Earth Observation Business. While commercial and civil demand for satellite data continues to expand, “the main catalyst remains rising geopolitical tension, which has revealed the strategic importance of […]\nThe post Defense and security agencies propel demand for Earth-observation data appeared first on SpaceNews.",
-    "published_at": "2025-09-18T10:13:52Z",
-    "updated_at": "2025-09-18T10:21:18.219934Z",
     "featured": false,
     "launches": [],
     "events": [],
