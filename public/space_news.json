@@ -1,5 +1,82 @@
 [
   {
+    "id": 33191,
+    "title": "Quantum Space acquires Phase Four propulsion assets",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/quantum-space-acquires-phase-four-propulsion-assets/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/quantum-ranger.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nQuantum Space is acquiring propulsion technologies and facilities from Phase Four to support development of its Ranger maneuverable spacecraft.\nThe post Quantum Space acquires Phase Four propulsion assets appeared first on SpaceNews.",
+    "published_at": "2025-09-22T10:52:29Z",
+    "updated_at": "2025-09-22T11:00:37.061155Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33190,
+    "title": "Live coverage: NRO, SpaceX to launch reconnaissance satellites on Falcon 9 rocket from Vandenberg SFB",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/09/22/live-coverage-nro-spacex-to-launch-reconnaissance-satellites-on-falcon-9-rocket-from-vandenberg-sfb/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/03/20250320_NROL_57_Vertical_small.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The NROL-48 mission will be the fifth mission this year supporting the National Reconnaissance Office’s expansive low Earth orbit statellite constellation it calls the proliferated architecture. Liftoff from pad 4E is scheduled for 10:38 a.m. PDT (1:38 p.m. EDT / 1738 UTC).",
+    "published_at": "2025-09-22T10:25:49Z",
+    "updated_at": "2025-09-22T11:14:40.814620Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "86d62815-9266-481b-951e-e53670d27341",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33189,
+    "title": "Mars’s atmospheric mille-feuille",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/09/Mars_s_atmospheric_mille-feuille",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/mars_s_atmospheric_mille-feuille/26874563-1-eng-GB/Mars_s_atmospheric_mille-feuille_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-09-22T04:00:00Z",
+    "updated_at": "2025-09-22T09:54:45.476733Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "0b675aa8-0a78-4ed6-bbca-6916c8a7206b",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33188,
     "title": "NASA Safety Panel Estimates Significant Delays for Starship HLS",
     "authors": [
@@ -957,78 +1034,6 @@
     "summary": "\nPARIS – A significant challenge for hyperspectral satellite operators is alerting potential customers to promising applications, according to speakers at the Summit on Earth Observation Business here. Hyperspectral datasets can reveal atmospheric greenhouse gases, identify stores of lithium and other high-value minerals, measure nitrogen in agricultural fields, and pinpoint the telltale signs of biological, nuclear […]\nThe post Educating customers may be half the battle for nascent hyperspectral sector appeared first on SpaceNews.",
     "published_at": "2025-09-18T15:35:32Z",
     "updated_at": "2025-09-18T15:40:26.305212Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33142,
-    "title": "Blue Origin retires New Shepard capsule after payload flight",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/blue-origin-retires-new-shepard-capsule-after-payload-flight/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/ns35-descent.jpeg?fit=1024%2C647&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "Blue Origin is retiring a New Shepard capsule that flew a dozen uncrewed missions over nearly eight years.\r\nThe post Blue Origin retires New Shepard capsule after payload flight appeared first on SpaceNews.",
-    "published_at": "2025-09-18T15:08:48Z",
-    "updated_at": "2025-09-18T16:54:22.225708Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "92ec4610-4576-4077-b538-65272a5d6491",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33141,
-    "title": "New military satcom services program to focus on ‘maneuverable’ small GEO satellites",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/new-military-satcom-services-program-to-focus-on-maneuverable-small-geo-satellites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/HummingSat-scaled.jpg?fit=1024%2C654&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe U.S. Space Force this week issued a new request for information for the Maneuverable Geosynchronous Orbit (MGEO) Commercial Satellite-Based Services program\nThe post New military satcom services program to focus on ‘maneuverable’ small GEO satellites appeared first on SpaceNews.",
-    "published_at": "2025-09-18T14:51:08Z",
-    "updated_at": "2025-09-18T15:00:37.259333Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33139,
-    "title": "Construction Officially Begins on Multi-User Launch Facility in French Guiana",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/construction-officially-begins-on-multi-user-launch-facility-in-french-guiana/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/Construction-Officially-Begins-on-Multi-User-Launch-Facility-in-French-Guiana.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The French space agency CNES has officially begun construction of a new multi-user commercial launch facility on the grounds of the Guiana Space Centre in French Guiana. In early 2021, CNES announced plans to convert the old Diamant launch site at the Guiana Space Centre into a new multi-user facility for commercial launch providers operating […]\nThe post Construction Officially Begins on Multi-User Launch Facility in French Guiana appeared first on European Spaceflight.",
-    "published_at": "2025-09-18T14:35:22Z",
-    "updated_at": "2025-09-18T14:40:21.757158Z",
     "featured": false,
     "launches": [],
     "events": [],
