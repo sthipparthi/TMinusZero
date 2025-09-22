@@ -1,5 +1,25 @@
 [
   {
+    "id": 33188,
+    "title": "NASA Safety Panel Estimates Significant Delays for Starship HLS",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-safety-panel-estimates-significant-delays-for-starship-hls/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2024/05/Paul-Hill-225x300.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "NASA’s Aerospace Safety Advisory panel is warning that SpaceX’s Starship Human Landing System (HLS) could be “years late” for the Artemis III mission that is supposed to take place in […]",
+    "published_at": "2025-09-22T03:52:13Z",
+    "updated_at": "2025-09-22T04:00:18.992703Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA’s Aerospace Safety Advisory Panel is warning that SpaceX's Starship Human Landing System (HLS) could be “years late” for the Artemis III mission that is supposed to take place in mid-2027. The assessment comes after three ASAP members visited SpaceX's Starbase facility in Boca Chica, TX and met with top SpaceX officials. While they were quite impressed with SpaceX's manufacturing and operations tempo, they nonetheless found the schedule for HLS is “significantly challenged.  ASAP has been recommending since 2023 that NASA reevaluate the “high number of individual risks and mission firsts” associated with Artemis III. ASAP was created by Congress in 1968 following the 1967 Apollo 1 tragedy that killed NASA astronauts Virgil “Gus” Grissom, Ed White, and Roger Chaffee."
+  },
+  {
     "id": 33187,
     "title": "XRISM observes windy neutron star, Chandra studies a luminous quasar",
     "authors": [
@@ -1012,40 +1032,6 @@
     "featured": false,
     "launches": [],
     "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33140,
-    "title": "Northrop Grumman cargo ship reaches space Station",
-    "authors": [
-      {
-        "name": "William Harwood",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/09/18/northrop-grumman-cargo-ship-reaches-space-station/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250918_CygnusXL_rendezvous.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The capture came after Northrop Grumman engineers adjusted the sensitivity of main engine fault detection software that prematurely triggered shut downs during two rendezvous thruster firings Tuesday.",
-    "published_at": "2025-09-18T14:31:58Z",
-    "updated_at": "2025-09-18T16:53:34.278111Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "3bfed6d5-d65e-4133-b51a-b664bbd9d006",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [
-      {
-        "event_id": 1243,
-        "provider": "Launch Library 2"
-      },
-      {
-        "event_id": 1277,
-        "provider": "Launch Library 2"
-      }
-    ],
     "detailed_news": ""
   }
 ]
