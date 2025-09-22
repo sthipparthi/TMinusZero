@@ -1,5 +1,25 @@
 [
   {
+    "id": 33187,
+    "title": "XRISM observes windy neutron star, Chandra studies a luminous quasar",
+    "authors": [
+      {
+        "name": "Martijn Luinstra",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/09/gx131-racs-j03200-35/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/xrism_chandra_lead_image.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Using the joint Japan Aerospace Exploration Agency (JAXA), European Space Agency (ESA), and NASA X-Ray…\nThe post XRISM observes windy neutron star, Chandra studies a luminous quasar appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-09-21T22:52:24Z",
+    "updated_at": "2025-09-21T23:00:19.023599Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Using the joint Japan Aerospace Exploration Agency (JAXA), European Space Agency (ESA), and NASA X-Ray Imaging and Spectroscopy Mission (XRISM), scientists uncovered a dense but surprisingly slow wind coming from a neutron star. Another team used NASA’s Chandra X-ray Observatory to study an ancient supermassive black hole growing at extreme rates. When the neutron star lit up, it exceeded its so-called Eddington limit. As matter falls into the object, it releases energy, and with more matter falling in, the amount of energy released increases as well. This energy pushes back on the material falling in and capping the rate at which matter can fall in. The intense radiation at the EdDington limit blows away the material surrounding the neutronstar, creating a cosmic wind. This phenomenon is also observed around supermassive black holes. RACS J0320−35 might hint at the nature of recently discovered “little red dots” found scattered throughout the early universe. These dots first showed up in 2022, in some of the first observations from the James Webb Space Telescope (JWST) Astronomers have since been looking for an explanation."
+  },
+  {
     "id": 33186,
     "title": "What’s Happening in Space Policy September 21-27, 2025",
     "authors": [
@@ -596,26 +616,6 @@
     "detailed_news": "Themis is the first European demonstration of a full-scale vertical take-off and landing rocket element that uses cryogenic propulsion. Themis uses the Prometheus engine, almost as powerful as the Ariane 6 rocket’s main engine. Prometheus can restart in flight and throttle its thrust to ensure a soft and safe landing."
   },
   {
-    "id": 33156,
-    "title": "Space Cargo Unlimited Secures €27.5M for BentoBox Return Capsule",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-return-capsule/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/Space-Cargo-Unlimited-Secures-27.5M-Euros-for-BentoBox-Return-Capsule.webp",
-    "news_site": "European Spaceflight",
-    "summary": "In-space logistics provider Space Cargo Unlimited has closed a €27.5 million Series A funding round to continue the development of its BentoBox return capsule. In late 2022, Space Cargo Unlimited partnered with Thales Alenia Space to develop a returnable space platform called REV-1, which is designed to support in-orbit manufacturing and microgravity experimentation. Alongside REV-1, […]\nThe post Space Cargo Unlimited Secures €27.5M for BentoBox Return Capsule appeared first on European Spaceflight.",
-    "published_at": "2025-09-19T06:35:02Z",
-    "updated_at": "2025-09-19T06:40:27.831515Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "In-space logistics provider Space Cargo Unlimited has closed a €27.5 million Series A funding round to continue the development of its BentoBox payload platform. The company will initially offer it as a stand alone offering flown aboard an ATMOS Space Cargo Phoenix return capsule that is equipped with an inflatable heatshield to survive re-entry. An initial flight of the Bentobox payload platform is expected to take place in the second quarter of 2026."
-  },
-  {
     "id": 33159,
     "title": "Space Cargo Unlimited Secures €27.5M for BentoBox Payload Platform",
     "authors": [
@@ -630,6 +630,26 @@
     "summary": "In-space logistics provider Space Cargo Unlimited has closed a €27.5 million Series A funding round to continue the development of its BentoBox payload platform. In late 2022, Space Cargo Unlimited partnered with Thales Alenia Space to develop a returnable space platform called REV-1, which is designed to support in-orbit manufacturing and microgravity experimentation. Alongside REV-1, […]\nThe post Space Cargo Unlimited Secures €27.5M for BentoBox Payload Platform appeared first on European Spaceflight.",
     "published_at": "2025-09-19T06:35:02Z",
     "updated_at": "2025-09-19T09:00:15.042759Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "In-space logistics provider Space Cargo Unlimited has closed a €27.5 million Series A funding round to continue the development of its BentoBox payload platform. The company will initially offer it as a stand alone offering flown aboard an ATMOS Space Cargo Phoenix return capsule that is equipped with an inflatable heatshield to survive re-entry. An initial flight of the Bentobox payload platform is expected to take place in the second quarter of 2026."
+  },
+  {
+    "id": 33156,
+    "title": "Space Cargo Unlimited Secures €27.5M for BentoBox Return Capsule",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-return-capsule/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/Space-Cargo-Unlimited-Secures-27.5M-Euros-for-BentoBox-Return-Capsule.webp",
+    "news_site": "European Spaceflight",
+    "summary": "In-space logistics provider Space Cargo Unlimited has closed a €27.5 million Series A funding round to continue the development of its BentoBox return capsule. In late 2022, Space Cargo Unlimited partnered with Thales Alenia Space to develop a returnable space platform called REV-1, which is designed to support in-orbit manufacturing and microgravity experimentation. Alongside REV-1, […]\nThe post Space Cargo Unlimited Secures €27.5M for BentoBox Return Capsule appeared first on European Spaceflight.",
+    "published_at": "2025-09-19T06:35:02Z",
+    "updated_at": "2025-09-19T06:40:27.831515Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -1026,31 +1046,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "detailed_news": ""
-  },
-  {
-    "id": 33138,
-    "title": "NASA’s Hubble Sees White Dwarf Eating Piece of Pluto-Like Object",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-sees-white-dwarf-eating-piece-of-pluto-like-object/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2025/09/STScI-01K4FHRVYTEF017J1HWGE8TPSF.tif",
-    "news_site": "NASA",
-    "summary": "In our nearby stellar neighborhood, a burned-out star is snacking on a fragment of a Pluto-like object. With its unique ultraviolet capability, only NASA’s Hubble Space Telescope could identify that this meal is taking place. The stellar remnant is a white dwarf about half the mass of our Sun, but that is densely packed into […]",
-    "published_at": "2025-09-18T13:59:50Z",
-    "updated_at": "2025-09-18T16:53:24.791731Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
     "detailed_news": ""
   }
 ]
