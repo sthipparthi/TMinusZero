@@ -1,5 +1,25 @@
 [
   {
+    "id": 33207,
+    "title": "Scaling up IRIS² to meet evolving demands",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/rsz_iris_test.png?fit=879%2C433&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – European civil space leaders suggested expanding their flagship campaign to develop a secure communications constellation. Since the Infrastructure for Resilience, Interconnectivity and Security by Satellite (IRIS²) constellation of about 290 satellites was proposed, critics have attacked the program for being “too late and too small,” Nicolas Guillermin, European Commission team leader for […]\nThe post Scaling up IRIS² to meet evolving demands appeared first on SpaceNews.",
+    "published_at": "2025-09-23T02:43:30Z",
+    "updated_at": "2025-09-23T02:50:21.786706Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33206,
     "title": "A geologist, a former SpaceX launch director and a commercial astronaut; meet NASA’s 10 new astronaut candidates",
     "authors": [
@@ -998,25 +1018,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Komodo is part of the Indonesian Lesser Sunda Islands and lies on the Sape Strait between the larger islands of Flores to the east and Sumbawa to the west. The island is of volcanic origin and, as visible in the image, its terrain is generally rugged, with sparse vegetation, featuring rounded hills that reach a maximum elevation of 825 m. The turquoise colour in the water along the coasts and around the surrounding islets reveal the presence of shallow waters and coral reefs."
-  },
-  {
-    "id": 33157,
-    "title": "Themis stands on the launch pad",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_stands_on_the_launch_pad",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/themis_t1h_on_the_launch_pad/26876940-1-eng-GB/Themis_T1H_on_the_launch_pad_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-09-19T07:51:00Z",
-    "updated_at": "2025-09-19T08:40:12.933633Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Themis is the first European demonstration of a full-scale vertical take-off and landing rocket element that uses cryogenic propulsion. Themis uses the Prometheus engine, almost as powerful as the Ariane 6 rocket’s main engine. Prometheus can restart in flight and throttle its thrust to ensure a soft and safe landing."
   }
 ]
