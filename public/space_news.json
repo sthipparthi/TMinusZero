@@ -1,5 +1,110 @@
 [
   {
+    "id": 33215,
+    "title": "The Need to Bake Out Silicone Based Thermal Control Coatings",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/the-need-to-bake-out-silicone-based-thermal-control-coatings/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2015/04/a-uv-exposure-facility-at-the-marshall-space-flight-center.png",
+    "news_site": "NASA",
+    "summary": "BackgroundThe NASA Engineering and Safety Center (NESC) has reviewed flight, ground test, and published data on ultraviolet-induced degradation of silicone based thermal control coatings. Analysis has shown, for at least one silicone coating, that bake-out plays an important role in ultraviolet (UV) degradation, indicating that UV interaction with paint volatiles, and not the structural material, […]",
+    "published_at": "2025-09-23T17:06:15Z",
+    "updated_at": "2025-09-23T17:10:05.891029Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33214,
+    "title": "NASA targeting early February for Artemis II mission to the Moon",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/09/nasa-targeting-early-february-for-artemis-ii-mission-to-the-moon/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20230807-PH-KLS01_0259medium.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"There is a desire for us to be the first to return to the surface of the Moon.\"",
+    "published_at": "2025-09-23T16:29:59Z",
+    "updated_at": "2025-09-23T17:21:46.583396Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33213,
+    "title": "Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination",
+    "authors": [
+      {
+        "name": "Toray",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/building-missile-defense-readiness-through-composites-and-domestic-supply-chain-coordination/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/TORAY-Sponsored-Content_Header.jpg?fit=1024%2C526&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe defense landscape has entered a new era defined by technology readiness, adaptability, and heightened demand for all supply chain members to contribute to the Golden Dome for America (GDA) […]\nThe post Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination appeared first on SpaceNews.",
+    "published_at": "2025-09-23T15:00:00Z",
+    "updated_at": "2025-09-23T15:10:18.880884Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33212,
+    "title": "Italy Completes Phase A Development of LAORIE Lunar Lander Mission",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/italy-completes-phase-a-development-of-laorie-lunar-lander-mission/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/Italy-Completes-Phase-A-Development-of-LAORIE-Lunar-Lander-Mission.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Italy’s Lunar Adaptive Outpost for Remote Italian Research (LAORIE) lunar lander mission has reached a key milestone with the completion of its Preliminary Requirement Review, marking the end of Phase A development. “The LAORIE lunar lander mission is a joint initiative of Italy’s National Space Agency (ASI), National Institute for Astrophysics (INAF), and National Research […]\nThe post Italy Completes Phase A Development of LAORIE Lunar Lander Mission appeared first on European Spaceflight.",
+    "published_at": "2025-09-23T12:37:35Z",
+    "updated_at": "2025-09-23T12:40:12.581777Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33211,
+    "title": "To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself",
+    "authors": [
+      {
+        "name": "L3Harris",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Golden_Dome_Graphic.jpg?fit=1024%2C504&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThough rarely featured in public demonstrations of military capability, satellites are indispensable to the defense of America and its allies. They offer near-immediate warning of missile launches, enable strategic communications, […]\nThe post To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself appeared first on SpaceNews.",
+    "published_at": "2025-09-23T12:00:00Z",
+    "updated_at": "2025-09-23T12:10:29.963345Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33210,
     "title": "Firefly looks to resume Alpha launches soon",
     "authors": [
@@ -925,105 +1030,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 33166,
-    "title": "Week in images: 15-19 September 2025",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_September_2025",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/earth_from_space_komodo_island_indonesia/26875244-1-eng-GB/Earth_from_Space_Komodo_Island_Indonesia_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 15-19 September 2025",
-    "published_at": "2025-09-19T13:10:00Z",
-    "updated_at": "2025-09-19T13:30:19.015344Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33165,
-    "title": "American leadership at Apophis",
-    "authors": [
-      {
-        "name": "Alexander MacDonald, Jim Bell and Dani Mendoza DellaGiustina",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/american-leadership-at-apophis/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/apophis-illus.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "We are fewer than four years away from what may be the most significant near-Earth asteroid event of the 21st century. On April 13, 2029, the asteroid Apophis — named for the Egyptian god of chaos — will pass so close to Earth that it will be visible to the naked eye across much of […]\r\nThe post American leadership at Apophis appeared first on SpaceNews.",
-    "published_at": "2025-09-19T13:00:00Z",
-    "updated_at": "2025-09-19T15:01:03.417349Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33162,
-    "title": "Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/09/rocket-report-european-rocket-reuse-test-delayed-nasa-tweaks-sls-for-artemis-ii/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/LOW-RES_Spectrum-Lift-off-c-Isar-Aerospace-Brady-Kenniston-NASASpaceflight.com-2.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"There’s a lot of interest because of the fear that there’s just not a lot of capacity.\"",
-    "published_at": "2025-09-19T11:00:51Z",
-    "updated_at": "2025-09-19T11:10:04.610266Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Rocket Lab plans to raise up to $750 million by selling common shares. Astra targets mid-2026 for the first flight of its Rocket 4 vehicle. Avio's board of directors approves a 400 million euro ($471 million) capital increase. It is still subject to a shareholder vote, scheduled for October 23. Isar Aerospace executives discuss the outcome of the investigation into the March 30 launch of the Spectrum rocket. Despite the failure to get to orbit, Isar considers the first Spectrum launch a successful test flight. The company is working toward a second flight of Spectrum, which will take place \"as soon as possible\" Northrop Grumman inked a contract with SpaceX for three Falcon 9 launches. Launch companies are reiterating plans to sharply increase flight rates. United Launch Alliance projected 20 launches in 2025 between the Atlas 5 and Vulcan Centaur. Arianespace projected five Ariane 6 launches this year, including the debut of the more powerful Ariane 64, with four solid-rocket boosters. Ars is a trusted source in a sea of information. You don’t need to know everything, only what’s important. With our unique combination of technical savvy and wide-ranging interest in the technological arts and sciences, we can help you understand the world around you."
-  },
-  {
-    "id": 33163,
-    "title": "Hubble Images Celestial Cigar’s Smoldering Heart",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/hubble-images-celestial-cigars-smoldering-heart/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_M82_potw2537a.jpg",
-    "news_site": "NASA",
-    "summary": "This NASA/ESA Hubble Space Telescope image reveals new details in Messier 82 (M82), home to brilliant stars whose light is shaded by sculptural clouds made of clumps and streaks of dust and gas. This image features the star-powered heart of the galaxy, located just 12 million light-years away in the constellation Ursa Major (the Great […]",
-    "published_at": "2025-09-19T11:00:00Z",
-    "updated_at": "2025-09-19T11:10:05.622826Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Messier 82 (M82) is 12 million light-years away in the constellation Ursa Major (the Great Bear) The galaxy forms stars 10 times faster than the Milky Way. The intense starbirth period that grips this galaxy gave rise to super star clusters in the galaxy’s heart."
-  },
-  {
-    "id": 33161,
-    "title": "Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/taiwanese-aerospace-firm-partners-with-maxar-on-gps-alternative-drone-navigation/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Raptor_Guide_Sweden_Testing.png?fit=1024%2C587&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe satellite imagery company’s Raptor software uses terrain mapping to guide UAVs when satellite signals are jammed or unavailable\nThe post Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation appeared first on SpaceNews.",
-    "published_at": "2025-09-19T10:00:00Z",
-    "updated_at": "2025-09-19T10:10:18.437826Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Maxar Intelligence announced a deal with one of Taiwan’s largest aerospace and defense contractors. Maxar Raptor is a vision-based software suite that enables autonomous drones to navigate. It provides a terrain-based positioning system for drones in GPS-denied environments. The partnership comes as military and civilian aircraft operators worldwide grapple with GPS jamming. Enter the code we sent to , or clicking the magic link in the email. By creating a SpaceNews.com account, you acknowledge that you have read our privacy policy and agree to our terms and conditions. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
   }
 ]
