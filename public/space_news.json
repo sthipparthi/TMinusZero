@@ -1,5 +1,97 @@
 [
   {
+    "id": 33228,
+    "title": "ESA backs Skynopy to bring adaptive modulation to Earth observation satellites",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Skynopy-advanced-connectivity-for-satellites-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSkynopy, a French ground station startup, said Sept. 24 it has won a European Space Agency contract to help commercialize adaptive modulation technology that it claims can double satellite data download rates.\nThe post ESA backs Skynopy to bring adaptive modulation to Earth observation satellites appeared first on SpaceNews.",
+    "published_at": "2025-09-24T11:30:00Z",
+    "updated_at": "2025-09-24T11:40:17.462051Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33226,
+    "title": "Geespace secures $281 million for IoT constellation and global HQ",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/geespace-secures-281-million-for-iot-constellation-and-global-hq/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Jielong3-geely04-11sats-8aug2025-ourspace.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nGeely’s space subsidiary has secured a $281 million investment to accelerate deployment of its Geesatcom Internet of Things constellation and build a new global headquarters.\nThe post Geespace secures $281 million for IoT constellation and global HQ appeared first on SpaceNews.",
+    "published_at": "2025-09-24T08:08:55Z",
+    "updated_at": "2025-09-24T08:10:18.838106Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33227,
+    "title": "The dynamic drone-rover duo with a special bond",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_dynamic_drone-rover_duo_with_a_special_bond",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/dielof_van_loon_and_his_drone/26873339-1-eng-GB/Dielof_van_Loon_and_his_drone_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The martian landscape is not the easiest terrain to get around. Some areas are too rocky for a wheeled rover to cross, and elsewhere a lack of distinctive features in the landscape can cause problems for a camera-based navigation system. For a flying drone, such a navigation issue can mean the difference between a safe landing and a crash. Dielof van Loon, a student from Delft University of Technology, investigated what would happen if the two explorers – rover and drone – teamed up.",
+    "published_at": "2025-09-24T08:00:00Z",
+    "updated_at": "2025-09-24T08:30:16.670812Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33225,
+    "title": "Live coverage: SpaceX to launch NASA, NOAA missions exploring the impacts of the Sun",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/09/24/live-coverage-spacex-to-launch-nasa-noaa-missions-exploring-the-impacts-of-the-sun/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250923-IMAP_F9_pad-JC-1.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The primary payload, NASA’s Interstellar Mapping and Acceleration Probe (IMAP) is joined by two rideshare payloads heading to Lagrange Point 1. Liftoff from pad 39A at NASA’s Kennedy Space Center is set for 7:30 a.m. EDT (1130 UTC).",
+    "published_at": "2025-09-24T06:10:05Z",
+    "updated_at": "2025-09-24T10:59:27.780064Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "689d7129-10fa-4df9-b81e-2b8fb926bbaf",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33224,
     "title": "Avio Signs Deal to Launch Satellite for “Extra-European” Customer",
     "authors": [
@@ -319,26 +411,6 @@
     "detailed_news": ""
   },
   {
-    "id": 33209,
-    "title": "ESA selects WIVERN as 11th Earth Explorer mission",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_selects_WIVERN_as_11th_Earth_Explorer_mission",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/earth_explorer_11_candidate_mission_wivern/25202841-1-eng-GB/Earth_Explorer_11_candidate_mission_Wivern_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "After meticulous preparation and rigorous evaluation, ESA’s Member States have selected WIVERN to become the 11th Earth Explorer mission to be implemented through the agency’s prestigious FutureEO programme.",
-    "published_at": "2025-09-23T11:00:00Z",
-    "updated_at": "2025-09-23T11:10:13.107079Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 33208,
     "title": "Terran Orbital Completes Delivery of Satellite Bus Platforms to Lockheed Martin for the Tranche 1 Transport Layer",
     "authors": [
@@ -353,6 +425,26 @@
     "summary": "\nIRVINE, CA – September 23, 2025 – Terran Orbital Corporation, a leading manufacturer of small satellites primarily serving the aerospace and defense industries, today announced the successful delivery of all […]\nThe post Terran Orbital Completes Delivery of Satellite Bus Platforms to Lockheed Martin for the Tranche 1 Transport Layer appeared first on SpaceNews.",
     "published_at": "2025-09-23T11:00:00Z",
     "updated_at": "2025-09-23T11:00:38.947920Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33209,
+    "title": "ESA selects WIVERN as 11th Earth Explorer mission",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_selects_WIVERN_as_11th_Earth_Explorer_mission",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/earth_explorer_11_candidate_mission_wivern/25202841-1-eng-GB/Earth_Explorer_11_candidate_mission_Wivern_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "After meticulous preparation and rigorous evaluation, ESA’s Member States have selected WIVERN to become the 11th Earth Explorer mission to be implemented through the agency’s prestigious FutureEO programme.",
+    "published_at": "2025-09-23T11:00:00Z",
+    "updated_at": "2025-09-23T11:10:13.107079Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -950,85 +1042,5 @@
     ],
     "events": [],
     "detailed_news": "NASA has revived a robotic lunar rover mission by selecting Blue Origin. Blue Origin will deliver it to the moon’s south pole in 2027. VIPER will search for water ice at the lunar south pole, including in permanently shadowed craters. In July 2024, NASA said it would cancel VIPER , citing cost overruns. Get unlimited access to SpaceNews.com for as low as $5 per week. You’ll also receive our weekly SpaceNews This Week newsletter every Friday. Opt-out at any time. Sales tax may apply. No refunds. (*Billed quarterly) See all subscription options."
-  },
-  {
-    "id": 33179,
-    "title": "The Ancient Mars Variety Show",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/the-ancient-mars-variety-show/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2025/perseverance-rover-updates/Mars_Perseverance_SIF_1620_0810758550_902EBY_N0790198SRLC02501_0000LMJ.png",
-    "news_site": "NASA",
-    "summary": "Written by Melissa Rice, Professor of Planetary Science at Western Washington University Perseverance accomplished something unusual this week: abrading two dramatically different rocks within the span of a few days. While exploring the Vernodden area along Jezero crater’s rim, the rover has been studying what might be “megablocks,” a variety of ancient crustal materials with […]",
-    "published_at": "2025-09-19T23:09:16Z",
-    "updated_at": "2025-09-20T00:10:15.156071Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Mars Perseverance rover abraded two dramatically different rocks within the span of a few days. While exploring the Vernodden area along Jezero crater's rim, the rover has been studying what might be \"megablocks\" The ancient fragments can help the Science Team reconstruct the complex geological processes that shaped early Mars billions of years ago."
-  },
-  {
-    "id": 33178,
-    "title": "VIPER Might Have A New Ride to the Moon on Blue Origin",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/viper-might-have-a-new-ride-to-the-moon-on-blue-origin/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/09/Blue-Moon-with-VIPER-BO-300x225.webp",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "NASA’s much-anticipated but imperiled VIPER lunar rover got some good news today. More than a year after NASA announced it was terminating the mission even though the rover is completely […]",
-    "published_at": "2025-09-19T22:42:18Z",
-    "updated_at": "2025-09-19T22:50:24.052849Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA awarded a contract to Blue Origin to take initial steps that, if successful, could lead to VIPER flying on Blue Origin’s Blue Moon MK1 lander. VIPER is an option and NASA won’t decide whether to exercise that option until step one is completed. Astrobotic had been awarded a fixed price contract of $323 million to deliver VIPER to the lunar surface through CLPS. The lunar science community and Congress reacted negatively to the decision and NASA decided to issue a call for expressions of interest by organizations that might want to take over the project. Astrobotic said in an emailed statement today they had decided not to submit a bid."
-  },
-  {
-    "id": 33177,
-    "title": "Amid budget uncertainty, NASA gets some good news: Use House funding levels",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/09/amid-budget-uncertainty-nasa-gets-some-good-news-use-house-funding-levels/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1133641758-1.jpg",
-    "news_site": "Arstechnica",
-    "summary": "The House budget still cuts science at NASA, but not as deeply as the White House sought.",
-    "published_at": "2025-09-19T22:38:10Z",
-    "updated_at": "2025-09-19T22:50:14.026277Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Congress has not passed a final budget for fiscal year 2026, which begins on October 1. The White House proposed significant cuts to NASA's budget. The House budget proposes to keep funding levels nearly identical to the current fiscal year. This does not support full funding for NASA's science portfolio, but is far more beneficial than the cuts sought by the White House."
-  },
-  {
-    "id": 33176,
-    "title": "After a very slow start, Europe’s reusable rocket program shows signs of life",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/09/after-a-very-slow-start-europes-reusable-rocket-program-shows-signs-of-life/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/G1Mh6O7WAAApPeJ.jpg",
-    "news_site": "Arstechnica",
-    "summary": "Although Themis is making progress, the program is several years behind schedule.",
-    "published_at": "2025-09-19T22:06:43Z",
-    "updated_at": "2025-09-19T22:20:04.701236Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Themis is a prototype rocket that will test various landing technologies. Low-altitude hop tests, a precursor for developing a rocket's first stage that can vertically land after an orbital launch, could start late this year or early next. Although Themis is making progress, the program is several years behind schedule."
   }
 ]
