@@ -1,5 +1,239 @@
 [
   {
+    "id": 33240,
+    "title": "NASA Data Powers New Tool to Protect Water Supply After Fires",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/nasa-data-powers-new-tool-to-protect-water-supply-after-fires/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2025/hydroflame_banner.jpg",
+    "news_site": "NASA",
+    "summary": "When wildfires scorch a landscape, the flames are just the beginning. NASA is helping U.S. communities foresee and prepare for what can follow: mudslides, flash flooding, and contaminated water supplies.",
+    "published_at": "2025-09-24T17:00:00Z",
+    "updated_at": "2025-09-24T17:10:05.014422Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33239,
+    "title": "Help Map the Moon’s Molten Flows!",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/get-involved/citizen-science/help-map-the-moons-molten-flows/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2025/lunar-melt-lunar-surface.png",
+    "news_site": "NASA",
+    "summary": "When asteroids hit the Moon, the impacts carve out craters and with enough energy and pressure, melt parts of the rocky surface. Often, the white hot, gooey melt (it’s like lava, except that it doesn’t erupt from underground) sloshes around the new crater and surrounding regions. The molten rock cools and hardens into vast rock […]",
+    "published_at": "2025-09-24T16:00:37Z",
+    "updated_at": "2025-09-24T16:15:10.477254Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33238,
+    "title": "Airplane Aerobatics",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/airplane-aerobatics/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/54783045945-682fa4ee3b-o.jpg",
+    "news_site": "NASA",
+    "summary": "NASA astronaut Nick Hague watches as Robert Schmidle Pitts Aerobatics perform, Friday, Sept. 12, 2025, at Joint Base Andrews in Prince George’s County, Maryland. Hague spent 171 days aboard the International Space Station as part of Expedition 72. While aboard the orbital laboratory, Hague and fellow NASA astronauts Suni Williams and Butch Wilmore completed more […]",
+    "published_at": "2025-09-24T15:59:51Z",
+    "updated_at": "2025-09-24T16:00:14.877763Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33234,
+    "title": "NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K4T8XYNBJ9A93DJ9KYQJE2WF.png",
+    "news_site": "NASA",
+    "summary": "NASA’s James Webb Space Telescope has revealed a colorful array of massive stars and glowing cosmic dust in the Sagittarius B2 molecular cloud, the most massive and active star-forming region in our Milky Way galaxy.  “Webb’s powerful infrared instruments provide detail we’ve never been able to see before, which will help us to understand some […]",
+    "published_at": "2025-09-24T14:00:00Z",
+    "updated_at": "2025-09-24T16:15:00.771800Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33235,
+    "title": "Webb explores largest star-forming cloud in our galaxy",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_explores_largest_star-forming_cloud_in_our_galaxy",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/sagittarius_b2_nircam_image/26884098-1-eng-GB/Sagittarius_B2_NIRCam_image_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The NASA/ESA/CSA James Webb Space Telescope has revealed a colourful array of massive stars and glowing cosmic dust in the Sagittarius B2 (Sgr B2) molecular cloud, the most massive and active star-forming region in our Milky Way galaxy.",
+    "published_at": "2025-09-24T14:00:00Z",
+    "updated_at": "2025-09-24T16:15:05.168879Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33233,
+    "title": "NASA, NOAA Launch Three Spacecraft to Map Sun’s Influence Across Space",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-noaa-launch-three-spacecraft-to-map-suns-influence-across-space/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/screenshot-2025-09-24-092053.png",
+    "news_site": "NASA",
+    "summary": "NASA and the National Oceanic and Atmospheric Administration (NOAA) launched three new missions Wednesday to investigate the Sun’s influence across the solar system. At 7:30 a.m. EDT, a SpaceX Falcon 9 rocket lifted off from Launch Complex 39A at NASA’s Kennedy Space Center in Florida carrying the agency’s IMAP (Interstellar Mapping and Acceleration Probe), Carruthers […]",
+    "published_at": "2025-09-24T13:56:54Z",
+    "updated_at": "2025-09-24T16:14:57.669989Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "689d7129-10fa-4df9-b81e-2b8fb926bbaf",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33232,
+    "title": "Zeno Power secures americium-241 supply for space nuclear batteries",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/zeno-power-secures-americium-241-supply-for-space-nuclear-batteries/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/ZENO-Orano-UNF-storage-scaled.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nZeno Power has signed a multimillion-dollar deal with Orano, a French nuclear recycler, to lock in a steady supply of americium-241 to fuel the U.S. startup’s long-duration space batteries.\nThe post Zeno Power secures americium-241 supply for space nuclear batteries appeared first on SpaceNews.",
+    "published_at": "2025-09-24T13:41:45Z",
+    "updated_at": "2025-09-24T13:50:27.104204Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33231,
+    "title": "Falcon 9 launches three space weather missions",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/falcon-9-launches-three-space-weather-missions/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/imap2024.jpg?fit=1024%2C637&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "A Falcon 9 launched a “cosmic carpool” of spacecraft for NASA and NOAA Sept. 24 that will study the sun and its role in space weather.\r\nThe post Falcon 9 launches three space weather missions appeared first on SpaceNews.",
+    "published_at": "2025-09-24T13:18:44Z",
+    "updated_at": "2025-09-24T16:14:54.077887Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "689d7129-10fa-4df9-b81e-2b8fb926bbaf",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33230,
+    "title": "We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up?",
+    "authors": [
+      {
+        "name": "Will Lewis",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/were-cluttering-earths-orbit-at-record-speed-whos-going-to-clean-it-up/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/04/Geostationary_orbit_pillars-credit-ESA.jpg?fit=1024%2C512&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe rules we have were designed to prevent disaster, not manage growth. It’s time for a smarter, more adaptable approach.\nThe post We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up? appeared first on SpaceNews.",
+    "published_at": "2025-09-24T13:00:00Z",
+    "updated_at": "2025-09-24T13:10:26.627187Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33229,
+    "title": "NASA Launches 2026 Gateways to Blue Skies Competition",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/coeci-news/nasa-launches-2026-gateways-to-blue-skies-competition/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/2026-gateways-to-blue-skies-competition.png",
+    "news_site": "NASA",
+    "summary": "NASA’s 2026 Gateways to Blue Skies competition invites collegiate teams to conceptualize innovative systems and practices that would advance current commercial aircraft maintenance, repair, and operations with the goal to enhance resilience, safety, and efficiency.   The commercial aviation industry is a crucial component of the U.S. economy, employing millions and supporting global commerce and […]",
+    "published_at": "2025-09-24T12:22:39Z",
+    "updated_at": "2025-09-24T12:30:09.253336Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33228,
     "title": "ESA backs Skynopy to bring adaptive modulation to Earth observation satellites",
     "authors": [
@@ -808,239 +1042,5 @@
     ],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 33189,
-    "title": "Mars’s atmospheric mille-feuille",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/09/Mars_s_atmospheric_mille-feuille",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/mars_s_atmospheric_mille-feuille/26874563-1-eng-GB/Mars_s_atmospheric_mille-feuille_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-09-22T04:00:00Z",
-    "updated_at": "2025-09-22T09:54:45.476733Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "0b675aa8-0a78-4ed6-bbca-6916c8a7206b",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33188,
-    "title": "NASA Safety Panel Estimates Significant Delays for Starship HLS",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/nasa-safety-panel-estimates-significant-delays-for-starship-hls/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2024/05/Paul-Hill-225x300.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "NASA’s Aerospace Safety Advisory panel is warning that SpaceX’s Starship Human Landing System (HLS) could be “years late” for the Artemis III mission that is supposed to take place in […]",
-    "published_at": "2025-09-22T03:52:13Z",
-    "updated_at": "2025-09-22T04:00:18.992703Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA’s Aerospace Safety Advisory Panel is warning that SpaceX's Starship Human Landing System (HLS) could be “years late” for the Artemis III mission that is supposed to take place in mid-2027. The assessment comes after three ASAP members visited SpaceX's Starbase facility in Boca Chica, TX and met with top SpaceX officials. While they were quite impressed with SpaceX's manufacturing and operations tempo, they nonetheless found the schedule for HLS is “significantly challenged.  ASAP has been recommending since 2023 that NASA reevaluate the “high number of individual risks and mission firsts” associated with Artemis III. ASAP was created by Congress in 1968 following the 1967 Apollo 1 tragedy that killed NASA astronauts Virgil “Gus” Grissom, Ed White, and Roger Chaffee."
-  },
-  {
-    "id": 33187,
-    "title": "XRISM observes windy neutron star, Chandra studies a luminous quasar",
-    "authors": [
-      {
-        "name": "Martijn Luinstra",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/09/gx131-racs-j03200-35/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/xrism_chandra_lead_image.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Using the joint Japan Aerospace Exploration Agency (JAXA), European Space Agency (ESA), and NASA X-Ray…\nThe post XRISM observes windy neutron star, Chandra studies a luminous quasar appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-09-21T22:52:24Z",
-    "updated_at": "2025-09-21T23:00:19.023599Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Using the joint Japan Aerospace Exploration Agency (JAXA), European Space Agency (ESA), and NASA X-Ray Imaging and Spectroscopy Mission (XRISM), scientists uncovered a dense but surprisingly slow wind coming from a neutron star. Another team used NASA’s Chandra X-ray Observatory to study an ancient supermassive black hole growing at extreme rates. When the neutron star lit up, it exceeded its so-called Eddington limit. As matter falls into the object, it releases energy, and with more matter falling in, the amount of energy released increases as well. This energy pushes back on the material falling in and capping the rate at which matter can fall in. The intense radiation at the EdDington limit blows away the material surrounding the neutronstar, creating a cosmic wind. This phenomenon is also observed around supermassive black holes. RACS J0320−35 might hint at the nature of recently discovered “little red dots” found scattered throughout the early universe. These dots first showed up in 2022, in some of the first observations from the James Webb Space Telescope (JWST) Astronomers have since been looking for an explanation."
-  },
-  {
-    "id": 33186,
-    "title": "What’s Happening in Space Policy September 21-27, 2025",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-21-27-2025/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2024/01/Artemis-II-crew-NASA-300x196.webp",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 21-27, 2025 and any insight we can offer about them. The House and Senate are in recess […]",
-    "published_at": "2025-09-21T16:19:08Z",
-    "updated_at": "2025-09-21T16:20:16.177846Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The House and Senate are in recess this week except for pro forma sessions. NASA begins a three-day human spaceflight extravaganza at Johnson Space Center. Washington Post reporter Christian Davenport will talk about his new book at two events in D.C. this week. On Friday, the House passed a Republican version of a Continuing Resolution (CR) that would keep the government open through November 21. All but one Democrat opposed it, and all but two Republicans supported it. The Senate then defeated that bill as well as a Democratic alternative (through October 31) that insists on including a provision extending Affordable Health Care premium subsidies. Both votes were on largely partisan lines."
-  },
-  {
-    "id": 33185,
-    "title": "Shutdown Showdown September 2025: The State of Play 10 Days Out",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/shutdown-showdown-september-2025-the-state-of-play-10-days-out/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/09/cr-1-300x91.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Unless Congress and the President can reach agreement in the next 10 days, there will be a government shutdown on October 1. Both sides say they do not want that […]",
-    "published_at": "2025-09-21T16:09:14Z",
-    "updated_at": "2025-09-21T16:10:16.427413Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Congress has not passed the FY2026 appropriations bills needed to fund the government when the new fiscal year begins on October 1. A Continuing Resolution is needed to keep the government open until the 12 regular appropriations bills are signed into law. Agencies typically are kept at their current funding levels under a CR and new programs cannot begin nor existing programs terminated. CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots for next week. Visit CNN.com/Travel each week for a new gallery of snapshots. Visit http://www.dailymail.co.uk/travel/features/tourists-tourist-tours-takes-pictures.shtml."
-  },
-  {
-    "id": 33184,
-    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/09/20/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/02/20250211_Starlink_12-18_prelaunch.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 10-27 mission will be the 280th orbital launch for SpaceX from Cape Canaveral Space Force Station. Liftoff from Space Launch Complex 40 is scheduled for 6:53 a.m. EDT (1053 UTC). ",
-    "published_at": "2025-09-20T23:19:41Z",
-    "updated_at": "2025-09-20T23:20:18.104216Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX is preparing for a near sunrise Falcon 9 launch from Cape Canaveral on Sunday. The Starlink 10-27 mission will send 28 Starlink V2 Mini satellites into low Earth orbit. The rocket will head away from Florida’s Space Coast on a north-easterly trajectory. Spaceflight Now will have live coverage beginning about an hour prior to liftoff."
-  },
-  {
-    "id": 33183,
-    "title": "NASA safety panel warns Starship lunar lander could be delayed by years",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-safety-panel-warns-starship-lunar-lander-could-be-delayed-by-years/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/06/starshiphls.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA safety advisers say they doubt the lunar lander version of SpaceX’s Starship will be ready to support the Artemis 3 mission as planned in 2027.\nThe post NASA safety panel warns Starship lunar lander could be delayed by years appeared first on SpaceNews.",
-    "published_at": "2025-09-20T19:13:55Z",
-    "updated_at": "2025-09-20T19:20:19.140654Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA safety advisers say they doubt the lunar lander version of SpaceX’s Starship will be ready to support the Artemis 3 mission as planned in 2027. Members of the Aerospace Safety Advisory Panel said they believed the Human Landing System, or HLS, version of Starship could be “years late” Get unlimited access to SpaceNews.com now. As low as $5 per week * Cancel anytime. Sales tax may apply. No refunds. (*Billed quarterly) See all subscription options   Enter the code sent to your email. Enter your password. Sign in to an existing account."
-  },
-  {
-    "id": 33182,
-    "title": "Ship 38 on Pad 1 for Static Fire testing as Masseys rebuild continues",
-    "authors": [
-      {
-        "name": "Ryan Weber",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/09/ship-38-pad-1-static-fire-masseys-rebuild/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Starbase-Texas-from-the-air-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "As SpaceX presses on with attempts to complete static fire testing with Ship 38 ahead…\r\nThe post Ship 38 on Pad 1 for Static Fire testing as Masseys rebuild continues appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-09-20T18:32:08Z",
-    "updated_at": "2025-09-20T18:59:29.771232Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41068e09-4097-448f-ac7c-421c19b6aab9",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [
-      {
-        "event_id": 1289,
-        "provider": "Launch Library 2"
-      }
-    ],
-    "detailed_news": "Following the anomaly with Ship 36, SpaceX has made significant progress in rebuilding the test stand. Crews have nearly rebuilt the entire Methane tank farm, upgrading storage capacity with the addition of a new horizontal tank. SpaceX is also using its own valve skids for both the Liquid Oxygen (LOX) and Liquid Methane (LCH4) sides of the tank farm. SpaceX has rolled test tank B18.3 out to Masseys. This test tank is designed to evaluate the hot stage truss, new grid fin cavities, and the rest of the forward section of the Block 3 booster. Gigabay construction has made significant progress, with crews completing seven concrete pours so far. Ship 38 has had two aborted attempts at a static fire. SpaceX needs permission to build on the wetlands, tidal flats, and uplands that they own south of the current launch site. To fly Block 3 and later from that location, SpaceX must upgrade the pad to the newer design. SpaceX is expected to have the required land swap credits by early 2026."
-  },
-  {
-    "id": 33181,
-    "title": "CNES Pushes FROG-H Reusable Rocket Demonstrator Debut to 2026",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/cnes-pushes-frog-h-reusable-rocket-demonstrator-debut-to-2026/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/CNES-Push-Frog-H-Reusable-Rocket-Demonstrator-Debut-to-2026.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The French space agency CNES has confirmed to European Spaceflight that the debut of its upgraded FROG reusable rocket demonstrator has been pushed to 2026. The FROG-H vehicle had been expected to complete initial test flights in early 2025. The Rocket for GNC Demonstration (FROG) initiative was launched by the CNES Launch Vehicles Directorate in […]\nThe post CNES Pushes FROG-H Reusable Rocket Demonstrator Debut to 2026 appeared first on European Spaceflight.",
-    "published_at": "2025-09-20T15:32:51Z",
-    "updated_at": "2025-09-20T15:40:10.028945Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "French space agency CNES has confirmed that the debut of its upgraded FROG reusable rocket demonstrator has been pushed to 2026. The FROG-H vehicle had been expected to complete initial test flights in early 2025. In addition to FROG, CNES is also working on the Callisto reusable rocket programme."
-  },
-  {
-    "id": 33180,
-    "title": "NASA revives VIPER lunar rover mission with Blue Origin lander award",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/viper-bluemoon.jpeg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "NASA has revived a robotic lunar rover mission by selecting Blue Origin to deliver it to the moon’s south pole in 2027.\r\nThe post NASA revives VIPER lunar rover mission with Blue Origin lander award appeared first on SpaceNews.",
-    "published_at": "2025-09-20T06:07:43Z",
-    "updated_at": "2025-09-20T06:57:06.355196Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "c5ebc8b1-ae7f-4e8d-8619-99bbe0d8025a",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "NASA has revived a robotic lunar rover mission by selecting Blue Origin. Blue Origin will deliver it to the moon’s south pole in 2027. VIPER will search for water ice at the lunar south pole, including in permanently shadowed craters. In July 2024, NASA said it would cancel VIPER , citing cost overruns. Get unlimited access to SpaceNews.com for as low as $5 per week. You’ll also receive our weekly SpaceNews This Week newsletter every Friday. Opt-out at any time. Sales tax may apply. No refunds. (*Billed quarterly) See all subscription options."
   }
 ]
