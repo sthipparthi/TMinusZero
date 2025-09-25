@@ -1,5 +1,97 @@
 [
   {
+    "id": 33253,
+    "title": "Live coverage: ULA to launch fifth batch of Amazon’s Project Kuiper satellites from Cape Canaveral",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/09/25/live-coverage-ula-to-launch-fifth-batch-of-amazons-project-kuiper-satellites-from-cape-canaveral/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250925_Kuiper_sunrise.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "This is the third time that United Launch Alliance will launch these broadband satellites, but it’s the fifth batch heading to orbit overall for the constellation. Liftoff is scheduled for 8:09 a.m. EDT (1230 UTC). ",
+    "published_at": "2025-09-25T11:39:03Z",
+    "updated_at": "2025-09-25T11:40:28.221098Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Onboard are the next 27 Project Kuiper satellites from Amazon. ULA is targeting liftoff from Space Launch Complex 41 at 8:09 a.m. EDT (1209 UTC) Once deployed, Amazon will have 129 satellites in low Earth orbit. NROL-70 with be the 389th Delta launch since 1960 and 45th Delta 4 rocket."
+  },
+  {
+    "id": 33254,
+    "title": "Redwire to provide solar arrays for Axiom space station module",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/redwire-to-provide-solar-arrays-for-axiom-space-station-module/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/axiomstation.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAxiom Space has awarded a contract to Redwire to provide solar arrays for the first module of Axiom’s planned commercial space station.\nThe post Redwire to provide solar arrays for Axiom space station module appeared first on SpaceNews.",
+    "published_at": "2025-09-25T11:30:00Z",
+    "updated_at": "2025-09-25T11:40:28.437335Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Axiom Space has awarded a contract to Redwire to provide solar arrays for the first module of Axiom’s planned commercial space station. The companies announced Sept. 25 that Redwire will provide a version of its Roll-Out Solar Array. The partnership comes as NASA revises plans to support development of commercial stations. Pakistan chose instead to partner with China. Axiom has signed countries such as Hungary, India and Poland for private astronaut missions. “We will and must avoid a space station gap in LEO to ensure that America is at least equal to Chinese capabilities in this incredibly important field of endeavor”"
+  },
+  {
+    "id": 33252,
+    "title": "Ariane 6 Selected to Launch German Military Communications Satellites",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/ariane-6-selected-to-launch-german-military-communications-satellites/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/Ariane-6-Selected-to-Launch-German-Military-Communications-Satellites.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Airbus Defence and Space has awarded Arianespace a contract to launch a pair of SATCOMBw-3 communications satellites for the German Armed Forces. In July 2024, the German Armed Forces awarded Airbus Defence and Space a €2.1 billion contract for the SATCOMBw-3 programme. Under the programme, Airbus has been tasked with developing and deploying a next-generation […]\nThe post Ariane 6 Selected to Launch German Military Communications Satellites appeared first on European Spaceflight.",
+    "published_at": "2025-09-25T08:36:38Z",
+    "updated_at": "2025-09-25T08:40:11.100594Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Arianespace has been awarded a contract to launch a pair of SATCOMBw-3 communications satellites for the German Armed Forces. The contract covers the development of the two geostationary satellites, the associated ground segment, the launch of the satellites (which is expected to occur before the end of the decade), and the operation of the constellation."
+  },
+  {
+    "id": 33251,
+    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/09/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 10-15 mission comes a day after SpaceX launched a trio of spacecraft to study the effects of the Sun. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 4:39 a.m. EDT (0839 UTC).",
+    "published_at": "2025-09-25T07:10:32Z",
+    "updated_at": "2025-09-25T09:57:29.177406Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "c717d2b5-e39c-45a3-9f89-ce73526852eb",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "SpaceX launched its Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station. The Starlink 10-15 flight will add another 28 Starlink V2 Mini satellites to the growing megaconstellation of more than 8,400 currently on orbit. Forecasters predict mostly clear skies and light winds at the surface and aloft for Monday’s launch."
+  },
+  {
     "id": 33250,
     "title": "Artemis II Crew Ready to Fly Around the Moon on “Integrity”",
     "authors": [
@@ -267,31 +359,6 @@
     "detailed_news": ""
   },
   {
-    "id": 33234,
-    "title": "NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K4T8XYNBJ9A93DJ9KYQJE2WF.png",
-    "news_site": "NASA",
-    "summary": "NASA’s James Webb Space Telescope has revealed a colorful array of massive stars and glowing cosmic dust in the Sagittarius B2 molecular cloud, the most massive and active star-forming region in our Milky Way galaxy.  “Webb’s powerful infrared instruments provide detail we’ve never been able to see before, which will help us to understand some […]",
-    "published_at": "2025-09-24T14:00:00Z",
-    "updated_at": "2025-09-24T16:15:00.771800Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 33235,
     "title": "Webb explores largest star-forming cloud in our galaxy",
     "authors": [
@@ -306,6 +373,31 @@
     "summary": "The NASA/ESA/CSA James Webb Space Telescope has revealed a colourful array of massive stars and glowing cosmic dust in the Sagittarius B2 (Sgr B2) molecular cloud, the most massive and active star-forming region in our Milky Way galaxy.",
     "published_at": "2025-09-24T14:00:00Z",
     "updated_at": "2025-09-24T16:15:05.168879Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33234,
+    "title": "NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K4T8XYNBJ9A93DJ9KYQJE2WF.png",
+    "news_site": "NASA",
+    "summary": "NASA’s James Webb Space Telescope has revealed a colorful array of massive stars and glowing cosmic dust in the Sagittarius B2 molecular cloud, the most massive and active star-forming region in our Milky Way galaxy.  “Webb’s powerful infrared instruments provide detail we’ve never been able to see before, which will help us to understand some […]",
+    "published_at": "2025-09-24T14:00:00Z",
+    "updated_at": "2025-09-24T16:15:00.771800Z",
     "featured": false,
     "launches": [
       {
@@ -950,92 +1042,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Space Development Agency (SDA) is gearing up for its second launch of satellites. 21 satellites built by Lockheed Martin are on track to launch in October. SDA is building out a low Earth orbit (LEO) mesh network for military communications. The Transport Layer satellites will provide beyond line-of-sight connectivity. Enter the code we sent to , or clicking the magic link in the email. By creating a SpaceNews.com account, you acknowledge that you have read our privacy policy and agree to our terms and conditions. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
-  },
-  {
-    "id": 33204,
-    "title": "Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/09/launch-roundup-092225/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "A busy slate of launches is planned for the last full week of September, including…\nThe post Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-09-22T21:04:34Z",
-    "updated_at": "2025-09-22T21:10:13.544339Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A busy slate of launches is planned for the last full week of September, including flights for two major low-Earth orbit broadband constellations. China and Rocket Lab are also planning flights, with Electron set to fly two suborbital hypersonic research missions from Wallops Island, Virginia. The United Launch Alliance (ULA) is planning to fly an Atlas V 551 on the KA-03 mission for the Amazon Kuiper constellation, while SpaceX is preparing to fly four Falcon 9 Starlink missions. The Jielong 3 rocket is capable of flying up to 1,600 kg to a 500 km altitude. The rocket will carry the Jili (Geely) Constellation 06 satellites A through K. The Geely communications satellite constellation is designed to offer coverage for the Internet of Things. The IMAP spacecraft will study the boundary between the heliosphere and interstellar space. The United Launch Alliance has scheduled its third Atlas V flight of the year for Thursday, Sept. 25. Amazon is racing to launch as many Kuiper satellites as possible before a July 2026 deadline. China is planning to fly a Chang Zheng 2D (CZ-2D) on Friday, September 26, at 17:20 UTC. The third Starlink launch of this week is scheduled for Sunday, Sept. 28 at 3:30 AM EDT (07:30 UTC) from SLC-40 at the CCSFS. The rocket will take a northeast trajectory and will fly a batch of Starlink v2 Mini satellites to low-Earth orbit inclined 53.16 degrees to the Equator. This is the ninth CZ-6 series launch of 2025."
-  },
-  {
-    "id": 33201,
-    "title": "NASA Chooses 10 New Astronaut Candidates",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/nasa-chooses-10-new-astronaut-candidates/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/09/NASA-ASCANs-Sept-22-2025-300x200.webp",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "NASA introduced its 24th class of astronauts today, six women and four men. It is the first astronaut class with more women than men and the first with anyone who […]",
-    "published_at": "2025-09-22T20:45:59Z",
-    "updated_at": "2025-09-22T20:50:14.173639Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA introduced its 24th class of astronauts today, six women and four men. It is the first astronaut class with more women than men and the first with anyone who already has made an orbital spaceflight. The 10 astronaut candidates will train for two years before becoming eligible for NASA missions to Earth orbit, the Moon and beyond. The other ASCANs are equally impressive as detailed in NASA’s press release. Ben Bailey is a U.S. Naval Test Pilot School graduate with more than 2,000 flight hours in more than 30 different rotary and fixed-wing aircraft. His first spaceflight is scheduled for next year on Soyuz MS-29. Anna Menon, 39, is from Houston and earned her bachelor’s degree from Texas Christian University. Imelda Muller, 34, considers Copake Falls, New York, her hometown. Erin Overcash is a former Marine Corps AH-1 attack helicopter pilot and experimental test pilot."
-  },
-  {
-    "id": 33202,
-    "title": "Air Force Secretary warns of ‘Sputnik moment’ as U.S. faces China’s rapid military advances",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/air-force-secretary-warns-of-sputnik-moment-as-u-s-faces-chinas-rapid-military-advances/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/250922-F-JJ904-4038.jpg?fit=1024%2C704&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Department of the Air Force’s top civilian overseeing both the Air Force and the Space Force said he is increasingly worried about the services’ pace of innovation. \nThe post Air Force Secretary warns of ‘Sputnik moment’ as U.S. faces China’s rapid military advances appeared first on SpaceNews.",
-    "published_at": "2025-09-22T20:45:56Z",
-    "updated_at": "2025-09-22T20:50:19.230489Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Air Force Secretary Troy Meink likens today's threats to the Sputnik shock of 1957. He warns that the United States risks falling behind adversaries, particularly China. Meink says he is increasingly worried about the services' pace of innovation. He stressed that the U.S. continues to field “the best trained force in the world” Enter the code we sent to your email. Use the magic link in the email to sign in. As low as $5 per week * Cancel anytime. Sales tax may apply. No refunds. (*Billed quarterly) See all subscription options   Enter the code sent toyour email."
-  },
-  {
-    "id": 33203,
-    "title": "NASA selects new astronaut class",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-selects-new-astronaut-class/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/54794976900_9e0ca8169c_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA announced its newest class of astronauts Sept. 22 as agency leaders and lawmakers emphasized their intent to return humans to the moon before China.\nThe post NASA selects new astronaut class appeared first on SpaceNews.",
-    "published_at": "2025-09-22T20:42:29Z",
-    "updated_at": "2025-09-22T20:50:19.249857Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA announced its newest class of astronauts Sept. 22. The six women and four men represent NASA’s first astronaut class with more women than men. The class includes scientists, engineers and pilots, with experience ranging from flying military aircraft in combat to working on the Curiosity Mars rover. NASA’s Aerospace Safety Advisory Panel raised similar concerns at a Sept. 19 meeting. “I’ll be damned if the Chinese beat NASA, or beat America, back to the moon. We’re going to win,” Sean Duffy said. Duffy did not directly address recent criticism of Artemis."
   }
 ]
