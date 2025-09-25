@@ -1,5 +1,25 @@
 [
   {
+    "id": 33250,
+    "title": "Artemis II Crew Ready to Fly Around the Moon on “Integrity”",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/artemis-ii-crew-ready-to-fly-around-the-moon-on-integrity/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/09/Artemis-II-crew-presser-Sep-24-25-300x107.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Today the four Artemis II crew members announced the name they have chosen for their Orion capsule — Integrity. During an hour-long news conference, they conveyed readiness for their mission […]",
+    "published_at": "2025-09-25T03:46:37Z",
+    "updated_at": "2025-09-25T03:50:15.693407Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": " Artemis II crew members announced the name they have chosen for their Orion capsule — Integrity. The goal is to fly around the Moon, but the spacecraft and life support systems first must pass tests in Earth orbit before NASA decides to execute the Trans-Lunar Injection (TLI) burn. The crew said today enabling Artemis III is their measure of success. Space weather is caused by coronal mass ejections (CMEs) from the Sun. CMEs create breathtaking auroras on Earth, but also can disrupt electrical systems and orbiting satellites. Artemis II crew can shelter in Orion’s storage compartments if there is a CME during their 10-day flight."
+  },
+  {
     "id": 33249,
     "title": "NASA Awards Atmosphere Research Support Contract",
     "authors": [
@@ -1017,25 +1037,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "NASA announced its newest class of astronauts Sept. 22. The six women and four men represent NASA’s first astronaut class with more women than men. The class includes scientists, engineers and pilots, with experience ranging from flying military aircraft in combat to working on the Curiosity Mars rover. NASA’s Aerospace Safety Advisory Panel raised similar concerns at a Sept. 19 meeting. “I’ll be damned if the Chinese beat NASA, or beat America, back to the moon. We’re going to win,” Sean Duffy said. Duffy did not directly address recent criticism of Artemis."
-  },
-  {
-    "id": 33200,
-    "title": "Falcon 9 launch pushes NRO satellite fleet past 200 in orbit",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/falcon-9-launch-pushes-nro-satellite-fleet-past-200-in-orbit/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Screenshot-2025-09-22-at-3.47.06-PM.png?fit=1024%2C469&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe launch of NROL-48 marked the eleventh launch in the NRO’s growing proliferated architecture\nThe post Falcon 9 launch pushes NRO satellite fleet past 200 in orbit appeared first on SpaceNews.",
-    "published_at": "2025-09-22T19:56:03Z",
-    "updated_at": "2025-09-22T20:01:08.793642Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX launches a batch of small spy satellites for the National Reconnaissance Office. The rocket lifted off from Vandenberg Space Force Base in California at 1:38 p.m. Eastern. The flight marked the eleventh launch in the NRO’s growing “ proliferated architecture."
   }
 ]
