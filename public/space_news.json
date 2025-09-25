@@ -1,5 +1,192 @@
 [
   {
+    "id": 33249,
+    "title": "NASA Awards Atmosphere Research Support Contract",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2024/08/meatball-w-black-background.webp",
+    "news_site": "NASA",
+    "summary": "NASA has selected Science and Technology Corp. of Columbia, Maryland, to support atmospheric science research and development at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. The Atmosphere Support is a cost-plus-fixed-fee, single-award indefinite-delivery/indefinite-quantity contract with a maximum ordering value of $163.1 million. The contract will have an effective date of Monday, Nov. 3, […]",
+    "published_at": "2025-09-24T21:11:29Z",
+    "updated_at": "2025-09-24T21:20:08.905957Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33248,
+    "title": "Next chapter in space defense: Satellites that never stop moving",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/next-chapter-in-space-defense-satellites-that-never-stop-moving/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/04/orbittfab-shuttle.jpg?fit=1024%2C697&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nConcepts like ‘dynamic space operations’ and ‘sustained space maneuver’ refer not only to extending the life of satellites but also to allowing them to ‘take action’\nThe post Next chapter in space defense: Satellites that never stop moving appeared first on SpaceNews.",
+    "published_at": "2025-09-24T20:53:52Z",
+    "updated_at": "2025-09-24T21:00:25.743441Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33247,
+    "title": "ESCAPADE launch on New Glenn planned for late October or early November",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/escapade-cape-sept2025.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe second launch of Blue Origin’s New Glenn rocket, carrying a NASA smallsat mission to Mars, is now expected in late October or early November.\nThe post ESCAPADE launch on New Glenn planned for late October or early November appeared first on SpaceNews.",
+    "published_at": "2025-09-24T20:44:30Z",
+    "updated_at": "2025-09-24T20:50:18.984491Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33246,
+    "title": "NASA Awards Company to Attempt Swift Spacecraft Orbit Boost",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-awards-company-to-attempt-swift-spacecraft-orbit-boost/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/sci-award-release-swift-orbit-boost-sept-24.jpg",
+    "news_site": "NASA",
+    "summary": "Driving rapid innovation in the American space industry, NASA has awarded Katalyst Space Technologies of Flagstaff, Arizona, a contract to raise a spacecraft’s orbit. Katalyst’s robotic servicing spacecraft will rendezvous with NASA’s Neil Gehrels Swift Observatory and raise it to a higher altitude, demonstrating a key capability for the future of space exploration and extending […]",
+    "published_at": "2025-09-24T20:22:18Z",
+    "updated_at": "2025-09-24T20:30:05.450703Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33244,
+    "title": "NASA Highlights Space Innovation, Exploration at Space Conference",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-highlights-space-innovation-exploration-at-space-conference/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/iac-2025-advisory-sept-24.jpg",
+    "news_site": "NASA",
+    "summary": "Led by acting NASA Administrator Sean Duffy, an agency delegation will participate in the International Astronautical Congress (IAC) in Sydney, Australia, from Sunday, Sept. 28 to Friday, Oct. 3. The IAC, organized by the International Astronautical Federation (IAF), is hosted this year by the Space Industry Association of Australia. During the congress, NASA will highlight […]",
+    "published_at": "2025-09-24T19:16:55Z",
+    "updated_at": "2025-09-24T19:20:06.692178Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33245,
+    "title": "NASA’s Astrobee Robots Advance Through Strategic Partnership",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasas-astrobee-robots-advance-through-strategic-partnership/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/iss059e038084.jpg",
+    "news_site": "NASA",
+    "summary": "NASA is continuing the Astrobee mission through a collaboration with Arkisys, Inc., of Los Alamitos, California, who was awarded a reimbursable Space Act Agreement to sustain and maintain the robotic platform aboard the International Space Station. As the agency returns astronauts to the Moon, robotic helpers like Astrobee could one day take over routine maintenance […]",
+    "published_at": "2025-09-24T19:12:18Z",
+    "updated_at": "2025-09-24T19:20:06.737581Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33243,
+    "title": "NASA Lab Builds New Aircraft to Support Complex Flight Research",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasa-lab-builds-new-aircraft-to-support-complex-flight-research/",
+    "image_url": "https://images-assets.nasa.gov/image/AFRC2025-0148-03/AFRC2025-0148-03~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Armstrong Flight Research Center in Edwards, California, is building a new subscale aircraft to support increasingly complex flight research, offering a more flexible and cost-effective alternative to crewed missions. The aircraft is being built by Justin Hall, chief pilot at NASA Armstrong’s Dale Reed Subscale Flight Research Laboratory, and Justin Link, a small uncrewed […]",
+    "published_at": "2025-09-24T18:55:05Z",
+    "updated_at": "2025-09-24T19:00:06.419359Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33242,
+    "title": "Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/inspa.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – British startup Space Forge and U.S.-based United Semiconductors announced an agreement Sept. 23 to develop capabilities for space-based manufacturing of semiconductors used in electromagnetic sensors and quantum computing. The memorandum of understanding (MoU) follows more than a year of collaboration between the two companies and comes less than a week after Northrop Grumman’s […]\nThe post Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing appeared first on SpaceNews.",
+    "published_at": "2025-09-24T18:09:13Z",
+    "updated_at": "2025-09-24T18:10:19.554492Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33241,
+    "title": "NASA Aircraft Coordinate Science Flights to Measure Air Quality",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/nasa-aircraft-coordinate-science-flights-to-measure-air-quality/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2025/A90%20NASA%20Chesapeake%20Shawn%20Serbin.jpeg",
+    "news_site": "NASA",
+    "summary": "Magic is in the air. No wait… MAGEQ is in the air, featuring scientists from NASA centers across the country who teamed up with the National Oceanic and Atmospheric Administration (NOAA), the University of Maryland Baltimore County, and several other university and government partners and collaborators. This summer, six planes collectively flew more than 400 […]",
+    "published_at": "2025-09-24T18:00:00Z",
+    "updated_at": "2025-09-24T18:10:06.402277Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33240,
     "title": "NASA Data Powers New Tool to Protect Water Supply After Fires",
     "authors": [
@@ -850,197 +1037,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "SpaceX launches a batch of small spy satellites for the National Reconnaissance Office. The rocket lifted off from Vandenberg Space Force Base in California at 1:38 p.m. Eastern. The flight marked the eleventh launch in the NRO’s growing “ proliferated architecture."
-  },
-  {
-    "id": 33199,
-    "title": "Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2025/lettuce-find-healthy-space-food.png",
-    "news_site": "NASA",
-    "summary": "Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads Missions to the Moon and Mars pose nutritional challenges for astronauts. Now, a new paper on space-grown food is telling us it’s time to turn over a new leaf.  Volunteers from NASA’s Open Science Data Repository Analysis Working Groups (OSDR-AWG)  work together to analyze data […]",
-    "published_at": "2025-09-22T18:47:14Z",
-    "updated_at": "2025-09-22T19:10:13.906573Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Missions to the Moon and Mars pose nutritional challenges for astronauts. Volunteers from NASA’s Open Science Data Repository Analysis Working Groups (OSDR-AWG) are working together to analyze data on astronaut health. The AWGs examine biomedical data from NASA missions and space experiments collected in the NASA Open Science data Repository."
-  },
-  {
-    "id": 33198,
-    "title": "IC Stars",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/ic-stars/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/54735841713-aa9781d42e-o.jpg",
-    "news_site": "NASA",
-    "summary": "Data from NASA’s Chandra X-ray Observatory and NASA’s James Webb Space Telescope combine to reveal an otherworldly view of the star-forming region IC 348. In this image released on July 23, 2025, X-rays from Chandra are red, green, and blue, while infrared data from Webb are pink, orange, and purple. The wispy structures that dominate […]",
-    "published_at": "2025-09-22T17:27:16Z",
-    "updated_at": "2025-09-22T17:30:06.106376Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33197,
-    "title": "NASA Selects All-American 2025 Class of Astronaut Candidates",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/ascans-2-003.jpg",
-    "news_site": "NASA",
-    "summary": "Lee este comunicado de prensa en español aquí. NASA’s 10 new astronaut candidates were introduced Monday following a competitive selection process of more than 8,000 applicants from across the United States. The class now will complete nearly two years of training before becoming eligible for flight assignments supporting future science and exploration missions to low Earth […]",
-    "published_at": "2025-09-22T16:45:29Z",
-    "updated_at": "2025-09-22T16:50:07.925647Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33195,
-    "title": "Solar and Space Weather Missions Ready for Launch",
-    "authors": [
-      {
-        "name": "Emily B",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacescout.info/2025/09/6861/",
-    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/09/KSC-20250916-PH-KLS01_0132large.jpg",
-    "news_site": "Space Scout",
-    "summary": "NASA's IMAP mission is set to launch on September 23, 2025, aboard a SpaceX Falcon 9 rocket. This launch brings 3 separate missions to the Earth-Sun L1 Lagrange point: IMAP, the Carruthers Geocorona Observatory, and NOAA’s SWFO-L1.",
-    "published_at": "2025-09-22T15:43:10Z",
-    "updated_at": "2025-09-22T15:50:29.315829Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33194,
-    "title": "Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth",
-    "authors": [
-      {
-        "name": "Moog Inc.",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/moog-breaks-ground-on-new-propulsion-clean-room-to-support-satellite-and-missile-growth/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Moog_logo_maroon.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEast Aurora, NY – Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems announces the groundbreaking […]\nThe post Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth appeared first on SpaceNews.",
-    "published_at": "2025-09-22T15:09:43Z",
-    "updated_at": "2025-09-22T15:10:28.864218Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33193,
-    "title": "Europe’s future space transport ecosystem",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/09/Europe_s_future_space_transport_ecosystem",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/09/europe_s_future_space_transport_ecosystem/26879822-2-eng-GB/Europe_s_future_space_transport_ecosystem_card_full.png",
-    "news_site": "ESA",
-    "summary": "ESA’s future launcher preparatory programme is crafting a space transportation ecosystem, guiding the companies and engineers of today to develop and test the technologies required to meet future needs.",
-    "published_at": "2025-09-22T14:00:00Z",
-    "updated_at": "2025-09-22T13:10:14.652211Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33192,
-    "title": "A double standard about contamination is keeping us from verifying signs of Martian life",
-    "authors": [
-      {
-        "name": "Chad Pozarycki",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/a-double-standard-about-contamination-is-keeping-us-from-verifying-signs-of-martian-life/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/percy-cheyava.jpeg?fit=1024%2C727&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA has announced that the properties of a rock in Jezero Crater qualify as a potential biosignature. The NASA Astrobiology Roadmap defines a biosignature as “an object, substance, and/or pattern whose origin specifically requires a biological agent.” By that standard, a confirmed biosignature would be as close as we can get to proof of alien […]\nThe post A double standard about contamination is keeping us from verifying signs of Martian life  appeared first on SpaceNews.",
-    "published_at": "2025-09-22T13:00:00Z",
-    "updated_at": "2025-09-22T13:00:29.689745Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33191,
-    "title": "Quantum Space acquires Phase Four propulsion assets",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/quantum-space-acquires-phase-four-propulsion-assets/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/quantum-ranger.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nQuantum Space is acquiring propulsion technologies and facilities from Phase Four to support development of its Ranger maneuverable spacecraft.\nThe post Quantum Space acquires Phase Four propulsion assets appeared first on SpaceNews.",
-    "published_at": "2025-09-22T10:52:29Z",
-    "updated_at": "2025-09-22T11:00:37.061155Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33190,
-    "title": "Live coverage: NRO, SpaceX to launch reconnaissance satellites on Falcon 9 rocket from Vandenberg SFB",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/09/22/live-coverage-nro-spacex-to-launch-reconnaissance-satellites-on-falcon-9-rocket-from-vandenberg-sfb/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/03/20250320_NROL_57_Vertical_small.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The NROL-48 mission will be the fifth mission this year supporting the National Reconnaissance Office’s expansive low Earth orbit statellite constellation it calls the proliferated architecture. Liftoff from pad 4E is scheduled for 10:38 a.m. PDT (1:38 p.m. EDT / 1738 UTC).",
-    "published_at": "2025-09-22T10:25:49Z",
-    "updated_at": "2025-09-22T11:14:40.814620Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "86d62815-9266-481b-951e-e53670d27341",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
   }
 ]
