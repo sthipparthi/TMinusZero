@@ -1,5 +1,90 @@
 [
   {
+    "id": 33283,
+    "title": "Hubble Captures Puzzling Galaxy",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC2775_potw2538a.jpg",
+    "news_site": "NASA",
+    "summary": "This NASA/ESA Hubble Space Telescope image features a galaxy that’s hard to categorize. The galaxy in question is NGC 2775, which lies 67 million light-years away in the constellation Cancer (the Crab). NGC 2775 sports a smooth, featureless center that is devoid of gas, resembling an elliptical galaxy. It also has a dusty ring with […]",
+    "published_at": "2025-09-26T11:00:00Z",
+    "updated_at": "2025-09-26T11:46:29.214250Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33284,
+    "title": "Redefining space diplomacy for the 21st century: from orbits to outcomes",
+    "authors": [
+      {
+        "name": "Elif Yüksel",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/health-wagon.webp?fit=1024%2C538&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWhile the world tracks the diplomatic rivalry between the United States-led Artemis Accords (which, with Senegal’s recent signing, is now at 56 member nations) and the China-led International Lunar Research Station partnership, at risk of being overshadowed is the international diplomatic and humanitarian work that’s already happening, enabled by the space community, thanks to state […]\nThe post Redefining space diplomacy for the 21st century: from orbits to outcomes appeared first on SpaceNews.",
+    "published_at": "2025-09-26T11:00:00Z",
+    "updated_at": "2025-09-26T11:10:24.726187Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33281,
+    "title": "ESA shares stage with international partners at IAC 2025",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Exhibitions/ESA_shares_stage_with_international_partners_at_IAC_2025",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/the_international_convention_centre_in_sydney_australia/26887001-1-eng-GB/The_International_Convention_Centre_in_Sydney_Australia_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The European Space Agency (ESA) is participating in the 76th International Astronautical Congress (IAC), which will open its doors on Monday 29 September and last until Friday 3 October in Sydney, Australia. Over 8000 participants from 90 countries are expected to attend the event at the at the International Convention Centre (ICC) under the theme “Sustainable Space: Resilient Earth”.",
+    "published_at": "2025-09-26T09:00:00Z",
+    "updated_at": "2025-09-26T09:40:13.265628Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33280,
+    "title": "Earth from Space: Northeast Greenland National Park",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Northeast_Greenland_National_Park",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/earth_from_space_northeast_greenland_national_park/26886182-1-eng-GB/Earth_from_Space_Northeast_Greenland_National_Park_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-09-26T08:00:00Z",
+    "updated_at": "2025-09-26T08:20:13.784405Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33279,
     "title": "NASA’s contract overhaul puts Dream Chaser’s ISS future in jeopardy",
     "authors": [
@@ -355,6 +440,26 @@
     "summary": "\nNASA has awarded a $30 million contract to a startup to attempt to boost the orbit of an astronomy satellite before it reenters next year.\nThe post NASA awards Katalyst Space contract to reboost Swift spacecraft appeared first on SpaceNews.",
     "published_at": "2025-09-25T15:02:42Z",
     "updated_at": "2025-09-25T15:10:22.729380Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33282,
+    "title": "Pulse: ESA’s new approach to flying satellites",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Operations/Pulse_ESA_s_new_approach_to_flying_satellites",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/pulse_key_visual/26887947-1-eng-GB/Pulse_key_visual_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-09-25T14:43:00Z",
+    "updated_at": "2025-09-26T09:40:13.437336Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -901,135 +1006,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33235,
-    "title": "Webb explores largest star-forming cloud in our galaxy",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_explores_largest_star-forming_cloud_in_our_galaxy",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/sagittarius_b2_nircam_image/26884098-1-eng-GB/Sagittarius_B2_NIRCam_image_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The NASA/ESA/CSA James Webb Space Telescope has revealed a colourful array of massive stars and glowing cosmic dust in the Sagittarius B2 (Sgr B2) molecular cloud, the most massive and active star-forming region in our Milky Way galaxy.",
-    "published_at": "2025-09-24T14:00:00Z",
-    "updated_at": "2025-09-24T16:15:05.168879Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33233,
-    "title": "NASA, NOAA Launch Three Spacecraft to Map Sun’s Influence Across Space",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-noaa-launch-three-spacecraft-to-map-suns-influence-across-space/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/screenshot-2025-09-24-092053.png",
-    "news_site": "NASA",
-    "summary": "NASA and the National Oceanic and Atmospheric Administration (NOAA) launched three new missions Wednesday to investigate the Sun’s influence across the solar system. At 7:30 a.m. EDT, a SpaceX Falcon 9 rocket lifted off from Launch Complex 39A at NASA’s Kennedy Space Center in Florida carrying the agency’s IMAP (Interstellar Mapping and Acceleration Probe), Carruthers […]",
-    "published_at": "2025-09-24T13:56:54Z",
-    "updated_at": "2025-09-24T16:14:57.669989Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "689d7129-10fa-4df9-b81e-2b8fb926bbaf",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33232,
-    "title": "Zeno Power secures americium-241 supply for space nuclear batteries",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/zeno-power-secures-americium-241-supply-for-space-nuclear-batteries/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/ZENO-Orano-UNF-storage-scaled.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nZeno Power has signed a multimillion-dollar deal with Orano, a French nuclear recycler, to lock in a steady supply of americium-241 to fuel the U.S. startup’s long-duration space batteries.\nThe post Zeno Power secures americium-241 supply for space nuclear batteries appeared first on SpaceNews.",
-    "published_at": "2025-09-24T13:41:45Z",
-    "updated_at": "2025-09-24T13:50:27.104204Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33231,
-    "title": "Falcon 9 launches three space weather missions",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/falcon-9-launches-three-space-weather-missions/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/imap2024.jpg?fit=1024%2C637&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "A Falcon 9 launched a “cosmic carpool” of spacecraft for NASA and NOAA Sept. 24 that will study the sun and its role in space weather.\r\nThe post Falcon 9 launches three space weather missions appeared first on SpaceNews.",
-    "published_at": "2025-09-24T13:18:44Z",
-    "updated_at": "2025-09-24T16:14:54.077887Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "689d7129-10fa-4df9-b81e-2b8fb926bbaf",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33230,
-    "title": "We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up?",
-    "authors": [
-      {
-        "name": "Will Lewis",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/were-cluttering-earths-orbit-at-record-speed-whos-going-to-clean-it-up/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/04/Geostationary_orbit_pillars-credit-ESA.jpg?fit=1024%2C512&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe rules we have were designed to prevent disaster, not manage growth. It’s time for a smarter, more adaptable approach.\nThe post We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up? appeared first on SpaceNews.",
-    "published_at": "2025-09-24T13:00:00Z",
-    "updated_at": "2025-09-24T13:10:26.627187Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
