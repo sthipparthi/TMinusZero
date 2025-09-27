@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2025-09-26T18:03:18.752040Z",
+  "count": 7,
+  "last_updated": "2025-09-27T00:04:34.522367Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,50 +11,9 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (3 successful)",
-    "Empty AI summaries (5 failed/unavailable)"
+    "Empty AI summaries (4 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "3dd1e7c0-ceb1-4e28-b6ed-b22c4aec5852",
-      "name": "Long March 2D | Unknown Payload",
-      "status": "Go",
-      "net": "2025-09-26T19:20:00Z",
-      "window_start": "2025-09-26T19:15:00Z",
-      "window_end": "2025-09-26T19:44:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Launch Area 4 (SLS-2 / 603), Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 4 (SLS-2 / 603)",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Long March 2D",
-      "rocket_config_description": "The Long March 2D, also known as the Chang Zheng 2D, CZ-2D and LM-2D, is a Chinese orbital carrier rocket. It is a 2-stage carrier rocket mainly used for launching LEO and SSO satellites.",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 2D",
-      "rocket_config_total_launch_count": 94,
-      "rocket_config_successful_launches": 93,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 542,
-      "rocket_manufacturer_successful_launches": 528,
-      "rocket_manufacturer_failed_launches": 14,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/3dd1e7c0-ceb1-4e28-b6ed-b22c4aec5852/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "86a178d5-7ea4-4a46-b1d7-801037ea1dfd",
       "name": "Long March 6A | Unknown Payload",
@@ -371,7 +330,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 3,
-    "empty_summaries": 5,
-    "total_launches": 8
+    "empty_summaries": 4,
+    "total_launches": 7
   }
 }
