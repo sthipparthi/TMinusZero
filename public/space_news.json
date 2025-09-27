@@ -1,5 +1,25 @@
 [
   {
+    "id": 33302,
+    "title": "China boosts broadband, IoT and weather satellite fleets with flurry of launches",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-boosts-broadband-iot-and-weather-satellite-fleets-with-flurry-of-launches/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Fengyun3H-CZ4C-YZ1S-JSLC-26sept2025-OS1.jpg?fit=1024%2C657&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA flurry of launch activity has seen China add to an Internet of Things constellation, loft new broadband satellites and boost its weather satellite fleet.\nThe post China boosts broadband, IoT and weather satellite fleets with flurry of launches appeared first on SpaceNews.",
+    "published_at": "2025-09-27T15:38:43Z",
+    "updated_at": "2025-09-27T15:40:22.639452Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "A Long March 6A lifted off at 8:40 a.m. Eastern (1240 UTC) Sept. 27 from Taiyuan Satellite Launch Center in north China. The mission payloads are believed to be the 11th batch of Guowang broadband megaconstellation project. The launch came less than a day after China added to its Fengyun series of meteorological satellites. China is closing in on a new national record for launches in a calendar year ( currently 68, set in 2024 ). Of the launches, 56 have been successful, with the only failure coming in August. The next launch out of China is expected to be a Long March 2D rocket launching from Jiuquan early Sept. 29 UTC."
+  },
+  {
     "id": 33301,
     "title": "ArianeGroup Awards Contract for Components of 27 Ariane 6 Rockets",
     "authors": [
@@ -971,25 +991,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 33253,
-    "title": "Live coverage: ULA to launch fifth batch of Amazon’s Project Kuiper satellites from Cape Canaveral",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/09/25/live-coverage-ula-to-launch-fifth-batch-of-amazons-project-kuiper-satellites-from-cape-canaveral/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250925_Kuiper_sunrise.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "This is the third time that United Launch Alliance will launch these broadband satellites, but it’s the fifth batch heading to orbit overall for the constellation. Liftoff is scheduled for 8:09 a.m. EDT (1230 UTC). ",
-    "published_at": "2025-09-25T11:39:03Z",
-    "updated_at": "2025-09-25T11:40:28.221098Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Onboard are the next 27 Project Kuiper satellites from Amazon. ULA is targeting liftoff from Space Launch Complex 41 at 8:09 a.m. EDT (1209 UTC) Once deployed, Amazon will have 129 satellites in low Earth orbit. NROL-70 with be the 389th Delta launch since 1960 and 45th Delta 4 rocket."
   }
 ]
