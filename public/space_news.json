@@ -1,5 +1,25 @@
 [
   {
+    "id": 33301,
+    "title": "ArianeGroup Awards Contract for Components of 27 Ariane 6 Rockets",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/arianegroup-awards-contract-for-components-of-27-ariane-6-rockets/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/ArianeGroup-Awards-Contract-for-Components-of-27-Ariane-6-Rockets.webp",
+    "news_site": "European Spaceflight",
+    "summary": "ArianeGroup has contracted MT Aerospace to deliver key components for 27 Ariane 6 rockets, covering flights 16 through 42. Germany’s MT Aerospace is one of the Ariane 6 programme’s largest contractors, providing around 10% of the entire launch vehicle. The company supplies components for the cryogenic storage tanks and metallic structures of both the upper […]\nThe post ArianeGroup Awards Contract for Components of 27 Ariane 6 Rockets appeared first on European Spaceflight.",
+    "published_at": "2025-09-27T06:22:59Z",
+    "updated_at": "2025-09-27T06:30:13.116472Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "MT Aerospace is one of the Ariane 6 programme’s largest contractors, providing around 10% of the entire launch vehicle. The company supplies components for the cryogenic storage tanks and metallic structures of both the upper and core stages. MT Aerospace is responsible for producing the carbon-fibre-reinforced plastic tanks that will store liquid hydrogen and liquid oxygen."
+  },
+  {
     "id": 33300,
     "title": "‘Left of launch’ becomes central focus in next-generation missile defense",
     "authors": [
@@ -971,32 +991,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Onboard are the next 27 Project Kuiper satellites from Amazon. ULA is targeting liftoff from Space Launch Complex 41 at 8:09 a.m. EDT (1209 UTC) Once deployed, Amazon will have 129 satellites in low Earth orbit. NROL-70 with be the 389th Delta launch since 1960 and 45th Delta 4 rocket."
-  },
-  {
-    "id": 33254,
-    "title": "Redwire to provide solar arrays for Axiom space station module",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/redwire-to-provide-solar-arrays-for-axiom-space-station-module/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/axiomstation.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAxiom Space has awarded a contract to Redwire to provide solar arrays for the first module of Axiom’s planned commercial space station.\nThe post Redwire to provide solar arrays for Axiom space station module appeared first on SpaceNews.",
-    "published_at": "2025-09-25T11:30:00Z",
-    "updated_at": "2025-09-25T11:40:28.437335Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Axiom Space has awarded a contract to Redwire to provide solar arrays for the first module of Axiom’s planned commercial space station. The companies announced Sept. 25 that Redwire will provide a version of its Roll-Out Solar Array. The partnership comes as NASA revises plans to support development of commercial stations. Pakistan chose instead to partner with China. Axiom has signed countries such as Hungary, India and Poland for private astronaut missions. “We will and must avoid a space station gap in LEO to ensure that America is at least equal to Chinese capabilities in this incredibly important field of endeavor”"
   }
 ]
