@@ -1,6 +1,6 @@
 {
-  "count": 4,
-  "last_updated": "2025-09-29T18:02:27.303671Z",
+  "count": 5,
+  "last_updated": "2025-09-30T00:04:58.301169Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (2 successful)",
+    "AI-generated summaries (3 successful)",
     "Empty AI summaries (2 failed/unavailable)"
   ],
   "launches": [
@@ -154,6 +154,55 @@
       "ai_summary": ""
     },
     {
+      "id": "41068e09-4097-448f-ac7c-421c19b6aab9",
+      "name": "Starship | Flight 11",
+      "status": "Go",
+      "net": "2025-10-13T23:15:00Z",
+      "window_start": "2025-10-13T23:15:00Z",
+      "window_end": "2025-10-14T00:15:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Flight 11",
+      "mission_description": "11th test flight of the two-stage Starship launch vehicle.",
+      "mission_type": "Test Flight",
+      "orbit": "Suborbital",
+      "launch_site": "Orbital Launch Pad 1, SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Pad 1",
+      "location": "SpaceX Starbase, TX, USA",
+      "rocket": "Starship",
+      "rocket_config_description": "Fully reusable two-stage super heavy-lift launch vehicle.",
+      "rocket_config_family": "Starship",
+      "rocket_config_full_name": "Starship",
+      "rocket_config_total_launch_count": 10,
+      "rocket_config_successful_launches": 5,
+      "rocket_config_failed_launches": 5,
+      "rocket_config_pending_launches": 3,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 577,
+      "rocket_manufacturer_successful_launches": 562,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/41068e09-4097-448f-ac7c-421c19b6aab9/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "Starship's Eleventh Flight Test",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/G2CiC-uXkAAU-TM.jpg",
+          "url": "https://x.com/i/broadcasts/1mrGmBjyEZgJy"
+        }
+      ],
+      "ai_summary": "SpaceX will launch Starship | Flight 11 from Orbital Launch Pad 1, SpaceX Starbase, TX, USA using their Fully reusable two-stage super heavy-lift launch vehicle. The rocket has a track record of (5/10 successful launches) with (562/577 manufacturer successful launches)."
+    },
+    {
       "id": "8c2412ae-fbef-443f-aae8-db538f38eec6",
       "name": "H3-24 | HTV-X1",
       "status": "Go",
@@ -198,8 +247,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 2,
+    "successful_summaries": 3,
     "empty_summaries": 2,
-    "total_launches": 4
+    "total_launches": 5
   }
 }

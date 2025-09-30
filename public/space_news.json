@@ -1,5 +1,65 @@
 [
   {
+    "id": 33332,
+    "title": "Launch Roundup: Falcon 9 launches Starlink and Kuiper satellites",
+    "authors": [
+      {
+        "name": "Martin Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/09/launch-roundup-092925/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX is scheduled to launch up to three times this week, with each mission planned…\nThe post Launch Roundup: Falcon 9 launches Starlink and Kuiper satellites appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-09-29T21:04:33Z",
+    "updated_at": "2025-09-29T21:10:12.520766Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX is scheduled to launch up to three times this week, with each mission planned to deploy internet communications satellites into low-Earth orbit. China kicked off the week’s launch manifest, for those in UTC, with the launch of its 100th Chang Zheng 2D rocket in the early hours of Monday morning. SpaceX will launch its third and final batch of satellites for Amazon’s Project Kuiper constellation. The mission is currently set to liftoff on Friday, Oct. 3, at 11:43 PM EDT (06:30 UTC on October 4), in the middle of a short 27-minute launch window. Onboard will be 28 more Starlink v2 Mini satellites, bound for an orbit at an altitude of 595 km, inclined at 53 degrees. Booster B1097 will make its second flight, having debuted only weeks ago at the start of September, launching a mission for Starlink's Group 17 shell.  NASASpaceflight.com will be taking part in the 25th anniversary of the first space shuttle mission in September 2025. The space shuttle program will take part in a series of missions over the course of 15 years. The first mission will take place on September 22, 2025, with the second and final mission scheduled for September 23, 2025."
+  },
+  {
+    "id": 33330,
+    "title": "New File Download Process for PSI Large Requests",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/uncategorized/new-file-download-process-for-large-requestspsi-new-file-download-process/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/bps-general/bps-data_osdr_psi/PSI_NewFileDownload_pic1.jpg",
+    "news_site": "NASA",
+    "summary": "A recent update to the PSI database improves how large dataset downloads are handled, resulting in more efficient processing for users. Download requests larger than 1GB are now delivered via email, rather than downloading directly from the website. This allows the system to prepare your files in the background so you can continue working without […]",
+    "published_at": "2025-09-29T18:22:13Z",
+    "updated_at": "2025-09-29T19:10:08.040500Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "A recent update to the PSI database improves how large dataset downloads are handled. Download requests larger than 1GB are now delivered via email, rather than downloading directly from the website. This allows the system to prepare your files in the background so you can continue working without delays."
+  },
+  {
+    "id": 33331,
+    "title": "Joe A. Adam Presents Ring Sheared Drop (RSD) Research at 2025 ISSRDC",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/uncategorized/rsd-presented-at-issrdc/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/bps-general/bps-data_osdr_psi/RSD_Image_PSIarticle.tif",
+    "news_site": "NASA",
+    "summary": "At the virtual 2025 ISS Research and Development Conference (ISSDRC), Joe A. Adam of Rensselaer Polytechnic Institute, presented the topic titled “Surface Science in Microgravity – Fluid Geometry in the Ring-Sheared Drop,” presented to a broad audience from academia and the scientific community during the Physical Sciences and Materials Development session. Dr. Adam provided a […]",
+    "published_at": "2025-09-29T18:09:11Z",
+    "updated_at": "2025-09-29T19:10:08.133862Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Ring Sheared Drop (RSD) enables researchers to isolate shear-induced aggregation processes relevant to neurodegenerative diseases such as Alzheimer's and Parkinson's. The RSD's custom camera configuration has enabled a novel fluid characterization technique known as Particle Tracking Velocimetry (PTV)"
+  },
+  {
     "id": 33326,
     "title": "Hubble Surveys Cloudy Cluster",
     "authors": [
@@ -85,26 +145,6 @@
     "detailed_news": "A startup named Cosmic Shielding says it has found a way to close the technology gap that limits how much computing power satellites can carry into orbit. The Atlanta-based company developed a lightweight nanocomposite, branded Plasteel. Radiation is one of the main reasons satellites still rely on radiation-hardened chips that are often five to 10 generations behind the latest commercial designs. Cosmic Shielding is currently based in Atlanta but plans to relocate to Huntsville, Alabama. The startup has drawn high-profile advisors: former Pentagon officials Lisa Porter and Michael Griffin have joined its board. “We now have about seven active systems in space. We have about 10 scheduled for the next 12 months,” Barghouty said."
   },
   {
-    "id": 33328,
-    "title": "NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K6196E18EPYF8RDEAQVA01Y3.png",
-    "news_site": "NASA",
-    "summary": "NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk encircling a large exoplanet. The carbon-rich disk surrounding the world called CT Cha b, which is located 625 light-years away from Earth, is a possible construction yard for moons, although no moons are […]",
-    "published_at": "2025-09-29T14:00:00Z",
-    "updated_at": "2025-09-29T17:10:07.957600Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA's James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk encircling a large exoplanet. The carbon-rich disk surrounding the world called CT Cha b, which is located 625 light-years away from Earth, is a possible construction yard for moons. Webb is an international program led by NASA with its partners, ESA (European Space Agency) and CSA (Canadian Space Agency). Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars. To learn more about Webb, visit: https://science.nasa.gov/webb"
-  },
-  {
     "id": 33324,
     "title": "Webb studies moon-forming disc around massive planet",
     "authors": [
@@ -128,6 +168,26 @@
     ],
     "events": [],
     "detailed_news": "The carbon-rich disc surrounding the world called CT Cha B, which is located 625 light years away from Earth, is a possible construction yard for moons. The disc offers insight into how the moons of Solar System gas giants like Jupiter might have formed. Our Solar System contains eight major planets, and more than 400 known moons orbiting six of these planets. In the coming year, the team will use Webb to perform a comprehensive survey of similar objects to better understand the diversity of physical and chemical properties in the discs around young planets. The insights could be useful as our Jupiter Icy Moons Explorer ( Juice ) makes its way to Jupiter, and as we prepare a future mission to orbit and land on Saturn's moon Enceladus."
+  },
+  {
+    "id": 33328,
+    "title": "NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K6196E18EPYF8RDEAQVA01Y3.png",
+    "news_site": "NASA",
+    "summary": "NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk encircling a large exoplanet. The carbon-rich disk surrounding the world called CT Cha b, which is located 625 light-years away from Earth, is a possible construction yard for moons, although no moons are […]",
+    "published_at": "2025-09-29T14:00:00Z",
+    "updated_at": "2025-09-29T17:10:07.957600Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA's James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk encircling a large exoplanet. The carbon-rich disk surrounding the world called CT Cha b, which is located 625 light-years away from Earth, is a possible construction yard for moons. Webb is an international program led by NASA with its partners, ESA (European Space Agency) and CSA (Canadian Space Agency). Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars. To learn more about Webb, visit: https://science.nasa.gov/webb"
   },
   {
     "id": 33321,
@@ -948,70 +1008,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. Click here for the next gallery of iReporters' snapshots."
-  },
-  {
-    "id": 33284,
-    "title": "Redefining space diplomacy for the 21st century: from orbits to outcomes",
-    "authors": [
-      {
-        "name": "Elif Yüksel",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/health-wagon.webp?fit=1024%2C538&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWhile the world tracks the diplomatic rivalry between the United States-led Artemis Accords (which, with Senegal’s recent signing, is now at 56 member nations) and the China-led International Lunar Research Station partnership, at risk of being overshadowed is the international diplomatic and humanitarian work that’s already happening, enabled by the space community, thanks to state […]\nThe post Redefining space diplomacy for the 21st century: from orbits to outcomes appeared first on SpaceNews.",
-    "published_at": "2025-09-26T11:00:00Z",
-    "updated_at": "2025-09-26T11:10:24.726187Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33283,
-    "title": "Hubble Captures Puzzling Galaxy",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC2775_potw2538a.jpg",
-    "news_site": "NASA",
-    "summary": "This NASA/ESA Hubble Space Telescope image features a galaxy that’s hard to categorize. The galaxy in question is NGC 2775, which lies 67 million light-years away in the constellation Cancer (the Crab). NGC 2775 sports a smooth, featureless center that is devoid of gas, resembling an elliptical galaxy. It also has a dusty ring with […]",
-    "published_at": "2025-09-26T11:00:00Z",
-    "updated_at": "2025-09-26T11:46:29.214250Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33281,
-    "title": "ESA shares stage with international partners at IAC 2025",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Exhibitions/ESA_shares_stage_with_international_partners_at_IAC_2025",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/the_international_convention_centre_in_sydney_australia/26887001-1-eng-GB/The_International_Convention_Centre_in_Sydney_Australia_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The European Space Agency (ESA) is participating in the 76th International Astronautical Congress (IAC), which will open its doors on Monday 29 September and last until Friday 3 October in Sydney, Australia. Over 8000 participants from 90 countries are expected to attend the event at the at the International Convention Centre (ICC) under the theme “Sustainable Space: Resilient Earth”.",
-    "published_at": "2025-09-26T09:00:00Z",
-    "updated_at": "2025-09-26T09:40:13.265628Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
