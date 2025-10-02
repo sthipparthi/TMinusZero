@@ -1,5 +1,110 @@
 [
   {
+    "id": 33403,
+    "title": "Live coverage: SpaceX to launch 3rd consecutive Falcon 9 rocket from Vandenberg SFB, uninterrupted by a Cape mission",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/10/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/03/20240318-Starlink-Feature-Image.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 11-39 mission is scheduled to liftoff from pad 4E at Vandenberg Space Force Base at 6:21 a.m. PDT (9:21 a.m. EDT / 1321 UTC). The Falcon 9 rocket will fly on a south-easterly trajectory. ",
+    "published_at": "2025-10-02T17:40:57Z",
+    "updated_at": "2025-10-02T17:50:21.342045Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33402,
+    "title": "DLR Prepares to Launch Small Reusable Space Transportation Demonstrator",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/dlr-prepares-to-launch-small-reusable-space-transportation-demonstrator/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/DLR-Prepares-to-Launch-Small-Reusable-Space-Transportation-Demonstrator.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The German Aerospace Center (DLR) is preparing to launch its ATHEAt reusable space transportation demonstrator mission from Andøya Space in Norway. Initiated in January 2022, the Advanced Technologies for High Energetic Atmospheric Flight of Launcher Stages (ATHEAt) demonstrator programme is focused on testing key technologies for future reusable space vehicles, with a particular emphasis on […]\nThe post DLR Prepares to Launch Small Reusable Space Transportation Demonstrator appeared first on European Spaceflight.",
+    "published_at": "2025-10-02T14:42:23Z",
+    "updated_at": "2025-10-02T14:50:10.755898Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33401,
+    "title": "Space security, threats and rapid innovation",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-security-threats-and-rapid-innovation/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/072525-space-minds-podcast-ISS-1920-1080-1.png?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIn this week’s episode of Space Minds, host David Aireosto speaks with Steve Kitay— former Deputy Assistant Secretary of Defense for Space Policy, former head of Microsoft’s space initiatives, and now Senior Vice President for Space Defense at True Anomaly.\nThe post Space security, threats and rapid innovation appeared first on SpaceNews.",
+    "published_at": "2025-10-02T14:21:08Z",
+    "updated_at": "2025-10-02T14:30:26.914473Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33399,
+    "title": "China’s ‘near space’ legal warfare",
+    "authors": [
+      {
+        "name": "Todd Pennington and Emmy Kanarowski",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/chinas-near-space-legal-warfare/",
+    "image_url": "https://spacenews.com/wp-content/uploads/2025/10/G2ADD2LZBZFCTMIAZ4EVCJOE7Y.avif",
+    "news_site": "SpaceNews",
+    "summary": "\nIn February 2023, a United States Air Force fighter jet shot down a Chinese high-altitude balloon flying at about 60,000-65,000 feet (18-20 km) altitude in sovereign U.S. airspace. After the event, some commentary suggested that the incident raised questions about the supposedly ambiguous or unsettled legal status of high-altitude airspace, sometimes referred to as “near […]\nThe post China’s ‘near space’ legal warfare appeared first on SpaceNews.",
+    "published_at": "2025-10-02T13:00:00Z",
+    "updated_at": "2025-10-02T13:10:20.812152Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33398,
+    "title": "Fly over Xanthe Terra with Mars Express",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/10/Fly_over_Xanthe_Terra_with_Mars_Express",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/10/fly_over_xanthe_terra_with_mars_express/26897957-1-eng-GB/Fly_over_Xanthe_Terra_with_Mars_Express_card_full.png",
+    "news_site": "ESA",
+    "summary": "ESA’s Mars Express takes us on another mesmerising flight over curving channels carved by water, islands that have resisted erosion, and a maze of hilly terrain.",
+    "published_at": "2025-10-02T13:00:00Z",
+    "updated_at": "2025-10-02T14:02:17.181402Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "db62cfa1-4d10-41d3-b25f-a58e138ce202",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33397,
     "title": "How America fell behind China in the lunar space race—and how it can catch back up",
     "authors": [
@@ -928,105 +1033,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 33354,
-    "title": "China set for high-stakes moon program and reusable launch tests to close out 2025",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/china-set-for-high-stakes-moon-program-and-reusable-launch-tests-to-close-out-2025/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/lanyue-landing-takeoff-test-hebei-6aug2025-CMSEO-1.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nChina is preparing a series of tests and launches in the final quarter of 2025 crucial to its crewed moon program and commercial rocket plans.\nThe post China set for high-stakes moon program and reusable launch tests to close out 2025 appeared first on SpaceNews.",
-    "published_at": "2025-09-30T17:26:32Z",
-    "updated_at": "2025-09-30T17:30:29.181397Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "China is preparing a series of tests and launches in the final quarter of 2025 crucial to its crewed moon program and commercial rocket plans. The country’s ambition to land astronauts on the moon before the end of the decade has seen significant progress on hardware so far in 2025. China Aerospace Science and Technology Corporation (CASC) has conducted two static fires of a shortened first stage test article for the Long March 10. Andrew Jones covers China's space industry for SpaceNews. Andrew has previously lived in China and reported from major space conferences there. Register now to get 2 more free articles every month. You’ll also receive our weekly SpaceNews This Week newsletter every Friday. opt-out at any time."
-  },
-  {
-    "id": 33353,
-    "title": "Jupiter’s Volcanic Moon Io",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/jupiters-volcanic-moon-io/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-october-2025-4k-3840x2160-1.jpg",
-    "news_site": "NASA",
-    "summary": "During its close flyby of Jupiter’s moon Io on December 30, 2023, NASA’s Juno spacecraft captured some of the most detailed imagery ever of Io’s volcanic surface. In this image, taken by the JunoCam instrument from about 930 miles (1,500 kilometers) above the moon, Io’s night side [left lobe] is illuminated by “Jupitershine,” which is […]",
-    "published_at": "2025-09-30T16:26:14Z",
-    "updated_at": "2025-09-30T16:30:08.338268Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA's Juno spacecraft captured some of the most detailed imagery ever of Io’s volcanic surface. In this image, taken by the JunoCam instrument from about 930 miles (1,500 kilometers) above the moon. This image is the NASA Science Image of the Month for October 2025."
-  },
-  {
-    "id": 33351,
-    "title": "Planet to Open Berlin Manufacturing Site Following €240M Contract",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/planet-to-open-berlin-manufacturing-site-following-e240m-contract/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/09/Planet-to-Open-Berlin-Manufacturing-Site-Following-240M-Euro-Contract.webp",
-    "news_site": "European Spaceflight",
-    "summary": "US-based Earth observation data provider Planet has announced that it will open a new manufacturing facility in Germany, where it will produce its next-generation Pelican satellites. In July, Planet announced that it had been awarded a €240 million contract from the German government to provide dedicated capacity on its Pelican satellites over specific European regions. […]\nThe post Planet to Open Berlin Manufacturing Site Following €240M Contract appeared first on European Spaceflight.",
-    "published_at": "2025-09-30T15:29:02Z",
-    "updated_at": "2025-09-30T15:30:20.212249Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Planet announced plans to open a new production facility in Berlin to build its next-generation Pelican satellites. The new facility is expected to add up to 70 new employees to the company’s German subsidiary. In July, Planet announced that it had been awarded a €240 million contract from the German government."
-  },
-  {
-    "id": 33348,
-    "title": "OSDR and PSI Unveil New Consolidated Website",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/uncategorized/osdr-and-psi-unveil-new-consolidated-website/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/bps-general/bps-data_osdr_psi/new%20OSDR%20website.png",
-    "news_site": "NASA",
-    "summary": "The Open Science Data Repository (OSDR) and Physical Sciences Informatics (PSI) has a new home. As part of NASA’s website consolidation initiative, the OSDR and PSI site have officially transitioned to the Biological and Physical Sciences (BPS) Data page, accessible through the “Data” menu on the Science Mission Directorate’s (SMD) website at science.nasa.gov. This strategic […]",
-    "published_at": "2025-09-30T15:01:56Z",
-    "updated_at": "2025-09-30T15:10:07.879431Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Open Science Data Repository (OSDR) and Physical Sciences Informatics (PSI) have a new home. As part of NASA’s website consolidation initiative, the OSDR and PSI site have officially transitioned to the BPS Data page. By integrating these repositories, NASA is expanding opportunities for cross-disciplinary research."
-  },
-  {
-    "id": 33352,
-    "title": "OSDR and PSI Unveil New Consolidated Website",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/biological-physical-sciences/osdr-and-psi-unveil-new-consolidated-website/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/bps-general/bps-data_osdr_psi/new%20OSDR%20website.png",
-    "news_site": "NASA",
-    "summary": "The Open Science Data Repository (OSDR) and Physical Sciences Informatics (PSI) has a new home. As part of NASA’s website consolidation initiative, the OSDR and PSI site have officially transitioned to the Biological and Physical Sciences (BPS) Data page, accessible through the “Data” menu on the Science Mission Directorate’s (SMD) website at science.nasa.gov. This strategic […]",
-    "published_at": "2025-09-30T15:01:56Z",
-    "updated_at": "2025-09-30T16:10:07.510425Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Open Science Data Repository (OSDR) and Physical Sciences Informatics (PSI) have a new home. As part of NASA’s website consolidation initiative, the OSDR and PSI site have officially transitioned to the BPS Data page. By integrating these repositories, NASA is expanding opportunities for cross-disciplinary research."
   }
 ]
