@@ -1,5 +1,25 @@
 [
   {
+    "id": 33429,
+    "title": "Navigating through interference at Jammertest",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Navigating_through_interference_at_Jammertest",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/esa_testbed_van_in_norway/26903585-1-eng-GB/ESA_testbed_van_in_Norway_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Satellite navigation is essential to everything from tracking your morning jog to landing air ambulances. But as reliance on satellite navigation grows, so do the risks associated with its interruption, natural or intentional. In its pursuit of strengthening European resilience in navigation, the European Space Agency (ESA) took part in Jammertest.",
+    "published_at": "2025-10-06T11:11:00Z",
+    "updated_at": "2025-10-06T11:30:13.502964Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33428,
     "title": "Firefly to acquire defense contractor SciTec in $855 million deal",
     "authors": [
@@ -1016,25 +1036,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "ESA has signed a €50 million contract with aerospace company Thales Alenia Space to begin the preliminary design phase of the Security And cryptoGrAphic (SAGA) mission. SAGA, developed by ESA, aims to demonstrate quantum key distribution (QKD) via satellites."
-  },
-  {
-    "id": 33379,
-    "title": "Maxar retires its name, rebrands as Vantor and Lanteris",
-    "authors": [
-      {
-        "name": "Sandra Erwin and Jason Rainbow",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/maxar-retires-its-name-rebrands-as-vantor-and-lanteris/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Forge-Real-Time-Fusion.png?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Maxar name is disappearing from the space industry as two successor companies emerge with distinct identities: Maxar Intelligence will now operate as Vantor, and Maxar Space Systems will go by Lanteris\nThe post Maxar retires its name, rebrands as Vantor and Lanteris appeared first on SpaceNews.",
-    "published_at": "2025-10-01T12:00:00Z",
-    "updated_at": "2025-10-01T12:00:36.337753Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Maxar’s satellite manufacturing arm was hit hard by a global slump in commercial GEO communications satellites. Order volumes fell as operators faced excess capacity, shifting customer demands and the rise of low Earth orbit (LEO) constellations. The company shifted its focus toward government work and smaller satellites."
   }
 ]
