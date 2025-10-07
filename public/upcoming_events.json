@@ -1,6 +1,6 @@
 {
-  "count": 13,
-  "last_updated": "2025-10-07T12:05:06.072834Z",
+  "count": 15,
+  "last_updated": "2025-10-07T18:02:34.035629Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (11 successful)",
+    "AI-generated summaries (13 successful)",
     "Empty AI summaries (2 failed/unavailable)"
   ],
   "launches": [
@@ -192,6 +192,47 @@
       "probability": null,
       "video_urls": [],
       "ai_summary": "Long March 8A is an orbital launch vehicle developed by the China Academy of Launch Vehicle Technology based on the Long March 8. It has an increased capability of up to 7 tonnes to a 700 km altitude sun-synchronous orbit. The rocket has a track record of (3/3 successful launches)."
+    },
+    {
+      "id": "57d675d1-9a50-4c62-bee0-915c8c26befe",
+      "name": "Gravity-1 | Unknown Payload",
+      "status": "Go",
+      "net": "2025-10-11T02:15:00Z",
+      "window_start": "2025-10-11T02:10:00Z",
+      "window_end": "2025-10-11T02:32:00Z",
+      "lsp_name": "Orienspace Technology",
+      "lsp_description": "Galactic Energy is a private aerospace company headquartered in Yantai, Shandong, China, established in 2020. The company is developing the Gravity Series of satellite launch vehicles.",
+      "lsp_type": "Commercial",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/orienspace2520technology_logo_20240112075736.png",
+      "mission_name": "Unknown Payload",
+      "mission_description": "Details TBD.",
+      "mission_type": "Unknown",
+      "orbit": "Unknown",
+      "launch_site": "Haiyang Spaceport, Sea Launch",
+      "pad": "Haiyang Spaceport",
+      "location": "Sea Launch",
+      "rocket": "Gravity-1",
+      "rocket_config_description": "A 4 stage launch vehicle by Chinese private company OrienSpace, consisting of 5 solid rocket motors clustered together but with the center motor igniting just before boosters separation. The upper two stages also uses solid fuel.",
+      "rocket_config_family": "",
+      "rocket_config_full_name": "Gravity-1",
+      "rocket_config_total_launch_count": 1,
+      "rocket_config_successful_launches": 1,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Orienspace Technology",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Galactic Energy is a private aerospace company headquartered in Yantai, Shandong, China, established in 2020. The company is developing the Gravity Series of satellite launch vehicles.",
+      "rocket_manufacturer_total_launch_count": 1,
+      "rocket_manufacturer_successful_launches": 1,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gravity-12520_image_20240112065126.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/57d675d1-9a50-4c62-bee0-915c8c26befe/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": "Orienspace Technology will launch Gravity-1 | Unknown Payload from Haiyang Spaceport, Sea Launch. A 4 stage launch vehicle by Chinese private company OrienSpace, consisting of 5 solid rocket motors."
     },
     {
       "id": "02348ca1-d937-441b-86fe-5002275907db",
@@ -445,6 +486,55 @@
       "ai_summary": "SpaceX will launch Falcon 9 Block 5 | Starlink Group 10-17 from Space Launch Complex 40, Cape Canaveral SFS, FL, USA using their Falcon 9 rocket. This Communications mission involves A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system."
     },
     {
+      "id": "0d2920f2-87d9-4c5a-aebe-614d8baae2a2",
+      "name": "Falcon 9 Block 5 | Starlink Group 11-19",
+      "status": "Go",
+      "net": "2025-10-18T02:09:00Z",
+      "window_start": "2025-10-18T02:09:00Z",
+      "window_end": "2025-10-18T06:09:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Starlink Group 11-19",
+      "mission_description": "A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mission_type": "Communications",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Space Launch Complex 4E, Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 487,
+      "rocket_config_successful_launches": 486,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 103,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 579,
+      "rocket_manufacturer_successful_launches": 564,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/0d2920f2-87d9-4c5a-aebe-614d8baae2a2/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "Starlink Mission",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/G2rA0CBXYAA4qQr.jpg",
+          "url": "https://x.com/i/broadcasts/1yNGabwwBmvJj"
+        }
+      ],
+      "ai_summary": "SpaceX will launch Falcon 9 Block 5 | Starlink Group 11-19 from Space Launch Complex 4E, Vandenberg SFB, CA, USA using their Falcon 9 rocket. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability. This Communications mission involves A batch of 28 satellites for the Starlink mega-constellation."
+    },
+    {
       "id": "67c287d7-199e-4811-a43a-b540b3c4d186",
       "name": "Falcon 9 Block 5 | Starlink Group 11-5",
       "status": "Go",
@@ -620,8 +710,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 11,
+    "successful_summaries": 13,
     "empty_summaries": 2,
-    "total_launches": 13
+    "total_launches": 15
   }
 }
