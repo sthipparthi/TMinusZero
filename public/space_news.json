@@ -107,6 +107,26 @@
     "detailed_news": "The European Space Agency (ESA) has issued a call for proposals to purchase commercial cargo transportation services to the International Space Station. The mission, which must be completed by the fourth quarter of 2028, is intended to meet the agency’s obligations under the ISS Common System Operations Costs (CSOC) framework."
   },
   {
+    "id": 33437,
+    "title": "Large Space Simulator gets a digital twin",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Large_Space_Simulator_gets_a_digital_twin",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/the_cavernous_chamber_of_the_large_space_simulator/26906957-1-eng-GB/The_cavernous_chamber_of_the_Large_Space_Simulator_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The Large Space Simulator, Europe’s largest vacuum chamber, routinely reproduces space conditions on Earth to test spacecraft before they fly into orbit. The facility is complex, and the current process of training a new operator is lengthy and complicated. To make it easier, the space simulator now has a digital twin – the most realistic virtual model of the facility yet, developed for the European Space Agency (ESA) by the Spanish engineering company Empresarios Agrupados.",
+    "published_at": "2025-10-06T14:13:00Z",
+    "updated_at": "2025-10-07T09:20:17.227414Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33431,
     "title": "Cubic targets military satcom market with ‘Vector’ terminals",
     "authors": [
@@ -1016,25 +1036,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Diane Howard is former commercial space policy director for the White House National Space Council. Howard: States have a responsibility to inform citizens, including commercial spacecraft operators, of cyber threats. Howard’s research stemmed from her experience working in the U.S. government during the 2022 Russian invasion of Ukraine. SpaceNews.com is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Sign in by entering the code we sent to , or clicking the magic link in the email. You acknowledge that you have read our privacy policy and agree to our terms and conditions."
-  },
-  {
-    "id": 33388,
-    "title": "Starlink-compatible radios sought for Golden Dome interceptor satellite demo",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/starlink-compatible-radios-sought-for-golden-dome-interceptor-satellite-demo/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Screenshot-2025-10-01-at-4.51.30-PM.png?fit=1024%2C306&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe planned demonstration would use radio-frequency communications terminals to establish satellite-to-satellite links between a Starlink payload and a mock space-based interceptor \nThe post Starlink-compatible radios sought for Golden Dome interceptor satellite demo appeared first on SpaceNews.",
-    "published_at": "2025-10-01T22:20:50Z",
-    "updated_at": "2025-10-01T22:30:28.434738Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The project is in support of Golden Dome, a missile defense shield directed by President Trump. The planned demonstration would use radio-frequency communications terminals to establish satellite-to-satellite links. The radios must operate in the L- and S-band spectrum and use Link-182, a proprietary waveform. Get unlimited access to SpaceNews.com now. As low as $5 per week * Cancel anytime. Sales tax may apply. No refunds. (*Billed quarterly) See all subscription options   Enter the code sent to your email. Enter your password. Sign in to an existing account."
   }
 ]

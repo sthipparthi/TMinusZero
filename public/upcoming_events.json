@@ -1,6 +1,6 @@
 {
-  "count": 14,
-  "last_updated": "2025-10-07T06:02:12.731521Z",
+  "count": 13,
+  "last_updated": "2025-10-07T12:05:06.072834Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,58 +11,9 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (11 successful)",
-    "Empty AI summaries (3 failed/unavailable)"
+    "Empty AI summaries (2 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "a99bb1eb-514b-4a93-ac49-5e14f273f250",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-59",
-      "status": "Go",
-      "net": "2025-09-28T07:30:00Z",
-      "window_start": "2025-09-28T07:30:00Z",
-      "window_end": "2025-09-28T11:30:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Starlink Group 10-59",
-      "mission_description": "A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mission_type": "Communications",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Space Launch Complex 40, Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "location": "Cape Canaveral SFS, FL, USA",
-      "rocket": "Falcon 9 Block 5",
-      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
-      "rocket_config_family": "Falcon",
-      "rocket_config_full_name": "Falcon 9 Block 5",
-      "rocket_config_total_launch_count": 481,
-      "rocket_config_successful_launches": 480,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 101,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 573,
-      "rocket_manufacturer_successful_launches": 558,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/a99bb1eb-514b-4a93-ac49-5e14f273f250/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 10,
-          "title": "Starlink Mission",
-          "description": "Livestream on X",
-          "feature_image": "https://pbs.twimg.com/media/G1inprhWkAAdkR5.jpg",
-          "url": "https://x.com/i/broadcasts/1eaKbjZzovqKX"
-        }
-      ],
-      "ai_summary": ""
-    },
     {
       "id": "6f3212c1-3f70-42d9-9280-1d9c2832e264",
       "name": "Falcon 9 Block 5 | Starlink Group 11-17",
@@ -670,7 +621,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 11,
-    "empty_summaries": 3,
-    "total_launches": 14
+    "empty_summaries": 2,
+    "total_launches": 13
   }
 }
