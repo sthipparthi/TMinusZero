@@ -1,5 +1,99 @@
 [
   {
+    "id": 33447,
+    "title": "Sateliot hails first standards-based IoT connection from LEO to a commercial device",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/sateliot-hails-first-standards-based-iot-connection-from-leo-to-a-commercial-device/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/satellite-8.png?fit=1024%2C577&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpain’s Sateliot says it has achieved the first narrowband connection from a LEO satellite to a commercial IoT device built to global 5G standards known as 3GPP Release 17.\nThe post Sateliot hails first standards-based IoT connection from LEO to a commercial device appeared first on SpaceNews.",
+    "published_at": "2025-10-07T22:00:00Z",
+    "updated_at": "2025-10-07T22:10:18.070506Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33446,
+    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/10/07/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/04/20250401_Starlink_G9_10_Vertical_Sunset-678x313.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "SpaceX will use its second most launched Falcon 9 booster to launch the Starlink 11-17 mission. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 8:54 p.m. PDT (11:54 p.m. EDT / 0354 UTC). ",
+    "published_at": "2025-10-07T20:31:17Z",
+    "updated_at": "2025-10-07T20:40:21.475061Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33445,
+    "title": "Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/blue-origin-wins-78-2-million-contract-to-expand-satellite-processing-infrastructure-at-cape-canaveral/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/lc36-opening-ceremony-wide-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe contract is a public-private partnership agreement awarded by the U.S. Space Force’s Space Systems Command \nThe post Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral appeared first on SpaceNews.",
+    "published_at": "2025-10-07T19:42:37Z",
+    "updated_at": "2025-10-07T19:50:20.868405Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33444,
+    "title": "Senators spar over plans to move shuttle Discovery",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/senators-spar-over-plans-to-move-shuttle-discovery/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/discovery-nasmuhc.jpeg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEfforts to move a shuttle orbiter from the Smithsonian to a Houston museum continues to stir debate among senators amid concerns about the cost and viability of such a move.\nThe post Senators spar over plans to move shuttle Discovery appeared first on SpaceNews.",
+    "published_at": "2025-10-07T19:30:45Z",
+    "updated_at": "2025-10-07T19:31:12.190687Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33442,
     "title": "Novaspace Projects $665B in Satellite Build and Launch Activity",
     "authors": [
@@ -937,97 +1031,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 33398,
-    "title": "Fly over Xanthe Terra with Mars Express",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/10/Fly_over_Xanthe_Terra_with_Mars_Express",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/10/fly_over_xanthe_terra_with_mars_express/26897957-1-eng-GB/Fly_over_Xanthe_Terra_with_Mars_Express_card_full.png",
-    "news_site": "ESA",
-    "summary": "ESA’s Mars Express takes us on another mesmerising flight over curving channels carved by water, islands that have resisted erosion, and a maze of hilly terrain.",
-    "published_at": "2025-10-02T13:00:00Z",
-    "updated_at": "2025-10-02T14:02:17.181402Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "db62cfa1-4d10-41d3-b25f-a58e138ce202",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33397,
-    "title": "How America fell behind China in the lunar space race—and how it can catch back up",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/10/how-america-fell-behind-china-in-the-lunar-space-race-and-how-it-can-catch-back-up/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/46372736004_987b46af12_k.jpg",
-    "news_site": "Arstechnica",
-    "summary": "Thanks to some recent reporting, we've found a potential solution to the Artemis blues.",
-    "published_at": "2025-10-02T11:30:59Z",
-    "updated_at": "2025-10-02T11:40:04.502006Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA's interim administrator, Sean Duffy, has been giving interviews and speeches around the world. Many people within the space industry, and even at NASA, acknowledge that the US space agency appears to be holding a losing hand. The purpose of this article is to articulate how NASA ended up falling behind China, and how the Western world could realistically retake the lead. NASA lost a decade, spending billions of dollars a year developing \"exploration\" systems for humans. The program's only achievement was to enrich the legacy space contractors. The new leader of NASA, Jim Bridenstine, managed to ditch the Journey to Mars and establish a lunar program. SpaceX's Starship program is not ready to land humans on the Moon. The company's goal is to send humans to Mars. The complexity of the mission will require multiple launches from Earth. Blue Origin's Mark 1 lander could be the answer, but it's not rated for humans. Blue Origin has a contract with NASA to develop the Mark 2 lander. The Mark 2 will not be ready until sometime in the 2030s. A modified version of the Mark 1 lander could be part of an architecture to land humans on the Moon this decade. It would involve \"multiple\" landers to carry crew down to the lunar surface."
-  },
-  {
-    "id": 33396,
-    "title": "Preparations on track for second New Glenn launch",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/NG1-Liftoff-Horizontal.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nPreparations for the second launch of Blue Origin’s New Glenn rocket, carrying a NASA Mars mission, remain on track for liftoff in the next few weeks.\nThe post Preparations on track for second New Glenn launch appeared first on SpaceNews.",
-    "published_at": "2025-10-02T11:12:34Z",
-    "updated_at": "2025-10-02T11:20:16.733299Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The second launch of Blue Origin’s New Glenn rocket is on track for liftoff in the next few weeks. The rocket itself is also in advanced stages of preparation. The twin ESCAPADE spacecraft arrived in Florida in mid-September and will be fueled in the coming weeks. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. By creating a SpaceNews.com account, you acknowledge that you have read our privacy policy and agree to our terms of terms and conditions. Select an option to continue:"
-  },
-  {
-    "id": 33395,
-    "title": "Will Pentagon procurement reforms really stick this time?",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/will-pentagon-procurement-reforms-really-stick-this-time/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/G0WRW6jbAAEIz4P-scaled.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA mix of executive orders, new contracting approaches and closer ties between defense leaders and investors has some experts believing this latest reform drive may be different from the past.\nThe post Will Pentagon procurement reforms really stick this time? appeared first on SpaceNews.",
-    "published_at": "2025-10-02T11:00:00Z",
-    "updated_at": "2025-10-02T11:10:18.523388Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "U.S. Space Force procurement chief tours Blue Origin and Vast Space. The outreach to the private sector comes as the Pentagon is scrambling to overhaul its procurement system. President Donald Trump signed an executive order pressing the department to expand its use of commercial technology. Congress is weighing companion legislation that would cut red tape for defense programs. The Space Force has a $40 billion fiscal 2026 request fueled by the Golden Dome missile-defense program. Instead of commissioning a handful of bespoke satellites, the Space Force plans to buy fleets of smaller spacecraft from multiple vendors. The logic is redundancy. If one satellite is disabled in orbit, dozens more can pick up the slack. Space station developer Vast believes commercial infrastructure could one day provide the backbone for a U.S. military presence in space. The Space Force’s plans for rapid innovation hinge on an industrial base that is both financially sound and broad enough to support those aspirations. The lower tiers of the supply chain remain fragile, Teague noted. The challenge will be sustaining momentum. If Congress waters down reform bills or if the Pentagon reverts to its cautious habits, the window could close. Purdy is pressing his officers to get out of the office, into factories and onto venture capital pitch decks. “The Space Force is creating massive opportunities for companies,” Teague says."
   }
 ]
