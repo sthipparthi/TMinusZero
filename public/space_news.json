@@ -1,5 +1,102 @@
 [
   {
+    "id": 33451,
+    "title": "Space infrastructure investments surge to five-quarter high",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/space-infrastructure-investments-surge-to-five-quarter-high/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Infra-overview-Q3-scaled.jpg?fit=1024%2C481&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEarly-stage investor Space Capital said global investments in core space infrastructure climbed to a five-quarter high of $4.4 billion over the three months to the end of September, amid a breakout year for U.S. satellite manufacturing.\nThe post Space infrastructure investments surge to five-quarter high appeared first on SpaceNews.",
+    "published_at": "2025-10-08T11:00:00Z",
+    "updated_at": "2025-10-08T11:01:15.926403Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Global investments in core space infrastructure climbed to a five-quarter high of $4.4 billion. Record activity in the Chinese launch industry contributed to a 12% quarter-on-quarter increase. Defense continues to be the dominant driver in an industry still dominated by the U.S. The highest year on record for infrastructure exits by value remains 2018 with $46 billion across 18 deals, driven by large-scale transactions. 2025 is expected to be the second-highest year for infrastructure exit value and a new high for deal count. From Oct. 6-10: Save $25 on any new subscription with code SAVE25 Cancel anytime."
+  },
+  {
+    "id": 33449,
+    "title": "Sabca Secures €85 Million Ariane 6 Operational Phase Contract",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/sabca-secures-e85-million-ariane-6-operational-phase-contract/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/Sabca-Secures-85-Million-Euros-Ariane-6-Operational-Phase-Contract.webp",
+    "news_site": "European Spaceflight",
+    "summary": "ArianeGroup has awarded an €85 million contract to Belgian aerospace and defence company Sabca for the production of Thrust Vector Control (TVC) systems for 27 Ariane 6 rockets. Sabca and ArianeGroup signed an initial contract for the production of the first batch of Ariane 6 TVC systems in July 2020. The TVC systems allow both […]\nThe post Sabca Secures €85 Million Ariane 6 Operational Phase Contract appeared first on European Spaceflight.",
+    "published_at": "2025-10-08T09:34:31Z",
+    "updated_at": "2025-10-08T09:40:10.245193Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "ArianeGroup has awarded an €85 million contract to Belgian aerospace and defence company Sabca for the production of Thrust Vector Control (TVC) systems for 27 Ariane 6 rockets. The TVC systems allow both the Vulcain 2.1 core-stage and the Vinci upper-stage engine to be steered, providing precise control of the rocket’s trajectory and ensuring stability throughout powered flight."
+  },
+  {
+    "id": 33452,
+    "title": "Sentinel-1D preparations underway in Kourou",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_preparations_underway_in_Kourou",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/copernicus_sentinel-1d_team_in_kourou/26907343-1-eng-GB/Copernicus_Sentinel-1D_team_in_Kourou_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The Copernicus Sentinel-1 mission is about to get its fourth satellite. Copernicus Sentinel-1D has now undergone the checks and functional tests prior to its integration with Ariane 6, ready for launch later this year.",
+    "published_at": "2025-10-08T09:00:00Z",
+    "updated_at": "2025-10-08T11:53:44.155191Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "7afcacb9-32aa-41ee-a000-0c7158f324c2",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "Copernicus Sentinel-1D has now undergone the checks and functional tests prior to its integration with Ariane 6, ready for launch later this year. When it joins its sibling Sentinel- 1C, which was placed in orbit in December 2024, it will significantly enhance the capabilities of the Copernicus Earth observation programme. Having two satellites in operation at any one time is essential for providing timely data."
+  },
+  {
+    "id": 33450,
+    "title": "Rehearsing for Sentinel-6B’s early days in space",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Operations/Rehearsing_for_Sentinel-6B_s_early_days_in_space",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/simulations_ongoing_for_sentinel-6b/26909964-1-eng-GB/Simulations_ongoing_for_Sentinel-6B_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Last month, mission controllers at ESA's mission control centre started a major simulations exercise to ensure that the next Copernicus Sentinel Earth Observation mission, Sentinel-6B, safely navigates its first days in space. As the launch is approaching, so is the end of this critical pre-launch phase.",
+    "published_at": "2025-10-08T08:00:00Z",
+    "updated_at": "2025-10-08T11:18:43.939605Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "a5e8c7ff-f30d-488d-8ef3-b445cbd75fd3",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "Sentinel-6B is Europe's latest sea-level monitoring satellite. It will be launched by a Falcon 9 rocket from the Vandenberg Space Force Base in California. Mission control at ESA’s European Space Operations Centre (ESOC) is getting ready for the launch. The ‘simulation campaign’ is designed to test the mission control team. A final rehearsal of the countdown and launch sequence will take place at ESOC. During the rehearsal, the mission control team will receive live signals from the satellite via an umbilical connection that will be disconnected shortly before launch. Once this final step is complete, the team will be fully ready to launch Sentinel-6B and give it the GO."
+  },
+  {
     "id": 33448,
     "title": "Scientists Make the Case for NASA Science",
     "authors": [
@@ -148,26 +245,6 @@
     "summary": "Between 1 and 7 October, ESA’s ExoMars Trace Gas Orbiter (TGO) and Mars Express spacecraft turned their eyes towards interstellar comet 3I/ATLAS, as it passed close to Mars. ",
     "published_at": "2025-10-07T14:30:00Z",
     "updated_at": "2025-10-07T15:10:47.818796Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "ESA's ExoMars Trace Gas Orbiter (TGO) and Mars Express spacecraft turned their eyes towards interstellar comet 3I/ATLAS. The two Mars orbiters had the closest view of the comet of all ESA spacecraft. During its closest approach to the Red Planet on 3 October, the interstellar interloper was 30 million km away from them. 3I/ATLAS could be the oldest comet ever observed. It may be three billion years older than the Solar System. Next month, we will observe the comet with our Jupiter Icy Moons Explorer. Juice will see the comet just after its closest approach to the Sun. We don't expect to receive data from Juice’s observations until February 2026."
-  },
-  {
-    "id": 33441,
-    "title": "ESA’s ExoMars and Mars Express observe comet 3I/ATLAS",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/exomars_trace_gas_orbiter_observes_comet_3i_atlas_gif/26909471-1-eng-GB/ExoMars_Trace_Gas_Orbiter_observes_comet_3I_ATLAS_GIF_card_full.gif",
-    "news_site": "ESA",
-    "summary": "Between 1 and 7 October, ESA’s ExoMars Trace Gas Orbiter (TGO) and Mars Express spacecraft turned their eyes towards interstellar comet 3I/ATLAS, as it passed close to Mars. ",
-    "published_at": "2025-10-07T14:30:00Z",
-    "updated_at": "2025-10-07T14:50:23.108532Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -971,65 +1048,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Earlier this year, the new Vera C. Rubin Observatory in Chile officially began scientific operations, becoming the world’s largest and most advanced ground-based telescope. Meanwhile, situated at the L2 Lagrange point is the James Webb Space Telescope. Both telescopes represent different technological solutions to mapping and analyzing the cosmos. Together they are poised to reveal untold information about our universe. The Rubin Science Platform (RSP) provides cloud-based data access, eliminating the need for researchers to download massive datasets locally. Nightly operations generate approximately 20 terabytes of data, processed through automated systems. Real-time processing capabilities can generate up to 10 million alerts per night when changes to existing objects or the introduction of new objects are detected. The Rubin Observatory’s survey approach generates approximately 7.3 petabytes of data annually. JWST produces roughly 350 times less data than Rubin, but focuses on precision observations. Rubin functions as a wide-field reconnaissance system, systematically cataloging approximately 20 billion galaxies, 17 billion stars, and millions of asteroids across the southern sky. NASA's next round of space flights will take place between September 30, 2025 and April 11, 2025. The space agency's next series of flights will also take place in 2023, 2024 and 2025. NASA's next fleet of spaceflights will be the largest since the space shuttle program began in 1986."
-  },
-  {
-    "id": 33403,
-    "title": "Live coverage: SpaceX to launch 3rd consecutive Falcon 9 rocket from Vandenberg SFB, uninterrupted by a Cape mission",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/10/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/03/20240318-Starlink-Feature-Image.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 11-39 mission is scheduled to liftoff from pad 4E at Vandenberg Space Force Base at 6:21 a.m. PDT (9:21 a.m. EDT / 1321 UTC). The Falcon 9 rocket will fly on a south-easterly trajectory. ",
-    "published_at": "2025-10-02T17:40:57Z",
-    "updated_at": "2025-10-02T17:50:21.342045Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33402,
-    "title": "DLR Prepares to Launch Small Reusable Space Transportation Demonstrator",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/dlr-prepares-to-launch-small-reusable-space-transportation-demonstrator/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/DLR-Prepares-to-Launch-Small-Reusable-Space-Transportation-Demonstrator.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The German Aerospace Center (DLR) is preparing to launch its ATHEAt reusable space transportation demonstrator mission from Andøya Space in Norway. Initiated in January 2022, the Advanced Technologies for High Energetic Atmospheric Flight of Launcher Stages (ATHEAt) demonstrator programme is focused on testing key technologies for future reusable space vehicles, with a particular emphasis on […]\nThe post DLR Prepares to Launch Small Reusable Space Transportation Demonstrator appeared first on European Spaceflight.",
-    "published_at": "2025-10-02T14:42:23Z",
-    "updated_at": "2025-10-02T14:50:10.755898Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33401,
-    "title": "Space security, threats and rapid innovation",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-security-threats-and-rapid-innovation/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/072525-space-minds-podcast-ISS-1920-1080-1.png?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this week’s episode of Space Minds, host David Aireosto speaks with Steve Kitay— former Deputy Assistant Secretary of Defense for Space Policy, former head of Microsoft’s space initiatives, and now Senior Vice President for Space Defense at True Anomaly.\nThe post Space security, threats and rapid innovation appeared first on SpaceNews.",
-    "published_at": "2025-10-02T14:21:08Z",
-    "updated_at": "2025-10-02T14:30:26.914473Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
