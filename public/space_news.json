@@ -1,5 +1,55 @@
 [
   {
+    "id": 33467,
+    "title": "Ensuring the accuracy of ESA’s FORUM climate mission",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Ensuring_the_accuracy_of_ESA_s_FORUM_climate_mission",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/ptb_s_facility_vacuum_chamber_hosting_the_new_reference_blackbody/26909211-1-eng-GB/PTB_s_facility_vacuum_chamber_hosting_the_new_reference_blackbody_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The European Space Agency’s upcoming FORUM mission is set to provide unique insights into Earth’s radiation budget, filling in a missing piece in the climate puzzle. The mission’s spectrometer will be the first space-based instrument to measure Earth’s outgoing radiation in the far-infrared part of the electromagnetic spectrum with unprecedented resolution and accuracy. New technologies were needed to make this possible – among these an on-ground calibration device developed by the National Metrology Institute of Germany PTB within a recent activity funded by ESA’s General Support Technology Programme. This device is used to calibrate FORUM’s onboard reference source and ensures the accurate operation of the spectrometer.",
+    "published_at": "2025-10-09T09:15:00Z",
+    "updated_at": "2025-10-09T10:45:48.016526Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "258cbb6a-9167-47a2-b4db-5e6842889040",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "The European Space Agency’s upcoming FORUM mission is set to provide unique insights into Earth's radiation budget. The mission's spectrometer will be the first space-based instrument to measure Earth's outgoing radiation in the far-infrared part of the electromagnetic spectrum with unprecedented resolution and accuracy. New technologies were needed to make this possible. Extra temperature sensors will help identify any variations in the measurements. If this proves to be an effective way of detecting degradation, it could become a valuable method applicable to other missions. A twin blackbody, identical to the one in space, would be operated on ground, in conditions resembling space as closely as possible."
+  },
+  {
+    "id": 33466,
+    "title": "Completed Plato spacecraft is ready for final tests",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Plato/Completed_Plato_spacecraft_is_ready_for_final_tests",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/plato_s_spacecraft_is_complete/26902658-1-eng-GB/Plato_s_spacecraft_is_complete_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "By fitting its sunshield and solar panels, engineers have completed the construction of Plato, the European Space Agency’s mission to discover Earth-like exoplanets. Plato is on track for the final key tests to confirm that it is fit for launch.",
+    "published_at": "2025-10-09T08:00:00Z",
+    "updated_at": "2025-10-09T10:45:54.919839Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "526b4a0f-f0c9-4a20-9066-e9fc8c79307b",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "Plato is on track for the final key tests to confirm that it is fit for launch. The sunshield and solar panels are vital elements for the Plato mission. Once in orbit, the solar array catch light from the Sun to generate the electricity needed to power the spacecraft’s electronics. To spot exoplanets, Plato carries 26 advanced cameras. ESA’s Plato (PLAnetary Transits and Oscillations of stars) will use 26 cameras to study terrestrial exoplanets in orbits up to the habitable zone of Sun-like stars. The spacecraft is being built and assembled by the industrial Plato Core Team led by OHB and Thales Alenia Space and Beyond Gravity."
+  },
+  {
     "id": 33465,
     "title": "Stoke Space raises $510 million",
     "authors": [
@@ -991,52 +1041,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Rocket Lab’s ambitious push to launch its Neutron medium-lift rocket before the end of the year is entering the home stretch. CEO Sir Peter Beck tells NSF that his team is “literally sleeping in the factories” to meet the aggressive timeline. The 141-foot-tall reusable launch vehicle has passed several critical milestones in recent months. Neutron's modular first stage splits into a boost section containing engines and pressurization systems. A boost module might fly 20 times before retirement, while an upper module could reach 50-100 flights. Neutron offers three mission profiles: return-to-launch-site (RTLS) for propulsive landings back at Wallops’ Launch Complex 3. Neutron will follow Electron’s flight cadence philosophy: one launch in the first year, three in the second, then five, scaling from there. Rocket Lab won a $24 million Space Force contract to develop the upper stage. A confidential commercial satellite operator has booked two Neutron missions."
-  },
-  {
-    "id": 33418,
-    "title": "EchoStar clears key regulatory step for spectrum sale to SpaceX",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/echostar-clears-key-regulatory-step-for-spectrum-sale-to-spacex/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/hero-launch.webp?fit=1024%2C512&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEchoStar said Oct. 3 it has met regulatory conditions needed to maintain rights to the global S-band spectrum it is selling to SpaceX in a deal worth more than $17 billion.\nThe post EchoStar clears key regulatory step for spectrum sale to SpaceX appeared first on SpaceNews.",
-    "published_at": "2025-10-03T19:27:38Z",
-    "updated_at": "2025-10-03T19:30:20.425117Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "EchoStar says it has met regulatory conditions to maintain rights to global S-band spectrum. The U.S.-based operator said the Lyra-4 satellite launched in June has successfully operated in low Earth orbit for at least 90 days. SpaceX plans to use the spectrum to enable a 20-fold increase in throughput for its direct-to-device (D2D) services. Jason Rainbow writes about satellite telecom, finance and commercial markets for SpaceNews. He has spent more than a decade covering the global space industry as a business journalist. Biweekly news and analysis on business, politics and technology in the Chinese space industry. Delivered Wednesdays."
-  },
-  {
-    "id": 33417,
-    "title": "The real space war is being fought in cyberspace",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-real-space-war-is-being-fought-in-cyberspace/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/Screenshot-2025-05-14-at-3.48.27%E2%80%AFPM.png?fit=1024%2C581&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\n“The cost of admission is relatively cheap in the cyber area,” Scolese said. “So we remain very much concerned about that.”\nThe post The real space war is being fought in cyberspace appeared first on SpaceNews.",
-    "published_at": "2025-10-03T15:00:00Z",
-    "updated_at": "2025-10-03T15:10:18.574664Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Christopher Scolese, director of the agency in charge of U.S. spy satellites, says he's worried about hackers. The worry is justified, and the attack surface is vast. A well-placed digital intrusion could cascade through an entire satellite network. The challenges are magnified by the rapid commercialization of space. War-gaming and red-teaming exercises that simulate cyber intrusions are not luxuries but necessities. The NRO’s decision to shift toward proliferated constellations of smaller satellites is one way to hedge. Redundancy in space is resilience against both kinetic and cyber threats."
   }
 ]
