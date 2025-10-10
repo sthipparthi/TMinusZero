@@ -1,5 +1,52 @@
 [
   {
+    "id": 33479,
+    "title": "Thales Alenia Space Inaugurates New €100M Satellite Factory",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/thales-alenia-space-inaugurates-new-e100m-satellite-factory/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/Thales-Alenia-Space-Inaugurate-New-100M-Euro-Satellite-Factory.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Thales Alenia Space officially inaugurated its new Space Smart Factory in Rome on 7 October, with operations expected to begin before the end of the year. In April 2023, Thales Alenia Space, a joint venture between Thales and Leonardo, secured an initial contract from the Italian Space Agency (ASI) to lead the development of the […]\nThe post Thales Alenia Space Inaugurates New €100M Satellite Factory appeared first on European Spaceflight.",
+    "published_at": "2025-10-10T13:48:09Z",
+    "updated_at": "2025-10-10T13:50:11.536358Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Thales Alenia Space officially inaugurated its new Space Smart Factory in Rome on 7 October. The initiative aims to create a network of smart, interconnected satellite manufacturing facilities across Italy by 2026. Argotec, CIRA, and SITAEL are also consortium partners. Operations at the new facility are expected to begin by year’s end."
+  },
+  {
+    "id": 33478,
+    "title": "New Zealand charts continued growth of its space industry",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/new-zealand-charts-continued-growth-of-its-space-industry/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/nzas25-collins.jpeg?fit=1024%2C646&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe New Zealand government is touting the progress it is making to grow the country’s aerospace industry.\nThe post New Zealand charts continued growth of its space industry appeared first on SpaceNews.",
+    "published_at": "2025-10-10T12:24:50Z",
+    "updated_at": "2025-10-10T12:30:24.053745Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33477,
     "title": "This is not static noise",
     "authors": [
@@ -994,45 +1041,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Cubic Defense is pursuing military customers for its flat-panel satellite communications terminal. The terminal is designed to operate across multiple orbits and networks. Flat-panel antennas connect to multiple satellites simultaneously without mechanical steering. The highly competitive satcom terminal market is populated by defense and commercial players. Save $25 on any new subscription with code SAVE25 Cancel anytime. Sales tax may apply. No refunds. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. You acknowledge that you have read our privacy policy and agree to our terms and conditions."
-  },
-  {
-    "id": 33430,
-    "title": "Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station",
-    "authors": [
-      {
-        "name": "Greg Vialle",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/utilize-the-iss-as-a-resource-a-common-sense-fiscally-responsible-plan-leveraging-the-international-space-station/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/International-Space-Station-in-2021-scaled.webp?fit=1024%2C569&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA plans to spend approximately $1 billion of taxpayer money to destroy the International Space Station (ISS) in 2030. The ISS contains over $1.5 billion worth of space-grade materials already in orbit. Instead of throwing this asset away, we should redirect that funding to develop the technology to recycle it. This approach saves a valuable […]\nThe post Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station appeared first on SpaceNews.",
-    "published_at": "2025-10-06T13:00:00Z",
-    "updated_at": "2025-10-06T13:00:23.403200Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA plans to destroy the International Space Station (ISS) in 2030. The ISS contains over $1.5 billion worth of space-grade materials already in orbit. Instead of throwing this asset away, we should redirect that funding to recycle it. This approach saves a valuable asset, prevents wasteful spending and seeds a new, American-led industry in space. Congress should direct NASA to stop focusing solely on deorbiting the ISS. Instead analyze and fund pathways for utilizing it as an uncrewed demonstration logistics and manufacturing hub. Greg Vialle is the founder of Lunexus Space, a Colorado startup seeking to power the circular economy in space by turning debris into orbital resources. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Use the Daily Discussion to help people understand today's featured news stories. The Daily Discussion also helps people understand the news stories that have been featured on CNN.com. For more information on how to help CNN.co.uk readers, click here."
-  },
-  {
-    "id": 33429,
-    "title": "Navigating through interference at Jammertest",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Navigating_through_interference_at_Jammertest",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/esa_testbed_van_in_norway/26903585-1-eng-GB/ESA_testbed_van_in_Norway_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Satellite navigation is essential to everything from tracking your morning jog to landing air ambulances. But as reliance on satellite navigation grows, so do the risks associated with its interruption, natural or intentional. In its pursuit of strengthening European resilience in navigation, the European Space Agency (ESA) took part in Jammertest.",
-    "published_at": "2025-10-06T11:11:00Z",
-    "updated_at": "2025-10-06T11:30:13.502964Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
