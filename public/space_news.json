@@ -1,5 +1,45 @@
 [
   {
+    "id": 33477,
+    "title": "This is not static noise",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/10/This_is_not_static_noise",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/this_is_not_static_noise/26912711-1-eng-GB/This_is_not_static_noise_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-10-10T08:31:00Z",
+    "updated_at": "2025-10-10T09:00:25.681803Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33476,
+    "title": "Earth from Space: Cyclone Errol",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Cyclone_Errol",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/earth_from_space_cyclone_errol/26908853-1-eng-GB/Earth_from_Space_Cyclone_Errol_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-10-10T08:00:00Z",
+    "updated_at": "2025-10-10T08:41:11.663642Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33475,
     "title": "Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia",
     "authors": [
@@ -994,52 +1034,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 33428,
-    "title": "Firefly to acquire defense contractor SciTec in $855 million deal",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/firefly-to-acquire-defense-contractor-scitec-in-855-million-deal/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/f074f55c798cf7d74f5f252b50a80213.png?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe acquisition would expand Firefly’s footprint in the defense market, where Firefly is trying to capture opportunities in the Golden Dome program\nThe post Firefly to acquire defense contractor SciTec in $855 million deal appeared first on SpaceNews.",
-    "published_at": "2025-10-05T21:33:41Z",
-    "updated_at": "2025-10-05T21:40:17.816887Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Firefly Aerospace announced Oct. 5 it plans to acquire defense contractor SciTec. The deal marks an expansion into the defense sector for Firefly. Firefly develops launch vehicles, lunar landers and in-space transportation vehicles. The acquisition is intended to expand Firefly’s footprint in the defense market.  Firefly and SciTec are working to return its Alpha launch vehicle to flight. The rocket is currently grounded after the first stage booster for its upcoming Flight 7 mission was destroyed in an explosion. “I have full confidence in our Alpha team to return to flight safely,” Kim said."
-  },
-  {
-    "id": 33427,
-    "title": "ESA inaugurates new deep space antenna in Australia",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/esa-inaugurates-new-deep-space-antenna-in-australia/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/newnorcia3.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe European Space Agency has inaugurated a new deep space antenna in Australia as part of efforts to strengthen ties between Europe and Australia in space.\nThe post ESA inaugurates new deep space antenna in Australia appeared first on SpaceNews.",
-    "published_at": "2025-10-05T20:39:25Z",
-    "updated_at": "2025-10-05T20:40:18.190709Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The European Space Agency has inaugurated a new deep space antenna in Australia. It is part of efforts to strengthen ties between Europe and Australia in space. The antenna, called New Norcia 3, will support communications with ESA spacecraft. It includes upgrades such as cryocooling of the receiver to reduce noise. Get unlimited access to SpaceNews.com now. As low as $5 per week * Cancel anytime. Sales tax may apply. No refunds. (*Billed quarterly) See all subscription options   Enter the code sent to your email. Enter your password. Sign in to an existing account."
   }
 ]
