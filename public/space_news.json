@@ -1,5 +1,32 @@
 [
   {
+    "id": 33481,
+    "title": "Planet announces new line of satellites for daily Earth imaging",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/planet-announces-new-line-of-satellites-for-daily-earth-imaging/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/planetowl.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nPlanet has announced a new class of imaging satellites that will replace a line of spacecraft dating back to the company’s earliest days.\nThe post Planet announces new line of satellites for daily Earth imaging appeared first on SpaceNews.",
+    "published_at": "2025-10-10T18:51:43Z",
+    "updated_at": "2025-10-10T19:00:41.377591Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33479,
     "title": "Thales Alenia Space Inaugurates New €100M Satellite Factory",
     "authors": [
@@ -18,6 +45,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Thales Alenia Space officially inaugurated its new Space Smart Factory in Rome on 7 October. The initiative aims to create a network of smart, interconnected satellite manufacturing facilities across Italy by 2026. Argotec, CIRA, and SITAEL are also consortium partners. Operations at the new facility are expected to begin by year’s end."
+  },
+  {
+    "id": 33480,
+    "title": "Week in images: 06-10 October 2025",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_October_2025",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/exomars_tgo_catches_a_dust_devil_on_mars/26900466-1-eng-GB/ExoMars_TGO_catches_a_dust_devil_on_Mars_card_full.png",
+    "news_site": "ESA",
+    "summary": "Week in images: 06-10 October 2025",
+    "published_at": "2025-10-10T13:15:00Z",
+    "updated_at": "2025-10-10T19:00:22.368710Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. Click here for the next gallery of iReporters' snapshots."
   },
   {
     "id": 33478,
@@ -1001,45 +1048,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The European Space Agency (ESA) has issued a call for proposals to purchase commercial cargo transportation services to the International Space Station. The mission, which must be completed by the fourth quarter of 2028, is intended to meet the agency’s obligations under the ISS Common System Operations Costs (CSOC) framework."
-  },
-  {
-    "id": 33437,
-    "title": "Large Space Simulator gets a digital twin",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Large_Space_Simulator_gets_a_digital_twin",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/the_cavernous_chamber_of_the_large_space_simulator/26906957-1-eng-GB/The_cavernous_chamber_of_the_Large_Space_Simulator_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The Large Space Simulator, Europe’s largest vacuum chamber, routinely reproduces space conditions on Earth to test spacecraft before they fly into orbit. The facility is complex, and the current process of training a new operator is lengthy and complicated. To make it easier, the space simulator now has a digital twin – the most realistic virtual model of the facility yet, developed for the European Space Agency (ESA) by the Spanish engineering company Empresarios Agrupados.",
-    "published_at": "2025-10-06T14:13:00Z",
-    "updated_at": "2025-10-07T09:20:17.227414Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33431,
-    "title": "Cubic targets military satcom market with ‘Vector’ terminals",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/cubic-targets-military-satcom-market-with-vector-terminals/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/22AFA001_R7_1-scaled-e1759685306489.jpg?fit=1024%2C589&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe company says its terminals can seamlessly switch between satellite constellations while withstanding electronic warfare threats\nThe post Cubic targets military satcom market with ‘Vector’ terminals appeared first on SpaceNews.",
-    "published_at": "2025-10-06T13:30:00Z",
-    "updated_at": "2025-10-06T13:40:18.251032Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Cubic Defense is pursuing military customers for its flat-panel satellite communications terminal. The terminal is designed to operate across multiple orbits and networks. Flat-panel antennas connect to multiple satellites simultaneously without mechanical steering. The highly competitive satcom terminal market is populated by defense and commercial players. Save $25 on any new subscription with code SAVE25 Cancel anytime. Sales tax may apply. No refunds. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. You acknowledge that you have read our privacy policy and agree to our terms and conditions."
   }
 ]
