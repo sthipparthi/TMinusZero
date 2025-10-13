@@ -1,5 +1,52 @@
 [
   {
+    "id": 33491,
+    "title": "JAXA to launch tech demo satellites on Electron rockets",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/electron-f64.jpeg?fit=1024%2C789&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Japanese space agency JAXA has selected Rocket Lab to launch a set of technology demonstration satellites on Electron rockets after continued delays with a Japanese launch vehicle.\nThe post JAXA to launch tech demo satellites on Electron rockets appeared first on SpaceNews.",
+    "published_at": "2025-10-13T11:52:25Z",
+    "updated_at": "2025-10-13T12:00:26.825114Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33490,
+    "title": "Ramses: ESA’s mission to rendezvous with asteroid Apophis",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/10/Ramses_ESA_s_mission_to_rendezvous_with_asteroid_Apophis",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/10/ramses_esa_s_mission_to_rendezvous_with_asteroid_apophis/26908615-3-eng-GB/Ramses_ESA_s_mission_to_rendezvous_with_asteroid_Apophis_card_full.png",
+    "news_site": "ESA",
+    "summary": "Friday the 13th of April 2029 will be our lucky day.",
+    "published_at": "2025-10-13T10:00:00Z",
+    "updated_at": "2025-10-13T10:30:17.077669Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Apophis, a 375-metre-wide asteroid, will safely pass Earth at a distance of less than 32,000 kilometres. For a few hours, Apophis will be visible to the naked eye from Europe and Africa. Space agencies have sent a number of spacecraft to asteroids, but we have never had a mission at an asteroid as it sweeps past a planet."
+  },
+  {
     "id": 33489,
     "title": "SpaceX prepares for next Starship test flight",
     "authors": [
@@ -1008,45 +1055,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 33442,
-    "title": "Novaspace Projects $665B in Satellite Build and Launch Activity",
-    "authors": [
-      {
-        "name": "Novaspace",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/novaspace-projects-665b-in-satellite-build-and-launch-activity/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\n43,000-Satellite Surge Reshapes Orbital Competition and Challenges Legacy GEO Models Paris, France [October 7, 2025] – Launched today, Novaspace’s 28th edition of Satellites to Be Built and Launched reveals a […]\nThe post Novaspace Projects $665B in Satellite Build and Launch Activity appeared first on SpaceNews.",
-    "published_at": "2025-10-07T14:45:50Z",
-    "updated_at": "2025-10-07T14:50:29.908259Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Novaspace’s 28th edition of Satellites to Be Built and Launched reveals a decade of record-breaking orbital growth. More than 43,000 satellites are expected to launch by 2035, averaging 12 satellites and 8 tons of payload every day. This surge is set to drive a $665 billion market in manufacturing and launch services, fueled by mega-constellations and defense demand. Novaspace offers end-to-end consulting services, from project strategy definition to implementation. Trusted by 1,200 clients in over 60 countries, with offices strategically located in Brussels, London, Montreal, Munich, Paris, Singapore, Sydney, Tokyo, Toulouse, and Washington D.C."
-  },
-  {
-    "id": 33443,
-    "title": "ESA’s ExoMars and Mars Express observe comet 3I/ATLAS",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/exomars_trace_gas_orbiter_observes_comet_3i_atlas_gif/26909471-1-eng-GB/ExoMars_Trace_Gas_Orbiter_observes_comet_3I_ATLAS_GIF_card_full.gif",
-    "news_site": "ESA",
-    "summary": "Between 1 and 7 October, ESA’s ExoMars Trace Gas Orbiter (TGO) and Mars Express spacecraft turned their eyes towards interstellar comet 3I/ATLAS, as it passed close to Mars. ",
-    "published_at": "2025-10-07T14:30:00Z",
-    "updated_at": "2025-10-07T15:10:47.818796Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "ESA's ExoMars Trace Gas Orbiter (TGO) and Mars Express spacecraft turned their eyes towards interstellar comet 3I/ATLAS. The two Mars orbiters had the closest view of the comet of all ESA spacecraft. During its closest approach to the Red Planet on 3 October, the interstellar interloper was 30 million km away from them. 3I/ATLAS could be the oldest comet ever observed. It may be three billion years older than the Solar System. Next month, we will observe the comet with our Jupiter Icy Moons Explorer. Juice will see the comet just after its closest approach to the Sun. We don't expect to receive data from Juice’s observations until February 2026."
   }
 ]
