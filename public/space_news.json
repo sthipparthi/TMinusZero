@@ -1,5 +1,32 @@
 [
   {
+    "id": 33489,
+    "title": "SpaceX prepares for next Starship test flight",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-prepares-for-next-starship-test-flight/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/flight11preview.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX is set to conduct its next Starship test flight as the company continues to test the launch vehicle and play well with others in airspace.\nThe post SpaceX prepares for next Starship test flight appeared first on SpaceNews.",
+    "published_at": "2025-10-13T00:04:01Z",
+    "updated_at": "2025-10-13T00:10:18.325562Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33488,
     "title": "Live coverage: SpaceX to launch final Version 2 Starship-Super Heavy from Starbase",
     "authors": [
@@ -1021,25 +1048,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "ESA's ExoMars Trace Gas Orbiter (TGO) and Mars Express spacecraft turned their eyes towards interstellar comet 3I/ATLAS. The two Mars orbiters had the closest view of the comet of all ESA spacecraft. During its closest approach to the Red Planet on 3 October, the interstellar interloper was 30 million km away from them. 3I/ATLAS could be the oldest comet ever observed. It may be three billion years older than the Solar System. Next month, we will observe the comet with our Jupiter Icy Moons Explorer. Juice will see the comet just after its closest approach to the Sun. We don't expect to receive data from Juice’s observations until February 2026."
-  },
-  {
-    "id": 33440,
-    "title": "Poland Adds Fourth Satellite to CAMILA Earth Observation Constellation",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/poland-adds-fourth-satellite-to-camila-earth-observation-constellation/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/Poland-Adds-Fourth-Satellite-to-CAMILA-Earth-Observation-Constellation.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency (ESA), on behalf of the Polish Government, has awarded a contract extension to Creotech Instruments for the development and launch of a fourth satellite for the country’s CAMILA Earth observation constellation. With the extension, the contract is now worth over €59 million. In October 2023, Poland’s Ministry of Development and Technology […]\nThe post Poland Adds Fourth Satellite to CAMILA Earth Observation Constellation appeared first on European Spaceflight.",
-    "published_at": "2025-10-07T14:26:46Z",
-    "updated_at": "2025-10-07T14:30:23.348343Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The European Space Agency (ESA) has awarded a contract extension to Creotech Instruments for the development and launch of a fourth satellite for Poland's CAMILA Earth observation constellation. With the extension, the contract is now worth over €59 million. In October 2023, Poland’s Ministry of Development and Technology enlisted ESA to oversee the development of its Country Awareness Mission in Land Analysis constellation."
   }
 ]
