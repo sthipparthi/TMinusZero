@@ -1,6 +1,6 @@
 {
-  "count": 14,
-  "last_updated": "2025-10-13T18:01:46.284940Z",
+  "count": 12,
+  "last_updated": "2025-10-14T00:05:00.619086Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,59 +10,10 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (12 successful)",
+    "AI-generated summaries (10 successful)",
     "Empty AI summaries (2 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "41068e09-4097-448f-ac7c-421c19b6aab9",
-      "name": "Starship | Flight 11",
-      "status": "Go",
-      "net": "2025-10-13T23:15:00Z",
-      "window_start": "2025-10-13T23:15:00Z",
-      "window_end": "2025-10-14T00:15:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Flight 11",
-      "mission_description": "11th test flight of the two-stage Starship launch vehicle.",
-      "mission_type": "Test Flight",
-      "orbit": "Suborbital",
-      "launch_site": "Orbital Launch Pad 1, SpaceX Starbase, TX, USA",
-      "pad": "Orbital Launch Pad 1",
-      "location": "SpaceX Starbase, TX, USA",
-      "rocket": "Starship",
-      "rocket_config_description": "Fully reusable two-stage super heavy-lift launch vehicle.",
-      "rocket_config_family": "Starship",
-      "rocket_config_full_name": "Starship",
-      "rocket_config_total_launch_count": 10,
-      "rocket_config_successful_launches": 5,
-      "rocket_config_failed_launches": 5,
-      "rocket_config_pending_launches": 3,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 577,
-      "rocket_manufacturer_successful_launches": 562,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/41068e09-4097-448f-ac7c-421c19b6aab9/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 10,
-          "title": "Starship's Eleventh Flight Test",
-          "description": "Livestream on X",
-          "feature_image": "https://pbs.twimg.com/media/G2CiC-uXkAAU-TM.jpg",
-          "url": "https://x.com/i/broadcasts/1mrGmBjyEZgJy"
-        }
-      ],
-      "ai_summary": "SpaceX will launch Starship | Flight 11 from Orbital Launch Pad 1, SpaceX Starbase, TX, USA using their Fully reusable two-stage super heavy-lift launch vehicle. The rocket has a track record of (5/10 successful launches) with (562/577 manufacturer successful launches)."
-    },
     {
       "id": "88d03398-af55-4bca-967e-bfe868a3cbf5",
       "name": "Falcon 9 Block 5 | Project Kuiper (KF-03)",
@@ -487,55 +438,6 @@
       "ai_summary": "The H3 Launch Vehicle is an expendable launch system in development in Japan. Mitsubishi Heavy Industries will launch H3-24 | HTV-X1 from Yoshinobu Launch Complex LP-2, Tanegashima Space Center."
     },
     {
-      "id": "5707ddea-8f06-4a3b-83d1-cfd8a3017637",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-21",
-      "status": "Go",
-      "net": "2025-10-20T16:18:00Z",
-      "window_start": "2025-10-20T16:18:00Z",
-      "window_end": "2025-10-20T20:18:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Starlink Group 10-21",
-      "mission_description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mission_type": "Communications",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Space Launch Complex 40, Cape Canaveral SFS, FL, USA",
-      "pad": "Space Launch Complex 40",
-      "location": "Cape Canaveral SFS, FL, USA",
-      "rocket": "Falcon 9 Block 5",
-      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
-      "rocket_config_family": "Falcon",
-      "rocket_config_full_name": "Falcon 9 Block 5",
-      "rocket_config_total_launch_count": 488,
-      "rocket_config_successful_launches": 487,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 104,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 580,
-      "rocket_manufacturer_successful_launches": 565,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/5707ddea-8f06-4a3b-83d1-cfd8a3017637/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 10,
-          "title": "Starlink Mission",
-          "description": "Livestream on X",
-          "feature_image": "https://pbs.twimg.com/media/G2rV_jCWIAAMu_i.jpg",
-          "url": "https://x.com/i/broadcasts/1DXxyWMZQXgGM"
-        }
-      ],
-      "ai_summary": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX will launch Falcon 9 Block 5 | Starlink Group 10-21 from Space Launch Complex 40, Cape Canaveral SFS, FL, USA using their Falcon 9 rocket."
-    },
-    {
       "id": "7afcacb9-32aa-41ee-a000-0c7158f324c2",
       "name": "Ariane 62 | Sentinel-1D",
       "status": "Go",
@@ -662,8 +564,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 12,
+    "successful_summaries": 10,
     "empty_summaries": 2,
-    "total_launches": 14
+    "total_launches": 12
   }
 }
