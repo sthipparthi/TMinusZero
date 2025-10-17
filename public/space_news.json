@@ -1,5 +1,52 @@
 [
   {
+    "id": 33554,
+    "title": "Orion spacecraft arrives at VAB ahead of stacking for Artemis 2",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/10/17/orion-spacecraft-arrives-at-vab-ahead-of-stacking-for-artemis-2/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251016-Artemis-II-Orion-Roll-to-VAB.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "This is the first spacecraft that will carry humans on a mission to the Moon since 1972. The Artemis 2 mission is scheduled for no earlier than Feb. 5, 2026. ",
+    "published_at": "2025-10-17T04:50:02Z",
+    "updated_at": "2025-10-17T05:00:26.444824Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Orion spacecraft made its penultimate terrestrial roadtrip late Thursday evening. The spacecraft made the roughly seven-mile journey from the Launch Abort System Facility to the VAB. The trek came almost four years to the day after NASA rolled the Orion spacecraft used on the Artemis 1 mission. The first crewed flight of the Artemis program is set to launch no earlier than Feb. 5 from the Kennedy Space Center. Teams are still working to nail down the specific launch windows available to them in each month. Depending on exactly when they launch, the four-person crew will spend roughly ten days in the confines of the Orion capsule."
+  },
+  {
+    "id": 33553,
+    "title": "As shutdown continues, science community keeps focus on long-term budget concerns",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/as-shutdown-continues-science-community-keeps-focus-on-long-term-budget-concerns/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/nye-oct2025.jpeg?fit=1024%2C684&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAs the government shutdown drags on, scientists and advocates remain focused on the long-term effects of proposed budget cuts at NASA and other agencies.\nThe post As shutdown continues, science community keeps focus on long-term budget concerns appeared first on SpaceNews.",
+    "published_at": "2025-10-17T03:50:55Z",
+    "updated_at": "2025-10-17T04:00:20.843198Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33552,
     "title": "Viasat takes aim at the U.S. military satellite market",
     "authors": [
@@ -989,45 +1036,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33507,
-    "title": "SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)",
-    "authors": [
-      {
-        "name": "SmallSat Education Conference",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/SSEC-LOGO-WHITE.png?fit=792%2C792&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe 4th Annual SmallSat Education Conference will take place on Saturday. Oct. 25 10am-5pm to Sunday Oct. 26, 2025 10am to 1pm at the Center for Space Education at Kennedy […]\nThe post SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College) appeared first on SpaceNews.",
-    "published_at": "2025-10-14T11:00:00Z",
-    "updated_at": "2025-10-14T11:10:20.932534Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33504,
-    "title": "SpaceX launches final Version 2 Starship-Super Heavy rocket",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/10/14/spacex-launches-final-version-2-starship-super-heavy-rocket/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251013_Starship_Flight_11.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "This was the fifth and final flight of this iteration of the rocket, which has been marred by a number of setbacks. The first Starship Version 3 is expected to debut in 2026. ",
-    "published_at": "2025-10-14T03:26:43Z",
-    "updated_at": "2025-10-14T03:30:31.831057Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX launched its Version 2 Starship-Super Heavy rocket on Monday. The rocket made it through the point of peak heating as well as the greatest point of atmospheric pressure with the vehicle mostly in tact. The only notable hiccup during ascent was that one of the planned 13 Raptor engines on the Super Heavy booster, tail number B15, didn’t reignite during the boostback burn."
   }
 ]
