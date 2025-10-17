@@ -1,5 +1,77 @@
 [
   {
+    "id": 33557,
+    "title": "First Ariane 64 launch slips to 2026",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/first-ariane-64-launch-slips-to-2026/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/ariane64.jpeg?fit=1024%2C713&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Arianespace has confirmed that the first flight of the more powerful version of the Ariane 6 rocket has been delayed until next year.\r\nThe post First Ariane 64 launch slips to 2026 appeared first on SpaceNews.",
+    "published_at": "2025-10-17T11:11:58Z",
+    "updated_at": "2025-10-17T11:24:01.927637Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "71eba994-ab9f-4707-ba5e-024cfff73c01",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33555,
+    "title": "Open Cosmos to Build Spanish Component of the Atlantic Constellation",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/open-cosmos-to-build-spanish-component-of-the-atlantic-constellation/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/Open-Cosmos-to-Build-Spanish-Component-of-the-Atlantic-Constellation.webp",
+    "news_site": "European Spaceflight",
+    "summary": "UK-headquartered satellite manufacturer Open Cosmos has been selected over Deimos by the European Space Agency (ESA) and the Spanish Space Agency (AEE) to build the Spanish component of the Atlantic Constellation. The Constelación Atlántica (Atlantic Constellation) is a joint initiative between Spain and Portugal to build a 16-satellite Earth observation constellation for coastal surveillance, environmental […]\nThe post Open Cosmos to Build Spanish Component of the Atlantic Constellation appeared first on European Spaceflight.",
+    "published_at": "2025-10-17T08:37:24Z",
+    "updated_at": "2025-10-17T08:40:10.986671Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "UK-headquartered satellite manufacturer Open Cosmos has been selected over Deimos to build the Spanish component of the Atlantic Constellation. The Constelación Atlántica is a joint initiative between Spain and Portugal to build a 16-satellite Earth observation constellation. Each country has committed €40 million to the project."
+  },
+  {
+    "id": 33556,
+    "title": "Earth from Space: Chilean glaciers",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Chilean_glaciers",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/earth_from_space_chilean_glaciers/26929003-1-eng-GB/Earth_from_Space_Chilean_glaciers_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-10-17T08:00:00Z",
+    "updated_at": "2025-10-17T08:40:12.668140Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Laguna San Rafael National Park is located on the Pacific coast of southern Chile. It includes the Northern Patagonian Ice Field, a remnant of the Patagonia Ice Sheet. Today, despite the ice field being just a fraction of its previous size, it is still the second largest continuous mass of ice outside the polar regions. The ice mass feeds glaciers that have changed in size between 1987 and 2024."
+  },
+  {
     "id": 33554,
     "title": "Orion spacecraft arrives at VAB ahead of stacking for Artemis 2",
     "authors": [
@@ -717,26 +789,6 @@
     "detailed_news": "The European Space Agency’s (ESA) Exploration Biobank in Lisbon, Portugal, has received an initial batch of 1,422 samples. The facility will store human samples from space missions and studies investigating the effects of microgravity on the human body. Once the facility is certified, what remains of the 4,380 human samples collected as part of the Vivaldi III study that have not yet been delivered will be transferred."
   },
   {
-    "id": 33526,
-    "title": "ESA Open Day 2025: an unforgettable journey through space science at ESAC",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/10/ESA_Open_Day_2025_an_unforgettable_journey_through_space_science_at_ESAC",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/10/esa_open_day_2025_an_unforgettable_journey_through_space_science_at_esac/26925467-1-eng-GB/ESA_Open_Day_2025_An_Unforgettable_Journey_Through_Space_Science_at_ESAC_card_full.png",
-    "news_site": "ESA",
-    "summary": "English ESA Open Day 2025: An Unforgettable Journey Through Space Science at ESAC",
-    "published_at": "2025-10-15T10:00:00Z",
-    "updated_at": "2025-10-16T10:03:48.721719Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The European Space Agency opened the doors of ESAC near Madrid for an inspiring day of discovery. Visitors had the opportunity to explore ESA’s window to the Universe, where missions studying our Solar System, the Milky Way and the distant Universe are operated and analysed. More than two thousand participants of all ages enjoyed an unforgettable day filled with curiosity, innovation, and a shared passion for exploring the Universe."
-  },
-  {
     "id": 33534,
     "title": "Polish space company Scanway Space secures U.S., European deals amid international expansion drive",
     "authors": [
@@ -755,6 +807,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33526,
+    "title": "ESA Open Day 2025: an unforgettable journey through space science at ESAC",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/10/ESA_Open_Day_2025_an_unforgettable_journey_through_space_science_at_ESAC",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/10/esa_open_day_2025_an_unforgettable_journey_through_space_science_at_esac/26925467-1-eng-GB/ESA_Open_Day_2025_An_Unforgettable_Journey_Through_Space_Science_at_ESAC_card_full.png",
+    "news_site": "ESA",
+    "summary": "English ESA Open Day 2025: An Unforgettable Journey Through Space Science at ESAC",
+    "published_at": "2025-10-15T10:00:00Z",
+    "updated_at": "2025-10-16T10:03:48.721719Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The European Space Agency opened the doors of ESAC near Madrid for an inspiring day of discovery. Visitors had the opportunity to explore ESA’s window to the Universe, where missions studying our Solar System, the Milky Way and the distant Universe are operated and analysed. More than two thousand participants of all ages enjoyed an unforgettable day filled with curiosity, innovation, and a shared passion for exploring the Universe."
   },
   {
     "id": 33518,
@@ -972,66 +1044,6 @@
     "summary": "\nWe’re entering a new era of space. One defined not by exploration alone, but by the infrastructure that makes a sustained presence possible.  For decades, our presence in space has been limited to short-term missions: land, explore and return. But now that’s changing. Artemis is preparing the moon as a steppingstone to Mars, shifting the […]\nThe post The Mars moment: Why now is the time to build the future  appeared first on SpaceNews.",
     "published_at": "2025-10-14T13:00:00Z",
     "updated_at": "2025-10-14T13:10:29.313265Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33508,
-    "title": "Space Pioneer raises $350 million as China’s commercial launch boom accelerates",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-pioneer-raises-350-million-as-chinas-commercial-launch-boom-accelerates/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/tianlong3-mockup-dongfeng-JSLC-july2025-SpacePioneer.jpg?fit=1024%2C573&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpace Pioneer has secured around $350 million in new funding rounds to support its Tianlong-3 rocket and next-generation launch vehicle and engine development.\nThe post Space Pioneer raises $350 million as China’s commercial launch boom accelerates appeared first on SpaceNews.",
-    "published_at": "2025-10-14T11:33:07Z",
-    "updated_at": "2025-10-14T11:40:20.604160Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33506,
-    "title": "Gravity assists: trading energy with the planets",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/09/Gravity_assists_trading_energy_with_the_planets",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/09/gravity_assists_trading_energy_with_the_planets/26882997-1-eng-GB/Gravity_assists_trading_energy_with_the_planets_card_full.png",
-    "news_site": "ESA",
-    "summary": "Is there life on Terran V? Join the adventure to the fictional planet and find out what it takes to reach the farthest frontiers of deep space.",
-    "published_at": "2025-10-14T11:00:00Z",
-    "updated_at": "2025-10-14T11:10:15.083677Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The gravity assist is one of the most important techniques in deep-space navigation. By carefully passing close to a planet, a spacecraft can exchange orbital momentum with the much larger body. From the spacecraft’s perspective, this results in a change in trajectory and a significant boost (or reduction) in speed."
-  },
-  {
-    "id": 33505,
-    "title": "Announcing the finalists for the 2025 SpaceNews Icon Awards",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/SpaceNews-Awards-Jason-Dixson-Photography-241206-15-02-56-1660.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe SpaceNews Icon Awards celebrate the year’s most iconic achievements in shaping the future of the space industry. Today, we’re proud to announce the shortlist for 2025 — a selection of individuals, organizations, and missions that exemplify excellence in innovation, exploration and sustainability. This year’s honorees represent a range of accomplishments — from pioneering commercial […]\nThe post Announcing the finalists for the 2025 SpaceNews Icon Awards appeared first on SpaceNews.",
-    "published_at": "2025-10-14T11:00:00Z",
-    "updated_at": "2025-10-14T11:00:28.159584Z",
     "featured": false,
     "launches": [],
     "events": [],
