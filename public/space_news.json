@@ -1,5 +1,25 @@
 [
   {
+    "id": 33564,
+    "title": "France and Germany Agree to Implement ODIN’S EYE Missile Warning System",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/france-and-germany-agree-to-implement-odins-eye-missile-warning-system/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/France-and-Germany-Agree-to-Implement-ODINS-EYE-Missile-Warning-System.webp",
+    "news_site": "European Spaceflight",
+    "summary": "On 15 October, the Defence Ministers of Germany and France signed an agreement to jointly implement the ODIN’S EYE missile early warning system. Initial development of the multinatiOnal Development INitiative for a Space-based missilE earlY-warning architecturE (ODIN’S EYE) project was funded by the European Union under the European Defence Fund. The project aims to develop […]\nThe post France and Germany Agree to Implement ODIN’S EYE Missile Warning System appeared first on European Spaceflight.",
+    "published_at": "2025-10-18T05:14:17Z",
+    "updated_at": "2025-10-18T05:20:10.464179Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "ODIN’S EYE project was funded by the European Union under the European Defence Fund. The project aims to develop a sovereign space-based early warning capability that would detect and track the launch of ballistic missiles. In July 2021, an initial €7.5 million was awarded to an OHB System-led consortium."
+  },
+  {
     "id": 33563,
     "title": "Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific",
     "authors": [
@@ -1021,25 +1041,5 @@
     "launches": [],
     "events": [],
     "detailed_news": " Starship Flight 11 launched from Starbase, Texas on Monday, Oct. 13, at 7:23 PM EDT (23:23 UTC) Ship 38 was lifted into space by Super Heavy Booster 15, which made its second flight to space on Flight 11. SpaceX is set to continue its impressive launch cadence with six Falcon 9 missions in one week. China now has four launches planned for the week, and Rocket Lab successfully launched an Electron from New Zealand on Tuesday. Falcon 9 launched a new batch of internet satellites on Monday for Amazon’s Project Kuiper constellation. The KF-03 mission launched on Oct. 13 at 9:58 PM EDT (Tuesday, 01:58 UTC), with 24 communication satellites flying on a northeast trajectory into low-Earth orbit. This mission had suffered considerable delays due to the unsuitable weather conditions in Florida last week. Falcon 9 is set to launch the Starship Group 10-52 mission on Thursday, Oct. 16, at 2:42 AM EDT (06:42 UTC) from SLC-40 at the CCSFS in Florida. Falcon 9 will carry 21 satellites on a due south trajectory toward a polar orbit. Supporting this flight is booster B1093, which will be flying for the seventh time. The booster will land atop SpaceX’s west coast droneship Of Course I Still Love You. The final Falcon 9 launch of the week is scheduled for Monday, Oct. 20, at 7:00 AM PDT (14:00 UTC) from SLC-4E in California. Booster B1075 will deliver a further 28 v2 Mini Starlink satellites into the constellation’s Group 11 shell for the Starlink Group 11-5 mission. The booster first flew on June 3, 2021."
-  },
-  {
-    "id": 33515,
-    "title": "Rocket Lab launches 7th StriX Earth observation satellites for Japan-based Synspective",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/10/14/rocket-lab-launches-7th-strix-earth-observation-satellites-for-japan-based-synspective/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251014_Owl_New_World_launch-1.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The ‘Owl New World’ mission was the 13th orbital Electron launch of 2025. The synthetic aperture radar satellite was deployed into a circular low Earth orbit roughly 50 minutes after liftoff from Mahia, New Zealand. ",
-    "published_at": "2025-10-14T20:49:30Z",
-    "updated_at": "2025-10-14T20:50:18.327033Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Japan-based Earth observation company, Synspective, launched its seventh StriX satellite into low Earth orbit. Rocket Lab Electron rocket took flight from Pad A at Launch Complex 1 to begin a roughly 50-minute-long mission. The mission, dubbed ‘Owl New World’, continued the avian theming to Synspective’s missions with Rocket Lab. Liftoff of the ‘IoT 4 You and Me’ mission happened at 9:43 a.m. NZDT on Feb. 9. The mission was the company’s 59th Electron rocket launch to date. Rocket Lab broke ground on a new launch pad on Virginia's Eastern Shore last week."
   }
 ]
