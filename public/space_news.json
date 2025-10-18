@@ -1,5 +1,30 @@
 [
   {
+    "id": 33565,
+    "title": "Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 31st flight",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-31st-flight/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 10-17 mission will add another 28 broadband satellites into low Earth orbit. SpaceX is targeting liftoff from pad 40 at Cape Canaveral Space Force Station at 11:49 a.m. EDT (1549 UTC).",
+    "published_at": "2025-10-18T16:44:20Z",
+    "updated_at": "2025-10-18T17:30:08.540967Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ed145de1-b768-43b5-8563-18ebc93b69b5",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "SpaceX is set to break another reuse record on Sunday when it launches a Falcon 9 booster for a record-breaking 31st time. The company’s most flown rocket will be used to launch the Starlink 10-17 mission from Cape Canaveral Space Force Station. Liftoff from Space Launch Complex 40 is scheduled for 11:49 a.m. EDT (1549 UTC) The 45th Weather Squadron forecast a greater than 95 percent chance for favorable weather."
+  },
+  {
     "id": 33564,
     "title": "France and Germany Agree to Implement ODIN’S EYE Missile Warning System",
     "authors": [
@@ -1021,25 +1046,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Space Development Agency is set to add another 21 satellites to its burgeoning low Earth orbit constellation thanks to a launch onboard a SpaceX Falcon 9 rocket. SpaceX aims to launch the T1TL-C mission from Space Launch Complex 4 East at Vandenberg Space Force Base no earlier than Wednesday, Oct. 15, at 4:03 p.m. PDT. The rocket will fly on a southerly trajectory upon departure from the California coastline. A Falcon 9 was able to launch from Vandenberg Space Force Base at 12:43 a.m. PDT (0743 UTC) SpaceX launched 60 more Starlink internet relay platforms into orbit Sunday. The company touts a streak of nearly 300 satellites launched since June without a spacecraft failure."
-  },
-  {
-    "id": 33516,
-    "title": "Launch Roundup: Falcon 9 to launch six missions in one week",
-    "authors": [
-      {
-        "name": "John Sharp",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/10/launch-roundup-101425/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/10/IMG_3306.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "Following the successful flight of Starship Flight 11 on Monday, SpaceX is set to continue…\nThe post Launch Roundup: Falcon 9 to launch six missions in one week appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-10-14T21:15:17Z",
-    "updated_at": "2025-10-14T21:20:13.461082Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": " Starship Flight 11 launched from Starbase, Texas on Monday, Oct. 13, at 7:23 PM EDT (23:23 UTC) Ship 38 was lifted into space by Super Heavy Booster 15, which made its second flight to space on Flight 11. SpaceX is set to continue its impressive launch cadence with six Falcon 9 missions in one week. China now has four launches planned for the week, and Rocket Lab successfully launched an Electron from New Zealand on Tuesday. Falcon 9 launched a new batch of internet satellites on Monday for Amazon’s Project Kuiper constellation. The KF-03 mission launched on Oct. 13 at 9:58 PM EDT (Tuesday, 01:58 UTC), with 24 communication satellites flying on a northeast trajectory into low-Earth orbit. This mission had suffered considerable delays due to the unsuitable weather conditions in Florida last week. Falcon 9 is set to launch the Starship Group 10-52 mission on Thursday, Oct. 16, at 2:42 AM EDT (06:42 UTC) from SLC-40 at the CCSFS in Florida. Falcon 9 will carry 21 satellites on a due south trajectory toward a polar orbit. Supporting this flight is booster B1093, which will be flying for the seventh time. The booster will land atop SpaceX’s west coast droneship Of Course I Still Love You. The final Falcon 9 launch of the week is scheduled for Monday, Oct. 20, at 7:00 AM PDT (14:00 UTC) from SLC-4E in California. Booster B1075 will deliver a further 28 v2 Mini Starlink satellites into the constellation’s Group 11 shell for the Starlink Group 11-5 mission. The booster first flew on June 3, 2021."
   }
 ]
