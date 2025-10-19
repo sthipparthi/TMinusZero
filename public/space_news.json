@@ -1,5 +1,25 @@
 [
   {
+    "id": 33567,
+    "title": "Arianespace Pushes First Ariane 64 Flight Back to 2026",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/arianespace-pushes-first-ariane-64-flight-back-to-2026/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/Arianespace-Push-First-Ariane-64-Flight-Back-to-2026.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Arianespace has confirmed that the first flight of the more powerful, four-booster variant of the Ariane 6 rocket will not be launched until 2026. The first Ariane 64 rocket had been expected to launch in late 2025, carrying the first batch of Amazon’s Project Kuiper satellites. On 16 October, Arianespace, the commercial operator of the […]\nThe post Arianespace Pushes First Ariane 64 Flight Back to 2026 appeared first on European Spaceflight.",
+    "published_at": "2025-10-19T11:48:49Z",
+    "updated_at": "2025-10-19T11:50:09.325433Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Arianespace has confirmed that the first flight of the more powerful, four-booster variant of the Ariane 6 rocket will not be launched until 2026. The first Ariane 64 rocket had been expected to launch in late 2025, carrying the first batch of Amazon’s Project Kuiper satellites."
+  },
+  {
     "id": 33566,
     "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg",
     "authors": [
@@ -1019,32 +1039,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The European Space Agency opened the doors of ESAC near Madrid for an inspiring day of discovery. Visitors had the opportunity to explore ESA’s window to the Universe, where missions studying our Solar System, the Milky Way and the distant Universe are operated and analysed. More than two thousand participants of all ages enjoyed an unforgettable day filled with curiosity, innovation, and a shared passion for exploring the Universe."
-  },
-  {
-    "id": 33518,
-    "title": "Rocket Lab launches seventh Synspective radar imaging satellite",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/rocket-lab-launches-seventh-synspective-radar-imaging-satellite/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/54854936071_4ca26e06d1_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nRocket Lab launched a spacecraft for one Japanese radar imaging company Oct. 14, just days after signing a contract for additional launches for another.\nThe post Rocket Lab launches seventh Synspective radar imaging satellite appeared first on SpaceNews.",
-    "published_at": "2025-10-14T23:25:57Z",
-    "updated_at": "2025-10-14T23:30:21.448916Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
   }
 ]
