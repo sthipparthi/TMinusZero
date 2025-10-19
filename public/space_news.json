@@ -1,5 +1,25 @@
 [
   {
+    "id": 33566,
+    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/02/20240214_Starlink_7-14_prelaunch_small-678x452.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 11-19 mission will be SpaceX’s 50th launch from Vandenberg Space Force Base in 2025. It’s targeting liftoff from pad Space Launch Complex 4 East at 10:59 a.m. PDT (1:59 p.m. EDT / 1759 UTC). ",
+    "published_at": "2025-10-18T23:51:15Z",
+    "updated_at": "2025-10-19T00:00:22.044262Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX is preparing for its 50th Falcon 9 rocket launch from Vandenberg Space Force Base on Sunday. The Starlink 11-19 mission will add another 28 Starlink satellites to its broadband internet constellation in low Earth orbit. There are more than 8,600 satellites currently in orbit, according to stats maintained by astronomer and expert orbital tracker Jonathan McDowell."
+  },
+  {
     "id": 33565,
     "title": "Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 31st flight",
     "authors": [
@@ -1026,25 +1046,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33517,
-    "title": "Live coverage: SpaceX to launch 2nd batch of satellites for Space Development Agency constellation",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/10/14/live-coverage-spacex-to-launch-2nd-batch-of-satellites-for-space-development-agency-constellation/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251014_SDA_T1TL-C_Vertical.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The mission, dubbed Tranche 1 Transporter Layer C, will add another 21 satellites into the burgeoning constellation for the Space Development Agency. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:12 p.m. PDT (7:12 p.m. EDT / 2312 UTC). ",
-    "published_at": "2025-10-14T21:52:41Z",
-    "updated_at": "2025-10-14T22:00:23.826427Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Space Development Agency is set to add another 21 satellites to its burgeoning low Earth orbit constellation thanks to a launch onboard a SpaceX Falcon 9 rocket. SpaceX aims to launch the T1TL-C mission from Space Launch Complex 4 East at Vandenberg Space Force Base no earlier than Wednesday, Oct. 15, at 4:03 p.m. PDT. The rocket will fly on a southerly trajectory upon departure from the California coastline. A Falcon 9 was able to launch from Vandenberg Space Force Base at 12:43 a.m. PDT (0743 UTC) SpaceX launched 60 more Starlink internet relay platforms into orbit Sunday. The company touts a streak of nearly 300 satellites launched since June without a spacecraft failure."
   }
 ]
