@@ -1,5 +1,32 @@
 [
   {
+    "id": 33573,
+    "title": "Innospace gets license for first orbital launch attempt",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/innospace-gets-license-for-first-orbital-launch-attempt/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/03/Innospace.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSouth Korean launch startup Innospace says it has received government approval for its first orbital launch attempt, which could take place as soon as the end of the month.\nThe post Innospace gets license for first orbital launch attempt appeared first on SpaceNews.",
+    "published_at": "2025-10-20T03:40:47Z",
+    "updated_at": "2025-10-20T03:50:17.038889Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33572,
     "title": "What’s Happening in Space Policy October 19-25, 2025",
     "authors": [
@@ -1012,25 +1039,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Romania’s National Institute for Aerospace Research ‘Elie Carafoli’ (INCAS) has delivered the Space Rider Descent and Landing Test Model (DLRM) to the Italian Aerospace Research Centre (CIRA) in Capua. CIRA was contracted by Space Rider Re-entry Module prime contractor, Thales Alenia Space, in late 2021 to oversee a series of drop tests."
-  },
-  {
-    "id": 33532,
-    "title": "Beyond the downlink: Why Earth-independent AI is the next moat in space operations",
-    "authors": [
-      {
-        "name": "Miguel A. Lopez-Medina",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/beyond-the-downlink-why-earth-independent-ai-is-the-next-moat-in-space-operations/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/dsa_web_image_1.webp?fit=1024%2C596&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEvery new space mission runs into the same wall: physics and fragility. Physics, because the speed of light and contested spectrum make real-time decision-making from the ground impossible when you need it most. Fragility, because modern space systems are software-defined, interconnected, and therefore exposed to radiation-induced faults, cascading anomalies and increasingly sophisticated cyber threats. The […]\nThe post Beyond the downlink: Why Earth-independent AI is the next moat in space operations appeared first on SpaceNews.",
-    "published_at": "2025-10-15T13:00:00Z",
-    "updated_at": "2025-10-16T10:03:53.615287Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
   }
 ]
