@@ -1,5 +1,25 @@
 [
   {
+    "id": 33574,
+    "title": "Sentinel-1D fuelled and ready for encapsulation",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_fuelled_and_ready_for_encapsulation",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/sentinel-1d_fuelled_in_kourou/26930993-1-eng-GB/Sentinel-1D_fuelled_in_Kourou_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The launch campaign of the next satellite to join the Copernicus Sentinel-1 mission is progressing on schedule for launch on Tuesday, 4 November, on board an Ariane 6 rocket.",
+    "published_at": "2025-10-20T09:17:00Z",
+    "updated_at": "2025-10-20T11:50:12.361872Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Sentinel-1D is the mission’s next satellite and is set to join its sibling, Sentinel-1C. The spacecraft Flight Readiness Review took place last week, paving the way for fuelling. The satellite will be encapsulated on Friday, 24 October. The mission is part of the Copernicus family of Sentinel satellites."
+  },
+  {
     "id": 33573,
     "title": "Innospace gets license for first orbital launch attempt",
     "authors": [
@@ -1019,25 +1039,5 @@
     ],
     "events": [],
     "detailed_news": "SpaceX launched the Starlink 10-52 mission from Space Launch Complex 40 at 5:27 a.m. EDT (0927 UTC) The company used its drone ship, ‘Just Read the Instructions,’ to recover the booster nearly 8.5 minutes after liftoff. This was the 138th landing on this vessel and the 519th booster landing to date."
-  },
-  {
-    "id": 33521,
-    "title": "Romania’s INCAS Delivers Space Rider Drop Test Model",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/romanias-incas-delivers-space-rider-drop-test-model/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/Romanias-INCAS-Delivers-Space-Rider-Drop-Test-Model.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Romania’s National Institute for Aerospace Research ‘Elie Carafoli’ (INCAS) has delivered the Space Rider Descent and Landing Test Model (DLRM) to the Italian Aerospace Research Centre (CIRA) in Capua. CIRA was contracted by the Space Rider Re-entry Module prime contractor, Thales Alenia Space, in late 2021 to oversee a series of drop tests aimed at […]\nThe post Romania’s INCAS Delivers Space Rider Drop Test Model appeared first on European Spaceflight.",
-    "published_at": "2025-10-15T14:20:35Z",
-    "updated_at": "2025-10-16T10:03:46.788367Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Romania’s National Institute for Aerospace Research ‘Elie Carafoli’ (INCAS) has delivered the Space Rider Descent and Landing Test Model (DLRM) to the Italian Aerospace Research Centre (CIRA) in Capua. CIRA was contracted by Space Rider Re-entry Module prime contractor, Thales Alenia Space, in late 2021 to oversee a series of drop tests."
   }
 ]
