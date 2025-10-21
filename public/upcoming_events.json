@@ -1,6 +1,6 @@
 {
-  "count": 12,
-  "last_updated": "2025-10-20T18:02:12.985427Z",
+  "count": 13,
+  "last_updated": "2025-10-21T00:04:43.451676Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (10 successful)",
+    "AI-generated summaries (11 successful)",
     "Empty AI summaries (2 failed/unavailable)"
   ],
   "launches": [
@@ -481,6 +481,47 @@
       "ai_summary": ""
     },
     {
+      "id": "5d816773-89cb-48b9-9bf0-a9c4d8236785",
+      "name": "Electron | The Nation God Navigates (iQPS Launch 5)",
+      "status": "Go",
+      "net": "2025-11-05T19:45:00Z",
+      "window_start": "2025-11-05T19:45:00Z",
+      "window_end": "2025-11-05T19:45:00Z",
+      "lsp_name": "Rocket Lab",
+      "lsp_description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
+      "mission_name": "The Nation God Navigates (iQPS Launch 5)",
+      "mission_description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "mission_type": "Earth Science",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Rocket Lab Launch Complex 1B, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "pad": "Rocket Lab Launch Complex 1B",
+      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "rocket": "Electron",
+      "rocket_config_description": "Electron is a two-stage orbital expendable launch vehicle (with an optional third stage) developed by the American aerospace company Rocket Lab. Electron is a small-lift launch vehicle designed to launch small satellites and cubesats to sun-synchronous orbit and low earth orbit. The Electron is the first orbital class rocket to use electric-pump-fed engines, powered by the 9 Rutherford engines on the first stage. It is also used as a suborbital testbed (called HASTE) for hypersonics research.",
+      "rocket_config_family": "",
+      "rocket_config_full_name": "Electron",
+      "rocket_config_total_launch_count": 73,
+      "rocket_config_successful_launches": 69,
+      "rocket_config_failed_launches": 4,
+      "rocket_config_pending_launches": 44,
+      "rocket_manufacturer_name": "Rocket Lab",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
+      "rocket_manufacturer_total_launch_count": 73,
+      "rocket_manufacturer_successful_launches": 69,
+      "rocket_manufacturer_failed_launches": 4,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/5d816773-89cb-48b9-9bf0-a9c4d8236785/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": "Rocket Lab will launch Electron | The Nation God Navigates (iQPS Launch 5) from Rocket Lab Launch Complex 1B. Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The Electron is the first orbital class rocket to use electric-pump-fed engines."
+    },
+    {
       "id": "5c7280f6-b793-4899-a6fe-1d274ed46493",
       "name": "Nuri | CAS500-3",
       "status": "Go",
@@ -566,8 +607,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 10,
+    "successful_summaries": 11,
     "empty_summaries": 2,
-    "total_launches": 12
+    "total_launches": 13
   }
 }
