@@ -1,5 +1,25 @@
 [
   {
+    "id": 33598,
+    "title": "Elon Musk just declared war on NASA’s acting administrator, apparently",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/10/elon-musk-just-declared-war-on-nasas-acting-administrator-apparently/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/54441425446_25b87f0fd0_k.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"Sean said that NASA might benefit from being part of the Cabinet.\"",
+    "published_at": "2025-10-21T19:45:32Z",
+    "updated_at": "2025-10-21T19:50:06.756478Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX founder Elon Musk referred to the interim head of the space agency, Sean Duffy, as “Sean Dummy” Musk later added, “The person responsible for America’s space program can’t have a 2 digit IQ.” This is all pretty bonkers, so I want to try to contextualize what I believe is going on behind the scenes. NASA administrator Sean Duffy said he was reworking the agency’s lunar lander contracts because SpaceX had fallen behind. Duffy sought to demonstrate to the rest of the space community that he was willing to stand up to SpaceX. Musk channeled his inner Trump and called out ‘Sean Dummy’ A fierce, behind-the-scenes battle rages on among camps supporting Duffy and Isaacman to decide the leadership of NASA. In the meantime, NASA is twisting in the wind, trying to run in molasses while wearing lead shoes as China marches onward and upward."
+  },
+  {
     "id": 33596,
     "title": "NASA Opens Competition for Artemis III Lunar Lander",
     "authors": [
@@ -1023,25 +1043,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33546,
-    "title": "Matthias Maurer during helicopter training",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/10/Matthias_Maurer_during_helicopter_training",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/matthias_maurer_during_helicopter_training/26928862-1-eng-GB/Matthias_Maurer_during_helicopter_training_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA astronauts Alexander Gerst, Matthias Maurer, Samantha Cristoforetti and Thomas Pesquet completed a helicopter training course with the German Bundeswehr, Germany's federal defence forces. They participated in a three-week training programme at the International Helicopter Training Centre in Bückeburg, Germany. The course included  one week of simulator instruction followed by two weeks of practical flying in EC135 helicopters, with operations conducted over central Germany and in mountainous terrain in the German Alps.",
-    "published_at": "2025-10-16T14:44:00Z",
-    "updated_at": "2025-10-16T15:00:49.077377Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of the U.S. for next week. Visit CNN.com/Travel each week for a new gallery of snapshots. Visit www.dailymail.co.uk/travel for the latest."
   }
 ]
