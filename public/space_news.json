@@ -1,5 +1,65 @@
 [
   {
+    "id": 33607,
+    "title": "Eutelsat’s LEO Revenues Surge as its GEO Business Slows",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/eutelsats-leo-revenues-surge-as-its-geo-business-slows/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/Eutelsats-LEO-Revenues-Surge-as-its-GEO-Business-Slows.webp",
+    "news_site": "European Spaceflight",
+    "summary": "French satellite operator Eutelsat announced its first quarter 2025–26 financial results on 21 October, posting strong growth in its OneWeb low Earth orbit (LEO) connectivity segment. However, total revenues for the quarter declined by 2.2% year-on-year, driven by weaker performances in its video and geostationary (GEO) connectivity businesses. Eutelsat completed a merger with OneWeb in […]\nThe post Eutelsat’s LEO Revenues Surge as its GEO Business Slows appeared first on European Spaceflight.",
+    "published_at": "2025-10-22T14:17:31Z",
+    "updated_at": "2025-10-22T14:20:12.317227Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "French satellite operator Eutelsat announced its first quarter 2025–26 financial results on 21 October. Strong growth in its OneWeb low Earth orbit (LEO) connectivity segment. Total revenues for the quarter declined by 2.2% year-on-year, driven by weaker performances in its video and geostationary (GEO) businesses."
+  },
+  {
+    "id": 33605,
+    "title": "The lunar mining gold rush is coming – and success requires bridging two worlds",
+    "authors": [
+      {
+        "name": "Stirling Forbes",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-lunar-mining-gold-rush-is-coming-and-success-requires-bridging-two-worlds/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/gcd-bigidea-inflatablesgraphic-final.webp?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nTraditional mining expertise plus space startup innovation will equal the winning formula for lunar resource extraction. \nThe post The lunar mining gold rush is coming – and success requires bridging two worlds  appeared first on SpaceNews.",
+    "published_at": "2025-10-22T13:00:00Z",
+    "updated_at": "2025-10-22T13:10:19.054453Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33604,
+    "title": "Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/vantor-satellites-track-space-objects-in-blind-spots-inaccessible-to-military-ground-sensors/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/TRACERS-2-WorldView-Space-20OCT2025-1-1.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nVantor’s space-to-space intelligence business is also known as non-Earth imagery\nThe post Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors appeared first on SpaceNews.",
+    "published_at": "2025-10-22T12:30:00Z",
+    "updated_at": "2025-10-22T12:40:19.447894Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33603,
     "title": "Live coverage: SpaceX to launch 28 Starlink satellites on 550th Falcon 9 rocket",
     "authors": [
@@ -50,6 +110,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33606,
+    "title": "Sounding the alarm: ESA introduces space environment ‘health index’",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Space_Debris/Sounding_the_alarm_ESA_introduces_space_environment_health_index",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/03/space_debris_surrounding_earth/26641319-2-eng-GB/Space_debris_surrounding_Earth_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The congestion and pollution of Earth orbit is quickly getting worse. We need to be able to quantify how our behaviour impacts the orbital environment in the future. To this end, the European Space Agency (ESA) is adding a new health index to its yearly Space Environment Report that summarises in one number the status of our space environment over time.",
+    "published_at": "2025-10-22T08:26:00Z",
+    "updated_at": "2025-10-22T14:10:18.948229Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Space Environment Health Index measures how sustainable Earth’s orbital environment is. A high score indicates a greater negative impact on the environment, while a low score reflects more sustainable behaviour. A value of 1 represents the proposed threshold for long-term sustainability. Anything higher means that the space environment becomes less then desirable for operations over time. We are now at Health Index level 4, far beyond the sustainability threshold. Stronger action is required to protect our future in space. The index is more than a scientific tool – it is a practical decision-making aid. It can be applied to mission design to minimise its environmental impact."
   },
   {
     "id": 33601,
@@ -959,93 +1039,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33555,
-    "title": "Open Cosmos to Build Spanish Component of the Atlantic Constellation",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/open-cosmos-to-build-spanish-component-of-the-atlantic-constellation/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/Open-Cosmos-to-Build-Spanish-Component-of-the-Atlantic-Constellation.webp",
-    "news_site": "European Spaceflight",
-    "summary": "UK-headquartered satellite manufacturer Open Cosmos has been selected over Deimos by the European Space Agency (ESA) and the Spanish Space Agency (AEE) to build the Spanish component of the Atlantic Constellation. The Constelación Atlántica (Atlantic Constellation) is a joint initiative between Spain and Portugal to build a 16-satellite Earth observation constellation for coastal surveillance, environmental […]\nThe post Open Cosmos to Build Spanish Component of the Atlantic Constellation appeared first on European Spaceflight.",
-    "published_at": "2025-10-17T08:37:24Z",
-    "updated_at": "2025-10-17T08:40:10.986671Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "UK-headquartered satellite manufacturer Open Cosmos has been selected over Deimos to build the Spanish component of the Atlantic Constellation. The Constelación Atlántica is a joint initiative between Spain and Portugal to build a 16-satellite Earth observation constellation. Each country has committed €40 million to the project."
-  },
-  {
-    "id": 33556,
-    "title": "Earth from Space: Chilean glaciers",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Chilean_glaciers",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/earth_from_space_chilean_glaciers/26929003-1-eng-GB/Earth_from_Space_Chilean_glaciers_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-10-17T08:00:00Z",
-    "updated_at": "2025-10-17T08:40:12.668140Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Laguna San Rafael National Park is located on the Pacific coast of southern Chile. It includes the Northern Patagonian Ice Field, a remnant of the Patagonia Ice Sheet. Today, despite the ice field being just a fraction of its previous size, it is still the second largest continuous mass of ice outside the polar regions. The ice mass feeds glaciers that have changed in size between 1987 and 2024."
-  },
-  {
-    "id": 33554,
-    "title": "Orion spacecraft arrives at VAB ahead of stacking for Artemis 2",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/10/17/orion-spacecraft-arrives-at-vab-ahead-of-stacking-for-artemis-2/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251016-Artemis-II-Orion-Roll-to-VAB.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "This is the first spacecraft that will carry humans on a mission to the Moon since 1972. The Artemis 2 mission is scheduled for no earlier than Feb. 5, 2026. ",
-    "published_at": "2025-10-17T04:50:02Z",
-    "updated_at": "2025-10-17T05:00:26.444824Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Orion spacecraft made its penultimate terrestrial roadtrip late Thursday evening. The spacecraft made the roughly seven-mile journey from the Launch Abort System Facility to the VAB. The trek came almost four years to the day after NASA rolled the Orion spacecraft used on the Artemis 1 mission. The first crewed flight of the Artemis program is set to launch no earlier than Feb. 5 from the Kennedy Space Center. Teams are still working to nail down the specific launch windows available to them in each month. Depending on exactly when they launch, the four-person crew will spend roughly ten days in the confines of the Orion capsule."
-  },
-  {
-    "id": 33553,
-    "title": "As shutdown continues, science community keeps focus on long-term budget concerns",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/as-shutdown-continues-science-community-keeps-focus-on-long-term-budget-concerns/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/nye-oct2025.jpeg?fit=1024%2C684&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAs the government shutdown drags on, scientists and advocates remain focused on the long-term effects of proposed budget cuts at NASA and other agencies.\nThe post As shutdown continues, science community keeps focus on long-term budget concerns appeared first on SpaceNews.",
-    "published_at": "2025-10-17T03:50:55Z",
-    "updated_at": "2025-10-17T04:00:20.843198Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
   }
