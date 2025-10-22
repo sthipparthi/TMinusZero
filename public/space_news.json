@@ -1,5 +1,84 @@
 [
   {
+    "id": 33603,
+    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on 550th Falcon 9 rocket",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/10/22/live-coverage-spacex-to-launch-28-starlink-satellites-on-550th-falcon-9-rocket/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250818_Starlink_G17_5_Vertical.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 11-5 mission will be the 95th flight in 2025 supporting the low Earth orbit internet constellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:16 a.m. PDT (10:16 a.m. EDT / 1416 UTC).",
+    "published_at": "2025-10-22T11:00:00Z",
+    "updated_at": "2025-10-22T11:38:41.027282Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "67c287d7-199e-4811-a43a-b540b3c4d186",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "SpaceX is preparing to launch its 550th Falcon 9 mission since the rocket's debut in 2010. The launch from California will add 28 more broadband internet satellites to the company's Starlink constellation. The 28 Starlink V2 Mini satellites will be deployed from the Falcon 9 rocket’s second stage about an hour after liftoff."
+  },
+  {
+    "id": 33602,
+    "title": "Musk criticizes Duffy amid NASA leadership debate",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/musk-criticizes-duffy-amid-nasa-leadership-debate/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/54678364779_9813669e81_k.jpg?fit=1024%2C605&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX Chief Executive Elon Musk hurled insults at NASA’s acting administrator a day after complaints that the company was behind schedule on its Artemis lunar lander.\nThe post Musk criticizes Duffy amid NASA leadership debate appeared first on SpaceNews.",
+    "published_at": "2025-10-22T10:44:48Z",
+    "updated_at": "2025-10-22T10:50:24.387910Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33601,
+    "title": "Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/lynk-global-and-omnispace-to-merge-in-race-for-direct-to-device-satellite-spectrum/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/In_Lab_Group_Shot_2.jpg?fit=1000%2C562&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nLynk Global plans to merge with Omnispace to upgrade its direct-to-device services with globally coordinated S-band spectrum, joining SpaceX and AST SpaceMobile in shoring up satellite frequencies after initially relying on cellular partnerships.\nThe post Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum appeared first on SpaceNews.",
+    "published_at": "2025-10-22T08:00:00Z",
+    "updated_at": "2025-10-22T08:00:22.213893Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33600,
     "title": "Startup takes on space-based missile defense — with its own cash",
     "authors": [
@@ -965,73 +1044,6 @@
     "summary": "\nAs the government shutdown drags on, scientists and advocates remain focused on the long-term effects of proposed budget cuts at NASA and other agencies.\nThe post As shutdown continues, science community keeps focus on long-term budget concerns appeared first on SpaceNews.",
     "published_at": "2025-10-17T03:50:55Z",
     "updated_at": "2025-10-17T04:00:20.843198Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33552,
-    "title": "Viasat takes aim at the U.S. military satellite market",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/viasat-takes-aim-at-the-u-s-military-satellite-market/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/UltraGEO_2025-Globe_Americas-RotatedFinal-resized.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe company looks to extend its reach beyond commercial broadband services with customized military satellites\nThe post Viasat takes aim at the U.S. military satellite market appeared first on SpaceNews.",
-    "published_at": "2025-10-16T22:54:15Z",
-    "updated_at": "2025-10-16T23:00:21.958523Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33538,
-    "title": "ESA astronauts complete helicopter training in preparation for future lunar missions",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/esa_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions/26927849-1-eng-GB/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA astronauts Alexander Gerst, Matthias Maurer, Samantha Cristoforetti and Thomas Pesquet completed a helicopter training course with the German Bundeswehr, Germany's federal defence forces. They participated in a three-week training programme at the International Helicopter Training Centre in Bückeburg, Germany. The course included  one week of simulator instruction followed by two weeks of practical flying in EC135 helicopters, with operations conducted over central Germany and in mountainous terrain in the German Alps.",
-    "published_at": "2025-10-16T22:00:00Z",
-    "updated_at": "2025-10-16T14:00:43.315132Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of the U.S. for next week. Visit CNN.com/Travel each week for a new gallery of snapshots. Visit www.dailymail.co.uk/travel for the latest."
-  },
-  {
-    "id": 33551,
-    "title": "SpaceX wins approval for increased Falcon launches from Vandenberg",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/spacex-wins-approval-for-increased-falcon-launches-from-vandenberg/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/f9-sdaoct2025.jpeg?fit=1024%2C654&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Department of the Air Force has approved SpaceX’s proposal to double its launch rate at Vandenberg Space Force Base and begin using a second launch pad there.\nThe post SpaceX wins approval for increased Falcon launches from Vandenberg appeared first on SpaceNews.",
-    "published_at": "2025-10-16T21:33:47Z",
-    "updated_at": "2025-10-16T21:40:20.278527Z",
     "featured": false,
     "launches": [],
     "events": [],
