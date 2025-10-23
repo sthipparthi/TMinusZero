@@ -1,5 +1,59 @@
 [
   {
+    "id": 33611,
+    "title": "Hungary signs Artemis Accords",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/hungary-signs-artemis-accords/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/szijjarto-rubio.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nHungary has become the latest country to sign the Artemis Accords, outlining norms of behavior for sustainable space exploration.\nThe post Hungary signs Artemis Accords appeared first on SpaceNews.",
+    "published_at": "2025-10-23T02:14:01Z",
+    "updated_at": "2025-10-23T02:20:17.613441Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33610,
+    "title": "Quantum Space to launch first spacecraft in mid-2026",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/quantum-space-to-launch-first-spacecraft-in-mid-2026/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/rangerprime.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nQuantum Space says it plans to launch its first Ranger spacecraft in mid-2026 to demonstrate its capabilities for national security missions.\nThe post Quantum Space to launch first spacecraft in mid-2026 appeared first on SpaceNews.",
+    "published_at": "2025-10-23T01:26:19Z",
+    "updated_at": "2025-10-23T01:30:17.954823Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33609,
     "title": "Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace",
     "authors": [
@@ -989,45 +1043,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33560,
-    "title": "ESA astronauts complete helicopter training in preparation for future lunar missions",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/esa_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions/26927849-1-eng-GB/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Four ESA astronauts have completed a helicopter training course with the German Bundeswehr, Germany’s federal defence forces, marking a key milestone in Europe’s preparations for future missions to the Moon and operations on the lunar surface.",
-    "published_at": "2025-10-17T14:00:00Z",
-    "updated_at": "2025-10-17T14:50:17.005940Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Four ESA astronauts have completed a helicopter training course with the German Bundeswehr. The training is a key milestone in Europe’s preparations for future missions to the Moon and operations on the lunar surface. Helicopter training offers a realistic analogue for the dynamics of planetary landings, requiring capabilities such as vertical take-off and landing."
-  },
-  {
-    "id": 33558,
-    "title": "Week in images: 13-17 October 2025",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_October_2025",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/earth_from_space_chilean_glaciers/26929003-1-eng-GB/Earth_from_Space_Chilean_glaciers_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 13-17 October 2025",
-    "published_at": "2025-10-17T13:15:00Z",
-    "updated_at": "2025-10-17T13:10:13.326844Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. Click here for the next gallery of iReporters' snapshots."
   }
 ]
