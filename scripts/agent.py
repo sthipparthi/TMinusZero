@@ -31,7 +31,7 @@ TARGET_SUMMARY_WORDS = int(os.getenv("TARGET_WORDS", "1000"))
 if not HF_TOKEN:
     raise SystemExit("HF_TOKEN environment variable not set")
 
-HF_API_URL = f"https://api-inference.huggingface.co/models/{HF_MODEL}"
+HF_API_URL = f"https://router.huggingface.co/hf-inference/models/{HF_MODEL}"
 
 # --- Helpers ---
 async def fetch_json(session: aiohttp.ClientSession, url: str):

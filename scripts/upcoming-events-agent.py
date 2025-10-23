@@ -25,7 +25,7 @@ MAX_EVENTS = 50  # Reduced to minimize API load and avoid rate limiting
 # AI Model configuration
 HF_MODEL = os.getenv("HF_MODEL", "facebook/bart-large-cnn")
 HF_TOKEN = os.environ.get("HF_TOKEN")
-HF_API_URL = f"https://api-inference.huggingface.co/models/{HF_MODEL}"
+HF_API_URL = f"https://router.huggingface.co/hf-inference/models/{HF_MODEL}"
 
 AI_MODEL_NAME = None  # Will be set based on successful loading
 
