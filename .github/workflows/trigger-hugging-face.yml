@@ -42,13 +42,6 @@ jobs:
           HF_MODEL: "facebook/bart-large-cnn"
         run: python scripts/upcoming-events-agent.py
 
-      - name: Upload to IPFS and publish to IPNS
-        env:
-          NFT_STORAGE_TOKEN: ${{ secrets.NFT_STORAGE_TOKEN }}
-          W3_KEY_BASE64: ${{ secrets.W3_KEY_BASE64 }}
-          W3_NAME: ${{ secrets.W3_NAME }}
-        run: python scripts/ipfs_storage_manager.py
-
       - name: Update sitemap lastmod
         run: |
           # Update sitemap.xml with current date
@@ -63,6 +56,5 @@ jobs:
           git add public/space_news.json || true
           git add public/upcoming_events.json || true
           git add public/sitemap.xml || true
-          git add public/ipfs_records.json || true
-          git commit -m "chore: update space news, launches, and IPFS records" || echo "no changes"
+          git commit -m "chore: update space news and upcoming launches" || echo "no changes"
           git push origin HEAD:${{ github.ref_name }}
