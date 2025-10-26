@@ -1,5 +1,25 @@
 [
   {
+    "id": 33642,
+    "title": "JAXA’s HTV-X1 set to launch to ISS aboard H3 Rocket",
+    "authors": [
+      {
+        "name": "Eleanor Day",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/10/jaxas-htv-x1-launch-h3-rocket/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/10/h3-render.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "The Japan Aerospace Exploration Agency (JAXA) is set to launch its advanced HTV-X1 cargo spacecraft…\nThe post JAXA’s HTV-X1 set to launch to ISS aboard H3 Rocket appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-10-25T19:14:19Z",
+    "updated_at": "2025-10-25T19:20:14.926519Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Japan Aerospace Exploration Agency (JAXA) is set to launch its advanced HTV-X1 cargo spacecraft to the International Space Station (ISS) from the Yoshinobu Launch Complex at Tanegashima Space Center on Sunday. The launch had been delayed for days due to poor weather at the picturesque launch site. The mission will utilize JAXA’s H3-24L rocket. The HTV-X1 is designed to deliver cargo to Gateway, a planned lunar-orbiting space station in a near-rectilinear halo orbit. JAXA is also contributing to Gateway through the International Habitation (I-Hab) module, developed in collaboration with the European Space Agency. The H3 rocket debuted in March 2023 with the launch of the 3.7-tonne ALOS-3 satellite."
+  },
+  {
     "id": 33641,
     "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
     "authors": [
@@ -1009,25 +1029,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The European Space Shield is a new initiative aimed at protecting space assets and services against ‘growing threats’ The initiative will complement the dual-use space capabilities provided by the European Union. The European Drone Defence Initiative and the Eastern Flank Watch have been identified as priority flagship programmes to be rolled out in the first quarter of 2026."
-  },
-  {
-    "id": 33593,
-    "title": "Taiwan should build a space-enabled kill web, not big warships",
-    "authors": [
-      {
-        "name": "Holmes Liao",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/taiwan-should-build-a-space-enabled-kill-web-not-big-warships/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/09/Taiwan-scaled.jpg?fit=1024%2C681&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAs part of a broader modernization effort, United States defense assistance should focus on freeing Taiwan’s senior military leadership from outdated paradigms by embedding multi-domain operations, joint training and campaign-level wargaming. The Pentagon’s most valuable contribution is doctrinal and architectural: helping Taiwan build a kill web — a distributed sensor-to-shooter network spanning space, air, sea […]\nThe post Taiwan should build a space-enabled kill web, not big warships appeared first on SpaceNews.",
-    "published_at": "2025-10-21T13:00:00Z",
-    "updated_at": "2025-10-21T13:00:36.054278Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
   }
 ]
