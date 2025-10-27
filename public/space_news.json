@@ -1,5 +1,57 @@
 [
   {
+    "id": 33651,
+    "title": "Iridium unveils chip to bring GPS protection to mass-market devices",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/iridium-unveils-chip-to-bring-gps-protection-to-mass-market-devices/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Iridium-Network.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIridium Communications plans to release a tiny chip next year to protect devices relying on navigation satellites from jamming and spoofing, reinforcing one of the L-band operator’s core strengths as SpaceX’s Starlink encroaches on other parts of its business.\nThe post Iridium unveils chip to bring GPS protection to mass-market devices appeared first on SpaceNews.",
+    "published_at": "2025-10-27T11:38:37Z",
+    "updated_at": "2025-10-27T11:40:21.349477Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33650,
+    "title": "China launches new Gaofen-14 stereo mapping satellite",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-launches-new-gaofen-14-stereo-mapping-satellite/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Gaofen14-02-CZ3B-XSLC-26oct2025-ourspace.jpg?fit=1024%2C679&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "China added to its Earth observation fleet late Saturday, sending a second Gaofen-14 mapping satellite into sun-synchronous orbit.\r\nThe post China launches new Gaofen-14 stereo mapping satellite appeared first on SpaceNews.",
+    "published_at": "2025-10-27T10:46:02Z",
+    "updated_at": "2025-10-27T10:52:59.214087Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "91e9e440-f4c0-48c5-9739-4813ffaef1f1",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33649,
     "title": "HEO’s satellite-to-satellite imaging uncovers secrets of Chinese tech-test spacecraft",
     "authors": [
@@ -294,26 +346,6 @@
     "detailed_news": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. Click here for the next gallery of iReporters' snapshots."
   },
   {
-    "id": 33633,
-    "title": "A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon",
-    "authors": [
-      {
-        "name": "Michael J. Listner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/a-soft-power-strategy-to-preserve-non-sovereignty-from-chinese-land-claims-on-the-moon/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/09/China-lunar-EVA-suit-sept2024-CMSA.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe United States’ goal of completing a crewed moon mission before China has been coined as the new space race, reminiscent of the days of Apollo. Similar to Apollo and the space race with the Soviet Union, the principle of non-sovereignty is at issue as is the rule-based international order. The issue of non-sovereignty in […]\nThe post A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon  appeared first on SpaceNews.",
-    "published_at": "2025-10-24T13:00:00Z",
-    "updated_at": "2025-10-24T13:00:26.578850Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
     "id": 33636,
     "title": "Vinci test motor for Ariane 6 to be assembled at DLR test centre",
     "authors": [
@@ -332,6 +364,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Vinci, the upper stage engine of Ariane 6, will be integrated by ArianeGroup Germany at DLR’s facilities in Lampoldshausen, Germany. The plans for a new production building to support this agreement were unveiled during this event. This completes a decision between Germany, Italy, France and ESA signed on 18 December 2024, to transfer the Ariane6 oxygen turbopump development to Vernon, France."
+  },
+  {
+    "id": 33633,
+    "title": "A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon",
+    "authors": [
+      {
+        "name": "Michael J. Listner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/a-soft-power-strategy-to-preserve-non-sovereignty-from-chinese-land-claims-on-the-moon/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/09/China-lunar-EVA-suit-sept2024-CMSA.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe United States’ goal of completing a crewed moon mission before China has been coined as the new space race, reminiscent of the days of Apollo. Similar to Apollo and the space race with the Soviet Union, the principle of non-sovereignty is at issue as is the rule-based international order. The issue of non-sovereignty in […]\nThe post A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon  appeared first on SpaceNews.",
+    "published_at": "2025-10-24T13:00:00Z",
+    "updated_at": "2025-10-24T13:00:26.578850Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
   },
   {
     "id": 33635,
@@ -989,52 +1041,5 @@
     ],
     "events": [],
     "detailed_news": "SpaceX is preparing to launch its 550th Falcon 9 mission since the rocket's debut in 2010. The launch from California will add 28 more broadband internet satellites to the company's Starlink constellation. The 28 Starlink V2 Mini satellites will be deployed from the Falcon 9 rocket’s second stage about an hour after liftoff."
-  },
-  {
-    "id": 33602,
-    "title": "Musk criticizes Duffy amid NASA leadership debate",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/musk-criticizes-duffy-amid-nasa-leadership-debate/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/54678364779_9813669e81_k.jpg?fit=1024%2C605&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpaceX Chief Executive Elon Musk hurled insults at NASA’s acting administrator a day after complaints that the company was behind schedule on its Artemis lunar lander.\nThe post Musk criticizes Duffy amid NASA leadership debate appeared first on SpaceNews.",
-    "published_at": "2025-10-22T10:44:48Z",
-    "updated_at": "2025-10-22T10:50:24.387910Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33606,
-    "title": "Sounding the alarm: ESA introduces space environment ‘health index’",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Space_Safety/Space_Debris/Sounding_the_alarm_ESA_introduces_space_environment_health_index",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/03/space_debris_surrounding_earth/26641319-2-eng-GB/Space_debris_surrounding_Earth_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The congestion and pollution of Earth orbit is quickly getting worse. We need to be able to quantify how our behaviour impacts the orbital environment in the future. To this end, the European Space Agency (ESA) is adding a new health index to its yearly Space Environment Report that summarises in one number the status of our space environment over time.",
-    "published_at": "2025-10-22T08:26:00Z",
-    "updated_at": "2025-10-22T14:10:18.948229Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Space Environment Health Index measures how sustainable Earth’s orbital environment is. A high score indicates a greater negative impact on the environment, while a low score reflects more sustainable behaviour. A value of 1 represents the proposed threshold for long-term sustainability. Anything higher means that the space environment becomes less then desirable for operations over time. We are now at Health Index level 4, far beyond the sustainability threshold. Stronger action is required to protect our future in space. The index is more than a scientific tool – it is a practical decision-making aid. It can be applied to mission design to minimise its environmental impact."
   }
 ]
