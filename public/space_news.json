@@ -1,5 +1,32 @@
 [
   {
+    "id": 33661,
+    "title": "Malaysia and the Philippines sign Artemis Accords",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/malaysia-and-the-philippines-sign-artemis-accords/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/artaccords-iac25.jpeg?fit=1024%2C684&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nMalaysia and the Philippines have signed the Artemis Accords, which outline norms of behavior for space exploration.\nThe post Malaysia and the Philippines sign Artemis Accords appeared first on SpaceNews.",
+    "published_at": "2025-10-28T04:58:56Z",
+    "updated_at": "2025-10-28T05:00:23.068626Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
     "id": 33660,
     "title": "Launch Roundup: China to launch crew to Tiangong, India to launch new naval satellite",
     "authors": [
@@ -1002,25 +1029,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Condensation on Fins experiment is pioneering heat transfer tests in orbit to study the role of capillary pressure – the force that pulls liquids through tiny spaces. Results will have practical applications, such as cooling electronics in smartphones and computers, and optimising industrial coating processes on our planet. The Condensation on Fins experiment is part of a larger round of tests on heat transfer in gases and liquids. It all happens inside the new Heat Transfer Host 2 facility, installed on 30 September 2025 after its delivery on the 23rd Northrop Grumman cargo resupply mission to the International Space Station."
-  },
-  {
-    "id": 33613,
-    "title": "ArianeGroup Awards €1.5M Contract to Réaltra for Ariane 6 Video Telemetry",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/arianegroup-awards-e1-5m-contract-to-realtra-for-ariane-6-video-telemetry/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/ArianeGround-Awards-1.5M-Euro-Contract-to-Realtra-for-Ariane-6-Video-Telemetry.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Irish space electronics company Réaltra Space Systems Engineering has been awarded a €1.5 million contract by ArianeGroup to supply seven Independent Video Kits (VIKIs) that will provide live onboard video telemetry during Ariane 6 launches. In June 2019, Réaltra announced that it had been awarded a contract exceeding €1 million to design, develop, and deliver […]\nThe post ArianeGroup Awards €1.5M Contract to Réaltra for Ariane 6 Video Telemetry appeared first on European Spaceflight.",
-    "published_at": "2025-10-23T07:07:58Z",
-    "updated_at": "2025-10-23T07:10:11.049526Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Irish space electronics company Réaltra Space Systems Engineering has been awarded a €1.5 million contract by ArianeGroup. The VIKI system will provide live video telemetry during all phases of an Ariane 6 launch. The system is built primarily from Commercial Off-The-Shelf (COTS) equipment originally designed for terrestrial aerospace use."
   }
 ]
