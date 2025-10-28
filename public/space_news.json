@@ -1,5 +1,65 @@
 [
   {
+    "id": 33665,
+    "title": "Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept",
+    "authors": [
+      {
+        "name": "Domino-E",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/federating-europes-earth-observation-ground-segment-the-domino-e-proof-of-concept/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Domino-E_Logo_1-1-scaled.jpg?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAs Europe prepares its next generation of Earth-Observation (EO) missions, a less visible but equally strategic challenge unfolds on the ground — how to manage the growing complexity of satellite […]\nThe post Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept appeared first on SpaceNews.",
+    "published_at": "2025-10-28T11:00:00Z",
+    "updated_at": "2025-10-28T11:01:17.914523Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33664,
+    "title": "Hurricane Melissa barrels through the Caribbean",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/10/Hurricane_Melissa_barrels_through_the_Caribbean",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/hurricane_melissa_barrels_through_the_caribbean/26945644-1-eng-GB/Hurricane_Melissa_barrels_through_the_Caribbean_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-10-28T09:24:00Z",
+    "updated_at": "2025-10-28T10:10:29.008472Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The image was captured by the Copernicus Sentinel-3 mission on 26 October 2025. It shows the ‘brightness temperature’ at the top of Hurricane Melissa as it barrelled through the Caribbean Sea. The temperature of the surrounding ocean is much warmer, reaching as high as 25°C."
+  },
+  {
+    "id": 33663,
+    "title": "Watch live: Sentinel-1D launch on Ariane 6",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Sentinel-1D_launch_on_Ariane_6",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/11/sentinel-1_detects_maritime_traffic/26469635-1-eng-GB/Sentinel-1_detects_maritime_traffic_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The Copernicus Sentinel-1 mission is about to get its fourth satellite, with Sentinel-1D now ready for liftoff. Launch will take place with an Ariane 6 rocket from Kourou, French Guiana and live coverage will be shown on Tuesday, 4 November, at 22:03 CET (18:03 at Kourou).",
+    "published_at": "2025-10-28T09:00:00Z",
+    "updated_at": "2025-10-28T09:20:13.396878Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Launch will take place with an Ariane 6 rocket from Kourou, French Guiana. Watch live on ESA Web TV on Tuesday, 4 November 2025 (all times in CET) The Sentinel-1 mission delivers radar images of Earth’s surface, performing in all weathers, day-and-night."
+  },
+  {
     "id": 33661,
     "title": "Malaysia and the Philippines sign Artemis Accords",
     "authors": [
@@ -580,6 +640,26 @@
     "detailed_news": "Vinci, the upper stage engine of Ariane 6, will be integrated by ArianeGroup Germany at DLR’s facilities in Lampoldshausen, Germany. The plans for a new production building to support this agreement were unveiled during this event. This completes a decision between Germany, Italy, France and ESA signed on 18 December 2024, to transfer the Ariane6 oxygen turbopump development to Vernon, France."
   },
   {
+    "id": 33662,
+    "title": "Vinci motor for Ariane 6 to be assembled at DLR test centre",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Vinci_motor_for_Ariane_6_to_be_assembled_at_DLR_test_centre",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/representatives_from_esa_arianegroup_and_dlr_signing_the_vinci_agreement/26942611-2-eng-GB/Representatives_from_ESA_ArianeGroup_and_DLR_signing_the_Vinci_agreement_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-10-24T13:00:00Z",
+    "updated_at": "2025-10-28T07:50:11.917797Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Vinci, the upper stage engine of Ariane 6, will be integrated by ArianeGroup Germany at DLR’s facilities in Lampoldshausen, Germany. The plans for a new production building to support this agreement were unveiled during this event. This completes a decision between Germany, Italy, France and ESA signed on 18 December 2024, to transfer the Ariane6 oxygen turbopump development to Vernon, France."
+  },
+  {
     "id": 33635,
     "title": "Second Space Resources Challenge: from concept to reality at LUNA",
     "authors": [
@@ -942,92 +1022,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The 2025 edition of ESA Open Days began at ESA’s European Space Operations Centre (ESOC) in Darmstadt on 12 September. Visitors had the unique opportunity to step inside ESA and discover how space science and innovation are shaping our future. For the first time, on 20 September ESA Headquarters in Paris hosted a full-scale Open Day. The 2025 edition of the ESA Open Days concluded at ESA’s largest establishment, ESTEC in the Netherlands, on 11 and 12 October. Nearly 10 000 attendees engaged with ESA astronauts and experts in space exploration, engineering, and science. Highlights included exhibits on missions such as PLATO and Proba-3, presentations in the Erasmus Auditorium, access to the Test Centre."
-  },
-  {
-    "id": 33616,
-    "title": "Europe must build its own critical infrastructure",
-    "authors": [
-      {
-        "name": "Victoria Pearson",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/europe-must-build-its-own-critical-infrastructure/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/Europe.A2015111.1050.250m-scaled.jpg?fit=1024%2C794&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAmazon Web Services, or AWS, is the largest cloud provider in the United Kingdom. It holds between 40 and 50% of the market for Infrastructure-as-a-Service, and its technology underpins the National Health Service, the Ministry of Defence and a wide range of public utilities and private companies. When there’s an outage, therefore, the effect is […]\nThe post Europe must build its own critical infrastructure appeared first on SpaceNews.",
-    "published_at": "2025-10-23T11:00:00Z",
-    "updated_at": "2025-10-23T11:10:16.968988Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33617,
-    "title": "Cyprus joins European Space Agency as an Associate Member",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Corporate_news/Cyprus_joins_European_Space_Agency_as_an_Associate_Member",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/republic_of_cyprus_signs_associate_agreement_with_esa/26940318-4-eng-GB/Republic_of_Cyprus_signs_Associate_Agreement_with_ESA_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The Republic of Cyprus has signed an Associate Agreement with the European Space Agency, and is expected to become an Associate Member in the coming months.  ",
-    "published_at": "2025-10-23T09:15:00Z",
-    "updated_at": "2025-10-23T11:41:08.641028Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Republic of Cyprus has signed an Associate Agreement with the European Space Agency. Cyprus will proceed with ratification and plans to achieve associate membership by early 2026, during its Presidency of the Council of the European Union. With Cyprus's ratification, ESA will have four active Associate Member states: Cyprus, Latvia, Lithuania, and Slovakia."
-  },
-  {
-    "id": 33615,
-    "title": "Airbus, Leonardo and Thales agree to combine space businesses",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/airbus-leonardo-and-thales-agree-to-combine-space-businesses/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/faury.jpeg?fit=1024%2C690&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThree of Europe’s largest aerospace companies have agreed to combine their space businesses into a new joint venture intended to better compete in the global market.\nThe post Airbus, Leonardo and Thales agree to combine space businesses appeared first on SpaceNews.",
-    "published_at": "2025-10-23T08:38:47Z",
-    "updated_at": "2025-10-23T08:40:17.538420Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33614,
-    "title": "Condensation defying gravity",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Condensation_defying_gravity",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/condensation_alien/26938387-2-eng-GB/Condensation_alien_card_full.gif",
-    "news_site": "ESA",
-    "summary": "From dew at dawn to a foggy mirror after a shower, condensation is part of our daily lives on Earth. In space, microgravity alters how heat flows through gases and liquids, a potential enemy for spacecraft electronics needing to cool down in extreme environments.",
-    "published_at": "2025-10-23T07:15:00Z",
-    "updated_at": "2025-10-23T08:30:12.914116Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Condensation on Fins experiment is pioneering heat transfer tests in orbit to study the role of capillary pressure – the force that pulls liquids through tiny spaces. Results will have practical applications, such as cooling electronics in smartphones and computers, and optimising industrial coating processes on our planet. The Condensation on Fins experiment is part of a larger round of tests on heat transfer in gases and liquids. It all happens inside the new Heat Transfer Host 2 facility, installed on 30 September 2025 after its delivery on the 23rd Northrop Grumman cargo resupply mission to the International Space Station."
   }
 ]
