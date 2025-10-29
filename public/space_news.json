@@ -1,5 +1,72 @@
 [
   {
+    "id": 33683,
+    "title": "ESA outlines plans for space security program",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/esa-outlines-plans-for-space-security-program/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/ers.jpeg?fit=1024%2C545&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nESA has provided more details about the multi-pronged security program it is seeking more than one billion euros for at its upcoming ministerial conference.\nThe post ESA outlines plans for space security program appeared first on SpaceNews.",
+    "published_at": "2025-10-29T10:59:13Z",
+    "updated_at": "2025-10-29T11:00:28.157182Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
+  },
+  {
+    "id": 33682,
+    "title": "ESA’s first stand-alone deep-space CubeSat Henon takes shape",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_s_first_stand-alone_deep-space_CubeSat_Henon_takes_shape",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/03/henon_cubesat_mission/26604615-1-eng-GB/HENON_CubeSat_Mission_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency’s upcoming Henon mission will be the first ever CubeSat to independently venture into deep space, communicate with Earth and manoeuvre to its final destination without relying on a bigger spacecraft. Once in its orbit around the Sun, the carry-on luggage-sized CubeSat will observe the Sun’s emissions to demonstrate technologies capable of providing advanced warnings of solar storms hours before they reach Earth.",
+    "published_at": "2025-10-29T10:00:00Z",
+    "updated_at": "2025-10-29T10:00:30.813414Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "ESA’s Heliospheric Pioneer for Solar and Interplanetary Threats Defence, Henon for short, is set to be the first ever stand-alone CubeSat to perform significant manoeuvres on the way to its far-away destination. Henon is expected to piggyback on the launch of a larger spacecraft planned for late 2026. The launcher will take the CubeSat 1.5 million km beyond Earth in the direction away from the Sun. The Henon mission is being developed with funding from ESA’s General Support Technology Programme (GSTP) The CubeSat will use its new electric propulsion system to fly to a Distant Retrograde Orbit (DRO) around the Sun. Henon will be the first ever spacecraft to fly in this type of orbit, which will take it 12 million km from Earth at its closest point, and 24 million km away at the farthest."
+  },
+  {
+    "id": 33681,
+    "title": "ESA Proposes €1B Budget to Align European Space Capabilities for Defence",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-proposes-e1b-budget-to-align-european-space-capabilities-for-defence/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/ESA-Proposes-1B-Euro-Budget-to-Align-European-Space-Capabilities-for-Defence.webp",
+    "news_site": "European Spaceflight",
+    "summary": "European Space Agency Director General Josef Aschbacher unveiled the European Resilience from Space programme on Tuesday in Brussels. The initiative aims to pool national space assets and develop new capabilities in intelligence, surveillance, secure communications, and navigation to strengthen Europe’s resilience and autonomy in the face of emerging security threats. It is expected to have […]\nThe post ESA Proposes €1B Budget to Align European Space Capabilities for Defence appeared first on European Spaceflight.",
+    "published_at": "2025-10-29T05:00:50Z",
+    "updated_at": "2025-10-29T06:10:12.384572Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "European Space Agency Director General Josef Aschbacher unveiled the European Resilience from Space programme on Tuesday in Brussels. The initiative aims to pool national space assets and develop new capabilities in intelligence, surveillance, secure communications, and navigation. It is expected to have a budget of €1 billion."
+  },
+  {
     "id": 33680,
     "title": "Rising demand and falling costs clear path for satellite servicing",
     "authors": [
@@ -959,65 +1026,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Vinci, the upper stage engine of Ariane 6, will be integrated by ArianeGroup Germany at DLR’s facilities in Lampoldshausen, Germany. The plans for a new production building to support this agreement were unveiled during this event. This completes a decision between Germany, Italy, France and ESA signed on 18 December 2024, to transfer the Ariane6 oxygen turbopump development to Vernon, France."
-  },
-  {
-    "id": 33662,
-    "title": "Vinci motor for Ariane 6 to be assembled at DLR test centre",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Vinci_motor_for_Ariane_6_to_be_assembled_at_DLR_test_centre",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/representatives_from_esa_arianegroup_and_dlr_signing_the_vinci_agreement/26942611-2-eng-GB/Representatives_from_ESA_ArianeGroup_and_DLR_signing_the_Vinci_agreement_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-10-24T13:00:00Z",
-    "updated_at": "2025-10-28T07:50:11.917797Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Vinci, the upper stage engine of Ariane 6, will be integrated by ArianeGroup Germany at DLR’s facilities in Lampoldshausen, Germany. The plans for a new production building to support this agreement were unveiled during this event. This completes a decision between Germany, Italy, France and ESA signed on 18 December 2024, to transfer the Ariane6 oxygen turbopump development to Vernon, France."
-  },
-  {
-    "id": 33635,
-    "title": "Second Space Resources Challenge: from concept to reality at LUNA",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Second_Space_Resources_Challenge_from_concept_to_reality_at_LUNA",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/training_in_the_luna_facilities/26942351-1-eng-GB/Training_in_the_LUNA_facilities_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Last year, ESA invited innovators across Europe to join the second Space Resources Challenge, a competition designed to accelerate technologies that will help humankind live and work sustainably on the Moon.",
-    "published_at": "2025-10-24T12:26:00Z",
-    "updated_at": "2025-10-24T13:20:11.873187Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "ESA invited innovators across Europe to join the second Space Resources Challenge. The challenge is designed to accelerate technologies that will help humankind live and work sustainably on the Moon. Last week, eight teams demonstrated robotic systems capable of collecting and processing lunar soil. The winning team is expected to be announced at the end of November. Team ASTROLITH developed Kirb-e, a robotic system built for Moon-like conditions designed to dig and sort lunar soil. Using a rover equipped with rotating shovels, the team successfully collected and processed large quantities of regolith simulant. The material was then funneled into a rotary sieve to separate it by particle size. The rover collects lunar soil using a rotating tube, which also acts as the internal storage in which it remains. To reduce the risk of dust interfering with moving parts, they sealed the chassis and minimised exposed mechanisms. Although they faced challenges with motor drivers and software integration, the team was proud to complete and test their system."
-  },
-  {
-    "id": 33632,
-    "title": "Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/chinese-launch-firms-space-pioneer-and-galactic-energy-move-toward-ipos/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/tianlong3-mockup-dongfeng-JSLC-july2025-SpacePioneer.jpg?fit=1024%2C573&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLaunch firms Space Pioneer and Galactic Energy are the latest China’s commercial space companies to move toward IPOs, amid a surge of investment.\nThe post Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs appeared first on SpaceNews.",
-    "published_at": "2025-10-24T09:34:32Z",
-    "updated_at": "2025-10-24T09:40:16.451829Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
   }
 ]
