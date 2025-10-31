@@ -1,5 +1,45 @@
 [
   {
+    "id": 33712,
+    "title": "Bolden, Bridenstine Share Their Views on Artemis",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/bolden-bridenstine-share-their-views-on-artemis/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/10/Charlie-Bolden-USC-photo-300x169.webp",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Two former NASA administrators are weighing in on the Artemis program and whether the U.S. will get back to the Moon before Chinese taikonauts arrive. Charlie Bolden and his successor […]",
+    "published_at": "2025-10-31T03:01:31Z",
+    "updated_at": "2025-10-31T03:10:13.768635Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33711,
+    "title": "Blue Origin completes New Glenn static fire test, preparing for NASA’s EscaPADE mission launch",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/10/31/blue-origin-completes-new-glenn-static-fire-test-preparing-for-nasas-escapade-mission-launch/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251030_NG-2_static_fire_AB-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "Blue Origin lit up a pocket of Florida's Space Coast Thursday night when it hot fired its New Glenn rocket for an engine test lasting roughly 40 seconds in duration. ",
+    "published_at": "2025-10-31T02:42:55Z",
+    "updated_at": "2025-10-31T02:50:19.066880Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33710,
     "title": "SpaceX defends Starship lunar lander as it works on ‘simplified’ approach",
     "authors": [
@@ -981,45 +1021,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33664,
-    "title": "Hurricane Melissa barrels through the Caribbean",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/10/Hurricane_Melissa_barrels_through_the_Caribbean",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/hurricane_melissa_barrels_through_the_caribbean/26945644-1-eng-GB/Hurricane_Melissa_barrels_through_the_Caribbean_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-10-28T09:24:00Z",
-    "updated_at": "2025-10-28T10:10:29.008472Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The image was captured by the Copernicus Sentinel-3 mission on 26 October 2025. It shows the ‘brightness temperature’ at the top of Hurricane Melissa as it barrelled through the Caribbean Sea. The temperature of the surrounding ocean is much warmer, reaching as high as 25°C."
-  },
-  {
-    "id": 33663,
-    "title": "Watch live: Sentinel-1D launch on Ariane 6",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Sentinel-1D_launch_on_Ariane_6",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/11/sentinel-1_detects_maritime_traffic/26469635-1-eng-GB/Sentinel-1_detects_maritime_traffic_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The Copernicus Sentinel-1 mission is about to get its fourth satellite, with Sentinel-1D now ready for liftoff. Launch will take place with an Ariane 6 rocket from Kourou, French Guiana and live coverage will be shown on Tuesday, 4 November, at 22:03 CET (18:03 at Kourou).",
-    "published_at": "2025-10-28T09:00:00Z",
-    "updated_at": "2025-10-28T09:20:13.396878Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Launch will take place with an Ariane 6 rocket from Kourou, French Guiana. Watch live on ESA Web TV on Tuesday, 4 November 2025 (all times in CET) The Sentinel-1 mission delivers radar images of Earth’s surface, performing in all weathers, day-and-night."
   }
 ]
