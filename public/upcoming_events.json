@@ -1,6 +1,6 @@
 {
-  "count": 15,
-  "last_updated": "2025-11-02T12:01:34.970747Z",
+  "count": 14,
+  "last_updated": "2025-11-02T18:01:39.844563Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,51 +10,10 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (13 successful)",
+    "AI-generated summaries (12 successful)",
     "Empty AI summaries (2 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "05c00251-c8db-4922-9244-d1e407427962",
-      "name": "LVM-3 | CMS-03 (GSAT-7R)",
-      "status": "Go",
-      "net": "2025-11-02T11:30:00Z",
-      "window_start": "2025-11-02T11:30:00Z",
-      "window_end": "2025-11-02T15:30:00Z",
-      "lsp_name": "Indian Space Research Organization",
-      "lsp_description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-      "lsp_type": "Government",
-      "lsp_country": "IND",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-      "mission_name": "CMS-03 (GSAT-7R)",
-      "mission_description": "Communications Satellite for the Indian Navy, replacing GSAT-7 for secure real-time links between Indian warships, submarines, aircraft, and shore-based command centers across the Indian Ocean.",
-      "mission_type": "Communications",
-      "orbit": "Geostationary Transfer Orbit",
-      "launch_site": "Satish Dhawan Space Centre Second Launch Pad, Satish Dhawan Space Centre, India",
-      "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "location": "Satish Dhawan Space Centre, India",
-      "rocket": "Launch Vehicle Mark-3 (GSLV Mk III)",
-      "rocket_config_description": "The Launch Vehicle Mark-3 (LVM-3), previously called Geosynchronous Satellite Launch Vehicle Mark III (GSLV Mk III), is a three-stage medium-lift launch vehicle developed by the Indian Space Research Organisation (ISRO). It is designed to launch satellites into geostationary orbit, and is intended as a launch vehicle for crewed missions under the Indian Human Spaceflight Programme.",
-      "rocket_config_family": "GSLV",
-      "rocket_config_full_name": "Launch Vehicle Mark-3 (GSLV Mk III)",
-      "rocket_config_total_launch_count": 7,
-      "rocket_config_successful_launches": 7,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 8,
-      "rocket_manufacturer_name": "Indian Space Research Organization",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-      "rocket_manufacturer_total_launch_count": 96,
-      "rocket_manufacturer_successful_launches": 82,
-      "rocket_manufacturer_failed_launches": 14,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520iii_image_20190604000938.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/05c00251-c8db-4922-9244-d1e407427962/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": "The Launch Vehicle Mark-3 (LVM-3) is a three-stage medium-lift launch vehicle developed by the Indian Space Research Organisation. It is designed to launch satellites into geostationary orbit, and is intended as a launch vehicle for crewed missions under the Indian Human Spaceflight Programme. This Communications mission involves Communications Satellite for the Indian Navy."
-    },
     {
       "id": "5fc609f3-4aee-4ffd-968d-b4cddcd9e381",
       "name": "Long March 7A | Unknown Payload",
@@ -697,8 +656,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 13,
+    "successful_summaries": 12,
     "empty_summaries": 2,
-    "total_launches": 15
+    "total_launches": 14
   }
 }
