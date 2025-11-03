@@ -1,6 +1,6 @@
 {
-  "count": 14,
-  "last_updated": "2025-11-03T12:01:45.632424Z",
+  "count": 15,
+  "last_updated": "2025-11-03T18:01:39.586472Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,7 +11,7 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (12 successful)",
-    "Empty AI summaries (2 failed/unavailable)"
+    "Empty AI summaries (3 failed/unavailable)"
   ],
   "launches": [
     {
@@ -324,6 +324,47 @@
         }
       ],
       "ai_summary": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX will launch Falcon 9 Block 5 | Starlink Group 10-51 from Launch Complex 39A, Kennedy Space Center, FL, USA using their Falcon 9 rocket."
+    },
+    {
+      "id": "537bd9b3-5f1d-4dda-aeb5-78e5b17cf2ba",
+      "name": "Long March 12 | Unknown Payload",
+      "status": "Go",
+      "net": "2025-11-10T02:42:00Z",
+      "window_start": "2025-11-10T02:35:00Z",
+      "window_end": "2025-11-10T03:03:00Z",
+      "lsp_name": "China Aerospace Science and Technology Corporation",
+      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "lsp_type": "Government",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
+      "mission_name": "Unknown Payload",
+      "mission_description": "Details TBD.",
+      "mission_type": "Unknown",
+      "orbit": "Unknown",
+      "launch_site": "Commercial LC-2, Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-2",
+      "location": "Wenchang Space Launch Site, People's Republic of China",
+      "rocket": "Long March 12",
+      "rocket_config_description": "The Long March 12 carrier rocket is a Chinese medium-lift launch vehicle currently under development by the Shanghai Academy of Spaceflight Technology, using kerosene and liquid oxygen as propellant. It will be capable of placing at least 10 tonnes of payload in low Earth orbit and at least 6 tonnes in a 700 km Sun-synchronous orbit.",
+      "rocket_config_family": "Long March",
+      "rocket_config_full_name": "Long March 12",
+      "rocket_config_total_launch_count": 2,
+      "rocket_config_successful_launches": 2,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
+      "rocket_manufacturer_type": "Government",
+      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "rocket_manufacturer_total_launch_count": 552,
+      "rocket_manufacturer_successful_launches": 538,
+      "rocket_manufacturer_failed_launches": 14,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/537bd9b3-5f1d-4dda-aeb5-78e5b17cf2ba/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
     },
     {
       "id": "a63253be-6084-4151-81db-57fe4d13b164",
@@ -657,7 +698,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 12,
-    "empty_summaries": 2,
-    "total_launches": 14
+    "empty_summaries": 3,
+    "total_launches": 15
   }
 }
