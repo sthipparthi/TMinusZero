@@ -1,5 +1,112 @@
 [
   {
+    "id": 33781,
+    "title": "The race to defend satellites from cyberattacks",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/deloittes-payloads-will-test-whether-satellites-can-defend-themselves/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/231115-F-OR751-0002-scaled.jpeg?fit=1024%2C732&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nDeloitte’s ‘Silent Shield’ payloads will test cyber defenses in orbit\nThe post The race to defend satellites from cyberattacks appeared first on SpaceNews.",
+    "published_at": "2025-11-05T12:00:00Z",
+    "updated_at": "2025-11-05T12:02:21.398581Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33782,
+    "title": "Reflex Aerospace raises 50 million euros",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/reflex-aerospace-raises-50-million-euros/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/reflex-cofounders.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nGerman satellite manufacturer Reflex Aerospace has raised 50 million euros ($57.4 million) as it rides a growing wave of interest and investment in European space systems.\nThe post Reflex Aerospace raises 50 million euros appeared first on SpaceNews.",
+    "published_at": "2025-11-05T11:52:23Z",
+    "updated_at": "2025-11-05T12:02:21.518105Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33780,
+    "title": "German Satellite Maker Reflex Aerospace Closes €50M Funding Round",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/german-satellite-maker-reflex-aerospace-closes-e50m-funding-round/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/German-Satellite-Maker-Reflex-Aerospace-Closes-50-Million-Euros-Funding-Round.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Reflex Aerospace has closed a €50 million Series A funding round that will, in part, be used to expand the company’s existing manufacturing capacity. Founded in 2021, Reflex Aerospace aims to offer a versatile satellite platform for a range of applications, including Earth observation and communications. The company’s first satellite was built for the German […]\nThe post German Satellite Maker Reflex Aerospace Closes €50M Funding Round appeared first on European Spaceflight.",
+    "published_at": "2025-11-05T10:20:02Z",
+    "updated_at": "2025-11-05T10:20:12.544533Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33779,
+    "title": "China delays Shenzhou-20 crew return after suspected space debris impact",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-delays-shenzhou-20-crew-return-after-suspected-space-debris-impact/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/Shenzhou20-docking-view-of-Tiangong-24april2025-CMSA.jpg?fit=1024%2C655&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChina’s human spaceflight agency has delayed the scheduled return to Earth of a crewed Shenzhou spacecraft due to a suspected space debris impact.\nThe post China delays Shenzhou-20 crew return after suspected space debris impact appeared first on SpaceNews.",
+    "published_at": "2025-11-05T09:32:24Z",
+    "updated_at": "2025-11-05T09:40:20.139748Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33778,
+    "title": "Euclid peers through a dark cloud’s dusty veil",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/11/Euclid_peers_through_a_dark_cloud_s_dusty_veil",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/euclid_peers_through_a_dark_cloud_s_dusty_veil/26951143-8-eng-GB/Euclid_peers_through_a_dark_cloud_s_dusty_veil_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "This shimmering view of interstellar gas and dust was captured by the European Space Agency’s Euclid space telescope. The nebula is part of a so-called dark cloud, named LDN 1641. It sits at about 1300 light-years from Earth, within a sprawling complex of dusty gas clouds where stars are being formed, in the constellation of Orion.",
+    "published_at": "2025-11-05T09:00:00Z",
+    "updated_at": "2025-11-05T09:10:21.251573Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33777,
     "title": "China Delays Shenzhou-20 Crew’s Return Due to Possible Debris Strike",
     "authors": [
@@ -914,119 +1021,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Bandwagon-4, is the fourth multi-customer flight to a mid-inclination orbit and the 18th mission as part of SpaceX’s small sat ride share program. The mission will use Falcon 9 first stage booster B1091, which will eventually fly as a center booster for a Falcon Heavy rocket. The 45th Weather Squadron forecast a 95 percent chance for favorable weather at liftoff with just a small chance for interference from cumulus clouds. Starcloud believes that its future space-based data centers can be “ten times cheaper than land-based options” Philip Johnston predicted that “In 10 years, nearly all new data centers will be being built in outer space” Germany-based Exolaunch is responsible for manifesting and deploying 13 out of the 18 payloads flying."
-  },
-  {
-    "id": 33733,
-    "title": "Starship Block 3 and HLS: The Path to Get Back to the Moon",
-    "authors": [
-      {
-        "name": "Ryan Weber",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/11/starship-block-3-path-moon/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/NSF-2025-11-01-21-33-25-554.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Amid numerous questions about whether SpaceX can have the Human Landing System (HLS) variant of…\nThe post Starship Block 3 and HLS: The Path to Get Back to the Moon appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-11-01T21:37:49Z",
-    "updated_at": "2025-11-01T21:40:16.300668Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX recently released an update regarding Starship and its Human Landing System variant. This variant of the Starship is set to be one of the landers for the National Aeronautics and Space Administration’s (NASA) Artemis program. The ship will operate alongside tankers and depots to refuel, enabling it to deliver not only people but also approximately 100 tons of cargo to the lunar surface. SpaceX has completed 49 milestones so far in the development of HLS. Docking adapter qualification has been achieved in conjunction with NASA and Lockheed. Landing leg testing, which included the dropping of a full-scale article at flight energies onto simulated lunar regolith, has also been completed. SpaceX currently has two test tanks at their Masseys test area. The first full flight test of Block 3 is scheduled to involve Booster 18 and Ship 39 and is expected to launch sometime in Quarter 1 of 2026. Currently, neither vehicle is complete in construction, and, based on the best timelines using past boosters and ships as reference points, neither will likely begin cryogenic proof testing until December. Ship 39 has a few noticeable changes, even though it is only a couple of sections into stacking. SpaceX has refined the design of the ship catch pins and relocated them to the nosecone. The common dome has moved down slightly, which means SpaceX will be able to load more LCH4 into the tank. Another significant addition is a probe-and-drogue docking system."
-  },
-  {
-    "id": 33732,
-    "title": "Latvia signs Artemis Accords",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/latvia-signs-artemis-accords/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/melbarde.jpeg?fit=1024%2C587&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLatvia has signed the Artemis Accords, which outline norms of behavior for safe space exploration, joining a group of now 60 countries.\nThe post Latvia signs Artemis Accords appeared first on SpaceNews.",
-    "published_at": "2025-11-01T21:19:10Z",
-    "updated_at": "2025-11-01T21:20:23.040354Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33731,
-    "title": "Thales Alenia Space Clears Key Milestone for In-Orbit Servicing Demo",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/thales-alenia-space-clears-key-milestone-for-in-orbit-servicing-demo/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/10/Thales-Alenia-Space-Clears-Key-Milestone-for-In-Orbit-Servicing-Demo.webp",
-    "news_site": "European Spaceflight",
-    "summary": "A group of companies led by Thales Alenia Space has completed the System Preliminary Design Review for Italy’s In-Orbit Servicing (IOS) demonstration mission, funded through the government’s €191.5-billion National Recovery and Resilience Plan (PNRR). In May 2023, the Italian Space Agency (ASI) awarded a €235-million contract for the development of an in-orbit servicing demonstration mission […]\nThe post Thales Alenia Space Clears Key Milestone for In-Orbit Servicing Demo appeared first on European Spaceflight.",
-    "published_at": "2025-11-01T04:00:06Z",
-    "updated_at": "2025-11-01T04:00:21.780155Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A group of companies led by Thales Alenia Space has completed the System Preliminary Design Review for Italy’s In-Orbit Servicing (IOS) demonstration mission. The IOS mission will involve demonstrating a wide range of in-orbit servicing applications, including refuelling, component repair or replacement, orbital transfer, and atmospheric re-entry."
-  },
-  {
-    "id": 33730,
-    "title": "Semiconductor startup to fly payloads on Falcon 9 boosters",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/semiconductor-startup-to-fly-payloads-on-falcon-9-boosters/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/50631642722_5f82f17757_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA startup plans to test technology to produce semiconductors in space on a series of Falcon 9 launches using payloads attached to the rocket’s booster.\nThe post Semiconductor startup to fly payloads on Falcon 9 boosters appeared first on SpaceNews.",
-    "published_at": "2025-10-31T23:15:01Z",
-    "updated_at": "2025-10-31T23:20:20.944154Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
-  },
-  {
-    "id": 33729,
-    "title": "Shenzhou-21 completes rapid docking with Tiangong space station 3.5 hours after launch",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/shenzhou-21-completes-rapid-docking-with-tiangong-space-station-3-5-hours-after-launch/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/shenzhou21-docked-tiangong-31oct2025-CMSEO.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nChina’s latest crewed mission arrived at the Tiangong space station Friday, just 3.5 hours after launch from Jiuquan spaceport in the Gobi Desert.\nThe post Shenzhou-21 completes rapid docking with Tiangong space station 3.5 hours after launch appeared first on SpaceNews.",
-    "published_at": "2025-10-31T20:59:08Z",
-    "updated_at": "2025-10-31T21:00:58.602940Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Website owner? If you think you have reached this message in error, please contact support. You have been rate-limited for making too many requests in a short time frame. You may also want to consider switching to a different version of the site. For more information on how to switch to a new version, please visit the site's support page."
   }
 ]
