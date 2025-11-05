@@ -1,6 +1,6 @@
 {
-  "count": 15,
-  "last_updated": "2025-11-04T18:01:43.205609Z",
+  "count": 14,
+  "last_updated": "2025-11-05T00:04:30.316860Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,50 +11,9 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (12 successful)",
-    "Empty AI summaries (3 failed/unavailable)"
+    "Empty AI summaries (2 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "7afcacb9-32aa-41ee-a000-0c7158f324c2",
-      "name": "Ariane 62 | Sentinel-1D",
-      "status": "Go",
-      "net": "2025-11-04T21:03:00Z",
-      "window_start": "2025-11-04T21:03:00Z",
-      "window_end": "2025-11-04T21:03:00Z",
-      "lsp_name": "Arianespace",
-      "lsp_description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
-      "lsp_type": "Commercial",
-      "lsp_country": "FRA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
-      "mission_name": "Sentinel-1D",
-      "mission_description": "Sentinel-1D carries an advanced radar technology to provide an all-weather, day-and-night supply of imagery of Earth’s surface as part of the Sentinel-1 constellation.",
-      "mission_type": "Earth Science",
-      "orbit": "Sun-Synchronous Orbit",
-      "launch_site": "Ariane Launch Area 4, Guiana Space Centre, French Guiana",
-      "pad": "Ariane Launch Area 4",
-      "location": "Guiana Space Centre, French Guiana",
-      "rocket": "Ariane 62",
-      "rocket_config_description": "The Ariane 6 family is currently under development by the European Space Agency, with two variations including the Ariane 62 with two solid boosters intended for government and scientific missions.",
-      "rocket_config_family": "Ariane",
-      "rocket_config_full_name": "Ariane 62",
-      "rocket_config_total_launch_count": 3,
-      "rocket_config_successful_launches": 3,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 11,
-      "rocket_manufacturer_name": "ArianeGroup",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "ArianeGroup (formerly Airbus Safran Launchers) is an aerospace company based in France. A joint venture between Airbus and Safran, the company was founded in 2015 and is headquartered in Issy-les-Moulineaux. It consists of three core arms: aerospace, defence and security.",
-      "rocket_manufacturer_total_launch_count": 0,
-      "rocket_manufacturer_successful_launches": 0,
-      "rocket_manufacturer_failed_launches": 0,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/7afcacb9-32aa-41ee-a000-0c7158f324c2/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "5d816773-89cb-48b9-9bf0-a9c4d8236785",
       "name": "Electron | The Nation God Navigates (iQPS Launch 5)",
@@ -698,7 +657,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 12,
-    "empty_summaries": 3,
-    "total_launches": 15
+    "empty_summaries": 2,
+    "total_launches": 14
   }
 }
