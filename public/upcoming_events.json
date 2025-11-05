@@ -1,6 +1,6 @@
 {
-  "count": 14,
-  "last_updated": "2025-11-05T12:02:37.374901Z",
+  "count": 15,
+  "last_updated": "2025-11-05T18:01:59.428218Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,7 +11,7 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (12 successful)",
-    "Empty AI summaries (2 failed/unavailable)"
+    "Empty AI summaries (3 failed/unavailable)"
   ],
   "launches": [
     {
@@ -283,6 +283,47 @@
         }
       ],
       "ai_summary": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX will launch Falcon 9 Block 5 | Starlink Group 10-51 from Launch Complex 39A, Kennedy Space Center, FL, USA using their Falcon 9 rocket."
+    },
+    {
+      "id": "6232fdd6-872e-4146-aae9-4f3cca740512",
+      "name": "Long March 11 | Unknown Payload",
+      "status": "Go",
+      "net": "2025-11-08T21:00:00Z",
+      "window_start": "2025-11-08T20:51:00Z",
+      "window_end": "2025-11-08T21:12:00Z",
+      "lsp_name": "China Aerospace Science and Technology Corporation",
+      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "lsp_type": "Government",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
+      "mission_name": "Unknown Payload",
+      "mission_description": "Details TBD.",
+      "mission_type": "Unknown",
+      "orbit": "Unknown",
+      "launch_site": "Oriental Spaceport mobile launch ship, Sea Launch",
+      "pad": "Oriental Spaceport mobile launch ship",
+      "location": "Sea Launch",
+      "rocket": "Long March 11",
+      "rocket_config_description": "",
+      "rocket_config_family": "Long March",
+      "rocket_config_full_name": "Long March 11",
+      "rocket_config_total_launch_count": 17,
+      "rocket_config_successful_launches": 17,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
+      "rocket_manufacturer_type": "Government",
+      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "rocket_manufacturer_total_launch_count": 552,
+      "rocket_manufacturer_successful_launches": 538,
+      "rocket_manufacturer_failed_launches": 14,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march252011_image_20190222031217.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/6232fdd6-872e-4146-aae9-4f3cca740512/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
     },
     {
       "id": "537bd9b3-5f1d-4dda-aeb5-78e5b17cf2ba",
@@ -657,7 +698,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 12,
-    "empty_summaries": 2,
-    "total_launches": 14
+    "empty_summaries": 3,
+    "total_launches": 15
   }
 }
