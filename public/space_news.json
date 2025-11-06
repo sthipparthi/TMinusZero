@@ -1,5 +1,168 @@
 [
   {
+    "id": 33796,
+    "title": "Managing space domain awareness data has become a greater challenge than collecting it",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/managing-space-domain-awareness-data-has-become-a-greater-challenge-than-collecting-it/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/COMSPOC_s_SSASuite-scaled.jpg?fit=1024%2C541&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nDemand has never been greater for the monitoring of objects in orbit and the coordination of their safe movement. The number of active satellites in low Earth orbit (LEO) has surged from less than a thousand in 2019, when SpaceX began launching its colossal Starlink broadband constellation, to more than 10,000 today. As other megaconstellations […]\nThe post Managing space domain awareness data has become a greater challenge than collecting it appeared first on SpaceNews.",
+    "published_at": "2025-11-06T12:00:00Z",
+    "updated_at": "2025-11-06T12:00:29.339327Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33795,
+    "title": "Isaacman renomination wins support from much of the space industry",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/isaacman-renomination-wins-support-from-much-of-the-space-industry/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/54441677303_e26ea0ea07_k1.jpg?fit=1024%2C726&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe renomination of Jared Isaacman to be NASA administrator has been welcomed by much of the space industry, even as Isaacman defends positions he took in a policy manifesto.\nThe post Isaacman renomination wins support from much of the space industry appeared first on SpaceNews.",
+    "published_at": "2025-11-06T10:55:35Z",
+    "updated_at": "2025-11-06T11:00:22.141682Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33793,
+    "title": "Second New Glenn launch set for Nov. 9",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/second-new-glenn-launch-set-for-nov-9/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade-fairing.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Blue Origin says the second launch of its New Glenn rocket, carrying a pair of NASA Mars spacecraft, is scheduled for Nov. 9.\r\nThe post Second New Glenn launch set for Nov. 9 appeared first on SpaceNews.",
+    "published_at": "2025-11-06T09:36:06Z",
+    "updated_at": "2025-11-06T10:38:00.400142Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9c950919-5d11-4a79-a4f1-be7387678c0a",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33791,
+    "title": "Rocket Lab launches sixth iQPS satellite",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/rocket-lab-launches-sixth-iqps-satellite/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/electron-f74.jpeg?fit=1024%2C643&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "A Rocket Lab Electron rocket launched a radar imaging satellite for Japanese company iQPS on Nov. 5.\r\nThe post Rocket Lab launches sixth iQPS satellite appeared first on SpaceNews.",
+    "published_at": "2025-11-06T08:25:39Z",
+    "updated_at": "2025-11-06T10:49:39.698450Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "5d816773-89cb-48b9-9bf0-a9c4d8236785",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33794,
+    "title": "Swoosh!",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/11/Swoosh",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/swoosh/26959300-1-eng-GB/Swoosh_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-11-06T08:00:00Z",
+    "updated_at": "2025-11-06T10:00:20.728596Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33792,
+    "title": "ESA’s HydroGNSS Scout satellites ready for launch",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_Scout_satellites_ready_for_launch",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/hydrognss_satellite_twins_ready_for_launch/26958990-1-eng-GB/HydroGNSS_satellite_twins_ready_for_launch_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "After arriving at the California launch site at the end of September, the two HydroGNSS satellites have been carefully prepared for liftoff, scheduled this month.",
+    "published_at": "2025-11-06T08:00:00Z",
+    "updated_at": "2025-11-06T10:49:14.304009Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "dc4c201e-b11d-4650-91cc-ecc2eec95598",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33790,
     "title": "Live coverage: ULA to launch ViaSat-3 communications satellite on Atlas 5 rocket from Cape Canaveral",
     "authors": [
@@ -897,126 +1060,6 @@
     "summary": "This week’s launch manifest will feature nine missions launching on seven different rockets, including the…\nThe post Launch Roundup: Ariane 6 and New Glenn set to launch during busy week appeared first on NASASpaceFlight.com.",
     "published_at": "2025-11-03T22:11:40Z",
     "updated_at": "2025-11-03T22:20:12.925680Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33748,
-    "title": "Latin America’s Space Momentum Takes Center Stage at LATSAT 2025",
-    "authors": [
-      {
-        "name": "Novaspace",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/latin-americas-space-momentum-takes-center-stage-at-latsat-2025/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/LATSAT-Space-News-1200-x-662-px.jpg?fit=1024%2C565&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA Region in Motion The global space sector is evolving faster than ever, with new technologies, shifting geopolitics, and fresh investment cycles redefining what “doing space” means. Amid this transformation, […]\nThe post Latin America’s Space Momentum Takes Center Stage at LATSAT 2025 appeared first on SpaceNews.",
-    "published_at": "2025-11-03T21:15:45Z",
-    "updated_at": "2025-11-03T21:20:23.793063Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33747,
-    "title": "Capitol Hill is abuzz with talk of the “Athena” plan for NASA",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/11/capitol-hill-is-abuzz-with-talk-of-the-athena-plan-for-nasa/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080625d-lg.jpg",
-    "news_site": "Arstechnica",
-    "summary": "The Athena plan lays out a blueprint for Isaacman's tenure at NASA.",
-    "published_at": "2025-11-03T16:53:45Z",
-    "updated_at": "2025-11-03T17:00:06.496608Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33746,
-    "title": "Sentinel-1D and Ariane 6 ready for liftoff",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_and_Ariane_6_ready_for_liftoff",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/positioning_sentinel-1d_upper-composite_on_top_of_ariane_6/26952728-1-eng-GB/Positioning_Sentinel-1D_upper-composite_on_top_of_Ariane_6_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The Sentinel-1D satellite is in position on the launch pad at Europe’s spaceport in French Guiana – ready for liftoff on board the Ariane 6 launcher.",
-    "published_at": "2025-11-03T15:23:00Z",
-    "updated_at": "2025-11-03T15:50:13.506440Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33745,
-    "title": "Johns Hopkins, SpaceNews launch discussion series focused on the future of space  exploration",
-    "authors": [
-      {
-        "name": "HUB Staff and SpaceNews Staff",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/johns-hopkins-spacenews-launch-discussion-series-focused-on-the-future-of-space-exploration/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/titan.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA panel of leading space industry executives will explore the trajectory of space technology over the next decade, examining how the long-imagined future depicted in comic books and science fiction […]\nThe post Johns Hopkins, SpaceNews launch discussion series focused on the future of space  exploration appeared first on SpaceNews.",
-    "published_at": "2025-11-03T15:10:57Z",
-    "updated_at": "2025-11-03T15:20:19.807334Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33743,
-    "title": "Vast completes Haven-1 structural testing, launches pathfinder mission",
-    "authors": [
-      {
-        "name": "Eleanor Day",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/11/vast-haven-1-update/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/10/IMG_0785-scaled.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "With NASA set to decommission the International Space Station (ISS) in 2030, Vast is racing…\nThe post Vast completes Haven-1 structural testing, launches pathfinder mission appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-11-03T14:05:03Z",
-    "updated_at": "2025-11-03T14:10:08.801889Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33744,
-    "title": "Why the moon is not the South China Sea: reframing lunar space ahead of the next ‘race’",
-    "authors": [
-      {
-        "name": "Rich Costa",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/why-the-moon-is-not-the-south-china-sea-reframing-lunar-space-ahead-of-the-next-race/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moon-mission.webp?fit=907%2C510&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAs the world watches the push for crewed lunar missions, it is tempting to frame the unfolding dynamic between the United States and China as a modern-day space race, with the lunar surface as the stage for a sovereignty contest. But equating the moon with contested maritime zones like the South China Sea, as a […]\nThe post Why the moon is not the South China Sea: reframing lunar space ahead of the next ‘race’ appeared first on SpaceNews.",
-    "published_at": "2025-11-03T14:00:00Z",
-    "updated_at": "2025-11-03T14:10:16.918346Z",
     "featured": false,
     "launches": [],
     "events": [],
