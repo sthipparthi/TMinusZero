@@ -1,5 +1,119 @@
 [
   {
+    "id": 33809,
+    "title": "Live coverage: Atlas 5 makes another try to launch ViaSat-3 F2 communications satellite",
+    "authors": [
+      {
+        "name": "Spaceflight Now",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/11/06/live-coverage-atlas-5-makes-another-try-to-launch-viasat-3-f2-communications-satellite/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/11/20251106_ViaSat-3_Atlas-V_AB-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "United Launch Alliance is counting down to a second launch attempt for an Atlas 5 rocket carrying the ViaSat-3 F2 satellite. Liftoff from pad 41 at Cape Canaveral Space Force Station is scheduled for 10:16 p.m. EST (0316 UTC) at the opening of a 44-minute launch window. ",
+    "published_at": "2025-11-06T23:51:13Z",
+    "updated_at": "2025-11-07T00:00:39.718480Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33808,
+    "title": "FCC commissioner warns U.S. influence on satellite spectrum debates could wane",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/fcc-commissioner-warns-u-s-influence-on-satellite-spectrum-debates-could-wane/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/12/WRC-close.jpg?fit=1024%2C631&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA member of the Federal Communications Commission warned that declining American influence could make it harder to secure support for key satellite industry priorities at international conferences.\nThe post FCC commissioner warns U.S. influence on satellite spectrum debates could wane appeared first on SpaceNews.",
+    "published_at": "2025-11-06T23:21:47Z",
+    "updated_at": "2025-11-06T23:30:20.579377Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33807,
+    "title": "BlackSky hit by U.S. budget cuts, but international demand lifts outlook",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/blacksky-hit-by-u-s-budget-cuts-but-international-demand-lifts-outlook/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/G4nSSNLXYAAeaV3.png?fit=850%2C480&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nDespite the domestic headwinds, BlackSky is seeing a sharp uptick in overseas business.\nThe post BlackSky hit by U.S. budget cuts, but international demand lifts outlook appeared first on SpaceNews.",
+    "published_at": "2025-11-06T21:23:08Z",
+    "updated_at": "2025-11-06T21:30:31.160791Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33806,
+    "title": "Sceye wins NASA award for stratospheric Earth observations",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/sceye-wins-nasa-award-for-stratospheric-earth-observations/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/sceye.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA company developing stratospheric platforms for telecommunications and related applications has won a NASA award to use that platform for environmental monitoring.\nThe post Sceye wins NASA award for stratospheric Earth observations appeared first on SpaceNews.",
+    "published_at": "2025-11-06T18:44:45Z",
+    "updated_at": "2025-11-06T18:50:21.778097Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33805,
+    "title": "Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/11/06/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/02/20240214_Starlink_7-14_prelaunch_small-678x452.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Following deployment, SpaceX will have launched a total of 2,600 Starlink V2 Mini satellites so far this year. Liftoff of the Starlink 11-14 mission from pad 4E at Vandenberg Space Force Base is scheduled for 1:13 p.m. PST (4:13 p.m. EST / 2113 UTC). ",
+    "published_at": "2025-11-06T18:38:52Z",
+    "updated_at": "2025-11-06T18:40:28.824704Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33804,
     "title": "After Russian spaceport firm fails to pay bills, electric company turns the lights off",
     "authors": [
@@ -107,26 +221,6 @@
     "detailed_news": ""
   },
   {
-    "id": 33797,
-    "title": "Nuclear energy is key to American leadership in space",
-    "authors": [
-      {
-        "name": "Jordan Bramble and Tom Mancinelli",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/nuclear-energy-is-key-to-american-leadership-in-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Fission-Surface-Power_mid_01.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe future of American leadership in space will hinge on one factor: the ability to generate high power on orbit and on the surface of celestial bodies such as the moon. From a physics standpoint, nuclear energy offers the highest energy density available for spacecraft, enabling more efficient and compact power generation compared to solar. […]\nThe post Nuclear energy is key to American leadership in space appeared first on SpaceNews.",
-    "published_at": "2025-11-06T13:00:00Z",
-    "updated_at": "2025-11-06T13:10:19.104591Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 33798,
     "title": "Who has the best map of orbit?",
     "authors": [
@@ -148,6 +242,26 @@
     "summary": "\nHow precise are satellite collision-avoidance platforms? Artificial intelligence is helping space trackers get a handle on increasingly congested orbits, but physics and math are only part of the challenge in a domain where debris, satellite maneuvers and solar weather can quickly rewrite the map. Companies tend to share their performance metrics only with customers, but […]\nThe post Who has the best map of orbit? appeared first on SpaceNews.",
     "published_at": "2025-11-06T13:00:00Z",
     "updated_at": "2025-11-06T13:10:19.146011Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33797,
+    "title": "Nuclear energy is key to American leadership in space",
+    "authors": [
+      {
+        "name": "Jordan Bramble and Tom Mancinelli",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/nuclear-energy-is-key-to-american-leadership-in-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Fission-Surface-Power_mid_01.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe future of American leadership in space will hinge on one factor: the ability to generate high power on orbit and on the surface of celestial bodies such as the moon. From a physics standpoint, nuclear energy offers the highest energy density available for spacecraft, enabling more efficient and compact power generation compared to solar. […]\nThe post Nuclear energy is key to American leadership in space appeared first on SpaceNews.",
+    "published_at": "2025-11-06T13:00:00Z",
+    "updated_at": "2025-11-06T13:10:19.104591Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -953,120 +1067,6 @@
     "summary": "\nLondon — Warsaw Increasing tensions with Russia have prompted defense spending boosts throughout Europe that will benefit fledgling smallsat launcher companies across the continent.  But Europe is still years away from meeting its own space access needs, analysts said.  The progress of European smallsat launcher developers has been slower than promised, with companies facing technical […]\nThe post Analysts say experience, not funding, is hindering European smallsat launchers appeared first on SpaceNews.",
     "published_at": "2025-11-04T19:27:50Z",
     "updated_at": "2025-11-04T19:30:43.238261Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33760,
-    "title": "SES leans on SKY Perfect JSAT as inflight demand outpaces expanded fleet",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ses-leans-on-sky-perfect-jsat-as-inflight-demand-outpaces-expanded-fleet/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/SES-Press-Release_image-scaled-e1722413596794.jpg?fit=1024%2C572&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSES has turned to Japan’s flagship operator for extra satellite bandwidth to keep up with soaring connectivity demand from passengers flying across Asia, even after significantly expanding its own fleet by buying Intelsat.\nThe post SES leans on SKY Perfect JSAT as inflight demand outpaces expanded fleet appeared first on SpaceNews.",
-    "published_at": "2025-11-04T19:10:42Z",
-    "updated_at": "2025-11-04T19:20:22.522129Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33759,
-    "title": "Geopolitical Shifts and AI Reshapes Earth Observation Market",
-    "authors": [
-      {
-        "name": "Novaspace",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/geopolitical-shifts-and-ai-reshapes-earth-observation-market/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSovereign Control and Precision Intelligence Set to Lead Global Priorities Paris, France [October, 2025] – Novaspace’s 18th edition of the Earth Observation Data and Services Market report signals a decisive […]\nThe post Geopolitical Shifts and AI Reshapes Earth Observation Market appeared first on SpaceNews.",
-    "published_at": "2025-11-04T15:29:38Z",
-    "updated_at": "2025-11-04T15:30:34.062658Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33758,
-    "title": "ESA and AfSA join forces for systems engineering training",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Education/ESA_Academy/ESA_and_AfSA_join_forces_for_systems_engineering_training",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/group_picture_at_the_space_systems_engineering_training_course_at_esec_galaxia/26955804-3-eng-GB/Group_picture_at_the_Space_Systems_Engineering_Training_Course_at_ESEC_Galaxia_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From 7 to 10 October 2025, Europe and Africa took another important step toward deepening their cooperation in space. At the ESA Education Training and Learning Facility in ESEC-Galaxia, Belgium, young engineers from across both continents came together for the Space Systems Engineering Training Course, jointly supported by the European Space Agency (ESA) and the African Space Agency (AfSA).",
-    "published_at": "2025-11-04T14:17:00Z",
-    "updated_at": "2025-11-04T15:30:26.200943Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33757,
-    "title": "Why the U.S. shouldn’t simply race to Lagrange points",
-    "authors": [
-      {
-        "name": "Maxwell Zhu",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/why-the-u-s-shouldnt-simply-race-to-lagrange-points/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/vigil.jpg?fit=1024%2C724&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFrom the first satellite in orbit, to the first human in space, to the first steps on the moon, the United States government has always framed space exploration as a race. As U.S.-China space competition intensifies, so too does our American instinct to reach the next first. The Earth-moon Lagrange points may be next. In […]\nThe post Why the U.S. shouldn’t simply race to Lagrange points  appeared first on SpaceNews.",
-    "published_at": "2025-11-04T14:00:00Z",
-    "updated_at": "2025-11-04T14:00:56.228175Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33756,
-    "title": "Intuitive Machines to acquire Lanteris Space Systems",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/intuitive-machines-to-acquire-lanteris-space-systems/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/lanteris-300.jpeg?fit=1000%2C611&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIntuitive Machines, a lunar lander company, announced Nov. 4 it is buying Lanteris Space Systems, a satellite builder formerly known as Maxar.\nThe post Intuitive Machines to acquire Lanteris Space Systems appeared first on SpaceNews.",
-    "published_at": "2025-11-04T12:37:22Z",
-    "updated_at": "2025-11-04T12:40:22.192188Z",
     "featured": false,
     "launches": [],
     "events": [],
