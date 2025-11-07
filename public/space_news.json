@@ -1,5 +1,52 @@
 [
   {
+    "id": 33811,
+    "title": "Andy Stofan, Former NASA Lewis Center Director and Space Station AA Passes Away",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/andy-stofan-former-nasa-lewis-center-director-and-space-station-aa-passes-away/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/11/Andy-Stofan-Glenn-inductee-2016-2-286x300.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Andy Stofan, who was Director of Lewis (now Glenn) Research Center and then headed the space station program at NASA headquarters in the mid-1980s, passed away on October 26, 2025. […]",
+    "published_at": "2025-11-07T03:53:11Z",
+    "updated_at": "2025-11-07T04:00:18.176328Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33810,
+    "title": "In-Q-Tel invests in Vast",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/in-q-tel-invests-in-vast/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/G0WRW6jbAAEIz4P-scaled.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAn investment by a venture fund affiliated with the U.S. national security community in commercial space station developer Vast is not necessarily a sign of military interest in human spaceflight.\nThe post In-Q-Tel invests in Vast appeared first on SpaceNews.",
+    "published_at": "2025-11-07T02:18:28Z",
+    "updated_at": "2025-11-07T02:20:22.921386Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33809,
     "title": "Live coverage: Atlas 5 makes another try to launch ViaSat-3 F2 communications satellite",
     "authors": [
@@ -221,6 +268,26 @@
     "detailed_news": ""
   },
   {
+    "id": 33797,
+    "title": "Nuclear energy is key to American leadership in space",
+    "authors": [
+      {
+        "name": "Jordan Bramble and Tom Mancinelli",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/nuclear-energy-is-key-to-american-leadership-in-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Fission-Surface-Power_mid_01.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe future of American leadership in space will hinge on one factor: the ability to generate high power on orbit and on the surface of celestial bodies such as the moon. From a physics standpoint, nuclear energy offers the highest energy density available for spacecraft, enabling more efficient and compact power generation compared to solar. […]\nThe post Nuclear energy is key to American leadership in space appeared first on SpaceNews.",
+    "published_at": "2025-11-06T13:00:00Z",
+    "updated_at": "2025-11-06T13:10:19.104591Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33798,
     "title": "Who has the best map of orbit?",
     "authors": [
@@ -242,26 +309,6 @@
     "summary": "\nHow precise are satellite collision-avoidance platforms? Artificial intelligence is helping space trackers get a handle on increasingly congested orbits, but physics and math are only part of the challenge in a domain where debris, satellite maneuvers and solar weather can quickly rewrite the map. Companies tend to share their performance metrics only with customers, but […]\nThe post Who has the best map of orbit? appeared first on SpaceNews.",
     "published_at": "2025-11-06T13:00:00Z",
     "updated_at": "2025-11-06T13:10:19.146011Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33797,
-    "title": "Nuclear energy is key to American leadership in space",
-    "authors": [
-      {
-        "name": "Jordan Bramble and Tom Mancinelli",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/nuclear-energy-is-key-to-american-leadership-in-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Fission-Surface-Power_mid_01.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe future of American leadership in space will hinge on one factor: the ability to generate high power on orbit and on the surface of celestial bodies such as the moon. From a physics standpoint, nuclear energy offers the highest energy density available for spacecraft, enabling more efficient and compact power generation compared to solar. […]\nThe post Nuclear energy is key to American leadership in space appeared first on SpaceNews.",
-    "published_at": "2025-11-06T13:00:00Z",
-    "updated_at": "2025-11-06T13:10:19.104591Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -1027,46 +1074,6 @@
     "summary": "The Copernicus Sentinel-1D satellite has joined the Sentinel-1 mission in orbit. Launch took place on 4 November 2025 at 22:03 CET (18:03 local time) on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana.",
     "published_at": "2025-11-04T21:15:00Z",
     "updated_at": "2025-11-04T22:00:44.524112Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33762,
-    "title": "Ariane 6 poised to launch the Sentinel-1D Earth observation satellite",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/11/sentinel-1d-launch/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/IMG_4355-scaled.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "Arianespace, Europe’s long-standing primary launch provider, is preparing to fly the Sentinel-1D Earth observation satellite…\nThe post Ariane 6 poised to launch the Sentinel-1D Earth observation satellite appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-11-04T20:53:52Z",
-    "updated_at": "2025-11-04T21:00:23.441672Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33761,
-    "title": "Analysts say experience, not funding, is hindering European smallsat launchers",
-    "authors": [
-      {
-        "name": "Tereza Pultarova",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/analysts-say-experience-not-funding-is-hindering-european-smallsat-launchers/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/Biomass_takes_to_the_skies-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLondon — Warsaw Increasing tensions with Russia have prompted defense spending boosts throughout Europe that will benefit fledgling smallsat launcher companies across the continent.  But Europe is still years away from meeting its own space access needs, analysts said.  The progress of European smallsat launcher developers has been slower than promised, with companies facing technical […]\nThe post Analysts say experience, not funding, is hindering European smallsat launchers appeared first on SpaceNews.",
-    "published_at": "2025-11-04T19:27:50Z",
-    "updated_at": "2025-11-04T19:30:43.238261Z",
     "featured": false,
     "launches": [],
     "events": [],
