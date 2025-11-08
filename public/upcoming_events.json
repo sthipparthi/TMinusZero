@@ -1,6 +1,6 @@
 {
-  "count": 16,
-  "last_updated": "2025-11-07T18:01:28.770406Z",
+  "count": 17,
+  "last_updated": "2025-11-08T00:04:15.444679Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,7 +11,7 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (8 successful)",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
     {
@@ -506,6 +506,55 @@
       "ai_summary": ""
     },
     {
+      "id": "a5e8c7ff-f30d-488d-8ef3-b445cbd75fd3",
+      "name": "Falcon 9 Block 5 | Sentinel-6B",
+      "status": "Go",
+      "net": "2025-11-17T05:21:00Z",
+      "window_start": "2025-11-17T05:12:00Z",
+      "window_end": "2025-11-17T05:32:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Sentinel-6B",
+      "mission_description": "The Sentinel-6 Michael Freilich (launched  November 2020) and Sentinel-6B make up the Sentinel-6 mission, also known as Jason Continuity of Service (Jason-CS), which is a partnership between NASA, NOAA, ESA, and EUMETSAT. This mission continues the long-term global sea surface height data record begun by first Jason satellites in 1992.",
+      "mission_type": "Earth Science",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Space Launch Complex 4E, Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 503,
+      "rocket_config_successful_launches": 502,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 102,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 596,
+      "rocket_manufacturer_successful_launches": 581,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/a5e8c7ff-f30d-488d-8ef3-b445cbd75fd3/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "Livestream on X",
+          "description": "Livestream on X",
+          "feature_image": null,
+          "url": "https://x.com/i/broadcasts/1dRJZaPjlwDGB"
+        }
+      ],
+      "ai_summary": ""
+    },
+    {
       "id": "d124e85e-ee0f-4ab2-9be6-fd31516ddee9",
       "name": "Falcon 9 Block 5 | Starlink Group 6-94",
       "status": "Go",
@@ -731,7 +780,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 8,
-    "empty_summaries": 8,
-    "total_launches": 16
+    "empty_summaries": 9,
+    "total_launches": 17
   }
 }
