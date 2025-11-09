@@ -1,6 +1,6 @@
 {
-  "count": 16,
-  "last_updated": "2025-11-09T00:04:19.603226Z",
+  "count": 15,
+  "last_updated": "2025-11-09T06:01:29.067269Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (8 successful)",
+    "AI-generated summaries (7 successful)",
     "Empty AI summaries (8 failed/unavailable)"
   ],
   "launches": [
@@ -54,47 +54,6 @@
       "probability": null,
       "video_urls": [],
       "ai_summary": ""
-    },
-    {
-      "id": "316a5a1d-0c96-417a-acb6-b333b2b7c64c",
-      "name": "Kinetica 1 | Unknown Payload",
-      "status": "Go",
-      "net": "2025-11-07T03:30:00Z",
-      "window_start": "2025-11-07T03:23:00Z",
-      "window_end": "2025-11-07T03:50:00Z",
-      "lsp_name": "CAS Space",
-      "lsp_description": "CAS Space is a spin-off company from the Chinese Academy of Sciences (CAS) that is operating and plans to operate various launch vehicles of the Zhongke series.",
-      "lsp_type": "Commercial",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cas2520space_logo_20220727081352.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Launch Area 130, Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 130",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Kinetica 1",
-      "rocket_config_description": "Kinetica 1 (also known as Lijian-1, Chinese: 力箭一号) is a Chinese solid-propellant light launch vehicle. It is capable of placing about 2 tons into low earth orbit and 1.5 tons into sun-synchronous orbit. It is developed by CAS Space, a subsidiary of the Chinese Academy of Sciences. Kinetica 1 is a light launcher whose first stage seems to be derived from the DF-31 long-range intercontinental ballistic missile. It is 30 m high and has a diameter of 2.65 m, with a liftoff mass of 135 t. It's the largest Chinese solid propellant launcher to date, with four stages with a thrust of 200, 100, 50 and 10 tons respectively. The fairing has a diameter of 3.35 meters.",
-      "rocket_config_family": "",
-      "rocket_config_full_name": "Kinetica 1",
-      "rocket_config_total_launch_count": 9,
-      "rocket_config_successful_launches": 8,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "CAS Space",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "CAS Space is a spin-off company from the Chinese Academy of Sciences (CAS) that is operating and plans to operate various launch vehicles of the Zhongke series.",
-      "rocket_manufacturer_total_launch_count": 9,
-      "rocket_manufacturer_successful_launches": 8,
-      "rocket_manufacturer_failed_launches": 1,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/316a5a1d-0c96-417a-acb6-b333b2b7c64c/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": "Kinetica 1 is a Chinese solid-propellant light launch vehicle. It is capable of placing about 2 tons into low earth orbit and 1.5 tons into sun-synchronous orbit. Developed by CAS Space, a subsidiary of the Chinese Academy of Sciences."
     },
     {
       "id": "29e88f09-8897-4014-afa0-087ca70de9bd",
@@ -730,8 +689,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 8,
+    "successful_summaries": 7,
     "empty_summaries": 8,
-    "total_launches": 16
+    "total_launches": 15
   }
 }
