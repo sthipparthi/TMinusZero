@@ -1,5 +1,25 @@
 [
   {
+    "id": 33839,
+    "title": "Senate Votes 60-40 To Reopen Government",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/senate-votes-60-40-to-reopen-government/",
+    "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Senate Majority Leader John Thune finally got the eight Democrats/Independents he needed to vote in favor of a Continuing Resolution that will allow the government to reopen. Tonight’s vote was […]",
+    "published_at": "2025-11-10T04:59:27Z",
+    "updated_at": "2025-11-10T05:00:19.242750Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33838,
     "title": "TESS finds three Earth-sized exoplanets orbiting binary stars",
     "authors": [
@@ -1056,26 +1076,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33790,
-    "title": "Live coverage: ULA to launch ViaSat-3 communications satellite on Atlas 5 rocket from Cape Canaveral",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/11/05/live-coverage-ula-to-launch-viasat-3-communications-satellite-on-atlas-5-rocket-from-cape-canaveral/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/11/20251105_ViaSat-3_F2_pad.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The mission is the second of three planned spacecraft that Viasat plans to operate in geostationary orbit. United Launch Alliance is targeting liftoff from pad 41 at Cape Canaveral Space Force Station at 10:24 p.m. EST (0324 UTC). ",
-    "published_at": "2025-11-05T22:10:46Z",
-    "updated_at": "2025-11-05T22:20:18.807392Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
