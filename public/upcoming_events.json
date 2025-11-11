@@ -1,6 +1,6 @@
 {
-  "count": 11,
-  "last_updated": "2025-11-11T12:02:29.497526Z",
+  "count": 12,
+  "last_updated": "2025-11-11T18:01:48.291023Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,7 +11,7 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (5 successful)",
-    "Empty AI summaries (6 failed/unavailable)"
+    "Empty AI summaries (7 failed/unavailable)"
   ],
   "launches": [
     {
@@ -293,6 +293,47 @@
       "ai_summary": "SpaceX will launch Falcon 9 Block 5 | Starlink Group 6-94 from Space Launch Complex 40, Cape Canaveral SFS, FL, USA using their Falcon 9 rocket. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability. This Communications mission involves A batch of 28 satellites for the Starlink mega-constellation."
     },
     {
+      "id": "f98f21cc-5a35-4d64-953c-277a9212032e",
+      "name": "Long March 8A | Unknown Payload",
+      "status": "Go",
+      "net": "2025-11-19T13:00:00Z",
+      "window_start": "2025-11-19T12:51:00Z",
+      "window_end": "2025-11-19T13:17:00Z",
+      "lsp_name": "China Aerospace Science and Technology Corporation",
+      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "lsp_type": "Government",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
+      "mission_name": "Unknown Payload",
+      "mission_description": "Details TBD.",
+      "mission_type": "Unknown",
+      "orbit": "Unknown",
+      "launch_site": "Commercial LC-1, Wenchang Space Launch Site, People's Republic of China",
+      "pad": "Commercial LC-1",
+      "location": "Wenchang Space Launch Site, People's Republic of China",
+      "rocket": "Long March 8A",
+      "rocket_config_description": "The Long March 8A is an orbital launch vehicle developed by the China Academy of Launch Vehicle Technology based on the Long March 8. It has an increased capability of up to 7 tonnes to a 700 km altitude sun-synchronous orbit. It implements a larger 3.35 meters diameter liquid hydrogen/liquid oxygen 2nd stage, coupled with 2 upgraded version of the YF-75D engines used on the Long March 5 (known as the YF-75H) with increased thrust to 10 tonnes each through measures such as increased turbopump speeds. \r\n\r\nThe Long March 8A can also use a larger 5.2 meters diameter payload fairing.",
+      "rocket_config_family": "Long March",
+      "rocket_config_full_name": "Long March 8A",
+      "rocket_config_total_launch_count": 4,
+      "rocket_config_successful_launches": 4,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
+      "rocket_manufacturer_type": "Government",
+      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "rocket_manufacturer_total_launch_count": 554,
+      "rocket_manufacturer_successful_launches": 540,
+      "rocket_manufacturer_failed_launches": 14,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_y1_in_vab_image_20250213053137.JPG",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/f98f21cc-5a35-4d64-953c-277a9212032e/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
       "id": "dc4c201e-b11d-4650-91cc-ecc2eec95598",
       "name": "Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)",
       "status": "Go",
@@ -518,7 +559,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 5,
-    "empty_summaries": 6,
-    "total_launches": 11
+    "empty_summaries": 7,
+    "total_launches": 12
   }
 }
