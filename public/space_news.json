@@ -1,5 +1,100 @@
 [
   {
+    "id": 33870,
+    "title": "Live coverage: Blue Origin targets Nov. 12 New Glenn launch following weekend weather scrub",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/11/11/live-coverage-blue-origin-targets-nov-12-new-glenn-launch-following-weekend-weather-scrub/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/11/20251111_Blue_Origin_NG-2_fairings.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "Blue Origin was able to secure permission from the Federal Aviation Administration for a daytime launch attempt while the emergency order constraining commercial launches remains in place during the government shutdown. Liftoff is scheduled during an 87-minute-long window that opens at 2:50 p.m. EST (1950 UTC). ",
+    "published_at": "2025-11-11T23:07:49Z",
+    "updated_at": "2025-11-11T23:10:17.161357Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33869,
+    "title": "Launch Roundup: New Glenn, Viasat, & Sentinel-6B highlight busy week of launches",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/11/launch-roundup-111125/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/GhZbCaqWYAAqKKj-scaled-e1762893585278.png",
+    "news_site": "NASASpaceflight",
+    "summary": "This week’s launch schedule features two high-profile launches that were pushed back after scrubs from…\nThe post Launch Roundup: New Glenn, Viasat, & Sentinel-6B highlight busy week of launches appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-11-11T22:43:41Z",
+    "updated_at": "2025-11-11T22:50:11.224099Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33868,
+    "title": "Shenzhou-20 Crew Still Aboard Tiangong-3, Return Date Unclear",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/shenzhou-20-crew-still-aboard-tiangong-3-return-date-unclear/",
+    "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "In an obscurely worded statement, China’s Xinhua news agency conveyed that the Shenzhou-20 crew is doing well on its extended stay aboard the Tiangong-3 space station. Their planned return to […]",
+    "published_at": "2025-11-11T20:10:09Z",
+    "updated_at": "2025-11-11T20:13:28.159835Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "a164daf8-31df-4d34-bf67-5ec41b3a9f9b",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33867,
+    "title": "HTV-X Arrives at ISS For the First Time",
+    "authors": [
+      {
+        "name": "Scarlet Dominik",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2025/11/htv-x-arrives-at-iss-for-the-first-time/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/11/HTV-X-DOCKED.png",
+    "news_site": "Space Scout",
+    "summary": "After its launch from the Yoshinobu Launch Complex at the JAXA Tanegashima Space Center on October 26th at 9:00 AM JST, Japan’s HTV-X1 resupply mission arrived at the ISS, where it was berthed at roughly 1:00 AM JST on October 30th.",
+    "published_at": "2025-11-11T19:01:12Z",
+    "updated_at": "2025-11-11T20:10:50.967003Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "8c2412ae-fbef-443f-aae8-db538f38eec6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 343,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
     "id": 33866,
     "title": "Top Science Committee Democrat calls for halt to Goddard facility closures",
     "authors": [
@@ -162,26 +257,6 @@
     "summary": "\nChina is continuing assessments for the return of the Shenzhou-20 crew after a suspected debris impact, with no new timeline yet announced.\nThe post China continues assessment of Shenzhou-20 crew return after suspected debris strike appeared first on SpaceNews.",
     "published_at": "2025-11-11T12:22:04Z",
     "updated_at": "2025-11-11T12:30:20.653385Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33858,
-    "title": "John McFall | Prosthetics, Possibility & Parabolic Flights | ESA Explores #16",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_Possibility_Parabolic_Flights_ESA_Explores_16",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/10/john_mcfall_prosthetics_possibility_parabolic_flights_esa_explores_16/26908371-1-eng-GB/John_McFall_Prosthetics_Possibility_Parabolic_Flights_ESA_Explores_16_card_full.png",
-    "news_site": "ESA",
-    "summary": "Meet John McFall – Paralympian, medical doctor and member of ESA’s Astronaut Reserve. As part of ESA’s groundbreaking FLY initiative, John is helping prove that physical disability is no barrier to space. In this episode, he shares the results of a feasibility study showing no technical showstoppers for flying to the International Space Station with a prosthesis and talks about what’s next—from hardware certification and scientific proposals to astronaut reserve training and running in microgravity.",
-    "published_at": "2025-11-11T11:00:00Z",
-    "updated_at": "2025-11-11T09:40:12.827586Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -495,26 +570,6 @@
     "detailed_news": ""
   },
   {
-    "id": 33840,
-    "title": "Mobile Private Networks are a great opportunity for direct-to-device satellite operators to secure and grow their enterprise business",
-    "authors": [
-      {
-        "name": "Enrico Ottolini",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/mobile-private-networks-are-a-great-opportunity-for-direct-to-device-satellite-operators-to-secure-and-grow-their-enterprise-business/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Starlink-Satellite-Trails-over-Brazil-credit-NASA_Egon-Filter.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe focus of direct-to-device (D2D) services so far has been mainly on extending the coverage of terrestrial cellular networks for cell phones and remote IoT devices. Although this presents a great business opportunity for both D2D satellite and terrestrial Mobile Network Operators (MNOs), the satellite industry needs to be conscious about another fast-developing opportunity in […]\nThe post Mobile Private Networks are a great opportunity for direct-to-device satellite operators to secure and grow their enterprise business appeared first on SpaceNews.",
-    "published_at": "2025-11-10T12:00:00Z",
-    "updated_at": "2025-11-10T12:02:40.115965Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 33843,
     "title": "European Service Module-4 is ready to sail",
     "authors": [
@@ -529,6 +584,26 @@
     "summary": "In a few days, ESA’s fourth European Service Module will leave the integration halls of Airbus in Bremen, Germany, setting sail across the Atlantic Ocean in the next step of its journey. The module will propel NASA’s Orion spacecraft towards the Moon during Artemis IV, supplying the crew with water, air, electricity and a comfortable temperature throughout their voyage.",
     "published_at": "2025-11-10T12:00:00Z",
     "updated_at": "2025-11-10T12:10:22.305118Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33840,
+    "title": "Mobile Private Networks are a great opportunity for direct-to-device satellite operators to secure and grow their enterprise business",
+    "authors": [
+      {
+        "name": "Enrico Ottolini",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/mobile-private-networks-are-a-great-opportunity-for-direct-to-device-satellite-operators-to-secure-and-grow-their-enterprise-business/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Starlink-Satellite-Trails-over-Brazil-credit-NASA_Egon-Filter.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe focus of direct-to-device (D2D) services so far has been mainly on extending the coverage of terrestrial cellular networks for cell phones and remote IoT devices. Although this presents a great business opportunity for both D2D satellite and terrestrial Mobile Network Operators (MNOs), the satellite industry needs to be conscious about another fast-developing opportunity in […]\nThe post Mobile Private Networks are a great opportunity for direct-to-device satellite operators to secure and grow their enterprise business appeared first on SpaceNews.",
+    "published_at": "2025-11-10T12:00:00Z",
+    "updated_at": "2025-11-10T12:02:40.115965Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -964,66 +1039,6 @@
     "summary": "The Copernicus Sentinel-1D satellite has joined the Sentinel-1 mission in orbit. Launch took place on 4 November 2025 at 22:02 CET (18:02 local time) on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana.",
     "published_at": "2025-11-07T16:30:00Z",
     "updated_at": "2025-11-07T18:40:15.829241Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33819,
-    "title": "Week in images: 03-07 November 2025",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_November_2025",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/euclid_peers_through_a_dark_cloud_s_dusty_veil/26951143-8-eng-GB/Euclid_peers_through_a_dark_cloud_s_dusty_veil_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 03-07 November 2025",
-    "published_at": "2025-11-07T14:15:00Z",
-    "updated_at": "2025-11-07T14:00:18.237280Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33820,
-    "title": "Europe’s lead in hyperspectral Earth observation depends on public–private partnerships",
-    "authors": [
-      {
-        "name": "Jarkko Antila",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/europes-lead-in-hyperspectral-earth-observation-depends-on-public-private-partnerships/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Wyvern_Space_Richat_-1-scaled.png?fit=1024%2C832&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFor half a century, satellites have chased the same prize: ever sharper pictures of Earth. Each advance brought more pixels and greater clarity, but only in terms of how things looked. Now, a different kind of technology is emerging, one that reveals the biochemical composition of man-made and natural objects: hyperspectral imaging. By capturing hundreds […]\nThe post Europe’s lead in hyperspectral Earth observation depends on public–private partnerships appeared first on SpaceNews.",
-    "published_at": "2025-11-07T14:00:00Z",
-    "updated_at": "2025-11-07T14:10:19.917444Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33817,
-    "title": "GHGSat continues to expand its methane-monitoring constellation",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/ghgsat-continues-to-expand-its-methane-monitoring-constellation/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/GHGSAT-C3-C4-C5_near.jpg?fit=1000%2C640&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – GHGSat announced plans Nov. 7 to send two additional satellites into its greenhouse-gas-monitoring constellation. Ahead of the 30th Conference of the Parties to the United Nations Framework Convention on Climate Change in Brazil, the Montreal-based GHGSat is preparing to expand its methane-monitoring constellation from 12 to 14 satellites. “With a constellation of […]\nThe post GHGSat continues to expand its methane-monitoring constellation appeared first on SpaceNews.",
-    "published_at": "2025-11-07T13:00:00Z",
-    "updated_at": "2025-11-07T13:10:19.865504Z",
     "featured": false,
     "launches": [],
     "events": [],
