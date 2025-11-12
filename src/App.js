@@ -17,8 +17,6 @@ function App() {
   const [canScrollRight, setCanScrollRight] = useState(false);
   const [upcomingLaunches, setUpcomingLaunches] = useState([]);
   const [showLaunchScrollButtons, setShowLaunchScrollButtons] = useState(false);
-  const [canScrollLaunchLeft, setCanScrollLaunchLeft] = useState(false);
-  const [canScrollLaunchRight, setCanScrollLaunchRight] = useState(false);
   const [autoScrollInterval, setAutoScrollInterval] = useState(null);
 
   // Space agencies tabs
@@ -40,7 +38,7 @@ function App() {
   // Fetch from local JSON file in /public
   const apiUrl = process.env.PUBLIC_URL + "/space_news.json";
 
-  const fetchArticles = async () => {
+  const fetchArticles = React.useCallback(async () => {
     try {
       const res = await fetch(apiUrl + "?t=" + Date.now()); // Cache-busting
       const data = await res.json();
@@ -84,9 +82,9 @@ function App() {
         },
       ]);
     }
-  };
+  }, [apiUrl]);
 
-  const fetchUpcomingLaunches = async () => {
+  const fetchUpcomingLaunches = React.useCallback(async () => {
     try {
       const res = await fetch(process.env.PUBLIC_URL + "/upcoming_events.json?t=" + Date.now());
       const data = await res.json();
@@ -97,7 +95,7 @@ function App() {
       console.error("Error fetching upcoming launches:", error);
       setUpcomingLaunches([]); // Set empty array on error
     }
-  };
+  }, []);
 
   const getLocation = async () => {
     if (navigator.geolocation) {
@@ -148,7 +146,7 @@ function App() {
       // Cleanup: restore scrolling if component unmounts
       document.body.style.overflow = 'unset';
     };
-  }, []);
+  }, [fetchArticles, fetchUpcomingLaunches]);
 
   const openModal = (article) => {
     setSelectedArticle(article);
@@ -206,7 +204,7 @@ function App() {
   };
 
   // Check scroll button states based on current scroll position
-  const checkScrollButtonStates = () => {
+  const checkScrollButtonStates = React.useCallback(() => {
     const tabsContainer = document.querySelector('.tabs-container');
     if (tabsContainer) {
       const scrollLeft = tabsContainer.scrollLeft;
@@ -215,10 +213,10 @@ function App() {
       setCanScrollLeft(scrollLeft > 0);
       setCanScrollRight(scrollLeft < maxScroll);
     }
-  };
+  }, []);
 
   // Check if tabs container has overflow
-  const checkTabsOverflow = () => {
+  const checkTabsOverflow = React.useCallback(() => {
     const tabsContainer = document.querySelector('.tabs-container');
     if (tabsContainer) {
       const hasOverflow = tabsContainer.scrollWidth > tabsContainer.clientWidth;
@@ -229,7 +227,7 @@ function App() {
         checkScrollButtonStates();
       }
     }
-  };
+  }, [checkScrollButtonStates]);
 
   // Launch carousel scroll functions with continuous looping
   const scrollLaunches = (direction) => {
@@ -237,7 +235,6 @@ function App() {
     if (launchContainer) {
       const scrollAmount = 176; // Width of smaller card (160px) + gap (16px)
       const currentScroll = launchContainer.scrollLeft;
-      const maxScroll = launchContainer.scrollWidth - launchContainer.clientWidth;
       const halfPoint = launchContainer.scrollWidth / 2;
       
       if (direction === 'right') {
@@ -259,14 +256,11 @@ function App() {
           behavior: 'smooth'
         });
       }
-      
-      // Update scroll button states after scrolling
-      setTimeout(() => checkLaunchScrollButtonStates(), 100);
     }
   };
 
   // Auto-scroll function
-  const startAutoScroll = () => {
+  const startAutoScroll = React.useCallback(() => {
     if (autoScrollInterval) clearInterval(autoScrollInterval);
     
     const interval = setInterval(() => {
@@ -274,40 +268,38 @@ function App() {
     }, 2000); // Auto scroll every 2 seconds
     
     setAutoScrollInterval(interval);
-  };
+  }, [autoScrollInterval]);
 
-  const stopAutoScroll = () => {
+  const stopAutoScroll = React.useCallback(() => {
     if (autoScrollInterval) {
       clearInterval(autoScrollInterval);
       setAutoScrollInterval(null);
     }
-  };
+  }, [autoScrollInterval]);
 
   // Check launch carousel scroll button states
-  const checkLaunchScrollButtonStates = () => {
+  const checkLaunchScrollButtonStates = React.useCallback(() => {
     const launchContainer = document.querySelector('.launch-carousel');
     if (launchContainer) {
-      const scrollLeft = launchContainer.scrollLeft;
-      const maxScroll = launchContainer.scrollWidth - launchContainer.clientWidth;
-      
-      setCanScrollLaunchLeft(scrollLeft > 0);
-      setCanScrollLaunchRight(scrollLeft < maxScroll);
+      // For carousel with seamless looping, we always show scroll buttons
+      // when there's overflow, since users can always scroll in either direction
+      return true;
     }
-  };
+  }, []);
 
   // Check if launch carousel has overflow
-  const checkLaunchOverflow = () => {
+  const checkLaunchOverflow = React.useCallback(() => {
     const launchContainer = document.querySelector('.launch-carousel');
     if (launchContainer) {
       const hasOverflow = launchContainer.scrollWidth > launchContainer.clientWidth;
       setShowLaunchScrollButtons(hasOverflow);
       
-      // Also check scroll button states
+      // For seamless carousel, always allow scrolling when there's overflow
       if (hasOverflow) {
         checkLaunchScrollButtonStates();
       }
     }
-  };
+  }, [checkLaunchScrollButtonStates]);
 
   // Check overflow on window resize and scroll
   useEffect(() => {
@@ -337,7 +329,7 @@ function App() {
         tabsContainer.removeEventListener('scroll', handleScroll);
       }
     };
-  }, [activeTab]); // Re-run when activeTab changes
+  }, [activeTab, checkTabsOverflow, checkScrollButtonStates]); // Re-run when activeTab changes
 
   // Check launch carousel overflow on resize and mount
   useEffect(() => {
@@ -375,7 +367,7 @@ function App() {
       // Clean up auto-scroll
       stopAutoScroll();
     };
-  }, [upcomingLaunches]); // Re-run when launches change
+  }, [upcomingLaunches, checkLaunchOverflow, startAutoScroll, stopAutoScroll, checkLaunchScrollButtonStates]); // Re-run when launches change
 
   return (
     <HelmetProvider>
