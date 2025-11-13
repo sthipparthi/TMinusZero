@@ -1,5 +1,72 @@
 [
   {
+    "id": 33891,
+    "title": "Ground truth: Why the lunar program needs its Earthbound network",
+    "authors": [
+      {
+        "name": "Kevin Dunne",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/ground-truth-why-the-lunar-program-needs-its-earthbound-network/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/01/rsz_pia24163.jpg?fit=879%2C659&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAs the world prepares to return to the moon, much of the attention remains fixed on the visible frontier: the rockets, landers and orbital stations that will make it possible. Yet the success of this new era in exploration depends on something far less visible — the communications infrastructure that keeps those missions alive once […]\nThe post Ground truth: Why the lunar program needs its Earthbound network appeared first on SpaceNews.",
+    "published_at": "2025-11-13T11:00:00Z",
+    "updated_at": "2025-11-13T11:10:19.669934Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33890,
+    "title": "SES expands launch contract with Relativity Space",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/ses-expands-launch-contract-with-relativity-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/terranr-2025.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nRelativity Space, a launch startup developing a reusable rocket, has expanded a contract to provide launches for satellite operator SES.\nThe post SES expands launch contract with Relativity Space appeared first on SpaceNews.",
+    "published_at": "2025-11-13T10:25:42Z",
+    "updated_at": "2025-11-13T10:30:19.610718Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33888,
+    "title": "France Reveals New Space Strategy with Major Spending Increase",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/france-reveals-new-space-strategy-with-major-spending-increase/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/France-Reveals-New-Space-Strategy-with-Major-Spending-Increase.webp",
+    "news_site": "European Spaceflight",
+    "summary": "At the inauguration of France’s first Space Command facility in Toulouse on Wednesday, President Emmanuel Macron unveiled a new national space strategy defining the country’s civil and military priorities. Macron opened his speech with a stark warning, declaring that “space is no longer a sanctuary; it has become a battlefield.” He warned that “aggressive powers […]\nThe post France Reveals New Space Strategy with Major Spending Increase appeared first on European Spaceflight.",
+    "published_at": "2025-11-13T07:49:52Z",
+    "updated_at": "2025-11-13T07:50:17.584304Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33887,
     "title": "Longest Government Shutdown in History Ends After 43 days",
     "authors": [
@@ -911,26 +978,6 @@
     "detailed_news": ""
   },
   {
-    "id": 33843,
-    "title": "European Service Module-4 is ready to sail",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_Service_Module-4_is_ready_to_sail",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/european_service_module-4_with_its_shields_up/26962452-1-eng-GB/European_Service_Module-4_with_its_shields_up_card_full.png",
-    "news_site": "ESA",
-    "summary": "In a few days, ESA’s fourth European Service Module will leave the integration halls of Airbus in Bremen, Germany, setting sail across the Atlantic Ocean in the next step of its journey. The module will propel NASA’s Orion spacecraft towards the Moon during Artemis IV, supplying the crew with water, air, electricity and a comfortable temperature throughout their voyage.",
-    "published_at": "2025-11-10T12:00:00Z",
-    "updated_at": "2025-11-10T12:10:22.305118Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 33840,
     "title": "Mobile Private Networks are a great opportunity for direct-to-device satellite operators to secure and grow their enterprise business",
     "authors": [
@@ -951,6 +998,26 @@
     "detailed_news": ""
   },
   {
+    "id": 33843,
+    "title": "European Service Module-4 is ready to sail",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_Service_Module-4_is_ready_to_sail",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/european_service_module-4_with_its_shields_up/26962452-1-eng-GB/European_Service_Module-4_with_its_shields_up_card_full.png",
+    "news_site": "ESA",
+    "summary": "In a few days, ESA’s fourth European Service Module will leave the integration halls of Airbus in Bremen, Germany, setting sail across the Atlantic Ocean in the next step of its journey. The module will propel NASA’s Orion spacecraft towards the Moon during Artemis IV, supplying the crew with water, air, electricity and a comfortable temperature throughout their voyage.",
+    "published_at": "2025-11-10T12:00:00Z",
+    "updated_at": "2025-11-10T12:10:22.305118Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33841,
     "title": "China expands Guowang constellation, Galactic Energy suffers Ceres-1 launch failure",
     "authors": [
@@ -965,66 +1032,6 @@
     "summary": "\nChina conducted a pair launches late Sunday, adding to the national Guowang megaconstellation, but also suffering the failure of a Ceres-1 commercial solid rocket.\nThe post China expands Guowang constellation, Galactic Energy suffers Ceres-1 launch failure appeared first on SpaceNews.",
     "published_at": "2025-11-10T11:52:08Z",
     "updated_at": "2025-11-10T12:02:40.144807Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33846,
-    "title": "Paxi and the start of the great space adventure",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/11/Paxi_and_the_start_of_the_great_space_adventure",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/11/paxi_and_the_start_of_the_great_space_adventure/26965346-1-eng-GB/Paxi_and_the_Start_of_the_Great_Space_Adventure_card_full.png",
-    "news_site": "ESA",
-    "summary": "English: Paxi and the Start of the Great Space Adventure",
-    "published_at": "2025-11-10T11:00:00Z",
-    "updated_at": "2025-11-10T15:20:21.205519Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33839,
-    "title": "Senate Votes 60-40 To Reopen Government",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/senate-votes-60-40-to-reopen-government/",
-    "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Senate Majority Leader John Thune finally got the eight Democrats/Independents he needed to vote in favor of a Continuing Resolution that will allow the government to reopen. Tonight’s vote was […]",
-    "published_at": "2025-11-10T04:59:27Z",
-    "updated_at": "2025-11-10T05:00:19.242750Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33838,
-    "title": "TESS finds three Earth-sized exoplanets orbiting binary stars",
-    "authors": [
-      {
-        "name": "Martijn Luinstra",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/11/tess-toi-2267/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/toi_2267.png",
-    "news_site": "NASASpaceflight",
-    "summary": "Through international collaboration, a team of astronomers has confirmed two exoplanets and found hints of…\nThe post TESS finds three Earth-sized exoplanets orbiting binary stars appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-11-09T23:10:36Z",
-    "updated_at": "2025-11-09T23:20:12.447191Z",
     "featured": false,
     "launches": [],
     "events": [],

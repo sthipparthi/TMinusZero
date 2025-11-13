@@ -1,6 +1,6 @@
 {
-  "count": 14,
-  "last_updated": "2025-11-13T06:01:28.343211Z",
+  "count": 15,
+  "last_updated": "2025-11-13T12:02:03.548767Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,7 +11,7 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (5 successful)",
-    "Empty AI summaries (9 failed/unavailable)"
+    "Empty AI summaries (10 failed/unavailable)"
   ],
   "launches": [
     {
@@ -626,6 +626,47 @@
       "ai_summary": ""
     },
     {
+      "id": "f2775d28-8dd8-4efc-87c6-b8d41372202b",
+      "name": "Vega-C | KOMPSAT-7",
+      "status": "Go",
+      "net": "2025-11-28T17:21:00Z",
+      "window_start": "2025-11-28T17:21:00Z",
+      "window_end": "2025-11-28T17:21:00Z",
+      "lsp_name": "Arianespace",
+      "lsp_description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
+      "lsp_type": "Commercial",
+      "lsp_country": "FRA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
+      "mission_name": "KOMPSAT-7",
+      "mission_description": "KOMPSAT-7 is the follow-up model of KOMPSAT-3A whose mission is to provide high-resolution satellite images to satisfy South-Koreaâ€™s governmental and institutional needs.",
+      "mission_type": "Earth Science",
+      "orbit": "Sun-Synchronous Orbit",
+      "launch_site": "Ariane Launch Area 1 (ELV), Guiana Space Centre, French Guiana",
+      "pad": "Ariane Launch Area 1 (ELV)",
+      "location": "Guiana Space Centre, French Guiana",
+      "rocket": "Vega-C",
+      "rocket_config_description": "Vega-C is a single-body rocket nearly 35 m high with that weighs 210 tonnes on the launch pad. As with Vega, its main elements are three solid-propellant stages, an upper stage powered by a reignitable liquid-propellant engine and a payload fairing. Vega-C's P120C first stage replaces Vega’s smaller P80 to provide a significant increase in thrust at liftoff. It is also used as boosters (2 or 4) for the Ariane 6 rocket.",
+      "rocket_config_family": "Vega",
+      "rocket_config_full_name": "Vega-C",
+      "rocket_config_total_launch_count": 5,
+      "rocket_config_successful_launches": 4,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 22,
+      "rocket_manufacturer_name": "Avio S.p.A",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Avio S.p.A. is an Italian company operating in the aerospace sector with its head office in Colleferro near Rome, Italy. Founded in 1908, it is present in Italy and abroad with different commercial offices and 10 production sites.",
+      "rocket_manufacturer_total_launch_count": 0,
+      "rocket_manufacturer_successful_launches": 0,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/f2775d28-8dd8-4efc-87c6-b8d41372202b/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
       "id": "dc1b1aea-7a5f-4b39-9df5-1fd38dd670cf",
       "name": "H3-22 | Michibiki 5 (QZS-5)",
       "status": "Go",
@@ -671,7 +712,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 5,
-    "empty_summaries": 9,
-    "total_launches": 14
+    "empty_summaries": 10,
+    "total_launches": 15
   }
 }
