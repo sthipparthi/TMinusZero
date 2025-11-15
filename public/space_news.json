@@ -1,5 +1,132 @@
 [
   {
+    "id": 33954,
+    "title": "Live coverage: SpaceX to launch predawn Starlink mission from Cape Canaveral",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/11/14/live-coverage-spacex-to-launch-predawn-starlink-mission-from-cape-canaveral/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The mission is one of two Starlink flights scheduled to fly from Florida within a four-hour window of opportunity. Liftoff of the Starlink 6-85 mission from pad 40 at Cape Canaveral Space Force Station is scheduled for 1:21 a.m. EST (0621 UTC). ",
+    "published_at": "2025-11-14T23:35:50Z",
+    "updated_at": "2025-11-14T23:40:19.150133Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33953,
+    "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/11/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-nasas-kennedy-space-center-2/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/04/20250411-Starlink-12-17-Pad-Feature-Image.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "This is the first of planned back-to-back Falcon 9 launches from Florida, roughly three hours apart. Liftoff of the Starlink 6-89 mission is scheduled for 10:08 p.m. EST (0308 UTC). ",
+    "published_at": "2025-11-14T23:17:07Z",
+    "updated_at": "2025-11-14T23:20:18.747891Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33952,
+    "title": "SES adds to GEO’s busiest servicing pipeline with Infinite Orbits contract",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/ses-adds-to-geos-busiest-servicing-pipeline-with-infinite-orbits-contract/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Infinite-servicer.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSES is adding another servicer to what is already the broadest and busiest satellite life-extension roster in the commercial geostationary orbit market, with five missions now scheduled between 2026 and 2029.\nThe post SES adds to GEO’s busiest servicing pipeline with Infinite Orbits contract appeared first on SpaceNews.",
+    "published_at": "2025-11-14T21:47:22Z",
+    "updated_at": "2025-11-14T21:50:18.814600Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33951,
+    "title": "Maryland Delegation Presses NASA on Goddard Closings, NASA Replies to Lofgren",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/maryland-delegation-presses-nasa-on-goddard-closings-nasa-replies-to-lofgren/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/11/NASA-Goddard-photo-300x169.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The Democratic members of the Maryland congressional delegation have written to Acting NASA Administrator Sean Duffy asking for an explanation of reported laboratory and other facility closures at Goddard Space […]",
+    "published_at": "2025-11-14T21:33:30Z",
+    "updated_at": "2025-11-14T21:40:14.132172Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33950,
+    "title": "How space weather events effect launches, orbiting spacecraft, and our future in space",
+    "authors": [
+      {
+        "name": "Sean Yoder",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/11/space-weather-effects/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2023/03/6B7492F4-347E-4A17-8AED-9D9523555D48.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "When Blue Origin scrubbed the launch of its NG-2 mission on its New Glenn rocket…\nThe post How space weather events effect launches, orbiting spacecraft, and our future in space appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-11-14T21:33:12Z",
+    "updated_at": "2025-11-14T21:40:12.198729Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33949,
+    "title": "NASA Sets Launch Coverage for International Ocean Tracking Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/sentinal-6b-key-art-v2-16x9-final1.jpg",
+    "news_site": "NASA",
+    "summary": "NASA will provide live coverage of prelaunch and launch activities for Sentinel-6B, an international mission delivering critical sea level and ocean data to protect coastal infrastructure, improve weather forecasting, and support commercial activities at sea. Launch is targeted at 12:21 a.m. EST, Monday, Nov. 17 (9:21 p.m. PST, Sunday, Nov. 16) aboard a SpaceX Falcon […]",
+    "published_at": "2025-11-14T19:23:05Z",
+    "updated_at": "2025-11-14T19:30:05.220974Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33933,
     "title": "Mapping Dark Matter",
     "authors": [
@@ -161,6 +288,306 @@
     "summary": "\nMembers of Maryland’s congressional delegation added their voices to concerns about the closure of offices and labs at the Goddard Space Flight Center.\nThe post Maryland congressional delegation seeks information on Goddard facility closures appeared first on SpaceNews.",
     "published_at": "2025-11-14T11:30:08Z",
     "updated_at": "2025-11-14T11:30:28.959365Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33935,
+    "title": "Blue Origin launches NASA Mars mission and nails booster landing",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Blue_Origin_launches_NASA_Mars_mission_and_nails_booster_landing_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ng-1-new-glenn-stacked-integrated-vehicle-hotfire-test-pad-night-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Cape Canaveral (AFP) Nov 14, 2025\n\n\n Jeff Bezos's Blue Origin successfully launched its New Glenn rocket on Thursday with NASA twin spacecraft destined for Mars aboard, and in a breakthrough nailed the landing of its booster. \n\nThe launch was stalled for days over weather both on Earth and in space, but it was worth the wait: in the rocket's second-ever flight, Blue Origin managed to recover the booster for reuse. \n\nEcstatic ch",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.055479Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33940,
+    "title": "Europe Strives to Counter Russian and Chinese Satellite Menace",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Europe_Strives_to_Counter_Russian_and_Chinese_Satellite_Menace_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/dong-neng-3-exoatmospheric-vehicle-dn-3-asat-anti-satellite-missile-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Nov 10, 2025\n\nEurope finds itself in the midst of a new space race, one defined less by exploration and more by the imperative to safeguard critical orbital infrastructure from the mounting threats of Russian and Chinese satellite activities. While the world has watched the rollout of advanced technology and military escalation in space, recent years have shown just how vulnerable the continent remains - and",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.317698Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33944,
+    "title": "AI enables tailored education for medical students at scale",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.robodaily.com/reports/AI_enables_tailored_education_for_medical_students_at_scale_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/robot-health-care-provider-doctor-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Nov 13, 2025\n\n\nResearchers at Dartmouth have demonstrated that artificial intelligence platforms can provide individualized academic support for large student populations. The study tracked 190 medical students who used an AI teaching assistant called NeuroBot TA in a Neuroscience and Neurology course. NeuroBot TA employs retrieval-augmented generation, anchoring answers to curated course materials and reducin",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.486095Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33938,
+    "title": "Atlas 5 rocket launches U.S. communications satellite",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Atlas_5_rocket_launches_US_communications_satellite_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ula-atlas-5-starliner-stack-pad-night-launch-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (UPI) Nov 13, 2025 \n\n\n Following a handful of troubling valve issues that pushed a launch back for a week, an Atlas 5 rocket lifted off from Cape Canaveral Space Force Station in Florida at 10:04 p.m. EST on Thursday night, carrying a communications satellite for Viasat. \n The 6-ton Viasat 3 satellite will be deployed from the Atlas rocket about 3 1/2 hours after launch, and eventually reach geostationary orbit",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.282734Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33942,
+    "title": "NASA twin spacecraft depart Earth orbit to begin Mars mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.marsdaily.com/reports/NASA_twin_spacecraft_depart_Earth_orbit_to_begin_Mars_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/escapade-mars-mission-patch-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Nov 14, 2025\n\n\nNASA's ESCAPADE mission has initiated its journey as two identical spacecraft, designed to study Mars' magnetosphere, separated and deployed from Blue Origin's New Glenn upper stage. Both probes will spend the next year in a unique Earth-bound orbit before executing a trans-Mars injection burn in November 2026, employing the Oberth Effect to maximize mission fuel efficiency. \n\nThe paired orb",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.375175Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33946,
+    "title": "Nanometer precision ranging demonstrated across 113 kilometers sets new benchmark for space measurement",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.gpsdaily.com/reports/Nanometer_precision_ranging_demonstrated_across_113_kilometers_sets_new_benchmark_for_space_measurement_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/goce-geoid-earth-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Nov 08, 2025\n\n\nResearchers from the University of Science and Technology of China, led by professors Jian-Wei Pan, Hai-Feng Jiang, and Qiang Zhang, have achieved nanometer-level absolute distance measurement over a 113-kilometer path using a bistatic dual-comb ranging (BDCR) approach. This technique attained a precision of 82 nanometers within 21 seconds, establishing a new standard for high-precision long-dis",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.531036Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33945,
+    "title": "Filtronic wins contract for RF payload assemblies in LEO satellite program",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Filtronic_wins_contract_for_RF_payload_assemblies_in_LEO_satellite_program_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satellite-constellation-mixed-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Nov 10, 2025\n\n\nFiltronic has confirmed a contract exceeding  euro 7 million to supply high-frequency radio frequency assemblies for a leading European aerospace manufacturer engaged in the expansion of a Low Earth Orbit satellite constellation. The components will be designed and produced by Filtronic at its facilities in North East England. \n\nThese payload assemblies are built to operate reliably in harsh",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.506809Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33934,
+    "title": "China's Shenzhou-20 astronauts return to Earth after delay",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Chinas_Shenzhou-20_astronauts_return_to_Earth_after_delay_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-shenzhou-13-capsule-parachute-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Beijing (AFP) Nov 14, 2025\n\n\n Three Chinese astronauts returned to Earth on Friday, state TV footage showed, after a delay caused by their spacecraft being struck by debris in orbit. \n\nThe Tiangong space station, the crown jewel of China's space programme, is crewed by teams of three astronauts who are exchanged every six months. \n\nThe return of the Shenzhou-20 spacecraft and crew were planned for November 5, after the S",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:13.973569Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33937,
+    "title": "Dream Chaser spaceplane passes pre-flight tests at Kennedy Space Center",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Dream_Chaser_spaceplane_passes_pre_flight_tests_at_Kennedy_Space_Center_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/snc-dream-chaser-runway-tow-test-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Nov 14, 2025\n\n\nSierra Space announced completion of a series of critical pre-flight tests for its Dream Chaser spaceplane at NASA's Kennedy Space Center, marking progress toward the vehicle's first uncrewed mission. \n\nDream Chaser underwent Electromagnetic Interference and Electromagnetic Compatibility testing in NASA's Space Systems Processing Facility to confirm the spacecraft's operation in expected ele",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.267544Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33947,
+    "title": "Brazil gears up to harness ESA's Biomass data",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Brazil_gears_up_to_harness_ESAs_Biomass_data_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/brazil-distribution-above-ground-biomass-amazon-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Nov 14, 2025\n\n\nAs the COP30 climate conference gets underway in Brazil, the world's attention is once again drawn to the plight of the Amazon - the planet's largest and most vital rainforest. With the European Space Agency's Earth Explorer Biomass satellite now in orbit, ESA is helping Brazil prepare to transform this new mission's groundbreaking data into actionable knowledge for protecting the rainforest and",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.546044Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33936,
+    "title": "Race for first private space station heats up as NASA set to retire ISS",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Race_for_first_private_space_station_heats_up_as_NASA_set_to_retire_ISS_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/vast-space-station-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Lisbon (AFP) Nov 13, 2025\n\n\n With NASA's International Space Station set to come out of service in 2030, American aerospace firm Vast has stepped into a frenzied race for the world's first commercial space station. \n\nHaven-1 - a mini station scheduled for launch in May 2026 - has been designed for comfort, according to Andrew Feustel, a former NASA astronaut now an advisor at Vast. \n\n\"It has a three-year lifespan, and",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.249937Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33948,
+    "title": "CSES satellite tracks shifting South Atlantic anomaly and impact on solar cycle twenty five",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/CSES_satellite_tracks_shifting_South_Atlantic_anomaly_and_impact_on_solar_cycle_twenty_five_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-cses-south-atlantic-anomaly-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Nov 14, 2025\n\n\nThe South Atlantic anomaly represents the region of Earth's radiation belts with the highest particle concentrations and weakest geomagnetic shielding. This area poses risks to the electronics aboard low-Earth orbit satellites and to the health of astronauts. \n\nResearchers from the Institute of High Energy Physics of the Chinese Academy of Sciences, together with the National Institute of Na",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.559212Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33939,
+    "title": "Our Solar System Is Moving Faster Than Expected",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Our_Solar_System_Is_Moving_Faster_Than_Expected_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/milky-way-plan-view-fossil-galaxy-heracles-sun-position-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Bielefeld, Germany (SPX) Nov 14, 2025\n\n\nHow fast and in which direction is our solar system moving through the universe? This seemingly simple question is one of the key tests of our cosmological understanding. A research team led by astrophysicist Lukas Bohme at Bielefeld University has now found new answers, ones that challenge the established standard model of cosmology. The study's findings have just been published in the journal",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.295197Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33943,
+    "title": "Solar storm brings new chance of vivid auroras, signal disruptions",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Solar_storm_brings_new_chance_of_vivid_auroras_signal_disruptions_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/aurora-spix-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington (AFP) Nov 13, 2025\n\n\n Spectacular displays of auroras at abnormally low latitudes were expected again Wednesday night into Thursday, a result of intense solar activity which also carries risks to communication networks. \n\nAfter kicking off earlier this week, the rare event could continue until Thursday, according to the US National Oceanic and Atmospheric Administration (NOAA). \n\nThe phenomenon, which could be se",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.405744Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33941,
+    "title": "Europe commercial satellite life extension mission set for 2027",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Europe_commercial_satellite_life_extension_mission_set_for_2027_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ses-thales-alenia-space-ses-26-software-defined-geostationary-satellite-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London, UK (SPX) Nov 14, 2025\n\n\nInfinite Orbits and SES have agreed to conduct a geostationary satellite life extension mission, marking the first commercial undertaking of its kind in Europe. The operation will use Endurance, a 750kg docking satellite designed for in-orbit services. Launch is planned for 2027, and docking with a SES satellite is set to follow an in-orbit demonstration. \n\nThe agreement establishes Infinite",
+    "published_at": "2025-11-14T10:57:41Z",
+    "updated_at": "2025-11-14T18:50:14.355168Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -569,447 +996,6 @@
     "summary": "\nProject Kuiper has shed its seven-year-old code name, emerging as Amazon Leo Nov. 13 as the company nears the start of initial broadband services from the low Earth orbit constellation next year.\nThe post Project Kuiper becomes Amazon Leo ahead of LEO broadband service debut appeared first on SpaceNews.",
     "published_at": "2025-11-13T20:19:23Z",
     "updated_at": "2025-11-13T20:20:24.386232Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33906,
-    "title": "Firefly deepens push into defense market after closing SciTec acquisition",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/firefly-deepens-push-into-defense-market-after-closing-scitec-acquisition/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/G5FX0qCXEAA8JDk.jpeg?fit=800%2C533&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nOn its third-quarter earnings call Nov. 12, Firefly executives highlighted the company’s alignment with the Pentagon’s planned “Golden Dome” missile defense initiative\nThe post Firefly deepens push into defense market after closing SciTec acquisition appeared first on SpaceNews.",
-    "published_at": "2025-11-13T16:35:41Z",
-    "updated_at": "2025-11-13T16:40:23.331307Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33905,
-    "title": "A Stranger in Our Midst?",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/a-stranger-in-our-midst/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2025/perseverance-rover-updates/october-2025/Mars_Perseverance_ZL0_1629_0811552971_831EBY_N0790488ZCAM09712_1100LMJ.jpg",
-    "news_site": "NASA",
-    "summary": "Perseverance Encounters a Possible Meteorite Written by Candice Bedford, Research Scientist at Purdue University Oct. 1, 2025 During the rover’s recent investigation of the bedrock at “Vernodden,” Perseverance encountered an unusually shaped rock about 80 centimeters across (about 31 inches) called “Phippsaksla.” This rock was identified as a target of interest based on its sculpted, […]",
-    "published_at": "2025-11-13T16:04:27Z",
-    "updated_at": "2025-11-13T16:10:08.017086Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33904,
-    "title": "Dream Chaser proceeding, hits milestones despite uncertain future",
-    "authors": [
-      {
-        "name": "Sawyer Rosenstein",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/11/dream-chaser-milestones-future/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/207A6264a-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Dream Chaser, the vehicle that has been likened to a miniature version of NASA’s space…\nThe post Dream Chaser proceeding, hits milestones despite uncertain future appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-11-13T16:01:34Z",
-    "updated_at": "2025-11-13T16:01:58.742660Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33903,
-    "title": "What would a “simplified” Starship plan for the Moon actually look like?",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/11/what-would-a-simplified-starship-plan-for-the-moon-actually-look-like/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/07_24_25_HLS_on_surface_elevator_down_4d48994673.jpg",
-    "news_site": "Arstechnica",
-    "summary": "The problem is that it may be difficult to find options that both NASA and SpaceX like.",
-    "published_at": "2025-11-13T15:09:52Z",
-    "updated_at": "2025-11-13T15:20:04.278056Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33902,
-    "title": "ESI Motion Launches “SatBat,” a Revolutionary Space-Rated Battery Set to Redefine Power Systems in Low Earth Orbit",
-    "authors": [
-      {
-        "name": "ESI Motion",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/esi-motion-launches-satbat-a-revolutionary-space-rated-battery-set-to-redefine-power-systems-in-low-earth-orbit/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/ESI-Motion-Square-Logo.png?fit=969%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSimi Valley, CA — [November 13, 2025] — ESI Motion, a leader in advanced motion and power solutions, proudly announces the release of its next-generation space-rated satellite battery, SatBat, engineered […]\nThe post ESI Motion Launches “SatBat,” a Revolutionary Space-Rated Battery Set to Redefine Power Systems in Low Earth Orbit appeared first on SpaceNews.",
-    "published_at": "2025-11-13T15:00:00Z",
-    "updated_at": "2025-11-13T15:10:57.297396Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33901,
-    "title": "Countering China’s Space Silk Road: a U.S. partnership model for the Middle East",
-    "authors": [
-      {
-        "name": "Mathew Montiel",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/countering-chinas-space-silk-road-a-u-s-partnership-model-for-the-middle-east/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/uae-scaled.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Middle East is no longer asking whether it should develop domestic space capabilities; it’s deciding with whom it will develop them. If the United States wants to be the country of choice ahead of China, it must create a joint space partnership agreement framework to align American and partner nations’ industry, government and financial […]\nThe post Countering China’s Space Silk Road: a U.S. partnership model for the Middle East appeared first on SpaceNews.",
-    "published_at": "2025-11-13T14:00:00Z",
-    "updated_at": "2025-11-13T14:00:24.677445Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33898,
-    "title": "NASA Patent Remix Challenge",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-patent-remix-challenge/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/patent-remix-challenge-promotional-image.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Technology Transfer Office invites entrepreneurs, innovators, and creative thinkers to apply NASA’s patented technologies to practical applications. Participants will select an existing NASA patent and develop a business or product concept that will be evaluated based on value proposition, business model viability, development feasibility, and quality of presentation. Entries should clearly demonstrate creativity, feasibility, […]",
-    "published_at": "2025-11-13T13:38:48Z",
-    "updated_at": "2025-11-13T13:40:05.591010Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33899,
-    "title": "Live coverage: ULA to launch ViaSat-3 following valve replacement on Atlas 5 rocket",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/11/13/live-coverage-ula-to-launch-viasat-3-following-valve-replacement-on-atlas-5-rocket/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/11/20251113_ViaSat-3_F2_pad_AB-2.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The mission is the second of three planned spacecraft that Viasat plans to operate in geostationary orbit. United Launch Alliance is targeting liftoff from pad 41 at Cape Canaveral Space Force Station at 10:04 p.m. EST (0304 UTC). ",
-    "published_at": "2025-11-13T13:37:48Z",
-    "updated_at": "2025-11-13T13:40:19.783773Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33900,
-    "title": "Keeping America first in space",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/keeping-america-first-in-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/070325-space-minds-podcast-moon-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this episode of Space Minds, host David Ariosto speaks with Jim Bridenstine, former NASA Administrator and U.S. Congressman, who oversaw the launch of the Artemis program—America’s renewed effort to return astronauts to the Moon.\nThe post Keeping America first in space appeared first on SpaceNews.",
-    "published_at": "2025-11-13T13:34:44Z",
-    "updated_at": "2025-11-13T13:40:19.973453Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33897,
-    "title": "Live coverage: Blue Origin to launch NASA’s ESCAPADE following scrubs from clouds, space weather",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/11/13/live-coverage-blue-origin-to-launch-nasas-escapade-following-scrubs-from-clouds-space-weather/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/11/20251113_NG-2_pad_BO.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "Blue Origin was able to secure permission from the Federal Aviation Administration for a daytime launch attempt while the emergency order constraining commercial launches remains in place even after the end of the government shutdown. Liftoff is scheduled during an 88-minute-long window that opens at 2:57 p.m. EST (1957 UTC). ",
-    "published_at": "2025-11-13T13:17:28Z",
-    "updated_at": "2025-11-13T13:20:20.557931Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33894,
-    "title": "Spectrum Rocket Stages Arrive at Launch Facility for Second Flight",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/spectrum-rocket-stages-arrive-at-launch-facility-for-second-flight/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/Spectrum-Rocket-Stages-Arrive-at-Launch-Facility-for-Second-Flight.webp",
-    "news_site": "European Spaceflight",
-    "summary": "German launch services provider Isar Aerospace has announced that the stages for the second flight of its Spectrum rocket have arrived at its launch facility in Norway. Isar Aerospace launched the inaugural flight of its 28-metre, two-stage Spectrum rocket on 30 March. Less than thirty seconds after liftoff, the rocket’s Flight Termination System was triggered […]\nThe post Spectrum Rocket Stages Arrive at Launch Facility for Second Flight appeared first on European Spaceflight.",
-    "published_at": "2025-11-13T12:51:42Z",
-    "updated_at": "2025-11-13T13:00:14.407300Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33896,
-    "title": "A close-up look <br>at the first metal <br>part made in space",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_close-up_look_br_at_the_first_metal_br_part_made_in_space",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/3d-printed_space_metal_under_microscope/26968312-1-eng-GB/3D-printed_space_metal_under_microscope_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "This February, the first-ever metal part 3D-printed in space landed on Earth. Produced in the European Space Agency’s Metal 3D Printer Technology Demonstrator on the International Space Station, it is now in the hands of ESA’s engineers at ESTEC, the agency’s technical centre in the Netherlands, who poke and prod it to understand how microgravity affected its printing process.",
-    "published_at": "2025-11-13T12:50:00Z",
-    "updated_at": "2025-11-13T13:00:16.903254Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33892,
-    "title": "Lux Aeterna nets US government partnerships for reusable satellite technology",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/lux-aeterna-nets-us-government-partnerships-for-reusable-satellite-technology/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Lux-Aeterna-heat-shield-scaled.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLux Aeterna is attracting growing interest from across the U.S. government for heat shield technology designed to make satellites fully reusable, securing two partnership agreements since emerging from stealth in June.\nThe post Lux Aeterna nets US government partnerships for reusable satellite technology appeared first on SpaceNews.",
-    "published_at": "2025-11-13T12:05:00Z",
-    "updated_at": "2025-11-13T12:10:17.061931Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33893,
-    "title": "‘Uncontrolled experiment:’ Study links harmful atmospheric metals to spacecraft reentry",
-    "authors": [
-      {
-        "name": "Leonard David",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/uncontrolled-experiment-study-links-harmful-atmospheric-metals-to-spacecraft-reentry/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/PHOTO-1-space-debris-The-Aerospace-Corporation.jpg?fit=479%2C270&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGOLDEN, CO — The surge in megasatellite constellations is creating problems beyond amplifying the Earth-circling space debris, according to new research. Reentering spacecraft and rocket stages may also be damaging Earth’s atmosphere, as well as increasing the risk of space waste hitting the Earth. New research posted to the preprint database ArXiv finds that “space […]\nThe post ‘Uncontrolled experiment:’ Study links harmful atmospheric metals to spacecraft reentry appeared first on SpaceNews.",
-    "published_at": "2025-11-13T12:00:00Z",
-    "updated_at": "2025-11-13T12:10:17.124911Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33891,
-    "title": "Ground truth: Why the lunar program needs its Earthbound network",
-    "authors": [
-      {
-        "name": "Kevin Dunne",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/ground-truth-why-the-lunar-program-needs-its-earthbound-network/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/01/rsz_pia24163.jpg?fit=879%2C659&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAs the world prepares to return to the moon, much of the attention remains fixed on the visible frontier: the rockets, landers and orbital stations that will make it possible. Yet the success of this new era in exploration depends on something far less visible — the communications infrastructure that keeps those missions alive once […]\nThe post Ground truth: Why the lunar program needs its Earthbound network appeared first on SpaceNews.",
-    "published_at": "2025-11-13T11:00:00Z",
-    "updated_at": "2025-11-13T11:10:19.669934Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33890,
-    "title": "SES expands launch contract with Relativity Space",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ses-expands-launch-contract-with-relativity-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/terranr-2025.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nRelativity Space, a launch startup developing a reusable rocket, has expanded a contract to provide launches for satellite operator SES.\nThe post SES expands launch contract with Relativity Space appeared first on SpaceNews.",
-    "published_at": "2025-11-13T10:25:42Z",
-    "updated_at": "2025-11-13T10:30:19.610718Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33895,
-    "title": "Brazil gears up to harness ESA’s Biomass data",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Brazil_gears_up_to_harness_ESA_s_Biomass_data",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/forest_floor_and_forest_canopy/26969854-1-eng-GB/Forest_floor_and_forest_canopy_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "As the COP30 climate conference gets underway in Brazil, the world’s attention is once again drawn to the plight of the Amazon – the planet’s largest and most vital rainforest. With the European Space Agency’s Earth Explorer Biomass satellite now in orbit, ESA is helping Brazil prepare to transform this new mission’s groundbreaking data into actionable knowledge for protecting the rainforest and confronting climate change.",
-    "published_at": "2025-11-13T09:01:00Z",
-    "updated_at": "2025-11-13T13:00:16.373665Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33888,
-    "title": "France Reveals New Space Strategy with Major Spending Increase",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/france-reveals-new-space-strategy-with-major-spending-increase/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/France-Reveals-New-Space-Strategy-with-Major-Spending-Increase.webp",
-    "news_site": "European Spaceflight",
-    "summary": "At the inauguration of France’s first Space Command facility in Toulouse on Wednesday, President Emmanuel Macron unveiled a new national space strategy defining the country’s civil and military priorities. Macron opened his speech with a stark warning, declaring that “space is no longer a sanctuary; it has become a battlefield.” He warned that “aggressive powers […]\nThe post France Reveals New Space Strategy with Major Spending Increase appeared first on European Spaceflight.",
-    "published_at": "2025-11-13T07:49:52Z",
-    "updated_at": "2025-11-13T07:50:17.584304Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33887,
-    "title": "Longest Government Shutdown in History Ends After 43 days",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/longest-government-shutdown-in-history-ends-after-43-days/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/11/Screen-Shot-2025-11-12-at-08.22.26.820-PM-300x169.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "The House approved Senate-passed legislation this evening ending the 43-day government shutdown. The bill includes full-year funding for agencies covered by three of the 12 appropriations bills. Agencies in the […]",
-    "published_at": "2025-11-13T01:44:39Z",
-    "updated_at": "2025-11-13T02:00:17.829426Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33886,
-    "title": "Firefly identifies cause of Alpha booster test failure",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/firefly-identifies-cause-of-alpha-booster-test-failure/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/53391894924_67f8907238_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFirefly Aerospace says contamination in a fluid line caused the loss in September of an Alpha first stage being tested for an upcoming launch.\nThe post Firefly identifies cause of Alpha booster test failure appeared first on SpaceNews.",
-    "published_at": "2025-11-13T00:01:20Z",
-    "updated_at": "2025-11-13T00:10:24.946279Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33885,
-    "title": "Airspace closure suggests China is preparing for a Shenzhou landing after debris impact scare",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/airspace-closure-suggests-china-is-preparing-for-a-shenzhou-landing-after-debris-impact-scare/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/Shenzhou20-docking-view-of-Tiangong-24april2025-CMSA.jpg?fit=1024%2C655&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nChina issued an airspace closure notice, suggesting preparations for a spacecraft landing days after a suspected debris strike delayed the planned return of Shenzhou-20.\nThe post Airspace closure suggests China is preparing for a Shenzhou landing after debris impact scare appeared first on SpaceNews.",
-    "published_at": "2025-11-12T22:38:47Z",
-    "updated_at": "2025-11-12T22:40:17.362521Z",
     "featured": false,
     "launches": [],
     "events": [],
