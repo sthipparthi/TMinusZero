@@ -1,6 +1,6 @@
 {
-  "count": 13,
-  "last_updated": "2025-11-15T00:04:18.453809Z",
+  "count": 12,
+  "last_updated": "2025-11-15T06:01:30.544307Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,59 +10,10 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (5 successful)",
+    "AI-generated summaries (4 successful)",
     "Empty AI summaries (8 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "fdb8c931-b1ec-441e-b0ce-75f7a8799189",
-      "name": "Falcon 9 Block 5 | Starlink Group 6-89",
-      "status": "Go",
-      "net": "2025-11-14T01:08:00Z",
-      "window_start": "2025-11-14T01:08:00Z",
-      "window_end": "2025-11-14T05:08:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Starlink Group 6-89",
-      "mission_description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mission_type": "Communications",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Launch Complex 39A, Kennedy Space Center, FL, USA",
-      "pad": "Launch Complex 39A",
-      "location": "Kennedy Space Center, FL, USA",
-      "rocket": "Falcon 9 Block 5",
-      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
-      "rocket_config_family": "Falcon",
-      "rocket_config_full_name": "Falcon 9 Block 5",
-      "rocket_config_total_launch_count": 499,
-      "rocket_config_successful_launches": 498,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 105,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 592,
-      "rocket_manufacturer_successful_launches": 577,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/fdb8c931-b1ec-441e-b0ce-75f7a8799189/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 10,
-          "title": "Starlink Mission",
-          "description": "Livestream on X",
-          "feature_image": "https://pbs.twimg.com/media/G4hNrAnXMAAqRuJ.jpg",
-          "url": "https://x.com/i/broadcasts/1mnxeNjrMvnKX"
-        }
-      ],
-      "ai_summary": "SpaceX will launch Falcon 9 Block 5 | Starlink Group 6-89 from Launch Complex 39A, Kennedy Space Center, FL, USA using their Falcon 9 rocket. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability. This Communications mission involves A batch of 29 satellites for the Starlink mega-constellation."
-    },
     {
       "id": "098173dc-9630-4954-ac95-bd0ec221074e",
       "name": "Falcon 9 Block 5 | Starlink Group 6-85",
@@ -599,8 +550,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 5,
+    "successful_summaries": 4,
     "empty_summaries": 8,
-    "total_launches": 13
+    "total_launches": 12
   }
 }
