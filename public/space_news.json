@@ -1,5 +1,32 @@
 [
   {
+    "id": 33969,
+    "title": "Dream Chaser completes key tests ahead of first flight",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/dream-chaser-completes-key-tests-ahead-of-first-flight/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/dreamchaser-towtest.jpeg?fit=1024%2C585&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSierra Space has completed key testing milestones for its Dream Chaser vehicle as the company explores both civil and national security missions for the spaceplane.\nThe post Dream Chaser completes key tests ahead of first flight appeared first on SpaceNews.",
+    "published_at": "2025-11-16T09:13:30Z",
+    "updated_at": "2025-11-16T09:20:18.542885Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 33968,
     "title": "Record doubleheader: SpaceX launches 2 Falcon 9 rockets from Florida",
     "authors": [
@@ -40,40 +67,40 @@
     "detailed_news": ""
   },
   {
-    "id": 33960,
-    "title": "Reading a quantum clock costs more energy than running it, study finds",
+    "id": 33965,
+    "title": "New research with GW230814 upholds Hawking black hole area law",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Reading_a_quantum_clock_costs_more_energy_than_running_it_study_finds_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/oxford-dilution-fridge-quantum-clock-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/New_research_with_GW230814_upholds_Hawking_black_hole_area_law_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/pulsars-detect-gravitational-waves-pairs-supermassive-black-holes-artwork-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Oxford UK (SPX) Nov 15, 2025\n\n\nA study led by the University of Oxford has identified a surprising source of entropy in quantum timekeeping - the act of measurement itself. In a study published 14 Nov in Physical Review Letters, scientists demonstrate that the energy cost of reading a quantum clock far outweighs the cost of running it, with implications for the design of future quantum technologies. \n\nClocks, whether pend",
+    "summary": "Tokyo, Japan (SPX) Nov 15, 2025\n\n\nResearchers from Purple Mountain Observatory have conducted an observational test of the black hole area law. Using the gravitational-wave event GW230814, which features a high signal-to-noise ratio, the team closely examined the event horizons of merging black holes. The black hole area law, first proposed by Stephen Hawking in 1971, predicts that the total event horizon area after a merger wil",
     "published_at": "2025-11-15T09:46:55Z",
-    "updated_at": "2025-11-15T09:50:11.450425Z",
+    "updated_at": "2025-11-15T09:50:11.497160Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 33958,
-    "title": "ESA pinpoints 3I/ATLAS's path with data from Mars",
+    "id": 33964,
+    "title": "Chang'e-6 lunar mission finds impact-created hematite and maghemite in SPA Basin samples",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/ESA_pinpoints_3I_ATLASs_path_with_data_from_Mars_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/interstellar-comet-3i-atlas-trajectory-observing-opportunities-esa-satellites-bg.jpg",
+    "url": "https://www.moondaily.com/reports/Change_6_lunar_mission_finds_impact_created_hematite_and_maghemite_in_SPA_Basin_samples_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/change-6-lunar-sample-formation-scenario-of-ferric-oxides-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (ESA) Nov 14, 2025\n\n\nSince comet 3I/ATLAS, the third known interstellar object, was discovered on 1 July 2025, astronomers worldwide have worked to predict its trajectory. ESA has now improved the comet's predicted location by a factor of 10, thanks to the innovative use of observation data from our ExoMars Trace Gas Orbiter (TGO) spacecraft orbiting Mars. \n\nBy being able to use Mars-based data for an unusual ob",
+    "summary": "Tokyo, Japan (SPX) Nov 15, 2025\n\n\nResearchers from the Institute of Geochemistry, Chinese Academy of Sciences (IGCAS), and Shandong University have identified, for the first time, crystalline hematite and maghemite produced by a major impact event in lunar soil returned from the South Pole-Aitken (SPA) Basin by China's Chang'e-6 mission. These findings, published in Science Advances, offer direct evidence from lunar samples indi",
     "published_at": "2025-11-15T09:46:55Z",
-    "updated_at": "2025-11-15T09:50:11.408675Z",
+    "updated_at": "2025-11-15T09:50:11.485979Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -100,20 +127,20 @@
     "detailed_news": ""
   },
   {
-    "id": 33965,
-    "title": "New research with GW230814 upholds Hawking black hole area law",
+    "id": 33958,
+    "title": "ESA pinpoints 3I/ATLAS's path with data from Mars",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/New_research_with_GW230814_upholds_Hawking_black_hole_area_law_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/pulsars-detect-gravitational-waves-pairs-supermassive-black-holes-artwork-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/ESA_pinpoints_3I_ATLASs_path_with_data_from_Mars_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/interstellar-comet-3i-atlas-trajectory-observing-opportunities-esa-satellites-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 15, 2025\n\n\nResearchers from Purple Mountain Observatory have conducted an observational test of the black hole area law. Using the gravitational-wave event GW230814, which features a high signal-to-noise ratio, the team closely examined the event horizons of merging black holes. The black hole area law, first proposed by Stephen Hawking in 1971, predicts that the total event horizon area after a merger wil",
+    "summary": "Paris, France (ESA) Nov 14, 2025\n\n\nSince comet 3I/ATLAS, the third known interstellar object, was discovered on 1 July 2025, astronomers worldwide have worked to predict its trajectory. ESA has now improved the comet's predicted location by a factor of 10, thanks to the innovative use of observation data from our ExoMars Trace Gas Orbiter (TGO) spacecraft orbiting Mars. \n\nBy being able to use Mars-based data for an unusual ob",
     "published_at": "2025-11-15T09:46:55Z",
-    "updated_at": "2025-11-15T09:50:11.497160Z",
+    "updated_at": "2025-11-15T09:50:11.408675Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -134,26 +161,6 @@
     "summary": "Los Angeles CA (SPX) Nov 15, 2025\n\nVartis Space Corp. has introduced the Vartis Space Clock, an open-source framework that enables independent synchronization of zero-time reference points for space operations without relying on Earth-based signals. \n\nThe company describes the clock framework as a step toward establishing a temporal infrastructure that supports satellites, lunar operations, and missions throughout the Solar S",
     "published_at": "2025-11-15T09:46:55Z",
     "updated_at": "2025-11-15T09:50:11.468854Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33964,
-    "title": "Chang'e-6 lunar mission finds impact-created hematite and maghemite in SPA Basin samples",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/Change_6_lunar_mission_finds_impact_created_hematite_and_maghemite_in_SPA_Basin_samples_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/change-6-lunar-sample-formation-scenario-of-ferric-oxides-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 15, 2025\n\n\nResearchers from the Institute of Geochemistry, Chinese Academy of Sciences (IGCAS), and Shandong University have identified, for the first time, crystalline hematite and maghemite produced by a major impact event in lunar soil returned from the South Pole-Aitken (SPA) Basin by China's Chang'e-6 mission. These findings, published in Science Advances, offer direct evidence from lunar samples indi",
-    "published_at": "2025-11-15T09:46:55Z",
-    "updated_at": "2025-11-15T09:50:11.485979Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -194,6 +201,26 @@
     "summary": "Tokyo, Japan (SPX) Nov 15, 2025\n\n\nResearchers led by the Department of Astronomy at Tsinghua University have identified a galaxy labeled CR3, which shows evidence of containing stars from the earliest phase of the universe. The team used data from the James Webb Space Telescope, the Very Large Telescope, and the Subaru Telescope to examine CR3. It is situated almost 11.5 billion years in the past, at the epoch known as cosmic no",
     "published_at": "2025-11-15T09:46:55Z",
     "updated_at": "2025-11-15T09:50:11.459544Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 33960,
+    "title": "Reading a quantum clock costs more energy than running it, study finds",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Reading_a_quantum_clock_costs_more_energy_than_running_it_study_finds_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/oxford-dilution-fridge-quantum-clock-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Oxford UK (SPX) Nov 15, 2025\n\n\nA study led by the University of Oxford has identified a surprising source of entropy in quantum timekeeping - the act of measurement itself. In a study published 14 Nov in Physical Review Letters, scientists demonstrate that the energy cost of reading a quantum clock far outweighs the cost of running it, with implications for the design of future quantum technologies. \n\nClocks, whether pend",
+    "published_at": "2025-11-15T09:46:55Z",
+    "updated_at": "2025-11-15T09:50:11.450425Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -962,33 +989,6 @@
     "summary": "\nVirgin Galactic says it remains on schedule to complete development of its next-generation suborbital spaceplane and begin commercial flights before the end of 2026.\nThe post Virgin Galactic on track to begin commercial flights in 2026 appeared first on SpaceNews.",
     "published_at": "2025-11-14T08:41:11Z",
     "updated_at": "2025-11-14T08:50:22.957856Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 33921,
-    "title": "ULA launches Viasat’s second shot at a terabit-class broadband satellite",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ula-launches-viasats-second-shot-at-a-terabit-class-broadband-satellite/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/ULA-ViaSat-3.jpeg?fit=1024%2C731&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAn Atlas 5 rocket sent Viasat’s second ViaSat-3 satellite toward geostationary orbit Nov. 13, bringing the U.S. broadband provider closer to operating a terabit-per-second giant it had hoped to debut six years ago.\nThe post ULA launches Viasat’s second shot at a terabit-class broadband satellite appeared first on SpaceNews.",
-    "published_at": "2025-11-14T08:07:54Z",
-    "updated_at": "2025-11-14T08:10:24.064496Z",
     "featured": false,
     "launches": [],
     "events": [],
