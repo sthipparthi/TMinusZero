@@ -1,5 +1,52 @@
 [
   {
+    "id": 34084,
+    "title": "Preparing pads for SpaceX’s future Starship cadence",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/11/preparing-pads-spacexs-starship-cadence/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/NSF-2025-11-20-01-03-19-716.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "As SpaceX ramps up production and testing of its Starship vehicles and engines, significant advancements…\nThe post Preparing pads for SpaceX’s future Starship cadence appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-11-20T04:47:38Z",
+    "updated_at": "2025-11-20T04:50:17.177228Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34083,
+    "title": "SSC introduces streamlined ground station service",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/ssc-introduces-streamlined-ground-station-service/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/sscgo.jpeg?fit=1024%2C671&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSwedish Space Corp. has rolled out a new ground station service designed to provide streamlined support for operators of small satellites and constellations.\nThe post SSC introduces streamlined ground station service appeared first on SpaceNews.",
+    "published_at": "2025-11-20T03:56:04Z",
+    "updated_at": "2025-11-20T04:01:10.032715Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34082,
     "title": "Celebrating 25 Years of Humanity in Space",
     "authors": [
@@ -963,46 +1010,6 @@
     "summary": "\nAs someone deeply involved in the space sector, I’ve seen firsthand how low Earth orbit (LEO) is becoming increasingly congested. Satellite operators, space agencies and aerospace companies are all facing a growing threat from orbital debris. With more than 10,000 active satellites already in orbit and millions of smaller fragments accumulating, the risk of collision […]\nThe post The next generation of radar needed to detect micro-debris and enable a safer LEO  appeared first on SpaceNews.",
     "published_at": "2025-11-18T16:00:00Z",
     "updated_at": "2025-11-18T16:10:25.151294Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34034,
-    "title": "Avoiding a harmful lunar ‘gold rush’",
-    "authors": [
-      {
-        "name": "Ian Crawford",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/avoiding-a-harmful-lunar-gold-rush/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/PHOTO-1-INTERLUNE.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAs shown by the recent SpaceNews editorials by Mustafa Bilal and Stirling Forbes, there is currently much talk of a coming lunar “gold rush,” with nations and companies seemingly in a mad scramble to access the moon for its alleged resources. But how realistic is this vision, and could the pursuit of it do more harm […]\nThe post Avoiding a harmful lunar ‘gold rush’ appeared first on SpaceNews.",
-    "published_at": "2025-11-18T14:00:00Z",
-    "updated_at": "2025-11-18T14:20:18.593312Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34033,
-    "title": "ArianeGroup–Avio Deal Outlines Extended Transition of Turbopump Manufacturing to France",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/arianegroup-avio-deal-outlines-extended-transition-of-turbopump-manufacturing-to-france/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/ArianeGroup%E2%80%93Avio-Deal-Outlines-Extended-Transition-of-Turbopump-Manufacturing-to-France.webp",
-    "news_site": "European Spaceflight",
-    "summary": "A new agreement between ArianeGroup and Avio has renewed questions about when the production of Ariane 6 turbopumps will be transferred from Italy to France. The transfer was intended to offset Vernon losing the responsibility for Vinci upper stage integration to Lampoldshausen in Germany, as agreed during the 2019 ESA Ministerial Council meeting in Seville. […]\nThe post ArianeGroup–Avio Deal Outlines Extended Transition of Turbopump Manufacturing to France appeared first on European Spaceflight.",
-    "published_at": "2025-11-18T13:09:56Z",
-    "updated_at": "2025-11-18T13:10:12.668628Z",
     "featured": false,
     "launches": [],
     "events": [],
