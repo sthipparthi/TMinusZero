@@ -1,5 +1,305 @@
 [
   {
+    "id": 34082,
+    "title": "Celebrating 25 Years of Humanity in Space",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/celebrating-25-years-of-humanity-in-space/",
+    "image_url": "https://images-assets.nasa.gov/image/iss073e0420732/iss073e0420732~large.jpg",
+    "news_site": "NASA",
+    "summary": "In 2025, NASA and its international partners celebrate 25 years of continuous human presence aboard the International Space Station. Since November 2, 2000, more than 290 people from 26 countries have lived and worked aboard the orbiting laboratory, conducting thousands of experiments that have advanced science and technology on Earth and paved the way for […]",
+    "published_at": "2025-11-19T22:52:52Z",
+    "updated_at": "2025-11-19T23:00:11.890459Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34081,
+    "title": "NASA’s X-59 Completes First Flight, Prepares for More Flight Testing",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-completes-first-flight-prepares-for-more-flight-testing/",
+    "image_url": "https://images-assets.nasa.gov/image/AFRC2025-0168-038/AFRC2025-0168-038~large.jpg",
+    "news_site": "NASA",
+    "summary": "After years of design, development, and testing, NASA’s X-59 quiet supersonic research aircraft took to the skies for the first time Oct. 28, marking a historic moment for the field of aeronautics research and the agency’s Quesst mission. The X-59, designed to fly at supersonic speeds and reduce the sound of loud sonic booms to […]",
+    "published_at": "2025-11-19T22:08:10Z",
+    "updated_at": "2025-11-19T22:10:07.150027Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34072,
+    "title": "SARP 2025 Closeout",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/earth-science/sarp-2025-closeout/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/sarp-east-5479.jpg",
+    "news_site": "NASA",
+    "summary": "In August 2025, 47 students from NASA’s Student Airborne Research Program (SARP) culminated a summer of science by presenting their research to an audience of mentors, professors, family, friends, and NASA personnel. SARP is a summer internship for undergraduate students, hosted in two cohorts: this year SARP West operated out of Guardian Jet Center and University of California, […]",
+    "published_at": "2025-11-19T21:15:09Z",
+    "updated_at": "2025-11-19T21:20:05.889366Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34073,
+    "title": "SARP East 2025 Atmospheric Chemistry Group",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/earth-science/sarp-east-2025-atmospheric-chemistry-group/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/sarp-east-6234.jpg",
+    "news_site": "NASA",
+    "summary": "Faculty Advisor: Stacey Hughes, University of New Hampshire Graduate Mentor: Katherine Paredero, Georgia Institute of Technology Atmospheric Chemistry Group Introduction Faculty Advisor Stacey Hughes and Graduate Mentor Katherine Paredero Kaylena Pham Spooky Swamps: How Methane Emission Rates and Their Spatial Variability Differ Between the Great Dismal Swamp and the Alligator River  Kaylena Pham, University of […]",
+    "published_at": "2025-11-19T21:14:40Z",
+    "updated_at": "2025-11-19T21:20:05.927167Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34074,
+    "title": "SARP East 2025 Terrestrial Fluxes Group",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/earth-science/sarp-east-2025-terrestrial-fluxes-group/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/sarp-east-6188.jpg",
+    "news_site": "NASA",
+    "summary": "Faculty Advisors: Lisa Haber, Virginia Commonwealth University Brandon Alveshere, Virginia Commonwealth University Graduate Mentor: Kayla Preisler, University of Arizona Terrestrial Fluxes Group Introduction Rice Rivers Center Director Chris Gough and Graduate Mentor Kayla Preisler Quinn Koch Monitoring Postfire Ecosystem Recovery With Spectral Indices and Eddy-Covariance Flux Towers  Quinn Koch, University of California, Los Angeles  Fire […]",
+    "published_at": "2025-11-19T21:14:18Z",
+    "updated_at": "2025-11-19T21:20:05.938468Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34075,
+    "title": "SARP East 2025 Oceans Group",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/earth-science/sarp-east-2025-oceans-group/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/sarp-east-6258.jpg",
+    "news_site": "NASA",
+    "summary": "Faculty Advisors: Tom Bell, Woods Hole Oceanographic Institute Graduate Mentor: Sarah Lang, University of Rhode Island Oceans Group Introduction Faculty Advisor Tom Bell and Graduate Mentor Sarah Lang Isabella Showman  Detecting Coastal Sea Ice Extent and Freshet Event Timing in Prudhoe Bay, Alaska Using Sentinel-1 C-SAR  Isabella Showman, University of Washington  The detachment of coastal […]",
+    "published_at": "2025-11-19T21:13:57Z",
+    "updated_at": "2025-11-19T21:20:05.949227Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34076,
+    "title": "SARP West 2025 Aerosols Group",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/earth-science/sarp-west-2025-aerosols-group/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/sarp-west-loiacono-6999.jpg",
+    "news_site": "NASA",
+    "summary": "Faculty Advisors: Andreas Beyersdorf, California State University, San Bernardino  Graduate Mentor: Bradley Ries, University of California, Riverside  Aerosols Group Introduction Faculty Advisor Andreas Beyersdorf Martha Santiago Aerosol Pollution in Two Coastal Agricultural Regions in the United States  Martha Santiago, Northwestern University  Although air quality has improved across the United States since the passage of the […]",
+    "published_at": "2025-11-19T21:13:43Z",
+    "updated_at": "2025-11-19T21:20:05.970579Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34077,
+    "title": "SARP West 2025 Land Group",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/earth-science/sarp-west-2025-land-group/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/sarp-west-loiacono-7014.jpg",
+    "news_site": "NASA",
+    "summary": "Faculty Advisors: Daniel Sousa, San Diego State University  Graduate Mentor: Megan Ward-Baranyay, San Diego State University  Land Group Introduction Faculty Advisor Daniel Sousa Robert Purvis Fractional cover estimates of the epiphytic macrolichen Ramalina menziesii in oak canopies from simulated mixed spectra and airborne imaging spectroscopy  Robert Purvis, Western Kentucky University  Lichens, a symbiotic relationship between […]",
+    "published_at": "2025-11-19T21:13:15Z",
+    "updated_at": "2025-11-19T21:20:05.982881Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34078,
+    "title": "SARP West 2025 Oceans Group",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/earth-science/sarp-west-2025-oceans-group/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/sarp-west-loiacono-6994.jpg",
+    "news_site": "NASA",
+    "summary": "Faculty Advisor: Henry Houskeper, Woods Hole Oceanographic Institute  Graduate Mentor: Camille Pawlak, University of California, Los Angeles  Oceans Group Introduction Faculty Advisor Henry Housekeeper Molly McKellar Spatiotemporal dynamics of canopy-forming kelp forests in the Russian province of Kamchatka  Maria (Molly) McKellar, University of Wisconsin, Madison  Interannual variability in canopy-forming kelps and the environmental conditions in […]",
+    "published_at": "2025-11-19T21:13:06Z",
+    "updated_at": "2025-11-19T21:20:05.994610Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34079,
+    "title": "SARP West 2025 Whole Air Sampling Group",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/earth-science/sarp-west-2025-whole-air-sampling-group/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/sarp-west-loiacono-7018.jpg",
+    "news_site": "NASA",
+    "summary": "Faculty Advisor: Donald Blake, University of California, Irvine Graduate Mentor: Oluwaseun Moses Akinola, University of Connecticut Whole Air Sampling Group Introduction Faculty Advisor Donald Blake Sarah Kinlaw Impact of Dairies on Ozone Production in Ontario, CA  Sarah Kinlaw, College of William & Mary  In the center of Ontario, California’s urban sprawl sits 5 square miles […]",
+    "published_at": "2025-11-19T21:12:57Z",
+    "updated_at": "2025-11-19T21:20:06.008286Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34080,
+    "title": "SARP East 2025 Ecohydrology Group",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/earth-science/sarp-east-2025-ecohydrology-group/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/sarp-east-6224.jpg",
+    "news_site": "NASA",
+    "summary": "Faculty Advisor: Dom Ciruzzi, William & Mary Graduate Mentor: Sarah Payne, University of California, Santa Barbara Ecohydrology Group Introduction Faculty Advisor Dom Ciruzzi and Graduate Mentor Sarah Payne Ethan Bledsoe Uncovering Hidden Green to Reveal Water: Can Spectral Unmixing of Vegetation Reduce Evapotranspiration Bias in Semi-Arid Landscapes?  Ethan Bledsoe, Northwestern University  Deserts push life to its […]",
+    "published_at": "2025-11-19T21:11:29Z",
+    "updated_at": "2025-11-19T21:20:06.018891Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34070,
+    "title": "NASA’s Mars Spacecraft Capture Images of Comet 3I/ATLAS",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/solar-system/planets/mars/nasas-mars-spacecraft-capture-images-of-comet-3i-atlas/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/1-hirise-clean-nasagov.jpg",
+    "news_site": "NASA",
+    "summary": "Two orbiters and a rover captured images of the interstellar object — from the closest location any of the agency’s spacecraft may get — that could reveal new details. At the start of October, three of NASA’s Mars spacecraft had front row seats to view 3I/ATLAS, only the third interstellar object so far discovered in […]",
+    "published_at": "2025-11-19T20:56:57Z",
+    "updated_at": "2025-11-19T21:00:13.949917Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34071,
+    "title": "View Interstellar Comet 3I/ATLAS Through NASA’s Multiple Lenses",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/solar-system/view-interstellar-comet-3i-atlas-through-nasas-multiple-lenses/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/comets/3i-atlas/2025/MRO%20HiRISE-CLEAN%20FINAL.tif",
+    "news_site": "NASA",
+    "summary": "This article was updated to include the full range of dates from the SOHO image. Lee esta historia en español aquí. NASA is in the midst of an unprecedented solar system-wide observation campaign, turning its spacecraft and space telescopes to follow comet 3I/ATLAS, the third known interstellar object to pass through our solar system. Twelve […]",
+    "published_at": "2025-11-19T20:15:26Z",
+    "updated_at": "2025-11-19T21:10:06.625851Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34069,
+    "title": "Italian-Dutch space company Revolv Space launches new, larger solar array drive assembly",
+    "authors": [
+      {
+        "name": "Jarosław Adamowski",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/italian-dutch-space-company-revolv-space-launches-new-larger-solar-array-drive-assembly/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/1-Revolv.png?fit=1024%2C596&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWARSAW, Poland — Italian-Dutch company Revolv Space has its first customer for the company’s next-generation solar array drive assembly (SADA) for medium-sized platforms and constellations, a product known as MARA. Filippo Oggionni, the chief commercial officer and co-founder of Revolv Space, told SpaceNews that the company has sold 10 units of MARA, which Revolve launched […]\nThe post Italian-Dutch space company Revolv Space launches new, larger solar array drive assembly appeared first on SpaceNews.",
+    "published_at": "2025-11-19T18:28:10Z",
+    "updated_at": "2025-11-19T18:30:25.780975Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34068,
+    "title": "TESTING – DUMMY DOC",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/uncategorized/testing-dummy-doc/",
+    "image_url": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/image-carousel-example-01.jpg",
+    "news_site": "NASA",
+    "summary": "BLAH BLAH BLAH",
+    "published_at": "2025-11-19T17:49:36Z",
+    "updated_at": "2025-11-19T18:10:07.129480Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34067,
     "title": "NASA Cassini Study Finds Organics ‘Fresh’ From Ocean of Enceladus",
     "authors": [
@@ -201,26 +501,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34057,
-    "title": "‘Department of War’ Executive Order should prioritize readiness against space stalkers",
-    "authors": [
-      {
-        "name": "Brian G. Chow",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/department-of-war-executive-order-should-prioritize-readiness-against-space-stalkers/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/09/Taiwan-scaled.jpg?fit=1024%2C681&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe administration has yet to follow up on its 200th Executive Order, which called for enhanced readiness. This silence represents a profound missed opportunity. Amidst a severe, persistent partisan divide, focusing on genuine military readiness offers a pathway for non-partisan decisions. To ensure this initiative cost-effectively achieves its goal of preparing for war so as […]\nThe post ‘Department of War’ Executive Order should prioritize readiness against space stalkers  appeared first on SpaceNews.",
-    "published_at": "2025-11-19T14:00:00Z",
-    "updated_at": "2025-11-19T14:10:24.760303Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34058,
     "title": "Quindar raises $18 million to scale satellite operations software",
     "authors": [
@@ -235,6 +515,26 @@
     "summary": "\nStartup founded by ex-OneWeb engineers aims to replace bespoke ground systems with automated tools\nThe post Quindar raises $18 million to scale satellite operations software appeared first on SpaceNews.",
     "published_at": "2025-11-19T14:00:00Z",
     "updated_at": "2025-11-19T14:10:24.824989Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34057,
+    "title": "‘Department of War’ Executive Order should prioritize readiness against space stalkers",
+    "authors": [
+      {
+        "name": "Brian G. Chow",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/department-of-war-executive-order-should-prioritize-readiness-against-space-stalkers/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/09/Taiwan-scaled.jpg?fit=1024%2C681&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe administration has yet to follow up on its 200th Executive Order, which called for enhanced readiness. This silence represents a profound missed opportunity. Amidst a severe, persistent partisan divide, focusing on genuine military readiness offers a pathway for non-partisan decisions. To ensure this initiative cost-effectively achieves its goal of preparing for war so as […]\nThe post ‘Department of War’ Executive Order should prioritize readiness against space stalkers  appeared first on SpaceNews.",
+    "published_at": "2025-11-19T14:00:00Z",
+    "updated_at": "2025-11-19T14:10:24.760303Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -348,6 +648,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34050,
+    "title": "New Laboratory Showcases Advanced Satcom Capabilities for Australian Defence Force",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/New_Laboratory_Showcases_Advanced_Satcom_Capabilities_for_Australian_Defence_Force_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/australia-milspace-spacewar-satellites-lockheed-martin-joint-air-battle-management-system-air6500-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Nov 18, 2025\n\n\nST Engineering iDirect and Black Cat Systems are working together to establish an Advanced Satcom Technology Demonstration Lab to support the Australian Defence Force (ADF). Central to this lab is the ST Engineering iDirect 450 Software Defined Modem (SDM), which provides multi-waveform and multi-orbit capabilities, as well as interference mitigation technology tailored for defense needs.",
+    "published_at": "2025-11-19T07:16:16Z",
+    "updated_at": "2025-11-19T07:20:12.306651Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34046,
     "title": "Kepler sets January launch for optical data relay satellites to expand in-orbit connectivity",
     "authors": [
@@ -362,46 +682,6 @@
     "summary": "Berlin, Germany (SPX) Nov 19, 2025\n\n\nKepler Communications has scheduled the launch of ten 300-kilogram-class satellites in January 2026, marking the operational rollout of its optical data relay constellation. The launch will use a SpaceX Falcon 9 from Vandenberg Space Force Base, California. Each satellite will carry a minimum of four optical terminals that enable high-throughput laser links for space, air, and ground data transm",
     "published_at": "2025-11-19T07:16:16Z",
     "updated_at": "2025-11-19T07:20:12.257417Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34049,
-    "title": "Power grid agreement to supply energy for Loft Orbital satellites",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Power_grid_agreement_to_supply_energy_for_Loft_Orbital_satellites_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/star-catcher-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 19, 2025\n\n\nLoft Orbital and Star Catcher Industries have signed what is described as one of the first commercial energy purchase agreements for space operations. The deal allows Loft to buy power from Star Catcher's planned orbital energy grid to support its mission-agnostic satellite platforms in low Earth orbit, enabling dynamic growth in their satellite constellations. \n\nLoft's approach provides a t",
-    "published_at": "2025-11-19T07:16:16Z",
-    "updated_at": "2025-11-19T07:20:12.285500Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34048,
-    "title": "Ancient 'animal GPS system' identified in magnetic fossils",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.gpsdaily.com/reports/Ancient_animal_GPS_system_identified_in_magnetic_fossils_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/microscopic-magnetic-characterisation-giant-spearhead-magnetofossil-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Cambridge UK (SPX) Nov 19, 2025\n\n\nThe earliest evidence of an internal 'GPS' system in an animal has been identified by researchers, which could help explain how modern birds and fish evolved the ability to use the Earth's magnetic field to navigate long distances. \n\nThe tiny magnetic fossils - dating from 97 million years ago - were buried in ancient seafloor sediments, left behind by a mysterious, unidentified organism.",
-    "published_at": "2025-11-19T07:16:16Z",
-    "updated_at": "2025-11-19T07:20:12.275380Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -428,20 +708,40 @@
     "detailed_news": ""
   },
   {
-    "id": 34050,
-    "title": "New Laboratory Showcases Advanced Satcom Capabilities for Australian Defence Force",
+    "id": 34048,
+    "title": "Ancient 'animal GPS system' identified in magnetic fossils",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/New_Laboratory_Showcases_Advanced_Satcom_Capabilities_for_Australian_Defence_Force_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/australia-milspace-spacewar-satellites-lockheed-martin-joint-air-battle-management-system-air6500-bg.jpg",
+    "url": "https://www.gpsdaily.com/reports/Ancient_animal_GPS_system_identified_in_magnetic_fossils_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/microscopic-magnetic-characterisation-giant-spearhead-magnetofossil-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Nov 18, 2025\n\n\nST Engineering iDirect and Black Cat Systems are working together to establish an Advanced Satcom Technology Demonstration Lab to support the Australian Defence Force (ADF). Central to this lab is the ST Engineering iDirect 450 Software Defined Modem (SDM), which provides multi-waveform and multi-orbit capabilities, as well as interference mitigation technology tailored for defense needs.",
+    "summary": "Cambridge UK (SPX) Nov 19, 2025\n\n\nThe earliest evidence of an internal 'GPS' system in an animal has been identified by researchers, which could help explain how modern birds and fish evolved the ability to use the Earth's magnetic field to navigate long distances. \n\nThe tiny magnetic fossils - dating from 97 million years ago - were buried in ancient seafloor sediments, left behind by a mysterious, unidentified organism.",
     "published_at": "2025-11-19T07:16:16Z",
-    "updated_at": "2025-11-19T07:20:12.306651Z",
+    "updated_at": "2025-11-19T07:20:12.275380Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34049,
+    "title": "Power grid agreement to supply energy for Loft Orbital satellites",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Power_grid_agreement_to_supply_energy_for_Loft_Orbital_satellites_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/star-catcher-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Nov 19, 2025\n\n\nLoft Orbital and Star Catcher Industries have signed what is described as one of the first commercial energy purchase agreements for space operations. The deal allows Loft to buy power from Star Catcher's planned orbital energy grid to support its mission-agnostic satellite platforms in low Earth orbit, enabling dynamic growth in their satellite constellations. \n\nLoft's approach provides a t",
+    "published_at": "2025-11-19T07:16:16Z",
+    "updated_at": "2025-11-19T07:20:12.285500Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -703,320 +1003,6 @@
     "summary": "A new agreement between ArianeGroup and Avio has renewed questions about when the production of Ariane 6 turbopumps will be transferred from Italy to France. The transfer was intended to offset Vernon losing the responsibility for Vinci upper stage integration to Lampoldshausen in Germany, as agreed during the 2019 ESA Ministerial Council meeting in Seville. […]\nThe post ArianeGroup–Avio Deal Outlines Extended Transition of Turbopump Manufacturing to France appeared first on European Spaceflight.",
     "published_at": "2025-11-18T13:09:56Z",
     "updated_at": "2025-11-18T13:10:12.668628Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34032,
-    "title": "China’s space ambitions hit a new gear",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/chinas-space-ambitions-hit-a-new-gear/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Yaogan40-03-CZ6A-TSLC-06sept2025-OS1.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBipartisan commission report says China is moving fast, and the United States must decide whether to match the pace\nThe post China’s space ambitions hit a new gear appeared first on SpaceNews.",
-    "published_at": "2025-11-18T10:58:00Z",
-    "updated_at": "2025-11-18T11:40:22.501179Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34031,
-    "title": "Ministerial Council 2025",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Ministerial_Council_2025",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/ministerial_council_2025/26976209-1-eng-GB/Ministerial_Council_2025_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Ministerial Council 2025",
-    "published_at": "2025-11-18T10:39:00Z",
-    "updated_at": "2025-11-18T11:00:22.266809Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34026,
-    "title": "Novaspace Expands to India — Accelerating the Growth of the Nation’s Space Economy",
-    "authors": [
-      {
-        "name": "Novaspace",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/novaspace-expands-to-india-accelerating-the-growth-of-the-nations-space-economy/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBangalore, November 18, 2025 — Novaspace, the global consulting and market-intelligence firm dedicated to the space sector, announces the opening of its new office in India, marking a strategic milestone […]\nThe post Novaspace Expands to India — Accelerating the Growth of the Nation’s Space Economy appeared first on SpaceNews.",
-    "published_at": "2025-11-18T10:00:00Z",
-    "updated_at": "2025-11-18T10:10:20.718783Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34027,
-    "title": "Dcubed to demonstrate in-space manufacturing of solar arrays",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/dcubed-to-demonstrate-in-space-manufacturing-of-solar-arrays/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/araqys-d3.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGerman satellite component company Dcubed is moving into in-space manufacturing with a series of missions to demonstrate production of large solar arrays in orbit.\nThe post Dcubed to demonstrate in-space manufacturing of solar arrays appeared first on SpaceNews.",
-    "published_at": "2025-11-18T10:00:00Z",
-    "updated_at": "2025-11-18T10:10:20.761747Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34025,
-    "title": "Guiding Artemis: Brian Alpert Turns Lessons Learned Into Lunar Progress",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/guiding-artemis-brian-alpert-turns-lessons-learned-into-lunar-progress/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/jsc2015e099423.jpg",
-    "news_site": "NASA",
-    "summary": "Brian Alpert’s path was always destined for the aerospace industry, but his journey turned toward NASA’s Johnson Space Center during his sophomore year in college. That was when Tricia Mack, who works in NASA’s Transportation Integration Office within the International Space Station Program, spoke to his aerospace seminar about planning spacewalks, training crews, and supporting […]",
-    "published_at": "2025-11-18T10:00:00Z",
-    "updated_at": "2025-11-18T10:00:12.920542Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34028,
-    "title": "Up goes Lunar Link",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/11/Up_goes_Lunar_Link",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/up_goes_lunar_link/26974211-1-eng-GB/Up_goes_Lunar_Link_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-11-18T09:00:00Z",
-    "updated_at": "2025-11-18T10:20:17.565035Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34029,
-    "title": "Watch: HydroGNSS, IRIDE and Greek mission satellites launch",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/Watch_HydroGNSS_IRIDE_and_Greek_mission_satellites_launch",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/hydrognss/26851558-1-eng-GB/HydroGNSS_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s HydroGNSS, a twin-satellite mission to gather data on Earth’s water cycle, is scheduled to launch on 19 November at 19:18 CET (10:18 Pacific Time). Live coverage of the launch will be shown on ESA Web TV.",
-    "published_at": "2025-11-18T09:00:00Z",
-    "updated_at": "2025-11-18T10:20:18.365628Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34023,
-    "title": "US-Based Launch Aggregator Purchases Dedicated Isar Aerospace Flight",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/us-based-launch-aggregator-purchases-dedicated-isar-aerospace-flight/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/US-Based-Launch-Aggregator-Purchases-Dedicated-Isar-Aerospace-Flight.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Texas-based small satellite launch aggregator SEOPS has signed a launch services agreement with Isar Aerospace for a dedicated flight aboard the company’s Spectrum rocket. Isar Aerospace launched the inaugural flight of its Spectrum rocket in March, which ultimately failed when the vehicle exploded just metres after liftoff. The company is now preparing for Spectrum’s second […]\nThe post US-Based Launch Aggregator Purchases Dedicated Isar Aerospace Flight appeared first on European Spaceflight.",
-    "published_at": "2025-11-18T07:03:59Z",
-    "updated_at": "2025-11-18T07:10:13.619535Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34024,
-    "title": "SEOPS buys Spectrum launch from Isar Aerospace",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/seops-buys-spectrum-launch-from-isar-aerospace/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/spectrum-1stlaunch-kenniston.jpeg?fit=1024%2C684&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSEOPS, an American mission services provider, has purchased a Spectrum launch from Isar Aerospace to broaden launch options for its customers.\nThe post SEOPS buys Spectrum launch from Isar Aerospace appeared first on SpaceNews.",
-    "published_at": "2025-11-18T07:00:00Z",
-    "updated_at": "2025-11-18T07:10:22.084859Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34017,
-    "title": "6 Things to Know From NASA About New US, European Sea Satellite",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.terradaily.com/reports/6_Things_to_Know_From_NASA_About_New_US_European_Sea_Satellite_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/airbus-copernicus-ocean-satellite-sentinel-6b-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (JPL) Nov 15, 2025\n\n\nData from Sentinel-6B will continue a decades-long record of sea surface height, helping to improve coastal planning, protect critical infrastructure, and advance weather forecasts. \n\nWith launch set for no earlier than 12:21 a.m. EST Monday, Nov. 17, Sentinel-6B is the latest satellite in a series of spacecraft NASA and its partners have used to measure sea levels since 1992. Their data has",
-    "published_at": "2025-11-18T06:08:01Z",
-    "updated_at": "2025-11-18T06:10:11.927379Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34020,
-    "title": "How drones are altering contemporary warfare",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/How_drones_are_altering_contemporary_warfare_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ukraine-russian-drone-uav-bombed-city-town-homes-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Cambridge, MA (SPX) Nov 14, 2025\n\n\nA new book by scholar and military officer Erik Lin-Greenberg examines the evolving dynamics of military and state action centered around drones. \n\nIn recent months, Russia has frequently flown drones into NATO territory, where NATO countries typically try to shoot them down. By contrast, when three Russian fighter jets made an incursion into Estonian airspace in September, they were interce",
-    "published_at": "2025-11-18T06:08:01Z",
-    "updated_at": "2025-11-18T06:10:12.010063Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34021,
-    "title": "NATO allies ditch Boeing for new surveillance planes",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NATO_allies_ditch_Boeing_for_new_surveillance_planes_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nato-e-3a-awacs-component-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Brussels, Belgium (AFP) Nov 13, 2025\n\n\n NATO countries have ditched plans to buy US-made Boeing aircraft to replace the alliance's ageing fleet of surveillance planes, after Washington pulled out of the programme, the Netherlands said Thursday.  \n\nThe Western military alliance had announced in 2023 that members would acquire six Boeing Wedgetail jets in one of its \"biggest-ever\" joint purchases as it looked to bolster its capabiliti",
-    "published_at": "2025-11-18T06:08:01Z",
-    "updated_at": "2025-11-18T06:10:12.027202Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34018,
-    "title": "'Splinternets' threat to be avoided, says web address controller",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Splinternets_threat_to_be_avoided_says_web_address_controller_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/big-data-internet-tube-600-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Lisbon (AFP) Nov 11, 2025\n\n\n The risk of the internet fragmenting into national \"splinternets\" will likely be averted in a UN vote next month, the head of the authority that manages web addresses told AFP on Tuesday. \n\n\"The vast majority of the countries that we have met with, including countries who in the past have been very sceptical... believe the current model of governing the internet has worked,\" Kurtis Lindqvist,",
-    "published_at": "2025-11-18T06:08:01Z",
-    "updated_at": "2025-11-18T06:10:11.965160Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34019,
-    "title": "'The war of tomorrow will begin in space': Macron",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/The_war_of_tomorrow_will_begin_in_space_Macron_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/dong-neng-3-exoatmospheric-vehicle-dn-3-asat-anti-satellite-missile-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Toulouse, France (AFP) Nov 12, 2025\n\n\n Modern conflicts are already being fought in space and the next wars will begin there, French President Emmanuel Macron said Wednesday, singling out the threat posed by Russia and announcing a multi-billion euro increase in spending on military activities in space. \n\n\"The war of today is already being fought in space, and the war of tomorrow will begin in space,\" Macron said in Toulouse, Franc",
-    "published_at": "2025-11-18T06:08:01Z",
-    "updated_at": "2025-11-18T06:10:11.993877Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34022,
-    "title": "Satellites and AI equip policymakers to assess global climate adaptation progress",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.terradaily.com/reports/Satellites_and_AI_equip_policymakers_to_assess_global_climate_adaptation_progress_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/copernicus-sentinel-3-radiometer-land-surface-temperature-europe-africa-10-july-2023-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Nov 15, 2025\n\n\nA study led by the University of Galway's Ryan Institute details how satellite-based Earth observation and artificial intelligence enable objective monitoring of climate adaptation in the global agrifood sector. \n\nResearchers analyzed how Earth observation data can be linked to indicators in the Global Goal on Adaptation, a Paris Agreement initiative to reduce climate vulnerability. Their wo",
-    "published_at": "2025-11-18T06:08:01Z",
-    "updated_at": "2025-11-18T06:10:12.049436Z",
     "featured": false,
     "launches": [],
     "events": [],
