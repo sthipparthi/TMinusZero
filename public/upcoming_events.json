@@ -1,6 +1,6 @@
 {
-  "count": 14,
-  "last_updated": "2025-11-20T12:01:53.769279Z",
+  "count": 13,
+  "last_updated": "2025-11-20T18:02:27.747885Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,58 +11,9 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (2 successful)",
-    "Empty AI summaries (12 failed/unavailable)"
+    "Empty AI summaries (11 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "f9e4852a-fba8-4937-9a86-5a05b3244fb1",
-      "name": "Electron | Follow My Speed (BlackSky Gen-3 3?)",
-      "status": "Go",
-      "net": "2025-11-20T12:16:22Z",
-      "window_start": "2025-11-20T12:16:22Z",
-      "window_end": "2025-11-20T12:16:22Z",
-      "lsp_name": "Rocket Lab",
-      "lsp_description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
-      "mission_name": "Follow My Speed (BlackSky Gen-3 3?)",
-      "mission_description": "Note: Payload and customer identities unconfirmed, identification based on mission patch and rocket drop zones analysis.\r\n\r\n3rd of the BlackSky Gen-3 high resolution Earth-imaging satellites.",
-      "mission_type": "Earth Science",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Rocket Lab Launch Complex 1A, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Rocket Lab Launch Complex 1A",
-      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "rocket": "Electron",
-      "rocket_config_description": "Electron is a two-stage orbital expendable launch vehicle (with an optional third stage) developed by the American aerospace company Rocket Lab. Electron is a small-lift launch vehicle designed to launch small satellites and cubesats to sun-synchronous orbit and low earth orbit. The Electron is the first orbital class rocket to use electric-pump-fed engines, powered by the 9 Rutherford engines on the first stage. It is also used as a suborbital testbed (called HASTE) for hypersonics research.",
-      "rocket_config_family": "",
-      "rocket_config_full_name": "Electron",
-      "rocket_config_total_launch_count": 75,
-      "rocket_config_successful_launches": 71,
-      "rocket_config_failed_launches": 4,
-      "rocket_config_pending_launches": 43,
-      "rocket_manufacturer_name": "Rocket Lab",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
-      "rocket_manufacturer_total_launch_count": 75,
-      "rocket_manufacturer_successful_launches": 71,
-      "rocket_manufacturer_failed_launches": 4,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_on_the_image_20251120104331.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/f9e4852a-fba8-4937-9a86-5a05b3244fb1/",
-      "webcast_live": true,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 10,
-          "title": "'Follow My Speed' Launch",
-          "description": "",
-          "feature_image": "https://i.ytimg.com/vi/q-w-ZUYyEAo/maxresdefault_live.jpg",
-          "url": "https://www.youtube.com/watch?v=q-w-ZUYyEAo"
-        }
-      ],
-      "ai_summary": ""
-    },
     {
       "id": "f0554c45-3e52-43bb-95e5-73aa8fab53dd",
       "name": "Falcon 9 Block 5 | Starlink Group 6-78",
@@ -661,7 +612,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 2,
-    "empty_summaries": 12,
-    "total_launches": 14
+    "empty_summaries": 11,
+    "total_launches": 13
   }
 }
