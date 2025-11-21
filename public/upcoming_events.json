@@ -1,6 +1,6 @@
 {
-  "count": 13,
-  "last_updated": "2025-11-21T00:04:31.018745Z",
+  "count": 11,
+  "last_updated": "2025-11-21T06:01:58.161809Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,72 +11,9 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (2 successful)",
-    "Empty AI summaries (11 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "f0554c45-3e52-43bb-95e5-73aa8fab53dd",
-      "name": "Falcon 9 Block 5 | Starlink Group 6-78",
-      "status": "Go",
-      "net": "2025-11-21T03:01:00Z",
-      "window_start": "2025-11-21T03:01:00Z",
-      "window_end": "2025-11-21T07:01:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Starlink Group 6-78",
-      "mission_description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mission_type": "Communications",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Launch Complex 39A, Kennedy Space Center, FL, USA",
-      "pad": "Launch Complex 39A",
-      "location": "Kennedy Space Center, FL, USA",
-      "rocket": "Falcon 9 Block 5",
-      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
-      "rocket_config_family": "Falcon",
-      "rocket_config_full_name": "Falcon 9 Block 5",
-      "rocket_config_total_launch_count": 508,
-      "rocket_config_successful_launches": 507,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 100,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 601,
-      "rocket_manufacturer_successful_launches": 586,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/f0554c45-3e52-43bb-95e5-73aa8fab53dd/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 7,
-          "title": "SpaceX - Falcon 9 - Starlink 6-78 - LC-39A - Kennedy Space Center - Space Affairs Live",
-          "description": "Launch Date:  November 20, 2025\nLaunch Time: 14:05 p.m. EST (1905 UTC, 20:05 CET)\nLaunch Window:  Open until 6:05 p.m. EST\nLaunch Site: LC-39A - Kennedy Space Center, Florida\nTargeted Orbit: LEO (Low ...",
-          "feature_image": "https://i.ytimg.com/vi/3jJvb8Ighv8/maxresdefault_live.jpg",
-          "url": "https://www.youtube.com/watch?v=3jJvb8Ighv8"
-        },
-        {
-          "priority": 9,
-          "title": "SpaceX Falcon 9 launches Starlink 6-78",
-          "description": "SpaceX launch of a batch of 29 Starlink v2-mini satellites for their second-generation high-speed low earth orbit internet satellite constellation.\n\nLaunch window: November 20th from 10:01PM EST to 2:...",
-          "feature_image": "https://i.ytimg.com/vi/LUQawcJFOzE/maxresdefault_live.jpg",
-          "url": "https://www.youtube.com/watch?v=LUQawcJFOzE"
-        },
-        {
-          "priority": 10,
-          "title": "Livestream on X",
-          "description": "Livestream on X",
-          "feature_image": null,
-          "url": "https://x.com/i/broadcasts/1OdKrOgAYevGX"
-        }
-      ],
-      "ai_summary": ""
-    },
     {
       "id": "1331ed69-c92d-4b82-9cab-ef627b23d792",
       "name": "Long March 3B/E | Unknown Payload",
@@ -179,47 +116,6 @@
           "url": "https://x.com/i/broadcasts/1YqKDNXnomvJV"
         }
       ],
-      "ai_summary": ""
-    },
-    {
-      "id": "a81fcb21-ed57-47ef-ab57-33ddd9c6ffcd",
-      "name": "HANBIT-Nano | Spaceward",
-      "status": "Go",
-      "net": "2025-11-22T18:00:00Z",
-      "window_start": "2025-11-22T18:00:00Z",
-      "window_end": "2025-11-22T18:00:00Z",
-      "lsp_name": "Innospace",
-      "lsp_description": "Innospace is a South Korean startup company specializing in developing hybrid space rocket.",
-      "lsp_type": "Private",
-      "lsp_country": "KOR",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/innospace_socia_image_20251021112531.png",
-      "mission_name": "Spaceward",
-      "mission_description": "Maiden orbital launch attempt for the South Korean stratup Innospace and its HANBIT-Nano small launch vehicle. Onboard this flight are five small satellites from the Brazilian space agency AEB, Brazilian university Universidade Federal do Maranhão and Indian startup Grahaa Space, as well as three payloads from AEB and Brazilian company Castro Leite Consultoria that will remain attached to the rocket, and an empty aluminium can from the South Korean beverage company Brewguru.",
-      "mission_type": "Test Flight",
-      "orbit": "Sun-Synchronous Orbit",
-      "launch_site": "HANBIT Pad, Alcântara Space Center, Federative Republic of Brazil",
-      "pad": "HANBIT Pad",
-      "location": "Alcântara Space Center, Federative Republic of Brazil",
-      "rocket": "HANBIT-Nano",
-      "rocket_config_description": "Two-stage launch vehicle developed by South Korean space startup Innospace.",
-      "rocket_config_family": "HANBIT",
-      "rocket_config_full_name": "HANBIT-Nano",
-      "rocket_config_total_launch_count": 0,
-      "rocket_config_successful_launches": 0,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "Innospace",
-      "rocket_manufacturer_type": "Private",
-      "rocket_manufacturer_description": "Innospace is a South Korean startup company specializing in developing hybrid space rocket.",
-      "rocket_manufacturer_total_launch_count": 1,
-      "rocket_manufacturer_successful_launches": 1,
-      "rocket_manufacturer_failed_launches": 0,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/hanbit-nano_gro_image_20251021114236.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/a81fcb21-ed57-47ef-ab57-33ddd9c6ffcd/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
       "ai_summary": ""
     },
     {
@@ -612,7 +508,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 2,
-    "empty_summaries": 11,
-    "total_launches": 13
+    "empty_summaries": 9,
+    "total_launches": 11
   }
 }
