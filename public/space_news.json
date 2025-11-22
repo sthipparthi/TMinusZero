@@ -1,5 +1,25 @@
 [
   {
+    "id": 34163,
+    "title": "B2Space Tests Balloon-Based Launch System",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/b2space-tests-balloon-based-launch-system/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/B2Space-Tests-Balloon-Based-Launch-System.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Welsh launch services startup B2Space has completed a key test of its rockoon launch system, which utilises a large balloon to carry a solid-fuel rocket to high altitude, at which point it’s launched. Founded in 2016, Newport-based B2Space is a near-space operations company developing a balloon-based rocket launch system, commonly referred to as a rockoon, […]\nThe post B2Space Tests Balloon-Based Launch System appeared first on European Spaceflight.",
+    "published_at": "2025-11-22T04:49:43Z",
+    "updated_at": "2025-11-22T04:50:11.105787Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34162,
     "title": "Blue Origin advances Blue Ring spacecraft toward 2026 national security mission",
     "authors": [
@@ -387,26 +407,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34140,
-    "title": "Redwire to Deliver Spacecraft for DARPA Otter VLEO Demonstration",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Redwire_to_Deliver_Spacecraft_for_DARPA_Otter_VLEO_Demonstration_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/redwire-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 20, 2025\n\n\nRedwire Corporation has secured a 44 million dollar phase 2 contract from the Defense Advanced Research Projects Agency to advance the Otter Very Low Earth Orbit mission. The contract supports the completion, manufacturing, and delivery of a spacecraft that will demonstrate the first air-breathing platform in VLEO, using Redwire's SabreSat design. \n\nTom Campbell, President of Space Missions",
-    "published_at": "2025-11-21T09:30:15Z",
-    "updated_at": "2025-11-21T09:40:11.476739Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34145,
     "title": "How small satellites can help the US win the space race",
     "authors": [
@@ -467,6 +467,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34140,
+    "title": "Redwire to Deliver Spacecraft for DARPA Otter VLEO Demonstration",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Redwire_to_Deliver_Spacecraft_for_DARPA_Otter_VLEO_Demonstration_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/redwire-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Nov 20, 2025\n\n\nRedwire Corporation has secured a 44 million dollar phase 2 contract from the Defense Advanced Research Projects Agency to advance the Otter Very Low Earth Orbit mission. The contract supports the completion, manufacturing, and delivery of a spacecraft that will demonstrate the first air-breathing platform in VLEO, using Redwire's SabreSat design. \n\nTom Campbell, President of Space Missions",
+    "published_at": "2025-11-21T09:30:15Z",
+    "updated_at": "2025-11-21T09:40:11.476739Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34139,
     "title": "NASA backs dust tolerant wireless power links for Moon and Mars vehicles",
     "authors": [
@@ -481,26 +501,6 @@
     "summary": "Los Angeles CA (SPX) Nov 20, 2025\n\n\nYank Technologies has received a 1 million US dollar NASA Phase III Small Business Innovation Research commercialization contract to advance Dust-Tolerant Resonant Connectors for bi-directional vehicle-to-vehicle power transfer on the Moon and Mars. The award builds on the companys earlier NASA Phase I SBIR work on the same technology. \n\nUnder the new contract with NASA, Yank Technologies wi",
     "published_at": "2025-11-21T09:30:15Z",
     "updated_at": "2025-11-21T09:40:11.466839Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34142,
-    "title": "Chinese experiment tests lunar construction bricks after space exposure",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/Chinese_experiment_tests_lunar_construction_bricks_after_space_exposure_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-lunar-brick-simulation-space-station-exposure-test-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 20, 2025\n\n\nChina has advanced its lunar exploration program with the return of experimental lunar regolith bricks, which spent a year exposed to the space environment aboard China's space station. These bricks, developed by Ding Lieyun and a team from Huazhong University of Science and Technology, were retrieved last week on the Shenzhou XXI spacecraft and found in good condition during initial inspections",
-    "published_at": "2025-11-21T09:30:15Z",
-    "updated_at": "2025-11-21T09:40:11.494783Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -541,6 +541,26 @@
     "summary": "Los Angeles CA (SPX) Nov 20, 2025\n\n\nResearchers led by Lawrence Livermore National Laboratory postdoctoral scientist Harrison Horn have demonstrated a pathway for producing water on sub-Neptune exoplanets. The team recreated the boundary conditions between hydrogen atmospheres and magma cores using a laser-heated diamond-anvil cell. \n\nHorn stated, \"Our experiments are the first to look at interactions between hydrogen and sili",
     "published_at": "2025-11-21T09:30:15Z",
     "updated_at": "2025-11-21T09:40:11.338838Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34142,
+    "title": "Chinese experiment tests lunar construction bricks after space exposure",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/Chinese_experiment_tests_lunar_construction_bricks_after_space_exposure_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-lunar-brick-simulation-space-station-exposure-test-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Nov 20, 2025\n\n\nChina has advanced its lunar exploration program with the return of experimental lunar regolith bricks, which spent a year exposed to the space environment aboard China's space station. These bricks, developed by Ding Lieyun and a team from Huazhong University of Science and Technology, were retrieved last week on the Shenzhou XXI spacecraft and found in good condition during initial inspections",
+    "published_at": "2025-11-21T09:30:15Z",
+    "updated_at": "2025-11-21T09:40:11.494783Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -962,26 +982,6 @@
     "summary": "Mars and Mercury cozy up, the Leonids sparkle, and Saturn’s rings are…disappearing?  Mars and Mercury get close for a conjunction, the Leonid meteor shower delights, and Saturn’s rings are…disappearing? Skywatching Highlights Transcript Mars and Mercury have a cozy conjunction, the Leonid meteor shower delights, and Saturn’s rings are…disappearing? That’s What’s Up for November. Conjunction: Mars […]",
     "published_at": "2025-11-20T19:31:11Z",
     "updated_at": "2025-11-20T20:10:05.939639Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34113,
-    "title": "Blue Origin says it’s just getting started with the New Glenn rocket",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/11/blue-origin-says-its-just-getting-started-with-the-new-glenn-rocket/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"The iterative design from our current 7x2 vehicle means we can build this rocket quickly.\"",
-    "published_at": "2025-11-20T18:06:41Z",
-    "updated_at": "2025-11-20T18:10:04.746160Z",
     "featured": false,
     "launches": [],
     "events": [],
