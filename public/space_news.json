@@ -1,5 +1,92 @@
 [
   {
+    "id": 34187,
+    "title": "The Overview Effect: Astronaut Perspectives from 25 Years in Low Earth Orbit",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/the-overview-effect-astronaut-perspectives-from-25-years-in-low-earth-orbit/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/iss072e035863medium.jpg",
+    "news_site": "NASA",
+    "summary": "To see Earth from space is to be forever changed by the view. Since Alan Shepard became the first American to lay eyes on our home planet from above, countless NASA astronauts have described feeling awed by the astonishing sight and a profound shift in perspective that followed. This unique experience is known as the […]",
+    "published_at": "2025-11-23T23:00:00Z",
+    "updated_at": "2025-11-23T23:00:14.375307Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34188,
+    "title": "Germany outlines military space priorities in new strategy",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/germany-outlines-military-space-priorities-in-new-strategy/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/german-milspaceplane.jpeg?fit=1024%2C692&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA new German military space policy outlines the ambitions the country has fueled by tens of billions of euros of new spending over the next several years.\nThe post Germany outlines military space priorities in new strategy appeared first on SpaceNews.",
+    "published_at": "2025-11-23T22:54:25Z",
+    "updated_at": "2025-11-23T23:01:18.395394Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34186,
+    "title": "What’s Happening in Space Policy November 23-29, 2025",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-23-29-2025/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/10/Shenzhou-21-crew-Xinhua-300x205.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 23-29, 2025 and any insight we can offer about them. The House and Senate are in recess […]",
+    "published_at": "2025-11-23T20:47:05Z",
+    "updated_at": "2025-11-23T20:50:17.053513Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34185,
+    "title": "Webb discovers rapidly growing black hole in the very early universe",
+    "authors": [
+      {
+        "name": "Haygen Warren",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/11/webb-canucs-lrd-z8-6/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/Webb_MACS_J1149.5_2223-scaled-e1763921640568.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Using the joint NASA/European Space Agency/Canadian Space Agency James Webb Space Telescope, a group of…\nThe post Webb discovers rapidly growing black hole in the very early universe appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-11-23T20:43:32Z",
+    "updated_at": "2025-11-23T20:50:15.109890Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34184,
     "title": "Thales Alenia Space Finalises Industrial Team for ESA’s Argonaut Lunar Lander",
     "authors": [
@@ -194,6 +281,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34167,
+    "title": "Starlab secures investment from Janus Henderson for commercial space station project",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Starlab_secures_investment_from_Janus_Henderson_for_commercial_space_station_project_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/starlab-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Nov 21, 2025\n\n\nJanus Henderson Group and Voyager Technologies have announced a strategic investment in Starlab Space to develop next-generation commercial space stations. Starlab was founded in 2021 and is headquartered in Houston, operating as a global joint venture led by Voyager Technologies. Partner organizations include Airbus, Mitsubishi Corporation, MDA Space, Palantir Technologies, and Space Applicatio",
+    "published_at": "2025-11-22T07:57:10Z",
+    "updated_at": "2025-11-22T08:00:21.598759Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34171,
     "title": "Lunar impactor Theia originated near Earth and Sun analysis reveals",
     "authors": [
@@ -208,66 +315,6 @@
     "summary": "Berlin, Germany (SPX) Nov 21, 2025\n\n\nA new study published in Science has traced the origin of Theia, the body that collided with Earth around 4.5 billion years ago and triggered the creation of the Moon. Led by the Max Planck Institute for Solar System Research and University of Chicago, the research utilizes ratios of metal isotopes to uncover Theia's place of origin and composition. \n\nThe collision with Theia dramatically al",
     "published_at": "2025-11-22T07:57:10Z",
     "updated_at": "2025-11-22T08:00:21.696261Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34176,
-    "title": "Plasmasphere compressed by recent geomagnetic superstorm dramatically slowed recovery",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Plasmasphere_compressed_by_recent_geomagnetic_superstorm_dramatically_slowed_recovery_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/space-weather-ionosphere-earth-sun-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 21, 2025\n\n\nResearchers have detailed how a geomagnetic superstorm on May 10-11, 2024, shrank Earth's plasmasphere, a protective zone of charged particles, to just one-fifth of its normal size. The event, named the Gannon storm or Mother's Day storm, was the most powerful in over twenty years. \n\nLed by Dr. Atsuki Shinbori at Nagoya University's Institute for Space-Earth Environmental Research, the team",
-    "published_at": "2025-11-22T07:57:10Z",
-    "updated_at": "2025-11-22T08:00:21.815879Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34175,
-    "title": "Moss spores withstand long term exposure outside space station",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Moss_spores_withstand_long_term_exposure_outside_space_station_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/germinated-moss-spores-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 21, 2025\n\n\nResearchers have demonstrated that moss sporophytes can withstand nine months of direct exposure to outer space and remain reproductively viable upon return to Earth. The study, published November 20 in the journal iScience, tested the durability of Physcomitrium patens spores affixed to the outside of the International Space Station. \n\nLead author Tomomichi Fujita of Hokkaido University exp",
-    "published_at": "2025-11-22T07:57:10Z",
-    "updated_at": "2025-11-22T08:00:21.799952Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34169,
-    "title": "Galileo satellites to launch on Ariane 6 to enhance navigation system",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Galileo_satellites_to_launch_on_Ariane_6_to_enhance_navigation_system_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ariane-6-fully-stacked-retracted-hot-fire-test-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Nov 21, 2025\n\n\nOn December 17, 2025, two Galileo First Generation satellites, SAT 33 and SAT 34, will be placed in orbit by Ariane 6, launching from Europe's Spaceport in French Guiana. This mission, the fourteenth under the Galileo programme, aims to strengthen the constellation's precision, availability, and operational robustness. Galileo supports billions of users worldwide through navigation functions emb",
-    "published_at": "2025-11-22T07:57:10Z",
-    "updated_at": "2025-11-22T08:00:21.667856Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -294,6 +341,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34166,
+    "title": "PLD Space advances MIURA 5 rocket qualification with first fully integrated unit",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/PLD_Space_advances_MIURA_5_rocket_qualification_with_first_fully_integrated_unit_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/pld-space-miura-5-qualification-unit-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Nov 21, 2025\n\n\nPLD Space has introduced its first fully integrated MIURA 5 unit, Qualification Model 1 (QM1), initiating comprehensive subsystem validation before the rocket's initial flight in early 2026. The QM1 will enable end-to-end testing of critical components, including the first and second stages, simulating real flight conditions to reduce risk and enhance reliability ahead of launch. \n\nThe MIURA",
+    "published_at": "2025-11-22T07:57:10Z",
+    "updated_at": "2025-11-22T08:00:21.576695Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34174,
     "title": "Lunar dust model highlights risks for spacecraft and future moon base projects",
     "authors": [
@@ -308,6 +375,26 @@
     "summary": "Tokyo, Japan (SPX) Nov 21, 2025\n\n\nA group of researchers in China has developed a new theoretical model to study how low-velocity lunar dust interacts with spacecraft surfaces. The model is designed to improve predictions about dust adhesion and removal, supporting long-term lunar missions and base construction. \n\nThe study explains that the lunar surface is covered in fine dust which has a strong tendency to stick to spacec",
     "published_at": "2025-11-22T07:57:10Z",
     "updated_at": "2025-11-22T08:00:21.775103Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34176,
+    "title": "Plasmasphere compressed by recent geomagnetic superstorm dramatically slowed recovery",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Plasmasphere_compressed_by_recent_geomagnetic_superstorm_dramatically_slowed_recovery_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/space-weather-ionosphere-earth-sun-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Nov 21, 2025\n\n\nResearchers have detailed how a geomagnetic superstorm on May 10-11, 2024, shrank Earth's plasmasphere, a protective zone of charged particles, to just one-fifth of its normal size. The event, named the Gannon storm or Mother's Day storm, was the most powerful in over twenty years. \n\nLed by Dr. Atsuki Shinbori at Nagoya University's Institute for Space-Earth Environmental Research, the team",
+    "published_at": "2025-11-22T07:57:10Z",
+    "updated_at": "2025-11-22T08:00:21.815879Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -354,46 +441,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34172,
-    "title": "40 000 near-Earth asteroids discovered!",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/40_000_near_Earth_asteroids_discovered!_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/planets%20asteroids%20near%20earth%20orbits-plan-view-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (ESA) Nov 21, 2025\n\n\nAstronomers recently discovered the 40 000th near-Earth asteroid! These space rocks range from a few metres to a few kilometres in size and are on orbits that bring them relatively close to Earth. Each new discovery is both a reminder of our planet's vulnerability and a testament to how far the field of planetary defence has advanced in just a few decades. \n\nAn asteroid is a rocky leftover f",
-    "published_at": "2025-11-22T07:57:10Z",
-    "updated_at": "2025-11-22T08:00:21.707696Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34167,
-    "title": "Starlab secures investment from Janus Henderson for commercial space station project",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Starlab_secures_investment_from_Janus_Henderson_for_commercial_space_station_project_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/starlab-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 21, 2025\n\n\nJanus Henderson Group and Voyager Technologies have announced a strategic investment in Starlab Space to develop next-generation commercial space stations. Starlab was founded in 2021 and is headquartered in Houston, operating as a global joint venture led by Voyager Technologies. Partner organizations include Airbus, Mitsubishi Corporation, MDA Space, Palantir Technologies, and Space Applicatio",
-    "published_at": "2025-11-22T07:57:10Z",
-    "updated_at": "2025-11-22T08:00:21.598759Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34165,
     "title": "Successful cryogenic engine start enables enhanced mission flexibility for ISRO",
     "authors": [
@@ -414,20 +461,60 @@
     "detailed_news": ""
   },
   {
-    "id": 34166,
-    "title": "PLD Space advances MIURA 5 rocket qualification with first fully integrated unit",
+    "id": 34172,
+    "title": "40 000 near-Earth asteroids discovered!",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/PLD_Space_advances_MIURA_5_rocket_qualification_with_first_fully_integrated_unit_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/pld-space-miura-5-qualification-unit-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/40_000_near_Earth_asteroids_discovered!_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/planets%20asteroids%20near%20earth%20orbits-plan-view-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Nov 21, 2025\n\n\nPLD Space has introduced its first fully integrated MIURA 5 unit, Qualification Model 1 (QM1), initiating comprehensive subsystem validation before the rocket's initial flight in early 2026. The QM1 will enable end-to-end testing of critical components, including the first and second stages, simulating real flight conditions to reduce risk and enhance reliability ahead of launch. \n\nThe MIURA",
+    "summary": "Paris, France (ESA) Nov 21, 2025\n\n\nAstronomers recently discovered the 40 000th near-Earth asteroid! These space rocks range from a few metres to a few kilometres in size and are on orbits that bring them relatively close to Earth. Each new discovery is both a reminder of our planet's vulnerability and a testament to how far the field of planetary defence has advanced in just a few decades. \n\nAn asteroid is a rocky leftover f",
     "published_at": "2025-11-22T07:57:10Z",
-    "updated_at": "2025-11-22T08:00:21.576695Z",
+    "updated_at": "2025-11-22T08:00:21.707696Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34175,
+    "title": "Moss spores withstand long term exposure outside space station",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Moss_spores_withstand_long_term_exposure_outside_space_station_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/germinated-moss-spores-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Nov 21, 2025\n\n\nResearchers have demonstrated that moss sporophytes can withstand nine months of direct exposure to outer space and remain reproductively viable upon return to Earth. The study, published November 20 in the journal iScience, tested the durability of Physcomitrium patens spores affixed to the outside of the International Space Station. \n\nLead author Tomomichi Fujita of Hokkaido University exp",
+    "published_at": "2025-11-22T07:57:10Z",
+    "updated_at": "2025-11-22T08:00:21.799952Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34169,
+    "title": "Galileo satellites to launch on Ariane 6 to enhance navigation system",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Galileo_satellites_to_launch_on_Ariane_6_to_enhance_navigation_system_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ariane-6-fully-stacked-retracted-hot-fire-test-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Nov 21, 2025\n\n\nOn December 17, 2025, two Galileo First Generation satellites, SAT 33 and SAT 34, will be placed in orbit by Ariane 6, launching from Europe's Spaceport in French Guiana. This mission, the fourteenth under the Galileo programme, aims to strengthen the constellation's precision, availability, and operational robustness. Galileo supports billions of users worldwide through navigation functions emb",
+    "published_at": "2025-11-22T07:57:10Z",
+    "updated_at": "2025-11-22T08:00:21.667856Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -895,86 +982,6 @@
     "summary": "Los Angeles CA (SPX) Nov 19, 2025\n\n\nSpire Global has shipped nine satellites, designed and built in-house, to Vandenberg Space Force Base in California for an upcoming SpaceX Falcon 9 Twilight mission. This shipment comprises Spire's latest Hyperspectral Microwave Sounder (HyMS) demonstrator - a compact, space-ready sensor developed in collaboration with RAL Space and STAR-Dundee Ltd. The HyMS satellite is engineered to gather hig",
     "published_at": "2025-11-21T09:30:15Z",
     "updated_at": "2025-11-21T09:40:11.454475Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34143,
-    "title": "Radiation hardened circuit platform expands space electronics development",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Radiation_hardened_circuit_platform_expands_space_electronics_development_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/bae-systems-carruthers-geocorona-observatory-fab-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 20, 2025\n\n\nBAE Systems has unveiled new advances for its radiation-hardened 12 nanometer RH12 Storefront technology, designed to support space missions requiring resilient integrated circuits. The RH12 Storefront offers a comprehensive library of application-specific integrated circuit development tools and proven intellectual property cores, allowing customers to produce system-on-chip solutions suited to",
-    "published_at": "2025-11-21T09:30:15Z",
-    "updated_at": "2025-11-21T09:40:11.504674Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34140,
-    "title": "Redwire to Deliver Spacecraft for DARPA Otter VLEO Demonstration",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Redwire_to_Deliver_Spacecraft_for_DARPA_Otter_VLEO_Demonstration_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/redwire-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 20, 2025\n\n\nRedwire Corporation has secured a 44 million dollar phase 2 contract from the Defense Advanced Research Projects Agency to advance the Otter Very Low Earth Orbit mission. The contract supports the completion, manufacturing, and delivery of a spacecraft that will demonstrate the first air-breathing platform in VLEO, using Redwire's SabreSat design. \n\nTom Campbell, President of Space Missions",
-    "published_at": "2025-11-21T09:30:15Z",
-    "updated_at": "2025-11-21T09:40:11.476739Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34139,
-    "title": "NASA backs dust tolerant wireless power links for Moon and Mars vehicles",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/NASA_backs_dust_tolerant_wireless_power_links_for_Moon_and_Mars_vehicles_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/yank-technologies-advance-dust-tolerant-resonant-connectors-lunar-mars-moon-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 20, 2025\n\n\nYank Technologies has received a 1 million US dollar NASA Phase III Small Business Innovation Research commercialization contract to advance Dust-Tolerant Resonant Connectors for bi-directional vehicle-to-vehicle power transfer on the Moon and Mars. The award builds on the companys earlier NASA Phase I SBIR work on the same technology. \n\nUnder the new contract with NASA, Yank Technologies wi",
-    "published_at": "2025-11-21T09:30:15Z",
-    "updated_at": "2025-11-21T09:40:11.466839Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34142,
-    "title": "Chinese experiment tests lunar construction bricks after space exposure",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/Chinese_experiment_tests_lunar_construction_bricks_after_space_exposure_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-lunar-brick-simulation-space-station-exposure-test-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 20, 2025\n\n\nChina has advanced its lunar exploration program with the return of experimental lunar regolith bricks, which spent a year exposed to the space environment aboard China's space station. These bricks, developed by Ding Lieyun and a team from Huazhong University of Science and Technology, were retrieved last week on the Shenzhou XXI spacecraft and found in good condition during initial inspections",
-    "published_at": "2025-11-21T09:30:15Z",
-    "updated_at": "2025-11-21T09:40:11.494783Z",
     "featured": false,
     "launches": [],
     "events": [],
