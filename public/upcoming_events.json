@@ -1,6 +1,6 @@
 {
-  "count": 16,
-  "last_updated": "2025-11-25T12:01:41.808979Z",
+  "count": 15,
+  "last_updated": "2025-11-25T18:01:47.963438Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -11,50 +11,9 @@
     "Launch site details",
     "Media URLs",
     "AI-generated summaries (1 successful)",
-    "Empty AI summaries (15 failed/unavailable)"
+    "Empty AI summaries (14 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "547f1a96-0539-4fd3-b13c-2a781f02cfd5",
-      "name": "Angara 1.2 | Kosmos (Unknown Payload)",
-      "status": "Go",
-      "net": "2025-11-25T13:00:00Z",
-      "window_start": "2025-11-25T13:00:00Z",
-      "window_end": "2025-11-25T16:00:00Z",
-      "lsp_name": "Khrunichev State Research and Production Space Center",
-      "lsp_description": "Khrunichev State Research and Production Space Center is a Moscow-based producer of spacecraft and space-launch systems, including the Proton and Rokot rockets and is currently developing the Angara rocket family. The Proton launch vehicle launches from Baikonur and Rokot launches from Baikonur and Plesetsk. Angara will launch from Plesetsk and Vostochny.",
-      "lsp_type": "Government",
-      "lsp_country": "RUS",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/khrunichev2520state2520research2520and2520production2520space2520center_logo_20190207032444.png",
-      "mission_name": "Kosmos (Unknown Payload)",
-      "mission_description": "Note: Payload identity and Cosmos series numbering not confirmed.\r\n\r\nUnknown Payload(s) for the Russian military.",
-      "mission_type": "Government/Top Secret",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "35/1, Plesetsk Cosmodrome, Russian Federation",
-      "pad": "35/1",
-      "location": "Plesetsk Cosmodrome, Russian Federation",
-      "rocket": "Angara 1.2",
-      "rocket_config_description": "The Angara 1.2 is the base launcher for the Angara launch family that uses a modular approach to create multiple launch vehicle configurations for various mission requirements. The Angara 1.2 consists of a standard Universal Rocket Module for the core stage and either a modified Block I Upper Stage or a Briz-KM upper stage.",
-      "rocket_config_family": "Angara",
-      "rocket_config_full_name": "Angara 1.2",
-      "rocket_config_total_launch_count": 5,
-      "rocket_config_successful_launches": 5,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "Khrunichev State Research and Production Space Center",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "Khrunichev State Research and Production Space Center is a Moscow-based producer of spacecraft and space-launch systems, including the Proton and Rokot rockets and is currently developing the Angara rocket family. The Proton launch vehicle launches from Baikonur and Rokot launches from Baikonur and Plesetsk. Angara will launch from Plesetsk and Vostochny.",
-      "rocket_manufacturer_total_launch_count": 196,
-      "rocket_manufacturer_successful_launches": 181,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/angara25201.2_image_20190224012254.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/547f1a96-0539-4fd3-b13c-2a781f02cfd5/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "5c7280f6-b793-4899-a6fe-1d274ed46493",
       "name": "Nuri | CAS500-3",
@@ -774,7 +733,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 1,
-    "empty_summaries": 15,
-    "total_launches": 16
+    "empty_summaries": 14,
+    "total_launches": 15
   }
 }
