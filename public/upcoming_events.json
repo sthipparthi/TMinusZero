@@ -1,6 +1,6 @@
 {
-  "count": 16,
-  "last_updated": "2025-11-26T12:02:00.070907Z",
+  "count": 15,
+  "last_updated": "2025-11-26T18:01:29.056196Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,51 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "AI-generated summaries (1 successful)",
     "Empty AI summaries (15 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "5c7280f6-b793-4899-a6fe-1d274ed46493",
-      "name": "Nuri | CAS500-3",
-      "status": "Go",
-      "net": "2025-11-26T15:54:00Z",
-      "window_start": "2025-11-26T15:54:00Z",
-      "window_end": "2025-11-26T16:14:00Z",
-      "lsp_name": "Korea Aerospace Research Institute",
-      "lsp_description": "The Korea Aerospace Research Institute (KARI) established in 1989, is the aeronautics and space agency of Republic of Korea. Its main laboratories are located in Daejeon, in the Daedeok Science Town.",
-      "lsp_type": "Government",
-      "lsp_country": "KOR",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/korea2520aerospace2520research2520institute_logo_20200806032236.png",
-      "mission_name": "CAS500-3",
-      "mission_description": "CAS500-3 is a South Korean Earth observation satellites to be used by the Ministry of Science and ICT for space technology verification and space science research.",
-      "mission_type": "Earth Science",
-      "orbit": "Sun-Synchronous Orbit",
-      "launch_site": "LC-2, Naro Space Center, South Korea",
-      "pad": "LC-2",
-      "location": "Naro Space Center, South Korea",
-      "rocket": "KSLV-2 Nuri",
-      "rocket_config_description": "Nuri, also known as KSLV-II, is South Korea's second carrier rocket and the successor to KSLV-1.",
-      "rocket_config_family": "KSLV",
-      "rocket_config_full_name": "KSLV-2 Nuri",
-      "rocket_config_total_launch_count": 3,
-      "rocket_config_successful_launches": 2,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "Korea Aerospace Research Institute",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The Korea Aerospace Research Institute (KARI) established in 1989, is the aeronautics and space agency of Republic of Korea. Its main laboratories are located in Daejeon, in the Daedeok Science Town.",
-      "rocket_manufacturer_total_launch_count": 7,
-      "rocket_manufacturer_successful_launches": 4,
-      "rocket_manufacturer_failed_launches": 3,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/nuri_liftoff_2_image_20240820080542.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/5c7280f6-b793-4899-a6fe-1d274ed46493/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": "CAS500-3 is a South Korean Earth observation satellites to be used by the Ministry of Science and ICT for space technology verification and space science research. Nuri, also known as KSLV-II, is South Korea's second carrier rocket."
-    },
     {
       "id": "dc4c201e-b11d-4650-91cc-ecc2eec95598",
       "name": "Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)",
@@ -781,8 +739,8 @@
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
-    "successful_summaries": 1,
+    "successful_summaries": 0,
     "empty_summaries": 15,
-    "total_launches": 16
+    "total_launches": 15
   }
 }
