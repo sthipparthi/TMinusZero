@@ -1,5 +1,82 @@
 [
   {
+    "id": 34293,
+    "title": "Europe’s Human and Robotic Exploration hit by budget shortfall",
+    "authors": [
+      {
+        "name": "Emma Gatti",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/europes-human-and-robotic-exploration-hit-by-budget-shortfall/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/ESA-ministerial-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nBREMEN – The European Space Agency’s Human and Robotic Exploration (HRE) program fell short of its budget request at the ministerial, with member nations agreeing to contribute 2.66 billion euros ($3.08 billion), accounting for roughly 70% of the 3.77 billion euro ask. ESA set its overall budget at 22.1 billion euros — a significant increase […]\nThe post Europe’s Human and Robotic Exploration hit by budget shortfall appeared first on SpaceNews.",
+    "published_at": "2025-11-27T20:12:07Z",
+    "updated_at": "2025-11-27T20:20:18.959814Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34292,
+    "title": "Soyuz Pad Apparently Damaged After Successful Launch",
+    "authors": [
+      {
+        "name": "Scarlet Dominik",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2025/11/soyuz-pad-apparently-damaged-after-successful-launch/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/11/image.png",
+    "news_site": "Space Scout",
+    "summary": "Following the launch of the Soyuz MS-28 mission to the International Space Station this morning, the Soyuz launch complex, Site",
+    "published_at": "2025-11-27T19:12:38Z",
+    "updated_at": "2025-11-27T21:43:06.023621Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "40beac6e-ce8e-4481-8cf9-56d1d9c48804",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34291,
+    "title": "Soyuz transports new crew to ISS",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/soyuz-transports-new-crew-to-iss/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/soyuzms28-launch.jpeg?fit=1024%2C664&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "A Soyuz spacecraft delivered two Russian cosmonauts and one American astronaut to the International Space Station Nov. 27 for an eight-month stay.\r\nThe post Soyuz transports new crew to ISS appeared first on SpaceNews.",
+    "published_at": "2025-11-27T18:37:39Z",
+    "updated_at": "2025-11-27T21:43:12.426175Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "40beac6e-ce8e-4481-8cf9-56d1d9c48804",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34289,
     "title": "Exploration and the UK Emerge as the Biggest Losers of CM25",
     "authors": [
@@ -727,6 +804,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34254,
+    "title": "NASA's Mars Spacecraft Capture Images of Comet 3I/ATLAS",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASAs_Mars_Spacecraft_Capture_Images_of_Comet_3I_ATLAS_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/maven-3i-atlas-interstellar-comet-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Pasadena CA (JPL) Nov 21, 2025\n\n\nTwo orbiters and a rover captured images of the interstellar object - from the closest location any of the agency's spacecraft may get - that could reveal new details. \n\nAt the start of October, three of NASA's Mars spacecraft had front row seats to view 3I/ATLAS, only the third interstellar object so far discovered in our solar system. The Mars Reconnaissance Orbiter (MRO) snapped a close-u",
+    "published_at": "2025-11-26T09:07:05Z",
+    "updated_at": "2025-11-26T08:00:12.690231Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34255,
     "title": "Researchers use X ray analysis to examine flown European satellite",
     "authors": [
@@ -761,26 +858,6 @@
     "summary": "Tokyo, Japan (SPX) Nov 26, 2025\n\n\nIn the 1930s, astronomer Fritz Zwicky noted that galaxies moved faster than expected for their visible mass, suggesting an unseen matter now known as dark matter. Since then, dark matter remained unobserved except through its gravitational effect on visible matter. \n\nResearchers have targeted areas dense in dark matter to find signals predicted by theoretical models. A leading hypothesis hol",
     "published_at": "2025-11-26T09:07:05Z",
     "updated_at": "2025-11-26T08:00:12.665207Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34254,
-    "title": "NASA's Mars Spacecraft Capture Images of Comet 3I/ATLAS",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASAs_Mars_Spacecraft_Capture_Images_of_Comet_3I_ATLAS_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/maven-3i-atlas-interstellar-comet-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (JPL) Nov 21, 2025\n\n\nTwo orbiters and a rover captured images of the interstellar object - from the closest location any of the agency's spacecraft may get - that could reveal new details. \n\nAt the start of October, three of NASA's Mars spacecraft had front row seats to view 3I/ATLAS, only the third interstellar object so far discovered in our solar system. The Mars Reconnaissance Orbiter (MRO) snapped a close-u",
-    "published_at": "2025-11-26T09:07:05Z",
-    "updated_at": "2025-11-26T08:00:12.690231Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -834,26 +911,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34247,
-    "title": "Soyuz rocket positioned at Baikonur for ISS crew launch as Cygnus XL temporarily removed",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Soyuz_rocket_positioned_at_Baikonur_for_ISS_crew_launch_as_Cygnus_XL_temporarily_removed_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/northrop-grumman-ng-15-cygnus-katherine-johnson-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Houston TX (SPX) Nov 26, 2025\n\n\nThe Soyuz MS-28 rocket was set upright at the Baikonur Cosmodrome in Kazakhstan on November 24 for the crewed mission scheduled for November 27. NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergey Mikaev will launch aboard Soyuz MS-28 at 4:27 a.m. EDT and dock to the space station's Rassvet module after two Earth orbits to begin an eight-month research mission.",
-    "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.542967Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34246,
     "title": "NASA changes Starliner contract: First ISS mission to carry only cargo",
     "authors": [
@@ -874,20 +931,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34248,
-    "title": "ESCAPADE spacecraft capture first images while en route to Mars",
+    "id": 34247,
+    "title": "Soyuz rocket positioned at Baikonur for ISS crew launch as Cygnus XL temporarily removed",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.marsdaily.com/reports/ESCAPADE_spacecraft_capture_first_images_while_en_route_to_Mars_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/escapade-selfies-solar-panel-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Soyuz_rocket_positioned_at_Baikonur_for_ISS_crew_launch_as_Cygnus_XL_temporarily_removed_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/northrop-grumman-ng-15-cygnus-katherine-johnson-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Nov 26, 2025\n\n\nAbout a week after liftoff, the twin spacecraft of NASA's ESCAPADE mission returned their first images as they journey away from Earth. On November 21, one of the two spacecraft used its Visible and Infrared Observation System - developed at Northern Arizona University - to photograph the edge of a solar panel. \n\nThe pair of self-portraits includes a visible-light photo and an infrared image",
+    "summary": "Houston TX (SPX) Nov 26, 2025\n\n\nThe Soyuz MS-28 rocket was set upright at the Baikonur Cosmodrome in Kazakhstan on November 24 for the crewed mission scheduled for November 27. NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergey Mikaev will launch aboard Soyuz MS-28 at 4:27 a.m. EDT and dock to the space station's Rassvet module after two Earth orbits to begin an eight-month research mission.",
     "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.556647Z",
+    "updated_at": "2025-11-26T03:50:10.542967Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -914,40 +971,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34252,
-    "title": "Decoded star reveals signs of distant stellar merger and black hole companion",
+    "id": 34248,
+    "title": "ESCAPADE spacecraft capture first images while en route to Mars",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Decoded_star_reveals_signs_of_distant_stellar_merger_and_black_hole_companion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/red-giant-star-orbiting-black-hole-bg.jpg",
+    "url": "https://www.marsdaily.com/reports/ESCAPADE_spacecraft_capture_first_images_while_en_route_to_Mars_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/escapade-selfies-solar-panel-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 26, 2025\n\n\nAstronomers at the University of Hawaii Institute for Astronomy analyzed the vibrations of a distant red giant star now orbiting a quiet black hole in the Gaia BH2 system. Using NASA's Transiting Exoplanet Survey Satellite (TESS), the team observed patterns of faint starquakes, providing a detailed look at the star's core via its oscillations. \n\nLead author Daniel Hey explained, \"Just like s",
+    "summary": "Washington DC (SPX) Nov 26, 2025\n\n\nAbout a week after liftoff, the twin spacecraft of NASA's ESCAPADE mission returned their first images as they journey away from Earth. On November 21, one of the two spacecraft used its Visible and Infrared Observation System - developed at Northern Arizona University - to photograph the edge of a solar panel. \n\nThe pair of self-portraits includes a visible-light photo and an infrared image",
     "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.608278Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34251,
-    "title": "OSIRIS-APEX spacecraft completes Earth flyby on its journey to explore Apophis",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/OSIRIS_APEX_spacecraft_completes_Earth_flyby_on_its_journey_to_explore_Apophis_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/osiris-apex-228,000-km-earth-flyby-australia-six-pics-mapcam-arizonau-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 26, 2025\n\n\nNASA's OSIRIS-APEX spacecraft flew within 2,136 miles of Earth on Tuesday, Sept. 23, as part of its mission to study the near-Earth asteroid Apophis. \n\nDuring its close approach, the spacecraft recorded images and data of Earth. These observations are being used to calibrate its science instruments. Approximately nine hours after passing by, OSIRIS-APEX was 142,000 miles from Earth and trave",
-    "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.590250Z",
+    "updated_at": "2025-11-26T03:50:10.556647Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -974,60 +1011,40 @@
     "detailed_news": ""
   },
   {
-    "id": 34245,
-    "title": "Space Force awards first prototype deals for space-based interceptors under Golden Dome",
+    "id": 34251,
+    "title": "OSIRIS-APEX spacecraft completes Earth flyby on its journey to explore Apophis",
     "authors": [
       {
-        "name": "Sandra Erwin",
+        "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://spacenews.com/space-force-awards-first-prototype-deals-for-space-based-interceptors-under-golden-dome/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Screenshot-2025-11-25-at-5.23.38-PM.png?fit=1024%2C530&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Space Systems Command issued multiple awards for space-based interceptor (SBI) prototype demonstrations through competitive Other Transaction Agreements\nThe post Space Force awards first prototype deals for space-based interceptors under Golden Dome appeared first on SpaceNews.",
-    "published_at": "2025-11-25T23:04:00Z",
-    "updated_at": "2025-11-25T23:10:18.415268Z",
+    "url": "https://www.spacedaily.com/reports/OSIRIS_APEX_spacecraft_completes_Earth_flyby_on_its_journey_to_explore_Apophis_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/osiris-apex-228,000-km-earth-flyby-australia-six-pics-mapcam-arizonau-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Nov 26, 2025\n\n\nNASA's OSIRIS-APEX spacecraft flew within 2,136 miles of Earth on Tuesday, Sept. 23, as part of its mission to study the near-Earth asteroid Apophis. \n\nDuring its close approach, the spacecraft recorded images and data of Earth. These observations are being used to calibrate its science instruments. Approximately nine hours after passing by, OSIRIS-APEX was 142,000 miles from Earth and trave",
+    "published_at": "2025-11-26T04:56:28Z",
+    "updated_at": "2025-11-26T03:50:10.590250Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 34243,
-    "title": "LSAH Newsletter",
+    "id": 34252,
+    "title": "Decoded star reveals signs of distant stellar merger and black hole companion",
     "authors": [
       {
-        "name": "NASA",
+        "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.nasa.gov/directorates/esdmd/hhp/treat/lsah-newsletter/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/iss040e104127orig.jpg",
-    "news_site": "NASA",
-    "summary": "The Lifetime Surveillance of Astronaut Health (LSAH) program collects, analyzes, and interprets medical, physiological, hazard exposure, and environmental data for the purpose of maintaining astronaut health and safety as well as preventing occupationally induced injuries or disease related to space flight or space flight training. It allows NASA to effectively understand and mitigate the long-term […]",
-    "published_at": "2025-11-25T21:20:00Z",
-    "updated_at": "2025-11-25T21:20:05.764472Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34244,
-    "title": "NASA & GLOBE Connect People, Land, and Space",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-globe-connect-people-land-and-space/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2025/LC_Satellite_Match_table-Holli_A_Kohl.jpg",
-    "news_site": "NASA",
-    "summary": "A group of elementary-aged students gather outside of Oldham County Public Library in La Grange, Kentucky, United States to look at clouds in the sky. “If anyone asks what you are doing, tell them, ‘I am a citizen scientist and I am helping NASA,’” Children’s Programming Librarian, Cheri Grinnell, tells the kids. Grinnell supports an […]",
-    "published_at": "2025-11-25T21:11:22Z",
-    "updated_at": "2025-11-25T22:10:05.431003Z",
+    "url": "https://www.spacedaily.com/reports/Decoded_star_reveals_signs_of_distant_stellar_merger_and_black_hole_companion_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/red-giant-star-orbiting-black-hole-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Nov 26, 2025\n\n\nAstronomers at the University of Hawaii Institute for Astronomy analyzed the vibrations of a distant red giant star now orbiting a quiet black hole in the Gaia BH2 system. Using NASA's Transiting Exoplanet Survey Satellite (TESS), the team observed patterns of faint starquakes, providing a detailed look at the star's core via its oscillations. \n\nLead author Daniel Hey explained, \"Just like s",
+    "published_at": "2025-11-26T04:56:28Z",
+    "updated_at": "2025-11-26T03:50:10.608278Z",
     "featured": false,
     "launches": [],
     "events": [],
