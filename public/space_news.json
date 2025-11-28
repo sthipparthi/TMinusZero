@@ -1,5 +1,25 @@
 [
   {
+    "id": 34295,
+    "title": "Earth from Space: Eye of the Sahara",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Eye_of_the_Sahara",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/earth_from_space_eye_of_the_sahara/26998095-1-eng-GB/Earth_from_Space_Eye_of_the_Sahara_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-11-28T09:00:00Z",
+    "updated_at": "2025-11-28T09:30:43.348962Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34294,
     "title": "Russia’s Launch Pad Damaged After Soyuz MS-28 Launch",
     "authors": [
@@ -824,26 +844,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34254,
-    "title": "NASA's Mars Spacecraft Capture Images of Comet 3I/ATLAS",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASAs_Mars_Spacecraft_Capture_Images_of_Comet_3I_ATLAS_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/maven-3i-atlas-interstellar-comet-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (JPL) Nov 21, 2025\n\n\nTwo orbiters and a rover captured images of the interstellar object - from the closest location any of the agency's spacecraft may get - that could reveal new details. \n\nAt the start of October, three of NASA's Mars spacecraft had front row seats to view 3I/ATLAS, only the third interstellar object so far discovered in our solar system. The Mars Reconnaissance Orbiter (MRO) snapped a close-u",
-    "published_at": "2025-11-26T09:07:05Z",
-    "updated_at": "2025-11-26T08:00:12.690231Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34255,
     "title": "Researchers use X ray analysis to examine flown European satellite",
     "authors": [
@@ -878,6 +878,26 @@
     "summary": "Tokyo, Japan (SPX) Nov 26, 2025\n\n\nIn the 1930s, astronomer Fritz Zwicky noted that galaxies moved faster than expected for their visible mass, suggesting an unseen matter now known as dark matter. Since then, dark matter remained unobserved except through its gravitational effect on visible matter. \n\nResearchers have targeted areas dense in dark matter to find signals predicted by theoretical models. A leading hypothesis hol",
     "published_at": "2025-11-26T09:07:05Z",
     "updated_at": "2025-11-26T08:00:12.665207Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34254,
+    "title": "NASA's Mars Spacecraft Capture Images of Comet 3I/ATLAS",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASAs_Mars_Spacecraft_Capture_Images_of_Comet_3I_ATLAS_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/maven-3i-atlas-interstellar-comet-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Pasadena CA (JPL) Nov 21, 2025\n\n\nTwo orbiters and a rover captured images of the interstellar object - from the closest location any of the agency's spacecraft may get - that could reveal new details. \n\nAt the start of October, three of NASA's Mars spacecraft had front row seats to view 3I/ATLAS, only the third interstellar object so far discovered in our solar system. The Mars Reconnaissance Orbiter (MRO) snapped a close-u",
+    "published_at": "2025-11-26T09:07:05Z",
+    "updated_at": "2025-11-26T08:00:12.690231Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -971,6 +991,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34251,
+    "title": "OSIRIS-APEX spacecraft completes Earth flyby on its journey to explore Apophis",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/OSIRIS_APEX_spacecraft_completes_Earth_flyby_on_its_journey_to_explore_Apophis_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/osiris-apex-228,000-km-earth-flyby-australia-six-pics-mapcam-arizonau-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Nov 26, 2025\n\n\nNASA's OSIRIS-APEX spacecraft flew within 2,136 miles of Earth on Tuesday, Sept. 23, as part of its mission to study the near-Earth asteroid Apophis. \n\nDuring its close approach, the spacecraft recorded images and data of Earth. These observations are being used to calibrate its science instruments. Approximately nine hours after passing by, OSIRIS-APEX was 142,000 miles from Earth and trave",
+    "published_at": "2025-11-26T04:56:28Z",
+    "updated_at": "2025-11-26T03:50:10.590250Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34249,
     "title": "NASA Orbiter Shines New Light on Long-Running Martian Mystery",
     "authors": [
@@ -991,26 +1031,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34248,
-    "title": "ESCAPADE spacecraft capture first images while en route to Mars",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/ESCAPADE_spacecraft_capture_first_images_while_en_route_to_Mars_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/escapade-selfies-solar-panel-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Nov 26, 2025\n\n\nAbout a week after liftoff, the twin spacecraft of NASA's ESCAPADE mission returned their first images as they journey away from Earth. On November 21, one of the two spacecraft used its Visible and Infrared Observation System - developed at Northern Arizona University - to photograph the edge of a solar panel. \n\nThe pair of self-portraits includes a visible-light photo and an infrared image",
-    "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.556647Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34250,
     "title": "Second CHAPEA Crew Begins Extended Mars Habitat Mission at NASA Johnson",
     "authors": [
@@ -1025,26 +1045,6 @@
     "summary": "Los Angeles CA (SPX) Nov 26, 2025\n\n\nNASA's second CHAPEA (Crew Health and Performance Exploration Analog) mission is underway with four volunteers - Ross Elder, Ellen Ellis, Matthew Montgomery, and James Spicer - beginning a 378-day simulated Mars stay inside a 1,700-square-foot 3D-printed habitat at Johnson Space Center in Houston. The mission started October 19, 2025, and will conclude on October 31, 2026. \n\nThe crew will re",
     "published_at": "2025-11-26T04:56:28Z",
     "updated_at": "2025-11-26T03:50:10.581208Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34251,
-    "title": "OSIRIS-APEX spacecraft completes Earth flyby on its journey to explore Apophis",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/OSIRIS_APEX_spacecraft_completes_Earth_flyby_on_its_journey_to_explore_Apophis_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/osiris-apex-228,000-km-earth-flyby-australia-six-pics-mapcam-arizonau-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 26, 2025\n\n\nNASA's OSIRIS-APEX spacecraft flew within 2,136 miles of Earth on Tuesday, Sept. 23, as part of its mission to study the near-Earth asteroid Apophis. \n\nDuring its close approach, the spacecraft recorded images and data of Earth. These observations are being used to calibrate its science instruments. Approximately nine hours after passing by, OSIRIS-APEX was 142,000 miles from Earth and trave",
-    "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.590250Z",
     "featured": false,
     "launches": [],
     "events": [],
