@@ -1,6 +1,6 @@
 {
-  "count": 12,
-  "last_updated": "2025-11-28T12:02:24.717883Z",
+  "count": 13,
+  "last_updated": "2025-11-28T18:01:40.960277Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (12 failed/unavailable)"
+    "Empty AI summaries (13 failed/unavailable)"
   ],
   "launches": [
     {
@@ -60,6 +60,47 @@
           "url": "https://x.com/i/broadcasts/1vOGwdgMWgWJB"
         }
       ],
+      "ai_summary": ""
+    },
+    {
+      "id": "c6ddf5f6-4d5a-4059-8254-6b9f14bf5b87",
+      "name": "Long March 7A | Unknown Payload",
+      "status": "Go",
+      "net": "2025-11-30T12:20:00Z",
+      "window_start": "2025-11-30T12:12:00Z",
+      "window_end": "2025-11-30T13:30:00Z",
+      "lsp_name": "China Aerospace Science and Technology Corporation",
+      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "lsp_type": "Government",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
+      "mission_name": "Unknown Payload",
+      "mission_description": "Details TBD.",
+      "mission_type": "Unknown",
+      "orbit": "Unknown",
+      "launch_site": "201, Wenchang Space Launch Site, People's Republic of China",
+      "pad": "201",
+      "location": "Wenchang Space Launch Site, People's Republic of China",
+      "rocket": "Long March 7A",
+      "rocket_config_description": "",
+      "rocket_config_family": "Long March",
+      "rocket_config_full_name": "Long March 7A",
+      "rocket_config_total_launch_count": 12,
+      "rocket_config_successful_launches": 11,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
+      "rocket_manufacturer_type": "Government",
+      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "rocket_manufacturer_total_launch_count": 557,
+      "rocket_manufacturer_successful_launches": 543,
+      "rocket_manufacturer_failed_launches": 14,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7a_image_20210311201838.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/c6ddf5f6-4d5a-4059-8254-6b9f14bf5b87/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
       "ai_summary": ""
     },
     {
@@ -594,7 +635,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 12,
-    "total_launches": 12
+    "empty_summaries": 13,
+    "total_launches": 13
   }
 }

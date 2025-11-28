@@ -1,5 +1,125 @@
 [
   {
+    "id": 34301,
+    "title": "Live coverage: SpaceX to launch 140 spacecraft on Transporter-15 rideshare",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/11/28/live-coverage-spacex-to-launch-140-spacecraft-on-transporter-15-rideshare/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/11/20251128_Transporter-15_stack.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The planned flight comes two days after SpaceX scrubbed a launch attempt on Wednesday amid fueling. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 10:44 a.m. PST (1:44 p.m. EST / 1844 UTC). ",
+    "published_at": "2025-11-28T17:36:38Z",
+    "updated_at": "2025-11-28T17:40:31.972072Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34299,
+    "title": "Russian launch pad incident raises concerns about future of space station",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/soyuz1.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"We are going to learn just how important the ISS is to leadership.\"",
+    "published_at": "2025-11-28T16:16:48Z",
+    "updated_at": "2025-11-28T16:30:04.786495Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34300,
+    "title": "CM25: A historic step forward for Europe’s space technology leadership",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/CM25_A_historic_step_forward_for_Europe_s_space_technology_leadership",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/success_for_europe_s_space_technology_at_cm25/27002469-1-eng-GB/Success_for_Europe_s_space_technology_at_CM25_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The ESA Council at Ministerial Level (CM25) delivered a record-breaking €22.1 billion in commitments from Member States. This is a historic achievement and a clear signal of trust in ESA’s ability to deliver success through expertise and innovation.  ",
+    "published_at": "2025-11-28T16:05:00Z",
+    "updated_at": "2025-11-28T17:10:20.129796Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34297,
+    "title": "ESA Commits to Being an Anchor Customer for LEO Cargo Return Services",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-commits-to-being-an-anchor-customer-for-leo-cargo-return-services/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/ESA-Commits-to-Being-an-Anchor-Customer-for-LEO-Cargo-Return-Services.webp",
+    "news_site": "European Spaceflight",
+    "summary": "During the European Space Agency (ESA) Ministerial Council meeting in Bremen (CM25), Member States agreed to fund two cargo delivery demonstration missions to the International Space Station (ISS). The agency also committed to serving as an anchor customer for the resulting commercial service once the systems have been successfully proven. With the LEO Cargo Return […]\nThe post ESA Commits to Being an Anchor Customer for LEO Cargo Return Services appeared first on European Spaceflight.",
+    "published_at": "2025-11-28T14:20:49Z",
+    "updated_at": "2025-11-28T14:30:11.072924Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34296,
+    "title": "Week in images: 24-28 November 2025",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_November_2025",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/ministers_and_high-level_representatives_gather_for_esa_s_ministerial_council/26994561-1-eng-GB/Ministers_and_high-level_representatives_gather_for_ESA_s_Ministerial_Council_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Week in images: 24-28 November 2025",
+    "published_at": "2025-11-28T14:15:00Z",
+    "updated_at": "2025-11-28T14:10:13.162497Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34298,
+    "title": "Follow the Galileo launch (L14) campaign",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Follow_the_Galileo_launch_L14_campaign",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/galileo_satellites_transported_to_europe_s_spaceport_in_french_guiana/26980017-1-eng-GB/Galileo_satellites_transported_to_Europe_s_Spaceport_in_French_Guiana_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "On 17 December, two Galileo satellites will be launched on Ariane 6 from Europe’s Spaceport in French Guiana in the 14th operational launch of the Galileo programme. These satellites will improve the precision, availability and robustness of the Galileo system by adding spares to guarantee the system can always provide a navigation signal for users worldwide. This will be Galileo’s first launch on Ariane 6 and the fifth launch of Europe’s heavy-lift launcher.",
+    "published_at": "2025-11-28T14:07:00Z",
+    "updated_at": "2025-11-28T15:30:14.737964Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34295,
     "title": "Earth from Space: Eye of the Sahara",
     "authors": [
@@ -844,20 +964,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34255,
-    "title": "Researchers use X ray analysis to examine flown European satellite",
+    "id": 34256,
+    "title": "White dwarf magnetic field study reveals inner accretion dynamics",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Researchers_use_X_ray_analysis_to_examine_flown_European_satellite_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/eureca-satellite-x-ray-images-reusuable-spacecraft-material-testing-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/White_dwarf_magnetic_field_study_reveals_inner_accretion_dynamics_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/white-dwarf-stripping-mass-from-brown-dwarf-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Dubendorf, Switzerland (SPX) Nov 25 2025\n\n\nEmpa specialists carried out a comprehensive study of the EURECA European satellite, employing non-destructive X-ray imaging to investigate its internal features after the spacecraft's return from orbit. EURECA, launched in 1992 aboard Space Shuttle Atlantis by Swiss astronaut Claude Nicollier, completed eleven months in orbit before its recovery by Space Shuttle Endeavour and return to Earth in",
+    "summary": "Cambridge, MA (SPX) Nov 21, 2025\n\n\nSome 200 light years from Earth, the core of a dead star is circling a larger star in a macabre cosmic dance. The dead star is a type of white dwarf that exerts a powerful magnetic field as it pulls material from the larger star into a swirling, accreting disk. The spiraling pair is what's known as an \"intermediate polar\" - a type of star system that gives off a complex pattern of intense radiat",
     "published_at": "2025-11-26T09:07:05Z",
-    "updated_at": "2025-11-26T08:00:12.699782Z",
+    "updated_at": "2025-11-26T08:00:12.727207Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -884,6 +1004,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34255,
+    "title": "Researchers use X ray analysis to examine flown European satellite",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Researchers_use_X_ray_analysis_to_examine_flown_European_satellite_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/eureca-satellite-x-ray-images-reusuable-spacecraft-material-testing-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Dubendorf, Switzerland (SPX) Nov 25 2025\n\n\nEmpa specialists carried out a comprehensive study of the EURECA European satellite, employing non-destructive X-ray imaging to investigate its internal features after the spacecraft's return from orbit. EURECA, launched in 1992 aboard Space Shuttle Atlantis by Swiss astronaut Claude Nicollier, completed eleven months in orbit before its recovery by Space Shuttle Endeavour and return to Earth in",
+    "published_at": "2025-11-26T09:07:05Z",
+    "updated_at": "2025-11-26T08:00:12.699782Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34254,
     "title": "NASA's Mars Spacecraft Capture Images of Comet 3I/ATLAS",
     "authors": [
@@ -898,153 +1038,6 @@
     "summary": "Pasadena CA (JPL) Nov 21, 2025\n\n\nTwo orbiters and a rover captured images of the interstellar object - from the closest location any of the agency's spacecraft may get - that could reveal new details. \n\nAt the start of October, three of NASA's Mars spacecraft had front row seats to view 3I/ATLAS, only the third interstellar object so far discovered in our solar system. The Mars Reconnaissance Orbiter (MRO) snapped a close-u",
     "published_at": "2025-11-26T09:07:05Z",
     "updated_at": "2025-11-26T08:00:12.690231Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34256,
-    "title": "White dwarf magnetic field study reveals inner accretion dynamics",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/White_dwarf_magnetic_field_study_reveals_inner_accretion_dynamics_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/white-dwarf-stripping-mass-from-brown-dwarf-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Cambridge, MA (SPX) Nov 21, 2025\n\n\nSome 200 light years from Earth, the core of a dead star is circling a larger star in a macabre cosmic dance. The dead star is a type of white dwarf that exerts a powerful magnetic field as it pulls material from the larger star into a swirling, accreting disk. The spiraling pair is what's known as an \"intermediate polar\" - a type of star system that gives off a complex pattern of intense radiat",
-    "published_at": "2025-11-26T09:07:05Z",
-    "updated_at": "2025-11-26T08:00:12.727207Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34257,
-    "title": "ESA members to decide on Europe’s future in space at ministerial conference",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/esa-members-to-decide-on-europes-future-in-space-at-ministerial-conference/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/cm25-preview.jpeg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nESA and its supporters will discover in the next two days how successful they have been in convincing European governments to significantly increase investments in space and bolster European autonomy.\nThe post ESA members to decide on Europe’s future in space at ministerial conference appeared first on SpaceNews.",
-    "published_at": "2025-11-26T08:06:20Z",
-    "updated_at": "2025-11-26T08:10:17.348398Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34246,
-    "title": "NASA changes Starliner contract: First ISS mission to carry only cargo",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_changes_Starliner_contract_First_ISS_mission_to_carry_only_cargo_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/boeing-starliner-docked-iss-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Miami FL (UPI) Nov 26, 2025\n\n\nBoeing's Starliner spacecraft will only fly cargo to the International Space Station after NASA changed the contract with Boeing that also cut the number of missions for the craft. \n\nOn Monday, NASA announced the update to the 2014 contract. It originally said there would be six crewed flights to the ISS after a successful uncrewed flight test. Now the contract says the total will be four mi",
-    "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.500530Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34247,
-    "title": "Soyuz rocket positioned at Baikonur for ISS crew launch as Cygnus XL temporarily removed",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Soyuz_rocket_positioned_at_Baikonur_for_ISS_crew_launch_as_Cygnus_XL_temporarily_removed_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/northrop-grumman-ng-15-cygnus-katherine-johnson-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Houston TX (SPX) Nov 26, 2025\n\n\nThe Soyuz MS-28 rocket was set upright at the Baikonur Cosmodrome in Kazakhstan on November 24 for the crewed mission scheduled for November 27. NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergey Mikaev will launch aboard Soyuz MS-28 at 4:27 a.m. EDT and dock to the space station's Rassvet module after two Earth orbits to begin an eight-month research mission.",
-    "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.542967Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34251,
-    "title": "OSIRIS-APEX spacecraft completes Earth flyby on its journey to explore Apophis",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/OSIRIS_APEX_spacecraft_completes_Earth_flyby_on_its_journey_to_explore_Apophis_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/osiris-apex-228,000-km-earth-flyby-australia-six-pics-mapcam-arizonau-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 26, 2025\n\n\nNASA's OSIRIS-APEX spacecraft flew within 2,136 miles of Earth on Tuesday, Sept. 23, as part of its mission to study the near-Earth asteroid Apophis. \n\nDuring its close approach, the spacecraft recorded images and data of Earth. These observations are being used to calibrate its science instruments. Approximately nine hours after passing by, OSIRIS-APEX was 142,000 miles from Earth and trave",
-    "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.590250Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34249,
-    "title": "NASA Orbiter Shines New Light on Long-Running Martian Mystery",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/NASA_Orbiter_Shines_New_Light_on_Long_Running_Martian_Mystery_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-express-2018-signal-underground-lake-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena, Calif. (SPX) Nov 26, 2025\n\n\nResults from an enhanced radar technique have demonstrated improvement to subsurface observations of Mars. \n\nNASA's Mars Reconnaissance Orbiter (MRO) has revisited and raised new questions about a mysterious feature buried beneath thousands of feet of ice at the Red Planet's south pole. In a recent study, researchers conclude from data obtained using an innovative radar technique that an are",
-    "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.570081Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34250,
-    "title": "Second CHAPEA Crew Begins Extended Mars Habitat Mission at NASA Johnson",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Second_CHAPEA_Crew_Begins_Extended_Mars_Habitat_Mission_at_NASA_Johnson_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nasa-mars-base-analog-chapea-2-elder-ellis-montgomery-spicer-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 26, 2025\n\n\nNASA's second CHAPEA (Crew Health and Performance Exploration Analog) mission is underway with four volunteers - Ross Elder, Ellen Ellis, Matthew Montgomery, and James Spicer - beginning a 378-day simulated Mars stay inside a 1,700-square-foot 3D-printed habitat at Johnson Space Center in Houston. The mission started October 19, 2025, and will conclude on October 31, 2026. \n\nThe crew will re",
-    "published_at": "2025-11-26T04:56:28Z",
-    "updated_at": "2025-11-26T03:50:10.581208Z",
     "featured": false,
     "launches": [],
     "events": [],
