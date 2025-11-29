@@ -1,6 +1,6 @@
 {
-  "count": 13,
-  "last_updated": "2025-11-28T18:01:40.960277Z",
+  "count": 12,
+  "last_updated": "2025-11-29T00:04:15.530752Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,58 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (13 failed/unavailable)"
+    "Empty AI summaries (12 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "dc4c201e-b11d-4650-91cc-ecc2eec95598",
-      "name": "Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)",
-      "status": "Go",
-      "net": "2025-11-19T18:18:00Z",
-      "window_start": "2025-11-19T18:18:00Z",
-      "window_end": "2025-11-19T19:15:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Transporter 15 (Dedicated SSO Rideshare)",
-      "mission_description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
-      "mission_type": "Dedicated Rideshare",
-      "orbit": "Sun-Synchronous Orbit",
-      "launch_site": "Space Launch Complex 4E, Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 4E",
-      "location": "Vandenberg SFB, CA, USA",
-      "rocket": "Falcon 9 Block 5",
-      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
-      "rocket_config_family": "Falcon",
-      "rocket_config_full_name": "Falcon 9 Block 5",
-      "rocket_config_total_launch_count": 505,
-      "rocket_config_successful_launches": 504,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 100,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 598,
-      "rocket_manufacturer_successful_launches": 583,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/dc4c201e-b11d-4650-91cc-ecc2eec95598/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 10,
-          "title": "Transporter-15 Mission",
-          "description": "Livestream on X",
-          "feature_image": "https://pbs.twimg.com/media/G5Gn36qWkAAWTRL.jpg",
-          "url": "https://x.com/i/broadcasts/1vOGwdgMWgWJB"
-        }
-      ],
-      "ai_summary": ""
-    },
     {
       "id": "c6ddf5f6-4d5a-4059-8254-6b9f14bf5b87",
       "name": "Long March 7A | Unknown Payload",
@@ -635,7 +586,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 13,
-    "total_launches": 13
+    "empty_summaries": 12,
+    "total_launches": 12
   }
 }
