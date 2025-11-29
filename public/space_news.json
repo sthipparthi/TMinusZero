@@ -1,5 +1,72 @@
 [
   {
+    "id": 34314,
+    "title": "Baikonur pad damaged in Soyuz launch to ISS",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/baikonur-pad-damaged-in-soyuz-launch-to-iss/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/54953022444_8e0647b78d_k.jpg?fit=1024%2C680&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Baiknour pad used for the launch of the latest crew to the ISS has sustained damage, raising questions about its ability to support upcoming missions to the station.\nThe post Baikonur pad damaged in Soyuz launch to ISS appeared first on SpaceNews.",
+    "published_at": "2025-11-29T09:15:54Z",
+    "updated_at": "2025-11-29T09:20:19.155717Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34313,
+    "title": "Italian mission adds to growing IRIDE space fleet",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Italian_mission_adds_to_growing_IRIDE_space_fleet",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/iride_s_eaglet_ii_satellites_launched_from_vandenberg/26960133-1-eng-GB/IRIDE_s_Eaglet_II_satellites_launched_from_Vandenberg_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The Italian programme IRIDE, which provides public sector services based on data from its fleet of Earth observation constellations, has added eight satellites to its second constellation, Eaglet II.",
+    "published_at": "2025-11-29T08:00:00Z",
+    "updated_at": "2025-11-29T08:20:19.972821Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34312,
+    "title": "High-resolution radar satellites launched for Greece",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/High-resolution_radar_satellites_launched_for_Greece",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/athens_from_iceye/26980855-6-eng-GB/Athens_from_ICEYE_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Thanks to the EU-funded Recovery and Resilience Facility, and through collaboration between the Greek government, the private satellite company ICEYE and the European Space Agency (ESA), two new high-resolution radar satellites have been launched to strengthen disaster management, environmental monitoring and national security across Greece.",
+    "published_at": "2025-11-29T07:00:00Z",
+    "updated_at": "2025-11-29T07:50:25.572220Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34311,
     "title": "CNES Expands “Astronaut for a Day” Initiative Following Successful First Year",
     "authors": [
@@ -971,66 +1038,6 @@
     "summary": "\nBREMEN, Germany –  As the 23 member states of the European Space Agency meet this week to decide its budget for the next three years, its three major contributors – Germany, France and Italy – are signaling they will heavily support the agency. Yet even as ESA leaders push for unity, officials from those countries […]\nThe post Diverging priorities shape opening day of ESA Ministerial 2025 appeared first on SpaceNews.",
     "published_at": "2025-11-26T17:01:38Z",
     "updated_at": "2025-11-26T17:10:17.882740Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34265,
-    "title": "Exploration and Space Transportation See Largest ESA Funding Boosts",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/exploration-and-space-transportation-see-largest-esa-funding-boosts/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/Exploration-and-Space-Transportation-See-Largest-ESA-Funding-Boosts.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency (ESA) has proposed a budget of €22.254 billion for the next three years, up from €16.9 billion in the previous funding period. A significant portion of the increase is due to the introduction of the agency’s new European Resilience from Space (ERS) programme, which has a proposed budget of €1.35 billion. […]\nThe post Exploration and Space Transportation See Largest ESA Funding Boosts appeared first on European Spaceflight.",
-    "published_at": "2025-11-26T16:52:45Z",
-    "updated_at": "2025-11-26T17:00:14.363201Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34266,
-    "title": "Ministers and high-level representatives gather for ESA's Ministerial Council",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/11/Ministers_and_high-level_representatives_gather_for_ESA_s_Ministerial_Council",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/ministers_and_high-level_representatives_gather_for_esa_s_ministerial_council/26994561-1-eng-GB/Ministers_and_high-level_representatives_gather_for_ESA_s_Ministerial_Council_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-11-26T16:38:00Z",
-    "updated_at": "2025-11-26T17:00:16.865083Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34264,
-    "title": "Live coverage: SpaceX to launch dozens of smallsats on Transporter-15 rideshare flight",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/11/26/live-coverage-spacex-to-launch-dozens-of-smallsats-on-transporter-15-rideshare-flight/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/03/20250320_NROL_57_Vertical_small-678x313.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The flight will be the largest mission for Exolaunch, which managing the manifesting and deployment of 59 satellites onboard the Falcon 9 rocket. Liftoff from pad 4 East at Vandenberg Space Force Base is scheduled at 10:19 a.m. PST (1:19 p.m. EST / 1819 UTC). ",
-    "published_at": "2025-11-26T16:03:57Z",
-    "updated_at": "2025-11-26T16:10:27.623611Z",
     "featured": false,
     "launches": [],
     "events": [],
