@@ -1,5 +1,85 @@
 [
   {
+    "id": 34328,
+    "title": "China launches classified Shijian-28 spacecraft, reusable Zhuque-3 rocket faces delay",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-launches-classified-shijian-28-spacecraft-reusable-zhuque-3-rocket-faces-delay/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Shijian28-CZ7A-WSLSC-30nov2025-CASC.jpg?fit=1024%2C686&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChina launched the latest in a series of experimental, often opaque satellites Sunday, while the debut flight of the commercial Zhuque-3 faces a delay.\nThe post China launches classified Shijian-28 spacecraft, reusable Zhuque-3 rocket faces delay appeared first on SpaceNews.",
+    "published_at": "2025-11-30T22:42:22Z",
+    "updated_at": "2025-11-30T22:50:35.081646Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34327,
+    "title": "Russia left without access to ISS following structure collapse at Baikonur launch site",
+    "authors": [
+      {
+        "name": "P. Katin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/11/site-31-accident/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/IMG_4542-scaled.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "On Nov. 27, after the launch of the Soyuz 2.1a rocket with the Soyuz MS-28…\nThe post Russia left without access to ISS following structure collapse at Baikonur launch site appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-11-30T22:18:25Z",
+    "updated_at": "2025-11-30T22:20:27.474743Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34326,
+    "title": "What’s Happening in Space Policy November 30-December 6, 2025",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-30-december-6-2025/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/04/Isaacman-Apr-9-25-hrg-NASA-300x219.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 30-December 6, 2025 and any insight we can offer about them. The House and Senate are in […]",
+    "published_at": "2025-11-30T20:49:45Z",
+    "updated_at": "2025-11-30T20:50:25.328746Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34325,
+    "title": "China’s Shijian spacecraft separate after pioneering geosynchronous orbit refueling tests",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/chinas-shijian-spacecraft-separate-after-pioneering-geosynchronous-orbit-refueling-tests/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/shijian25-cz3b-xslc-6jan2024-ourspace-1.jpg?fit=1024%2C690&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA pair of experimental Shijian satellites have separated in geosynchronous orbit after being docked for months conducting apparent low-profile on-orbit refueling tests.\nThe post China’s Shijian spacecraft separate after pioneering geosynchronous orbit refueling tests appeared first on SpaceNews.",
+    "published_at": "2025-11-30T19:08:32Z",
+    "updated_at": "2025-11-30T19:10:49.237144Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34324,
     "title": "Live coverage: SpaceX kicks off December with midnight Falcon 9 rocket launch",
     "authors": [
@@ -80,20 +160,40 @@
     "detailed_news": ""
   },
   {
-    "id": 34322,
-    "title": "Sivers Semiconductors and Doosan Announce Joint Initiative to Advance Ka-Band SATCOM Antenna Technology",
+    "id": 34317,
+    "title": "LUCI optical terminal to link satellites for France 2030 space program",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Sivers_Semiconductors_and_Doosan_Announce_Joint_Initiative_to_Advance_Ka_Band_SATCOM_Antenna_Technology_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sivers-semiconductors-logo-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/LUCI_optical_terminal_to_link_satellites_for_France_2030_space_program_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/france-cso-1-military-earth-observation-satellite-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Nov 26, 2025\n\n\nSivers Semiconductors AB has entered a $1.5 million contract with Doosan Corporation to jointly develop scalable electronically steerable array (ESA) antenna panels for Ka-band satellite communications. \n\nThe agreement will support the design and development of ESA systems using Sivers' upcoming Ka-band SATCOM beamforming integrated circuits (BFICs). These advanced BFICs, designed for multi-",
+    "summary": "Paris, France (SPX) Nov 28, 2025\n\n\nOledcomm is developing a new optical terminal called LUCI to provide inter-satellite communications for the French space agency CNES within the France 2030 program. The company, which focuses on wireless optical links, will build and demonstrate a bidirectional inter-satellite service using this compact terminal for the program's space component. \n\nLUCI, short for Ultra-Compact Inter-Satelli",
     "published_at": "2025-11-29T15:16:15Z",
-    "updated_at": "2025-11-29T14:10:17.224082Z",
+    "updated_at": "2025-11-29T14:10:17.165616Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34319,
+    "title": "Life, Culture and AI: Why 'plagiarism' Is Our Default Operating System",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Life_Culture_and_AI_Why_Plagiarism_Is_Our_Default_Operating_System_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rosetta-stone-cheat-sheet-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Gerroa, Australia (SPX) Nov 28, 2025\n\nAs AI models are accused of stealing the world's creativity, a deeper view emerges: life, culture - and now machines - all run on ceaseless pattern-copying, much like an extreme, accelerated form of reading. The real novelty is that humans invented the idea of \"Plagiarism\" with a capital P.",
+    "published_at": "2025-11-29T15:16:15Z",
+    "updated_at": "2025-11-29T14:10:17.192799Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -120,26 +220,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34317,
-    "title": "LUCI optical terminal to link satellites for France 2030 space program",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/LUCI_optical_terminal_to_link_satellites_for_France_2030_space_program_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/france-cso-1-military-earth-observation-satellite-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Nov 28, 2025\n\n\nOledcomm is developing a new optical terminal called LUCI to provide inter-satellite communications for the French space agency CNES within the France 2030 program. The company, which focuses on wireless optical links, will build and demonstrate a bidirectional inter-satellite service using this compact terminal for the program's space component. \n\nLUCI, short for Ultra-Compact Inter-Satelli",
-    "published_at": "2025-11-29T15:16:15Z",
-    "updated_at": "2025-11-29T14:10:17.165616Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34316,
     "title": "Spire and Planet expand satellite fleets on Transporter 15 mission",
     "authors": [
@@ -160,20 +240,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34319,
-    "title": "Life, Culture and AI: Why 'plagiarism' Is Our Default Operating System",
+    "id": 34322,
+    "title": "Sivers Semiconductors and Doosan Announce Joint Initiative to Advance Ka-Band SATCOM Antenna Technology",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Life_Culture_and_AI_Why_Plagiarism_Is_Our_Default_Operating_System_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rosetta-stone-cheat-sheet-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Sivers_Semiconductors_and_Doosan_Announce_Joint_Initiative_to_Advance_Ka_Band_SATCOM_Antenna_Technology_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/sivers-semiconductors-logo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Gerroa, Australia (SPX) Nov 28, 2025\n\nAs AI models are accused of stealing the world's creativity, a deeper view emerges: life, culture - and now machines - all run on ceaseless pattern-copying, much like an extreme, accelerated form of reading. The real novelty is that humans invented the idea of \"Plagiarism\" with a capital P.",
+    "summary": "Berlin, Germany (SPX) Nov 26, 2025\n\n\nSivers Semiconductors AB has entered a $1.5 million contract with Doosan Corporation to jointly develop scalable electronically steerable array (ESA) antenna panels for Ka-band satellite communications. \n\nThe agreement will support the design and development of ESA systems using Sivers' upcoming Ka-band SATCOM beamforming integrated circuits (BFICs). These advanced BFICs, designed for multi-",
     "published_at": "2025-11-29T15:16:15Z",
-    "updated_at": "2025-11-29T14:10:17.192799Z",
+    "updated_at": "2025-11-29T14:10:17.224082Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -949,91 +1029,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "detailed_news": ""
-  },
-  {
-    "id": 34280,
-    "title": "China set for first orbital launch and landing attempt this weekend with commercial Zhuque-3 rocket",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/china-set-for-first-orbital-launch-and-landing-attempt-this-weekend-with-commercial-zhuque-3-rocket/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Zhuque3-1st-stage-static-fire-Jiquuan-20june2025-Landspace.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nHELSINKI — Chinese commercial launch firm Landspace is preparing to attempt the country’s first orbital launch and booster landing this weekend with its Zhuque-3 rocket. Airspace closure notices issued under the Civil Aviation Administration of China (CAAC) indicate a launch attempt from the vicinity of Jiuquan Satellite Launch Center between around 11:00 p.m. Eastern Nov. […]\nThe post China set for first orbital launch and landing attempt this weekend with commercial Zhuque-3 rocket appeared first on SpaceNews.",
-    "published_at": "2025-11-27T11:06:44Z",
-    "updated_at": "2025-11-27T11:10:17.190340Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34279,
-    "title": "ESA and Norway announce plans for an Arctic Space Centre",
-    "authors": [
-      {
-        "name": "Emma Gatti",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/esa-and-norway-announce-plans-for-an-arctic-space-centre/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Norwegian_Minister_of_Trade_and_Industry_Cecilie_Myrseth_and_ESA_Director_General_Josef_Aschbacher_sign_letter_of_intent-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nESA and Norway have signed a letter of intent and formed a joint working group to assess the feasibility of a new ESA Arctic Space Centre.\nThe post ESA and Norway announce plans for an Arctic Space Centre appeared first on SpaceNews.",
-    "published_at": "2025-11-27T10:32:44Z",
-    "updated_at": "2025-11-27T10:40:19.618833Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34278,
-    "title": "Inaugural Space Rider Flight to Occur in 2028",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/inaugural-space-rider-flight-to-occur-in-2028/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/Inaugural-Space-Rider-Flight-to-Occur-in-2028.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency has announced that the inaugural flight of its reusable Space Rider vehicle is expected in 2028. Space Rider is an eight-metre-long reusable spacecraft designed to carry technology demonstration and scientific payloads into orbit for up to two months before returning them to Earth. The spacecraft employs a steerable parafoil to enable […]\r\nThe post Inaugural Space Rider Flight to Occur in 2028 appeared first on European Spaceflight.",
-    "published_at": "2025-11-27T09:40:51Z",
-    "updated_at": "2025-11-27T10:51:15.739713Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d74f2e7b-a8b7-4d8f-8ecd-193e73937664",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34277,
-    "title": "Pacific Geomatics and SI Analytics Announce Strategic Partnership to Deliver Super-Resolution Capabilities Across Canada",
-    "authors": [
-      {
-        "name": "Pacific Geomatics Limited (PacGeo)",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/pacific-geomatics-and-si-analytics-announce-strategic-partnership-to-deliver-super-resolution-capabilities-across-canada/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/pacgeo.jpg?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nVictoria, Canada / Seoul, South Korea – November 27th, 2025 – Pacific Geomatics Limited (PacGeo), a Canadian satellite imagery distributor, today announced a strategic partnership with SI Analytics (SIA), a […]\nThe post Pacific Geomatics and SI Analytics Announce Strategic Partnership to Deliver Super-Resolution Capabilities Across Canada appeared first on SpaceNews.",
-    "published_at": "2025-11-27T03:52:58Z",
-    "updated_at": "2025-11-27T04:00:32.882596Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
     "detailed_news": ""
   }
 ]
