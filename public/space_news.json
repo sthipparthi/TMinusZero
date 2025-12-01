@@ -1,5 +1,125 @@
 [
   {
+    "id": 34344,
+    "title": "Sagittarius B2 Molecular Cloud",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/sagittarius-b2-molecular-cloud/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/54809196576-59e88854d5-o.jpg",
+    "news_site": "NASA",
+    "summary": "The Mid-Infrared Instrument (MIRI) on NASA’s James Webb Space Telescope captured glowing cosmic dust heated by very young massive stars in unprecedented detail in this image of the Sagittarius B2 (Sgr B2) molecular cloud released on Sept. 24, 2025. Sgr B2 is the most massive, and active star-forming region in our galaxy, located only a […]",
+    "published_at": "2025-12-01T17:44:24Z",
+    "updated_at": "2025-12-01T17:50:05.317572Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34343,
+    "title": "Space CEO explains why he believes private space stations are a viable business",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/12/space-ceo-explains-why-he-believes-private-space-stations-are-a-viable-business/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2219047538.jpg",
+    "news_site": "Arstechnica",
+    "summary": "Voyager Technologies Chairman Dylan Taylor checks in with Ars from the space station frontier.",
+    "published_at": "2025-12-01T17:40:14Z",
+    "updated_at": "2025-12-01T17:50:04.021390Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34342,
+    "title": "Flooding in Sri Lanka",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/12/Flooding_in_Sri_Lanka",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/flooding_in_sri_lanka/27004196-1-eng-GB/Flooding_in_Sri_Lanka_card_full.gif",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-12-01T15:50:00Z",
+    "updated_at": "2025-12-01T16:20:12.843229Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34338,
+    "title": "ArianeGroup Launches Inaugural Flight of Suborbital SyLEx Rocket",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/arianegroup-launches-inaugural-flight-of-suborbital-sylex-rocket/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/12/ArianeGroup-Launches-Inaugural-Flight-of-Suborbital-SyLEx-Rocket.webp",
+    "news_site": "European Spaceflight",
+    "summary": "ArianeGroup has launched the first flight of its SyLEx rocket from the Directorate General of Armaments (DGA) Missile Testing Centre in Biscarrosse. The DGA contracted ArianeGroup to begin working on the multi-use suborbital launch system in 2021. According to a DGA press release dated 28 November, SyLEx (Système de Lancement d’Expériences, or Experimental Launch System) […]\nThe post ArianeGroup Launches Inaugural Flight of Suborbital SyLEx Rocket appeared first on European Spaceflight.",
+    "published_at": "2025-12-01T12:38:34Z",
+    "updated_at": "2025-12-01T12:40:42.187073Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34336,
+    "title": "The EU Space Act: a call for true strategic fairness",
+    "authors": [
+      {
+        "name": "Olivier Lemaitre",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-eu-space-act-a-call-for-true-strategic-fairness/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/Europe.A2015111.1050.250m-scaled.jpg?fit=1024%2C794&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nBefore we start, a caveat: The following opinion is only relevant in a situation where the EU, together with its member states, would eventually decide to invest enough to equip itself with space capabilities commensurate with Europe’s economic importance, the role it wants to play in the world and current security threats (meaning: significantly more […]\nThe post The EU Space Act: a call for true strategic fairness appeared first on SpaceNews.",
+    "published_at": "2025-12-01T12:00:00Z",
+    "updated_at": "2025-12-01T12:10:17.994792Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34337,
+    "title": "The future is now: understanding the once far-off technologies becoming reality",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-future-is-now-understanding-the-once-far-off-technologies-becoming-reality/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Dragonfly_Flight-scaled.png?fit=1024%2C732&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe technologies pushing the boundaries of the space economy sound as if they came from a science fiction novel: reusable rockets, satellite assembly lines, lunar landers and octocopters. On Nov. […]\nThe post The future is now: understanding the once far-off technologies becoming reality appeared first on SpaceNews.",
+    "published_at": "2025-12-01T12:00:00Z",
+    "updated_at": "2025-12-01T12:10:18.018434Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34335,
     "title": "Mark Elder: Building the Future of Spacewalking for Artemis and Beyond",
     "authors": [
@@ -14,46 +134,6 @@
     "summary": "For more than 25 years, Mark Elder has helped make human spaceflight safe and possible. As the International Space Station EVA hardware manager in the Extravehicular Activity (EVA) Office within the EVA and Human Surface Mobility Program, he leads the team responsible for the spacesuits, tools, and logistics that keep astronauts protected during spacewalks—and ensures […]",
     "published_at": "2025-12-01T11:00:00Z",
     "updated_at": "2025-12-01T11:02:12.991543Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34332,
-    "title": "X-MAT introduces X-FOAM: A game-changing ceramic foam for extreme environments",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/X-MAT_introduces_X-FOAM_A_game-changing_ceramic_foam_for_extreme_environments_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/semplastics-x-mat-x-foam-ceramic-foam-extreme-environment-burn-resistant-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Orlando, FL (SPX) Dec 01, 2025\n\nX-MAT has announced the release of X-FOAM, a 1,300°C ceramic foam engineered for use in harsh environments demanding high thermal insulation and structural performance. This machinable ceramic foam has a thermal conductivity of only 0.034 W/m·K, on par with some aerogel products; but is stiff and hard, with a compressive strength in the hundreds to thousands of PSI. It is also very light, with a density of only 0.15g/cc, seven times less dense than water.",
-    "published_at": "2025-12-01T10:11:52Z",
-    "updated_at": "2025-12-01T09:00:12.490026Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34333,
-    "title": "South Korea advances Nuri rocket program with fourth orbital launch",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/South_Korea_advances_Nuri_rocket_program_with_fourth_orbital_launch_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/south-korea-nuri-launch-night-pad-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 28, 2025\n\n\nSouth Korea has completed the fourth mission of its domestically built Nuri launch vehicle, placing a primary satellite and a group of smaller payloads into orbit from the coastal village of Goheung in the south of the country. \n\nThe 200-metric-ton rocket lifted off at 1:13 am local time after controllers resolved an abnormal signal from a pressure sensor that briefly delayed the planned lau",
-    "published_at": "2025-12-01T10:11:52Z",
-    "updated_at": "2025-12-01T09:00:12.513700Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -100,6 +180,46 @@
     "detailed_news": ""
   },
   {
+    "id": 34332,
+    "title": "X-MAT introduces X-FOAM: A game-changing ceramic foam for extreme environments",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/X-MAT_introduces_X-FOAM_A_game-changing_ceramic_foam_for_extreme_environments_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/semplastics-x-mat-x-foam-ceramic-foam-extreme-environment-burn-resistant-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Orlando, FL (SPX) Dec 01, 2025\n\nX-MAT has announced the release of X-FOAM, a 1,300°C ceramic foam engineered for use in harsh environments demanding high thermal insulation and structural performance. This machinable ceramic foam has a thermal conductivity of only 0.034 W/m·K, on par with some aerogel products; but is stiff and hard, with a compressive strength in the hundreds to thousands of PSI. It is also very light, with a density of only 0.15g/cc, seven times less dense than water.",
+    "published_at": "2025-12-01T10:11:52Z",
+    "updated_at": "2025-12-01T09:00:12.490026Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34333,
+    "title": "South Korea advances Nuri rocket program with fourth orbital launch",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/South_Korea_advances_Nuri_rocket_program_with_fourth_orbital_launch_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/south-korea-nuri-launch-night-pad-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Nov 28, 2025\n\n\nSouth Korea has completed the fourth mission of its domestically built Nuri launch vehicle, placing a primary satellite and a group of smaller payloads into orbit from the coastal village of Goheung in the south of the country. \n\nThe 200-metric-ton rocket lifted off at 1:13 am local time after controllers resolved an abnormal signal from a pressure sensor that briefly delayed the planned lau",
+    "published_at": "2025-12-01T10:11:52Z",
+    "updated_at": "2025-12-01T09:00:12.513700Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34330,
     "title": "The new Discovery and Preparation podcast showcases innovation for space",
     "authors": [
@@ -114,6 +234,26 @@
     "summary": "ESA Discovery and Preparation has launched a new podcast series highlighting the innovative space technologies being developed through its activities.",
     "published_at": "2025-12-01T08:15:00Z",
     "updated_at": "2025-12-01T08:30:23.322873Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34339,
+    "title": "A Glimpse of History in Benin City",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-glimpse-of-history-in-benin-city/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/a-glimpse-of-history-in-benin-city/beniniya_oli2_20250111.jpg",
+    "news_site": "NASA",
+    "summary": "The ancient walls, ramparts, and ditches that wind through this Nigerian city are the longest known earthworks of the pre-mechanical era.",
+    "published_at": "2025-12-01T05:01:00Z",
+    "updated_at": "2025-12-01T16:10:05.697536Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -260,20 +400,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34318,
-    "title": "Europe secures record space budget to boost independence",
+    "id": 34316,
+    "title": "Spire and Planet expand satellite fleets on Transporter 15 mission",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Europe_secures_record_space_budget_to_boost_independence_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-terrae-novae-spacesuit-moon-earth-cartoon-artwork-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Spire_and_Planet_expand_satellite_fleets_on_Transporter_15_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/team-vandenberg-spacex-falcon-9-formosat-5-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Bremen, Germany (AFP) Nov 27, 2025\n\n\n The European Space Agency announced Thursday it had secured a record budget of 22.1 billion euros to fund its programmes for the next three years, as the continent seeks greater independence in space. \n\nThe ESA also approved a plan to bolster defence cooperation and laid out plans for scientific space missions at a ministerial council meeting in the German city of Bremen. \n\nThe agency's 23 m",
+    "summary": "Sydney, Australia (SPX) Nov 28, 2025\n\n\nSpire Global Inc and Planet Labs PBC have each reported new satellite deployments on SpaceXs Transporter 15 rideshare flight from Vandenberg Space Force Base in California, expanding commercial constellations focused on Earth observation, weather, and radio frequency data. \n\nPlanet confirmed that its AI enabled high resolution Pelican 5 and Pelican 6 satellites reached orbit alongside 36 Sup",
     "published_at": "2025-11-29T15:16:15Z",
-    "updated_at": "2025-11-29T14:10:17.179691Z",
+    "updated_at": "2025-11-29T14:10:17.121664Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -300,20 +440,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34322,
-    "title": "Sivers Semiconductors and Doosan Announce Joint Initiative to Advance Ka-Band SATCOM Antenna Technology",
+    "id": 34320,
+    "title": "Station 10 as Soyuz crew arrives amid Baikonur launch pad crisis",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Sivers_Semiconductors_and_Doosan_Announce_Joint_Initiative_to_Advance_Ka_Band_SATCOM_Antenna_Technology_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sivers-semiconductors-logo-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Station_10_as_Soyuz_crew_arrives_amid_Baikonur_launch_pad_crisis_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/iss-expedition-73-10-on-board-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Nov 26, 2025\n\n\nSivers Semiconductors AB has entered a $1.5 million contract with Doosan Corporation to jointly develop scalable electronically steerable array (ESA) antenna panels for Ka-band satellite communications. \n\nThe agreement will support the design and development of ESA systems using Sivers' upcoming Ka-band SATCOM beamforming integrated circuits (BFICs). These advanced BFICs, designed for multi-",
+    "summary": "Sydney, Australia (SPX) Nov 28, 2025\n\n\nTen people are now onboard the International Space Station after the arrival of three new crew members on the Soyuz MS-28 spacecraft. While back on Earth, damage to the Baikonur launch pad raises questions about Russia's ability to sustain future crewed missions in the immediate term and what this means for ISS operations as pressure builds to retire and eventually deorbit the station. \n\nSoy",
     "published_at": "2025-11-29T15:16:15Z",
-    "updated_at": "2025-11-29T14:10:17.224082Z",
+    "updated_at": "2025-11-29T14:10:17.204335Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -340,6 +480,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34318,
+    "title": "Europe secures record space budget to boost independence",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Europe_secures_record_space_budget_to_boost_independence_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-terrae-novae-spacesuit-moon-earth-cartoon-artwork-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Bremen, Germany (AFP) Nov 27, 2025\n\n\n The European Space Agency announced Thursday it had secured a record budget of 22.1 billion euros to fund its programmes for the next three years, as the continent seeks greater independence in space. \n\nThe ESA also approved a plan to bolster defence cooperation and laid out plans for scientific space missions at a ministerial council meeting in the German city of Bremen. \n\nThe agency's 23 m",
+    "published_at": "2025-11-29T15:16:15Z",
+    "updated_at": "2025-11-29T14:10:17.179691Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34317,
     "title": "LUCI optical terminal to link satellites for France 2030 space program",
     "authors": [
@@ -360,40 +520,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34320,
-    "title": "Station 10 as Soyuz crew arrives amid Baikonur launch pad crisis",
+    "id": 34322,
+    "title": "Sivers Semiconductors and Doosan Announce Joint Initiative to Advance Ka-Band SATCOM Antenna Technology",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Station_10_as_Soyuz_crew_arrives_amid_Baikonur_launch_pad_crisis_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/iss-expedition-73-10-on-board-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Sivers_Semiconductors_and_Doosan_Announce_Joint_Initiative_to_Advance_Ka_Band_SATCOM_Antenna_Technology_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/sivers-semiconductors-logo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Nov 28, 2025\n\n\nTen people are now onboard the International Space Station after the arrival of three new crew members on the Soyuz MS-28 spacecraft. While back on Earth, damage to the Baikonur launch pad raises questions about Russia's ability to sustain future crewed missions in the immediate term and what this means for ISS operations as pressure builds to retire and eventually deorbit the station. \n\nSoy",
+    "summary": "Berlin, Germany (SPX) Nov 26, 2025\n\n\nSivers Semiconductors AB has entered a $1.5 million contract with Doosan Corporation to jointly develop scalable electronically steerable array (ESA) antenna panels for Ka-band satellite communications. \n\nThe agreement will support the design and development of ESA systems using Sivers' upcoming Ka-band SATCOM beamforming integrated circuits (BFICs). These advanced BFICs, designed for multi-",
     "published_at": "2025-11-29T15:16:15Z",
-    "updated_at": "2025-11-29T14:10:17.204335Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34316,
-    "title": "Spire and Planet expand satellite fleets on Transporter 15 mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Spire_and_Planet_expand_satellite_fleets_on_Transporter_15_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/team-vandenberg-spacex-falcon-9-formosat-5-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Nov 28, 2025\n\n\nSpire Global Inc and Planet Labs PBC have each reported new satellite deployments on SpaceXs Transporter 15 rideshare flight from Vandenberg Space Force Base in California, expanding commercial constellations focused on Earth observation, weather, and radio frequency data. \n\nPlanet confirmed that its AI enabled high resolution Pelican 5 and Pelican 6 satellites reached orbit alongside 36 Sup",
-    "published_at": "2025-11-29T15:16:15Z",
-    "updated_at": "2025-11-29T14:10:17.121664Z",
+    "updated_at": "2025-11-29T14:10:17.224082Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -831,184 +971,6 @@
     "featured": false,
     "launches": [],
     "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34294,
-    "title": "Russia’s Launch Pad Damaged After Soyuz MS-28 Launch",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/russias-launch-pad-damaged-after-soyuz-ms-28-launch/",
-    "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "The Russian launch pad used to send Soyuz spacecraft to the International Space Station, Site 31, suffered damage today as a result of the launch of Soyuz MS-28. Roscosmos acknowledged […]",
-    "published_at": "2025-11-28T04:53:13Z",
-    "updated_at": "2025-11-28T05:01:14.209460Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34293,
-    "title": "Europe’s Human and Robotic Exploration hit by budget shortfall",
-    "authors": [
-      {
-        "name": "Emma Gatti",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/europes-human-and-robotic-exploration-hit-by-budget-shortfall/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/ESA-ministerial-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBREMEN – The European Space Agency’s Human and Robotic Exploration (HRE) program fell short of its budget request at the ministerial, with member nations agreeing to contribute 2.66 billion euros ($3.08 billion), accounting for roughly 70% of the 3.77 billion euro ask. ESA set its overall budget at 22.1 billion euros — a significant increase […]\nThe post Europe’s Human and Robotic Exploration hit by budget shortfall appeared first on SpaceNews.",
-    "published_at": "2025-11-27T20:12:07Z",
-    "updated_at": "2025-11-27T20:20:18.959814Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34292,
-    "title": "Soyuz Pad Apparently Damaged After Successful Launch",
-    "authors": [
-      {
-        "name": "Scarlet Dominik",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacescout.info/2025/11/soyuz-pad-apparently-damaged-after-successful-launch/",
-    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/11/image.png",
-    "news_site": "Space Scout",
-    "summary": "Following the launch of the Soyuz MS-28 mission to the International Space Station this morning, the Soyuz launch complex, Site",
-    "published_at": "2025-11-27T19:12:38Z",
-    "updated_at": "2025-11-27T21:43:06.023621Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "40beac6e-ce8e-4481-8cf9-56d1d9c48804",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34291,
-    "title": "Soyuz transports new crew to ISS",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/soyuz-transports-new-crew-to-iss/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/soyuzms28-launch.jpeg?fit=1024%2C664&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "A Soyuz spacecraft delivered two Russian cosmonauts and one American astronaut to the International Space Station Nov. 27 for an eight-month stay.\r\nThe post Soyuz transports new crew to ISS appeared first on SpaceNews.",
-    "published_at": "2025-11-27T18:37:39Z",
-    "updated_at": "2025-11-27T21:43:12.426175Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "40beac6e-ce8e-4481-8cf9-56d1d9c48804",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34289,
-    "title": "Exploration and the UK Emerge as the Biggest Losers of CM25",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/exploration-and-the-uk-emerge-as-the-biggest-losers-of-cm25/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/11/Exploration-and-the-UK-Emerge-as-the-Biggest-Losers-of-CM25.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Following the conclusion of the European Space Agency’s (ESA) Ministerial Council 2025 (CM25) meeting in Bremen, the budget for the agency’s Human and Robotic Exploration programme and the UK’s contribution to the agency have emerged as the most significantly reduced. The agency initially announced a proposed three-year budget of €22.25 billion at the commencement of […]\nThe post Exploration and the UK Emerge as the Biggest Losers of CM25 appeared first on European Spaceflight.",
-    "published_at": "2025-11-27T17:19:34Z",
-    "updated_at": "2025-11-27T17:20:12.410536Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34290,
-    "title": "ESA raises more than 22 billion euros at ministerial",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/esa-raises-more-than-22-billion-euros-at-ministerial/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/cm25-presser-aschbacher.jpeg?fit=1024%2C662&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nESA member states are contributing more than 22 billion euros for the next three years, very close to its overall goal but with some programs faring better than others.\nThe post ESA raises more than 22 billion euros at ministerial appeared first on SpaceNews.",
-    "published_at": "2025-11-27T17:15:36Z",
-    "updated_at": "2025-11-27T17:20:21.107935Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34285,
-    "title": "Soyuz MS-28 Arrives at ISS",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/soyuz-ms-28-arrives-at-iss/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/11/Soyuz-MS-28-launch-NASA-300x169.webp",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Soyuz MS-28 arrived at the International Space Station this morning with its crew of two Russian cosmonauts and NASA’s Chris Williams.  Unlike most Russian crew rotations, they are scheduled to […]",
-    "published_at": "2025-11-27T15:19:31Z",
-    "updated_at": "2025-11-27T15:46:07.234395Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "40beac6e-ce8e-4481-8cf9-56d1d9c48804",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [
-      {
-        "event_id": 1300,
-        "provider": "Launch Library 2"
-      },
-      {
-        "event_id": 1301,
-        "provider": "Launch Library 2"
-      }
-    ],
     "detailed_news": ""
   }
 ]
