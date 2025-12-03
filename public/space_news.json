@@ -1,19 +1,366 @@
 [
   {
-    "id": 34380,
-    "title": "Honoring a career opening doors for the commercial space sector",
+    "id": 34407,
+    "title": "Antares raises $96 million for nuclear reactors on Earth and in space",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/antares-raises-96-million-for-nuclear-reactors-on-earth-and-in-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/antares-propulsion.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNuclear power startup Antares announced a $96 million Series B round Dec. 2 to fund work on developing small nuclear reactors, including for space applications.\nThe post Antares raises $96 million for nuclear reactors on Earth and in space appeared first on SpaceNews.",
+    "published_at": "2025-12-03T11:18:17Z",
+    "updated_at": "2025-12-03T11:20:17.836482Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34406,
+    "title": "A martian butterfly flaps its wings",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/A_martian_butterfly_flaps_its_wings",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/bird_s-eye_view_the_butterflies_and_dark_layers_of_idaeus_fossae/27006392-1-eng-GB/Bird_s-eye_view_the_butterflies_and_dark_layers_of_Idaeus_Fossae_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Is it an insect? A strange fossil? An otherworldly eye, or even a walnut? No, it’s an intriguing kind of martian butterfly spotted by ESA’s Mars Express.",
+    "published_at": "2025-12-03T10:00:00Z",
+    "updated_at": "2025-12-03T10:32:34.427052Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34404,
+    "title": "Leaf Space scales support for multi-satellite rideshare missions",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Leaf_Space_scales_support_for_multi_satellite_rideshare_missions_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/leaf-space-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 03, 2025\n\n\nLeaf Space is providing ground segment services for 31 satellites on a single upcoming SpaceX rideshare mission, the largest number of spacecraft it has supported on one launch to date and representing about 30 percent of all payloads on the flight. \n\nThese newly supported spacecraft join 140 satellites already operating through the company's Leaf Line ground station network, used by commerc",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.467958Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34392,
+    "title": "Space station reaches new record with all docking ports in use",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Space_station_reaches_new_record_with_all_docking_ports_in_use_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/iss-fully-docked-8-spacecraft-all-bar-esa-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 03, 2025\n\n\nFor the first time in the history of the International Space Station, all eight of its docking ports are occupied following the reinstallation of Northrop Grumman's Cygnus XL cargo spacecraft on the Earth-facing port of the Unity module. The visiting vehicles now attached are two SpaceX Dragon spacecraft, the Cygnus XL cargo ship, JAXA's HTV-X1 cargo vehicle, two Roscosmos Soyuz crew spacecraft,",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.253916Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34396,
+    "title": "SwRI opens NOUR lab to track chemical pathways from nebulae to planetary systems",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/SwRI_opens_NOUR_lab_to_track_chemical_pathways_from_nebulae_to_planetary_systems_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/early-solar-system-proto-planets-accretion-dust-debris-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 03, 2025\n\n\nSouthwest Research Institute (SwRI) has established the Nebular Origins of the Universe Research (NOUR) Laboratory to investigate how the chemistry of interstellar material leads to the formation of planetary systems. The lab, located within SwRI's Space Science Division and led by Senior Research Scientist Dr. Danna Qasim, is designed to connect pre-planetary chemical evolution with the later s",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.335022Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34393,
+    "title": "Mars Rover Uncovers Evidence of Ancient Wet Climate in Jezero Crater",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.marsdaily.com/reports/Mars_Rover_Uncovers_Evidence_of_Ancient_Wet_Climate_in_Jezero_Crater_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/perseverance-chignik-sol-680-mars-water-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 03, 2025\n\n\nNASA's Perseverance rover identified light-colored rocks in Jezero crater that consist of white, aluminum-rich kaolinite clay. These rocks formed after prolonged exposure to water leached other minerals from parent rocks and sediments. The process required millions of years of rainfall in a humid environment. \n\nPerseverance's SuperCam and Mastcam-Z instruments analyzed the kaolinite fragment",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.283714Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34398,
+    "title": "Auroral radio signal offers new insight into intense magnetic storms",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Auroral_radio_signal_offers_new_insight_into_intense_magnetic_storms_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/northern-lights-aurora-borealis-iss-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Southampton, UK (SPX) Dec 03, 2025\n\n\nA University of Southampton team has identified a distinct low frequency radio signature that appears when small-scale auroral structures known as auroral beads emerge, providing a new clue to how intense auroral substorms are triggered. \n\nMagnetospheric substorms are bursts of activity in Earth's aurora that can rapidly transform faint arcs into bright, dynamic displays stretching across th",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.369630Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34394,
+    "title": "Scientists trace ancient mega watersheds on Mars",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.marsdaily.com/reports/Scientists_trace_ancient_mega_watersheds_on_Mars_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mars-parana-valles-drainage-system-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 03, 2025\n\n\nBillions of years ago, rainfall on Mars fed rivers that cut valleys, overtopped crater rims and carved canyons, with some flows likely reaching a northern ocean basin on the planet. \n\nResearchers at The University of Texas at Austin have now organized these fluvial features into large drainage systems, producing the first global inventory of major Martian river basins and identifying 16 larg",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.298584Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34402,
+    "title": "EIB launches Space TechEU finance program for European space sector",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/EIB_launches_Space_TechEU_finance_program_for_European_space_sector_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gps-europe-galileo-orbit-2024-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 03, 2025\n\nThe European Investment Bank (EIB) has launched Space TechEU, its first financing programme dedicated to companies in Europe's space sector, under its wider TechEU initiative. The bank presented the facility at the European Space Agency (ESA) Council of Ministers meeting in Bremen. Space TechEU will provide up to 500 million euro in EIB financing to companies across the space value chain, from upstream manufacturing and launch activities to downstream applications",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.438092Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34401,
+    "title": "Orbit Fab to lead ESA backed ASTRAL refuelling demo in orbit",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Orbit_Fab_to_lead_ESA_backed_ASTRAL_refuelling_demo_in_orbit_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/benchmark-space-systems-orbit-fab-propellant-fuel-depot-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 03, 2025\n\n\nOrbit Fab has secured up to $3.8 million in funding through the UK Space Agency and the European Space Agency's Directorate of Connectivity and Secure Communications to lead a European consortium that will advance satellite refuelling technology. The Advancing Satcom Technology with Refuelling and Logistics (ASTRAL) project will receive total UK funding of up to $3.8 million (3.3 million euros),",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.422238Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34395,
+    "title": "Helium escape mapped from superpuff exoplanet WASP 107b by JWST",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Helium_escape_mapped_from_superpuff_exoplanet_WASP_107b_by_JWST_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/exoplanet-wasp-107b-gas-giant-highly-active-k-type-main-sequence-star-200-light-years-helium-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 03, 2025\n\n\nAn international team including astronomers from the University of Geneva and the National Centre of Competence in Research PlanetS has used the James Webb Space Telescope to study helium escaping from the atmosphere of the exoplanet WASP-107b. The analysis, published in Nature Astronomy, links this large-scale atmospheric escape to the evolution and present-day properties of the planet. \n\nA",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.322009Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34403,
+    "title": "Roadmap sets circular economy agenda for space hardware and debris mitigation",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Roadmap_sets_circular_economy_agenda_for_space_hardware_and_debris_mitigation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/space-debris-sources-proportions-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 03, 2025\n\n\nEvery rocket launch discards large amounts of material and releases substantial greenhouse gases and ozone-depleting substances into the atmosphere, prompting researchers to examine how circular economy principles could be built into space activities from the outset. \n\nIn a commentary published December 1 in the Cell Press journal Chem Circularity, sustainability specialists and space scient",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.454405Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34399,
+    "title": "Hot dust near a nearby star system",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hot_dust_near_a_nearby_star_system_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/art-bright-exozodiacal-light-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tucson AZ (SPX) Dec 03, 2025\n\n\nSeventy light-years from Earth, astronomers studying the star Kappa Tucanae A have identified dust heated to more than 1,000 degrees Fahrenheit orbiting very close to the star, where such material should either vaporize or be blown out of the system. The team has now detected a companion star moving through this same inner region, offering a new way to investigate how this hot exozodiacal dust f",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.383183Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34405,
+    "title": "China consolidates new commercial space regulator and industry roadmap",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/China_consolidates_new_commercial_space_regulator_and_industry_roadmap_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-landspace-reusable-booster-lander-first-stage-vtvl-1-test-stand-launch-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 03, 2025\n\n\nThe China National Space Administration has set up a Commercial Space Department to serve as a dedicated regulator for the country's expanding private space sector. The new office is responsible for overseeing commercial launches, satellite operations, and related services while coordinating policy and planning for non-state space activities. \n\nOfficials have tied the move to the Action Plan",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.483260Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34397,
+    "title": "Mars clocks run ahead of Earth by microseconds each day",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Mars_clocks_run_ahead_of_Earth_by_microseconds_each_day_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/earth-mars-compare-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 03, 2025\n\n\nPhysicists at the National Institute of Standards and Technology have produced the first detailed calculation of how fast time passes on Mars compared with Earth, providing a parameter that future human and robotic missions will need for navigation and communications. They determine that clocks on the Martian surface run on average 477 microseconds faster per Earth day than clocks on Earth, with",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.355595Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34400,
+    "title": "AI eXpress 1 Plus completes first generation in orbit AI satellite trio",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/AI_eXpress_1_Plus_completes_first_generation_in_orbit_AI_satellite_trio_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/planetek-italia-aix-1+-ai-express-satellite-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Dec 03, 2025\n\n\nPlanetek Italia has placed the AI eXpress 1 Plus (AIX-1+) satellite in orbit, completing the first generation of its AI eXpress constellation for in-orbit artificial intelligence processing of Earth observation data. \n\nAIX-1+ launched on November 28, 2025, at 10:44 a.m. PT (7:44 p.m. GMT+1) on a SpaceX Falcon 9 rideshare mission (Transporter 15) from Space Launch Complex 4 East at Vandenberg",
+    "published_at": "2025-12-03T09:03:55Z",
+    "updated_at": "2025-12-03T08:00:18.393750Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34391,
+    "title": "Zhuque-3 reaches orbit on test flight, first stage lost during landing attempt",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/zhuque-3-reaches-orbit-on-test-flight-first-stage-lost-during-landing-attempt/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Zhuque3-Y1-JSLC-3dec2025-landspace-1.jpg?fit=1024%2C571&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChina’s Landspace carried out the first launch of its reusable Zhuque-3 rocket late Tuesday, successfully achieving orbit, but failing with a first stage landing attempt.\nThe post Zhuque-3 reaches orbit on test flight, first stage lost during landing attempt appeared first on SpaceNews.",
+    "published_at": "2025-12-03T06:54:21Z",
+    "updated_at": "2025-12-03T07:00:20.327158Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34386,
+    "title": "Teaming up to create multi-orbit broadband",
     "authors": [
       {
         "name": "SpaceNews Editor",
         "socials": null
       }
     ],
-    "url": "https://spacenews.com/honoring-a-career-opening-doors-for-the-commercial-space-sector/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/MCALISTER.jpg?fit=600%2C800&ssl=1",
+    "url": "https://spacenews.com/teaming-up-to-create-multi-orbit-broadband/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
     "news_site": "SpaceNews",
-    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated at a Dec. 2 ceremony hosted […]\nThe post Honoring a career opening doors for the commercial space sector appeared first on SpaceNews.",
+    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post Teaming up to create multi-orbit broadband appeared first on SpaceNews.",
     "published_at": "2025-12-03T00:00:00Z",
-    "updated_at": "2025-12-03T00:00:26.446863Z",
+    "updated_at": "2025-12-03T00:00:26.599595Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -40,26 +387,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34389,
-    "title": "Making multiple breakthroughs in spacecraft swarms",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/making-multiple-breakthroughs-in-spacecraft-swarms/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/starling-1-5-overhead-sunrise-v05-scaled.webp?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post Making multiple breakthroughs in spacecraft swarms appeared first on SpaceNews.",
-    "published_at": "2025-12-03T00:00:00Z",
-    "updated_at": "2025-12-03T00:00:26.659690Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34383,
     "title": "Leading the integration of commercial and military capabilities in space",
     "authors": [
@@ -74,86 +401,6 @@
     "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post Leading the integration of commercial and military capabilities in space appeared first on SpaceNews.",
     "published_at": "2025-12-03T00:00:00Z",
     "updated_at": "2025-12-03T00:00:26.528491Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34382,
-    "title": "Sophisticated maneuvers from a new spacecraft",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/sophisticated-maneuvers-from-a-new-spacecraft/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Mirainorbit.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post Sophisticated maneuvers from a new spacecraft appeared first on SpaceNews.",
-    "published_at": "2025-12-03T00:00:00Z",
-    "updated_at": "2025-12-03T00:00:26.510052Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34388,
-    "title": "Spotting smaller wildfires sooner than ever",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/spotting-smaller-wildfires-sooner-than-ever/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Oregon-scaled.jpg?fit=1024%2C535&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post Spotting smaller wildfires sooner than ever appeared first on SpaceNews.",
-    "published_at": "2025-12-03T00:00:00Z",
-    "updated_at": "2025-12-03T00:00:26.626419Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34387,
-    "title": "A rapid deployment of a space traffic management platform",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/a-rapid-deployment-of-a-space-traffic-management-platform/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/cropped-TraCSS_16x9-1024x683-1.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post A rapid deployment of a space traffic management platform appeared first on SpaceNews.",
-    "published_at": "2025-12-03T00:00:00Z",
-    "updated_at": "2025-12-03T00:00:26.613629Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34386,
-    "title": "Teaming up to create multi-orbit broadband",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/teaming-up-to-create-multi-orbit-broadband/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post Teaming up to create multi-orbit broadband appeared first on SpaceNews.",
-    "published_at": "2025-12-03T00:00:00Z",
-    "updated_at": "2025-12-03T00:00:26.599595Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -200,6 +447,66 @@
     "detailed_news": ""
   },
   {
+    "id": 34388,
+    "title": "Spotting smaller wildfires sooner than ever",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/spotting-smaller-wildfires-sooner-than-ever/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Oregon-scaled.jpg?fit=1024%2C535&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post Spotting smaller wildfires sooner than ever appeared first on SpaceNews.",
+    "published_at": "2025-12-03T00:00:00Z",
+    "updated_at": "2025-12-03T00:00:26.626419Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34382,
+    "title": "Sophisticated maneuvers from a new spacecraft",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/sophisticated-maneuvers-from-a-new-spacecraft/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Mirainorbit.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post Sophisticated maneuvers from a new spacecraft appeared first on SpaceNews.",
+    "published_at": "2025-12-03T00:00:00Z",
+    "updated_at": "2025-12-03T00:00:26.510052Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34380,
+    "title": "Honoring a career opening doors for the commercial space sector",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/honoring-a-career-opening-doors-for-the-commercial-space-sector/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/MCALISTER.jpg?fit=600%2C800&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated at a Dec. 2 ceremony hosted […]\nThe post Honoring a career opening doors for the commercial space sector appeared first on SpaceNews.",
+    "published_at": "2025-12-03T00:00:00Z",
+    "updated_at": "2025-12-03T00:00:26.446863Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34381,
     "title": "Defending NASA science in the face of sweeping budget cuts",
     "authors": [
@@ -214,6 +521,46 @@
     "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post Defending NASA science in the face of sweeping budget cuts appeared first on SpaceNews.",
     "published_at": "2025-12-03T00:00:00Z",
     "updated_at": "2025-12-03T00:00:26.493806Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34389,
+    "title": "Making multiple breakthroughs in spacecraft swarms",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/making-multiple-breakthroughs-in-spacecraft-swarms/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/starling-1-5-overhead-sunrise-v05-scaled.webp?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post Making multiple breakthroughs in spacecraft swarms appeared first on SpaceNews.",
+    "published_at": "2025-12-03T00:00:00Z",
+    "updated_at": "2025-12-03T00:00:26.659690Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34387,
+    "title": "A rapid deployment of a space traffic management platform",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/a-rapid-deployment-of-a-space-traffic-management-platform/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/cropped-TraCSS_16x9-1024x683-1.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEach year, SpaceNews selects the people, programs and technologies that have most influenced the direction of the space industry in the past year. Started in 2017, our annual celebration recognizes outsized achievements in a business in which no ambition feels unattainable. This year’s winners of the 8th annual SpaceNews Icon Awards were announced and celebrated […]\nThe post A rapid deployment of a space traffic management platform appeared first on SpaceNews.",
+    "published_at": "2025-12-03T00:00:00Z",
+    "updated_at": "2025-12-03T00:00:26.613629Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -460,6 +807,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34361,
+    "title": "South Korean team prepares BioCabinet payload for space biology research on Nuri rocket mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/South_Korean_team_prepares_BioCabinet_payload_for_space_biology_research_on_Nuri_rocket_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/south-korea-hallym-university-hospital-biocabinet-nuri-rocket-payload-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Nov 26, 2025\n\n\nChan Hum Park and his research team from Hallym University Chuncheon Sacred Heart Hospital are sending their BioCabinet payload into orbit aboard the fourth Nuri rocket flight on November 27, launching alongside the Next-Generation Medium Satellite-3. \n\nBioCabinet is a research platform featuring a bio 3D printer and an incubator for stem cell differentiation. It will fabricate artificial he",
+    "published_at": "2025-12-02T11:26:35Z",
+    "updated_at": "2025-12-02T10:20:59.609317Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34363,
     "title": "UAH CanSat and rover teams notch winning performances in 2025 national and international competitions",
     "authors": [
@@ -540,20 +907,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34361,
-    "title": "South Korean team prepares BioCabinet payload for space biology research on Nuri rocket mission",
+    "id": 34360,
+    "title": "SatRev PW6U satellite checks in from orbit after Transporter 15 launch",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/South_Korean_team_prepares_BioCabinet_payload_for_space_biology_research_on_Nuri_rocket_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/south-korea-hallym-university-hospital-biocabinet-nuri-rocket-payload-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/SatRev_PW6U_satellite_checks_in_from_orbit_after_Transporter_15_launch_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satrevolution-satellites-logo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 26, 2025\n\n\nChan Hum Park and his research team from Hallym University Chuncheon Sacred Heart Hospital are sending their BioCabinet payload into orbit aboard the fourth Nuri rocket flight on November 27, launching alongside the Next-Generation Medium Satellite-3. \n\nBioCabinet is a research platform featuring a bio 3D printer and an incubator for stem cell differentiation. It will fabricate artificial he",
+    "summary": "Berlin, Germany (SPX) Nov 28, 2025\n\n\nSatRev reports that its PW6U Earth observation nanosatellite has completed initial commissioning steps after launch on SpaceX's Transporter 15 rideshare mission, with the first link from orbit confirming that power, communications and basic onboard functions are operating as intended. \n\nPW6U is a 6U-class platform built in Wroclaw that extends SatRev's smallsat line into a new generation of",
     "published_at": "2025-12-02T11:26:35Z",
-    "updated_at": "2025-12-02T10:20:59.609317Z",
+    "updated_at": "2025-12-02T10:20:59.598397Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -594,387 +961,6 @@
     "summary": "Los Angeles CA (SPX) Nov 26, 2025\n\n\nBlackSky Technology Inc. has provided the first set of very high-resolution images from its third Gen-3 satellite less than 24 hours after launch. The company released images taken over the Port of Jebel Ali in Dubai, United Arab Emirates at 10:08 a.m. local time on November 22, 2025. The images document activity such as cargo container movement using large cranes, drayage operations involving t",
     "published_at": "2025-12-02T11:26:35Z",
     "updated_at": "2025-12-02T10:20:59.477874Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34358,
-    "title": "Alen Space delivers ETRISat CubeSat to ETRI for upcoming launch on Korean Nuri rocket",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Alen_Space_delivers_ETRISat_CubeSat_to_ETRI_for_upcoming_launch_on_Korean_Nuri_rocket_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/6u-cubesat-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 26, 2025\n\n\nAlen Space has completed and delivered ETRISat, a 6U CubeSat manufactured at its facility in Nigran, Spain, for the Electronics and Telecommunications Research Institute (ETRI) in South Korea. The spacecraft is now in South Korea and will be launched aboard a Nuri (KSLV-II) rocket from the Korea Aerospace Research Institute's Naro Space Center. Launch is scheduled for the coming days. \n\nThe",
-    "published_at": "2025-12-02T11:26:35Z",
-    "updated_at": "2025-12-02T10:20:59.548260Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34360,
-    "title": "SatRev PW6U satellite checks in from orbit after Transporter 15 launch",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/SatRev_PW6U_satellite_checks_in_from_orbit_after_Transporter_15_launch_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satrevolution-satellites-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Nov 28, 2025\n\n\nSatRev reports that its PW6U Earth observation nanosatellite has completed initial commissioning steps after launch on SpaceX's Transporter 15 rideshare mission, with the first link from orbit confirming that power, communications and basic onboard functions are operating as intended. \n\nPW6U is a 6U-class platform built in Wroclaw that extends SatRev's smallsat line into a new generation of",
-    "published_at": "2025-12-02T11:26:35Z",
-    "updated_at": "2025-12-02T10:20:59.598397Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34367,
-    "title": "Isar Aerospace wins launch contract for European tech demo satellite",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/isar-aerospace-wins-launch-contract-for-european-tech-demo-satellite/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/spectrum-1stlaunch-kenniston.jpeg?fit=1024%2C684&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGerman launch startup Isar Aerospace won a contract to launch a European technology demonstration satellite on its Spectrum rocket in late 2026.\nThe post Isar Aerospace wins launch contract for European tech demo satellite appeared first on SpaceNews.",
-    "published_at": "2025-12-02T11:07:04Z",
-    "updated_at": "2025-12-02T11:12:05.061955Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34366,
-    "title": "The International Space Station Marks 25 Years of Continuous Human Presence",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/the-international-space-station-marks-25-years-of-continuous-human-presence/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2015/11/iss01e5483_blog.jpg",
-    "news_site": "NASA",
-    "summary": "On Nov. 2, 2025, NASA honored 25 years of continuous human presence aboard the International Space Station. What began as a fragile framework of modules has evolved into a springboard for international cooperation, advanced scientific research and technology demonstrations, the development of a low Earth orbit economy, and NASA’s next great leaps in exploration, including […]",
-    "published_at": "2025-12-02T11:00:00Z",
-    "updated_at": "2025-12-02T11:11:05.186743Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34365,
-    "title": "Vega C launches South Korean satellite",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/vega-c-launches-south-korean-satellite/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/vega-vv28.jpeg?fit=1024%2C708&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA Vega C rocket launched a South Korean satellite Dec. 1 as responsibility for the launches prepares to shift from Arianespace to Avio.\nThe post Vega C launches South Korean satellite appeared first on SpaceNews.",
-    "published_at": "2025-12-02T10:37:51Z",
-    "updated_at": "2025-12-02T10:41:41.518794Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34354,
-    "title": "Sun-watcher SOHO celebrates thirty years",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/SOHO/Sun-watcher_SOHO_celebrates_thirty_years",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/30_years_of_soho_imaging_the_sun_unannotated/27004149-1-eng-GB/30_years_of_SOHO_imaging_the_Sun_unannotated_card_full.png",
-    "news_site": "ESA",
-    "summary": "On 2 December 1995 the ESA/NASA Solar and Heliospheric Observatory (SOHO) blasted into space – on what was supposed to be a two-year mission. ",
-    "published_at": "2025-12-02T10:01:00Z",
-    "updated_at": "2025-12-02T10:10:13.156169Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34353,
-    "title": "Webb observes a dance of dwarf galaxies",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/12/Webb_observes_a_dance_of_dwarf_galaxies",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/webb_observes_a_dance_of_dwarf_galaxies/27003630-1-eng-GB/Webb_observes_a_dance_of_dwarf_galaxies_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-12-02T09:00:00Z",
-    "updated_at": "2025-12-02T09:03:13.126394Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34352,
-    "title": "Proteus Space Launches First AI Designed Spacecraft, Sets Multiple Records",
-    "authors": [
-      {
-        "name": "Proteus Space",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/proteus-space-launches-first-ai-designed-spacecraft-sets-multiple-records/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/proteus-space-square-scaled.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nVANDENBERG SPACE FORCE BASE, CA – November 28, 2025 – Proteus Space announced the successful launch and first contact of MERCURY ONE, its inaugural four-payload ESPA class spacecraft.  MERCURY ONE […]\nThe post Proteus Space Launches First AI Designed Spacecraft, Sets Multiple Records appeared first on SpaceNews.",
-    "published_at": "2025-12-02T08:00:00Z",
-    "updated_at": "2025-12-02T08:12:07.204845Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34351,
-    "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/12/02/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The launch will be the 350th overall orbital launch from Space Launch Complex 40. SpaceX is targeting liftoff of the Starlink 6-95 mission at 3:16 p.m. EST (2016 UTC). ",
-    "published_at": "2025-12-02T06:20:23Z",
-    "updated_at": "2025-12-02T06:30:19.433266Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34350,
-    "title": "Arianespace launches South Korean Earth observation satellite on Vega-C flight",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/12/02/arianespace-launches-south-korean-earth-observation-satellite-on-vega-c-flight/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20251201_VV28_Decollage_plan_large_ZLV.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The mission was the sixth launch of a Vega-C rocket to date. Liftoff from Europe’s Spaceport in French Guiana occurred at 2:21 p.m. local time (12:21 p.m. EST / 1721 UTC). ",
-    "published_at": "2025-12-02T04:02:48Z",
-    "updated_at": "2025-12-02T04:11:43.732519Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34348,
-    "title": "Reditus Space joins reusable satellite wave with $7 million seed round",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/reditus-space-joins-reusable-satellite-wave-with-7-million-seed-round/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/reditus-enos.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nReditus Space announced $7.1 million in seed funding to fly its first reusable spacecraft next summer, joining a wave of startups emerging from stealth in microgravity research and in-space manufacturing.\nThe post Reditus Space joins reusable satellite wave with $7 million seed round appeared first on SpaceNews.",
-    "published_at": "2025-12-01T23:33:43Z",
-    "updated_at": "2025-12-01T23:40:24.136464Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34349,
-    "title": "Spire to build eight satellites for Deloitte’s on-orbit cybersecurity program",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/spire-to-build-eight-satellites-for-deloittes-on-orbit-cybersecurity-program/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Deloitte-1_in_Orbit-1-scaled.jpeg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe deal expands a partnership that began earlier this year, when Deloitte launched Deloitte-1 on SpaceX’s Transporter-13 rideshare mission. \nThe post Spire to build eight satellites for Deloitte’s on-orbit cybersecurity program appeared first on SpaceNews.",
-    "published_at": "2025-12-01T23:31:30Z",
-    "updated_at": "2025-12-01T23:40:24.239451Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34347,
-    "title": "Launch Roundup: Launch manifest to feature 10 launches during first week of December",
-    "authors": [
-      {
-        "name": "Sean Yoder",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/12/launch-roundup-120125/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "The first week of December features 10 orbital launches from six different providers across four…\nThe post Launch Roundup: Launch manifest to feature 10 launches during first week of December appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-12-01T22:55:17Z",
-    "updated_at": "2025-12-01T23:00:15.296432Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34346,
-    "title": "What is AI? (Grades 5-8)",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/learning-resources/what-is-ai-grades-5-8/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/aam-national-campaign-150.jpg",
-    "news_site": "NASA",
-    "summary": "This article is for students grades 5-8. What is AI? Artificial intelligence, or AI, is a type of technology that helps machines and computers have “thinking” abilities similar to humans. Devices using AI can learn words and concepts, recognize objects, see patterns, or make predictions. They can also be taught how to work autonomously. AI […]",
-    "published_at": "2025-12-01T20:57:26Z",
-    "updated_at": "2025-12-01T21:00:07.075408Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34345,
-    "title": "Live coverage: SpaceX to launch 60th Falcon 9 rocket from Vandenberg SFB in 2025",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/12/01/live-coverage-spacex-to-launch-60th-falcon-9-rocket-from-vandenberg-sfb-in-2025/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/04/20250401_Starlink_G9_10_Vertical_Sunset-678x313.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 15-10 mission will add 27 broadband internet satellites into the low Earth orbit constellation. SpaceX is targeting liftoff from pad 4E at Vandenberg Space Force Base at 9:28 p.m. PST (12:28 a.m. EST / 0528 UTC). ",
-    "published_at": "2025-12-01T20:06:23Z",
-    "updated_at": "2025-12-01T20:10:34.480952Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34344,
-    "title": "Sagittarius B2 Molecular Cloud",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/sagittarius-b2-molecular-cloud/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/54809196576-59e88854d5-o.jpg",
-    "news_site": "NASA",
-    "summary": "The Mid-Infrared Instrument (MIRI) on NASA’s James Webb Space Telescope captured glowing cosmic dust heated by very young massive stars in unprecedented detail in this image of the Sagittarius B2 (Sgr B2) molecular cloud released on Sept. 24, 2025. Sgr B2 is the most massive, and active star-forming region in our galaxy, located only a […]",
-    "published_at": "2025-12-01T17:44:24Z",
-    "updated_at": "2025-12-01T17:50:05.317572Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34343,
-    "title": "Space CEO explains why he believes private space stations are a viable business",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/12/space-ceo-explains-why-he-believes-private-space-stations-are-a-viable-business/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2219047538.jpg",
-    "news_site": "Arstechnica",
-    "summary": "Voyager Technologies Chairman Dylan Taylor checks in with Ars from the space station frontier.",
-    "published_at": "2025-12-01T17:40:14Z",
-    "updated_at": "2025-12-01T17:50:04.021390Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34342,
-    "title": "Flooding in Sri Lanka",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/12/Flooding_in_Sri_Lanka",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/flooding_in_sri_lanka/27004196-1-eng-GB/Flooding_in_Sri_Lanka_card_full.gif",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-12-01T15:50:00Z",
-    "updated_at": "2025-12-01T16:20:12.843229Z",
     "featured": false,
     "launches": [],
     "events": [],
