@@ -1,5 +1,92 @@
 [
   {
+    "id": 34464,
+    "title": "Congress told there needs to be “consequences” for NASA delays amid China’s rise",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2207557317.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"The Artemis III mission and those beyond should be canceled.\"",
+    "published_at": "2025-12-04T22:54:52Z",
+    "updated_at": "2025-12-04T23:01:27.557986Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34462,
+    "title": "Final proposals leave SpaceX and Amazon with 4% of $20 billion rural broadband subsidies",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/final-proposals-leave-spacex-and-amazon-with-4-of-20-billion-rural-broadband-subsidies/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Starlink-antenna.jpg?fit=1024%2C724&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX and Amazon stand to get about 4% of the nearly $20 billion that states have proposed for rural broadband buildouts, representing roughly 21% of the locations under the federal BEAD program.\nThe post Final proposals leave SpaceX and Amazon with 4% of $20 billion rural broadband subsidies appeared first on SpaceNews.",
+    "published_at": "2025-12-04T21:07:46Z",
+    "updated_at": "2025-12-04T21:20:19.186396Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34463,
+    "title": "Washington Harbour deepens space portfolio with investment in Trusted Space",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/washington-harbour-deepens-space-portfolio-with-investment-in-trusted-space/",
+    "image_url": "https://spacenews.com/wp-content/uploads/2025/12/ec0b92_604e98ebb4894a569b2f7200f347b76cmv2_d_5940_3267_s_4_2.jpg-1024x543.avif",
+    "news_site": "SpaceNews",
+    "summary": "\nThis investment follows Washington Harbour’s earlier moves into space technology.\nThe post Washington Harbour deepens space portfolio with investment in Trusted Space appeared first on SpaceNews.",
+    "published_at": "2025-12-04T21:00:00Z",
+    "updated_at": "2025-12-04T21:20:19.214799Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34461,
+    "title": "How Starlink’s explosive growth is reshaping connectivity in an increasingly connected world",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/how-starlinks-explosive-growth-is-reshaping-connectivity-in-an-increasingly-connected-world/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/spacex-starlink-spacenews-intelligence-cover-1500-1000-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nPart 2 of our Understanding the SpaceX-Era Economy series examines how Starlink’s explosive growth is reshaping connectivity in an increasingly connected world, pushing satellite broadband from a niche service into the mainstream and redefining expectations for ubiquitous access.\nThe post How Starlink’s explosive growth is reshaping connectivity in an increasingly connected world appeared first on SpaceNews.",
+    "published_at": "2025-12-04T20:36:54Z",
+    "updated_at": "2025-12-04T20:40:19.273166Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34460,
     "title": "Welcome, Jared Isaacman",
     "authors": [
@@ -140,26 +227,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34453,
-    "title": "NASA Completes Nancy Grace Roman Space Telescope Construction",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-nancy-grace-roman-space-telescope-construction/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/complete.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s next big eye on the cosmos is now fully assembled. On Nov. 25, technicians joined the inner and outer portions of the Nancy Grace Roman Space Telescope in the largest clean room at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. “Completing the Roman observatory brings us to a defining moment for the […]",
-    "published_at": "2025-12-04T15:00:00Z",
-    "updated_at": "2025-12-04T15:00:08.298208Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34450,
     "title": "Comet 3I/ATLAS shows activity in Juice navigation camera teaser",
     "authors": [
@@ -174,6 +241,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2025-12-04T15:00:00Z",
     "updated_at": "2025-12-04T14:10:14.501330Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34453,
+    "title": "NASA Completes Nancy Grace Roman Space Telescope Construction",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/complete.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s next big eye on the cosmos is now fully assembled. On Nov. 25, technicians joined the inner and outer portions of the Nancy Grace Roman Space Telescope in the largest clean room at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. “Completing the Roman observatory brings us to a defining moment for the […]",
+    "published_at": "2025-12-04T15:00:00Z",
+    "updated_at": "2025-12-04T15:00:08.298208Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -267,40 +354,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34444,
-    "title": "Solar telescope captures flare rich sunspot region in fine detail",
+    "id": 34439,
+    "title": "LandSpace reviews booster loss after Zhuque-3 reusable rocket test",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Solar_telescope_captures_flare_rich_sunspot_region_in_fine_detail_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/extra-solar-flares-patch-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/LandSpace_reviews_booster_loss_after_Zhuque_3_reusable_rocket_test_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-landspace-zq-3-y1-rocket-booster-burning-to-the-ground-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Nov 28, 2025\n\n\nScientists using the GREGOR solar telescope in Tenerife have obtained a rare series of high resolution observations of the active region NOAA 14274, a sunspot group that generated two X class solar flares and several fast coronal mass ejections in November 2025. The team followed the evolution of the Suns most flare productive region of the year and linked the eruptions to auroras seen on Earth",
+    "summary": "Tokyo, Japan (SPX) Dec 04, 2025\n\n\nLandSpace has begun a detailed analysis of its first Zhuque-3 (ZQ 3) orbital test after the reusable rocket's booster was lost during an attempted landing, even as the mission's upper stage reached its planned orbit. The flight, conducted from the Jiuquan Satellite Launch Center, marked China's first orbital-class launch attempt with a stainless-steel methane-fueled vehicle designed from the out",
     "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.077250Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34443,
-    "title": "SSC expands ground station access with SSC Go service for small satellites",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/SSC_expands_ground_station_access_with_SSC_Go_service_for_small_satellites_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/leosat-enterprises-constellation-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Nov 28, 2025\n\n\nSSC has introduced SSC Go, a ground segment service built around a global network of 4 meter class antennas operating in S band, X band and Ka band for Low Earth Orbit missions. The service targets operators of small satellites and constellations that require frequent contact opportunities and rapid data return from spacecraft. \n\nThrough SSC Go, customers can access a set of ground stations",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.066610Z",
+    "updated_at": "2025-12-04T07:40:11.014542Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -327,20 +394,80 @@
     "detailed_news": ""
   },
   {
-    "id": 34439,
-    "title": "LandSpace reviews booster loss after Zhuque-3 reusable rocket test",
+    "id": 34443,
+    "title": "SSC expands ground station access with SSC Go service for small satellites",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/LandSpace_reviews_booster_loss_after_Zhuque_3_reusable_rocket_test_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-landspace-zq-3-y1-rocket-booster-burning-to-the-ground-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/SSC_expands_ground_station_access_with_SSC_Go_service_for_small_satellites_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/leosat-enterprises-constellation-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 04, 2025\n\n\nLandSpace has begun a detailed analysis of its first Zhuque-3 (ZQ 3) orbital test after the reusable rocket's booster was lost during an attempted landing, even as the mission's upper stage reached its planned orbit. The flight, conducted from the Jiuquan Satellite Launch Center, marked China's first orbital-class launch attempt with a stainless-steel methane-fueled vehicle designed from the out",
+    "summary": "Berlin, Germany (SPX) Nov 28, 2025\n\n\nSSC has introduced SSC Go, a ground segment service built around a global network of 4 meter class antennas operating in S band, X band and Ka band for Low Earth Orbit missions. The service targets operators of small satellites and constellations that require frequent contact opportunities and rapid data return from spacecraft. \n\nThrough SSC Go, customers can access a set of ground stations",
     "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.014542Z",
+    "updated_at": "2025-12-04T07:40:11.066610Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34444,
+    "title": "Solar telescope captures flare rich sunspot region in fine detail",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Solar_telescope_captures_flare_rich_sunspot_region_in_fine_detail_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/extra-solar-flares-patch-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Nov 28, 2025\n\n\nScientists using the GREGOR solar telescope in Tenerife have obtained a rare series of high resolution observations of the active region NOAA 14274, a sunspot group that generated two X class solar flares and several fast coronal mass ejections in November 2025. The team followed the evolution of the Suns most flare productive region of the year and linked the eruptions to auroras seen on Earth",
+    "published_at": "2025-12-04T08:44:39Z",
+    "updated_at": "2025-12-04T07:40:11.077250Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34445,
+    "title": "Beijing space lab targets orbital data centers for AI era",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Beijing_space_lab_targets_orbital_data_centers_for_AI_era_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/broadband-communication-satellites-galaxyspace-china-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Nov 28, 2025\n\n\nAn institute in Beijing plans to launch its first high-computing-power experimental satellites by late 2025 or early 2026 as part of a wider effort to move intensive data processing into orbit while easing pressure on power and land resources on the ground. \n\nZhang Shancong, director of the Beijing Astro-future Institute of Space Technology and chief scientist at Beijing Orbit Twilight Techn",
+    "published_at": "2025-12-04T08:44:39Z",
+    "updated_at": "2025-12-04T07:40:11.091492Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34438,
+    "title": "NASA rover hears electric crackles inside Mars dust devils",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.marsdaily.com/reports/NASA_rover_hears_electric_crackles_inside_Mars_dust_devils_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/dustdevils-2025-desk-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Pasadena CA (JPL) Dec 04, 2025\n\n\nNASA's Perseverance rover has directly detected tiny electrical sparks and associated shock waves inside Martian dust devils, confirming that the Red Planet's ubiquitous whirlwinds can generate \"mini-lightning\" through charged dust. Using the SuperCam instrument's microphone and electromagnetic sensors, the team identified brief crackles and pressure spikes that reveal triboelectric discharges o",
+    "published_at": "2025-12-04T08:44:39Z",
+    "updated_at": "2025-12-04T07:40:10.966836Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -401,46 +528,6 @@
     "summary": "Los Angeles CA (SPX) Nov 28, 2025\n\n\nICEYE has placed five new Synthetic Aperture Radar (SAR) satellites into orbit, extending its commercial constellation and adding spacecraft for several national customers. The satellites rode to space on SpaceX's Transporter-15 rideshare mission launched on November 26, 2025, from Vandenberg Space Force Base in California, after integration by Exolaunch. Each spacecraft has established communic",
     "published_at": "2025-12-04T08:44:39Z",
     "updated_at": "2025-12-04T07:40:11.057178Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34445,
-    "title": "Beijing space lab targets orbital data centers for AI era",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Beijing_space_lab_targets_orbital_data_centers_for_AI_era_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/broadband-communication-satellites-galaxyspace-china-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 28, 2025\n\n\nAn institute in Beijing plans to launch its first high-computing-power experimental satellites by late 2025 or early 2026 as part of a wider effort to move intensive data processing into orbit while easing pressure on power and land resources on the ground. \n\nZhang Shancong, director of the Beijing Astro-future Institute of Space Technology and chief scientist at Beijing Orbit Twilight Techn",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.091492Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34438,
-    "title": "NASA rover hears electric crackles inside Mars dust devils",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/NASA_rover_hears_electric_crackles_inside_Mars_dust_devils_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/dustdevils-2025-desk-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (JPL) Dec 04, 2025\n\n\nNASA's Perseverance rover has directly detected tiny electrical sparks and associated shock waves inside Martian dust devils, confirming that the Red Planet's ubiquitous whirlwinds can generate \"mini-lightning\" through charged dust. Using the SuperCam instrument's microphone and electromagnetic sensors, the team identified brief crackles and pressure spikes that reveal triboelectric discharges o",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:10.966836Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -895,86 +982,6 @@
     "summary": "Tokyo, Japan (SPX) Dec 03, 2025\n\n\nResearchers have developed micro and nanoscale reconfigurable robots that capture and release carbon dioxide in confined life support systems such as crewed spacecraft, submarines, and sealed shelters. The team led by Prof. Hui He at Guangxi University reports that these micro nano reconfigurable robots, or MNRM, use sunlight as an energy source while moving through the system to avoid local ove",
     "published_at": "2025-12-03T13:33:14Z",
     "updated_at": "2025-12-03T12:30:12.524061Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34416,
-    "title": "Cosmic rays drive urgent search for better protection before crewed trips to Mars",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Cosmic_rays_drive_urgent_search_for_better_protection_before_crewed_trips_to_Mars_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nasa-mars-base-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Norwich, UK (SPX) Dec 03, 2025\n\n\nThe first step on the Moon was one of humanity's most exciting accomplishments. Now scientists are planning return trips - and dreaming of Mars beyond. \n\nNext year, Nasa's Artemis II mission will send four astronauts to fly around the Moon to test the spacecraft before future landings. The following year, two astronauts are expected to explore the surface of the Moon for a week as part of Na",
-    "published_at": "2025-12-03T13:33:14Z",
-    "updated_at": "2025-12-03T12:30:12.833369Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34413,
-    "title": "Bacterial partnership offers pathway to produce Mars regolith bricks for future habitats",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Bacterial_partnership_offers_pathway_to_produce_Mars_regolith_bricks_for_future_habitats_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/2001-mars-change-appearance-dust-storm-activity-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 03, 2025\n\n\nHuman missions to Mars will require robust shelters that can be built without hauling heavy materials from Earth, pushing engineers and scientists to focus on in situ resource utilization of the planet's regolith. A new perspective article describes how carefully selected microbial communities could turn Martian dust into structural elements for habitats, while also contributing to life-support",
-    "published_at": "2025-12-03T13:33:14Z",
-    "updated_at": "2025-12-03T12:30:12.730917Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34422,
-    "title": "Toxicology Analysis of Spacecraft Air",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/esdmd/hhp/toxicology-analysis-of-spacecraft-air/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2021/03/iss064e004749.jpg",
-    "news_site": "NASA",
-    "summary": "Toxicology and Environmental Chemistry (TEC) monitors airborne contaminants in both spacecraft air and water. In-flight monitors are employed to provide real-time insight into the environmental conditions on ISS. Archival samples are collected and returned to Earth for full characterization of ISS air and water. Real-time in-flight air analytical instruments include the Air Quality Monitors (AQM), […]",
-    "published_at": "2025-12-03T13:31:01Z",
-    "updated_at": "2025-12-03T13:40:06.244168Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34419,
-    "title": "China pushing for reusability milestone with Zhuque-3 launch and near-landing",
-    "authors": [
-      {
-        "name": "Ryan Caton",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/12/china-reusability-zhuque-3-launch-landing/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/12/NSF-2025-12-03-13-12-38-284.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Chinese commercial launch provider LandSpace achieved a major milestone with the successful maiden flight of…\nThe post China pushing for reusability milestone with Zhuque-3 launch and near-landing appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-12-03T13:20:50Z",
-    "updated_at": "2025-12-03T13:30:12.955275Z",
     "featured": false,
     "launches": [],
     "events": [],
