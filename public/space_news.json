@@ -1,5 +1,194 @@
 [
   {
+    "id": 34496,
+    "title": "Testing Drones for Mars in the Mojave Desert",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/testing-drones-for-mars-in-the-mojave-desert/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/pia26674orig.jpg",
+    "news_site": "NASA",
+    "summary": "Researchers from NASA’s Jet Propulsion Laboratory monitor a research drone in this September 2025 photo. This flight occurred in Dumont Dunes, an area of the Mojave Desert, as part of a larger test campaign to develop navigation software that would guide future rotorcraft on Mars. The work was among 25 projects funded by NASA’s Mars […]",
+    "published_at": "2025-12-05T16:22:36Z",
+    "updated_at": "2025-12-05T16:30:05.486083Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34489,
+    "title": "International Space Station prepares for new commander, heads into final five years of planned operations",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/12/05/international-space-station-prepares-for-new-commander-heads-into-final-five-years-of-planned-operations/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20251204_ISS_distance.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "NASA astronaut Mike Fincke will take command of the orbiting outpost as Expedition 74 begins with the undocking of Soyuz MS-27 on Monday, Dec. 8. The International Space Station is set to be de-orbited around 2030 or soon thereafter.",
+    "published_at": "2025-12-05T14:52:57Z",
+    "updated_at": "2025-12-05T15:18:01.422976Z",
+    "featured": false,
+    "launches": [],
+    "events": [
+      {
+        "event_id": 1303,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 34488,
+    "title": "Week in images: 01-05 December 2025",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_December_2025",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/30_years_of_soho_imaging_the_sun/27004243-1-eng-GB/30_years_of_SOHO_imaging_the_Sun_card_full.png",
+    "news_site": "ESA",
+    "summary": "Week in images: 01-05 December 2025",
+    "published_at": "2025-12-05T14:05:00Z",
+    "updated_at": "2025-12-05T14:10:12.783561Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34487,
+    "title": "UK’s ESA Funding Cuts Reflect Tightened Priorities Amid Fiscal Uncertainty",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/uks-esa-funding-cuts-reflect-tightened-priorities-amid-fiscal-uncertainty/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/12/UKs-ESA-Funding-Cuts-Reflect-Tightened-Priorities-Amid-Fiscal-Uncertainty.webp",
+    "news_site": "European Spaceflight",
+    "summary": "During the European Space Agency’s (ESA) Ministerial Council meeting in Bremen last week, the United Kingdom pledged €172 million less for the coming three years than it did for the previous three. The reduction in its contributions to ESA came amid large increases from other countries, notably Germany, which increased its commitments by more than […]\nThe post UK’s ESA Funding Cuts Reflect Tightened Priorities Amid Fiscal Uncertainty appeared first on European Spaceflight.",
+    "published_at": "2025-12-05T14:00:18Z",
+    "updated_at": "2025-12-05T14:10:11.275776Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34486,
+    "title": "Northrop Grumman continues solid rocket motor development and test program",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/northrop-grumman-continues-solid-rocket-motor-development-and-test-program/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/smartdemo2025.jpeg?fit=1024%2C859&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNorthrop Grumman tested a solid rocket motor Dec. 4 as part of an internal program to advance solid rocket propulsion technologies.\nThe post Northrop Grumman continues solid rocket motor development and test program appeared first on SpaceNews.",
+    "published_at": "2025-12-05T12:55:49Z",
+    "updated_at": "2025-12-05T13:00:22.004466Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34490,
+    "title": "Hubble Spots a Storm of New Stars",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/hubble-spots-a-storm-of-new-stars/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1792_potw2548a.jpg",
+    "news_site": "NASA",
+    "summary": "This NASA/ESA Hubble Space Telescope image features a stormy and highly active spiral galaxy named NGC 1792. Located over 50 million light-years from Earth in the constellation Columba (the Dove), the bright glow of the galaxy’s center is offset by the flocculent and sparkling spiral arms swirling around it. NGC 1792 is just as fascinating […]",
+    "published_at": "2025-12-05T12:29:15Z",
+    "updated_at": "2025-12-05T16:10:06.470433Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34484,
+    "title": "Orbex trails other European Launcher Challenge companies as U.K. delays funding decision",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/orbex-trails-other-european-launcher-challenge-companies-as-u-k-delays-funding-decision/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/new-for-online-prime.png?fit=1024%2C613&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Orbex received far less funding than the other four ESA European Launcher Challenge companies after the U.K. deferred a decision on funding allocations.\r\nThe post Orbex trails other European Launcher Challenge companies as U.K. delays funding decision appeared first on SpaceNews.",
+    "published_at": "2025-12-05T12:10:10Z",
+    "updated_at": "2025-12-05T14:46:12.639115Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "1b11f81e-cdbf-49aa-a7ce-aa79f609046c",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34485,
+    "title": "China faces temporary emergency launch gap after space station lifeboat crisis",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-faces-temporary-emergency-launch-gap-after-space-station-lifeboat-crisis/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/shenzhou21-docked-tiangong-31oct2025-CMSEO.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "China could be without emergency launch capability to Tiangong space station for months, leaving no rapid-response option for any new crisis following the Shenzhou-20 incident.\r\nThe post China faces temporary emergency launch gap after space station lifeboat crisis appeared first on SpaceNews.",
+    "published_at": "2025-12-05T12:07:35Z",
+    "updated_at": "2025-12-05T14:46:04.149200Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "a164daf8-31df-4d34-bf67-5ec41b3a9f9b",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34483,
     "title": "Surprisingly, this space economy isn’t for everyone",
     "authors": [
@@ -47,26 +236,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34473,
-    "title": "Congress warned that the U.S. faces a new space race with China",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/Congress_warned_that_the_U_S__faces_a_new_space_race_with_China_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-moon-us-mars-frank-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (UPI) Dec 4, 2025\n\n\nThe United States has entered a consequential new era of competition with China in space - one that lawmakers said will shape global power, economic security and military advantage for generations. \n\nHouse Science, Space and Technology Space and Aeronautics Subcommittee Chairman Mike Haridopolos, R-Fla., posed the issue during a hearing Thursday as a question for the future. \n\n\"Will huma",
-    "published_at": "2025-12-05T09:21:11Z",
-    "updated_at": "2025-12-05T08:10:10.774278Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34474,
     "title": "NASA extends ISS National Lab management contract through 2030",
     "authors": [
@@ -87,20 +256,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34475,
-    "title": "UK plasma thruster test positions Pulsar Fusion for larger satellite propulsion",
+    "id": 34473,
+    "title": "Congress warned that the U.S. faces a new space race with China",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/UK_plasma_thruster_test_positions_Pulsar_Fusion_for_larger_satellite_propulsion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uk-pulsar-fusion-engine-test-2025-bg.jpg",
+    "url": "https://www.moondaily.com/reports/Congress_warned_that_the_U_S__faces_a_new_space_race_with_China_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-moon-us-mars-frank-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Dec 05, 2025\n\n\nPulsar Fusion and partners have tested what they describe as the largest space plasma engine yet fired in Britain, designed to provide high-thrust in-space propulsion for heavier satellites. The engine, which the company reports is roughly ten times larger than its previous plasma thrusters, was demonstrated at the University of Southampton on 29 January in a large vacuum chamber to replicate on",
+    "summary": "Washington DC (UPI) Dec 4, 2025\n\n\nThe United States has entered a consequential new era of competition with China in space - one that lawmakers said will shape global power, economic security and military advantage for generations. \n\nHouse Science, Space and Technology Space and Aeronautics Subcommittee Chairman Mike Haridopolos, R-Fla., posed the issue during a hearing Thursday as a question for the future. \n\n\"Will huma",
     "published_at": "2025-12-05T09:21:11Z",
-    "updated_at": "2025-12-05T08:10:10.801197Z",
+    "updated_at": "2025-12-05T08:10:10.774278Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -127,6 +296,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34479,
+    "title": "Italian Earth observation fleet gains eight new IRIDE satellites",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Italian_Earth_observation_fleet_gains_eight_new_IRIDE_satellites_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/thales-esa-synthetic-aperture-radars-italian-earth-observation-constellation-iride-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Nov 28, 2025\n\n\nItaly's IRIDE Earth observation programme has expanded with the launch of eight Eaglet II satellites, adding a second constellation to the growing national fleet. The spacecraft rode into orbit on a Falcon 9 mission that lifted off from Vandenberg Space Force Base in California at 19:44 CET on 28 November, with deployment completed about an hour after launch and signals from all satellites later",
+    "published_at": "2025-12-05T09:21:11Z",
+    "updated_at": "2025-12-05T08:10:10.837603Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34477,
     "title": "Gels may have given early Earth chemistry a place to organize into life",
     "authors": [
@@ -147,20 +336,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34479,
-    "title": "Italian Earth observation fleet gains eight new IRIDE satellites",
+    "id": 34475,
+    "title": "UK plasma thruster test positions Pulsar Fusion for larger satellite propulsion",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Italian_Earth_observation_fleet_gains_eight_new_IRIDE_satellites_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/thales-esa-synthetic-aperture-radars-italian-earth-observation-constellation-iride-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/UK_plasma_thruster_test_positions_Pulsar_Fusion_for_larger_satellite_propulsion_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uk-pulsar-fusion-engine-test-2025-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Nov 28, 2025\n\n\nItaly's IRIDE Earth observation programme has expanded with the launch of eight Eaglet II satellites, adding a second constellation to the growing national fleet. The spacecraft rode into orbit on a Falcon 9 mission that lifted off from Vandenberg Space Force Base in California at 19:44 CET on 28 November, with deployment completed about an hour after launch and signals from all satellites later",
+    "summary": "London, UK (SPX) Dec 05, 2025\n\n\nPulsar Fusion and partners have tested what they describe as the largest space plasma engine yet fired in Britain, designed to provide high-thrust in-space propulsion for heavier satellites. The engine, which the company reports is roughly ten times larger than its previous plasma thrusters, was demonstrated at the University of Southampton on 29 January in a large vacuum chamber to replicate on",
     "published_at": "2025-12-05T09:21:11Z",
-    "updated_at": "2025-12-05T08:10:10.837603Z",
+    "updated_at": "2025-12-05T08:10:10.801197Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -221,6 +410,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2025-12-05T09:00:00Z",
     "updated_at": "2025-12-05T09:20:11.966149Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34491,
+    "title": "Senyar Swamps Sumatra",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/senyar-swamps-sumatra/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/senyar-swamps-sumatra/seasiaflooding_oli2_20251130.jpg",
+    "news_site": "NASA",
+    "summary": "A rare tropical cyclone dropped torrential rains on the Indonesian island, fueling extensive and destructive floods.",
+    "published_at": "2025-12-05T05:01:00Z",
+    "updated_at": "2025-12-05T16:10:06.520393Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -307,26 +516,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34470,
-    "title": "European rocket puts S.Korean satellite in orbit",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/European_rocket_puts_SKorean_satellite_in_orbit_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/launchers-spix-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Kourou (AFP) Dec 1, 2025\n\n\n The European Vega C rocket blasted off into space on Monday, successfully putting a South Korean Kompsat-7 satellite into the Earth's orbit. \n\nAfter two delays, Vega C achieved lift-off from the Guiana Space Centre in French Guiana at 2:21 pm (1721 GMT), an AFP journalist saw, with a significant South Korean delegation that had made the trip to South America watching on. \n\nAfter 45 minutes o",
-    "published_at": "2025-12-05T03:20:30Z",
-    "updated_at": "2025-12-05T02:10:11.611903Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34465,
     "title": "Vast spinning galaxy filament mapped in nearby Universe",
     "authors": [
@@ -341,6 +530,26 @@
     "summary": "Berlin, Germany (SPX) Dec 04, 2025\n\n\nAn international collaboration led by the University of Oxford has identified one of the largest rotating structures observed so far, a thin string of hydrogen-rich galaxies embedded in a spinning cosmic filament around 140 million light-years away. The work, published in Monthly Notices of the Royal Astronomical Society, offers new constraints on how large-scale structures influence the formati",
     "published_at": "2025-12-05T03:20:30Z",
     "updated_at": "2025-12-05T02:10:11.301021Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34470,
+    "title": "European rocket puts S.Korean satellite in orbit",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/European_rocket_puts_SKorean_satellite_in_orbit_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/launchers-spix-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Kourou (AFP) Dec 1, 2025\n\n\n The European Vega C rocket blasted off into space on Monday, successfully putting a South Korean Kompsat-7 satellite into the Earth's orbit. \n\nAfter two delays, Vega C achieved lift-off from the Guiana Space Centre in French Guiana at 2:21 pm (1721 GMT), an AFP journalist saw, with a significant South Korean delegation that had made the trip to South America watching on. \n\nAfter 45 minutes o",
+    "published_at": "2025-12-05T03:20:30Z",
+    "updated_at": "2025-12-05T02:10:11.611903Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -448,6 +657,26 @@
     "summary": "\nThis investment follows Washington Harbour’s earlier moves into space technology.\nThe post Washington Harbour deepens space portfolio with investment in Trusted Space appeared first on SpaceNews.",
     "published_at": "2025-12-04T21:00:00Z",
     "updated_at": "2025-12-04T21:20:19.214799Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34492,
+    "title": "NASA Selects 2 Instruments for Artemis IV Lunar Surface Science",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/artemis/artemis-4/nasa-selects-2-instruments-for-artemis-iv-lunar-surface-science/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/2025/LunarSouthPoleHeader.png",
+    "news_site": "NASA",
+    "summary": "NASA has selected two science instruments designed for astronauts to deploy on the surface of the Moon during the Artemis IV mission to the lunar south polar region. The instruments will improve our knowledge of the lunar environment to support NASA’s further exploration of the Moon and beyond to Mars.  “The Apollo Era taught us that […]",
+    "published_at": "2025-12-04T20:59:42Z",
+    "updated_at": "2025-12-05T16:10:06.612668Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -574,6 +803,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34493,
+    "title": "NASA-JAXA XRISM Finds Elemental Bounty in Supernova Remnant",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-finds-elemental-bounty-in-supernova-remnant/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2025/cas-a/XRISM_Resolve_CasA_Potassium.png",
+    "news_site": "NASA",
+    "summary": "For the first time, scientists have made a clear X-ray detection of chlorine and potassium in the wreckage of a star using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) spacecraft. The Resolve instrument aboard XRISM, pronounced “crism,” discovered these elements in a supernova remnant called Cassiopeia A or Cas A, for short. […]",
+    "published_at": "2025-12-04T15:01:03Z",
+    "updated_at": "2025-12-05T16:10:06.830606Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34455,
     "title": "ArianeGroup Receives Rear Heat Shield Mock-Up for ExoMars Mission",
     "authors": [
@@ -614,26 +863,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34453,
-    "title": "NASA Completes Nancy Grace Roman Space Telescope Construction",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-nancy-grace-roman-space-telescope-construction/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/complete.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s next big eye on the cosmos is now fully assembled. On Nov. 25, technicians joined the inner and outer portions of the Nancy Grace Roman Space Telescope in the largest clean room at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. “Completing the Roman observatory brings us to a defining moment for the […]",
-    "published_at": "2025-12-04T15:00:00Z",
-    "updated_at": "2025-12-04T15:00:08.298208Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34450,
     "title": "Comet 3I/ATLAS shows activity in Juice navigation camera teaser",
     "authors": [
@@ -648,6 +877,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2025-12-04T15:00:00Z",
     "updated_at": "2025-12-04T14:10:14.501330Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34453,
+    "title": "NASA Completes Nancy Grace Roman Space Telescope Construction",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/complete.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s next big eye on the cosmos is now fully assembled. On Nov. 25, technicians joined the inner and outer portions of the Nancy Grace Roman Space Telescope in the largest clean room at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. “Completing the Roman observatory brings us to a defining moment for the […]",
+    "published_at": "2025-12-04T15:00:00Z",
+    "updated_at": "2025-12-04T15:00:08.298208Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -741,146 +990,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34445,
-    "title": "Beijing space lab targets orbital data centers for AI era",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Beijing_space_lab_targets_orbital_data_centers_for_AI_era_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/broadband-communication-satellites-galaxyspace-china-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Nov 28, 2025\n\n\nAn institute in Beijing plans to launch its first high-computing-power experimental satellites by late 2025 or early 2026 as part of a wider effort to move intensive data processing into orbit while easing pressure on power and land resources on the ground. \n\nZhang Shancong, director of the Beijing Astro-future Institute of Space Technology and chief scientist at Beijing Orbit Twilight Techn",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.091492Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34446,
-    "title": "Martian dust devils found to generate electrical sparks",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Martian_dust_devils_found_to_generate_electrical_sparks_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-triboelectric-discharge-dust-events-mini-lightning-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Nov 27, 2025\n\nElectric discharges have been detected inside dust devils and dust storms on Mars for the first time, using sound recordings from the SuperCam microphone on NASAs Perseverance rover. Scientists from CNRS, Universite de Toulouse and Observatoire de Paris PSL analysed these signals and identified them as the acoustic and electromagnetic signatures of electrical activity within Martian dust events.",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.106456Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34442,
-    "title": "ICEYE boosts SAR capacity with launch of five satellites for commercial and national missions",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/ICEYE_boosts_SAR_capacity_with_launch_of_five_satellites_for_commercial_and_national_missions_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/iceye-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Nov 28, 2025\n\n\nICEYE has placed five new Synthetic Aperture Radar (SAR) satellites into orbit, extending its commercial constellation and adding spacecraft for several national customers. The satellites rode to space on SpaceX's Transporter-15 rideshare mission launched on November 26, 2025, from Vandenberg Space Force Base in California, after integration by Exolaunch. Each spacecraft has established communic",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.057178Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34443,
-    "title": "SSC expands ground station access with SSC Go service for small satellites",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/SSC_expands_ground_station_access_with_SSC_Go_service_for_small_satellites_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/leosat-enterprises-constellation-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Nov 28, 2025\n\n\nSSC has introduced SSC Go, a ground segment service built around a global network of 4 meter class antennas operating in S band, X band and Ka band for Low Earth Orbit missions. The service targets operators of small satellites and constellations that require frequent contact opportunities and rapid data return from spacecraft. \n\nThrough SSC Go, customers can access a set of ground stations",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.066610Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34444,
-    "title": "Solar telescope captures flare rich sunspot region in fine detail",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Solar_telescope_captures_flare_rich_sunspot_region_in_fine_detail_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/extra-solar-flares-patch-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Nov 28, 2025\n\n\nScientists using the GREGOR solar telescope in Tenerife have obtained a rare series of high resolution observations of the active region NOAA 14274, a sunspot group that generated two X class solar flares and several fast coronal mass ejections in November 2025. The team followed the evolution of the Suns most flare productive region of the year and linked the eruptions to auroras seen on Earth",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.077250Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34438,
-    "title": "NASA rover hears electric crackles inside Mars dust devils",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/NASA_rover_hears_electric_crackles_inside_Mars_dust_devils_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/dustdevils-2025-desk-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (JPL) Dec 04, 2025\n\n\nNASA's Perseverance rover has directly detected tiny electrical sparks and associated shock waves inside Martian dust devils, confirming that the Red Planet's ubiquitous whirlwinds can generate \"mini-lightning\" through charged dust. Using the SuperCam instrument's microphone and electromagnetic sensors, the team identified brief crackles and pressure spikes that reveal triboelectric discharges o",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:10.966836Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34439,
-    "title": "LandSpace reviews booster loss after Zhuque-3 reusable rocket test",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/LandSpace_reviews_booster_loss_after_Zhuque_3_reusable_rocket_test_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-landspace-zq-3-y1-rocket-booster-burning-to-the-ground-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 04, 2025\n\n\nLandSpace has begun a detailed analysis of its first Zhuque-3 (ZQ 3) orbital test after the reusable rocket's booster was lost during an attempted landing, even as the mission's upper stage reached its planned orbit. The flight, conducted from the Jiuquan Satellite Launch Center, marked China's first orbital-class launch attempt with a stainless-steel methane-fueled vehicle designed from the out",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.014542Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34440,
     "title": "Chinese team runs long term Martian dust cycle simulation with GoMars model",
     "authors": [
@@ -895,93 +1004,6 @@
     "summary": "Tokyo, Japan (SPX) Dec 04, 2025\n\n\nChinese researchers have used a self-developed next generation Mars general circulation model, known as GoMars, to carry out a comprehensive simulation of the Martian dust cycle spanning 50 Martian years. The work aims to capture how airborne dust evolves over time and to provide a basis for more reliable Martian weather forecasts and climate projections. \n\nThe team at the Institute of Atmos",
     "published_at": "2025-12-04T08:44:39Z",
     "updated_at": "2025-12-04T07:40:11.027384Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34441,
-    "title": "ESA Space Safety programme gains major funding increase",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ESA_Space_Safety_programme_gains_major_funding_increase_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-space-zero-debris-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Nov 28, 2025\n\n\nEuropean Space Agency member states have approved 955 million euros for the agency's Space Safety programme for the next three years, about 30 percent more than the previous funding level and above the amount requested in the CM25 proposal. The allocation represents roughly 4 percent of ESA's total budget over the same period and fully finances the programme's planned activities, including the R",
-    "published_at": "2025-12-04T08:44:39Z",
-    "updated_at": "2025-12-04T07:40:11.044443Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34437,
-    "title": "Isaacman hearing overviews bold vision for NASA",
-    "authors": [
-      {
-        "name": "Ryan Caton and Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/12/isaacman-bold-vision-nasa/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/12/Jared-Isaacman-return-to-earth-1170x780-1.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "In an encore performance before the U.S. Senate Committee on Commerce, Science, and Transportation, entrepreneur…\nThe post Isaacman hearing overviews bold vision for NASA appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-12-03T23:40:33Z",
-    "updated_at": "2025-12-03T23:42:15.415291Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34436,
-    "title": "Isaacman’s Second Hearing Mostly Friendly, Nomination Could Clear Senate Soon",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/isaacmans-second-hearing-mostly-friendly-nomination-could-clear-senate-soon/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/12/Isaacman-2nd-hrg-NASA-Dec-3-25-300x259.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Jared Isaacman’s nomination to be NASA Administrator could be approved by the Senate in the next three weeks. During his mostly-friendly second confirmation hearing today, the top Republican and Democrat […]",
-    "published_at": "2025-12-03T23:31:35Z",
-    "updated_at": "2025-12-03T23:33:03.928158Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34435,
-    "title": "Isaacman, senators emphasize urgency in returning humans to the moon",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/isaacman-senators-emphasize-urgency-in-returning-humans-to-the-moon/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/54961826041_3df60ef4d0_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSenate Commerce Committee leaders said they hope to swiftly confirm Jared Isaacman as NASA administrator as he delivered a “message of urgency” about returning astronauts to the moon before China.\nThe post Isaacman, senators emphasize urgency in returning humans to the moon appeared first on SpaceNews.",
-    "published_at": "2025-12-03T22:19:05Z",
-    "updated_at": "2025-12-03T22:20:18.489450Z",
     "featured": false,
     "launches": [],
     "events": [],
