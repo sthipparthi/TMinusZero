@@ -1,5 +1,25 @@
 [
   {
+    "id": 34501,
+    "title": "Sugars Essential to Life Discovered on Bennu",
+    "authors": [
+      {
+        "name": "Emily B",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2025/12/sugars-essential-to-life-discovered-on-bennu/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/12/DSC3818-Enhanced-SR-2.jpg",
+    "news_site": "Space Scout",
+    "summary": "On December 2nd, 2025, a team led by researchers at Tohoku University in Japan announced the identification of Ribose, Glucose,",
+    "published_at": "2025-12-06T17:20:26Z",
+    "updated_at": "2025-12-06T17:30:18.236206Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34500,
     "title": "Invention Challenge Brings Student Engineers to NASA JPL",
     "authors": [
@@ -336,26 +356,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34473,
-    "title": "Congress warned that the U.S. faces a new space race with China",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/Congress_warned_that_the_U_S__faces_a_new_space_race_with_China_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-moon-us-mars-frank-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (UPI) Dec 4, 2025\n\n\nThe United States has entered a consequential new era of competition with China in space - one that lawmakers said will shape global power, economic security and military advantage for generations. \n\nHouse Science, Space and Technology Space and Aeronautics Subcommittee Chairman Mike Haridopolos, R-Fla., posed the issue during a hearing Thursday as a question for the future. \n\n\"Will huma",
-    "published_at": "2025-12-05T09:21:11Z",
-    "updated_at": "2025-12-05T08:10:10.774278Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34479,
     "title": "Italian Earth observation fleet gains eight new IRIDE satellites",
     "authors": [
@@ -396,26 +396,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34475,
-    "title": "UK plasma thruster test positions Pulsar Fusion for larger satellite propulsion",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/UK_plasma_thruster_test_positions_Pulsar_Fusion_for_larger_satellite_propulsion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uk-pulsar-fusion-engine-test-2025-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Dec 05, 2025\n\n\nPulsar Fusion and partners have tested what they describe as the largest space plasma engine yet fired in Britain, designed to provide high-thrust in-space propulsion for heavier satellites. The engine, which the company reports is roughly ten times larger than its previous plasma thrusters, was demonstrated at the University of Southampton on 29 January in a large vacuum chamber to replicate on",
-    "published_at": "2025-12-05T09:21:11Z",
-    "updated_at": "2025-12-05T08:10:10.801197Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34477,
     "title": "Gels may have given early Earth chemistry a place to organize into life",
     "authors": [
@@ -430,6 +410,46 @@
     "summary": "Berlin, Germany (SPX) Dec 03, 2025\n\n\nAn international team from Japan, Malaysia, the UK, and Germany has proposed that life on Earth may have emerged within sticky, surface-bound gels that formed before the first cells. The researchers argue that these prebiotic gels, attached to mineral or other surfaces, could have provided both structure and chemical environments that helped early chemistry progress toward biology. \n\nThe tea",
     "published_at": "2025-12-05T09:21:11Z",
     "updated_at": "2025-12-05T08:10:10.820701Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34473,
+    "title": "Congress warned that the U.S. faces a new space race with China",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/Congress_warned_that_the_U_S__faces_a_new_space_race_with_China_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-moon-us-mars-frank-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (UPI) Dec 4, 2025\n\n\nThe United States has entered a consequential new era of competition with China in space - one that lawmakers said will shape global power, economic security and military advantage for generations. \n\nHouse Science, Space and Technology Space and Aeronautics Subcommittee Chairman Mike Haridopolos, R-Fla., posed the issue during a hearing Thursday as a question for the future. \n\n\"Will huma",
+    "published_at": "2025-12-05T09:21:11Z",
+    "updated_at": "2025-12-05T08:10:10.774278Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34475,
+    "title": "UK plasma thruster test positions Pulsar Fusion for larger satellite propulsion",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/UK_plasma_thruster_test_positions_Pulsar_Fusion_for_larger_satellite_propulsion_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uk-pulsar-fusion-engine-test-2025-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London, UK (SPX) Dec 05, 2025\n\n\nPulsar Fusion and partners have tested what they describe as the largest space plasma engine yet fired in Britain, designed to provide high-thrust in-space propulsion for heavier satellites. The engine, which the company reports is roughly ten times larger than its previous plasma thrusters, was demonstrated at the University of Southampton on 29 January in a large vacuum chamber to replicate on",
+    "published_at": "2025-12-05T09:21:11Z",
+    "updated_at": "2025-12-05T08:10:10.801197Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -556,66 +576,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34467,
-    "title": "Martian butterfly crater reveals low angle impact and buried lava history",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Martian_butterfly_crater_reveals_low_angle_impact_and_buried_lava_history_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-express-idaeus-fossae-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Dec 04, 2025\n\n\nESA's Mars Express orbiter has observed an impact crater in Mars's northern lowlands whose shape resembles a butterfly, created when an incoming space rock struck the surface at a shallow angle. The main crater, which appears somewhat like a walnut from orbit, measures about 20 km east to west and 15 km north to south and sits within the Idaeus Fossae region. The impact threw material preferenti",
-    "published_at": "2025-12-05T03:20:30Z",
-    "updated_at": "2025-12-05T02:10:11.424971Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34465,
-    "title": "Vast spinning galaxy filament mapped in nearby Universe",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Vast_spinning_galaxy_filament_mapped_in_nearby_Universe_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/universe-largest-spinning-structures-cosmic-filaments-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 04, 2025\n\n\nAn international collaboration led by the University of Oxford has identified one of the largest rotating structures observed so far, a thin string of hydrogen-rich galaxies embedded in a spinning cosmic filament around 140 million light-years away. The work, published in Monthly Notices of the Royal Astronomical Society, offers new constraints on how large-scale structures influence the formati",
-    "published_at": "2025-12-05T03:20:30Z",
-    "updated_at": "2025-12-05T02:10:11.301021Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34468,
-    "title": "Isolation and bed rest volunteers sought for future spaceflight research",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Isolation_and_bed_rest_volunteers_sought_for_future_spaceflight_research_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/dlr-envihab-bed-rest-studies-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 04, 2025\n\n\nDLR and ESA are recruiting volunteers for two human research campaigns at the :envihab aerospace medicine facility in Cologne that will simulate key aspects of long duration missions beyond low Earth orbit. The SOLIS100 isolation study will place six participants in a confined, spacecraft like habitat for 100 days, while the SMC3 bed rest study will keep 12 volunteers in head down tilt for 60 da",
-    "published_at": "2025-12-05T03:20:30Z",
-    "updated_at": "2025-12-05T02:10:11.531921Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34470,
     "title": "European rocket puts S.Korean satellite in orbit",
     "authors": [
@@ -650,6 +610,66 @@
     "summary": "Los Angeles CA (SPX) Dec 04, 2025\n\n\nSwRI scientists report that a reanalysis of Voyager 2 measurements suggests a powerful solar storm may explain why Uranus hosts an electron radiation belt far more intense than expected. They propose that a large-scale solar wind structure, known as a co-rotating interaction region, was passing through the Uranian system during the 1986 flyby, driving extreme space weather conditions that booste",
     "published_at": "2025-12-05T03:20:30Z",
     "updated_at": "2025-12-05T02:10:11.349703Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34468,
+    "title": "Isolation and bed rest volunteers sought for future spaceflight research",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Isolation_and_bed_rest_volunteers_sought_for_future_spaceflight_research_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/dlr-envihab-bed-rest-studies-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 04, 2025\n\n\nDLR and ESA are recruiting volunteers for two human research campaigns at the :envihab aerospace medicine facility in Cologne that will simulate key aspects of long duration missions beyond low Earth orbit. The SOLIS100 isolation study will place six participants in a confined, spacecraft like habitat for 100 days, while the SMC3 bed rest study will keep 12 volunteers in head down tilt for 60 da",
+    "published_at": "2025-12-05T03:20:30Z",
+    "updated_at": "2025-12-05T02:10:11.531921Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34467,
+    "title": "Martian butterfly crater reveals low angle impact and buried lava history",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.marsdaily.com/reports/Martian_butterfly_crater_reveals_low_angle_impact_and_buried_lava_history_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mars-express-idaeus-fossae-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Dec 04, 2025\n\n\nESA's Mars Express orbiter has observed an impact crater in Mars's northern lowlands whose shape resembles a butterfly, created when an incoming space rock struck the surface at a shallow angle. The main crater, which appears somewhat like a walnut from orbit, measures about 20 km east to west and 15 km north to south and sits within the Idaeus Fossae region. The impact threw material preferenti",
+    "published_at": "2025-12-05T03:20:30Z",
+    "updated_at": "2025-12-05T02:10:11.424971Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34465,
+    "title": "Vast spinning galaxy filament mapped in nearby Universe",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Vast_spinning_galaxy_filament_mapped_in_nearby_Universe_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/universe-largest-spinning-structures-cosmic-filaments-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 04, 2025\n\n\nAn international collaboration led by the University of Oxford has identified one of the largest rotating structures observed so far, a thin string of hydrogen-rich galaxies embedded in a spinning cosmic filament around 140 million light-years away. The work, published in Monthly Notices of the Royal Astronomical Society, offers new constraints on how large-scale structures influence the formati",
+    "published_at": "2025-12-05T03:20:30Z",
+    "updated_at": "2025-12-05T02:10:11.301021Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -943,26 +963,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34450,
-    "title": "Comet 3I/ATLAS shows activity in Juice navigation camera teaser",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/12/Comet_3I_ATLAS_shows_activity_in_Juice_navigation_camera_teaser",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/comet_3i_atlas_shows_activity_in_juice_navigation_camera_teaser/27008867-1-eng-GB/Comet_3I_ATLAS_shows_activity_in_Juice_navigation_camera_teaser_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-12-04T15:00:00Z",
-    "updated_at": "2025-12-04T14:10:14.501330Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34453,
     "title": "NASA Completes Nancy Grace Roman Space Telescope Construction",
     "authors": [
@@ -983,20 +983,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34452,
-    "title": "Orion hatch ‘blemish’ delays launch day rehearsal for Artemis 2 astronauts",
+    "id": 34450,
+    "title": "Comet 3I/ATLAS shows activity in Juice navigation camera teaser",
     "authors": [
       {
-        "name": "Will Robinson-Smith",
+        "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://spaceflightnow.com/2025/12/04/orion-hatch-blemish-delays-launch-day-rehearsal-for-artemis-2-astronauts/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20251203_Orion_stacked.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The temporary issue caused the agency to reorient its planned order of pre-rollout tests within the Vehicle Assembly Building. The agency continues to target an early February launch of the mission. ",
-    "published_at": "2025-12-04T14:31:40Z",
-    "updated_at": "2025-12-04T14:40:19.154476Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/12/Comet_3I_ATLAS_shows_activity_in_Juice_navigation_camera_teaser",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/comet_3i_atlas_shows_activity_in_juice_navigation_camera_teaser/27008867-1-eng-GB/Comet_3I_ATLAS_shows_activity_in_Juice_navigation_camera_teaser_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-12-04T15:00:00Z",
+    "updated_at": "2025-12-04T14:10:14.501330Z",
     "featured": false,
     "launches": [],
     "events": [],
