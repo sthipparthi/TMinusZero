@@ -1,6 +1,6 @@
 {
-  "count": 18,
-  "last_updated": "2025-12-06T06:01:28.922612Z",
+  "count": 17,
+  "last_updated": "2025-12-06T12:01:29.410804Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (18 failed/unavailable)"
+    "Empty AI summaries (17 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "f98f21cc-5a35-4d64-953c-277a9212032e",
-      "name": "Long March 8A | Unknown Payload",
-      "status": "Go",
-      "net": "2025-12-06T07:50:00Z",
-      "window_start": "2025-12-06T07:45:00Z",
-      "window_end": "2025-12-06T08:10:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Commercial LC-1, Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-1",
-      "location": "Wenchang Space Launch Site, People's Republic of China",
-      "rocket": "Long March 8A",
-      "rocket_config_description": "The Long March 8A is an orbital launch vehicle developed by the China Academy of Launch Vehicle Technology based on the Long March 8. It has an increased capability of up to 7 tonnes to a 700 km altitude sun-synchronous orbit. It implements a larger 3.35 meters diameter liquid hydrogen/liquid oxygen 2nd stage, coupled with 2 upgraded version of the YF-75D engines used on the Long March 5 (known as the YF-75H) with increased thrust to 10 tonnes each through measures such as increased turbopump speeds. \r\n\r\nThe Long March 8A can also use a larger 5.2 meters diameter payload fairing.",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 8A",
-      "rocket_config_total_launch_count": 4,
-      "rocket_config_successful_launches": 4,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 558,
-      "rocket_manufacturer_successful_launches": 544,
-      "rocket_manufacturer_failed_launches": 14,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_y1_in_vab_image_20250213053137.JPG",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/f98f21cc-5a35-4d64-953c-277a9212032e/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "e9a5374e-b091-45dc-830c-d2ffa1b1ed47",
       "name": "Falcon 9 Block 5 | Starlink Group 11-15",
@@ -834,7 +793,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 18,
-    "total_launches": 18
+    "empty_summaries": 17,
+    "total_launches": 17
   }
 }
