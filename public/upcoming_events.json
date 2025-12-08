@@ -1,6 +1,6 @@
 {
-  "count": 16,
-  "last_updated": "2025-12-07T18:01:39.255725Z",
+  "count": 15,
+  "last_updated": "2025-12-08T00:04:35.767391Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,58 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (16 failed/unavailable)"
+    "Empty AI summaries (15 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "c1fb73cf-ad9a-4305-bd11-d61fff369afe",
-      "name": "Falcon 9 Block 5 | Starlink Group 6-92",
-      "status": "Go",
-      "net": "2025-12-07T11:00:00Z",
-      "window_start": "2025-12-07T11:00:00Z",
-      "window_end": "2025-12-07T15:00:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Starlink Group 6-92",
-      "mission_description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mission_type": "Communications",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Launch Complex 39A, Kennedy Space Center, FL, USA",
-      "pad": "Launch Complex 39A",
-      "location": "Kennedy Space Center, FL, USA",
-      "rocket": "Falcon 9 Block 5",
-      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
-      "rocket_config_family": "Falcon",
-      "rocket_config_full_name": "Falcon 9 Block 5",
-      "rocket_config_total_launch_count": 512,
-      "rocket_config_successful_launches": 511,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 101,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 605,
-      "rocket_manufacturer_successful_launches": 590,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/c1fb73cf-ad9a-4305-bd11-d61fff369afe/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 10,
-          "title": "Livestream on X",
-          "description": "Livestream on X",
-          "feature_image": null,
-          "url": "https://x.com/i/broadcasts/1YqGolaBAzyJv"
-        }
-      ],
-      "ai_summary": ""
-    },
     {
       "id": "5130a1e5-5a3e-4d2d-a4b8-28a9e2a5b677",
       "name": "Long March 6A | Unknown Payload",
@@ -737,7 +688,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 16,
-    "total_launches": 16
+    "empty_summaries": 15,
+    "total_launches": 15
   }
 }
