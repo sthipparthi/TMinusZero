@@ -1,5 +1,232 @@
 [
   {
+    "id": 34592,
+    "title": "Soyuz MS-27 Back on Terra Firma",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/soyuz-ms-27-back-on-terra-firma/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/12/Soyuz-MS27-undocks-Dec-8-25-300x169.webp",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "NASA astronaut Jonny Kim and his two Russian colleagues, Sergey Ryzhikov and Aleksey Zubritsky, have safely returned to Earth after eight months on the International Space Station. Their replacements arrived […]",
+    "published_at": "2025-12-09T05:39:45Z",
+    "updated_at": "2025-12-09T05:40:21.482492Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34591,
+    "title": "Senate committee advances Isaacman nomination a second time",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/senate-committee-advances-isaacman-nomination-a-second-time/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/54962010038_20923daf20_k.jpg?fit=1024%2C624&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Senate Commerce Committee advanced the nomination of Jared Isaacman to be NASA administrator to the full Senate in a Dec. 8 vote.\nThe post Senate committee advances Isaacman nomination a second time appeared first on SpaceNews.",
+    "published_at": "2025-12-09T05:13:38Z",
+    "updated_at": "2025-12-09T05:20:21.080841Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34589,
+    "title": "AI advances robot navigation on the International Space Station",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.robodaily.com/reports/AI_advances_robot_navigation_on_the_International_Space_Station_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/astrobee-mini-robots-practise-grasping-space-debris-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Stanford CA (SPX) Dec 09, 2025\n\n\nImagine a robot about the size of a toaster floating through the tight corridors of the International Space Station, quietly moving supplies or checking for leaks - all without an astronaut at the controls. Such technology could free up valuable time for astronauts and open new opportunities for robotics-based exploration. That sci-fi vision is coming closer to reality now that Stanford research",
+    "published_at": "2025-12-09T04:08:14Z",
+    "updated_at": "2025-12-09T03:00:17.030523Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34587,
+    "title": "Nova images capture complex stellar blast behavior",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Nova_images_capture_complex_stellar_blast_behavior_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/chara-array-nova-v1674-early-imaging-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 09, 2025\n\n\nAn international group of astronomers led by Texas Tech University assistant professor Elias Aydi published a paper titled Multiple outflows and delayed ejections revealed by early imaging of novae in Nature Astronomy on Dec. 5. The team used interferometry with the Center for High Angular Resolution Astronomy (CHARA) Array in California, combining light from multiple telescopes to obtain the hi",
+    "published_at": "2025-12-09T04:08:14Z",
+    "updated_at": "2025-12-09T03:00:16.977886Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34588,
+    "title": "New island of inversion found in proton neutron symmetric molybdenum nuclei",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/New_island_of_inversion_found_in_proton_neutron_symmetric_molybdenum_nuclei_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/beryllium-10-nucleus-graphic-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 09, 2025\n\n\nFor decades, nuclear physicists have known that so called islands of inversion mark regions of the nuclear chart where standard shell structure breaks down and magic numbers vanish in favor of strongly deformed shapes. In earlier work these islands were identified mainly in neutron rich isotopes such as beryllium 12 with N = 8, magnesium 32 with N = 20, and chromium 64 with N = 40, all distant f",
+    "published_at": "2025-12-09T04:08:14Z",
+    "updated_at": "2025-12-09T03:00:16.998509Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34583,
+    "title": "Private capital targets mission-critical software power and platforms in new space economy",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Private_capital_targets_mission_critical_software_power_and_platforms_in_new_space_economy_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satellite-constellation-mixed-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 09, 2025\n\n\nAxle Point Capital and Balerion Space Ventures are directing new private capital into companies that build core infrastructure for the expanding U.S. space and defense economy, from mission software and guidance systems to deployable microreactors and high-temperature reactors. Axle Point's first transaction is a strategic equity investment in Odyssey Space Research LLC, a flight software and en",
+    "published_at": "2025-12-09T04:08:14Z",
+    "updated_at": "2025-12-09T03:00:16.851505Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34590,
+    "title": "RISTRETTO spectrograph cleared for Proxima b atmospheric hunt",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/RISTRETTO_spectrograph_cleared_for_Proxima_b_atmospheric_hunt_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/alpha-centauri-ab-proxima-centauri-local-space-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Geneva, Switzerland (SPX) Dec 09, 2025\n\n\nThe RISTRETTO project at the University of Geneva has reached a key stage, with several core elements of its high-precision spectrograph now prototyped and tested for observations of the nearby exoplanet Proxima b. The instrument is designed to study the faint reflected light of this Earth-sized planet, which orbits Proxima Centauri at a temperature compatible with liquid water but remains outsh",
+    "published_at": "2025-12-09T04:08:14Z",
+    "updated_at": "2025-12-09T03:00:17.053458Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34586,
+    "title": "Gravitational lens time delays refine Hubble constant",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Gravitational_lens_time_delays_refine_Hubble_constant_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/eight-time-delay-gravitational-lens-systems-bright-lights-quasars-behind-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 09, 2025\n\n\nAstronomers are testing a new way to measure how fast the universe is expanding by using time delays in gravitationally lensed images of distant quasars, in an effort to clarify the long-standing tension between different measurements of the Hubble constant. \n\nThe expansion rate of the universe, known as the Hubble constant, describes how quickly galaxies recede as a function of distance, wi",
+    "published_at": "2025-12-09T04:08:14Z",
+    "updated_at": "2025-12-09T03:00:16.945397Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34584,
+    "title": "Neutron Hungry Hippo fairing completes qualification ahead of first launch",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Neutron_Hungry_Hippo_fairing_completes_qualification_ahead_of_first_launch_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rocket-lab-neutron-hungry-hippo-fairing-final-qualification-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 09, 2025\n\n\nRocket Lab Corporation has qualified the captive Hungry Hippo fairing for its Neutron launch vehicle and is sending the structure to Virginia for integration ahead of the rocket's debut mission. The fairing halves remain attached to Neutron's first stage from liftoff through landing, rather than separating and being discarded or recovered at sea. In flight, the halves open to release the second",
+    "published_at": "2025-12-09T04:08:14Z",
+    "updated_at": "2025-12-09T03:00:16.889656Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34585,
+    "title": "Record gamma ray burst traced to dusty massive host galaxy",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Record_gamma_ray_burst_traced_to_dusty_massive_host_galaxy_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/high-mass-young-stellar-object-s255-nirs-3-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 09, 2025\n\n\nGamma ray bursts rank among the most energetic explosions known, usually flashing and fading within seconds or minutes, but on 2 July 2025 astronomers detected GRB 250702B, a source that produced repeated bursts for over seven hours and now stands as the longest gamma ray burst yet observed. Space based observatories, including NASAs Fermi Gamma ray Space Telescope, first recorded the gamma rays",
+    "published_at": "2025-12-09T04:08:14Z",
+    "updated_at": "2025-12-09T03:00:16.928032Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34582,
+    "title": "Isaacman’s NASA Nomination Clears Senate Commerce Committee Again",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/isaacmans-nasa-nomination-clears-senate-commerce-committee-again/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/12/Issacman-2nd-hrg-Dec-3-25-300x187.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The Senate Commerce, Science, and Transportation Committee again approved Jared Isaacman’s nomination to be NASA Administrator today. This is Isaacman’s second time through the process because President Trump withdrew the […]",
+    "published_at": "2025-12-09T01:27:35Z",
+    "updated_at": "2025-12-09T01:30:14.480436Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34581,
     "title": "Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week",
     "authors": [
@@ -187,6 +414,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34538,
+    "title": "Spire soil data to support conflict early warning in Ethiopias Somali Region",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/Spire_soil_data_to_support_conflict_early_warning_in_Ethiopias_Somali_Region_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/horn-of-africa-farm-gricultural-failures-drought-ethiopia-kenya-somalia-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London, UK (SPX) Dec 05, 2025\n\n\nSpire Global has been selected by GIST Research to supply satellite-derived Soil Moisture Insights for a project that links climate conditions to pastoralist movements and conflict risks in Ethiopias Somali Region. The work feeds into the International Organization for Migrations Transhumance Tracking Tool, which monitors herder routes and is used to anticipate tensions around scarce resources.",
+    "published_at": "2025-12-08T11:59:33Z",
+    "updated_at": "2025-12-08T11:00:16.440505Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34536,
     "title": "Space tested menstrual cup backs astronaut health on long missions",
     "authors": [
@@ -221,26 +468,6 @@
     "summary": "Berlin, Germany (SPX) Dec 08, 2025\n\n\nA team at TU Wien has developed a new way to connect quantum theory with general relativity by quantizing the spacetime metric and analyzing how this affects the paths that particles follow under gravity. Their work focuses on geodesics, the curves that represent the shortest connection between two points in curved spacetime and that underlie most applications of Einstein's theory, such as the o",
     "published_at": "2025-12-08T11:59:33Z",
     "updated_at": "2025-12-08T11:00:16.422250Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34538,
-    "title": "Spire soil data to support conflict early warning in Ethiopias Somali Region",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.terradaily.com/reports/Spire_soil_data_to_support_conflict_early_warning_in_Ethiopias_Somali_Region_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/horn-of-africa-farm-gricultural-failures-drought-ethiopia-kenya-somalia-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Dec 05, 2025\n\n\nSpire Global has been selected by GIST Research to supply satellite-derived Soil Moisture Insights for a project that links climate conditions to pastoralist movements and conflict risks in Ethiopias Somali Region. The work feeds into the International Organization for Migrations Transhumance Tracking Tool, which monitors herder routes and is used to anticipate tensions around scarce resources.",
-    "published_at": "2025-12-08T11:59:33Z",
-    "updated_at": "2025-12-08T11:00:16.440505Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -354,26 +581,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34530,
-    "title": "Astrobotic lunar surface sensor to track cislunar traffic and security",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/Astrobotic_lunar_surface_sensor_to_track_cislunar_traffic_and_security_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/astrobotic-orbital-tracking-sensor-cislunar-security-traffic-awareness-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 04, 2025\n\n\nAstrobotic has secured a NASA Small Business Innovation Research Phase I award to develop Clavius-S, a visible-band imaging sensor designed to detect and track spacecraft in low lunar orbit from the Moon's surface in real time. The modular payload can fly on a range of lunar lander missions and will be integrated into future LunaGrid surface power nodes, creating a networked space domain awarene",
-    "published_at": "2025-12-08T09:14:48Z",
-    "updated_at": "2025-12-08T08:10:10.231607Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34532,
     "title": "Supernova mixing traced as source of key life elements",
     "authors": [
@@ -414,6 +621,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34530,
+    "title": "Astrobotic lunar surface sensor to track cislunar traffic and security",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/Astrobotic_lunar_surface_sensor_to_track_cislunar_traffic_and_security_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/astrobotic-orbital-tracking-sensor-cislunar-security-traffic-awareness-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 04, 2025\n\n\nAstrobotic has secured a NASA Small Business Innovation Research Phase I award to develop Clavius-S, a visible-band imaging sensor designed to detect and track spacecraft in low lunar orbit from the Moon's surface in real time. The modular payload can fly on a range of lunar lander missions and will be integrated into future LunaGrid surface power nodes, creating a networked space domain awarene",
+    "published_at": "2025-12-08T09:14:48Z",
+    "updated_at": "2025-12-08T08:10:10.231607Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34534,
     "title": "The World's Best Golf Resorts: Where Luxury Meets the Fairway",
     "authors": [
@@ -434,40 +661,40 @@
     "detailed_news": ""
   },
   {
-    "id": 34520,
-    "title": "NASA backs WHOI effort to read organic signals from ocean worlds",
+    "id": 34527,
+    "title": "AAC Clyde Space secures ESA funding to develop Sirius EDGE on board computer",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/NASA_backs_WHOI_effort_to_read_organic_signals_from_ocean_worlds_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ocean-system-science-interdisciplinary-study-ocean-worlds-exoplanet-extrasolar-earth-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/AAC_Clyde_Space_secures_ESA_funding_to_develop_Sirius_EDGE_on_board_computer_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/aac-clyde-space-epiclink-satellite-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 08, 2025\n\n\nOcean worlds such as Jupiter's icy moon Europa and Saturn's moon Enceladus are emerging as prime locations to search for life beyond Earth, potentially including a second, independent origin of life within the Solar System. With NASA's Europa Clipper spacecraft scheduled to arrive at Europa in 2030 to assess whether its icy crust or subsurface ocean can sustain life, Woods Hole Oceanographic Ins",
+    "summary": "London, UK (SPX) Dec 08, 2025\n\n\nAAC Clyde Space has received SEK 4.7 million from the ESA Phi-Lab Sweden programme to develop the foundation for its next-generation Sirius EDGE on-board computer platform for small satellites and unmanned aerial vehicles. The work will be carried out at AAC Clyde Space in Uppsala together with subsidiary Spacemetric in Sollentuna and the KTH Royal Institute of Technology in Stockholm. The proje",
     "published_at": "2025-12-08T04:55:37Z",
-    "updated_at": "2025-12-08T03:50:15.774257Z",
+    "updated_at": "2025-12-08T03:50:15.853360Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 34523,
-    "title": "Beyond Gravity positions new modular satellite platform for European LEO missions",
+    "id": 34528,
+    "title": "Cedars-Sinai and Exobiosphere Partner to Launch Biomedical Research Aboard the Vast Haven-1 Space Station",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Beyond_Gravity_positions_new_modular_satellite_platform_for_European_LEO_missions_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/beyond-gravity-hera-solar-panel-space-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Cedars_Sinai_and_Exobiosphere_Partner_to_Launch_Biomedical_Research_Aboard_the_Vast_Haven_1_Space_Station_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/iss-biofilms-experiment-slides-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Zurich, Switzerland (SPX) Dec 08, 2025\n\n\nBeyond Gravity is expanding from supplying satellite components to delivering complete satellites based on a new low Earth orbit platform. The company aims to offer turnkey spacecraft to institutional and government customers that can be placed in orbit on relatively short timelines. \n\nThe space technology firm, headquartered in Zurich, already provides structures, thermal protection, comput",
+    "summary": "Los Angeles CA (SPX) Dec 08, 2025\n\n\nCedars-Sinai is partnering with Exobiosphere, a company that has developed scientific hardware to automate biomedical research in space and on Earth. Using this hardware, Cedars-Sinai investigators will send experiments to Haven-1, which is set to become the world's first commercial space station, developed by Long Beach-based aerospace company Vast. \n\nThe investigators want to study how the",
     "published_at": "2025-12-08T04:55:37Z",
-    "updated_at": "2025-12-08T03:50:15.819765Z",
+    "updated_at": "2025-12-08T03:50:15.860254Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -488,6 +715,26 @@
     "summary": "Paris, France (SPX) Dec 08, 2025\n\n\nD-Orbit, a global leader in space logistics and orbital transportation, has launched two new orbital transportation missions using its ION Satellite Carrier, pushing the company past the milestone of 200 payloads delivered to orbit. \n\nThe twin missions, named We Need More Space and Ride With Me, represent the 20th and 21st commercial flights of the ION orbital transfer vehicle and flew as pa",
     "published_at": "2025-12-08T04:55:37Z",
     "updated_at": "2025-12-08T03:50:15.828746Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34520,
+    "title": "NASA backs WHOI effort to read organic signals from ocean worlds",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_backs_WHOI_effort_to_read_organic_signals_from_ocean_worlds_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ocean-system-science-interdisciplinary-study-ocean-worlds-exoplanet-extrasolar-earth-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 08, 2025\n\n\nOcean worlds such as Jupiter's icy moon Europa and Saturn's moon Enceladus are emerging as prime locations to search for life beyond Earth, potentially including a second, independent origin of life within the Solar System. With NASA's Europa Clipper spacecraft scheduled to arrive at Europa in 2030 to assess whether its icy crust or subsurface ocean can sustain life, Woods Hole Oceanographic Ins",
+    "published_at": "2025-12-08T04:55:37Z",
+    "updated_at": "2025-12-08T03:50:15.774257Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -534,60 +781,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34528,
-    "title": "Cedars-Sinai and Exobiosphere Partner to Launch Biomedical Research Aboard the Vast Haven-1 Space Station",
+    "id": 34523,
+    "title": "Beyond Gravity positions new modular satellite platform for European LEO missions",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Cedars_Sinai_and_Exobiosphere_Partner_to_Launch_Biomedical_Research_Aboard_the_Vast_Haven_1_Space_Station_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/iss-biofilms-experiment-slides-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Beyond_Gravity_positions_new_modular_satellite_platform_for_European_LEO_missions_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/beyond-gravity-hera-solar-panel-space-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 08, 2025\n\n\nCedars-Sinai is partnering with Exobiosphere, a company that has developed scientific hardware to automate biomedical research in space and on Earth. Using this hardware, Cedars-Sinai investigators will send experiments to Haven-1, which is set to become the world's first commercial space station, developed by Long Beach-based aerospace company Vast. \n\nThe investigators want to study how the",
+    "summary": "Zurich, Switzerland (SPX) Dec 08, 2025\n\n\nBeyond Gravity is expanding from supplying satellite components to delivering complete satellites based on a new low Earth orbit platform. The company aims to offer turnkey spacecraft to institutional and government customers that can be placed in orbit on relatively short timelines. \n\nThe space technology firm, headquartered in Zurich, already provides structures, thermal protection, comput",
     "published_at": "2025-12-08T04:55:37Z",
-    "updated_at": "2025-12-08T03:50:15.860254Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34527,
-    "title": "AAC Clyde Space secures ESA funding to develop Sirius EDGE on board computer",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AAC_Clyde_Space_secures_ESA_funding_to_develop_Sirius_EDGE_on_board_computer_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/aac-clyde-space-epiclink-satellite-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Dec 08, 2025\n\n\nAAC Clyde Space has received SEK 4.7 million from the ESA Phi-Lab Sweden programme to develop the foundation for its next-generation Sirius EDGE on-board computer platform for small satellites and unmanned aerial vehicles. The work will be carried out at AAC Clyde Space in Uppsala together with subsidiary Spacemetric in Sollentuna and the KTH Royal Institute of Technology in Stockholm. The proje",
-    "published_at": "2025-12-08T04:55:37Z",
-    "updated_at": "2025-12-08T03:50:15.853360Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34522,
-    "title": "ArkEdge boosts 6U micro-satellite fleet with three-satellite AE5R launch",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ArkEdge_boosts_6U_micro_satellite_fleet_with_three_satellite_AE5R_launch_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/arkedge-space-cubesats-ae5ra-ae5rb-ae5rc-standardized-6u-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 08, 2025\n\n\nTokyo, Japan, December 1, 2025 - ArkEdge Space Inc., a Tokyo-based space technology company that designs, builds, and operates micro-satellite constellations, has launched three new 6U-class satellites AE5Ra, AE5Rb, and AE5Rc and begun initial operations, bringing its in-house developed and operated satellite fleet to twelve. \n\nThe AE5R satellites rode to orbit on the SpaceX Falcon 9 Transpo",
-    "published_at": "2025-12-08T04:55:37Z",
-    "updated_at": "2025-12-08T03:50:15.810318Z",
+    "updated_at": "2025-12-08T03:50:15.819765Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -608,6 +815,26 @@
     "summary": "Munich, Germany (SPX) Dec 08, 2025\n\n\nOroraTech has launched GENA-OT, the first mission built on its GEneric flexible NAnosatellite platform, on SpaceX's Transporter-15 rideshare flight from Vandenberg Space Force Base. The 16U CubeSat was developed under the European Space Agency's General Support Technology Programme with funding from the German Space Agency at DLR to provide a standardized satellite bus for scientific and technol",
     "published_at": "2025-12-08T04:55:37Z",
     "updated_at": "2025-12-08T03:50:15.844430Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34522,
+    "title": "ArkEdge boosts 6U micro-satellite fleet with three-satellite AE5R launch",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ArkEdge_boosts_6U_micro_satellite_fleet_with_three_satellite_AE5R_launch_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/arkedge-space-cubesats-ae5ra-ae5rb-ae5rc-standardized-6u-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 08, 2025\n\n\nTokyo, Japan, December 1, 2025 - ArkEdge Space Inc., a Tokyo-based space technology company that designs, builds, and operates micro-satellite constellations, has launched three new 6U-class satellites AE5Ra, AE5Rb, and AE5Rc and begun initial operations, bringing its in-house developed and operated satellite fleet to twelve. \n\nThe AE5R satellites rode to orbit on the SpaceX Falcon 9 Transpo",
+    "published_at": "2025-12-08T04:55:37Z",
+    "updated_at": "2025-12-08T03:50:15.810318Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -755,233 +982,6 @@
     "summary": "Los Angeles CA (SPX) Dec 05, 2025\n\n\nThe Sun is not just a glowing ball in the sky. From large magnetic loops hundreds of times larger than Earth, to tiny features that blink in and out of existence, our home star is far more dynamic than most of us realize. According to Krzysztof Barczynski, a solar physicist who worked on this research while at ETH Zurich and is now at PMOD/WRC in Davos, \"the Sun is an incredibly active and dynam",
     "published_at": "2025-12-07T05:02:23Z",
     "updated_at": "2025-12-07T04:00:15.891828Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34510,
-    "title": "Gravitational wave signals reveal dark matter around black holes",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Gravitational_wave_signals_reveal_dark_matter_around_black_holes_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/two-centrally-located-supermassive-black-holes-gravitational-wave-discoveries-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 05, 2025\n\n\nA research team at the University of Amsterdam has developed a new general-relativistic model that shows how gravitational waves from black holes can be used to reveal dark matter and constrain its properties. The model follows in detail how a massive black hole interacts with its surrounding matter and how this interaction alters the emitted gravitational-wave signal. \n\nRodrigo Vicente, The",
-    "published_at": "2025-12-07T05:02:23Z",
-    "updated_at": "2025-12-07T04:00:15.972140Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34504,
-    "title": "NASA prepares new lunar dust and seismic studies for Artemis IV",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/NASA_prepares_new_lunar_dust_and_seismic_studies_for_Artemis_IV_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lunar-outpost-mapp-duster-south-pole-seismic-station-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Dec 05, 2025\n\n\nNASA has selected two science instruments for astronauts to deploy on the lunar surface during the Artemis IV mission to the Moon's south polar region, with the goal of improving understanding of the local environment to support future human and robotic exploration to the Moon and on to Mars. \n\nNicky Fox, associate administrator for the Science Mission Directorate at NASA Headquarters in Was",
-    "published_at": "2025-12-07T05:02:23Z",
-    "updated_at": "2025-12-07T04:00:15.798146Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34506,
-    "title": "Subaru OASIS survey uncovers massive planet and brown dwarf",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Subaru_OASIS_survey_uncovers_massive_planet_and_brown_dwarf_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/subaru-telescope-hip-54515-b-exoplanet-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 05, 2025\n\n\nAstronomers using the Subaru Telescope in Hawaii have identified a massive planet and a brown dwarf orbiting distant stars, marking the first discoveries from the Observing Accelerators with SCExAO Imaging Survey (OASIS). The program combines precision space astrometry with Subaru's high-contrast imaging to reveal companions that are otherwise hidden in the glare of their host stars. These resul",
-    "published_at": "2025-12-07T05:02:23Z",
-    "updated_at": "2025-12-07T04:00:15.872379Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34505,
-    "title": "Astronomers tighten expansion rate gap in universe measurements",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Astronomers_tighten_expansion_rate_gap_in_universe_measurements_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/hubble-constant-sharpen-universe-expansion-rate-cosmic-mystery-deepens-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 05, 2025\n\n\nA team of astronomers using several ground and space-based observatories, including the W. M. Keck Observatory on Maunakea, has produced one of the most precise independent measurements yet of the universe's current expansion rate, intensifying the long-running Hubble tension in cosmology. \n\nThe researchers drew on data from Keck's Cosmic Web Imager together with observations from NASA's Jam",
-    "published_at": "2025-12-07T05:02:23Z",
-    "updated_at": "2025-12-07T04:00:15.828591Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34513,
-    "title": "NASA prepares long duration Antarctic balloon campaign to probe neutrinos and dark matter",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_prepares_long_duration_Antarctic_balloon_campaign_to_probe_neutrinos_and_dark_matter_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nasa-scientific-balloon-program-payload-for-ultrahigh-energy-observations-pueo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 05, 2025\n\n\nNASA's Scientific Balloon Program is returning to Antarctica for a new long-duration campaign featuring two zero-pressure balloon launches from a site near the U.S. National Science Foundation's McMurdo Station on the Ross Ice Shelf. The flights will carry the Payload for Ultrahigh Energy Observations (PUEO) and the General AntiParticle Spectrometer (GAPS), both focused on high-energy astrophysi",
-    "published_at": "2025-12-07T05:02:23Z",
-    "updated_at": "2025-12-07T04:00:16.023301Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34503,
-    "title": "ISS to change commanders before Soyuz crew leaves orbit",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Station_to_change_commanders_before_Soyuz_crew_leaves_orbit_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/iss-russia-soyuz-ms-27-prichal-module-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 05, 2025\n\n\nExpedition 73 will swap commanders this weekend before three crew members return to Earth on Monday. Expedition 74 will begin once the home bound trio undocks from the Rassvet module inside the Soyuz MS-27 spacecraft the following day. \n\nVeteran Roscosmos cosmonaut and station Commander Sergey Ryzhikov will hand over a symbolic key representing command of the orbital outpost to four-time spa",
-    "published_at": "2025-12-07T05:02:23Z",
-    "updated_at": "2025-12-07T04:00:15.769983Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34511,
-    "title": "Bio-hybrid robots turn food waste into functional machines",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.robodaily.com/reports/Bio_hybrid_robots_turn_food_waste_into_functional_machines_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/food-waste-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Lausanne Switzerland (SPX) Dec 05, 2025\n\n\nEPFL scientists have integrated discarded crustacean shells into robotic devices, leveraging the strength and flexibility of natural materials for robotic applications. \n\nAlthough many roboticists today turn to nature to inspire their designs, even bioinspired robots are usually fabricated from non-biological materials like metal, plastic and composites. But a new experimental robotic manipu",
-    "published_at": "2025-12-07T05:02:23Z",
-    "updated_at": "2025-12-07T04:00:15.985821Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34508,
-    "title": "Sun-watcher SOHO celebrates thirty years",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Sun_watcher_SOHO_celebrates_thirty_years_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/soho-space-observatory-in-orbit-around-the-sun-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Dec 05, 2025\n\n\nOn 2 December 1995 the ESA/NASA Solar and Heliospheric Observatory (SOHO) blasted into space - on what was supposed to be a two-year mission. \n\nFrom its outpost 1.5 million km away from Earth in the direction of the Sun, SOHO enjoys uninterrupted views of our star. It has provided a nearly continuous record of our Sun's activity for close to three 11-year-long solar cycles. \n\n\"It is test",
-    "published_at": "2025-12-07T05:02:23Z",
-    "updated_at": "2025-12-07T04:00:15.903990Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34512,
-    "title": "Digital twin successfully launched and deployed into space",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/UC_Davis_Designed_Digital_Twin_Successfully_Launched_and_Deployed_into_Space_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/proteus-space-mercury-one-dynamic-digital-twin-payload-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Davis CA (SPX) Dec 05, 2025\n\n\nA dynamic digital twin designed by UC Davis researchers was launched into Earth's orbit last week aboard a SpaceX rocket. The innovation, which will model the current condition and predict the future condition of the spacecraft's power system, was carried by a Proteus Space satellite and is the first of its kind to be sent into space. \n\nThe rocket was launched Nov. 28 from Vandenberg Space F",
-    "published_at": "2025-12-07T05:02:23Z",
-    "updated_at": "2025-12-07T04:00:15.998005Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34502,
-    "title": "SpaceX gets approval to build Starship launch complex at Cape Canaveral",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/spacex-gets-approval-to-build-starship-launch-complex-at-cape-canaveral/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/slc37-starship.jpeg?fit=1024%2C619&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nhe Department of the Air Force has approved plans to convert a former Delta 4 launch site at Cape Canaveral into a complex for SpaceX’s Starship.\nThe post SpaceX gets approval to build Starship launch complex at Cape Canaveral appeared first on SpaceNews.",
-    "published_at": "2025-12-06T20:44:09Z",
-    "updated_at": "2025-12-06T20:50:21.162504Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34501,
-    "title": "Sugars Essential to Life Discovered on Bennu",
-    "authors": [
-      {
-        "name": "Emily B",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacescout.info/2025/12/sugars-essential-to-life-discovered-on-bennu/",
-    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2025/12/DSC3818-Enhanced-SR-2.jpg",
-    "news_site": "Space Scout",
-    "summary": "On December 2nd, 2025, a team led by researchers at Tohoku University in Japan announced the identification of Ribose, Glucose,",
-    "published_at": "2025-12-06T17:20:26Z",
-    "updated_at": "2025-12-06T17:30:18.236206Z",
     "featured": false,
     "launches": [],
     "events": [],
