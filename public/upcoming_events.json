@@ -1,6 +1,6 @@
 {
-  "count": 17,
-  "last_updated": "2025-12-08T18:01:48.429541Z",
+  "count": 16,
+  "last_updated": "2025-12-09T00:04:19.888436Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (17 failed/unavailable)"
+    "Empty AI summaries (16 failed/unavailable)"
   ],
   "launches": [
     {
@@ -52,69 +52,6 @@
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
-      "ai_summary": ""
-    },
-    {
-      "id": "c1fb73cf-ad9a-4305-bd11-d61fff369afe",
-      "name": "Falcon 9 Block 5 | Starlink Group 6-92",
-      "status": "Go",
-      "net": "2025-12-08T21:14:00Z",
-      "window_start": "2025-12-08T21:14:00Z",
-      "window_end": "2025-12-09T01:14:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Starlink Group 6-92",
-      "mission_description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "mission_type": "Communications",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Launch Complex 39A, Kennedy Space Center, FL, USA",
-      "pad": "Launch Complex 39A",
-      "location": "Kennedy Space Center, FL, USA",
-      "rocket": "Falcon 9 Block 5",
-      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
-      "rocket_config_family": "Falcon",
-      "rocket_config_full_name": "Falcon 9 Block 5",
-      "rocket_config_total_launch_count": 518,
-      "rocket_config_successful_launches": 517,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 100,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 611,
-      "rocket_manufacturer_successful_launches": 596,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/c1fb73cf-ad9a-4305-bd11-d61fff369afe/",
-      "webcast_live": false,
-      "probability": 90,
-      "video_urls": [
-        {
-          "priority": 7,
-          "title": "TBD - SpaceX - Falcon 9 - Starlink 6-92 - LC-39A - Kennedy Space Center - Space Affairs Live",
-          "description": "Launch Date: December 8, 2025\nLaunch Time: TBD\nLaunch Window: TBD\nLaunch Site: Kennedy Space Center, Florida\nTargeted Orbit: Low Earth Orbit (LEO)\nLaunch Inclination: Southeast\nLaunch Status: Scheduled and announced\n\nMission: Starlink Group 6-92\nLaunch Provider: SpaceX\nLauncher System: Falcon 9 (Booster B1067)\nFlight for the Booster: 32\nPrevious Flights of the Booster: 31 - CRS-22, Crew-3, Turksat 5B, Crew-4, CRS-25, Eutelsat HOTBIRD 13G, SES O3B mPOWER-A, PSN SATRIA, Telkomsat Merah Putih 2, Galileo L13, Koreasat-6A, and 20 Starlink missions\nDroneship: Just Read The Instructions (JRTI)\n\nPrice: $69,75 million (without payload)\nDiameter: 3,7 m\nHeight: 70 meters\nPayload to Orbit: 22,800 LEO / 8,300 GTO\nLift-Off Thrust: 7,607 kilonewtons\nFairing: Diameter 5,2 meters / Height 13 meters\nSt...",
-          "feature_image": "https://i.ytimg.com/vi/sOCnytxilOg/maxresdefault_live.jpg",
-          "url": "https://www.youtube.com/watch?v=sOCnytxilOg"
-        },
-        {
-          "priority": 9,
-          "title": "SpaceX Falcon 9 launches Starlink 6-92 - Second Attempt",
-          "description": "SpaceX launch of a batch of 29 Starlink v2-mini satellites for their second-generation high-speed low earth orbit internet satellite constellation.\n\nLaunch window: December 8th from 4:40PM to 8:40PM EST (21:40-01:40 UTC)\nCurrent T0: December 8th at 4:40PM EST (21:40:00 UTC)\n\nMission: Falcon 9 launch of 29 Starlink v2 Mini satellites into orbit.\nLaunch location: Launch Complex 39A, Kennedy Space Center, Earth.\nTarget orbit: Low-Earth Orbit (LEO); 43° inclination orbit\nBooster: B1067-32; 49d 4h 20s turnaround\nPast customer missions: CRS-22, Crew-3, Türksat 5B, Crew-4, CRS-25, Hotbird 13G, O3b mPOWER A, Satria, Merah Putih 2, Galileo FM26 & FM32, Koreasat 6A.\nPast Starlink missions: 4-34, 5-2, 5-5, 5-9, 6-10, 6-22, 6-29, 6-35, 6-45, 6-55, 8-5, 8-3, 6-70, 12-12, 12-8, 6-73, 6-83, 10-25, 1...",
-          "feature_image": "https://i.ytimg.com/vi/wmMtjlBXduw/maxresdefault_live.jpg",
-          "url": "https://www.youtube.com/watch?v=wmMtjlBXduw"
-        },
-        {
-          "priority": 10,
-          "title": "Starlink Mission",
-          "description": "Livestream on X",
-          "feature_image": "https://pbs.twimg.com/media/G7muZfnWsAEjcJU.jpg",
-          "url": "https://x.com/i/broadcasts/1dRJZagnwPXGB"
-        }
-      ],
       "ai_summary": ""
     },
     {
@@ -792,7 +729,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 17,
-    "total_launches": 17
+    "empty_summaries": 16,
+    "total_launches": 16
   }
 }
