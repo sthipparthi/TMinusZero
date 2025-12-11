@@ -1,6 +1,6 @@
 {
-  "count": 13,
-  "last_updated": "2025-12-10T18:01:38.411279Z",
+  "count": 15,
+  "last_updated": "2025-12-11T00:04:27.194723Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (13 failed/unavailable)"
+    "Empty AI summaries (15 failed/unavailable)"
   ],
   "launches": [
     {
@@ -505,6 +505,55 @@
       "ai_summary": ""
     },
     {
+      "id": "0b5da6e2-9141-427b-ab22-bcdd3ca6520a",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-13",
+      "status": "Go",
+      "net": "2025-12-16T15:24:00Z",
+      "window_start": "2025-12-16T15:24:00Z",
+      "window_end": "2025-12-16T19:24:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Starlink Group 15-13",
+      "mission_description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mission_type": "Communications",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Space Launch Complex 4E, Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 521,
+      "rocket_config_successful_launches": 520,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 103,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 614,
+      "rocket_manufacturer_successful_launches": 599,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/0b5da6e2-9141-427b-ab22-bcdd3ca6520a/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "Starlink Mission",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/G70vVzoWgAAkNJ4.jpg",
+          "url": "https://x.com/i/broadcasts/1BdGYZoZzjXJX"
+        }
+      ],
+      "ai_summary": ""
+    },
+    {
       "id": "8e7d57b1-b5c0-4d0d-a575-fe23606bdeee",
       "name": "Ariane 62 | Galileo L14 (FOC FM33 & FM34)",
       "status": "Go",
@@ -546,8 +595,8 @@
       "ai_summary": ""
     },
     {
-      "id": "12ad73f5-e4d5-426f-9bb0-47d9680fc809",
-      "name": "HASTE | Avalanche",
+      "id": "4a0681be-ed20-40b9-870b-38de1583c0ef",
+      "name": "Electron | STP-S30",
       "status": "Go",
       "net": "2025-12-18T05:00:00Z",
       "window_start": "2025-12-18T05:00:00Z",
@@ -557,10 +606,10 @@
       "lsp_type": "Commercial",
       "lsp_country": "USA",
       "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
-      "mission_name": "Avalanche",
-      "mission_description": "Sub-orbital launch under Rocket Lab’s Hypersonic Accelerator Suborbital Test Electron (HASTE) program, details TBD.",
-      "mission_type": "Government/Top Secret",
-      "orbit": "Suborbital",
+      "mission_name": "STP-S30",
+      "mission_description": "STP-S30 is a complex mission that will deliver research experiments and technology demonstrations to orbit for the DoD and contribute to future space systems development. The projected primary payload, DISKSat, will demonstrate sustained very low earth orbit (VLEO) flight and test a unique, 1-meter diameter, disk-shaped satellite bus that is designed to increase on-orbit persistence.",
+      "mission_type": "Technology",
+      "orbit": "Low Earth Orbit",
       "launch_site": "Rocket Lab Launch Complex 2 (Launch Area 0 C), Wallops Flight Facility, Virginia, USA",
       "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
       "location": "Wallops Flight Facility, Virginia, USA",
@@ -571,7 +620,7 @@
       "rocket_config_total_launch_count": 76,
       "rocket_config_successful_launches": 72,
       "rocket_config_failed_launches": 4,
-      "rocket_config_pending_launches": 44,
+      "rocket_config_pending_launches": 43,
       "rocket_manufacturer_name": "Rocket Lab",
       "rocket_manufacturer_type": "Commercial",
       "rocket_manufacturer_description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
@@ -580,10 +629,59 @@
       "rocket_manufacturer_failed_launches": 4,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/12ad73f5-e4d5-426f-9bb0-47d9680fc809/",
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/4a0681be-ed20-40b9-870b-38de1583c0ef/",
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
+      "ai_summary": ""
+    },
+    {
+      "id": "ae315ab0-ecda-4c54-99c6-0a8818f55b0d",
+      "name": "Falcon 9 Block 5 | Starlink Group 6-88",
+      "status": "Go",
+      "net": "2025-12-19T05:00:00Z",
+      "window_start": "2025-12-19T05:00:00Z",
+      "window_end": "2025-12-19T08:17:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Starlink Group 6-88",
+      "mission_description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mission_type": "Communications",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Space Launch Complex 40, Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "location": "Cape Canaveral SFS, FL, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 521,
+      "rocket_config_successful_launches": 520,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 103,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 614,
+      "rocket_manufacturer_successful_launches": 599,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/ae315ab0-ecda-4c54-99c6-0a8818f55b0d/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "Starlink Mission",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/G70wFtAXgAAT_LB.jpg",
+          "url": "https://x.com/i/broadcasts/1ynKOMYMbjqJR"
+        }
+      ],
       "ai_summary": ""
     }
   ],
@@ -591,7 +689,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 13,
-    "total_launches": 13
+    "empty_summaries": 15,
+    "total_launches": 15
   }
 }
