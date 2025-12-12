@@ -1,5 +1,92 @@
 [
   {
+    "id": 34695,
+    "title": "Pacific Moisture Drenches the U.S. Northwest",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/pacific-moisture-drenches-the-u-s-northwest/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/pacific-moisture-drenches-the-u-s--northwest/pnwatmoriver_geos5_20251210.jpg",
+    "news_site": "NASA",
+    "summary": "A potent atmospheric river delivered intense rainfall to western Washington, triggering flooding and mudslides.",
+    "published_at": "2025-12-12T05:00:00Z",
+    "updated_at": "2025-12-12T05:10:06.764851Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34694,
+    "title": "NASA astrophysics director offers optimistic vision despite budget uncertainty",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-astrophysics-director-offers-optimistic-vision-despite-budget-uncertainty/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/roman-nov2025.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe head of NASA’s astrophysics division offered an upbeat assessment of upcoming missions, a stark contrast to the bleak outlook in the agency’s budget proposal six months ago.\nThe post NASA astrophysics director offers optimistic vision despite budget uncertainty appeared first on SpaceNews.",
+    "published_at": "2025-12-12T04:51:40Z",
+    "updated_at": "2025-12-12T05:00:31.898409Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34693,
+    "title": "Space Force rolls out new naming scheme for satellites and space weapons",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-force-rolls-out-new-naming-scheme-for-satellites-and-space-weapons/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-11-at-2.28.35-PM.png?fit=1024%2C541&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nGen. Chance Saltzman unveils a taxonomy linking system names to mission areas, echoing legacy traditions across the military\nThe post Space Force rolls out new naming scheme for satellites and space weapons appeared first on SpaceNews.",
+    "published_at": "2025-12-12T00:30:00Z",
+    "updated_at": "2025-12-12T00:40:19.674467Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34692,
+    "title": "All eight ISS docking ports occupied for the first time, Expedition 74 begins",
+    "authors": [
+      {
+        "name": "Eleanor Day",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/12/iss-roundup-november/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/12/IMG_2056.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "After the arrival of the MS-28 spacecraft on Nov. 27, all eight docking ports on…\nThe post All eight ISS docking ports occupied for the first time, Expedition 74 begins appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-12-12T00:17:30Z",
+    "updated_at": "2025-12-12T00:20:22.923796Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34691,
     "title": "U.S. Air Force Secretary warns China’s space gains are driven by more than copying",
     "authors": [
@@ -272,26 +359,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34675,
-    "title": "The U.S. race to the moon: Why Plan B cannot wait",
-    "authors": [
-      {
-        "name": "Doug Cooke",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFor years, both the Trump Administration and Congress have clearly stated that returning Americans to the moon before China in the 2028-2030 timeframe is a national priority. It is central to United States leadership in space, to global influence and to the future of human exploration.  Yet across the space community, a sobering recognition has […]\nThe post The U.S. race to the moon: Why Plan B cannot wait appeared first on SpaceNews.",
-    "published_at": "2025-12-11T14:00:00Z",
-    "updated_at": "2025-12-11T14:00:30.305023Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34674,
     "title": "Enduralock Validates OneLink™ Prototype in Zero-G Simulation",
     "authors": [
@@ -306,6 +373,26 @@
     "summary": "\nDecember 8, 2025 LENEXA, KS – Enduralock is pleased to announce the successful completion of form, fit, and function testing for its OneLink™ satellite docking connector in Arkisys’ 1G robotic […]\nThe post Enduralock Validates OneLink™ Prototype in Zero-G Simulation appeared first on SpaceNews.",
     "published_at": "2025-12-11T14:00:00Z",
     "updated_at": "2025-12-11T14:00:30.175629Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34675,
+    "title": "The U.S. race to the moon: Why Plan B cannot wait",
+    "authors": [
+      {
+        "name": "Doug Cooke",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFor years, both the Trump Administration and Congress have clearly stated that returning Americans to the moon before China in the 2028-2030 timeframe is a national priority. It is central to United States leadership in space, to global influence and to the future of human exploration.  Yet across the space community, a sobering recognition has […]\nThe post The U.S. race to the moon: Why Plan B cannot wait appeared first on SpaceNews.",
+    "published_at": "2025-12-11T14:00:00Z",
+    "updated_at": "2025-12-11T14:00:30.305023Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -544,6 +631,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34669,
+    "title": "Foreign satellites ride Kinetica 1 on new CAS Space mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Foreign_satellites_ride_Kinetica_1_on_new_CAS_Space_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-cas-space-kinetica-1-launch-day-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 11, 2025\n\n\nCAS Space has carried out the 11th launch of its Kinetica 1 solid-fuel carrier rocket, orbiting nine satellites from the Jiuquan Satellite Launch Center in the Gobi Desert of northwestern China. The rocket lifted off at 12:03 pm local time and delivered all payloads into their planned orbits. The manifest included six Chinese multifunctional satellites, along with one satellite each for the Unit",
+    "published_at": "2025-12-11T08:45:02Z",
+    "updated_at": "2025-12-11T07:40:13.188680Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34661,
     "title": "Uranus and Neptune may be rock rich worlds",
     "authors": [
@@ -584,6 +691,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34668,
+    "title": "Experts at Hainan symposium call for stronger global space partnership",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Experts_at_Hainan_symposium_call_for_stronger_global_space_partnership_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-sun-rocket-launch-silhouette-long-march-2f-shenzhou-22-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 11, 2025\n\n\nThe 2025 International Symposium on the Peaceful Use of Space Technology - Health (IPSPACE 2025) opened Tuesday in Boao, a coastal town in China's Hainan province, with a focus on expanding cooperation in space activities and applying space-based capabilities to the health sector. \n\nOrganizers brought together about 50 experts and astronauts from China and other countries for the three-day",
+    "published_at": "2025-12-11T08:45:02Z",
+    "updated_at": "2025-12-11T07:40:13.179434Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34660,
     "title": "NASA JPL Unveils Rover Operations Center for Moon, Mars Missions",
     "authors": [
@@ -604,26 +731,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34669,
-    "title": "Foreign satellites ride Kinetica 1 on new CAS Space mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Foreign_satellites_ride_Kinetica_1_on_new_CAS_Space_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-cas-space-kinetica-1-launch-day-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 11, 2025\n\n\nCAS Space has carried out the 11th launch of its Kinetica 1 solid-fuel carrier rocket, orbiting nine satellites from the Jiuquan Satellite Launch Center in the Gobi Desert of northwestern China. The rocket lifted off at 12:03 pm local time and delivered all payloads into their planned orbits. The manifest included six Chinese multifunctional satellites, along with one satellite each for the Unit",
-    "published_at": "2025-12-11T08:45:02Z",
-    "updated_at": "2025-12-11T07:40:13.188680Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34670,
     "title": "Leading the Odds: Five Bookmakers Transforming Ireland's Modern Betting Landscape",
     "authors": [
@@ -638,26 +745,6 @@
     "summary": "London, UK (SPX) Dec 11, 2025\n\nDiscover how five innovative bookmakers are reshaping Ireland's betting industry through technology, transparency, and player-first design. A news-style deep dive into Ireland's evolving betting landscape.",
     "published_at": "2025-12-11T08:45:02Z",
     "updated_at": "2025-12-11T07:40:13.203046Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34668,
-    "title": "Experts at Hainan symposium call for stronger global space partnership",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Experts_at_Hainan_symposium_call_for_stronger_global_space_partnership_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-sun-rocket-launch-silhouette-long-march-2f-shenzhou-22-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 11, 2025\n\n\nThe 2025 International Symposium on the Peaceful Use of Space Technology - Health (IPSPACE 2025) opened Tuesday in Boao, a coastal town in China's Hainan province, with a focus on expanding cooperation in space activities and applying space-based capabilities to the health sector. \n\nOrganizers brought together about 50 experts and astronauts from China and other countries for the three-day",
-    "published_at": "2025-12-11T08:45:02Z",
-    "updated_at": "2025-12-11T07:40:13.179434Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -905,93 +992,6 @@
     "summary": "NASA and its partners have supported humans continuously living and working in space since November 2000. After 25 years of habitation, the International Space Station continues to be a proving ground for technology that powers NASA’s Artemis campaign, future lunar missions, and human exploration of Mars.   Take a look at key technology advancements made […]",
     "published_at": "2025-12-10T20:50:03Z",
     "updated_at": "2025-12-10T20:50:15.215449Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34647,
-    "title": "Delivering the next generation of cloud-native, multi-orbit ground systems",
-    "authors": [
-      {
-        "name": "ST Engineering iDirect",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/delivering-the-next-generation-of-cloud-native-multi-orbit-ground-systems/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/5GNTN-300x300-chart-post-300ppi-01.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAs on-orbit capabilities grow more advanced, ground systems are undergoing a transformation of their own.  Ground network specialist ST Engineering iDirect, with headquarters in Herndon, Virginia, is investing in new […]\nThe post Delivering the next generation of cloud-native, multi-orbit ground systems appeared first on SpaceNews.",
-    "published_at": "2025-12-10T20:46:08Z",
-    "updated_at": "2025-12-10T20:50:29.091076Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34687,
-    "title": "GLOBE Expands with Landsat Land Cover Comparisons",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/landsat/globe-expands-with-landsat-land-cover-comparisons/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2025/LandCoverBanner.png",
-    "news_site": "NASA",
-    "summary": "The Global Learning and Observations to Benefit the Environment (GLOBE) Program has launched a new feature that connects citizen scientists directly to Landsat observations.",
-    "published_at": "2025-12-10T19:16:12Z",
-    "updated_at": "2025-12-11T19:10:06.135201Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34645,
-    "title": "After key Russian launch site is damaged, NASA accelerates Dragon supply missions",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/12/after-key-russian-launch-site-is-damaged-nasa-accelerates-dragon-supply-missions/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/51842830239_a0768f7dc5_k.jpg",
-    "news_site": "Arstechnica",
-    "summary": "It is by no means certain that Russia will be able to fix Site 31 soon.",
-    "published_at": "2025-12-10T18:13:52Z",
-    "updated_at": "2025-12-10T18:20:04.788460Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34642,
-    "title": "Helsing and Kongsberg plot multi-mission European defense space network",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/helsing-and-kongsberg-plot-multi-mission-european-defense-space-network/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Helsing_Space_Signing_2.png?fit=1024%2C733&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nTwo defense technology companies from Norway and Germany have joined forces to bolster Europe’s sovereign intelligence and communications capabilities, with plans to start deploying small satellites in about three years.\nThe post Helsing and Kongsberg plot multi-mission European defense space network appeared first on SpaceNews.",
-    "published_at": "2025-12-10T17:44:55Z",
-    "updated_at": "2025-12-10T17:50:23.484383Z",
     "featured": false,
     "launches": [],
     "events": [],
