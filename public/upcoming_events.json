@@ -1,6 +1,6 @@
 {
-  "count": 16,
-  "last_updated": "2025-12-13T00:04:14.725150Z",
+  "count": 15,
+  "last_updated": "2025-12-13T06:01:35.536053Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (16 failed/unavailable)"
+    "Empty AI summaries (15 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "9599500a-7c85-4d58-a3cb-aaf4915ad5fb",
-      "name": "Long March 6 | Unknown Payload",
-      "status": "Go",
-      "net": "2025-12-13T01:05:00Z",
-      "window_start": "2025-12-13T01:00:00Z",
-      "window_end": "2025-12-13T01:44:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Launch Complex 16, Taiyuan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Complex 16",
-      "location": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "rocket": "Long March 6",
-      "rocket_config_description": "",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 6",
-      "rocket_config_total_launch_count": 14,
-      "rocket_config_successful_launches": 14,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 562,
-      "rocket_manufacturer_successful_launches": 548,
-      "rocket_manufacturer_failed_launches": 14,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6_image_20210709074933.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/9599500a-7c85-4d58-a3cb-aaf4915ad5fb/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "de6db617-3d40-414a-86d6-f365b130df30",
       "name": "Electron | Raise and Shine (RAISE-4)",
@@ -722,7 +681,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 16,
-    "total_launches": 16
+    "empty_summaries": 15,
+    "total_launches": 15
   }
 }
