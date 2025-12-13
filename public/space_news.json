@@ -1,5 +1,72 @@
 [
   {
+    "id": 34728,
+    "title": "SpaceX executive confirms interest in an IPO",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-executive-confirms-interest-in-an-ipo/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/flight11preview.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX’s chief financial officer has confirmed the company is considering an initial public offering as soon as next year to raise money for projects such as orbital data centers.\nThe post SpaceX executive confirms interest in an IPO appeared first on SpaceNews.",
+    "published_at": "2025-12-13T14:51:35Z",
+    "updated_at": "2025-12-13T15:00:33.732210Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34727,
+    "title": "Live coverage: SpaceX aims for 550th booster landing amid Saturday night flight",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/12/13/live-coverage-spacex-aims-for-550th-booster-landing-amid-saturday-night-flight/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251007_Falcon-9_sunset.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 15-12 mission will add another 27 broadband internet satellites to SpaceX’s megaconstellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is set for Dec. 13, during a window that opens at 9:20 p.m. PST (12:20 a.m. EST / 0520 UTC on Sunday, Dec. 14). ",
+    "published_at": "2025-12-13T14:14:13Z",
+    "updated_at": "2025-12-13T14:20:40.624749Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34726,
+    "title": "Blue Origin halfway through 4-flight certification to allow launch of national security missions",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/12/13/blue-origin-halfway-through-4-flight-certification-to-allow-launch-of-national-security-missions/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/11/2025111-New-Glenn-Adam.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The launch company owned by billionaire Jeff Bezos launched two successful missions in 2025, including landing its first booster on its landing barge. ",
+    "published_at": "2025-12-13T13:23:11Z",
+    "updated_at": "2025-12-13T13:31:58.033390Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34725,
     "title": "SpaceX Roberts Road a focal point for East Coast Starship preparations",
     "authors": [
@@ -368,20 +435,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34706,
-    "title": "Antares lines up $96 million to advance microreactor rollout",
+    "id": 34702,
+    "title": "NASA refines aircraft icing safety modeling with GlennICE software",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.nuclearpowerdaily.com/reports/Antares_lines_up_96_million_to_advance_microreactor_rollout_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/antares-nuclear-microreactor-team-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/NASA_refines_aircraft_icing_safety_modeling_with_GlennICE_software_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/nasa-glenn-icing-computational-environment-glennice-wind-tunnnel-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 12, 2025\n\n\nAntares has raised $96 million in Series B financing to support development and deployment of its compact nuclear microreactors for defense and space customers. The round, led by Shine Capital with participation from Alt Capital, Caffeinated, FiftyThree Stations, Industrious and other investors, includes $71 million in new equity and $25 million in debt earmarked for equipment purchases, factory",
+    "summary": "Los Angeles CA (SPX) Dec 12, 2025\n\nResearchers at NASAs Glenn Research Center in Cleveland used the Glenn Icing Computational Environment (GlennICE) software to create three dimensional computational models of an advanced air mobility rotor to study propeller icing issues. The physical rotor model was installed and tested in the Icing Research Tunnel in 2023 as part of an icing evaluation study that also sought to validate the Gl",
     "published_at": "2025-12-12T11:24:45Z",
-    "updated_at": "2025-12-12T10:20:11.513435Z",
+    "updated_at": "2025-12-12T10:20:11.463023Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -408,26 +475,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34705,
-    "title": "Secure ESA contract advances GomSpace satellite cybersecurity",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Secure_ESA_contract_advances_GomSpace_satellite_cybersecurity_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gomspace-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 12, 2025\n\n\nGomSpace has signed a 1.2 million euro (13.2 MSEK) contract with the European Space Agency (ESA) to develop a security-enhanced generation of its NanoCom product line under the SECUSAT program. The agreement supports the evolution of secure satellite communications capabilities for both institutional and commercial users. \n\nSECUSAT will upgrade GomSpace communication and onboard computer pro",
-    "published_at": "2025-12-12T11:24:45Z",
-    "updated_at": "2025-12-12T10:20:11.503520Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34704,
     "title": "Quantum hardware roadmap highlights scaling hurdles on path to everyday applications",
     "authors": [
@@ -448,40 +495,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34707,
-    "title": "IHI SAT2 hyperspectral CubeSat enters orbit to support forest monitoring and carbon data",
+    "id": 34705,
+    "title": "Secure ESA contract advances GomSpace satellite cybersecurity",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/IHI_SAT2_hyperspectral_CubeSat_enters_orbit_to_support_forest_monitoring_and_carbon_data_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/kongsberg-nanoavionics-hyperspectral-cubesat-hi-sat2-ihi-corp-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Secure_ESA_contract_advances_GomSpace_satellite_cybersecurity_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gomspace-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 12, 2025\n\n\nIHI-SAT2, a hyperspectral 6U CubeSat built by Kongsberg NanoAvionics for Japan's IHI Corporation, has reached orbit and established two-way communications shortly after deployment from a SpaceX Falcon 9 on the Transporter-15 rideshare mission launched from Vandenberg Space Force Base in California on 28 November 2025. The mission is intended as a step toward IHI's planned Earth observation const",
+    "summary": "Berlin, Germany (SPX) Dec 12, 2025\n\n\nGomSpace has signed a 1.2 million euro (13.2 MSEK) contract with the European Space Agency (ESA) to develop a security-enhanced generation of its NanoCom product line under the SECUSAT program. The agreement supports the evolution of secure satellite communications capabilities for both institutional and commercial users. \n\nSECUSAT will upgrade GomSpace communication and onboard computer pro",
     "published_at": "2025-12-12T11:24:45Z",
-    "updated_at": "2025-12-12T10:20:11.538475Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34699,
-    "title": "Robotic welding project to prepare UK for in orbit repairs",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.robodaily.com/reports/Robotic_welding_project_to_prepare_UK_for_in_orbit_repairs_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ukleicester-space-robotic-welding-capability-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Dec 12, 2025\n\n\nResearchers at the University of Leicester are leading work to develop what they describe as the UKs first in space robotic welding capability, supported by new funding from the UK Space Agencys National Space Innovation Programme Call 2 for a project known as ISPARK, the Intelligent SPace Arc welding Robotic Kit. \n\nThe ISPARK programme, valued at 560,000 pounds including 485,000 pounds from",
-    "published_at": "2025-12-12T11:24:45Z",
-    "updated_at": "2025-12-12T10:20:11.386071Z",
+    "updated_at": "2025-12-12T10:20:11.503520Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -508,20 +535,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34702,
-    "title": "NASA refines aircraft icing safety modeling with GlennICE software",
+    "id": 34699,
+    "title": "Robotic welding project to prepare UK for in orbit repairs",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/NASA_refines_aircraft_icing_safety_modeling_with_GlennICE_software_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nasa-glenn-icing-computational-environment-glennice-wind-tunnnel-bg.jpg",
+    "url": "https://www.robodaily.com/reports/Robotic_welding_project_to_prepare_UK_for_in_orbit_repairs_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ukleicester-space-robotic-welding-capability-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 12, 2025\n\nResearchers at NASAs Glenn Research Center in Cleveland used the Glenn Icing Computational Environment (GlennICE) software to create three dimensional computational models of an advanced air mobility rotor to study propeller icing issues. The physical rotor model was installed and tested in the Icing Research Tunnel in 2023 as part of an icing evaluation study that also sought to validate the Gl",
+    "summary": "London, UK (SPX) Dec 12, 2025\n\n\nResearchers at the University of Leicester are leading work to develop what they describe as the UKs first in space robotic welding capability, supported by new funding from the UK Space Agencys National Space Innovation Programme Call 2 for a project known as ISPARK, the Intelligent SPace Arc welding Robotic Kit. \n\nThe ISPARK programme, valued at 560,000 pounds including 485,000 pounds from",
     "published_at": "2025-12-12T11:24:45Z",
-    "updated_at": "2025-12-12T10:20:11.463023Z",
+    "updated_at": "2025-12-12T10:20:11.386071Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -542,6 +569,46 @@
     "summary": "London, UK (SPX) Dec 12, 2025\n\n\nGilat Satellite Networks Ltd. has secured an order of about 10 million dollars for a customized Earth observation direct downlink solution to be delivered over the next 12 months. The contract was awarded to Gilat DataPath and broadens the role of Gilat Defense from satellite communications into Earth observation and geospatial intelligence. \n\nThe system is based on a transportable direct do",
     "published_at": "2025-12-12T11:24:45Z",
     "updated_at": "2025-12-12T10:20:11.479872Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34707,
+    "title": "IHI SAT2 hyperspectral CubeSat enters orbit to support forest monitoring and carbon data",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/IHI_SAT2_hyperspectral_CubeSat_enters_orbit_to_support_forest_monitoring_and_carbon_data_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/kongsberg-nanoavionics-hyperspectral-cubesat-hi-sat2-ihi-corp-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 12, 2025\n\n\nIHI-SAT2, a hyperspectral 6U CubeSat built by Kongsberg NanoAvionics for Japan's IHI Corporation, has reached orbit and established two-way communications shortly after deployment from a SpaceX Falcon 9 on the Transporter-15 rideshare mission launched from Vandenberg Space Force Base in California on 28 November 2025. The mission is intended as a step toward IHI's planned Earth observation const",
+    "published_at": "2025-12-12T11:24:45Z",
+    "updated_at": "2025-12-12T10:20:11.538475Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34706,
+    "title": "Antares lines up $96 million to advance microreactor rollout",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nuclearpowerdaily.com/reports/Antares_lines_up_96_million_to_advance_microreactor_rollout_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/antares-nuclear-microreactor-team-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 12, 2025\n\n\nAntares has raised $96 million in Series B financing to support development and deployment of its compact nuclear microreactors for defense and space customers. The round, led by Shine Capital with participation from Alt Capital, Caffeinated, FiftyThree Stations, Industrious and other investors, includes $71 million in new equity and $25 million in debt earmarked for equipment purchases, factory",
+    "published_at": "2025-12-12T11:24:45Z",
+    "updated_at": "2025-12-12T10:20:11.513435Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -966,66 +1033,6 @@
     "summary": "Researchers using NASA’s James Webb Space Telescope have detected the strongest evidence yet for an atmosphere on a rocky planet outside our solar system, as NASA leads the world in exploring the universe from the Moon to Mars and beyond. Observations of the ultra-hot super-Earth TOI-561 b suggest that the exoplanet is surrounded by a […]",
     "published_at": "2025-12-11T15:00:00Z",
     "updated_at": "2025-12-11T19:10:05.968647Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34678,
-    "title": "Building the future of space defense",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/building-the-future-of-space-defense/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/12112025-space-minds-podcast-voyager-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this episode of Space Minds, host Mike Gruss sits down with Matt Magaña, President of Space, Defense & National Security at Voyager Technologies, to explore one of the most consequential national security space stories of 2025: Golden Dome.\nThe post Building the future of space defense appeared first on SpaceNews.",
-    "published_at": "2025-12-11T14:50:53Z",
-    "updated_at": "2025-12-11T15:00:23.109396Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34677,
-    "title": "The Exploration Company is Developing an In-Orbit Serving Vehicle",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/the-exploration-company-is-developing-an-in-orbit-serving-vehicle/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/12/The-Exploration-Company-is-Developing-an-In-Orbit-Serving-Vehicle.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The Exploration Company is developing a spacecraft designed to dock with and refuel satellites in orbit as part of the European Space Agency’s (ESA) In-Space Proof-of-Concepts (InSPoC) initiative. Founded in 2021, The Exploration Company is primarily developing a modular capsule called Nyx, which will be capable of delivering cargo and, later, crew to and from […]\r\nThe post The Exploration Company is Developing an In-Orbit Serving Vehicle appeared first on European Spaceflight.",
-    "published_at": "2025-12-11T14:46:33Z",
-    "updated_at": "2025-12-11T15:03:16.665066Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34675,
-    "title": "The U.S. race to the moon: Why Plan B cannot wait",
-    "authors": [
-      {
-        "name": "Doug Cooke",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFor years, both the Trump Administration and Congress have clearly stated that returning Americans to the moon before China in the 2028-2030 timeframe is a national priority. It is central to United States leadership in space, to global influence and to the future of human exploration.  Yet across the space community, a sobering recognition has […]\nThe post The U.S. race to the moon: Why Plan B cannot wait appeared first on SpaceNews.",
-    "published_at": "2025-12-11T14:00:00Z",
-    "updated_at": "2025-12-11T14:00:30.305023Z",
     "featured": false,
     "launches": [],
     "events": [],
