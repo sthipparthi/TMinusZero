@@ -1,5 +1,412 @@
 [
   {
+    "id": 34800,
+    "title": "Peekaboo!",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/peekaboo-2/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/iss073e0814504orig.jpg",
+    "news_site": "NASA",
+    "summary": "Clockwise from left, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui and NASA astronauts Jonny Kim, Zena Cardman, and Mike Fincke pose for a playful portrait through a circular opening in a hatch thermal cover aboard the International Space Station on Sept. 18, 2025. The cover provides micrometeoroid and orbital debris protection while maintaining cleanliness […]",
+    "published_at": "2025-12-16T17:27:30Z",
+    "updated_at": "2025-12-16T17:30:16.457729Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34799,
+    "title": "Toxicology and Environmental Chemistry",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/esdmd/hhp/toxicology-and-environmental-chemistry/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/541736main-hhp-toxicology1-3000x2250-1.jpeg",
+    "news_site": "NASA",
+    "summary": "Ensuring Astronaut Safety Achieving safe exploration of space in vehicles that rely upon closed environmental systems to recycle air and water to sustain life and are operated in extremely remote locations is a major challenge. The Toxicology and Environmental Chemistry (TEC) group at Johnson Space Center (JSC) is made up of 2 interrelated groups: Toxicology […]",
+    "published_at": "2025-12-16T16:28:12Z",
+    "updated_at": "2025-12-16T16:30:07.113405Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34798,
+    "title": "Statistics and Data Science",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/esdmd/hhp/biostatistics-and-data-science/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/biostatistics-photo-wordcloud-full-e1683213839949.jpeg",
+    "news_site": "NASA",
+    "summary": "Enabling Successful Research A major aim of biomedical research at NASA is to acquire data to evaluate, understand, and assess the biomedical hazards of spaceflight and to develop effective countermeasures. Data Science (S&DS) personnel provide statistical support to groups within the NASA JSC Human Health and Performance Directorate and other NASA communities. They have expertise […]",
+    "published_at": "2025-12-16T16:14:41Z",
+    "updated_at": "2025-12-16T16:20:29.016128Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34795,
+    "title": "One of NASA’s Key Cameras Orbiting Mars Takes 100,000th Image",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/mars-reconnaissance-orbiter/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/1-pia26691-mros-hirise-takes-its-100000th-image-of-the-martian-surface-figure-b.jpg",
+    "news_site": "NASA",
+    "summary": "Mesas and dunes stand out in the view snapped by HiRISE, one of the imagers aboard the agency’s Mars Reconnaissance Orbiter. After nearly 20 years at the Red Planet, NASA’s Mars Reconnaissance Orbiter (MRO) has snapped its 100,000th image of the surface with its HiRISE camera. Short for High Resolution Imaging Science Experiment, HiRISE is […]",
+    "published_at": "2025-12-16T16:00:00Z",
+    "updated_at": "2025-12-16T16:00:10.787498Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34796,
+    "title": "Maintaining the Gold Standard: The Future of Landsat Calibration and Validation",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/landsat/maintaining-the-gold-standard-the-future-of-landsat-calibration-and-validation/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/data-pages/Railroad-Valley-Nevada.png",
+    "news_site": "NASA",
+    "summary": "The NASA CalVal team spent 2025 improving their calibration techniques, strengthening collaboration, and sharing their work with the remote sensing community. Looking ahead, they’re applying lessons learned to prepare for future Landsat missions.",
+    "published_at": "2025-12-16T15:59:54Z",
+    "updated_at": "2025-12-16T16:10:23.162330Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34794,
+    "title": "Microbiology",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/esdmd/hhp/microbiology/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/541641main-hhp-microbiology2-3000x2250-1.jpeg",
+    "news_site": "NASA",
+    "summary": "Microorganisms and Spaceflight Spaceflight poses a risk of adverse health effects due to the interactions between microorganisms, their hosts, and their environment. The JSC Microbiology team addresses the benefits and risks related to microorganisms, including infectious disease, allergens, environmental and food contamination, and the impacts of changes in environmental and human microbial ecology aboard spacecraft. […]",
+    "published_at": "2025-12-16T15:48:01Z",
+    "updated_at": "2025-12-16T15:50:18.841895Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34792,
+    "title": "Immunology and Virology",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/esdmd/hhp/immunology-and-virology/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/hhp-immunology-jsc2011e195872-web.jpeg",
+    "news_site": "NASA",
+    "summary": "Does Spaceflight Alter the Human Immune System? Getting sick on Earth is nothing to sneeze at, but for astronauts on deep space exploration missions, the risk for contracting diseases may be elevated due to altered immunity. The Human Health and Performance Directorate’s Immunology/Virology Laboratory is ideally suited to study the effects of spaceflight on the […]",
+    "published_at": "2025-12-16T15:36:27Z",
+    "updated_at": "2025-12-16T15:40:05.948096Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34793,
+    "title": "Exposure Guidelines (SMACs and SWEGs)",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/esdmd/hhp/exposure-guidelines-smacs-and-swegs/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/iss040e026221.jpg",
+    "news_site": "NASA",
+    "summary": "The JSC toxicologists establish guidelines for safe and acceptable levels of individual chemical contaminants in spacecraft air (SMACs) and drinking water (SWEGs) in collaboration with the National Research Council’s Committee on Toxicology (NRC COT) and through peer-reviewed publication.  The framework for establishing these levels is documented for SMACs and SWEGs, and recent refinements to the Methods reflect current risk assessment […]",
+    "published_at": "2025-12-16T15:35:20Z",
+    "updated_at": "2025-12-16T15:40:06.003766Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34797,
+    "title": "What’s Next for HLS",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/landsat/whats-next-for-hls/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2025/03/canada_opera_2023.jpg",
+    "news_site": "NASA",
+    "summary": "In 2025, the Harmonized Landsat and Sentinel-2 (HLS) program established itself as a cornerstone for global medium-resolution optical Earth observation and became one of NASA’s most downloaded products.",
+    "published_at": "2025-12-16T15:33:59Z",
+    "updated_at": "2025-12-16T16:10:23.189790Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34791,
+    "title": "How the Space Force trains Guardians for the future of warfare",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/how-the-space-force-trains-guardians-for-the-future-of-warfare/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/space-minds-space-power-hague-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIn this episode of Space Minds, host Sandra Erwin sits down with former NASA astronaut and Space Force leader Brig. Gen. Nick Hague for a wide-ranging conversation on how the U.S. Space Force is shaping its culture, training Guardians, and preparing for future conflict in space.\nThe post How the Space Force trains Guardians for the future of warfare appeared first on SpaceNews.",
+    "published_at": "2025-12-16T15:01:14Z",
+    "updated_at": "2025-12-16T15:10:22.409494Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34788,
+    "title": "NASA’s Webb Observes Exoplanet Whose Composition Defies Explanation",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/12/STScI-01KCA5QVVEN9JXBF8Y9996CMGP.jpg",
+    "news_site": "NASA",
+    "summary": "Scientists using NASA’s James Webb Space Telescope have observed a rare type of exoplanet, or planet outside our solar system, whose atmospheric composition challenges our understanding of how it formed.  Officially named PSR J2322-2650b, this Jupiter-mass object appears to have an exotic helium-and-carbon-dominated atmosphere unlike any ever seen before. Soot clouds likely float through the […]",
+    "published_at": "2025-12-16T15:00:00Z",
+    "updated_at": "2025-12-16T15:10:05.917621Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34787,
+    "title": "NASA ORBIT Challenge 2026",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2026/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/nasa-orbit-challenge-2026.png",
+    "news_site": "NASA",
+    "summary": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge is a multi-phase, student-focused challenge designed to inspire and empower the next generation of innovators, engineers, entrepreneurs, and researchers. Compete for cash prizes, receive mentorship from NASA experts, and present your work at an in-person showcase. Finalists gain access to an […]",
+    "published_at": "2025-12-16T14:51:46Z",
+    "updated_at": "2025-12-16T15:00:11.331356Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34790,
+    "title": "NASA’s IMAP Mission Captures ‘First Light,’ Looks Back at Earth",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-imap-mission-captures-first-light-looks-back-at-earth/",
+    "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/imap/IMAP-First-Light.gif",
+    "news_site": "NASA",
+    "summary": "All 10 instruments aboard NASA’s newly launched IMAP (Interstellar Mapping and Acceleration Probe) mission have successfully recorded their first measurements in space. With these “first light” observations, the spacecraft is now collecting preliminary science data as it journeys to its observational post at Lagrange point 1 (L1), about 1 million miles from Earth toward the […]",
+    "published_at": "2025-12-16T14:30:00Z",
+    "updated_at": "2025-12-16T15:10:05.979885Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34789,
+    "title": "NASA’s Carruthers Geocorona Observatory Reveals ‘First Light’ Images",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-carruthers-geocorona-observatory-reveals-first-light-images/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/carruthers-geocorona-observatory/Field%20Imagers%20w%20Text%20-%20cropped.png",
+    "news_site": "NASA",
+    "summary": "NASA’s Carruthers Geocorona Observatory has captured its first images from space, revealing rare views of Earth and the Moon in ultraviolet light. Taken on Nov. 17 — still months before the mission’s science phase begins — these “first light” images confirm the spacecraft is healthy while hinting at the incredible views to come. The initial […]",
+    "published_at": "2025-12-16T14:30:00Z",
+    "updated_at": "2025-12-16T15:10:05.951453Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34785,
+    "title": "Trump’s national security strategy ignores space",
+    "authors": [
+      {
+        "name": "Mary Guenther",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/trumps-national-security-strategy-ignores-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/trump-isaacman.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Trump administration’s new national security strategy has rightly drawn criticism for presuming to tell our European allies how to arrange their domestic affairs. Equally as baffling is its near silence on a genuine United States national security concern — bolstering our offensive and defensive capabilities in space. Amid much MAGA trollery that blames Europe […]\nThe post Trump’s national security strategy ignores space appeared first on SpaceNews.",
+    "published_at": "2025-12-16T14:00:00Z",
+    "updated_at": "2025-12-16T14:00:25.925998Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34784,
+    "title": "NASA, Partners Share First Data From New US-European Sea Satellite",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/nasa-partners-share-first-data-from-new-us-european-sea-satellite/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/1-pia26618-s6b-first-image-level2-c.png",
+    "news_site": "NASA",
+    "summary": "Launched in November, Sentinel-6B will track ocean height with ultraprecision to advance marine forecasting, national security, and more. Sentinel-6B, a joint mission by NASA and its U.S. and European partners to survey 90% of the world’s oceans for the benefit of communities and commerce, has started sending back its first measurements since launching in November. […]",
+    "published_at": "2025-12-16T14:00:00Z",
+    "updated_at": "2025-12-16T14:00:06.842893Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34786,
+    "title": "First image from Sentinel-6B extends sea-level legacy",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/First_image_from_Sentinel-6B_extends_sea-level_legacy",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/sea-level_rise_in_the_gulf_stream_by_sentinel-6b/27038055-3-eng-GB/Sea-level_rise_in_the_Gulf_Stream_by_Sentinel-6B_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Copernicus Sentinel-6B, launched last month, has reached its orbit and delivered its first set of data, which show variations in sea level in the North Atlantic Ocean. This data underlines how the mission will continue to strengthen the long-term reference record of sea levels, a key parameter of climate change.",
+    "published_at": "2025-12-16T14:00:00Z",
+    "updated_at": "2025-12-16T14:40:25.741337Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34783,
+    "title": "Vantor partners with Niantic Spatial on GPS-free navigation for defense market",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/vantor-partners-with-niantic-spatial-on-gps-free-navigation-for-defense-market/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-5.01.48-PM-scaled.png?fit=1024%2C491&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFirms aim to link air and ground platforms using visual positioning technology\nThe post Vantor partners with Niantic Spatial on GPS-free navigation for defense market appeared first on SpaceNews.",
+    "published_at": "2025-12-16T13:30:00Z",
+    "updated_at": "2025-12-16T13:30:24.426007Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34782,
+    "title": "EraDrive raises $5.3 million for software-hardware kits to enhance satellite autonomy",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/eradrive-raises-5-3-million-for-software-hardware-kits-to-enhance-satellite-autonomy/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/rsz_2eradrive.png?fit=879%2C622&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – EraDrive, a Stanford University spinoff developing software and hardware for satellite autonomy, raised $5.3 million in an oversubscribed seed round, the startup announced Dec. 16. “EraDrive is very much about this idea of the self-driving spacecraft,” Justin Kruger, EraDrive chief technology officer and co-founder, told SpaceNews. EraDrive is developing a software-hardware module […]\nThe post EraDrive raises $5.3 million for software-hardware kits to enhance satellite autonomy appeared first on SpaceNews.",
+    "published_at": "2025-12-16T13:00:00Z",
+    "updated_at": "2025-12-16T13:02:14.638100Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34781,
+    "title": "SpaceX claims close approach to Starlink satellite by payload from Chinese launch",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-claims-close-approach-to-starlink-satellite-by-payload-from-chinese-launch/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/kinetica-dec2025.jpeg?fit=908%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA reported close approach between a Starlink satellite and a recently launched Chinese spacecraft highlights the challenges of coordinating spacecraft operations and verifying potential close calls in orbit.\nThe post SpaceX claims close approach to Starlink satellite by payload from Chinese launch appeared first on SpaceNews.",
+    "published_at": "2025-12-16T12:06:59Z",
+    "updated_at": "2025-12-16T12:10:18.366087Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34780,
     "title": "China launches experimental cargo spacecraft, opaque tech demo mission and remote sensing satellite",
     "authors": [
@@ -14,106 +421,6 @@
     "summary": "\nChina conducted a pair of launches in recent days, sending a commercial cargo spacecraft and tech demo into orbit, followed by a remote sensing satellite.\nThe post China launches experimental cargo spacecraft, opaque tech demo mission and remote sensing satellite appeared first on SpaceNews.",
     "published_at": "2025-12-16T11:17:01Z",
     "updated_at": "2025-12-16T11:20:19.366753Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34772,
-    "title": "GoMars model simulates Martian dust storms to improve mission safety",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/GoMars_model_simulates_Martian_dust_storms_to_improve_mission_safety_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/perseverance-mars-2020-jezero-crater-dust-devils-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 16, 2025\n\n\nResearchers in China have used a Mars general circulation model to simulate 50 years of Martian dust activity, aiming to improve forecasts of global dust storms that can disrupt exploration missions. \n\nMars is dominated by a dry, dusty desert landscape where winds and rotating columns of air lift fine particles into the atmosphere and later return them to the surface. The resulting dust cycl",
-    "published_at": "2025-12-16T11:04:07Z",
-    "updated_at": "2025-12-16T10:02:09.993074Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34773,
-    "title": "Gemini North tracks changing glow of interstellar Comet 3IATLAS",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Gemini_North_tracks_changing_glow_of_interstellar_Comet_3IATLAS_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/interstellar-comet-3i-atlas-gemini-telescope-noirlab-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tucson AZ (SPX) Dec 16, 2025\n\n\nGemini North has obtained new color images of Comet 3I/ATLAS after the interstellar object emerged from behind the Sun on its outbound trajectory from the Solar System. Using the Gemini Multi-Object Spectrograph (GMOS) on the Gemini North telescope at Maunakea in Hawaii, scientists observed the comet on 26 November 2025 to study how it has evolved since perihelion. \n\nThe observations were co",
-    "published_at": "2025-12-16T11:04:07Z",
-    "updated_at": "2025-12-16T10:02:10.028365Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34776,
-    "title": "Musk signals plan to launch IPO for SpaceX",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Musk_signals_plan_to_launch_IPO_for_SpaceX_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-falcon-heavy-europa-clipper-pad-fab-candj-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (AFP) Dec 11, 2025\n\n\n Elon Musk has signaled plans to soon seek a public stock listing of SpaceX, confirming a report that links the strategic shift to a near-term need for more capital. \n\nMusk, who is also the CEO of Tesla among other ventures, described as \"accurate\" a report in online publication Ars Technica outlining the controversial billionaire's embrace of a public listing as a way to access capital to fina",
-    "published_at": "2025-12-16T11:04:07Z",
-    "updated_at": "2025-12-16T10:02:10.079134Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34771,
-    "title": "Can scientists detect life without knowing what it looks like",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Can_scientists_detect_life_without_knowing_what_it_looks_like_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/chiral-molecule-not-superposable-with-another-mirror-image-rotate-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Atlanta GA (SPX) Dec 16, 2025\n\nWhen NASA scientists opened the sample return canister from the OSIRIS-REx asteroid sample mission in late 2023, they found something astonishing. Dust and rock collected from the asteroid Bennu contained many of life's building blocks, including all five nucleobases used in DNA and RNA, 14 of the 20 amino acids found in proteins, and a rich collection of other organic molecules",
-    "published_at": "2025-12-16T11:04:07Z",
-    "updated_at": "2025-12-16T10:02:09.969785Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34777,
-    "title": "Autonomous DARPA project to expand satellite surveillance network by BAE Systems",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Autonomous_DARPA_project_to_expand_satellite_surveillance_network_by_BAE_Systems_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/bae-systems-fast-labs-orbit-grid-milspace-comms-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 11, 2025\n\n\nThe U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' FAST Labs research, development, and production organization a $16 million Phase 2 contract under the Oversight program, which is developing an autonomous space-based system to maintain continuous custody of many terrestrial assets using new satellite constellations. \n\nThe Phase 2 award follows completion of",
-    "published_at": "2025-12-16T11:04:07Z",
-    "updated_at": "2025-12-16T10:02:10.089729Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -159,6 +466,106 @@
     "summary": "Sydney, Australia (SPX) Dec 16, 2025\n\n\nSouthern Launch has signed a contract with South Korean launch service provider INNOSPACE to conduct space missions from the Whalers Way Orbital Launch Complex and the Koonibba Test Range in South Australia. \n\nThe agreement allows INNOSPACE to undertake a range of missions from Southern Launch sites, including orbital satellite launches and suborbital technology demonstration flights.",
     "published_at": "2025-12-16T11:04:07Z",
     "updated_at": "2025-12-16T10:02:10.040401Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34772,
+    "title": "GoMars model simulates Martian dust storms to improve mission safety",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.marsdaily.com/reports/GoMars_model_simulates_Martian_dust_storms_to_improve_mission_safety_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/perseverance-mars-2020-jezero-crater-dust-devils-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 16, 2025\n\n\nResearchers in China have used a Mars general circulation model to simulate 50 years of Martian dust activity, aiming to improve forecasts of global dust storms that can disrupt exploration missions. \n\nMars is dominated by a dry, dusty desert landscape where winds and rotating columns of air lift fine particles into the atmosphere and later return them to the surface. The resulting dust cycl",
+    "published_at": "2025-12-16T11:04:07Z",
+    "updated_at": "2025-12-16T10:02:09.993074Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34777,
+    "title": "Autonomous DARPA project to expand satellite surveillance network by BAE Systems",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Autonomous_DARPA_project_to_expand_satellite_surveillance_network_by_BAE_Systems_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/bae-systems-fast-labs-orbit-grid-milspace-comms-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 11, 2025\n\n\nThe U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' FAST Labs research, development, and production organization a $16 million Phase 2 contract under the Oversight program, which is developing an autonomous space-based system to maintain continuous custody of many terrestrial assets using new satellite constellations. \n\nThe Phase 2 award follows completion of",
+    "published_at": "2025-12-16T11:04:07Z",
+    "updated_at": "2025-12-16T10:02:10.089729Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34771,
+    "title": "Can scientists detect life without knowing what it looks like",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Can_scientists_detect_life_without_knowing_what_it_looks_like_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/chiral-molecule-not-superposable-with-another-mirror-image-rotate-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Atlanta GA (SPX) Dec 16, 2025\n\nWhen NASA scientists opened the sample return canister from the OSIRIS-REx asteroid sample mission in late 2023, they found something astonishing. Dust and rock collected from the asteroid Bennu contained many of life's building blocks, including all five nucleobases used in DNA and RNA, 14 of the 20 amino acids found in proteins, and a rich collection of other organic molecules",
+    "published_at": "2025-12-16T11:04:07Z",
+    "updated_at": "2025-12-16T10:02:09.969785Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34776,
+    "title": "Musk signals plan to launch IPO for SpaceX",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Musk_signals_plan_to_launch_IPO_for_SpaceX_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/spacex-falcon-heavy-europa-clipper-pad-fab-candj-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "New York (AFP) Dec 11, 2025\n\n\n Elon Musk has signaled plans to soon seek a public stock listing of SpaceX, confirming a report that links the strategic shift to a near-term need for more capital. \n\nMusk, who is also the CEO of Tesla among other ventures, described as \"accurate\" a report in online publication Ars Technica outlining the controversial billionaire's embrace of a public listing as a way to access capital to fina",
+    "published_at": "2025-12-16T11:04:07Z",
+    "updated_at": "2025-12-16T10:02:10.079134Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34773,
+    "title": "Gemini North tracks changing glow of interstellar Comet 3IATLAS",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Gemini_North_tracks_changing_glow_of_interstellar_Comet_3IATLAS_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/interstellar-comet-3i-atlas-gemini-telescope-noirlab-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tucson AZ (SPX) Dec 16, 2025\n\n\nGemini North has obtained new color images of Comet 3I/ATLAS after the interstellar object emerged from behind the Sun on its outbound trajectory from the Solar System. Using the Gemini Multi-Object Spectrograph (GMOS) on the Gemini North telescope at Maunakea in Hawaii, scientists observed the comet on 26 November 2025 to study how it has evolved since perihelion. \n\nThe observations were co",
+    "published_at": "2025-12-16T11:04:07Z",
+    "updated_at": "2025-12-16T10:02:10.028365Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -610,413 +1017,6 @@
     "summary": "\nSAN FRANCISCO – University of California spinoff MetaSeismic wasn’t focused on space applications when it began using an artificial intelligence platform to create materials to mitigate vibration and shock. But […]\nThe post MetaSeismic material mitigates vibration and shock in NASA Marshall testing appeared first on SpaceNews.",
     "published_at": "2025-12-15T13:00:00Z",
     "updated_at": "2025-12-15T13:02:24.558982Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34750,
-    "title": "Indian dance mudras yield advanced synergies for robotic hand control",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.robodaily.com/reports/Indian_dance_mudras_yield_advanced_synergies_for_robotic_hand_control_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/human-hand-and-robot-hand-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 12, 2025\n\n\nResearchers at the University of Maryland, Baltimore County extracted building blocks from precise hand gestures in Bharatanatyam, a classical Indian dance form. Their analysis revealed a richer set of movement patterns than those in natural grasps. The team published findings online Nov. 24 in Scientific Reports. \n\nRamana Vinjamuri leads the UMBC lab that studies brain control of complex ha",
-    "published_at": "2025-12-15T12:01:07Z",
-    "updated_at": "2025-12-15T10:50:24.259186Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34749,
-    "title": "Unexpected Trajectory: Erin Sholl’s Path to Human Spaceflight Safety",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/unexpected-trajectory-erin-sholls-path-to-human-spaceflight-safety/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/jsc-directors-commendation-award-2017.jpg",
-    "news_site": "NASA",
-    "summary": "Career paths are rarely a straight line and often include some unexpected curves. That is certainly true for Erin Sholl, deputy chief of the Space Transportation Systems Division within the Safety and Mission Assurance Directorate at NASA’s Johnson Space Center in Houston. From struggling with multiplication tables in elementary school to supporting the International Space […]",
-    "published_at": "2025-12-15T10:00:00Z",
-    "updated_at": "2025-12-15T10:00:09.191428Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34751,
-    "title": "Satellites help tackle landfill methane leaks",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Satellites_help_tackle_landfill_methane_leaks",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/methane_from_landfill_site/27032580-3-eng-GB/Methane_from_landfill_site_card_full.png",
-    "news_site": "ESA",
-    "summary": "Satellites are emerging as a powerful new tool in the fight to curb emissions of methane. While methane is much shorter-lived in the atmosphere than carbon dioxide, it is vastly more potent at trapping heat, which makes rapid cuts essential for slowing warming in the short term. The same satellite technology that has transformed methane monitoring in the oil and gas sector is now being turned towards another major source – landfill sites.",
-    "published_at": "2025-12-15T09:00:00Z",
-    "updated_at": "2025-12-15T10:50:27.860316Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34748,
-    "title": "Kongsberg and Helsing to Develop Large Defence Satellite Constellation",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/kongsberg-and-helsing-to-develop-large-defence-satellite-constellation/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/12/Kongsberg-and-Helsing-to-Develop-Large-Defence-Satellite-Constellation.webp",
-    "news_site": "European Spaceflight",
-    "summary": "European defence technology companies Helsing and Kongsberg Defence & Aerospace have announced a new German-Norwegian partnership to build a large constellation of small satellites for space-based intelligence, surveillance, and targeting applications. The partnership comes as European leaders push for a greater focus on sovereign space capabilities, with European Commissioner for Defence Industry and Space Andrius […]\nThe post Kongsberg and Helsing to Develop Large Defence Satellite Constellation appeared first on European Spaceflight.",
-    "published_at": "2025-12-15T06:07:59Z",
-    "updated_at": "2025-12-15T06:10:12.024203Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34754,
-    "title": "New Timing for Stubble Burning in India",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/new-timing-for-stubble-burning-in-india/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/new-timing-for-stubble-burning-in-india/indiastubbleburning_amo_20251111.jpg",
-    "news_site": "NASA",
-    "summary": "Scientists say the seasonal crop fires are burning later in the day than in previous years.",
-    "published_at": "2025-12-15T05:01:00Z",
-    "updated_at": "2025-12-15T14:10:33.157057Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34747,
-    "title": "Roman telescope construction complete, moving into final testing ahead of 2027 launch",
-    "authors": [
-      {
-        "name": "Haygen Warren",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/12/roman-construction-complete/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/12/54964048526_f58a55299c_k.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "At the end of November, NASA’s next great telescope — the Nancy Grace Roman Space…\nThe post Roman telescope construction complete, moving into final testing ahead of 2027 launch appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-12-14T23:19:24Z",
-    "updated_at": "2025-12-14T23:20:11.186437Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34746,
-    "title": "What’s Happening in Space Policy December 14-31, 2025",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-14-31-2025/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/12/Isaacman-2nd-hrg-NASA-Dec-3-25-300x259.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the rest of 2025, December 14-31, and any insight we can offer about them. The House and Senate are in session […]",
-    "published_at": "2025-12-14T22:59:48Z",
-    "updated_at": "2025-12-14T23:02:10.618206Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34745,
-    "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20250827_Starlink_10_11_30.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 6-99 mission will be SpaceX’s 125th orbital launch from Launch Complex 39A to date. Liftoff from NASA’s Kennedy Space Center is scheduled during a launch window that opens at 8:11 a.m. EST (1311 UTC) on Dec. 15. ",
-    "published_at": "2025-12-14T18:21:00Z",
-    "updated_at": "2025-12-14T18:30:21.629903Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34744,
-    "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 6-82 represents SpaceX’s 580th launch of a Falcon 9 rocket to date. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 9:47 p.m. EST (0247 UTC). ",
-    "published_at": "2025-12-14T16:53:31Z",
-    "updated_at": "2025-12-14T17:00:28.516310Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34743,
-    "title": "Rocket Lab launches JAXA tech demo satellite",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/rocket-lab-launches-jaxa-tech-demo-satellite/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/54982970269_2df5b75817_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA Rocket Lab Electron rocket successfully launched a technology demonstration satellite for JAXA Dec. 13 as the company reshuffles its launch manifest.\nThe post Rocket Lab launches JAXA tech demo satellite appeared first on SpaceNews.",
-    "published_at": "2025-12-14T13:34:01Z",
-    "updated_at": "2025-12-14T13:40:20.665722Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34742,
-    "title": "Bible 1.0: How Ancient Canon Became Our First Large Language Models",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Bible_v1_How_Ancient_Canon_Became_Our_First_Large_Language_Models_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/monk-monastery-inscription-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Dec 14, 2025\n\nModern large language models are treated as something radically new: vast statistical machines trained on almost everything humans have written, and able to regenerate knowledge on demand. Yet in structural terms, humanity has worked with something similar for millennia.",
-    "published_at": "2025-12-14T13:13:22Z",
-    "updated_at": "2025-12-14T12:10:12.105495Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34731,
-    "title": "Mission Space to fly second space weather payload with Rogue Space",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Mission_Space_to_fly_second_space_weather_payload_with_Rogue_Space_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/saic-rogue-space-systems-fred-laura-orbots-inspecting-defunct-satellite-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Orlando, FL (SPX) Dec 14, 2025\n\n\nMission Space will launch its second payload in orbit in partnership with Rogue Space, extending its commercial space weather measurement network. The companies announced the mission during the Spacepower Conference in Orlando. \n\nThe first Mission Space payload, ZOHAR-I, launched in March 2025 and recently received the 2025 Global Tech Award for advances in high-cadence radiation monitoring",
-    "published_at": "2025-12-14T03:47:52Z",
-    "updated_at": "2025-12-14T02:40:21.898994Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34737,
-    "title": "New MAGE model links solar storms to geospace response",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/New_MAGE_model_links_solar_storms_to_geospace_response_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/japan-jaxa-exploration-of-energization-and-radiation-in-geospace-erg-satellite-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 14, 2025\n\n\nNASA's Center for Geospace Storms, or CGS, has released the Multiscale Atmosphere-Geospace Environment model, or MAGE, a supercomputer-based system that uses NASA mission data to show how different regions of geospace react to solar disturbances. \n\nThe MAGE model links several existing predictive tools for Earth's magnetosphere, ring current, and upper atmosphere into a single framework, giv",
-    "published_at": "2025-12-14T03:47:52Z",
-    "updated_at": "2025-12-14T02:40:21.988024Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34740,
-    "title": "Ultra hot super Earth shows dense atmosphere over magma ocean",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Ultra_hot_super_Earth_shows_dense_atmosphere_over_magma_ocean_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/dlr-extarsolar-exoplanet-gj-367-super-hot-fast-year-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 14, 2025\n\n\nA Carnegie-led team using NASAs James Webb Space Telescope has obtained the strongest evidence so far for an atmosphere around a rocky exoplanet, detecting a substantial gaseous envelope around the ultra-hot super-Earth TOI-561 b. The observations, reported in The Astrophysical Journal Letters, indicate that this ancient world is shrouded by a thick atmosphere above a global magma ocean. \n\nT",
-    "published_at": "2025-12-14T03:47:52Z",
-    "updated_at": "2025-12-14T02:40:22.031066Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34732,
-    "title": "NASA's Parker Solar Probe Spies Solar Wind 'U-Turn'",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASAs_Parker_Solar_Probe_Spies_Solar_Wind_U_Turn_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/parker-solar-probe-artwork-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Greenbelt MD (SPX) Dec 14, 2025\n\n\nImages captured by NASA's Parker Solar Probe as the spacecraft made its record-breaking closest approach to the Sun in December 2024 have now revealed new details about how solar magnetic fields responsible for space weather escape from the Sun - and how sometimes they don't. \n\nLike a toddler, our Sun occasionally has disruptive outbursts. But instead of throwing a fit, the Sun spews magneti",
-    "published_at": "2025-12-14T03:47:52Z",
-    "updated_at": "2025-12-14T02:40:21.913263Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34735,
-    "title": "Ancient Martian brines left bromine rich fingerprints in jarosite minerals",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Ancient_Martian_brines_left_bromine_rich_fingerprints_in_jarosite_minerals_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-crater-edge-dark-streaks-boiling-water-brine-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 14, 2025\n\n\nJarosite, a sulfate mineral widely detected on Mars, records interaction between acidic, oxidizing waters and the planet's surface rocks, but the halogen chemistry of those fluids has been difficult to reconstruct. New experimental work examines how bromine and chlorine enter jarosite under Mars-like conditions, using them as tracers of fluid evolution and environmental conditions. \n\nResearc",
-    "published_at": "2025-12-14T03:47:52Z",
-    "updated_at": "2025-12-14T02:40:21.962447Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34739,
-    "title": "Quasar X ray link to black hole environment found to evolve over cosmic time",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Quasar_X_ray_link_to_black_hole_environment_found_to_evolve_over_cosmic_time_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/epfl-quasar-lensing-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Dec 14, 2025\n\n\nAstronomers using new X ray data have found evidence that the structure of matter around supermassive black holes has changed over billions of years, challenging a quasar relationship that has been treated as a fundamental law for nearly 50 years. \n\nQuasars, identified in the 1960s, rank among the brightest known cosmic sources and are powered by supermassive black holes that draw in surroun",
-    "published_at": "2025-12-14T03:47:52Z",
-    "updated_at": "2025-12-14T02:40:22.018136Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34741,
-    "title": "China launches carrier rocket to deploy experimental cargo ship and satellite",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/China_launches_carrier_rocket_to_deploy_experimental_cargo_ship_and_satellite_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-kuaizhou-11-carrier-rocket-jiuquan-day-launch-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 14, 2025\n\n\nChina launched a Kuaizhou 11 carrier rocket on Saturday morning to deploy a privately developed experimental cargo ship and a satellite into space. \n\nThe rocket blasted off at 9:08 am at the Jiuquan Space Launch Center in the Inner Mongolia autonomous region and soon placed the DEAR 5 ship and the Xiwang 5B satellite into their preset orbital position, according to China Aerospace Science an",
-    "published_at": "2025-12-14T03:47:52Z",
-    "updated_at": "2025-12-14T02:40:22.047280Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34736,
-    "title": "K2 Space raises 250m to scale Mega class high power satellites",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/K2_Space_raises_250m_to_scale_Mega_class_high_power_satellites_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/k2-space-factory-floor-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Torrance, CA (SPX) Dec 14, 2025\n\n\nK2 Space has closed a 250 million dollar Series C funding round that values the company at 3 billion dollars as it prepares to field a new generation of large high power satellites designed for the heavy lift launch era. The round follows 500 million dollars in signed contracts with commercial operators and U.S. government customers and is led by Redpoint, with participation from accounts advise",
-    "published_at": "2025-12-14T03:47:52Z",
-    "updated_at": "2025-12-14T02:40:21.974135Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34730,
-    "title": "Sun boundary map tracks shifting Alfven surface over solar cycle",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Sun_boundary_map_tracks_shifting_Alfven_surface_over_solar_cycle_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sun-atmosphere-speed-outward-solar-wind-faster-magnetic-waves-parker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Cambridge, MA (SPX) Dec 14, 2025\n\n\nAstronomers have assembled the first continuous, two-dimensional maps of the outer edge of the Sun's atmosphere, tracing the boundary where the solar wind escapes the Sun's magnetic control. By combining these global maps with close-up measurements, researchers at the Center for Astrophysicshysics | Harvard and Smithsonian report that this boundary expands and becomes more irregular and spiky as",
-    "published_at": "2025-12-14T03:47:52Z",
-    "updated_at": "2025-12-14T02:40:21.876221Z",
     "featured": false,
     "launches": [],
     "events": [],
