@@ -1,5 +1,112 @@
 [
   {
+    "id": 34767,
+    "title": "Rocket Lab to launch second of three planned Electron rockets this week",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/12/15/rocket-lab-to-launch-second-of-three-planned-electron-rockets-this-week/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20251215_Bridging_the_Swarm_prelaunch-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The ‘Bridging the Swarm’ mission comes two days after the company launched its ‘RAISE and Shine’ flight for JAXA. Liftoff is scheduled for 1:55 p.m. NZDT / 0055 UTC on Dec. 16 (7:45 p.m. EST on Dec. 15). ",
+    "published_at": "2025-12-15T22:14:19Z",
+    "updated_at": "2025-12-15T22:20:19.284724Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34766,
+    "title": "Space Force uses AI challenge to push everyday use of artificial intelligence",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/251211-F-KN215-4125-scaled.jpg?fit=1024%2C690&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSenior leaders emphasize internal expertise and hands-on experimentation \nThe post Space Force uses AI challenge to push everyday use of artificial intelligence appeared first on SpaceNews.",
+    "published_at": "2025-12-15T21:27:29Z",
+    "updated_at": "2025-12-15T21:31:26.389492Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34765,
+    "title": "NextSTEP-3 B: Moon to Mars Architecture Studies",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/general/nextstep-3-b-moon-to-mars-architecture-studies/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/architecture-illustration-doorway-to-mars.png",
+    "news_site": "NASA",
+    "summary": "Notice ID: M2M-MSFC-0001 NAICS Codes: NASA seeks industry-led architecture concept development, concept refinement studies, and risk-reduction activities that address Moon to Mars Architecture gaps through the Next Space Technologies for Exploration Partnerships-3 (NextSTEP-3). NASA plans to release this solicitation — NextSTEP-3 Appendix B: Moon to Mars Architectural Studies — near the beginning of calendar year […]",
+    "published_at": "2025-12-15T19:31:53Z",
+    "updated_at": "2025-12-15T19:40:23.651557Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34764,
+    "title": "Beyond the ground station: Why space data centers require a distributed RAID",
+    "authors": [
+      {
+        "name": "Ravinda Meegama",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/beyond-the-ground-station-why-space-data-centers-require-a-distributed-raid/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/data-center-scaled.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nLow Earth orbit is undergoing the fastest expansion in its history. However, the nature of the payload is changing. We are moving past simple “bent-pipe” communication relays — where a satellite simply receives a signal and beams it back to Earth without processing it. With initiatives like StarCloud deploying and training a large language model […]\nThe post Beyond the ground station: Why space data centers require a distributed RAID appeared first on SpaceNews.",
+    "published_at": "2025-12-15T18:53:55Z",
+    "updated_at": "2025-12-15T19:02:32.506220Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34763,
+    "title": "NASA to test SpaceX’s Starshield in pilot program",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-to-test-spacexs-starshield-in-pilot-program/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/1-canberra-complex-05.webp?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA plans to test SpaceX’s Starshield satellite network, designed primarily for national security customers, to support operations of the agency’s Deep Space Network.\nThe post NASA to test SpaceX’s Starshield in pilot program appeared first on SpaceNews.",
+    "published_at": "2025-12-15T18:43:03Z",
+    "updated_at": "2025-12-15T18:50:21.104536Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34762,
     "title": "Bassac River, Southern Vietnam",
     "authors": [
@@ -579,26 +686,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34738,
-    "title": "Hidden circumbinary giant planet emerges from decade old Gemini data",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hidden_circumbinary_giant_planet_emerges_from_decade_old_Gemini_data_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-hd143811abb-tatooine-like-exoplanet-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 14, 2025\n\n\nAstronomers have directly imaged a giant exoplanet orbiting a pair of stars, in a configuration reminiscent of the fictional Tatooine system but with the closest-known directly imaged planet to its twin suns in a binary system. The planet orbits a spectroscopic binary in the Scorpius-Centaurus association and was found buried in data taken nearly a decade ago with the Gemini Planet Imager (GPI)",
-    "published_at": "2025-12-14T03:47:52Z",
-    "updated_at": "2025-12-14T02:40:21.998582Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34734,
     "title": "Micro X ray method reads ancient meteorite impact scars",
     "authors": [
@@ -613,6 +700,26 @@
     "summary": "Tokyo, Japan (SPX) Dec 14, 2025\n\n\nResearchers from China, Canada, and Japan have established a quantitative method to read the impact histories recorded in enstatite chondrites using micro X ray diffraction measurements. Enstatite chondrites are rare meteorites that formed in highly reducing conditions close to the young Sun and are chemically similar to the material that built Earth, making them key samples for reconstructing e",
     "published_at": "2025-12-14T03:47:52Z",
     "updated_at": "2025-12-14T02:40:21.946423Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34738,
+    "title": "Hidden circumbinary giant planet emerges from decade old Gemini data",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hidden_circumbinary_giant_planet_emerges_from_decade_old_Gemini_data_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-hd143811abb-tatooine-like-exoplanet-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 14, 2025\n\n\nAstronomers have directly imaged a giant exoplanet orbiting a pair of stars, in a configuration reminiscent of the fictional Tatooine system but with the closest-known directly imaged planet to its twin suns in a binary system. The planet orbits a spectroscopic binary in the Scorpius-Centaurus association and was found buried in data taken nearly a decade ago with the Gemini Planet Imager (GPI)",
+    "published_at": "2025-12-14T03:47:52Z",
+    "updated_at": "2025-12-14T02:40:21.998582Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -918,121 +1025,6 @@
     "updated_at": "2025-12-12T17:50:20.056412Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34717,
-    "title": "A Rare Gourd",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/a-rare-gourd/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/31873538413-9a1e05d266-o.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Hubble Space Telescope captured an uncommon sight – the death of a low-mass star – in this image of the Calabash Nebula released on Feb. 3, 2017. Here, we can see the star going through a rapid transformation from a red giant to a planetary nebula, during which it blows its outer layers of […]",
-    "published_at": "2025-12-12T15:18:51Z",
-    "updated_at": "2025-12-12T16:20:08.341179Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34718,
-    "title": "Space Force Association unveils virtual ‘National Spacepower Center’ for education and wargaming",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-force-association-unveils-virtual-national-spacepower-center-for-education-and-wargaming/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Sedaro_20251211_0089-145-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe initiative aims to educate policy makers on space as a warfighting domain\nThe post Space Force Association unveils virtual ‘National Spacepower Center’ for education and wargaming appeared first on SpaceNews.",
-    "published_at": "2025-12-12T15:17:45Z",
-    "updated_at": "2025-12-12T15:20:22.430655Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34716,
-    "title": "NASA Announces Plan to Map Milky Way With Roman Space Telescope",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/roman-space-telescope/nasa-announces-plan-to-map-milky-way-with-roman-space-telescope/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/roman-galacticplanesurvey-final-1.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope team has released detailed plans for a major survey that will reveal our home galaxy, the Milky Way, in unprecedented detail. In one month of observations spread across two years, the survey will unveil tens of billions of stars and explore previously uncharted structures. “The Galactic Plane Survey will […]",
-    "published_at": "2025-12-12T15:00:00Z",
-    "updated_at": "2025-12-12T16:20:02.644650Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "521f3a1c-f977-4306-9b7f-495858719adf",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34715,
-    "title": "Week in images: 08-12 December 2025",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_December_2025",
-    "image_url": "https://www.esa.int/extension/pillars/design/pillars/images/nebula.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 08-12 December 2025",
-    "published_at": "2025-12-12T14:15:00Z",
-    "updated_at": "2025-12-12T14:20:15.372865Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34714,
-    "title": "XMM-Newton sees comet 3I/ATLAS in X-ray light",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/12/XMM-Newton_sees_comet_3I_ATLAS_in_X-ray_light",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/xmm-newton_sees_comet_3i_atlas_in_x-ray_light/27031505-1-eng-GB/XMM-Newton_sees_comet_3I_ATLAS_in_X-ray_light_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-12-12T14:00:00Z",
-    "updated_at": "2025-12-12T16:19:56.235721Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "3a8c0eb9-dc28-44ed-9b2c-f9340c7f9d37",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
