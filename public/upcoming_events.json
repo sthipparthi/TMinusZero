@@ -1,6 +1,6 @@
 {
-  "count": 11,
-  "last_updated": "2025-12-16T18:01:47.605052Z",
+  "count": 12,
+  "last_updated": "2025-12-17T00:04:12.058661Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (11 failed/unavailable)"
+    "Empty AI summaries (12 failed/unavailable)"
   ],
   "launches": [
     {
@@ -415,6 +415,55 @@
       "ai_summary": ""
     },
     {
+      "id": "63ddb2d1-8369-4681-8a50-e95819150382",
+      "name": "Falcon 9 Block 5 | CSG-3",
+      "status": "Go",
+      "net": "2025-12-28T02:09:00Z",
+      "window_start": "2025-12-28T02:09:00Z",
+      "window_end": "2025-12-28T02:09:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "CSG-3",
+      "mission_description": "CSG-3 is an Earth observation satellite for the Italian Space Agency, part of a reconnaissance constellation using synthetic aperture radars operating in the X-band.",
+      "mission_type": "Earth Science",
+      "orbit": "Sun-Synchronous Orbit",
+      "launch_site": "Space Launch Complex 4E, Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 524,
+      "rocket_config_successful_launches": 523,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 100,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 617,
+      "rocket_manufacturer_successful_launches": 602,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/63ddb2d1-8369-4681-8a50-e95819150382/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "COSMO-SkyMed Second Generation Mission",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/G8Uk0syWoAQc-__.jpg",
+          "url": "https://x.com/i/broadcasts/1dRKZaOaYyaxB"
+        }
+      ],
+      "ai_summary": ""
+    },
+    {
       "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
       "name": "H3-22 | Michibiki 7 (QZS-7)",
       "status": "Go",
@@ -501,7 +550,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 11,
-    "total_launches": 11
+    "empty_summaries": 12,
+    "total_launches": 12
   }
 }
