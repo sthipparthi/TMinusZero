@@ -1,5 +1,105 @@
 [
   {
+    "id": 34814,
+    "title": "Galileo L14 liftoff on Ariane 6",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_liftoff_on_Ariane_6",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/12/galileo_l14_liftoff_on_ariane_6/27042285-6-eng-GB/Galileo_L14_liftoff_on_Ariane_6_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "On 17 December, two new Galileo satellites lifted off from Europe’s Spaceport in French Guiana aboard an Ariane 6 rocket. This marked the 14th launch for Europe’s satellite navigation operational satellite programme, reinforcing Europe’s resilience and autonomy.",
+    "published_at": "2025-12-17T05:02:00Z",
+    "updated_at": "2025-12-17T05:50:13.753587Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34812,
+    "title": "A Siberian Snowman in Billings",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-siberian-snowman-in-billings/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/a-siberian-snowman-in-billings/russia_ice_oli_20250616.jpg",
+    "news_site": "NASA",
+    "summary": "Winds, waves, and ice near a remote town on the Chukchi Peninsula have sculpted a series of coastal inshore lagoons that resemble an icon of winter.",
+    "published_at": "2025-12-17T05:01:00Z",
+    "updated_at": "2025-12-17T05:10:14.602686Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34813,
+    "title": "ESA Member States Fund €100M Ariane 6 ASTRIS Kick Stage Evolution",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-member-states-fund-e100m-ariane-6-astris-kick-stage-evolution/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/12/ESA-Member-States-Fund-100M-Euro-Ariane-6-ASTRIS-Kick-Stage-Evolution.webp",
+    "news_site": "European Spaceflight",
+    "summary": "European Spaceflight has learned from the European Space Agency that a contract awarded to ArianeGroup in 2021 for the development of an Ariane 6 kick stage will be adapted to cover its evolution into an orbital transfer vehicle. ESA awarded ArianeGroup’s German subsidiary the €90 million contract in July 2021 to develop the ASTRIS kick […]\nThe post ESA Member States Fund €100M Ariane 6 ASTRIS Kick Stage Evolution appeared first on European Spaceflight.",
+    "published_at": "2025-12-17T05:00:20Z",
+    "updated_at": "2025-12-17T05:31:48.375174Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34811,
+    "title": "Live coverage: SpaceX to fly Starlink mission using Falcon 9 booster flying for a 30th time",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/12/17/live-coverage-spacex-to-fly-starlink-mission-using-falcon-9-booster-flying-for-a-30th-time/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/02/20240214_Starlink_7-14_prelaunch_small-678x452.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Falcon 9 rocket launching the Starlink 15-13 mission will fly on a south-easterly trajectory upon leaving pad 4E at Vandenberg Space Force Base. Liftoff is for 7:22 a.m. PST (10:22 a.m. EST / 1522 UTC). ",
+    "published_at": "2025-12-17T03:01:46Z",
+    "updated_at": "2025-12-17T03:10:27.965613Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34810,
+    "title": "Rocket Lab set to launch Space Force and NASA ‘DiskSat’ experiment",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/rocket-lab-set-to-launch-space-force-and-nasa-disksat-experiment/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-6.46.37-PM.png?fit=1024%2C575&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe STP-S30 mission will test flat, disk-shaped smallsat design for sustained operations in very low orbit\nThe post Rocket Lab set to launch Space Force and NASA ‘DiskSat’ experiment  appeared first on SpaceNews.",
+    "published_at": "2025-12-17T00:15:09Z",
+    "updated_at": "2025-12-17T00:20:18.909108Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34809,
     "title": "Digantara raises $50 million to expand from space surveillance to missile defense",
     "authors": [
@@ -885,120 +985,6 @@
     "summary": "\nSenior leaders emphasize internal expertise and hands-on experimentation \nThe post Space Force uses AI challenge to push everyday use of artificial intelligence appeared first on SpaceNews.",
     "published_at": "2025-12-15T21:27:29Z",
     "updated_at": "2025-12-15T21:31:26.389492Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34765,
-    "title": "NextSTEP-3 B: Moon to Mars Architecture Studies",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/nextstep-3-b-moon-to-mars-architecture-studies/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/architecture-illustration-doorway-to-mars.png",
-    "news_site": "NASA",
-    "summary": "Notice ID: M2M-MSFC-0001 NAICS Codes: NASA seeks industry-led architecture concept development, concept refinement studies, and risk-reduction activities that address Moon to Mars Architecture gaps through the Next Space Technologies for Exploration Partnerships-3 (NextSTEP-3). NASA plans to release this solicitation — NextSTEP-3 Appendix B: Moon to Mars Architectural Studies — near the beginning of calendar year […]",
-    "published_at": "2025-12-15T19:31:53Z",
-    "updated_at": "2025-12-15T19:40:23.651557Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34764,
-    "title": "Beyond the ground station: Why space data centers require a distributed RAID",
-    "authors": [
-      {
-        "name": "Ravinda Meegama",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/beyond-the-ground-station-why-space-data-centers-require-a-distributed-raid/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/data-center-scaled.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLow Earth orbit is undergoing the fastest expansion in its history. However, the nature of the payload is changing. We are moving past simple “bent-pipe” communication relays — where a satellite simply receives a signal and beams it back to Earth without processing it. With initiatives like StarCloud deploying and training a large language model […]\nThe post Beyond the ground station: Why space data centers require a distributed RAID appeared first on SpaceNews.",
-    "published_at": "2025-12-15T18:53:55Z",
-    "updated_at": "2025-12-15T19:02:32.506220Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34763,
-    "title": "NASA to test SpaceX’s Starshield in pilot program",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-to-test-spacexs-starshield-in-pilot-program/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/1-canberra-complex-05.webp?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA plans to test SpaceX’s Starshield satellite network, designed primarily for national security customers, to support operations of the agency’s Deep Space Network.\nThe post NASA to test SpaceX’s Starshield in pilot program appeared first on SpaceNews.",
-    "published_at": "2025-12-15T18:43:03Z",
-    "updated_at": "2025-12-15T18:50:21.104536Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34762,
-    "title": "Bassac River, Southern Vietnam",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/bassac-river-southern-vietnam/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/54949698099-88d64018a7-o.jpg",
-    "news_site": "NASA",
-    "summary": "A camera on the International Space Station captured this Oct. 2, 2025, photo of the Bassac River in Cù Lao Dung, a river islet district in southern Vietnam. The Bassac River surrounds the district before emptying into the South China Sea. The river’s brown waters at its mouth result from massive amounts of silt, clay, […]",
-    "published_at": "2025-12-15T17:30:20Z",
-    "updated_at": "2025-12-15T17:40:05.357596Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34760,
-    "title": "GomSpace to provide RF subsystem for Apolink LEO relay demonstrator",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/gomspace-to-provide-rf-subsystem-for-apolink-leo-relay-demonstrator/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/Caption_-Illustration-of-TDRS-13-the-final-satellite-in-the-TDRS-constellation-to-launch-scaled.jpg?fit=1024%2C791&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nPalo Alto startup Apolink has picked GomSpace to build the radio frequency subsystem for its first relay cubesat, aiming to show how signals can be received from other LEO spacecraft and forwarded to the ground.\nThe post GomSpace to provide RF subsystem for Apolink LEO relay demonstrator appeared first on SpaceNews.",
-    "published_at": "2025-12-15T17:02:18Z",
-    "updated_at": "2025-12-15T17:11:11.289069Z",
     "featured": false,
     "launches": [],
     "events": [],
