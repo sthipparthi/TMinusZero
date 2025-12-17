@@ -1,5 +1,102 @@
 [
   {
+    "id": 34817,
+    "title": "Galileo’s first Ariane 6 launch strengthens European resilience",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo_s_first_Ariane_6_launch_strengthens_European_resilience",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/galileo_launch_14_liftoff/27045192-1-eng-GB/Galileo_launch_14_liftoff_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "On 17 December, two Galileo satellites lifted off from Europe’s Spaceport in French Guiana aboard an Ariane 6 rocket. This marked the 14th launch for Europe’s Galileo constellation, reinforcing Europe’s satellite navigation capabilities, resilience and autonomy.",
+    "published_at": "2025-12-17T10:00:00Z",
+    "updated_at": "2025-12-17T10:52:58.370376Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "8e7d57b1-b5c0-4d0d-a575-fe23606bdeee",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34818,
+    "title": "Galileo L14 launch highlights",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_launch_highlights",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/12/galileo_l14_launch_highlights/27043450-2-eng-GB/Galileo_L14_launch_highlights_card_full.png",
+    "news_site": "ESA",
+    "summary": "On 17 December, two new Galileo satellites lifted off from Europe’s Spaceport in French Guiana aboard an Ariane 6 rocket. This marked the 14th launch for Europe’s satellite navigation operational satellite programme, reinforcing Europe’s resilience and autonomy.",
+    "published_at": "2025-12-17T10:00:00Z",
+    "updated_at": "2025-12-17T10:52:55.471371Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "8e7d57b1-b5c0-4d0d-a575-fe23606bdeee",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34816,
+    "title": "OQ Technology links commercial IoT chipset to LEO satellite",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/oq-technology-links-commercial-iot-chipset-to-leo-satellite/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Nordic-Test.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nLuxembourg-based OQ Technology said Dec. 17 it has connected a commercial IoT chipset directly to one of its LEO satellites, using internally developed software based on 3GPP mobile standards.\nThe post OQ Technology links commercial IoT chipset to LEO satellite appeared first on SpaceNews.",
+    "published_at": "2025-12-17T08:00:00Z",
+    "updated_at": "2025-12-17T08:03:23.841793Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34815,
+    "title": "Europe at night from space",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/12/Europe_at_night_from_space",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/europe_at_night_from_space/27044305-1-eng-GB/Europe_at_night_from_space_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-12-17T06:00:00Z",
+    "updated_at": "2025-12-17T07:40:27.058387Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34814,
     "title": "Galileo L14 liftoff on Ariane 6",
     "authors": [
@@ -527,26 +624,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34789,
-    "title": "NASA’s Carruthers Geocorona Observatory Reveals ‘First Light’ Images",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-carruthers-geocorona-observatory-reveals-first-light-images/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/carruthers-geocorona-observatory/Field%20Imagers%20w%20Text%20-%20cropped.png",
-    "news_site": "NASA",
-    "summary": "NASA’s Carruthers Geocorona Observatory has captured its first images from space, revealing rare views of Earth and the Moon in ultraviolet light. Taken on Nov. 17 — still months before the mission’s science phase begins — these “first light” images confirm the spacecraft is healthy while hinting at the incredible views to come. The initial […]",
-    "published_at": "2025-12-16T14:30:00Z",
-    "updated_at": "2025-12-16T15:10:05.951453Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34790,
     "title": "NASA’s IMAP Mission Captures ‘First Light,’ Looks Back at Earth",
     "authors": [
@@ -567,20 +644,40 @@
     "detailed_news": ""
   },
   {
-    "id": 34784,
-    "title": "NASA, Partners Share First Data From New US-European Sea Satellite",
+    "id": 34789,
+    "title": "NASA’s Carruthers Geocorona Observatory Reveals ‘First Light’ Images",
     "authors": [
       {
         "name": "NASA",
         "socials": null
       }
     ],
-    "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/nasa-partners-share-first-data-from-new-us-european-sea-satellite/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/1-pia26618-s6b-first-image-level2-c.png",
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-carruthers-geocorona-observatory-reveals-first-light-images/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/carruthers-geocorona-observatory/Field%20Imagers%20w%20Text%20-%20cropped.png",
     "news_site": "NASA",
-    "summary": "Launched in November, Sentinel-6B will track ocean height with ultraprecision to advance marine forecasting, national security, and more. Sentinel-6B, a joint mission by NASA and its U.S. and European partners to survey 90% of the world’s oceans for the benefit of communities and commerce, has started sending back its first measurements since launching in November. […]",
+    "summary": "NASA’s Carruthers Geocorona Observatory has captured its first images from space, revealing rare views of Earth and the Moon in ultraviolet light. Taken on Nov. 17 — still months before the mission’s science phase begins — these “first light” images confirm the spacecraft is healthy while hinting at the incredible views to come. The initial […]",
+    "published_at": "2025-12-16T14:30:00Z",
+    "updated_at": "2025-12-16T15:10:05.951453Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34786,
+    "title": "First image from Sentinel-6B extends sea-level legacy",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/First_image_from_Sentinel-6B_extends_sea-level_legacy",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/sea-level_rise_in_the_gulf_stream_by_sentinel-6b/27038055-3-eng-GB/Sea-level_rise_in_the_Gulf_Stream_by_Sentinel-6B_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Copernicus Sentinel-6B, launched last month, has reached its orbit and delivered its first set of data, which show variations in sea level in the North Atlantic Ocean. This data underlines how the mission will continue to strengthen the long-term reference record of sea levels, a key parameter of climate change.",
     "published_at": "2025-12-16T14:00:00Z",
-    "updated_at": "2025-12-16T14:00:06.842893Z",
+    "updated_at": "2025-12-16T14:40:25.741337Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -607,20 +704,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34786,
-    "title": "First image from Sentinel-6B extends sea-level legacy",
+    "id": 34784,
+    "title": "NASA, Partners Share First Data From New US-European Sea Satellite",
     "authors": [
       {
-        "name": "ESA",
+        "name": "NASA",
         "socials": null
       }
     ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/First_image_from_Sentinel-6B_extends_sea-level_legacy",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/sea-level_rise_in_the_gulf_stream_by_sentinel-6b/27038055-3-eng-GB/Sea-level_rise_in_the_Gulf_Stream_by_Sentinel-6B_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Copernicus Sentinel-6B, launched last month, has reached its orbit and delivered its first set of data, which show variations in sea level in the North Atlantic Ocean. This data underlines how the mission will continue to strengthen the long-term reference record of sea levels, a key parameter of climate change.",
+    "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/nasa-partners-share-first-data-from-new-us-european-sea-satellite/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/1-pia26618-s6b-first-image-level2-c.png",
+    "news_site": "NASA",
+    "summary": "Launched in November, Sentinel-6B will track ocean height with ultraprecision to advance marine forecasting, national security, and more. Sentinel-6B, a joint mission by NASA and its U.S. and European partners to survey 90% of the world’s oceans for the benefit of communities and commerce, has started sending back its first measurements since launching in November. […]",
     "published_at": "2025-12-16T14:00:00Z",
-    "updated_at": "2025-12-16T14:40:25.741337Z",
+    "updated_at": "2025-12-16T14:00:06.842893Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -714,20 +811,45 @@
     "detailed_news": ""
   },
   {
-    "id": 34774,
-    "title": "Southern Launch to host INNOSPACE missions from South Australian spaceports",
+    "id": 34775,
+    "title": "Rocket Lab completes first dedicated JAXA mission with Electron launch",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Southern_Launch_to_host_INNOSPACE_missions_from_South_Australian_spaceports_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/innospace-hanbit-nano-rocket-schematic-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Rocket_Lab_completes_first_dedicated_JAXA_mission_with_Electron_launch_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rocket-lab-electron-launch-kineis-mission-day-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Dec 16, 2025\n\n\nSouthern Launch has signed a contract with South Korean launch service provider INNOSPACE to conduct space missions from the Whalers Way Orbital Launch Complex and the Koonibba Test Range in South Australia. \n\nThe agreement allows INNOSPACE to undertake a range of missions from Southern Launch sites, including orbital satellite launches and suborbital technology demonstration flights.",
+    "summary": "Mahia, New Zealand (SPX) Dec 16, 2025\r\n\r\n\r\nRocket Lab Corporation has carried out its first dedicated launch for the Japan Aerospace Exploration Agency (JAXA), advancing the role of the Electron small launch vehicle in Japan's satellite technology demonstration program. The mission marks a new step in collaboration between Rocket Lab and JAXA in support of Japan's growing space activities. \r\n\r\nThe flight, named RAISE And Shine, lifted",
     "published_at": "2025-12-16T11:04:07Z",
-    "updated_at": "2025-12-16T10:02:10.040401Z",
+    "updated_at": "2025-12-16T10:22:02.175490Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "de6db617-3d40-414a-86d6-f365b130df30",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34773,
+    "title": "Gemini North tracks changing glow of interstellar Comet 3IATLAS",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Gemini_North_tracks_changing_glow_of_interstellar_Comet_3IATLAS_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/interstellar-comet-3i-atlas-gemini-telescope-noirlab-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tucson AZ (SPX) Dec 16, 2025\n\n\nGemini North has obtained new color images of Comet 3I/ATLAS after the interstellar object emerged from behind the Sun on its outbound trajectory from the Solar System. Using the Gemini Multi-Object Spectrograph (GMOS) on the Gemini North telescope at Maunakea in Hawaii, scientists observed the comet on 26 November 2025 to study how it has evolved since perihelion. \n\nThe observations were co",
+    "published_at": "2025-12-16T11:04:07Z",
+    "updated_at": "2025-12-16T10:02:10.028365Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -794,27 +916,22 @@
     "detailed_news": ""
   },
   {
-    "id": 34775,
-    "title": "Rocket Lab completes first dedicated JAXA mission with Electron launch",
+    "id": 34774,
+    "title": "Southern Launch to host INNOSPACE missions from South Australian spaceports",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Rocket_Lab_completes_first_dedicated_JAXA_mission_with_Electron_launch_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rocket-lab-electron-launch-kineis-mission-day-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Southern_Launch_to_host_INNOSPACE_missions_from_South_Australian_spaceports_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/innospace-hanbit-nano-rocket-schematic-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Mahia, New Zealand (SPX) Dec 16, 2025\r\n\r\n\r\nRocket Lab Corporation has carried out its first dedicated launch for the Japan Aerospace Exploration Agency (JAXA), advancing the role of the Electron small launch vehicle in Japan's satellite technology demonstration program. The mission marks a new step in collaboration between Rocket Lab and JAXA in support of Japan's growing space activities. \r\n\r\nThe flight, named RAISE And Shine, lifted",
+    "summary": "Sydney, Australia (SPX) Dec 16, 2025\n\n\nSouthern Launch has signed a contract with South Korean launch service provider INNOSPACE to conduct space missions from the Whalers Way Orbital Launch Complex and the Koonibba Test Range in South Australia. \n\nThe agreement allows INNOSPACE to undertake a range of missions from Southern Launch sites, including orbital satellite launches and suborbital technology demonstration flights.",
     "published_at": "2025-12-16T11:04:07Z",
-    "updated_at": "2025-12-16T10:22:02.175490Z",
+    "updated_at": "2025-12-16T10:02:10.040401Z",
     "featured": false,
-    "launches": [
-      {
-        "launch_id": "de6db617-3d40-414a-86d6-f365b130df30",
-        "provider": "Launch Library 2"
-      }
-    ],
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -833,26 +950,6 @@
     "summary": "Atlanta GA (SPX) Dec 16, 2025\n\nWhen NASA scientists opened the sample return canister from the OSIRIS-REx asteroid sample mission in late 2023, they found something astonishing. Dust and rock collected from the asteroid Bennu contained many of life's building blocks, including all five nucleobases used in DNA and RNA, 14 of the 20 amino acids found in proteins, and a rich collection of other organic molecules",
     "published_at": "2025-12-16T11:04:07Z",
     "updated_at": "2025-12-16T10:02:09.969785Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34773,
-    "title": "Gemini North tracks changing glow of interstellar Comet 3IATLAS",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Gemini_North_tracks_changing_glow_of_interstellar_Comet_3IATLAS_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/interstellar-comet-3i-atlas-gemini-telescope-noirlab-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tucson AZ (SPX) Dec 16, 2025\n\n\nGemini North has obtained new color images of Comet 3I/ATLAS after the interstellar object emerged from behind the Sun on its outbound trajectory from the Solar System. Using the Gemini Multi-Object Spectrograph (GMOS) on the Gemini North telescope at Maunakea in Hawaii, scientists observed the comet on 26 November 2025 to study how it has evolved since perihelion. \n\nThe observations were co",
-    "published_at": "2025-12-16T11:04:07Z",
-    "updated_at": "2025-12-16T10:02:10.028365Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -900,91 +997,6 @@
     "summary": "SpaceX continues rapid infrastructure improvements at its Starbase facility in South Texas, with demolition work…\nThe post SpaceX advances Starbase upgrades at the launch site appeared first on NASASpaceFlight.com.",
     "published_at": "2025-12-16T10:36:14Z",
     "updated_at": "2025-12-16T10:40:12.185236Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34769,
-    "title": "Callisto Ground Support Robot Ready for Shipment",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/callisto-ground-support-robot-ready-for-shipment/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/12/Callisto-Ground-Support-Robot-Ready-for-Shipment.webp",
-    "news_site": "European Spaceflight",
-    "summary": "French engineering group Technip Energies (T.EN) is in the process of completing Factory Acceptance Tests for a robot that will be used to connect and disconnect umbilicals from the Callisto reusable rocket demonstrator before and after liftoff. Callisto is being jointly developed by CNES, DLR, and JAXA to mature key technologies for future reusable launch […]\r\nThe post Callisto Ground Support Robot Ready for Shipment appeared first on European Spaceflight.",
-    "published_at": "2025-12-16T06:00:14Z",
-    "updated_at": "2025-12-16T07:17:41.083937Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "241e01b2-c9ff-4185-ad78-f48d441ff919",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34768,
-    "title": "A Subtle Return of La Niña",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-subtle-return-of-la-nina/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/a-subtle-return-of-la-ni%C3%B1a-/lanina_sen6_20251201.jpg",
-    "news_site": "NASA",
-    "summary": "A weak La Niña emerged in the equatorial Pacific in late 2025, and scientists are watching how it may help shape weather and climate in the months ahead.",
-    "published_at": "2025-12-16T05:00:00Z",
-    "updated_at": "2025-12-16T05:10:05.123931Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34767,
-    "title": "Rocket Lab to launch second of three planned Electron rockets this week",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/12/15/rocket-lab-to-launch-second-of-three-planned-electron-rockets-this-week/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20251215_Bridging_the_Swarm_prelaunch-1.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The ‘Bridging the Swarm’ mission comes two days after the company launched its ‘RAISE and Shine’ flight for JAXA. Liftoff is scheduled for 1:55 p.m. NZDT / 0055 UTC on Dec. 16 (7:45 p.m. EST on Dec. 15). ",
-    "published_at": "2025-12-15T22:14:19Z",
-    "updated_at": "2025-12-15T22:20:19.284724Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34766,
-    "title": "Space Force uses AI challenge to push everyday use of artificial intelligence",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/251211-F-KN215-4125-scaled.jpg?fit=1024%2C690&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSenior leaders emphasize internal expertise and hands-on experimentation \nThe post Space Force uses AI challenge to push everyday use of artificial intelligence appeared first on SpaceNews.",
-    "published_at": "2025-12-15T21:27:29Z",
-    "updated_at": "2025-12-15T21:31:26.389492Z",
     "featured": false,
     "launches": [],
     "events": [],
