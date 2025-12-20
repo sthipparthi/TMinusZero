@@ -1,5 +1,65 @@
 [
   {
+    "id": 34936,
+    "title": "Redwire Tapped to Provide Docking Mechanisms for Nyx Earth Capsule",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/redwire-tapped-to-provide-docking-mechanisms-for-nyx-earth-capsule/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/12/Redwire-Tapped-to-Provide-Docking-Mechanisms-for-Nyx-Cargo-Capsule.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The Exploration Company has awarded Redwire a contract to provide two International Berthing and Docking Mechanisms (IBDM) for its Nyx cargo spacecraft. Developed by QinetiQ Space under a European Space Agency contract awarded in 2014, the International Berthing and Docking Mechanism was designed as a standardised interface to support docking and berthing for the next […]\nThe post Redwire Tapped to Provide Docking Mechanisms for Nyx Earth Capsule appeared first on European Spaceflight.",
+    "published_at": "2025-12-20T05:00:36Z",
+    "updated_at": "2025-12-20T05:10:14.108073Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34935,
+    "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2025/perseverance-rover-updates/Mars_Perseverance_NLF_1704_0818212458_695ECM_N0822866NCAM02704_01_195J.png",
+    "news_site": "NASA",
+    "summary": "Written by Noah Martin, Ph.D. student and Candice Bedford, Research Scientist at Purdue University While much of Perseverance’s work focuses on ancient rocks that record Mars’ long-lost rivers and lakes, megaripples offer a rare opportunity to examine processes that are still shaping the surface today. Megaripples are sand ripples up to 2 meters (about 6.5 […]",
+    "published_at": "2025-12-20T01:19:24Z",
+    "updated_at": "2025-12-20T02:10:07.119485Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34934,
+    "title": "Space Development Agency awards roughly $3.5 billion to 4 companies for 72 missile tracking and warning satellites",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/12/20/space-development-agency-awards-roughly-3-5-billion-to-4-companies-for-72-missile-tracking-and-warning-satellites/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20251219_rocket-lab-lightning-spacecraft.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "This batch of satellites will populate what the SDA calls the Tracking Layer of its Proliferated Warfighter Space Architecture (PWSA) constellation in low Earth orbit. The work will be divided evenly, with each company building 18 spacecraft. ",
+    "published_at": "2025-12-20T01:16:26Z",
+    "updated_at": "2025-12-20T01:20:23.581086Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34933,
     "title": "NASA safety panel recommends review of Artemis plans",
     "authors": [
@@ -582,26 +642,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34909,
-    "title": "LizzieSat 3 completes bus commissioning for multi mission AI operations",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/LizzieSat_3_completes_bus_commissioning_for_multi_mission_AI_operations_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sidus-space-lizziesat-3-orbit-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Cape Canaveral FL (SPX) Dec 11, 2025\n\n\nSidus Space has completed bus-level commissioning of its LizzieSat-3 spacecraft, confirming that the satellite's core systems are operational in orbit and ready to support customer missions. LS-3 is part of the company's LizzieSat multi-mission constellation focused on providing space-based data services, integrated sensors, and autonomous on-orbit computing capabilities to government and commer",
-    "published_at": "2025-12-19T11:01:57Z",
-    "updated_at": "2025-12-19T10:00:13.632917Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34904,
     "title": "\"Robot, make me a chair\" robot-make-me-a-chair-in-six-prompts",
     "authors": [
@@ -616,6 +656,26 @@
     "summary": "Boston MA (SPX) Dec 17, 2025\n\n\nComputer-aided design (CAD) systems are tried-and-true tools used to design many of the physical objects we use each day. But CAD software requires extensive expertise to master, and many tools incorporate such a high level of detail they don't lend themselves to brainstorming or rapid prototyping. \n\nIn an effort to make design faster and more accessible for non-experts, researchers from MIT",
     "published_at": "2025-12-19T11:01:57Z",
     "updated_at": "2025-12-19T10:00:13.554028Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34909,
+    "title": "LizzieSat 3 completes bus commissioning for multi mission AI operations",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/LizzieSat_3_completes_bus_commissioning_for_multi_mission_AI_operations_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/sidus-space-lizziesat-3-orbit-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Cape Canaveral FL (SPX) Dec 11, 2025\n\n\nSidus Space has completed bus-level commissioning of its LizzieSat-3 spacecraft, confirming that the satellite's core systems are operational in orbit and ready to support customer missions. LS-3 is part of the company's LizzieSat multi-mission constellation focused on providing space-based data services, integrated sensors, and autonomous on-orbit computing capabilities to government and commer",
+    "published_at": "2025-12-19T11:01:57Z",
+    "updated_at": "2025-12-19T10:00:13.632917Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -946,66 +1006,6 @@
     "summary": "\nNew constellation would provide security for NATO’s eastern flank, German brigade in Lithuania\nThe post Germany awards $1.9 billion SAR satellite deal to Rheinmetall-Iceye venture appeared first on SpaceNews.",
     "published_at": "2025-12-18T21:33:03Z",
     "updated_at": "2025-12-18T21:40:24.198794Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34886,
-    "title": "NASA Announces 2025 International Space Apps Challenge Global Winners",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/nasa-announces-2025-international-space-apps-challenge-global-winners/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/nasa-space-apps-austin-texas.jpg",
-    "news_site": "NASA",
-    "summary": "NASA Space Apps announced Thursday 10 winners of the 2025 NASA Space Apps Challenge. During this two-day hackathon, participants gathered at 551 local events across 167 countries and territories to showcase their STEM skills and proposed ways to transform NASA’s open data into actionable tools. More than 114,000 participants came together to address challenges created […]",
-    "published_at": "2025-12-18T21:00:00Z",
-    "updated_at": "2025-12-18T21:10:07.093967Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34885,
-    "title": "Rocket Lab launches 4 novel DiskSat satellites for U.S. Space Force, NASA",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/12/18/rocket-lab-launches-4-novel-disksat-satellites-for-u-s-space-force-nasa/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20251218_DiskSat_processing.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The STP-S30 mission was moved up five months on the launch manifest for Rocket Lab. This was the 20th launch of an Electron rocket in 2025. ",
-    "published_at": "2025-12-18T19:44:16Z",
-    "updated_at": "2025-12-18T19:50:21.698376Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34884,
-    "title": "NASA Lab Completes Engine Checks on New Aircraft",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasa-lab-completes-engine-checks-on-new-aircraft/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/afrc2025-0154-21orig.jpg",
-    "news_site": "NASA",
-    "summary": "Justin Hall, left, controls a subscale aircraft as Justin Link holds the aircraft in place during preliminary engine tests on Friday, Sept. 12, 2025, at NASA’s Armstong Flight Research Center in Edwards, California. Hall, chief pilot at the center’s Dale Reed Subscale Flight Research Laboratory, and Link, a pilot for small uncrewed aircraft systems, are […]",
-    "published_at": "2025-12-18T19:26:40Z",
-    "updated_at": "2025-12-18T19:30:07.588326Z",
     "featured": false,
     "launches": [],
     "events": [],
