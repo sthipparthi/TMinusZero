@@ -1,5 +1,45 @@
 [
   {
+    "id": 34940,
+    "title": "NASA Meets New Administrator Jared Isaacman",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-meets-new-administrator-jared-isaacman/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/12/Isaacman-TH-best-Dec-19-25-300x169.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "One day after being sworn in as NASA Administrator, Jared Isaacman held a Town Hall meeting with the NASA workforce to introduce himself and answer questions. He praised President Trump’s […]",
+    "published_at": "2025-12-20T22:47:56Z",
+    "updated_at": "2025-12-20T22:50:18.326526Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34939,
+    "title": "Artemis II Crew Rehearse Launch Day Demonstration",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-rehearse-launch-day-demonstration/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/afrc2025-0189-14.jpg",
+    "news_site": "NASA",
+    "summary": "The four astronauts set to fly around the Moon during NASA’s Artemis II test flight depart the Neil A. Armstrong Operations and Checkout Building at the agency’s Kennedy Space Center in Florida, during a dress rehearsal for launch day on Dec. 20, 2025. From left are CSA (Canadian Space Agency) astronaut Jeremy Hansen NASA astronauts Victor Glover, Reid Wiseman, […]",
+    "published_at": "2025-12-20T20:31:20Z",
+    "updated_at": "2025-12-20T20:40:34.240026Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34938,
     "title": "Blue Origin flies first wheelchair user to space",
     "authors": [
@@ -689,26 +729,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34905,
-    "title": "Sentinel 6B begins sea level mapping campaign",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Sentinel_6B_begins_sea_level_mapping_campaign_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sentinel-6b-sea-levels-across-first-light-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Dec 17, 2025\n\n\nSentinel-6B has begun returning its first ocean measurements, providing initial maps of sea level across a wide area of the U.S. East Coast and the Atlantic Ocean after its November launch. The U.S.-European mission is designed to survey about 90 percent of Earth's oceans using high-precision radar altimetry to track changes in sea surface height that affect coastal communities and marine operat",
-    "published_at": "2025-12-19T11:01:57Z",
-    "updated_at": "2025-12-19T10:00:13.581429Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34904,
     "title": "\"Robot, make me a chair\" robot-make-me-a-chair-in-six-prompts",
     "authors": [
@@ -723,6 +743,26 @@
     "summary": "Boston MA (SPX) Dec 17, 2025\n\n\nComputer-aided design (CAD) systems are tried-and-true tools used to design many of the physical objects we use each day. But CAD software requires extensive expertise to master, and many tools incorporate such a high level of detail they don't lend themselves to brainstorming or rapid prototyping. \n\nIn an effort to make design faster and more accessible for non-experts, researchers from MIT",
     "published_at": "2025-12-19T11:01:57Z",
     "updated_at": "2025-12-19T10:00:13.554028Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34905,
+    "title": "Sentinel 6B begins sea level mapping campaign",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Sentinel_6B_begins_sea_level_mapping_campaign_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/sentinel-6b-sea-levels-across-first-light-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (SPX) Dec 17, 2025\n\n\nSentinel-6B has begun returning its first ocean measurements, providing initial maps of sea level across a wide area of the U.S. East Coast and the Atlantic Ocean after its November launch. The U.S.-European mission is designed to survey about 90 percent of Earth's oceans using high-precision radar altimetry to track changes in sea surface height that affect coastal communities and marine operat",
+    "published_at": "2025-12-19T11:01:57Z",
+    "updated_at": "2025-12-19T10:00:13.581429Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -973,46 +1013,6 @@
     "summary": "\nThe White House issued a sweeping executive order on space policy Dec. 18 covering topics from NASA’s exploration plans to space security.\nThe post Trump signs sweeping executive order to assert U.S. dominance in space appeared first on SpaceNews.",
     "published_at": "2025-12-18T23:15:58Z",
     "updated_at": "2025-12-18T23:20:24.962529Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34891,
-    "title": "What problem is charging for Space Situational Awareness supposed to solve?",
-    "authors": [
-      {
-        "name": "Richard DalBello",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/what-problem-is-charging-for-space-situational-awareness-supposed-to-solve/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA recently issued Executive Order revises how the government implements Space Policy Directive-3, removing the longstanding expectation that basic space situational awareness (SSA) services, including conjunction warnings, would be provided without charge. This decision marks a departure not only from SPD-3, but from more than a decade of United States practice in which Congress and […]\nThe post What problem is charging for Space Situational Awareness supposed to solve? appeared first on SpaceNews.",
-    "published_at": "2025-12-18T23:15:31Z",
-    "updated_at": "2025-12-18T23:20:24.982102Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34889,
-    "title": "Trump commits to Moon landing by 2028, followed by a lunar outpost two years later",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2025/12/trump-commits-to-moon-landing-by-2028-followed-by-a-lunar-outpost-two-years-later/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/54992620409_811a1c4713_c.jpg",
-    "news_site": "Arstechnica",
-    "summary": "Also, the Trump administration wants to put some nuclear power reactors there, too.",
-    "published_at": "2025-12-18T23:05:42Z",
-    "updated_at": "2025-12-18T23:10:03.988951Z",
     "featured": false,
     "launches": [],
     "events": [],
