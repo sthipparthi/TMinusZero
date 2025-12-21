@@ -1,6 +1,6 @@
 {
-  "count": 9,
-  "last_updated": "2025-12-21T00:04:22.784544Z",
+  "count": 10,
+  "last_updated": "2025-12-21T06:01:30.282731Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (9 failed/unavailable)"
+    "Empty AI summaries (10 failed/unavailable)"
   ],
   "launches": [
     {
@@ -106,6 +106,62 @@
           "description": "カウントダウン停止の模様は01:13:10より\n\n\nH3ロケット8号機の打上げの様子を現地、種子島宇宙センターからライブ配信します。\n\nThe launch of H3 Rocket F8 will be broadcast live from the Tanegashima Space Center.\nThis time as well, we plan to conduct live coverage of the launch of the H3 Rocket F7.\n\n打上げ予定日（Launch Date）：2025.12.17\n打上げ予定時刻（Launch Time）：11:11'00\" +0900 (JST)\n打上げ時間帯 ： 11時10分00秒～11時24分30秒\n予備期間（Preliminary duration）：　2025/12/18～2026/01/31\nペイロード衛星（Payload）：準天頂衛星システム「みちびき5号機」（QZS-5）\n\n\n打上げ前会見　Pre Launch Briefing\n\n\n機体移動 transfer operation\n\n\n見守る配信 watch over the rocket before launch\n\n\n打上げ Launch\n\n\n打上げ後会見 Post-Press Conference\n\n\nNVS配信スケジュール　Our Streaming Schedule\nhttp://blog.nvs-live.com/?eid=844\n\nPlease donate and support us　http://PayPal.Me/nvslive\n\nこのチャンネルのメンバーになって特典にアクセスしてください:\nhttps://www.youtube.com/channel/UCDkGOo9VQFjijIDZJidoNmg/...",
           "feature_image": "https://i.ytimg.com/vi/TyFwm2S7aG8/maxresdefault.jpg",
           "url": "https://www.youtube.com/watch?v=TyFwm2S7aG8"
+        }
+      ],
+      "ai_summary": ""
+    },
+    {
+      "id": "a81fcb21-ed57-47ef-ab57-33ddd9c6ffcd",
+      "name": "HANBIT-Nano | Spaceward",
+      "status": "Go",
+      "net": "2025-12-22T18:45:00Z",
+      "window_start": "2025-12-22T18:45:00Z",
+      "window_end": "2025-12-22T18:45:00Z",
+      "lsp_name": "Innospace",
+      "lsp_description": "Innospace is a South Korean startup company specializing in developing hybrid space rocket.",
+      "lsp_type": "Private",
+      "lsp_country": "KOR",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/innospace_socia_image_20251021112531.png",
+      "mission_name": "Spaceward",
+      "mission_description": "Maiden orbital launch attempt for the South Korean stratup Innospace and its HANBIT-Nano small launch vehicle. Onboard this flight are five small satellites from the Brazilian space agency AEB, Brazilian university Universidade Federal do Maranhão and Indian startup Grahaa Space, as well as three payloads from AEB and Brazilian company Castro Leite Consultoria that will remain attached to the rocket, and an empty aluminium can from the South Korean beverage company Brewguru.",
+      "mission_type": "Test Flight",
+      "orbit": "Sun-Synchronous Orbit",
+      "launch_site": "HANBIT Pad, Alcântara Space Center, Federative Republic of Brazil",
+      "pad": "HANBIT Pad",
+      "location": "Alcântara Space Center, Federative Republic of Brazil",
+      "rocket": "HANBIT-Nano",
+      "rocket_config_description": "Two-stage launch vehicle developed by South Korean space startup Innospace.",
+      "rocket_config_family": "HANBIT",
+      "rocket_config_full_name": "HANBIT-Nano",
+      "rocket_config_total_launch_count": 0,
+      "rocket_config_successful_launches": 0,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Innospace",
+      "rocket_manufacturer_type": "Private",
+      "rocket_manufacturer_description": "Innospace is a South Korean startup company specializing in developing hybrid space rocket.",
+      "rocket_manufacturer_total_launch_count": 1,
+      "rocket_manufacturer_successful_launches": 1,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/hanbit-nano_gro_image_20251021114236.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/a81fcb21-ed57-47ef-ab57-33ddd9c6ffcd/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "HANBIT-Nano | ‘SPACEWARD’ Mission Launch Livestream – INNOSPACE | 이노스페이스",
+          "description": "INNOSPACE’s HANBIT-Nano is heading to space on its first commercial launch mission, ‘SPACEWARD.’\n\n🔹Launch Vehicle: HANBIT-Nano\n🔹Mission: SPACEWARD\n🔹Scheduled Launch Time: Dec. 22, 15:45 (BRT) / Dec. 23, 03:45 (KST) / Dec. 23, 00:15 (IST)\n🔹Launch Site: Alcântara Space Center, Brazil\n🔹Livestream Begins: Livestream begins 1 hour ahead of launch\n\n#SPACEWARD #INNOSPACE #HANBITNano #SpaceMission\n\nFollow INNOSPACE\nLinkedIn: https://www.linkedin.com/company/innospacecorp/\nFaceBook: https://www.facebook.com/innospacecorp   \nX: https://twitter.com/innospacecorp\nInstagram: https://www.instagram.com/innospacecorp/",
+          "feature_image": "https://i.ytimg.com/vi/RqGZ1mS5FC0/maxresdefault_live.jpg",
+          "url": "https://www.youtube.com/watch?v=RqGZ1mS5FC0"
+        },
+        {
+          "priority": 11,
+          "title": "Live de transmissão da Operação Spaceward",
+          "description": "A Operação Spaceward marca o lançamento do foguete Hanbit-Nano, da empresa sul-coreana Innospace, com transporte de oito cargas úteis, sendo sete brasileiras e uma estrangeira. Entre elas, o destaque vai para três projetos apoiados diretamente pela AEB. As cargas somam cerca de 18 quilos e envolvem universidades, institutos de pesquisa e empresas nacionais. \n\nJanela de lançamento: 16 a 22 de dezembro\n\n** Transmissão ao vivo com comentários de especialistas da AEB **\n\n--\nSiga nossos canais oficiais e fique por dentro dos conteúdos espaciais! 🚀\n\nAproveite e deixe seu like no vídeo de hoje! 👍👍\n\nInstagram: @agenciaespacialbrasileira  \nFacebook: @agenciaespacialbrasileira  \nTwitter: @espacial_aeb  \nLinkedIn: agencia-espacial-brasileira-oficial  \nPortal: https://www.gov.br/aeb/",
+          "feature_image": "https://i.ytimg.com/vi/ftUqN7acxco/maxresdefault_live.jpg",
+          "url": "https://www.youtube.com/watch?v=ftUqN7acxco"
         }
       ],
       "ai_summary": ""
@@ -410,7 +466,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 9,
-    "total_launches": 9
+    "empty_summaries": 10,
+    "total_launches": 10
   }
 }

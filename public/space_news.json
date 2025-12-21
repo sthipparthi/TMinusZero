@@ -1,5 +1,25 @@
 [
   {
+    "id": 34941,
+    "title": "Astronauts, launch teams practice Artemis 2 countdown",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/12/21/astronauts-launch-teams-practice-artemis-2-countdown/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20251220_Artemis-II_walkout_MC-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The run-through simulated day-of-launch activities, included suit up, ingress into the Orion spacecraft and a countdown that stopped just shy of T-0. ",
+    "published_at": "2025-12-21T00:15:32Z",
+    "updated_at": "2025-12-21T00:20:20.797457Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34940,
     "title": "NASA Meets New Administrator Jared Isaacman",
     "authors": [
@@ -609,20 +629,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34902,
-    "title": "Trump shifts priority to Moon mission, not Mars",
+    "id": 34903,
+    "title": "BlackSky accelerates Gen-3 satellite into full commercial service in three weeks",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.moondaily.com/reports/Trump_shifts_priority_to_Moon_mission_not_Mars_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lunar-spix-1-bg.jpg",
+    "url": "https://www.spacewar.com/reports/BlackSky_accelerates_Gen_3_satellite_into_full_commercial_service_in_three_weeks_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/blacksky-gen-3-adelaide-international-airport-australia-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Dec 19, 2025\n\n\n US President Donald Trump on Thursday confirmed that he wants to send astronauts back to the Moon as soon as possible, putting eventual Mars missions on the back burner. \n\nIn an executive order on his space policy, Trump said he wanted to get Americans to the Moon by 2028, under NASA's Artemis program launched during his first White House term. \n\nSuch a lunar landing would \"assert American l",
+    "summary": "Los Angeles CA (SPX) Dec 18, 2025\n\n\nBlackSky Technology Inc. (NYSE: BKSY) has placed its third Gen-3 imaging satellite into commercial service just three weeks after launch, marking a major reduction in commissioning time compared with the company's first Gen-3 unit. The new spacecraft adds further capacity for 35-centimeter-class very high-resolution imagery and AI-enabled analytics for BlackSky customers worldwide. \n\n\"Integr",
     "published_at": "2025-12-19T11:01:57Z",
-    "updated_at": "2025-12-19T10:00:13.502943Z",
+    "updated_at": "2025-12-19T10:00:13.521689Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -669,40 +689,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34903,
-    "title": "BlackSky accelerates Gen-3 satellite into full commercial service in three weeks",
+    "id": 34905,
+    "title": "Sentinel 6B begins sea level mapping campaign",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/BlackSky_accelerates_Gen_3_satellite_into_full_commercial_service_in_three_weeks_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/blacksky-gen-3-adelaide-international-airport-australia-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Sentinel_6B_begins_sea_level_mapping_campaign_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/sentinel-6b-sea-levels-across-first-light-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 18, 2025\n\n\nBlackSky Technology Inc. (NYSE: BKSY) has placed its third Gen-3 imaging satellite into commercial service just three weeks after launch, marking a major reduction in commissioning time compared with the company's first Gen-3 unit. The new spacecraft adds further capacity for 35-centimeter-class very high-resolution imagery and AI-enabled analytics for BlackSky customers worldwide. \n\n\"Integr",
+    "summary": "Washington DC (SPX) Dec 17, 2025\n\n\nSentinel-6B has begun returning its first ocean measurements, providing initial maps of sea level across a wide area of the U.S. East Coast and the Atlantic Ocean after its November launch. The U.S.-European mission is designed to survey about 90 percent of Earth's oceans using high-precision radar altimetry to track changes in sea surface height that affect coastal communities and marine operat",
     "published_at": "2025-12-19T11:01:57Z",
-    "updated_at": "2025-12-19T10:00:13.521689Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34909,
-    "title": "LizzieSat 3 completes bus commissioning for multi mission AI operations",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/LizzieSat_3_completes_bus_commissioning_for_multi_mission_AI_operations_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sidus-space-lizziesat-3-orbit-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Cape Canaveral FL (SPX) Dec 11, 2025\n\n\nSidus Space has completed bus-level commissioning of its LizzieSat-3 spacecraft, confirming that the satellite's core systems are operational in orbit and ready to support customer missions. LS-3 is part of the company's LizzieSat multi-mission constellation focused on providing space-based data services, integrated sensors, and autonomous on-orbit computing capabilities to government and commer",
-    "published_at": "2025-12-19T11:01:57Z",
-    "updated_at": "2025-12-19T10:00:13.632917Z",
+    "updated_at": "2025-12-19T10:00:13.581429Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -749,20 +749,40 @@
     "detailed_news": ""
   },
   {
-    "id": 34905,
-    "title": "Sentinel 6B begins sea level mapping campaign",
+    "id": 34909,
+    "title": "LizzieSat 3 completes bus commissioning for multi mission AI operations",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Sentinel_6B_begins_sea_level_mapping_campaign_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sentinel-6b-sea-levels-across-first-light-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/LizzieSat_3_completes_bus_commissioning_for_multi_mission_AI_operations_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/sidus-space-lizziesat-3-orbit-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Dec 17, 2025\n\n\nSentinel-6B has begun returning its first ocean measurements, providing initial maps of sea level across a wide area of the U.S. East Coast and the Atlantic Ocean after its November launch. The U.S.-European mission is designed to survey about 90 percent of Earth's oceans using high-precision radar altimetry to track changes in sea surface height that affect coastal communities and marine operat",
+    "summary": "Cape Canaveral FL (SPX) Dec 11, 2025\n\n\nSidus Space has completed bus-level commissioning of its LizzieSat-3 spacecraft, confirming that the satellite's core systems are operational in orbit and ready to support customer missions. LS-3 is part of the company's LizzieSat multi-mission constellation focused on providing space-based data services, integrated sensors, and autonomous on-orbit computing capabilities to government and commer",
     "published_at": "2025-12-19T11:01:57Z",
-    "updated_at": "2025-12-19T10:00:13.581429Z",
+    "updated_at": "2025-12-19T10:00:13.632917Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34902,
+    "title": "Trump shifts priority to Moon mission, not Mars",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/Trump_shifts_priority_to_Moon_mission_not_Mars_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/lunar-spix-1-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington, United States (AFP) Dec 19, 2025\n\n\n US President Donald Trump on Thursday confirmed that he wants to send astronauts back to the Moon as soon as possible, putting eventual Mars missions on the back burner. \n\nIn an executive order on his space policy, Trump said he wanted to get Americans to the Moon by 2028, under NASA's Artemis program launched during his first White House term. \n\nSuch a lunar landing would \"assert American l",
+    "published_at": "2025-12-19T11:01:57Z",
+    "updated_at": "2025-12-19T10:00:13.502943Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -809,31 +829,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34900,
-    "title": "Dwarf stars in a glittering sky",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/12/Dwarf_stars_in_a_glittering_sky",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/dwarf_stars_in_a_glittering_sky/27047673-1-eng-GB/Dwarf_stars_in_a_glittering_sky_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2025-12-19T09:00:00Z",
-    "updated_at": "2025-12-19T09:37:56.774853Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34899,
     "title": "Webb: Dwarf stars in a glittering sky",
     "authors": [
@@ -848,6 +843,31 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2025-12-19T09:00:00Z",
     "updated_at": "2025-12-19T09:37:49.674086Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34900,
+    "title": "Dwarf stars in a glittering sky",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2025/12/Dwarf_stars_in_a_glittering_sky",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/dwarf_stars_in_a_glittering_sky/27047673-1-eng-GB/Dwarf_stars_in_a_glittering_sky_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2025-12-19T09:00:00Z",
+    "updated_at": "2025-12-19T09:37:56.774853Z",
     "featured": false,
     "launches": [
       {
@@ -939,26 +959,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34893,
-    "title": "How to pick the right web testing framework for your project",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/How_to_pick_the_right_web_testing_framework_for_your_project_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/futuristic-smart-digital-data-ai-urban-cityscape-man-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 18, 2025\n\nThe selection of a web testing framework may at times not be very easy. In fact, with so many tools that claim to speed up your testing process, it often comes down to which tool best fits your team's skill sets, project scope, and long-term testing objectives. Whether you're a QA manager, SDET, tester, or engineer, you want a framework that supports quality and grows with your development process",
-    "published_at": "2025-12-19T01:51:15Z",
-    "updated_at": "2025-12-19T00:40:25.582936Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34892,
     "title": "The Quantum Age will be Powered by Fusion",
     "authors": [
@@ -979,6 +979,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34893,
+    "title": "How to pick the right web testing framework for your project",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/How_to_pick_the_right_web_testing_framework_for_your_project_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/futuristic-smart-digital-data-ai-urban-cityscape-man-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 18, 2025\n\nThe selection of a web testing framework may at times not be very easy. In fact, with so many tools that claim to speed up your testing process, it often comes down to which tool best fits your team's skill sets, project scope, and long-term testing objectives. Whether you're a QA manager, SDET, tester, or engineer, you want a framework that supports quality and grows with your development process",
+    "published_at": "2025-12-19T01:51:15Z",
+    "updated_at": "2025-12-19T00:40:25.582936Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34894,
     "title": "Curiosity Blog, Sols 4743-4749:  Polygons in the Hollow",
     "authors": [
@@ -993,26 +1013,6 @@
     "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth Planning Date: Friday, Dec. 12, 2025 The weekend drive starting from the “Nevado Sajama” drill site brought Curiosity back into the “Monte Grande” boxwork hollow. We’ve been in this hollow before for the “Valle de la Luna” drill campaign, but now that […]",
     "published_at": "2025-12-19T01:30:38Z",
     "updated_at": "2025-12-19T02:10:07.216169Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34890,
-    "title": "Trump signs sweeping executive order to assert U.S. dominance in space",
-    "authors": [
-      {
-        "name": "Jeff Foust and Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/trump-signs-sweeping-executive-order-to-assert-u-s-dominance-in-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/P202512002DT-0230.jpg-scaled.webp?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe White House issued a sweeping executive order on space policy Dec. 18 covering topics from NASA’s exploration plans to space security.\nThe post Trump signs sweeping executive order to assert U.S. dominance in space appeared first on SpaceNews.",
-    "published_at": "2025-12-18T23:15:58Z",
-    "updated_at": "2025-12-18T23:20:24.962529Z",
     "featured": false,
     "launches": [],
     "events": [],
