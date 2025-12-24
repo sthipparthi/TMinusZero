@@ -1,5 +1,85 @@
 [
   {
+    "id": 34992,
+    "title": "Flight 12 vehicles readying for 2026 opener",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2025/12/flight-12-vehicles-2026/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/12/NSF-2025-12-23-23-41-31-185.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX is rapidly advancing the assembly of Super Heavy Booster 19 at its Starbase facility,…\nThe post Flight 12 vehicles readying for 2026 opener appeared first on NASASpaceFlight.com.",
+    "published_at": "2025-12-23T23:43:44Z",
+    "updated_at": "2025-12-23T23:50:13.763931Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34991,
+    "title": "ESA to hire 520 new staff as workforce expansion begins in 2026",
+    "authors": [
+      {
+        "name": "Emma Gatti",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/esa-to-hire-520-new-staff-as-workforce-expansion-begins-in-2026/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-23-123759.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nMILAN — The European Space Agency announced plans to hire approximately 520 new staff members starting in 2026, following decisions approved at ESA’s 342nd Council meeting earlier this month.  The recruitment will result in a net increase of about 400 staff, alongside the replacement of roughly 120 positions due to retirements. The move will bring […]\nThe post ESA to hire 520 new staff as workforce expansion begins in 2026 appeared first on SpaceNews.",
+    "published_at": "2025-12-23T20:41:32Z",
+    "updated_at": "2025-12-23T20:51:31.792889Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34990,
+    "title": "OPERA: Addressing Societal Needs with Satellite Data",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/earth-science/opera-addressing-societal-needs-with-satellite-data/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2024/05/eo-feature-article-banner.png",
+    "news_site": "NASA",
+    "summary": "Introduction The Observational Products for End-Users from Remote Sensing Analysis (OPERA) project represents a strategic initiative designed to address critical satellite data needs identified by federal agencies. Established in 2021 by the NASA/Jet Propulsion Laboratory (JPL), OPERA responds to priorities identified by the Satellite Needs Working Group (SNWG), an interagency body convened by the White […]",
+    "published_at": "2025-12-23T18:55:41Z",
+    "updated_at": "2025-12-23T19:10:43.974704Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34989,
+    "title": "Get In, We’re Going to the Moon: Meet NASA’s Artemis Closeout Crew",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/kennedy/get-in-were-going-to-the-moon-meet-nasas-artemis-closeout-crew/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/ksc-20251219-ph-jcr01-0015rev.jpg",
+    "news_site": "NASA",
+    "summary": "For most, getting into a car is a task that can be done without assistance. Yet for those whose destination is the Moon, the process of getting inside and secured – in this case, in NASA’s Orion spacecraft – requires help. That’s the role of the Artemis closeout crew. Trained to support Artemis II and […]",
+    "published_at": "2025-12-23T18:44:07Z",
+    "updated_at": "2025-12-23T18:50:08.980663Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34988,
     "title": "Artemis II Crew Launch Day Rehearsal",
     "authors": [
@@ -592,60 +672,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34947,
-    "title": "Proba-3 mission closes gap in inner solar corona monitoring",
+    "id": 34951,
+    "title": "Leonardo DRS space radio completes first secure on orbit data transport test",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Proba_3_mission_closes_gap_in_inner_solar_corona_monitoring_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/proba-3-satellites-form-artificial-eclipse-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Leonardo_DRS_space_radio_completes_first_secure_on_orbit_data_transport_test_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/leonardo-drs-satellite-orbit-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 19, 2025\n\n\nProba-3 has spent its first year in orbit generating more than 50 artificial solar eclipses, giving scientists sustained access to the inner solar corona that previously could only be studied intermittently during brief total eclipses on Earth. The two-satellite ESA mission is designed to supply the missing observations between the solar disc and the well-studied outer corona, and recent data co",
+    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nLeonardo DRS, Inc. (NASDAQ: DRS) has completed the first on-orbit test of its multi-channel software-defined radio (SDR) with integrated advanced cryptography, demonstrating secure satellite data transport for U.S. military users at the tactical edge. \n\nThe eXtended Crypto Module3-Space (XCM3-Space) adapts the company's next-generation crypto and multi-channel SDR architecture for use in spa",
     "published_at": "2025-12-22T09:44:24Z",
-    "updated_at": "2025-12-22T08:40:10.855497Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34952,
-    "title": "NASA Langley begins plume surface interaction tests to support future lunar landings",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/NASA_Langley_begins_plume_surface_interaction_tests_to_support_future_lunar_landings_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/firefly-blue-ghost-first-light-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 22, 2025\n\n\nNASA's Langley Research Center has begun a new series of plume surface interaction tests aimed at improving understanding of how rocket exhaust interacts with planetary surfaces during landing and ascent operations, a critical factor for future missions to the Moon and beyond. \n\nWhen spacecraft descend toward the lunar surface, high velocity exhaust plumes from descent engines can erode soil",
-    "published_at": "2025-12-22T09:44:24Z",
-    "updated_at": "2025-12-22T08:40:10.900932Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34950,
-    "title": "Search for life should be top science priority for first human landing on Mars report says",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Search_for_life_should_be_top_science_priority_for_first_human_landing_on_Mars_report_says_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/astronaut-practices-techniques-mars-sample-return-missions-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 22, 2025\n\n\nThe search for evidence of past or present life on Mars should be the highest scientific priority for the first human missions to the planet, according to a new report from the National Academies of Sciences Engineering and Medicine that assesses long term goals for crewed exploration. \n\nThe report concludes that human explorers offer scientific capabilities that cannot be replicated by robo",
-    "published_at": "2025-12-22T09:44:24Z",
-    "updated_at": "2025-12-22T08:40:10.881976Z",
+    "updated_at": "2025-12-22T08:40:10.891683Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -672,40 +712,40 @@
     "detailed_news": ""
   },
   {
-    "id": 34951,
-    "title": "Leonardo DRS space radio completes first secure on orbit data transport test",
+    "id": 34950,
+    "title": "Search for life should be top science priority for first human landing on Mars report says",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Leonardo_DRS_space_radio_completes_first_secure_on_orbit_data_transport_test_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/leonardo-drs-satellite-orbit-marker-bg.jpg",
+    "url": "https://www.marsdaily.com/reports/Search_for_life_should_be_top_science_priority_for_first_human_landing_on_Mars_report_says_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/astronaut-practices-techniques-mars-sample-return-missions-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nLeonardo DRS, Inc. (NASDAQ: DRS) has completed the first on-orbit test of its multi-channel software-defined radio (SDR) with integrated advanced cryptography, demonstrating secure satellite data transport for U.S. military users at the tactical edge. \n\nThe eXtended Crypto Module3-Space (XCM3-Space) adapts the company's next-generation crypto and multi-channel SDR architecture for use in spa",
+    "summary": "Los Angeles CA (SPX) Dec 22, 2025\n\n\nThe search for evidence of past or present life on Mars should be the highest scientific priority for the first human missions to the planet, according to a new report from the National Academies of Sciences Engineering and Medicine that assesses long term goals for crewed exploration. \n\nThe report concludes that human explorers offer scientific capabilities that cannot be replicated by robo",
     "published_at": "2025-12-22T09:44:24Z",
-    "updated_at": "2025-12-22T08:40:10.891683Z",
+    "updated_at": "2025-12-22T08:40:10.881976Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 34948,
-    "title": "Clues to the migration path of hot Jupiters in their orbits",
+    "id": 34955,
+    "title": "Eutelsat Network Solutions to lead global rollout of Intellian OW7MP manpack SATCOM terminal",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Clues_to_the_migration_path_of_hot_Jupiters_in_their_orbits_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-ultra-hot-exoplanet-super-jupiter-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Eutelsat_Network_Solutions_to_lead_global_rollout_of_Intellian_OW7MP_manpack_SATCOM_terminal_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/intellian-ow7mp-manpack-satcom-user-terminal-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 16, 2025\n\n\nThe first exoplanet discovered in 1995 was a hot Jupiter, a Jupiter mass planet orbiting its star every few days. Today, models indicate that hot Jupiters form far from their stars, similar to Jupiter in the Solar System, and later move inward. Two main migration channels are considered: high-eccentricity migration, in which gravitational perturbations excite the orbit before tidal forces circul",
+    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nEutelsat Network Solutions and Intellian Technologies have entered a strategic partnership under which Eutelsat Network Solutions will manage the global launch and availability of Intellian Technologies' OW7MP Manpack satellite communications user terminal on the Eutelsat OneWeb low Earth orbit network. \n\nEutelsat Network Solutions is a wholly owned independent U.S. proxy company and subsidi",
     "published_at": "2025-12-22T09:44:24Z",
-    "updated_at": "2025-12-22T08:40:10.864691Z",
+    "updated_at": "2025-12-22T08:40:10.935041Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -732,26 +772,6 @@
     "detailed_news": ""
   },
   {
-    "id": 34954,
-    "title": "Globalstar Skydio trial validates Band n53 for public safety drone links",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Globalstar_Skydio_trial_validates_Band_n53_for_public_safety_drone_links_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/globalstar-xcom-ran-solution-drone-remote-fly-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nGlobalstar (NASDAQ: GSAT) and Skydio have completed a joint technology trial that demonstrated Skydio X10 drone operations over Globalstar's licensed Band n53 spectrum and the company's XCOM RAN private 5G platform for public safety applications. \n\nThe companies structured the trial to assess Band n53 and XCOM RAN as an alternative to Wi-Fi and public cellular networks for command, control,",
-    "published_at": "2025-12-22T09:44:24Z",
-    "updated_at": "2025-12-22T08:40:10.920125Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 34946,
     "title": "Possible \"superkilonova\" exploded not once but twice",
     "authors": [
@@ -766,6 +786,46 @@
     "summary": "Pasadena CA (SPX) Dec 17, 2025\n\n\nWhen the most massive stars reach the ends of their lives, they blow up in spectacular supernova explosions, which seed the universe with heavy elements such as carbon and iron. Another type of explosion - the kilonova - occurs when a pair of dense dead stars, called neutron stars, smash together, forging even heavier elements such as gold and uranium. Such heavy elements are among the basic bui",
     "published_at": "2025-12-22T09:44:24Z",
     "updated_at": "2025-12-22T08:40:10.827168Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34952,
+    "title": "NASA Langley begins plume surface interaction tests to support future lunar landings",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/NASA_Langley_begins_plume_surface_interaction_tests_to_support_future_lunar_landings_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/firefly-blue-ghost-first-light-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 22, 2025\n\n\nNASA's Langley Research Center has begun a new series of plume surface interaction tests aimed at improving understanding of how rocket exhaust interacts with planetary surfaces during landing and ascent operations, a critical factor for future missions to the Moon and beyond. \n\nWhen spacecraft descend toward the lunar surface, high velocity exhaust plumes from descent engines can erode soil",
+    "published_at": "2025-12-22T09:44:24Z",
+    "updated_at": "2025-12-22T08:40:10.900932Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34947,
+    "title": "Proba-3 mission closes gap in inner solar corona monitoring",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Proba_3_mission_closes_gap_in_inner_solar_corona_monitoring_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/proba-3-satellites-form-artificial-eclipse-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 19, 2025\n\n\nProba-3 has spent its first year in orbit generating more than 50 artificial solar eclipses, giving scientists sustained access to the inner solar corona that previously could only be studied intermittently during brief total eclipses on Earth. The two-satellite ESA mission is designed to supply the missing observations between the solar disc and the well-studied outer corona, and recent data co",
+    "published_at": "2025-12-22T09:44:24Z",
+    "updated_at": "2025-12-22T08:40:10.855497Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -792,20 +852,40 @@
     "detailed_news": ""
   },
   {
-    "id": 34955,
-    "title": "Eutelsat Network Solutions to lead global rollout of Intellian OW7MP manpack SATCOM terminal",
+    "id": 34948,
+    "title": "Clues to the migration path of hot Jupiters in their orbits",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Eutelsat_Network_Solutions_to_lead_global_rollout_of_Intellian_OW7MP_manpack_SATCOM_terminal_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/intellian-ow7mp-manpack-satcom-user-terminal-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Clues_to_the_migration_path_of_hot_Jupiters_in_their_orbits_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-ultra-hot-exoplanet-super-jupiter-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nEutelsat Network Solutions and Intellian Technologies have entered a strategic partnership under which Eutelsat Network Solutions will manage the global launch and availability of Intellian Technologies' OW7MP Manpack satellite communications user terminal on the Eutelsat OneWeb low Earth orbit network. \n\nEutelsat Network Solutions is a wholly owned independent U.S. proxy company and subsidi",
+    "summary": "Tokyo, Japan (SPX) Dec 16, 2025\n\n\nThe first exoplanet discovered in 1995 was a hot Jupiter, a Jupiter mass planet orbiting its star every few days. Today, models indicate that hot Jupiters form far from their stars, similar to Jupiter in the Solar System, and later move inward. Two main migration channels are considered: high-eccentricity migration, in which gravitational perturbations excite the orbit before tidal forces circul",
     "published_at": "2025-12-22T09:44:24Z",
-    "updated_at": "2025-12-22T08:40:10.935041Z",
+    "updated_at": "2025-12-22T08:40:10.864691Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34954,
+    "title": "Globalstar Skydio trial validates Band n53 for public safety drone links",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Globalstar_Skydio_trial_validates_Band_n53_for_public_safety_drone_links_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/globalstar-xcom-ran-solution-drone-remote-fly-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nGlobalstar (NASDAQ: GSAT) and Skydio have completed a joint technology trial that demonstrated Skydio X10 drone operations over Globalstar's licensed Band n53 spectrum and the company's XCOM RAN private 5G platform for public safety applications. \n\nThe companies structured the trial to assess Band n53 and XCOM RAN as an alternative to Wi-Fi and public cellular networks for command, control,",
+    "published_at": "2025-12-22T09:44:24Z",
+    "updated_at": "2025-12-22T08:40:10.920125Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -907,86 +987,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34960,
-    "title": "Year in images 2025",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Year_in_images_2025",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/year_in_images_2025/27012242-1-eng-GB/Year_in_images_2025_card_full.png",
-    "news_site": "ESA",
-    "summary": "Year in images 2025",
-    "published_at": "2025-12-21T11:05:00Z",
-    "updated_at": "2025-12-22T11:10:13.512688Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34941,
-    "title": "Astronauts, launch teams practice Artemis 2 countdown",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2025/12/21/astronauts-launch-teams-practice-artemis-2-countdown/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20251220_Artemis-II_walkout_MC-1.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The run-through simulated day-of-launch activities, included suit up, ingress into the Orion spacecraft and a countdown that stopped just shy of T-0. ",
-    "published_at": "2025-12-21T00:15:32Z",
-    "updated_at": "2025-12-21T00:20:20.797457Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34940,
-    "title": "NASA Meets New Administrator Jared Isaacman",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/nasa-meets-new-administrator-jared-isaacman/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/12/Isaacman-TH-best-Dec-19-25-300x169.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "One day after being sworn in as NASA Administrator, Jared Isaacman held a Town Hall meeting with the NASA workforce to introduce himself and answer questions. He praised President Trump’s […]",
-    "published_at": "2025-12-20T22:47:56Z",
-    "updated_at": "2025-12-20T22:50:18.326526Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34939,
-    "title": "Artemis II Crew Rehearse Launch Day Demonstration",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-rehearse-launch-day-demonstration/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/afrc2025-0189-14.jpg",
-    "news_site": "NASA",
-    "summary": "The four astronauts set to fly around the Moon during NASA’s Artemis II test flight depart the Neil A. Armstrong Operations and Checkout Building at the agency’s Kennedy Space Center in Florida, during a dress rehearsal for launch day on Dec. 20, 2025. From left are CSA (Canadian Space Agency) astronaut Jeremy Hansen NASA astronauts Victor Glover, Reid Wiseman, […]",
-    "published_at": "2025-12-20T20:31:20Z",
-    "updated_at": "2025-12-20T20:40:34.240026Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
