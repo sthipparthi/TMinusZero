@@ -1,5 +1,32 @@
 [
   {
+    "id": 34993,
+    "title": "Indian rocket launches AST SpaceMobile’s next-gen BlueBird-6 satellite",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/indian-rocket-launches-ast-spacemobiles-next-gen-bluebird-6-satellite/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/LMV3-B6-scaled.jpg?fit=1024%2C562&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAn Indian LVM3 rocket launched AST SpaceMobile’s next-generation direct-to-device BlueBird satellite Dec. 23, kicking off a rollout of dozens of spacecraft built around the largest commercial communications antenna ever deployed in LEO.\nThe post Indian rocket launches AST SpaceMobile’s next-gen BlueBird-6 satellite appeared first on SpaceNews.",
+    "published_at": "2025-12-24T04:10:09Z",
+    "updated_at": "2025-12-24T04:11:05.318135Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34992,
     "title": "Flight 12 vehicles readying for 2026 opener",
     "authors": [
@@ -955,38 +982,6 @@
     "updated_at": "2025-12-21T16:10:18.631676Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34942,
-    "title": "Rocket Lab wraps up record launch year",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/rocket-lab-wraps-up-record-launch-year/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/electron-f79.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "Rocket Lab successfully launched a Japanese radar imaging satellite Dec. 21 in the final flight of a record-setting year for the company.\r\nThe post Rocket Lab wraps up record launch year appeared first on SpaceNews.",
-    "published_at": "2025-12-21T14:30:47Z",
-    "updated_at": "2025-12-21T17:06:37.378830Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "1e562a6b-f1eb-4c9c-a074-4172c831ed70",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
