@@ -1,6 +1,6 @@
 {
-  "count": 10,
-  "last_updated": "2025-12-25T00:04:19.622190Z",
+  "count": 9,
+  "last_updated": "2025-12-25T06:01:38.049389Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (10 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
     {
@@ -172,47 +172,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20230907120240.jpeg",
       "infographic": null,
       "url": "https://ll.thespacedevs.com/2.0.0/launch/9d69b85a-940d-4c1a-be75-6449d3b2a836/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
-    {
-      "id": "7650a17a-cc52-4597-bd1a-0951d7389a95",
-      "name": "Ceres-2 | Demo Flight",
-      "status": "Go",
-      "net": "2025-12-27T04:05:00Z",
-      "window_start": "2025-12-27T03:58:00Z",
-      "window_end": "2025-12-27T04:20:00Z",
-      "lsp_name": "Galactic Energy",
-      "lsp_description": "Galactic Energy is a private aerospace company headquartered in Beijing, China. Established by senior engineers in 2018, Galactic Energy engages in low-cost commercial space launch business.",
-      "lsp_type": "Commercial",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_logo_20201106095229.png",
-      "mission_name": "Demo Flight",
-      "mission_description": "First test launch of Galactic Energy’s Ceres-2 rocket.",
-      "mission_type": "Test Flight",
-      "orbit": "Unknown",
-      "launch_site": "Launch Area 95A, Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 95A",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Ceres-2",
-      "rocket_config_description": "",
-      "rocket_config_family": "",
-      "rocket_config_full_name": "Ceres-2",
-      "rocket_config_total_launch_count": 0,
-      "rocket_config_successful_launches": 0,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "Galactic Energy",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Galactic Energy is a private aerospace company headquartered in Beijing, China. Established by senior engineers in 2018, Galactic Energy engages in low-cost commercial space launch business.",
-      "rocket_manufacturer_total_launch_count": 22,
-      "rocket_manufacturer_successful_launches": 20,
-      "rocket_manufacturer_failed_launches": 2,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/7650a17a-cc52-4597-bd1a-0951d7389a95/",
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
@@ -458,7 +417,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 10,
-    "total_launches": 10
+    "empty_summaries": 9,
+    "total_launches": 9
   }
 }
