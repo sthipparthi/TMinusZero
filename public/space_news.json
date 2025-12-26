@@ -1,5 +1,52 @@
 [
   {
+    "id": 35015,
+    "title": "Perseverance continues science mission amid uncertainty about Mars Sample Return",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/perseverance-continues-science-mission-amid-uncertainty-about-mars-sample-return/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/percy-cheyava.jpeg?fit=1024%2C727&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA’s Perseverance Mars rover is continuing its mission to collect samples despite uncertainty about how, when or even if those samples will be returned to Earth.\nThe post Perseverance continues science mission amid uncertainty about Mars Sample Return appeared first on SpaceNews.",
+    "published_at": "2025-12-26T17:27:46Z",
+    "updated_at": "2025-12-26T17:40:24.569434Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35014,
+    "title": "Studying Physics in Microgravity",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/studying-physics-in-microgravity/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/54965896316-5795195a34-o.jpg",
+    "news_site": "NASA",
+    "summary": "In this Oct. 20, 2025, photo, tiny ball bearings surround a larger central bearing during the Fluid Particles experiment, conducted inside the Microgravity Science Glovebox (MSG) aboard the International Space Station’s Destiny laboratory module. A bulk container installed in the MSG, filled with viscous fluid and embedded particles, is subjected to oscillating frequencies to observe […]",
+    "published_at": "2025-12-26T16:27:18Z",
+    "updated_at": "2025-12-26T16:30:06.837277Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 34999,
     "title": "AI systems proposed to boost launch cadence reliability and traffic management",
     "authors": [
@@ -20,180 +67,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35009,
-    "title": "Starlight falls short in giant star wind power",
+    "id": 35003,
+    "title": "NASA team presses MAVEN recovery before Mars solar conjunction",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Starlight_falls_short_in_giant_star_wind_power_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/starlight-around-star-r-doradus-bg.jpg",
+    "url": "https://www.marsdaily.com/reports/NASA_team_presses_MAVEN_recovery_before_Mars_solar_conjunction_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/maven-above-mars-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Gothenburg, Sweden (SPX) Dec 24, 2025\n\n\nAstronomers report that starlight acting on stardust around the red giant star R Doradus cannot by itself power the strong stellar winds that spread key elements for life across the galaxy. \n\nFor decades, models of red giant winds have assumed that radiation pressure on newly formed dust grains is the main driver of mass loss in these evolved stars, which enrich interstellar space with carbo",
+    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nNASA engineers continue attempts to regain contact with the MAVEN Mars orbiter, which last communicated with Earth on Dec. 6. Working with the Deep Space Network, the team is uplinking recovery commands and listening for any signal that would confirm the spacecraft has resumed communications. \n\nSpecialists are processing fragments of tracking data captured on Dec. 6 during a radio science ca",
     "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.711531Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35005,
-    "title": "AST BlueBird 6 enters orbit as record low Earth orbit cellular array",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AST_BlueBird_6_enters_orbit_as_record_low_Earth_orbit_cellular_array_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lvm3-bluebird-6-india-launch-pad-day-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nAST SpaceMobile Inc. has confirmed the successful orbital launch of its BlueBird 6 satellite, described as the largest commercial communications array deployed in low Earth orbit and designed to support space-based cellular broadband services for commercial and government users. \n\nThe mission lifted off at 10:25 p.m. EST on December 23 from the Satish Dhawan Space Centre in Sriharikota, Indi",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.674188Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35004,
-    "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple 'Hazyview'",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Wind_Sculpted_Landscapes_Investigating_the_Martian_Megaripple_Hazyview_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-perseverance-honeyguide-sol-1704-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (SPX) Dec 26, 2025\n\n\nWhile much of Perseverance's work focuses on ancient rocks that record Mars' long-lost rivers and lakes, megaripples offer a rare opportunity to examine processes that are still shaping the surface today. Megaripples are sand ripples up to 2 meters (about 6.5 feet) tall that are mainly built and modified by wind. However, when water in the atmosphere interacts with dust on the ripple surface, a",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.649520Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35007,
-    "title": "When 5G networks bolster satellite navigation",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.gpsdaily.com/reports/When_5G_networks_bolster_satellite_navigation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/integrated-commercial-5g-nr-multi-beam-gnss-satellite-multi-constellation-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nFinding accurate positions in dense urban areas remains difficult for satellite-based navigation systems, where high-rise buildings and signal blockages can cause large errors or complete loss of service. A recent study outlines a deeply integrated positioning method that combines commercial 5G New Radio (NR) signals with Global Navigation Satellite Systems (GNSS) to address these issues. By rei",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.693748Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35010,
-    "title": "SPHEREx completes first full sky infrared map of the cosmos",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/SPHEREx_completes_first_full_sky_infrared_map_of_the_cosmos_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/e1a-spherex-all-sky-stars-gas-dust-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 19, 2025\n\n\nLaunched in March 2025, NASA's SPHEREx space telescope has completed its first infrared map of the entire sky, capturing data in 102 distinct wavelengths that are invisible to human eyes but common throughout the cosmos. \n\nSPHEREx, which stands for Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer, surveys the sky from Earth orbit about 14.5 times p",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.721268Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35006,
-    "title": "Axelspace sets multi launch framework with Exolaunch for AxelLiner mission growth",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Axelspace_sets_multi_launch_framework_with_Exolaunch_for_AxelLiner_mission_growth_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/grus-satellites-axelspace-batch-factory-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nAxelspace Corporation has signed a multi-launch agreement with Exolaunch to support a series of missions using Axelspace microsatellites. The framework covers multiple launches and is intended to secure launch access and mission management for Axelspace programs, including new spacecraft assigned to in-orbit demonstration services. \n\nUnder the agreement, one satellite is scheduled to launch",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.684611Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35002,
-    "title": "Lunar dust model maps how charged grains stick to spacecraft",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lunar-surface-charged-dust-particles-spacecraft-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nResearchers from Beijing Institute of Technology, China Academy of Space Technology, and the Chinese Academy of Sciences have developed a theoretical model that links electrostatic forces and contact mechanics to describe how low-velocity charged lunar dust particles either adhere to or escape from spacecraft surfaces within a surrounding plasma sheath. The work aims to clarify mechanisms that d",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.630413Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35008,
-    "title": "Space ground fluid AI framework targets satellite powered 6G edge intelligence",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Space_ground_fluid_AI_framework_targets_satellite_powered_6G_edge_intelligence_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/space-ground-fluid-ai-6g-communication-satellite-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nThe race toward sixth generation 6G mobile networks is intensifying, with commercial deployment expected around 2030. The International Telecommunication Union ITU expects 6G systems to support scenarios such as integrated artificial intelligence and communication and ubiquitous connectivity. In this context, a recent article in the journal Engineering titled Space-Ground Fluid AI for 6G Edge In",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.702853Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35011,
-    "title": "CoDICE instrument returns first-light particle data for IMAP mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/CoDICE_instrument_returns_first_light_particle_data_for_IMAP_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/codice-first-light-data-swri-imap-solar-wind-charged-particles-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nDecember 16, 2025 - Southwest Research Institute's Compact Dual Ion Composition Experiment (CoDICE) instrument aboard NASA's Interstellar Mapping and Acceleration Probe (IMAP) spacecraft has begun returning first-light particle measurements. IMAP launched in September to help researchers better understand the boundary of the heliosphere, the magnetic bubble that surrounds and protects our solar",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.732813Z",
+    "updated_at": "2025-12-26T04:30:11.640166Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -220,20 +107,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35012,
-    "title": "Webb maps carbon rich atmosphere on distorted pulsar planet",
+    "id": 35008,
+    "title": "Space ground fluid AI framework targets satellite powered 6G edge intelligence",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Webb_maps_carbon_rich_atmosphere_on_distorted_pulsar_planet_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/extrasola-pulsar-star-exoplanet-psr-j2322-2650b-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Space_ground_fluid_AI_framework_targets_satellite_powered_6G_edge_intelligence_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/space-ground-fluid-ai-6g-communication-satellite-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 17, 2025\n\n\nScientists using NASA's James Webb Space Telescope have identified an exoplanet with an atmosphere unlike any seen before, orbiting a rapidly spinning neutron star known as a pulsar. The object, officially designated PSR J2322-2650b, has a mass comparable to Jupiter but is stretched into a lemon-like shape by the strong gravitational pull of its compact host star. Its atmosphere appears dominate",
+    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nThe race toward sixth generation 6G mobile networks is intensifying, with commercial deployment expected around 2030. The International Telecommunication Union ITU expects 6G systems to support scenarios such as integrated artificial intelligence and communication and ubiquitous connectivity. In this context, a recent article in the journal Engineering titled Space-Ground Fluid AI for 6G Edge In",
     "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.744464Z",
+    "updated_at": "2025-12-26T04:30:11.702853Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35004,
+    "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple 'Hazyview'",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.marsdaily.com/reports/Wind_Sculpted_Landscapes_Investigating_the_Martian_Megaripple_Hazyview_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mars-perseverance-honeyguide-sol-1704-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Pasadena CA (SPX) Dec 26, 2025\n\n\nWhile much of Perseverance's work focuses on ancient rocks that record Mars' long-lost rivers and lakes, megaripples offer a rare opportunity to examine processes that are still shaping the surface today. Megaripples are sand ripples up to 2 meters (about 6.5 feet) tall that are mainly built and modified by wind. However, when water in the atmosphere interacts with dust on the ripple surface, a",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.649520Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -260,6 +167,146 @@
     "detailed_news": ""
   },
   {
+    "id": 35006,
+    "title": "Axelspace sets multi launch framework with Exolaunch for AxelLiner mission growth",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Axelspace_sets_multi_launch_framework_with_Exolaunch_for_AxelLiner_mission_growth_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/grus-satellites-axelspace-batch-factory-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nAxelspace Corporation has signed a multi-launch agreement with Exolaunch to support a series of missions using Axelspace microsatellites. The framework covers multiple launches and is intended to secure launch access and mission management for Axelspace programs, including new spacecraft assigned to in-orbit demonstration services. \n\nUnder the agreement, one satellite is scheduled to launch",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.684611Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35005,
+    "title": "AST BlueBird 6 enters orbit as record low Earth orbit cellular array",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/AST_BlueBird_6_enters_orbit_as_record_low_Earth_orbit_cellular_array_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/lvm3-bluebird-6-india-launch-pad-day-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nAST SpaceMobile Inc. has confirmed the successful orbital launch of its BlueBird 6 satellite, described as the largest commercial communications array deployed in low Earth orbit and designed to support space-based cellular broadband services for commercial and government users. \n\nThe mission lifted off at 10:25 p.m. EST on December 23 from the Satish Dhawan Space Centre in Sriharikota, Indi",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.674188Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35009,
+    "title": "Starlight falls short in giant star wind power",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Starlight_falls_short_in_giant_star_wind_power_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/starlight-around-star-r-doradus-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Gothenburg, Sweden (SPX) Dec 24, 2025\n\n\nAstronomers report that starlight acting on stardust around the red giant star R Doradus cannot by itself power the strong stellar winds that spread key elements for life across the galaxy. \n\nFor decades, models of red giant winds have assumed that radiation pressure on newly formed dust grains is the main driver of mass loss in these evolved stars, which enrich interstellar space with carbo",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.711531Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35012,
+    "title": "Webb maps carbon rich atmosphere on distorted pulsar planet",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Webb_maps_carbon_rich_atmosphere_on_distorted_pulsar_planet_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/extrasola-pulsar-star-exoplanet-psr-j2322-2650b-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 17, 2025\n\n\nScientists using NASA's James Webb Space Telescope have identified an exoplanet with an atmosphere unlike any seen before, orbiting a rapidly spinning neutron star known as a pulsar. The object, officially designated PSR J2322-2650b, has a mass comparable to Jupiter but is stretched into a lemon-like shape by the strong gravitational pull of its compact host star. Its atmosphere appears dominate",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.744464Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35010,
+    "title": "SPHEREx completes first full sky infrared map of the cosmos",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/SPHEREx_completes_first_full_sky_infrared_map_of_the_cosmos_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/e1a-spherex-all-sky-stars-gas-dust-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 19, 2025\n\n\nLaunched in March 2025, NASA's SPHEREx space telescope has completed its first infrared map of the entire sky, capturing data in 102 distinct wavelengths that are invisible to human eyes but common throughout the cosmos. \n\nSPHEREx, which stands for Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer, surveys the sky from Earth orbit about 14.5 times p",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.721268Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35002,
+    "title": "Lunar dust model maps how charged grains stick to spacecraft",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/lunar-surface-charged-dust-particles-spacecraft-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nResearchers from Beijing Institute of Technology, China Academy of Space Technology, and the Chinese Academy of Sciences have developed a theoretical model that links electrostatic forces and contact mechanics to describe how low-velocity charged lunar dust particles either adhere to or escape from spacecraft surfaces within a surrounding plasma sheath. The work aims to clarify mechanisms that d",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.630413Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35011,
+    "title": "CoDICE instrument returns first-light particle data for IMAP mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/CoDICE_instrument_returns_first_light_particle_data_for_IMAP_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/codice-first-light-data-swri-imap-solar-wind-charged-particles-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nDecember 16, 2025 - Southwest Research Institute's Compact Dual Ion Composition Experiment (CoDICE) instrument aboard NASA's Interstellar Mapping and Acceleration Probe (IMAP) spacecraft has begun returning first-light particle measurements. IMAP launched in September to help researchers better understand the boundary of the heliosphere, the magnetic bubble that surrounds and protects our solar",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.732813Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35001,
     "title": "Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun",
     "authors": [
@@ -280,20 +327,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35003,
-    "title": "NASA team presses MAVEN recovery before Mars solar conjunction",
+    "id": 35007,
+    "title": "When 5G networks bolster satellite navigation",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.marsdaily.com/reports/NASA_team_presses_MAVEN_recovery_before_Mars_solar_conjunction_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/maven-above-mars-bg.jpg",
+    "url": "https://www.gpsdaily.com/reports/When_5G_networks_bolster_satellite_navigation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/integrated-commercial-5g-nr-multi-beam-gnss-satellite-multi-constellation-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nNASA engineers continue attempts to regain contact with the MAVEN Mars orbiter, which last communicated with Earth on Dec. 6. Working with the Deep Space Network, the team is uplinking recovery commands and listening for any signal that would confirm the spacecraft has resumed communications. \n\nSpecialists are processing fragments of tracking data captured on Dec. 6 during a radio science ca",
+    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nFinding accurate positions in dense urban areas remains difficult for satellite-based navigation systems, where high-rise buildings and signal blockages can cause large errors or complete loss of service. A recent study outlines a deeply integrated positioning method that combines commercial 5G New Radio (NR) signals with Global Navigation Satellite Systems (GNSS) to address these issues. By rei",
     "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.640166Z",
+    "updated_at": "2025-12-26T04:30:11.693748Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -940,46 +987,6 @@
     "summary": "NASA’s James Webb Space Telescope captured two nearby dwarf galaxies interacting with each other in this image released on Dec. 2, 2025. Dwarf galaxies can give us insights into galaxies in the early universe, which were thought to have less mass than galaxies like the Milky Way, and also contain a lot of gas, relatively […]",
     "published_at": "2025-12-22T16:26:49Z",
     "updated_at": "2025-12-23T05:53:33.482172Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34969,
-    "title": "NASA Armstrong Advances Flight Research and Innovation in 2025",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-armstrong-advances-flight-research-and-innovation-in-2025/",
-    "image_url": "https://images-assets.nasa.gov/image/AFRC2025-0065-14/AFRC2025-0065-14~large.jpg",
-    "news_site": "NASA",
-    "summary": "In 2025, NASA’s Armstrong Flight Research Center in Edwards, California, advanced work across aeronautics, Earth science, exploration technologies, and emerging aviation systems, reinforcing its role as one of the agency’s primary test sites for aeronautics research. From early concept evaluations to full flight test campaigns, teams enhanced measurement tools, refined safety systems, and generated data […]",
-    "published_at": "2025-12-22T16:20:25Z",
-    "updated_at": "2025-12-23T05:53:33.492274Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34981,
-    "title": "Microgravity Research Rideshare Program Launched by Genesis, Experiments from €6K to and from SSO",
-    "authors": [
-      {
-        "name": "Genesis Space Flight Laboratories",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/microgravity-research-rideshare-program-launched-by-genesis-experiments-from-e6k-to-and-from-sso/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Genesis-Black.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\n21 December 2025, Čakovec — Genesis Space Flight Laboratories launches its Microgravity Research Rideshare Program, making it easier and more affordable to conduct retrievable experiments in space. From now on, […]\nThe post Microgravity Research Rideshare Program Launched by Genesis, Experiments from €6K to and from SSO appeared first on SpaceNews.",
-    "published_at": "2025-12-22T15:40:53Z",
-    "updated_at": "2025-12-23T05:53:49.821510Z",
     "featured": false,
     "launches": [],
     "events": [],
