@@ -1,5 +1,72 @@
 [
   {
+    "id": 35018,
+    "title": "Former ULA president and CEO Tory Bruno joins Blue Origin",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/12/20241218_Bruno_SFA_Spacepower-678x382.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Bruno’s resignation from United Launch Alliance was announced just four days ago on Dec. 22. He led that company for nearly 12 years. ",
+    "published_at": "2025-12-26T22:44:05Z",
+    "updated_at": "2025-12-26T22:50:18.320188Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35017,
+    "title": "Former ULA chief Bruno joins Blue Origin",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/former-ula-chief-bruno-joins-blue-origin/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/53704702712_8472623803_k.jpg?fit=1024%2C691&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nTory Bruno, who recently stepped down as chief executive of United Launch Alliance, is joining Blue Origin as head of the company’s new national security business unit.\nThe post Former ULA chief Bruno joins Blue Origin appeared first on SpaceNews.",
+    "published_at": "2025-12-26T20:35:56Z",
+    "updated_at": "2025-12-26T20:50:22.027817Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35016,
+    "title": "Tory Bruno Joins Blue Origin",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/tory-bruno-joins-blue-origin/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2024/06/Bruno-June-1-24-CFT-presser-300x178.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Blue Origin announced today that Tory Bruno is joining them as head of their new National Security Group.  Until Monday, Bruno was the President and CEO of United Launch Alliance […]",
+    "published_at": "2025-12-26T19:27:43Z",
+    "updated_at": "2025-12-26T19:30:16.421348Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35015,
     "title": "Perseverance continues science mission amid uncertainty about Mars Sample Return",
     "authors": [
@@ -47,180 +114,20 @@
     "detailed_news": ""
   },
   {
-    "id": 34999,
-    "title": "AI systems proposed to boost launch cadence reliability and traffic management",
+    "id": 35011,
+    "title": "CoDICE instrument returns first-light particle data for IMAP mission",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/AI_systems_proposed_to_boost_launch_cadence_reliability_and_traffic_management_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rocket-science-launch-system-reuseable-ai-splash-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/CoDICE_instrument_returns_first_light_particle_data_for_IMAP_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/codice-first-light-data-swri-imap-solar-wind-charged-particles-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nThe global space sector is entering a phase of large-scale satellite constellations and expanded human lunar activity, driving a sharp increase in demand for access to orbit. Within the next two decades, the total mass launched to space is expected to reach several hundred thousand tons, with annual launch counts projected in the tens of thousands and continuing to grow. Launch providers therefo",
+    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nDecember 16, 2025 - Southwest Research Institute's Compact Dual Ion Composition Experiment (CoDICE) instrument aboard NASA's Interstellar Mapping and Acceleration Probe (IMAP) spacecraft has begun returning first-light particle measurements. IMAP launched in September to help researchers better understand the boundary of the heliosphere, the magnetic bubble that surrounds and protects our solar",
     "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.593367Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35003,
-    "title": "NASA team presses MAVEN recovery before Mars solar conjunction",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/NASA_team_presses_MAVEN_recovery_before_Mars_solar_conjunction_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/maven-above-mars-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nNASA engineers continue attempts to regain contact with the MAVEN Mars orbiter, which last communicated with Earth on Dec. 6. Working with the Deep Space Network, the team is uplinking recovery commands and listening for any signal that would confirm the spacecraft has resumed communications. \n\nSpecialists are processing fragments of tracking data captured on Dec. 6 during a radio science ca",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.640166Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35000,
-    "title": "China debuts Long March 12A reusable rocket in Jiuquan test flight",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/China_debuts_Long_March_12A_reusable_rocket_in_Jiuquan_test_flight_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-long-march-12a-debut-launch-day-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nChina conducted the debut flight of the Long March 12A carrier rocket on Tuesday, with the launch mission succeeding while the recovery attempt ended in failure. \n\nA 70.4-meter-high Long March 12A, the tallest space vehicle China has ever built, blasted off at 10 am from a newly constructed service tower at the Jiuquan Satellite Launch Center in the Inner Mongolia autonomous region. \n\nAf",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.608745Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35008,
-    "title": "Space ground fluid AI framework targets satellite powered 6G edge intelligence",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Space_ground_fluid_AI_framework_targets_satellite_powered_6G_edge_intelligence_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/space-ground-fluid-ai-6g-communication-satellite-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nThe race toward sixth generation 6G mobile networks is intensifying, with commercial deployment expected around 2030. The International Telecommunication Union ITU expects 6G systems to support scenarios such as integrated artificial intelligence and communication and ubiquitous connectivity. In this context, a recent article in the journal Engineering titled Space-Ground Fluid AI for 6G Edge In",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.702853Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35004,
-    "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple 'Hazyview'",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Wind_Sculpted_Landscapes_Investigating_the_Martian_Megaripple_Hazyview_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-perseverance-honeyguide-sol-1704-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (SPX) Dec 26, 2025\n\n\nWhile much of Perseverance's work focuses on ancient rocks that record Mars' long-lost rivers and lakes, megaripples offer a rare opportunity to examine processes that are still shaping the surface today. Megaripples are sand ripples up to 2 meters (about 6.5 feet) tall that are mainly built and modified by wind. However, when water in the atmosphere interacts with dust on the ripple surface, a",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.649520Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35013,
-    "title": "Hubble pinpoints asteroid smash ups in nearby Fomalhaut system",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hubble_pinpoints_asteroid_smash_ups_in_nearby_Fomalhaut_system_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-hubble-fomalhaut-cs1-asteroids-colliding-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 19, 2025\n\n\nIn a historical milestone, catastrophic collisions in a nearby planetary system were witnessed for the first time by astronomers using the NASA/ESA Hubble Space Telescope. As they observed the bright star Fomalhaut, the scientists saw the impact of massive objects around the star. The Fomalhaut system appears to be in a dynamical upheaval, similar to what our solar system experienced in its firs",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.755072Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35006,
-    "title": "Axelspace sets multi launch framework with Exolaunch for AxelLiner mission growth",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Axelspace_sets_multi_launch_framework_with_Exolaunch_for_AxelLiner_mission_growth_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/grus-satellites-axelspace-batch-factory-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nAxelspace Corporation has signed a multi-launch agreement with Exolaunch to support a series of missions using Axelspace microsatellites. The framework covers multiple launches and is intended to secure launch access and mission management for Axelspace programs, including new spacecraft assigned to in-orbit demonstration services. \n\nUnder the agreement, one satellite is scheduled to launch",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.684611Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35005,
-    "title": "AST BlueBird 6 enters orbit as record low Earth orbit cellular array",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AST_BlueBird_6_enters_orbit_as_record_low_Earth_orbit_cellular_array_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lvm3-bluebird-6-india-launch-pad-day-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nAST SpaceMobile Inc. has confirmed the successful orbital launch of its BlueBird 6 satellite, described as the largest commercial communications array deployed in low Earth orbit and designed to support space-based cellular broadband services for commercial and government users. \n\nThe mission lifted off at 10:25 p.m. EST on December 23 from the Satish Dhawan Space Centre in Sriharikota, Indi",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.674188Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35009,
-    "title": "Starlight falls short in giant star wind power",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Starlight_falls_short_in_giant_star_wind_power_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/starlight-around-star-r-doradus-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Gothenburg, Sweden (SPX) Dec 24, 2025\n\n\nAstronomers report that starlight acting on stardust around the red giant star R Doradus cannot by itself power the strong stellar winds that spread key elements for life across the galaxy. \n\nFor decades, models of red giant winds have assumed that radiation pressure on newly formed dust grains is the main driver of mass loss in these evolved stars, which enrich interstellar space with carbo",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.711531Z",
+    "updated_at": "2025-12-26T04:30:11.732813Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -247,20 +154,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35010,
-    "title": "SPHEREx completes first full sky infrared map of the cosmos",
+    "id": 35007,
+    "title": "When 5G networks bolster satellite navigation",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/SPHEREx_completes_first_full_sky_infrared_map_of_the_cosmos_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/e1a-spherex-all-sky-stars-gas-dust-bg.jpg",
+    "url": "https://www.gpsdaily.com/reports/When_5G_networks_bolster_satellite_navigation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/integrated-commercial-5g-nr-multi-beam-gnss-satellite-multi-constellation-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 19, 2025\n\n\nLaunched in March 2025, NASA's SPHEREx space telescope has completed its first infrared map of the entire sky, capturing data in 102 distinct wavelengths that are invisible to human eyes but common throughout the cosmos. \n\nSPHEREx, which stands for Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer, surveys the sky from Earth orbit about 14.5 times p",
+    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nFinding accurate positions in dense urban areas remains difficult for satellite-based navigation systems, where high-rise buildings and signal blockages can cause large errors or complete loss of service. A recent study outlines a deeply integrated positioning method that combines commercial 5G New Radio (NR) signals with Global Navigation Satellite Systems (GNSS) to address these issues. By rei",
     "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.721268Z",
+    "updated_at": "2025-12-26T04:30:11.693748Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -287,20 +194,120 @@
     "detailed_news": ""
   },
   {
-    "id": 35011,
-    "title": "CoDICE instrument returns first-light particle data for IMAP mission",
+    "id": 35006,
+    "title": "Axelspace sets multi launch framework with Exolaunch for AxelLiner mission growth",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/CoDICE_instrument_returns_first_light_particle_data_for_IMAP_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/codice-first-light-data-swri-imap-solar-wind-charged-particles-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Axelspace_sets_multi_launch_framework_with_Exolaunch_for_AxelLiner_mission_growth_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/grus-satellites-axelspace-batch-factory-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nDecember 16, 2025 - Southwest Research Institute's Compact Dual Ion Composition Experiment (CoDICE) instrument aboard NASA's Interstellar Mapping and Acceleration Probe (IMAP) spacecraft has begun returning first-light particle measurements. IMAP launched in September to help researchers better understand the boundary of the heliosphere, the magnetic bubble that surrounds and protects our solar",
+    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nAxelspace Corporation has signed a multi-launch agreement with Exolaunch to support a series of missions using Axelspace microsatellites. The framework covers multiple launches and is intended to secure launch access and mission management for Axelspace programs, including new spacecraft assigned to in-orbit demonstration services. \n\nUnder the agreement, one satellite is scheduled to launch",
     "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.732813Z",
+    "updated_at": "2025-12-26T04:30:11.684611Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 34999,
+    "title": "AI systems proposed to boost launch cadence reliability and traffic management",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/AI_systems_proposed_to_boost_launch_cadence_reliability_and_traffic_management_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rocket-science-launch-system-reuseable-ai-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nThe global space sector is entering a phase of large-scale satellite constellations and expanded human lunar activity, driving a sharp increase in demand for access to orbit. Within the next two decades, the total mass launched to space is expected to reach several hundred thousand tons, with annual launch counts projected in the tens of thousands and continuing to grow. Launch providers therefo",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.593367Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35010,
+    "title": "SPHEREx completes first full sky infrared map of the cosmos",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/SPHEREx_completes_first_full_sky_infrared_map_of_the_cosmos_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/e1a-spherex-all-sky-stars-gas-dust-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 19, 2025\n\n\nLaunched in March 2025, NASA's SPHEREx space telescope has completed its first infrared map of the entire sky, capturing data in 102 distinct wavelengths that are invisible to human eyes but common throughout the cosmos. \n\nSPHEREx, which stands for Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer, surveys the sky from Earth orbit about 14.5 times p",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.721268Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35003,
+    "title": "NASA team presses MAVEN recovery before Mars solar conjunction",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.marsdaily.com/reports/NASA_team_presses_MAVEN_recovery_before_Mars_solar_conjunction_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/maven-above-mars-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nNASA engineers continue attempts to regain contact with the MAVEN Mars orbiter, which last communicated with Earth on Dec. 6. Working with the Deep Space Network, the team is uplinking recovery commands and listening for any signal that would confirm the spacecraft has resumed communications. \n\nSpecialists are processing fragments of tracking data captured on Dec. 6 during a radio science ca",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.640166Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35009,
+    "title": "Starlight falls short in giant star wind power",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Starlight_falls_short_in_giant_star_wind_power_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/starlight-around-star-r-doradus-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Gothenburg, Sweden (SPX) Dec 24, 2025\n\n\nAstronomers report that starlight acting on stardust around the red giant star R Doradus cannot by itself power the strong stellar winds that spread key elements for life across the galaxy. \n\nFor decades, models of red giant winds have assumed that radiation pressure on newly formed dust grains is the main driver of mass loss in these evolved stars, which enrich interstellar space with carbo",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.711531Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35013,
+    "title": "Hubble pinpoints asteroid smash ups in nearby Fomalhaut system",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hubble_pinpoints_asteroid_smash_ups_in_nearby_Fomalhaut_system_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-hubble-fomalhaut-cs1-asteroids-colliding-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 19, 2025\n\n\nIn a historical milestone, catastrophic collisions in a nearby planetary system were witnessed for the first time by astronomers using the NASA/ESA Hubble Space Telescope. As they observed the bright star Fomalhaut, the scientists saw the impact of massive objects around the star. The Fomalhaut system appears to be in a dynamical upheaval, similar to what our solar system experienced in its firs",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.755072Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -327,20 +334,80 @@
     "detailed_news": ""
   },
   {
-    "id": 35007,
-    "title": "When 5G networks bolster satellite navigation",
+    "id": 35005,
+    "title": "AST BlueBird 6 enters orbit as record low Earth orbit cellular array",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.gpsdaily.com/reports/When_5G_networks_bolster_satellite_navigation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/integrated-commercial-5g-nr-multi-beam-gnss-satellite-multi-constellation-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/AST_BlueBird_6_enters_orbit_as_record_low_Earth_orbit_cellular_array_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/lvm3-bluebird-6-india-launch-pad-day-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nFinding accurate positions in dense urban areas remains difficult for satellite-based navigation systems, where high-rise buildings and signal blockages can cause large errors or complete loss of service. A recent study outlines a deeply integrated positioning method that combines commercial 5G New Radio (NR) signals with Global Navigation Satellite Systems (GNSS) to address these issues. By rei",
+    "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nAST SpaceMobile Inc. has confirmed the successful orbital launch of its BlueBird 6 satellite, described as the largest commercial communications array deployed in low Earth orbit and designed to support space-based cellular broadband services for commercial and government users. \n\nThe mission lifted off at 10:25 p.m. EST on December 23 from the Satish Dhawan Space Centre in Sriharikota, Indi",
     "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.693748Z",
+    "updated_at": "2025-12-26T04:30:11.674188Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35000,
+    "title": "China debuts Long March 12A reusable rocket in Jiuquan test flight",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/China_debuts_Long_March_12A_reusable_rocket_in_Jiuquan_test_flight_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-long-march-12a-debut-launch-day-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nChina conducted the debut flight of the Long March 12A carrier rocket on Tuesday, with the launch mission succeeding while the recovery attempt ended in failure. \n\nA 70.4-meter-high Long March 12A, the tallest space vehicle China has ever built, blasted off at 10 am from a newly constructed service tower at the Jiuquan Satellite Launch Center in the Inner Mongolia autonomous region. \n\nAf",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.608745Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35004,
+    "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple 'Hazyview'",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.marsdaily.com/reports/Wind_Sculpted_Landscapes_Investigating_the_Martian_Megaripple_Hazyview_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mars-perseverance-honeyguide-sol-1704-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Pasadena CA (SPX) Dec 26, 2025\n\n\nWhile much of Perseverance's work focuses on ancient rocks that record Mars' long-lost rivers and lakes, megaripples offer a rare opportunity to examine processes that are still shaping the surface today. Megaripples are sand ripples up to 2 meters (about 6.5 feet) tall that are mainly built and modified by wind. However, when water in the atmosphere interacts with dust on the ripple surface, a",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.649520Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35008,
+    "title": "Space ground fluid AI framework targets satellite powered 6G edge intelligence",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Space_ground_fluid_AI_framework_targets_satellite_powered_6G_edge_intelligence_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/space-ground-fluid-ai-6g-communication-satellite-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nThe race toward sixth generation 6G mobile networks is intensifying, with commercial deployment expected around 2030. The International Telecommunication Union ITU expects 6G systems to support scenarios such as integrated artificial intelligence and communication and ubiquitous connectivity. In this context, a recent article in the journal Engineering titled Space-Ground Fluid AI for 6G Edge In",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.702853Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -920,73 +987,6 @@
     "summary": "\nDeal deepens contractor’s push into space-based sensing and optical communications. \nThe post CACI to buy space technology firm ARKA for $2.6 billion appeared first on SpaceNews.",
     "published_at": "2025-12-22T19:00:00Z",
     "updated_at": "2025-12-23T05:53:49.787820Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34967,
-    "title": "NASA Kennedy Top 20 Stories of 2025",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-20-stories-of-2025/",
-    "image_url": "https://images-assets.nasa.gov/image/KSC-20251020-PH-KLS01_0047/KSC-20251020-PH-KLS01_0047~large.jpg",
-    "news_site": "NASA",
-    "summary": "Teams at NASA’s Kennedy Space Center in Florida spent 2025 preparing the launch vehicle and its powerhouse SLS (Space Launch System) rocket to launch four astronauts around the Moon for Artemis II in early 2026. The center also celebrated milestones by conducting science experiments at the International Space Station to studying the Sun’s solar wind […]",
-    "published_at": "2025-12-22T17:55:58Z",
-    "updated_at": "2025-12-23T05:53:33.472229Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34980,
-    "title": "United Launch Alliance chief Tory Bruno resigns",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ula-ceo-bruno-resigns/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/bruno-spacecom.jpg?fit=1024%2C757&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nTory Bruno, the longtime chief executive of United Launch Alliance, is leaving the joint venture for another opportunity.\nThe post United Launch Alliance chief Tory Bruno resigns appeared first on SpaceNews.",
-    "published_at": "2025-12-22T17:52:54Z",
-    "updated_at": "2025-12-23T05:53:49.805245Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34968,
-    "title": "A Dance of Galaxies",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/a-dance-of-galaxies/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/54960149350-2d46fe0a36-o.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s James Webb Space Telescope captured two nearby dwarf galaxies interacting with each other in this image released on Dec. 2, 2025. Dwarf galaxies can give us insights into galaxies in the early universe, which were thought to have less mass than galaxies like the Milky Way, and also contain a lot of gas, relatively […]",
-    "published_at": "2025-12-22T16:26:49Z",
-    "updated_at": "2025-12-23T05:53:33.482172Z",
     "featured": false,
     "launches": [],
     "events": [],
