@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2025-12-27T18:01:38.310591Z",
+  "count": 7,
+  "last_updated": "2025-12-28T00:04:35.984804Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (7 failed/unavailable)"
   ],
   "launches": [
     {
@@ -98,47 +98,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
       "infographic": null,
       "url": "https://ll.thespacedevs.com/2.0.0/launch/43cfdc96-8481-446f-ace5-ddc5ed60fb14/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
-    {
-      "id": "b7c38b80-6ce7-4ab0-8010-19ee11e26fc5",
-      "name": "Smart Dragon 3 | Unknown Payload",
-      "status": "Go",
-      "net": "2025-12-26T06:30:00Z",
-      "window_start": "2025-12-26T06:26:00Z",
-      "window_end": "2025-12-26T06:47:00Z",
-      "lsp_name": "China Rocket Co. Ltd.",
-      "lsp_description": "China Rocket Co. Ltd. is a spinoff of China’s state-owned launch vehicle manufacturer using a “commercial business model”.",
-      "lsp_type": "Commercial",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520rocket2520co.2520ltd._logo_20221001084159.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Possibly an Earth observation satellite for the Pakistan government's SUPARCO, details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Oriental Spaceport mobile launch ship, Haiyang Oriental Spaceport",
-      "pad": "Oriental Spaceport mobile launch ship",
-      "location": "Haiyang Oriental Spaceport",
-      "rocket": "Smart Dragon 3",
-      "rocket_config_description": "Smart Dragon-3 is a solid fuel orbital rocket designed by a subsidiary of the state-owned CASC group built for the commercial market.",
-      "rocket_config_family": "Smart Dragon",
-      "rocket_config_full_name": "Smart Dragon 3",
-      "rocket_config_total_launch_count": 8,
-      "rocket_config_successful_launches": 8,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Rocket Co. Ltd.",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "China Rocket Co. Ltd. is a spinoff of China’s state-owned launch vehicle manufacturer using a “commercial business model”.",
-      "rocket_manufacturer_total_launch_count": 9,
-      "rocket_manufacturer_successful_launches": 9,
-      "rocket_manufacturer_failed_launches": 0,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/b7c38b80-6ce7-4ab0-8010-19ee11e26fc5/",
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
@@ -376,7 +335,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 7,
+    "total_launches": 7
   }
 }
