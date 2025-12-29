@@ -1,5 +1,112 @@
 [
   {
+    "id": 35032,
+    "title": "NASA to Preview US Spacewalks at Space Station in January",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-to-preview-us-spacewalks-at-space-station-in-january/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/spacewalk.jpg",
+    "news_site": "NASA",
+    "summary": "NASA astronauts will conduct a pair of spacewalks in January outside of the International Space Station to prepare for the installation of a roll-out solar array and complete other tasks. Experts from NASA will preview the spacewalks in a briefing at 2 p.m. EST Tuesday, Jan. 6, at NASA’s Johnson Space Center in Houston. Watch […]",
+    "published_at": "2025-12-29T17:19:11Z",
+    "updated_at": "2025-12-29T17:20:06.187181Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35031,
+    "title": "A Galactic Embrace",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/a-galactic-embrace/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/54957843876-a1382275cd-o.jpg",
+    "news_site": "NASA",
+    "summary": "Mid-infrared data from NASA’s James Webb Space Telescope (in white, gray, and red) and X-ray data from NASA’s Chandra X-ray Observatory (in blue) come together in this photo of colliding spiral galaxies released on Dec. 1, 2025. The pair grazed one another millions of years ago; billions of years in the future, they will merge […]",
+    "published_at": "2025-12-29T16:43:24Z",
+    "updated_at": "2025-12-29T16:50:09.334623Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35030,
+    "title": "Proposal to dismantle NCAR would have space science impacts",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/proposal-to-dismantle-ncar-would-have-space-science-impacts/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/ncar.jpeg?fit=926%2C617&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA proposal by the Trump administration to dismantle a leading atmospheric science center would also have implications for space science.\nThe post Proposal to dismantle NCAR would have space science impacts appeared first on SpaceNews.",
+    "published_at": "2025-12-29T15:05:24Z",
+    "updated_at": "2025-12-29T15:10:21.738233Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35029,
+    "title": "I Am Artemis: Jen Madsen and Trey Perryman",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jen-madsen-and-trey-perryman/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/10/9-19-25-mer-trey-jen2.jpg",
+    "news_site": "NASA",
+    "summary": "Listen to this audio excerpt from Jen Madsen and Trey Perryman, leads of the Orion Mission Evaluation Room for the Artemis II mission: During NASA’s Artemis II mission, Jen Madsen and Trey Perryman will be leading a team monitoring the Orion spacecraft as it carries four astronauts around the Moon. The team works in the […]",
+    "published_at": "2025-12-29T14:00:00Z",
+    "updated_at": "2025-12-29T14:01:46.044298Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35028,
+    "title": "China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-hits-90-launches-as-guowang-deployment-continues-fengyun-4c-heads-to-geo/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/CZ8A-Guowang-Group17-HCLC-25dec2025-CASC-1.jpg?fit=1024%2C603&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChina reached 90 orbital launches in 2025 with consecutive Long March missions deploying Guowang megaconstellation satellites and the advanced Fengyun-4C weather spacecraft.\nThe post China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO appeared first on SpaceNews.",
+    "published_at": "2025-12-29T12:12:54Z",
+    "updated_at": "2025-12-29T12:20:24.833633Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35027,
     "title": "ESA Cancels Call to Procure Commercial Cargo Services to the ISS",
     "authors": [
@@ -14,26 +121,6 @@
     "summary": "The European Space Agency has cancelled a call for proposals to procure commercial cargo transportation services to the International Space Station (ISS). The services were intended to help the agency meet its obligations under the station’s Common System Operations Costs (CSOC) framework, which defines the shared responsibility of ISS partners to contribute to the station’s […]\nThe post ESA Cancels Call to Procure Commercial Cargo Services to the ISS appeared first on European Spaceflight.",
     "published_at": "2025-12-29T06:00:05Z",
     "updated_at": "2025-12-29T06:00:15.589739Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35025,
-    "title": "Japan's flagship H3 rocket fails to launch satellite",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Japans_flagship_H3_rocket_fails_to_launch_satellite_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/japan-jaxa-h3-clear-the-tower-day-launch-fail-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo (AFP) Dec 22, 2025\n\n\n Japan's flagship H3 rocket failed to launch a geolocation satellite into orbit on Monday due to engine failure, the country's space agency said. \n\nThe second-stage engine \"terminated prematurely\" after the rocket blasted off at 10:51 am (0151 GMT) from the Tanegashima space centre in southern Japan, according to the Japan Aerospace Exploration Agency (JAXA). \n\nIt could not release into orbit",
-    "published_at": "2025-12-29T05:24:23Z",
-    "updated_at": "2025-12-29T04:20:21.140070Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -74,6 +161,26 @@
     "summary": "London, UK (SPX) Dec 18, 2025\n\n\nResearchers at the University of the Witwatersrand in South Africa, working with Huzhou University in China, have shown that a standard source of entangled photons used in quantum optics carries a rich set of hidden topological structures in high dimensions. They report entanglement across 48 dimensions with more than 17 000 distinct topological signatures, providing a large alphabet for encodin",
     "published_at": "2025-12-29T05:24:23Z",
     "updated_at": "2025-12-29T04:20:21.109492Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35025,
+    "title": "Japan's flagship H3 rocket fails to launch satellite",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Japans_flagship_H3_rocket_fails_to_launch_satellite_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/japan-jaxa-h3-clear-the-tower-day-launch-fail-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo (AFP) Dec 22, 2025\n\n\n Japan's flagship H3 rocket failed to launch a geolocation satellite into orbit on Monday due to engine failure, the country's space agency said. \n\nThe second-stage engine \"terminated prematurely\" after the rocket blasted off at 10:51 am (0151 GMT) from the Tanegashima space centre in southern Japan, according to the Japan Aerospace Exploration Agency (JAXA). \n\nIt could not release into orbit",
+    "published_at": "2025-12-29T05:24:23Z",
+    "updated_at": "2025-12-29T04:20:21.140070Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -354,6 +461,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35004,
+    "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple 'Hazyview'",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.marsdaily.com/reports/Wind_Sculpted_Landscapes_Investigating_the_Martian_Megaripple_Hazyview_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mars-perseverance-honeyguide-sol-1704-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Pasadena CA (SPX) Dec 26, 2025\n\n\nWhile much of Perseverance's work focuses on ancient rocks that record Mars' long-lost rivers and lakes, megaripples offer a rare opportunity to examine processes that are still shaping the surface today. Megaripples are sand ripples up to 2 meters (about 6.5 feet) tall that are mainly built and modified by wind. However, when water in the atmosphere interacts with dust on the ripple surface, a",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.649520Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35010,
     "title": "SPHEREx completes first full sky infrared map of the cosmos",
     "authors": [
@@ -394,6 +521,26 @@
     "detailed_news": ""
   },
   {
+    "id": 34999,
+    "title": "AI systems proposed to boost launch cadence reliability and traffic management",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/AI_systems_proposed_to_boost_launch_cadence_reliability_and_traffic_management_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rocket-science-launch-system-reuseable-ai-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nThe global space sector is entering a phase of large-scale satellite constellations and expanded human lunar activity, driving a sharp increase in demand for access to orbit. Within the next two decades, the total mass launched to space is expected to reach several hundred thousand tons, with annual launch counts projected in the tens of thousands and continuing to grow. Launch providers therefo",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.593367Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35012,
     "title": "Webb maps carbon rich atmosphere on distorted pulsar planet",
     "authors": [
@@ -408,6 +555,26 @@
     "summary": "Berlin, Germany (SPX) Dec 17, 2025\n\n\nScientists using NASA's James Webb Space Telescope have identified an exoplanet with an atmosphere unlike any seen before, orbiting a rapidly spinning neutron star known as a pulsar. The object, officially designated PSR J2322-2650b, has a mass comparable to Jupiter but is stretched into a lemon-like shape by the strong gravitational pull of its compact host star. Its atmosphere appears dominate",
     "published_at": "2025-12-26T05:41:42Z",
     "updated_at": "2025-12-26T04:30:11.744464Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35007,
+    "title": "When 5G networks bolster satellite navigation",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.gpsdaily.com/reports/When_5G_networks_bolster_satellite_navigation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/integrated-commercial-5g-nr-multi-beam-gnss-satellite-multi-constellation-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nFinding accurate positions in dense urban areas remains difficult for satellite-based navigation systems, where high-rise buildings and signal blockages can cause large errors or complete loss of service. A recent study outlines a deeply integrated positioning method that combines commercial 5G New Radio (NR) signals with Global Navigation Satellite Systems (GNSS) to address these issues. By rei",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.693748Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -454,26 +621,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35007,
-    "title": "When 5G networks bolster satellite navigation",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.gpsdaily.com/reports/When_5G_networks_bolster_satellite_navigation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/integrated-commercial-5g-nr-multi-beam-gnss-satellite-multi-constellation-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nFinding accurate positions in dense urban areas remains difficult for satellite-based navigation systems, where high-rise buildings and signal blockages can cause large errors or complete loss of service. A recent study outlines a deeply integrated positioning method that combines commercial 5G New Radio (NR) signals with Global Navigation Satellite Systems (GNSS) to address these issues. By rei",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.693748Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35011,
     "title": "CoDICE instrument returns first-light particle data for IMAP mission",
     "authors": [
@@ -488,46 +635,6 @@
     "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nDecember 16, 2025 - Southwest Research Institute's Compact Dual Ion Composition Experiment (CoDICE) instrument aboard NASA's Interstellar Mapping and Acceleration Probe (IMAP) spacecraft has begun returning first-light particle measurements. IMAP launched in September to help researchers better understand the boundary of the heliosphere, the magnetic bubble that surrounds and protects our solar",
     "published_at": "2025-12-26T05:41:42Z",
     "updated_at": "2025-12-26T04:30:11.732813Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35004,
-    "title": "Wind-Sculpted Landscapes: Investigating the Martian Megaripple 'Hazyview'",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Wind_Sculpted_Landscapes_Investigating_the_Martian_Megaripple_Hazyview_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-perseverance-honeyguide-sol-1704-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (SPX) Dec 26, 2025\n\n\nWhile much of Perseverance's work focuses on ancient rocks that record Mars' long-lost rivers and lakes, megaripples offer a rare opportunity to examine processes that are still shaping the surface today. Megaripples are sand ripples up to 2 meters (about 6.5 feet) tall that are mainly built and modified by wind. However, when water in the atmosphere interacts with dust on the ripple surface, a",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.649520Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34999,
-    "title": "AI systems proposed to boost launch cadence reliability and traffic management",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AI_systems_proposed_to_boost_launch_cadence_reliability_and_traffic_management_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rocket-science-launch-system-reuseable-ai-splash-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nThe global space sector is entering a phase of large-scale satellite constellations and expanded human lunar activity, driving a sharp increase in demand for access to orbit. Within the next two decades, the total mass launched to space is expected to reach several hundred thousand tons, with annual launch counts projected in the tens of thousands and continuing to grow. Launch providers therefo",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.593367Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -882,111 +989,6 @@
     "summary": "\nIn this episode of Space Minds, host David Ariosto speaks with Juan Alonso — CTO and Co-founder of Luminary Cloud and professor at Stanford University — about the rapid transformation underway in aerospace engineering. \nThe post How physics AI is transforming the future of space engineering appeared first on SpaceNews.",
     "published_at": "2025-12-23T14:41:46Z",
     "updated_at": "2025-12-23T14:50:28.005167Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34984,
-    "title": "NASA’s Hubble Reveals Largest Found Chaotic Birthplace of Planets",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-reveals-largest-found-chaotic-birthplace-of-planets/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2025/12/STScI-01K4NEMZAN3V1YQCQ8W0HB9VPE.jpg",
-    "news_site": "NASA",
-    "summary": "Astronomers using NASA’s Hubble Space Telescope have imaged the largest protoplanetary disk ever observed circling a young star. For the first time in visible light, Hubble has revealed the disk is unexpectedly chaotic and turbulent, with wisps of material stretching much farther above and below the disk than astronomers have seen in any similar system. […]",
-    "published_at": "2025-12-23T14:00:20Z",
-    "updated_at": "2025-12-23T14:49:24.701360Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34983,
-    "title": "I Am Artemis: Grace Lauderdale",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-grace-lauderdale/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/10/grace-lauderdale.jpg",
-    "news_site": "NASA",
-    "summary": "Listen to this audio excerpt from Grace Lauderdale, exploration project manager for the Training Systems Office at NASA Johnson: In preparation for their mission around the Moon inside NASA’s Orion spacecraft, the Artemis II crew will spend countless hours training inside the Orion Mission Simulator. The simulator replicates what the crew will experience inside the spacecraft and […]",
-    "published_at": "2025-12-23T14:00:00Z",
-    "updated_at": "2025-12-23T14:02:16.616783Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34970,
-    "title": "Ariane 6 and Vega C P160C Booster Upgrade Fully Qualified",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/ariane-6-and-vega-c-p160c-booster-upgrade-fully-qualified/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/12/Ariane-6-and-Vega-C-P160C-Booster-Upgrade-Fully-Qualified.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency has completed the qualification review of the P160C solid-fuel booster upgrade for Ariane 6 and Vega C, confirming that it is ready for operational use. The booster is expected to be used for the first time next year aboard an Ariane 6 rocket. In March 2022, ESA announced that it would […]\nThe post Ariane 6 and Vega C P160C Booster Upgrade Fully Qualified appeared first on European Spaceflight.",
-    "published_at": "2025-12-23T05:00:26Z",
-    "updated_at": "2025-12-23T05:53:39.129358Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34977,
-    "title": "Long March 12A reaches orbit in first reusable launch attempt, but landing fails",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/long-march-12a-reaches-orbit-in-first-reusable-launch-attempt-but-landing-fails/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/CZ12A-Y1-JSLC-22dec2025-casc1.jpg?fit=1024%2C765&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA first launch of the Long March 12A Chinese state-owned reusable rocket reached orbit late Monday, but attempted recovery of the first stage downrange failed. \nThe post Long March 12A reaches orbit in first reusable launch attempt, but landing fails appeared first on SpaceNews.",
-    "published_at": "2025-12-23T04:57:45Z",
-    "updated_at": "2025-12-23T05:53:49.776145Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34963,
-    "title": "Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4750-4762-see-you-on-the-other-side-of-the-sun/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/december/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04755_opgs_edr_ncam_NRB_819600528EDR_M1200538NCAM00579M_.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Lucy Thompson, Planetary Scientist and APXS team member, University of New Brunswick, Canada Earth planning date: Monday, Dec. 22, 2025 As we all prepare for the holiday season here on Earth, we have been planning a few last activities before Curiosity and the team of scientists and engineers take a well-deserved, extended break. […]",
-    "published_at": "2025-12-23T01:37:40Z",
-    "updated_at": "2025-12-23T05:53:33.395615Z",
     "featured": false,
     "launches": [],
     "events": [],
