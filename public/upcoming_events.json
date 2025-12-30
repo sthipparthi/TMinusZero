@@ -1,6 +1,6 @@
 {
-  "count": 6,
-  "last_updated": "2025-12-30T00:04:21.262269Z",
+  "count": 5,
+  "last_updated": "2025-12-30T06:01:32.322272Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (6 failed/unavailable)"
+    "Empty AI summaries (5 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "53aad862-af92-44b5-91ef-70e92a079ba4",
-      "name": "Long March 4B | Unknown Payload",
-      "status": "Go",
-      "net": "2025-12-30T04:10:00Z",
-      "window_start": "2025-12-30T04:04:00Z",
-      "window_end": "2025-12-30T04:32:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Launch Area 94 (SLS-2 / 603), Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 94 (SLS-2 / 603)",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Long March 4B",
-      "rocket_config_description": "The Long March 4B (Chinese: 长征四号乙火箭), also known as the Chang Zheng 4B, CZ-4B and LM-4B is a Chinese orbital carrier rocket. Launched from Launch Complex 1 at the Taiyuan Satellite Launch Center, it is a 3-stage rocket, used mostly to place satellites into low Earth and sun synchronous orbits.",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 4B",
-      "rocket_config_total_launch_count": 55,
-      "rocket_config_successful_launches": 54,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 567,
-      "rocket_manufacturer_successful_launches": 553,
-      "rocket_manufacturer_failed_launches": 14,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/53aad862-af92-44b5-91ef-70e92a079ba4/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "fb6d9dd6-2087-40b7-b3ca-c807b5b2be43",
       "name": "Long March 7A | Unknown Payload",
@@ -294,7 +253,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 6,
-    "total_launches": 6
+    "empty_summaries": 5,
+    "total_launches": 5
   }
 }

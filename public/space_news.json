@@ -1,5 +1,25 @@
 [
   {
+    "id": 35039,
+    "title": "The Earth Observer: Offering Perspectives from Space through Time",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2024/05/eo-feature-article-banner.png",
+    "news_site": "NASA",
+    "summary": "An Intertwined History: The Earth Observer and EOS The Earth Observer, a newsletter issued for more than 36 years, will release its last online content at the close of 2025. This newsletter evolved in parallel with NASA’s Earth Observing System (EOS). It is almost impossible to speak of this newsletter without mentioning EOS. As The Earth […]",
+    "published_at": "2025-12-29T23:52:34Z",
+    "updated_at": "2025-12-30T00:10:06.761175Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35038,
     "title": "After record-breaking 2025, Rocket Lab prepares for Neutron’s debut in 2026",
     "authors": [
@@ -254,6 +274,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35026,
+    "title": "Engineered interlayers boost satellite insulation and flexible electronics",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Engineered_interlayers_boost_satellite_insulation_and_flexible_electronics_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/james-webb-space-telescope-sunshield-layers-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 17, 2025\n\n\nResearchers at Empa are refining the multilayer insulation foils that wrap many satellites and space probes, aiming to improve their mechanical robustness while maintaining thermal protection. These foils, known as multilayer insulation or superinsulation, are built from stacked layers of a strong polymer coated with thin metal, typically aluminum, and are also used on Earth in items such as sur",
+    "published_at": "2025-12-29T05:24:23Z",
+    "updated_at": "2025-12-29T04:20:21.162336Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35025,
     "title": "Japan's flagship H3 rocket fails to launch satellite",
     "authors": [
@@ -288,26 +328,6 @@
     "summary": "London, UK (SPX) Dec 18, 2025\n\n\nResearchers at the University of the Witwatersrand in South Africa, working with Huzhou University in China, have shown that a standard source of entangled photons used in quantum optics carries a rich set of hidden topological structures in high dimensions. They report entanglement across 48 dimensions with more than 17 000 distinct topological signatures, providing a large alphabet for encodin",
     "published_at": "2025-12-29T05:24:23Z",
     "updated_at": "2025-12-29T04:20:21.109492Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35026,
-    "title": "Engineered interlayers boost satellite insulation and flexible electronics",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Engineered_interlayers_boost_satellite_insulation_and_flexible_electronics_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/james-webb-space-telescope-sunshield-layers-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 17, 2025\n\n\nResearchers at Empa are refining the multilayer insulation foils that wrap many satellites and space probes, aiming to improve their mechanical robustness while maintaining thermal protection. These foils, known as multilayer insulation or superinsulation, are built from stacked layers of a strong polymer coated with thin metal, typically aluminum, and are also used on Earth in items such as sur",
-    "published_at": "2025-12-29T05:24:23Z",
-    "updated_at": "2025-12-29T04:20:21.162336Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -668,6 +688,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35011,
+    "title": "CoDICE instrument returns first-light particle data for IMAP mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/CoDICE_instrument_returns_first_light_particle_data_for_IMAP_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/codice-first-light-data-swri-imap-solar-wind-charged-particles-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nDecember 16, 2025 - Southwest Research Institute's Compact Dual Ion Composition Experiment (CoDICE) instrument aboard NASA's Interstellar Mapping and Acceleration Probe (IMAP) spacecraft has begun returning first-light particle measurements. IMAP launched in September to help researchers better understand the boundary of the heliosphere, the magnetic bubble that surrounds and protects our solar",
+    "published_at": "2025-12-26T05:41:42Z",
+    "updated_at": "2025-12-26T04:30:11.732813Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35012,
     "title": "Webb maps carbon rich atmosphere on distorted pulsar planet",
     "authors": [
@@ -802,26 +842,6 @@
     "summary": "Los Angeles CA (SPX) Dec 26, 2025\n\n\nAST SpaceMobile Inc. has confirmed the successful orbital launch of its BlueBird 6 satellite, described as the largest commercial communications array deployed in low Earth orbit and designed to support space-based cellular broadband services for commercial and government users. \n\nThe mission lifted off at 10:25 p.m. EST on December 23 from the Satish Dhawan Space Centre in Sriharikota, Indi",
     "published_at": "2025-12-26T05:41:42Z",
     "updated_at": "2025-12-26T04:30:11.674188Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35011,
-    "title": "CoDICE instrument returns first-light particle data for IMAP mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/CoDICE_instrument_returns_first_light_particle_data_for_IMAP_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/codice-first-light-data-swri-imap-solar-wind-charged-particles-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 17, 2025\n\n\nDecember 16, 2025 - Southwest Research Institute's Compact Dual Ion Composition Experiment (CoDICE) instrument aboard NASA's Interstellar Mapping and Acceleration Probe (IMAP) spacecraft has begun returning first-light particle measurements. IMAP launched in September to help researchers better understand the boundary of the heliosphere, the magnetic bubble that surrounds and protects our solar",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.732813Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -976,26 +996,6 @@
     "summary": "SpaceX is rapidly advancing the assembly of Super Heavy Booster 19 at its Starbase facility,…\nThe post Flight 12 vehicles readying for 2026 opener appeared first on NASASpaceFlight.com.",
     "published_at": "2025-12-23T23:43:44Z",
     "updated_at": "2025-12-23T23:50:13.763931Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 34991,
-    "title": "ESA to hire 520 new staff as workforce expansion begins in 2026",
-    "authors": [
-      {
-        "name": "Emma Gatti",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/esa-to-hire-520-new-staff-as-workforce-expansion-begins-in-2026/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-23-123759.png?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nMILAN — The European Space Agency announced plans to hire approximately 520 new staff members starting in 2026, following decisions approved at ESA’s 342nd Council meeting earlier this month.  The recruitment will result in a net increase of about 400 staff, alongside the replacement of roughly 120 positions due to retirements. The move will bring […]\nThe post ESA to hire 520 new staff as workforce expansion begins in 2026 appeared first on SpaceNews.",
-    "published_at": "2025-12-23T20:41:32Z",
-    "updated_at": "2025-12-23T20:51:31.792889Z",
     "featured": false,
     "launches": [],
     "events": [],
