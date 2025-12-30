@@ -1,5 +1,45 @@
 [
   {
+    "id": 35050,
+    "title": "NASA’s Chandra Rings in New Year With Champagne Cluster",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/chandra/nasas-chandra-rings-in-new-year-with-champagne-cluster/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/champagne.jpg",
+    "news_site": "NASA",
+    "summary": "Celebrate the New Year with the “Champagne Cluster,” a galaxy cluster seen in this new image from NASA’s Chandra X-ray Observatory and optical telescopes. Astronomers discovered this galaxy cluster Dec. 31, 2020. The date, combined with the bubble-like appearance of the galaxies and the superheated gas seen with Chandra observations (represented in purple), inspired the […]",
+    "published_at": "2025-12-30T16:45:09Z",
+    "updated_at": "2025-12-30T16:50:11.546239Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35049,
+    "title": "The space stories that will shape 2026",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-space-stories-that-will-shape-2026/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/2000-1500-space-minds-AMA-replay.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIn this episode of Space Minds, host Mike Gruss is joined by SpaceNews journalists Jason Rainbow, Sandra Erwin, Jeff Foust and Debra Werner for a wide-ranging conversation on the space stories that will define the year ahead. \nThe post The space stories that will shape 2026 appeared first on SpaceNews.",
+    "published_at": "2025-12-30T14:55:14Z",
+    "updated_at": "2025-12-30T15:00:36.272371Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35048,
     "title": "ESA Says Data Breach Was Limited to Servers with Unclassified Documents",
     "authors": [
@@ -67,20 +107,60 @@
     "detailed_news": ""
   },
   {
-    "id": 35045,
-    "title": "Space Themed Casino Games Slots, Rockets, and Astronaut Adventures",
+    "id": 35040,
+    "title": "Fly through Webbs cosmic vistas celebrates four years of James Webb discoveries",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Space_Themed_Casino_Games_Slots_Rockets_and_Astronaut_Adventures_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/space-themed-casino-games-slots-rockets-astronaut-adventures-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Fly_through_Webbs_cosmic_vistas_celebrates_four_years_of_James_Webb_discoveries_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/webb-esa-southern-ring-nebulae-deep-field-background-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Dec 29, 2025\n\nCasino gaming is one gaming niche that has seen tremendous growth in recent years. When we talk about casino gambling, space-themed games are the ones that are grabbing the attention of the masses. People are just getting crazy about playing space-themed casino games. We are going to discuss the top space-themed casino games in this post. Keep reading.",
+    "summary": "Berlin, Germany (SPX) Dec 30, 2025\n\n\nOn the fourth launch anniversary of the NASA ESA CSA James Webb Space Telescope, the European Space Agency has released a 43 minute fly through video built from many of Webbs best known images, presented as a single continuous journey across the cosmos. The compilation revisits a wide range of Webb observations, arranging them as a sequence of progressive zooms that simulate a flight through dif",
     "published_at": "2025-12-30T07:17:17Z",
-    "updated_at": "2025-12-30T06:10:12.910585Z",
+    "updated_at": "2025-12-30T06:10:12.833720Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35041,
+    "title": "China harnesses nationwide system to drive spaceflight and satellite navigation advances",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/China_harnesses_nationwide_system_to_drive_spaceflight_and_satellite_navigation_advances_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-sun-rocket-launch-silhouette-long-march-2f-shenzhou-22-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 30, 2025\n\n\nChina's manned space program has used a nationwide resource mobilization system to manage a recent contingency involving the Shenzhou-20 mission and to launch its follow-on Shenzhou-22 spacecraft within 20 days. \n\nAfter the Shenzhou-20 return vehicle suffered minor window damage from space debris, the China Manned Space Agency activated its first contingency plan of this kind, coordinating e",
+    "published_at": "2025-12-30T07:17:17Z",
+    "updated_at": "2025-12-30T06:10:12.863454Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35043,
+    "title": "SSC ground stations to support NASA PExT wideband Ka band test",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/SSC_ground_stations_to_support_NASA_PExT_wideband_Ka_band_test_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/york-experimental-terminal-pext-payload-bard-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Dec 30, 2025\n\n\nSwedish Space Corporation (SSC) will provide direct-to-Earth forward and return Ka-band links through its global ground station network to support NASA's Polylingual Experimental Terminal (PExT) technology demonstration. \n\nPExT, managed by NASA's Space Communications and Navigation (SCaN) Program in collaboration with the Johns Hopkins Applied Physics Laboratory, is an in-flight Ka-band wide",
+    "published_at": "2025-12-30T07:17:17Z",
+    "updated_at": "2025-12-30T06:10:12.886387Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -127,60 +207,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35041,
-    "title": "China harnesses nationwide system to drive spaceflight and satellite navigation advances",
+    "id": 35045,
+    "title": "Space Themed Casino Games Slots, Rockets, and Astronaut Adventures",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/China_harnesses_nationwide_system_to_drive_spaceflight_and_satellite_navigation_advances_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-sun-rocket-launch-silhouette-long-march-2f-shenzhou-22-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Space_Themed_Casino_Games_Slots_Rockets_and_Astronaut_Adventures_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/space-themed-casino-games-slots-rockets-astronaut-adventures-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 30, 2025\n\n\nChina's manned space program has used a nationwide resource mobilization system to manage a recent contingency involving the Shenzhou-20 mission and to launch its follow-on Shenzhou-22 spacecraft within 20 days. \n\nAfter the Shenzhou-20 return vehicle suffered minor window damage from space debris, the China Manned Space Agency activated its first contingency plan of this kind, coordinating e",
+    "summary": "Los Angeles CA (SPX) Dec 29, 2025\n\nCasino gaming is one gaming niche that has seen tremendous growth in recent years. When we talk about casino gambling, space-themed games are the ones that are grabbing the attention of the masses. People are just getting crazy about playing space-themed casino games. We are going to discuss the top space-themed casino games in this post. Keep reading.",
     "published_at": "2025-12-30T07:17:17Z",
-    "updated_at": "2025-12-30T06:10:12.863454Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35040,
-    "title": "Fly through Webbs cosmic vistas celebrates four years of James Webb discoveries",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Fly_through_Webbs_cosmic_vistas_celebrates_four_years_of_James_Webb_discoveries_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/webb-esa-southern-ring-nebulae-deep-field-background-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 30, 2025\n\n\nOn the fourth launch anniversary of the NASA ESA CSA James Webb Space Telescope, the European Space Agency has released a 43 minute fly through video built from many of Webbs best known images, presented as a single continuous journey across the cosmos. The compilation revisits a wide range of Webb observations, arranging them as a sequence of progressive zooms that simulate a flight through dif",
-    "published_at": "2025-12-30T07:17:17Z",
-    "updated_at": "2025-12-30T06:10:12.833720Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35043,
-    "title": "SSC ground stations to support NASA PExT wideband Ka band test",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/SSC_ground_stations_to_support_NASA_PExT_wideband_Ka_band_test_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/york-experimental-terminal-pext-payload-bard-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 30, 2025\n\n\nSwedish Space Corporation (SSC) will provide direct-to-Earth forward and return Ka-band links through its global ground station network to support NASA's Polylingual Experimental Terminal (PExT) technology demonstration. \n\nPExT, managed by NASA's Space Communications and Navigation (SCaN) Program in collaboration with the Johns Hopkins Applied Physics Laboratory, is an in-flight Ka-band wide",
-    "published_at": "2025-12-30T07:17:17Z",
-    "updated_at": "2025-12-30T06:10:12.886387Z",
+    "updated_at": "2025-12-30T06:10:12.910585Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -949,46 +989,6 @@
     "summary": "Tokyo, Japan (SPX) Dec 26, 2025\n\n\nFinding accurate positions in dense urban areas remains difficult for satellite-based navigation systems, where high-rise buildings and signal blockages can cause large errors or complete loss of service. A recent study outlines a deeply integrated positioning method that combines commercial 5G New Radio (NR) signals with Global Navigation Satellite Systems (GNSS) to address these issues. By rei",
     "published_at": "2025-12-26T05:41:42Z",
     "updated_at": "2025-12-26T04:30:11.693748Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35012,
-    "title": "Webb maps carbon rich atmosphere on distorted pulsar planet",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Webb_maps_carbon_rich_atmosphere_on_distorted_pulsar_planet_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/extrasola-pulsar-star-exoplanet-psr-j2322-2650b-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 17, 2025\n\n\nScientists using NASA's James Webb Space Telescope have identified an exoplanet with an atmosphere unlike any seen before, orbiting a rapidly spinning neutron star known as a pulsar. The object, officially designated PSR J2322-2650b, has a mass comparable to Jupiter but is stretched into a lemon-like shape by the strong gravitational pull of its compact host star. Its atmosphere appears dominate",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.744464Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35013,
-    "title": "Hubble pinpoints asteroid smash ups in nearby Fomalhaut system",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hubble_pinpoints_asteroid_smash_ups_in_nearby_Fomalhaut_system_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-hubble-fomalhaut-cs1-asteroids-colliding-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 19, 2025\n\n\nIn a historical milestone, catastrophic collisions in a nearby planetary system were witnessed for the first time by astronomers using the NASA/ESA Hubble Space Telescope. As they observed the bright star Fomalhaut, the scientists saw the impact of massive objects around the star. The Fomalhaut system appears to be in a dynamical upheaval, similar to what our solar system experienced in its firs",
-    "published_at": "2025-12-26T05:41:42Z",
-    "updated_at": "2025-12-26T04:30:11.755072Z",
     "featured": false,
     "launches": [],
     "events": [],
