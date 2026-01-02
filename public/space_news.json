@@ -1,5 +1,65 @@
 [
   {
+    "id": 35086,
+    "title": "Hubble Glimpses Galactic Gas Making a Getaway",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/hubble-glimpses-galactic-gas-making-a-getaway/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/hubble-ngc4388-potw2550a.jpg",
+    "news_site": "NASA",
+    "summary": "A sideways spiral galaxy shines in this NASA/ESA Hubble Space Telescope image. Located about 60 million light-years away in the constellation Virgo (the Maiden), NGC 4388 is a resident of the Virgo galaxy cluster. This enormous cluster of galaxies contains more than a thousand members and is the nearest large galaxy cluster to the Milky Way. NGC […]",
+    "published_at": "2026-01-02T15:39:01Z",
+    "updated_at": "2026-01-02T15:40:12.427277Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35085,
+    "title": "Finally, some good news for Russia—the space station is no longer leaking",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/01/finally-some-good-news-for-russia-the-space-station-is-no-longer-leaking/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/51711929238_21004924c2_k.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"NASA and Roscosmos continue to monitor and investigate the previously observed cracks.\"",
+    "published_at": "2026-01-02T15:30:13Z",
+    "updated_at": "2026-01-02T15:40:09.763109Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35084,
+    "title": "A neighbouring vista of stellar birth",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/01/A_neighbouring_vista_of_stellar_birth",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/a_neighbouring_vista_of_stellar_birth/27055208-1-eng-GB/A_neighbouring_vista_of_stellar_birth_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-01-02T09:37:00Z",
+    "updated_at": "2026-01-02T14:00:22.817323Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35083,
     "title": "Denmark’s First Mission to the Moon Gets ESA Greenlight",
     "authors": [
@@ -60,20 +120,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35076,
-    "title": "Planet delivers first light image from Pelican 6 satellite capturing Lhasa Gonggar Airport",
+    "id": 35075,
+    "title": "Hydrogen peroxide thruster qualifies for ESA launcher attitude control",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Planet_delivers_first_light_image_from_Pelican_6_satellite_capturing_Lhasa_Gonggar_Airport_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/planet-labs-first-light-pelican-6-lhasa-gonggar-international-airport-tibet-china-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Hydrogen_peroxide_thruster_qualifies_for_ESA_launcher_attitude_control_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-ariel-arkadia-ariel-thrusters-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nPlanet Labs has released the first light image from its Pelican 6 Earth imaging satellite, highlighting Lhasa Gonggar International Airport in Tibet, China, and demonstrating the new spacecraft's imaging performance. \n\nThe Pelican 6 satellite is part of Planet's Pelican constellation, a fleet of next generation Earth observation spacecraft designed to capture high resolution imagery with rap",
+    "summary": "Paris, France (SPX) Jan 01, 2026\n\n\nMany launchers and satellites rely on separate propulsion systems for major orbital maneuvers and for attitude control, with the latter provided by compact reaction control thrusters that steer and stabilise the vehicle. \n\nSpanish firm Arkadia Space has developed a new 250 newton monopropellant reaction control thruster, designated ARIEL, for use on reusable European launchers and other spac",
     "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.059038Z",
+    "updated_at": "2026-01-01T10:20:16.038791Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -100,20 +160,60 @@
     "detailed_news": ""
   },
   {
-    "id": 35072,
-    "title": "DLR completes ground roll tests of HAP alpha uncrewed high altitude solar aircraft",
+    "id": 35077,
+    "title": "MDA Space partners with Canada defence department and Telesat to deliver next generation military satcom",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/DLR_completes_ground_roll_tests_of_HAP_alpha_uncrewed_high_altitude_solar_aircraft_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uav-zephyr-s-haps-drone-airbus-bg.jpg",
+    "url": "https://www.spacewar.com/reports/MDA_Space_partners_with_Canada_defence_department_and_Telesat_to_deliver_next_generation_military_satcom_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mda-project-hydra-5th-generation-data-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nThe German Aerospace Center has successfully completed ground roll tests of HAP alpha, an uncrewed high altitude solar powered aircraft designed to operate in the lower stratosphere for extended periods, marking a key milestone toward future flight testing. \n\nGround roll tests verified the aircraft's steering, braking, propulsion response, and ground handling behavior under realistic operati",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nMDA Space has signed a strategic partnership agreement with the Canadian Department of National Defence and satellite operator Telesat to deliver advanced military satellite communications capabilities for the Canadian Armed Forces. \n\nThe partnership will focus on providing secure, resilient, and high capacity satellite communications by integrating MDA Space spacecraft and systems expertise",
     "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:15.992737Z",
+    "updated_at": "2026-01-01T10:20:16.084921Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35074,
+    "title": "ESA reaches new benchmark in autonomous formation flying",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.022388Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35073,
+    "title": "RTX radar selected to support autonomous X 62A fighter testing",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rtx-raytheon-usaf-x-62-autonomous-vista-f-16d-phantomstrike-radar-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nRaytheon has received a U.S. Air Force contract to integrate its PhantomStrike radar on the autonomous X-62A Variable In-flight Simulation Test Aircraft, or VISTA, a modified F-16D Block 30 test aircraft upgraded with Block 40 avionics and configured as a machine-learning and software testbed. \n\nThe X-62A VISTA functions as a dedicated platform for flight testing autonomy and artificial inte",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.008755Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -160,26 +260,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35077,
-    "title": "MDA Space partners with Canada defence department and Telesat to deliver next generation military satcom",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/MDA_Space_partners_with_Canada_defence_department_and_Telesat_to_deliver_next_generation_military_satcom_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mda-project-hydra-5th-generation-data-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nMDA Space has signed a strategic partnership agreement with the Canadian Department of National Defence and satellite operator Telesat to deliver advanced military satellite communications capabilities for the Canadian Armed Forces. \n\nThe partnership will focus on providing secure, resilient, and high capacity satellite communications by integrating MDA Space spacecraft and systems expertise",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.084921Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35078,
     "title": "Cyviz awarded two classified NATO defense contracts for mission critical visualization systems",
     "authors": [
@@ -220,66 +300,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35074,
-    "title": "ESA reaches new benchmark in autonomous formation flying",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.022388Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35075,
-    "title": "Hydrogen peroxide thruster qualifies for ESA launcher attitude control",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hydrogen_peroxide_thruster_qualifies_for_ESA_launcher_attitude_control_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-ariel-arkadia-ariel-thrusters-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 01, 2026\n\n\nMany launchers and satellites rely on separate propulsion systems for major orbital maneuvers and for attitude control, with the latter provided by compact reaction control thrusters that steer and stabilise the vehicle. \n\nSpanish firm Arkadia Space has developed a new 250 newton monopropellant reaction control thruster, designated ARIEL, for use on reusable European launchers and other spac",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.038791Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35073,
-    "title": "RTX radar selected to support autonomous X 62A fighter testing",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rtx-raytheon-usaf-x-62-autonomous-vista-f-16d-phantomstrike-radar-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nRaytheon has received a U.S. Air Force contract to integrate its PhantomStrike radar on the autonomous X-62A Variable In-flight Simulation Test Aircraft, or VISTA, a modified F-16D Block 30 test aircraft upgraded with Block 40 avionics and configured as a machine-learning and software testbed. \n\nThe X-62A VISTA functions as a dedicated platform for flight testing autonomy and artificial inte",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.008755Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35070,
     "title": "Muon Space secures Direct to Phase II award for SDA missile warning and tracking mission",
     "authors": [
@@ -294,6 +314,66 @@
     "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nMuon Space has secured a Direct to Phase II award to support the Space Development Agency's missile warning and tracking mission, advancing the company's role in developing space based sensing capabilities for national defense. \n\nThe award enables Muon Space to continue development of its QuickBeam multispectral electro optical and infrared payload technology, which is designed to provide pe",
     "published_at": "2026-01-01T11:20:58Z",
     "updated_at": "2026-01-01T10:20:15.969654Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35072,
+    "title": "DLR completes ground roll tests of HAP alpha uncrewed high altitude solar aircraft",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/DLR_completes_ground_roll_tests_of_HAP_alpha_uncrewed_high_altitude_solar_aircraft_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uav-zephyr-s-haps-drone-airbus-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nThe German Aerospace Center has successfully completed ground roll tests of HAP alpha, an uncrewed high altitude solar powered aircraft designed to operate in the lower stratosphere for extended periods, marking a key milestone toward future flight testing. \n\nGround roll tests verified the aircraft's steering, braking, propulsion response, and ground handling behavior under realistic operati",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:15.992737Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35076,
+    "title": "Planet delivers first light image from Pelican 6 satellite capturing Lhasa Gonggar Airport",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Planet_delivers_first_light_image_from_Pelican_6_satellite_capturing_Lhasa_Gonggar_Airport_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/planet-labs-first-light-pelican-6-lhasa-gonggar-international-airport-tibet-china-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nPlanet Labs has released the first light image from its Pelican 6 Earth imaging satellite, highlighting Lhasa Gonggar International Airport in Tibet, China, and demonstrating the new spacecraft's imaging performance. \n\nThe Pelican 6 satellite is part of Planet's Pelican constellation, a fleet of next generation Earth observation spacecraft designed to capture high resolution imagery with rap",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.059038Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35065,
+    "title": "Satellites to extend 5G and 6G coverage worldwide",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Satellites_to_extend_5G_and_6G_coverage_worldwide_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satellite-communication-systems-future-5g-6g-connectivity-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nThe integration of satellite communication systems with terrestrial networks is emerging as a central approach to achieving seamless global connectivity in 5G and future 6G eras. A recent article in the journal Engineering titled \"Evolution of Satellite Communication Systems Toward 5G/6G for 2030 and Beyond\" reviews recent progress, technical obstacles, and likely directions for this combined in",
+    "published_at": "2026-01-01T02:02:25Z",
+    "updated_at": "2026-01-01T01:10:54.561558Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -340,46 +420,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35068,
-    "title": "China tracks surge in geospatial information industry",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.gpsdaily.com/reports/China_tracks_surge_in_geospatial_information_industry_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/eo-china-gaofen-7-precision-forest-height-measurement-satellite-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nChina's geospatial information industry is approaching a total value of 1 trillion yuan (about $143 billion), according to the Ministry of Natural Resources. The ministry reported that by the end of 2025 the sector is expected to generate more than 900 billion yuan in output, an increase of over 30 percent compared with 2020, and now employs more than 4 million people. \n\nA core element of th",
-    "published_at": "2026-01-01T02:02:25Z",
-    "updated_at": "2026-01-01T01:10:54.600657Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35065,
-    "title": "Satellites to extend 5G and 6G coverage worldwide",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Satellites_to_extend_5G_and_6G_coverage_worldwide_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satellite-communication-systems-future-5g-6g-connectivity-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nThe integration of satellite communication systems with terrestrial networks is emerging as a central approach to achieving seamless global connectivity in 5G and future 6G eras. A recent article in the journal Engineering titled \"Evolution of Satellite Communication Systems Toward 5G/6G for 2030 and Beyond\" reviews recent progress, technical obstacles, and likely directions for this combined in",
-    "published_at": "2026-01-01T02:02:25Z",
-    "updated_at": "2026-01-01T01:10:54.561558Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35064,
     "title": "China launches twin Shijian-29 satellites to test space-target detection tech",
     "authors": [
@@ -394,6 +434,26 @@
     "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\nChina has launched a pair of Shijian-29 satellites on a Long March 7A rocket, adding new technology-demonstration assets to its growing space-based surveillance and tracking capabilities. The mission lifted off from the coastal Wenchang Space Launch Site on Hainan Island at 6:40 a.m. Beijing Time on Wednesday, placing the two spacecraft into their planned orbit and marking the 623rd flight of the Long March launch vehicle family.",
     "published_at": "2026-01-01T02:02:25Z",
     "updated_at": "2026-01-01T01:10:54.522141Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35068,
+    "title": "China tracks surge in geospatial information industry",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.gpsdaily.com/reports/China_tracks_surge_in_geospatial_information_industry_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/eo-china-gaofen-7-precision-forest-height-measurement-satellite-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nChina's geospatial information industry is approaching a total value of 1 trillion yuan (about $143 billion), according to the Ministry of Natural Resources. The ministry reported that by the end of 2025 the sector is expected to generate more than 900 billion yuan in output, an increase of over 30 percent compared with 2020, and now employs more than 4 million people. \n\nA core element of th",
+    "published_at": "2026-01-01T02:02:25Z",
+    "updated_at": "2026-01-01T01:10:54.600657Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -795,20 +855,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35042,
-    "title": "Space-traveled mouse gives birth as China names pioneering \"flying mice\" crew",
+    "id": 35040,
+    "title": "Fly through Webbs cosmic vistas celebrates four years of James Webb discoveries",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Space_traveled_mouse_gives_birth_as_China_names_pioneering_flying_mice_crew_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-shenzhou2-mice-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Fly_through_Webbs_cosmic_vistas_celebrates_four_years_of_James_Webb_discoveries_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/webb-esa-southern-ring-nebulae-deep-field-background-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 30, 2025\n\n\nOf the four mice that recently flew aboard China's space station, one female has now given birth to healthy offspring on Earth, in a mission that also saw the public help name the pioneering \"flying mice\" crew. The Technology and Engineering Center for Space Utilization (CSU) under the Chinese Academy of Sciences (CAS) said the experiment marks China's first full-cycle mammalian space study, fro",
+    "summary": "Berlin, Germany (SPX) Dec 30, 2025\n\n\nOn the fourth launch anniversary of the NASA ESA CSA James Webb Space Telescope, the European Space Agency has released a 43 minute fly through video built from many of Webbs best known images, presented as a single continuous journey across the cosmos. The compilation revisits a wide range of Webb observations, arranging them as a sequence of progressive zooms that simulate a flight through dif",
     "published_at": "2025-12-30T07:17:17Z",
-    "updated_at": "2025-12-30T06:10:12.876147Z",
+    "updated_at": "2025-12-30T06:10:12.833720Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -875,20 +935,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35040,
-    "title": "Fly through Webbs cosmic vistas celebrates four years of James Webb discoveries",
+    "id": 35042,
+    "title": "Space-traveled mouse gives birth as China names pioneering \"flying mice\" crew",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Fly_through_Webbs_cosmic_vistas_celebrates_four_years_of_James_Webb_discoveries_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/webb-esa-southern-ring-nebulae-deep-field-background-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Space_traveled_mouse_gives_birth_as_China_names_pioneering_flying_mice_crew_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-shenzhou2-mice-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Dec 30, 2025\n\n\nOn the fourth launch anniversary of the NASA ESA CSA James Webb Space Telescope, the European Space Agency has released a 43 minute fly through video built from many of Webbs best known images, presented as a single continuous journey across the cosmos. The compilation revisits a wide range of Webb observations, arranging them as a sequence of progressive zooms that simulate a flight through dif",
+    "summary": "Tokyo, Japan (SPX) Dec 30, 2025\n\n\nOf the four mice that recently flew aboard China's space station, one female has now given birth to healthy offspring on Earth, in a mission that also saw the public help name the pioneering \"flying mice\" crew. The Technology and Engineering Center for Space Utilization (CSU) under the Chinese Academy of Sciences (CAS) said the experiment marks China's first full-cycle mammalian space study, fro",
     "published_at": "2025-12-30T07:17:17Z",
-    "updated_at": "2025-12-30T06:10:12.833720Z",
+    "updated_at": "2025-12-30T06:10:12.876147Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -929,73 +989,6 @@
     "summary": "An Intertwined History: The Earth Observer and EOS The Earth Observer, a newsletter issued for more than 36 years, will release its last online content at the close of 2025. This newsletter evolved in parallel with NASA’s Earth Observing System (EOS). It is almost impossible to speak of this newsletter without mentioning EOS. As The Earth […]",
     "published_at": "2025-12-29T23:52:34Z",
     "updated_at": "2025-12-30T00:10:06.761175Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35038,
-    "title": "After record-breaking 2025, Rocket Lab prepares for Neutron’s debut in 2026",
-    "authors": [
-      {
-        "name": "Eleanor Day & Haygen Warren",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/12/rocket-lab-2025-overview/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/12/IMG_2364.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Rocket Lab had its most successful year to date in 2025, with its Electron rocket…\nThe post After record-breaking 2025, Rocket Lab prepares for Neutron’s debut in 2026 appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-12-29T23:42:47Z",
-    "updated_at": "2025-12-29T23:50:14.329771Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35035,
-    "title": "HyPrSpace looks for applications beyond launch for its hybrid propulsion technology",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/hyprspace-looks-for-applications-beyond-launch-for-its-hybrid-propulsion-technology/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/baguetteone.jpeg?fit=1024%2C611&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA French launch startup that recently closed a funding round is seeking defense applications for its hybrid propulsion technology.\nThe post HyPrSpace looks for applications beyond launch for its hybrid propulsion technology appeared first on SpaceNews.",
-    "published_at": "2025-12-29T22:38:50Z",
-    "updated_at": "2025-12-29T22:40:19.149103Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35036,
-    "title": "Terra: The End of An Era",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2024/05/eo-feature-article-banner.png",
-    "news_site": "NASA",
-    "summary": "Introduction Launched into the night sky nearly 26 years ago, on December 19, 1999, from Vandenberg Air Force Base (now Space Force Base), Terra was NASA’s first Earth Observing System (EOS) Flagship mission to study Earth’s land surface from space via a coordinated series of polar-orbiting and low-inclination satellites that produce long-term global observations useful […]",
-    "published_at": "2025-12-29T22:20:01Z",
-    "updated_at": "2025-12-29T23:10:06.717174Z",
     "featured": false,
     "launches": [],
     "events": [],
