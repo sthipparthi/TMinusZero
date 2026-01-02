@@ -1,19 +1,19 @@
 [
   {
-    "id": 35070,
-    "title": "Muon Space secures Direct to Phase II award for SDA missile warning and tracking mission",
+    "id": 35081,
+    "title": "Starship Barge identified ahead of Starbase to KSC transports",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "Chris Bergin",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Muon_Space_secures_Direct_to_Phase_II_award_for_SDA_missile_warning_and_tracking_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/muon-space-quickbeam-multispectral-eo-ir-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nMuon Space has secured a Direct to Phase II award to support the Space Development Agency's missile warning and tracking mission, advancing the company's role in developing space based sensing capabilities for national defense. \n\nThe award enables Muon Space to continue development of its QuickBeam multispectral electro optical and infrared payload technology, which is designed to provide pe",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:15.969654Z",
+    "url": "https://www.nasaspaceflight.com/2026/01/starship-barge-ksc-transports/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/NSF-2026-01-01-22-17-15-798-wmarked.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX is gearing up for a new chapter in its ambitious Starship program, with the…\nThe post Starship Barge identified ahead of Starbase to KSC transports appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-01-01T22:30:20Z",
+    "updated_at": "2026-01-01T22:31:15.270212Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -40,6 +40,46 @@
     "detailed_news": ""
   },
   {
+    "id": 35073,
+    "title": "RTX radar selected to support autonomous X 62A fighter testing",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rtx-raytheon-usaf-x-62-autonomous-vista-f-16d-phantomstrike-radar-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nRaytheon has received a U.S. Air Force contract to integrate its PhantomStrike radar on the autonomous X-62A Variable In-flight Simulation Test Aircraft, or VISTA, a modified F-16D Block 30 test aircraft upgraded with Block 40 avionics and configured as a machine-learning and software testbed. \n\nThe X-62A VISTA functions as a dedicated platform for flight testing autonomy and artificial inte",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.008755Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35075,
+    "title": "Hydrogen peroxide thruster qualifies for ESA launcher attitude control",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hydrogen_peroxide_thruster_qualifies_for_ESA_launcher_attitude_control_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-ariel-arkadia-ariel-thrusters-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Jan 01, 2026\n\n\nMany launchers and satellites rely on separate propulsion systems for major orbital maneuvers and for attitude control, with the latter provided by compact reaction control thrusters that steer and stabilise the vehicle. \n\nSpanish firm Arkadia Space has developed a new 250 newton monopropellant reaction control thruster, designated ARIEL, for use on reusable European launchers and other spac",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.038791Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35076,
     "title": "Planet delivers first light image from Pelican 6 satellite capturing Lhasa Gonggar Airport",
     "authors": [
@@ -54,6 +94,26 @@
     "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nPlanet Labs has released the first light image from its Pelican 6 Earth imaging satellite, highlighting Lhasa Gonggar International Airport in Tibet, China, and demonstrating the new spacecraft's imaging performance. \n\nThe Pelican 6 satellite is part of Planet's Pelican constellation, a fleet of next generation Earth observation spacecraft designed to capture high resolution imagery with rap",
     "published_at": "2026-01-01T11:20:58Z",
     "updated_at": "2026-01-01T10:20:16.059038Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35078,
+    "title": "Cyviz awarded two classified NATO defense contracts for mission critical visualization systems",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Cyviz_awarded_two_classified_NATO_defense_contracts_for_mission_critical_visualization_systems_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/nato-missile-defence-capability-map-finland-sweden-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nCyviz, a provider of immersive visualization systems and collaborative mission operations platforms, has been awarded two classified defense contracts by the North Atlantic Treaty Organization aimed at advancing mission critical capabilities for allied operations. \n\nUnder the contracts, Cyviz will deliver secure and scalable visualization suites designed to support NATO's strategic command a",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.098560Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -80,20 +140,80 @@
     "detailed_news": ""
   },
   {
-    "id": 35075,
-    "title": "Hydrogen peroxide thruster qualifies for ESA launcher attitude control",
+    "id": 35070,
+    "title": "Muon Space secures Direct to Phase II award for SDA missile warning and tracking mission",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Hydrogen_peroxide_thruster_qualifies_for_ESA_launcher_attitude_control_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-ariel-arkadia-ariel-thrusters-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Muon_Space_secures_Direct_to_Phase_II_award_for_SDA_missile_warning_and_tracking_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/muon-space-quickbeam-multispectral-eo-ir-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 01, 2026\n\n\nMany launchers and satellites rely on separate propulsion systems for major orbital maneuvers and for attitude control, with the latter provided by compact reaction control thrusters that steer and stabilise the vehicle. \n\nSpanish firm Arkadia Space has developed a new 250 newton monopropellant reaction control thruster, designated ARIEL, for use on reusable European launchers and other spac",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nMuon Space has secured a Direct to Phase II award to support the Space Development Agency's missile warning and tracking mission, advancing the company's role in developing space based sensing capabilities for national defense. \n\nThe award enables Muon Space to continue development of its QuickBeam multispectral electro optical and infrared payload technology, which is designed to provide pe",
     "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.038791Z",
+    "updated_at": "2026-01-01T10:20:15.969654Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35079,
+    "title": "TanDEM X marks 15 years mapping Earth in 3D",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/TanDEM_X_marks_15_years_mapping_Earth_in_3D_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/dlr-western-europe-tandem-x-digital-elevation-model-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nExactly 15 years ago, in December 2010, the German TanDEM-X mission began routine radar imaging of Earth to produce a global digital elevation model, launching a long-running Earth observation program. Over six years, data from the twin radar satellites were processed into a consistent, high-precision digital elevation model that covers all land surfaces on the planet. This elevation model has s",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.110151Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35074,
+    "title": "ESA reaches new benchmark in autonomous formation flying",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.022388Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35080,
+    "title": "Physicists map axion production paths inside deuterium tritium fusion reactors",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.energy-daily.com/reports/Physicists_map_axion_production_paths_inside_deuterium_tritium_fusion_reactors_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/tritium-three-nucleons-short-range-correlations-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nA University of Cincinnati physicist and collaborators from Fermi National Accelerator Laboratory MIT and Technion-Israel Institute of Technology have developed a theoretical framework showing how axions or axion like particles could be produced and studied in deuterium tritium fusion reactors lined with lithium. \n\nTheir analysis builds on a recurring joke arc in the television series The Bi",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.127927Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -140,126 +260,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35079,
-    "title": "TanDEM X marks 15 years mapping Earth in 3D",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/TanDEM_X_marks_15_years_mapping_Earth_in_3D_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/dlr-western-europe-tandem-x-digital-elevation-model-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nExactly 15 years ago, in December 2010, the German TanDEM-X mission began routine radar imaging of Earth to produce a global digital elevation model, launching a long-running Earth observation program. Over six years, data from the twin radar satellites were processed into a consistent, high-precision digital elevation model that covers all land surfaces on the planet. This elevation model has s",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.110151Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35080,
-    "title": "Physicists map axion production paths inside deuterium tritium fusion reactors",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.energy-daily.com/reports/Physicists_map_axion_production_paths_inside_deuterium_tritium_fusion_reactors_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/tritium-three-nucleons-short-range-correlations-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nA University of Cincinnati physicist and collaborators from Fermi National Accelerator Laboratory MIT and Technion-Israel Institute of Technology have developed a theoretical framework showing how axions or axion like particles could be produced and studied in deuterium tritium fusion reactors lined with lithium. \n\nTheir analysis builds on a recurring joke arc in the television series The Bi",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.127927Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35073,
-    "title": "RTX radar selected to support autonomous X 62A fighter testing",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rtx-raytheon-usaf-x-62-autonomous-vista-f-16d-phantomstrike-radar-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nRaytheon has received a U.S. Air Force contract to integrate its PhantomStrike radar on the autonomous X-62A Variable In-flight Simulation Test Aircraft, or VISTA, a modified F-16D Block 30 test aircraft upgraded with Block 40 avionics and configured as a machine-learning and software testbed. \n\nThe X-62A VISTA functions as a dedicated platform for flight testing autonomy and artificial inte",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.008755Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35078,
-    "title": "Cyviz awarded two classified NATO defense contracts for mission critical visualization systems",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Cyviz_awarded_two_classified_NATO_defense_contracts_for_mission_critical_visualization_systems_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nato-missile-defence-capability-map-finland-sweden-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nCyviz, a provider of immersive visualization systems and collaborative mission operations platforms, has been awarded two classified defense contracts by the North Atlantic Treaty Organization aimed at advancing mission critical capabilities for allied operations. \n\nUnder the contracts, Cyviz will deliver secure and scalable visualization suites designed to support NATO's strategic command a",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.098560Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35074,
-    "title": "ESA reaches new benchmark in autonomous formation flying",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.022388Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35066,
-    "title": "Satellite and model fusion boosts China solar radiation forecasts",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Satellite_and_model_fusion_boosts_China_solar_radiation_forecasts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-schematic-satellite-fy4b-regional-numerical-forecasting-prediction-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nThe intermittent output of solar power creates challenges for grid operators who must keep supply and demand in balance. Traditional numerical weather prediction models often handle cloud initialization poorly, which degrades ultra-short-term solar irradiance forecasts over time. \n\nResearchers Min Chen and Liangchen Guo of the Institute of Urban Meteorology at the China Meteorological Admini",
-    "published_at": "2026-01-01T02:02:25Z",
-    "updated_at": "2026-01-01T01:10:54.578552Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35067,
     "title": "Satellites lined up for shared space computing power networks",
     "authors": [
@@ -294,6 +294,26 @@
     "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nChina's geospatial information industry is approaching a total value of 1 trillion yuan (about $143 billion), according to the Ministry of Natural Resources. The ministry reported that by the end of 2025 the sector is expected to generate more than 900 billion yuan in output, an increase of over 30 percent compared with 2020, and now employs more than 4 million people. \n\nA core element of th",
     "published_at": "2026-01-01T02:02:25Z",
     "updated_at": "2026-01-01T01:10:54.600657Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35066,
+    "title": "Satellite and model fusion boosts China solar radiation forecasts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Satellite_and_model_fusion_boosts_China_solar_radiation_forecasts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-schematic-satellite-fy4b-regional-numerical-forecasting-prediction-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nThe intermittent output of solar power creates challenges for grid operators who must keep supply and demand in balance. Traditional numerical weather prediction models often handle cloud initialization poorly, which degrades ultra-short-term solar irradiance forecasts over time. \n\nResearchers Min Chen and Liangchen Guo of the Institute of Urban Meteorology at the China Meteorological Admini",
+    "published_at": "2026-01-01T02:02:25Z",
+    "updated_at": "2026-01-01T01:10:54.578552Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -976,26 +996,6 @@
     "summary": "Introduction The Clouds and the Earth’s Radiant Energy System (CERES) was initially designed in the late-1980s and early-1990s as a facility instrument for NASA’s Earth Observing System (EOS). Since its inception, NASA’s Langley Research Center (LaRC) has led this effort. CERES has a long history with seven different instruments flying on five different missions since […]",
     "published_at": "2025-12-29T22:02:37Z",
     "updated_at": "2025-12-29T22:10:06.587016Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35033,
-    "title": "2025 Space Station Science Snapshots",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/2025-space-station-science-snapshots/",
-    "image_url": "https://images-assets.nasa.gov/image/iss073e0548846/iss073e0548846~large.jpg",
-    "news_site": "NASA",
-    "summary": "2025 marks another year pushing the boundaries of scientific research aboard the International Space Station. This past year, over 750 investigations were conducted aboard the space station, supported by crewed missions and resupply vehicles delivering essential cargo and experiments to the orbiting laboratory. This year’s research included testing DNA’s ability to store data, producing vital […]",
-    "published_at": "2025-12-29T19:00:00Z",
-    "updated_at": "2025-12-29T19:00:19.396129Z",
     "featured": false,
     "launches": [],
     "events": [],
