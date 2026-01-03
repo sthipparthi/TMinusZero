@@ -20,6 +20,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35092,
+    "title": "Joint ground- and space-based observations reveal Saturn-mass rogue planet",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Joint_ground__and_space_based_observations_reveal_Saturn_mass_rogue_planet_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/hot-saturn-exoplanet-extrasolar-starquakes-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (SPX) Jan 03, 2026\n\n\nSimultaneous ground- and space-based observations of a newly discovered free-floating planet have enabled direct measurement of its mass and distance from Earth, according to a new study. The findings offer insights into the diverse and dynamic pathways by which planets can be cast adrift into interstellar space. \n\nAlthough studies to date have only revealed a handful of such free-floating p",
+    "published_at": "2026-01-03T01:55:37Z",
+    "updated_at": "2026-01-03T00:50:29.931602Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35091,
     "title": "Danish Mani mission to chart lunar terrain in 3D",
     "authors": [
@@ -54,26 +74,6 @@
     "summary": "Los Angeles CA (SPX) Jan 03, 2026\n\n\nFrom its perch on a rugged ridge in Gale Crater, NASA's Curiosity rover has stitched together a holiday postcard that doubles as a science panorama, framing the Nevado Sajama drill site against a hazy Martian sky. The scene merges two Mastcam mosaics taken on Nov. 18, 2025 - late afternoon on sol 4722 and early morning on sol 4723 - then tinted in cool blues and warm golds to emphasize changing",
     "published_at": "2026-01-03T01:55:37Z",
     "updated_at": "2026-01-03T00:50:29.898530Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35092,
-    "title": "Joint ground- and space-based observations reveal Saturn-mass rogue planet",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Joint_ground__and_space_based_observations_reveal_Saturn_mass_rogue_planet_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/hot-saturn-exoplanet-extrasolar-starquakes-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Jan 03, 2026\n\n\nSimultaneous ground- and space-based observations of a newly discovered free-floating planet have enabled direct measurement of its mass and distance from Earth, according to a new study. The findings offer insights into the diverse and dynamic pathways by which planets can be cast adrift into interstellar space. \n\nAlthough studies to date have only revealed a handful of such free-floating p",
-    "published_at": "2026-01-03T01:55:37Z",
-    "updated_at": "2026-01-03T00:50:29.931602Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -287,20 +287,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35069,
-    "title": "Australian team maps quantum error memory over time",
+    "id": 35078,
+    "title": "Cyviz awarded two classified NATO defense contracts for mission critical visualization systems",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Australian_team_maps_quantum_error_memory_over_time_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/macquarie-quantum-memory-illustration-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Cyviz_awarded_two_classified_NATO_defense_contracts_for_mission_critical_visualization_systems_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/nato-missile-defence-capability-map-finland-sweden-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Jan 01, 2026\n\n\nA collaboration led by Macquarie University has reconstructed how errors develop and spread inside working quantum computers, revealing that noise can link events across time rather than appearing as isolated random faults. \n\nThe researchers show that small inaccuracies in quantum processors can linger, evolve and correlate across different computational steps, creating a form of temporal me",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nCyviz, a provider of immersive visualization systems and collaborative mission operations platforms, has been awarded two classified defense contracts by the North Atlantic Treaty Organization aimed at advancing mission critical capabilities for allied operations. \n\nUnder the contracts, Cyviz will deliver secure and scalable visualization suites designed to support NATO's strategic command a",
     "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:15.935010Z",
+    "updated_at": "2026-01-01T10:20:16.098560Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -327,80 +327,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35079,
-    "title": "TanDEM X marks 15 years mapping Earth in 3D",
+    "id": 35073,
+    "title": "RTX radar selected to support autonomous X 62A fighter testing",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/TanDEM_X_marks_15_years_mapping_Earth_in_3D_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/dlr-western-europe-tandem-x-digital-elevation-model-bg.jpg",
+    "url": "https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rtx-raytheon-usaf-x-62-autonomous-vista-f-16d-phantomstrike-radar-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nExactly 15 years ago, in December 2010, the German TanDEM-X mission began routine radar imaging of Earth to produce a global digital elevation model, launching a long-running Earth observation program. Over six years, data from the twin radar satellites were processed into a consistent, high-precision digital elevation model that covers all land surfaces on the planet. This elevation model has s",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nRaytheon has received a U.S. Air Force contract to integrate its PhantomStrike radar on the autonomous X-62A Variable In-flight Simulation Test Aircraft, or VISTA, a modified F-16D Block 30 test aircraft upgraded with Block 40 avionics and configured as a machine-learning and software testbed. \n\nThe X-62A VISTA functions as a dedicated platform for flight testing autonomy and artificial inte",
     "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.110151Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35075,
-    "title": "Hydrogen peroxide thruster qualifies for ESA launcher attitude control",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hydrogen_peroxide_thruster_qualifies_for_ESA_launcher_attitude_control_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-ariel-arkadia-ariel-thrusters-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 01, 2026\n\n\nMany launchers and satellites rely on separate propulsion systems for major orbital maneuvers and for attitude control, with the latter provided by compact reaction control thrusters that steer and stabilise the vehicle. \n\nSpanish firm Arkadia Space has developed a new 250 newton monopropellant reaction control thruster, designated ARIEL, for use on reusable European launchers and other spac",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.038791Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35074,
-    "title": "ESA reaches new benchmark in autonomous formation flying",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.022388Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35077,
-    "title": "MDA Space partners with Canada defence department and Telesat to deliver next generation military satcom",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/MDA_Space_partners_with_Canada_defence_department_and_Telesat_to_deliver_next_generation_military_satcom_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mda-project-hydra-5th-generation-data-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nMDA Space has signed a strategic partnership agreement with the Canadian Department of National Defence and satellite operator Telesat to deliver advanced military satellite communications capabilities for the Canadian Armed Forces. \n\nThe partnership will focus on providing secure, resilient, and high capacity satellite communications by integrating MDA Space spacecraft and systems expertise",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.084921Z",
+    "updated_at": "2026-01-01T10:20:16.008755Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -427,20 +367,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35078,
-    "title": "Cyviz awarded two classified NATO defense contracts for mission critical visualization systems",
+    "id": 35080,
+    "title": "Physicists map axion production paths inside deuterium tritium fusion reactors",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Cyviz_awarded_two_classified_NATO_defense_contracts_for_mission_critical_visualization_systems_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nato-missile-defence-capability-map-finland-sweden-bg.jpg",
+    "url": "https://www.energy-daily.com/reports/Physicists_map_axion_production_paths_inside_deuterium_tritium_fusion_reactors_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/tritium-three-nucleons-short-range-correlations-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nCyviz, a provider of immersive visualization systems and collaborative mission operations platforms, has been awarded two classified defense contracts by the North Atlantic Treaty Organization aimed at advancing mission critical capabilities for allied operations. \n\nUnder the contracts, Cyviz will deliver secure and scalable visualization suites designed to support NATO's strategic command a",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nA University of Cincinnati physicist and collaborators from Fermi National Accelerator Laboratory MIT and Technion-Israel Institute of Technology have developed a theoretical framework showing how axions or axion like particles could be produced and studied in deuterium tritium fusion reactors lined with lithium. \n\nTheir analysis builds on a recurring joke arc in the television series The Bi",
     "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.098560Z",
+    "updated_at": "2026-01-01T10:20:16.127927Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -467,40 +407,80 @@
     "detailed_news": ""
   },
   {
-    "id": 35073,
-    "title": "RTX radar selected to support autonomous X 62A fighter testing",
+    "id": 35074,
+    "title": "ESA reaches new benchmark in autonomous formation flying",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rtx-raytheon-usaf-x-62-autonomous-vista-f-16d-phantomstrike-radar-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nRaytheon has received a U.S. Air Force contract to integrate its PhantomStrike radar on the autonomous X-62A Variable In-flight Simulation Test Aircraft, or VISTA, a modified F-16D Block 30 test aircraft upgraded with Block 40 avionics and configured as a machine-learning and software testbed. \n\nThe X-62A VISTA functions as a dedicated platform for flight testing autonomy and artificial inte",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
     "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.008755Z",
+    "updated_at": "2026-01-01T10:20:16.022388Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35080,
-    "title": "Physicists map axion production paths inside deuterium tritium fusion reactors",
+    "id": 35079,
+    "title": "TanDEM X marks 15 years mapping Earth in 3D",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.energy-daily.com/reports/Physicists_map_axion_production_paths_inside_deuterium_tritium_fusion_reactors_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/tritium-three-nucleons-short-range-correlations-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/TanDEM_X_marks_15_years_mapping_Earth_in_3D_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/dlr-western-europe-tandem-x-digital-elevation-model-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nA University of Cincinnati physicist and collaborators from Fermi National Accelerator Laboratory MIT and Technion-Israel Institute of Technology have developed a theoretical framework showing how axions or axion like particles could be produced and studied in deuterium tritium fusion reactors lined with lithium. \n\nTheir analysis builds on a recurring joke arc in the television series The Bi",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nExactly 15 years ago, in December 2010, the German TanDEM-X mission began routine radar imaging of Earth to produce a global digital elevation model, launching a long-running Earth observation program. Over six years, data from the twin radar satellites were processed into a consistent, high-precision digital elevation model that covers all land surfaces on the planet. This elevation model has s",
     "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.127927Z",
+    "updated_at": "2026-01-01T10:20:16.110151Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35069,
+    "title": "Australian team maps quantum error memory over time",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Australian_team_maps_quantum_error_memory_over_time_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/macquarie-quantum-memory-illustration-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Jan 01, 2026\n\n\nA collaboration led by Macquarie University has reconstructed how errors develop and spread inside working quantum computers, revealing that noise can link events across time rather than appearing as isolated random faults. \n\nThe researchers show that small inaccuracies in quantum processors can linger, evolve and correlate across different computational steps, creating a form of temporal me",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:15.935010Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35075,
+    "title": "Hydrogen peroxide thruster qualifies for ESA launcher attitude control",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hydrogen_peroxide_thruster_qualifies_for_ESA_launcher_attitude_control_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-ariel-arkadia-ariel-thrusters-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Jan 01, 2026\n\n\nMany launchers and satellites rely on separate propulsion systems for major orbital maneuvers and for attitude control, with the latter provided by compact reaction control thrusters that steer and stabilise the vehicle. \n\nSpanish firm Arkadia Space has developed a new 250 newton monopropellant reaction control thruster, designated ARIEL, for use on reusable European launchers and other spac",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.038791Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -527,20 +507,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35068,
-    "title": "China tracks surge in geospatial information industry",
+    "id": 35077,
+    "title": "MDA Space partners with Canada defence department and Telesat to deliver next generation military satcom",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.gpsdaily.com/reports/China_tracks_surge_in_geospatial_information_industry_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/eo-china-gaofen-7-precision-forest-height-measurement-satellite-bg.jpg",
+    "url": "https://www.spacewar.com/reports/MDA_Space_partners_with_Canada_defence_department_and_Telesat_to_deliver_next_generation_military_satcom_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mda-project-hydra-5th-generation-data-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nChina's geospatial information industry is approaching a total value of 1 trillion yuan (about $143 billion), according to the Ministry of Natural Resources. The ministry reported that by the end of 2025 the sector is expected to generate more than 900 billion yuan in output, an increase of over 30 percent compared with 2020, and now employs more than 4 million people. \n\nA core element of th",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nMDA Space has signed a strategic partnership agreement with the Canadian Department of National Defence and satellite operator Telesat to deliver advanced military satellite communications capabilities for the Canadian Armed Forces. \n\nThe partnership will focus on providing secure, resilient, and high capacity satellite communications by integrating MDA Space spacecraft and systems expertise",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.084921Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35064,
+    "title": "China launches twin Shijian-29 satellites to test space-target detection tech",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/China_launches_twin_Shijian_29_satellites_to_test_space_target_detection_tech_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/long-march-7a-wenchang-hainan-night-launch-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\nChina has launched a pair of Shijian-29 satellites on a Long March 7A rocket, adding new technology-demonstration assets to its growing space-based surveillance and tracking capabilities. The mission lifted off from the coastal Wenchang Space Launch Site on Hainan Island at 6:40 a.m. Beijing Time on Wednesday, placing the two spacecraft into their planned orbit and marking the 623rd flight of the Long March launch vehicle family.",
     "published_at": "2026-01-01T02:02:25Z",
-    "updated_at": "2026-01-01T01:10:54.600657Z",
+    "updated_at": "2026-01-01T01:10:54.522141Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -567,6 +567,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35068,
+    "title": "China tracks surge in geospatial information industry",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.gpsdaily.com/reports/China_tracks_surge_in_geospatial_information_industry_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/eo-china-gaofen-7-precision-forest-height-measurement-satellite-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nChina's geospatial information industry is approaching a total value of 1 trillion yuan (about $143 billion), according to the Ministry of Natural Resources. The ministry reported that by the end of 2025 the sector is expected to generate more than 900 billion yuan in output, an increase of over 30 percent compared with 2020, and now employs more than 4 million people. \n\nA core element of th",
+    "published_at": "2026-01-01T02:02:25Z",
+    "updated_at": "2026-01-01T01:10:54.600657Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35066,
     "title": "Satellite and model fusion boosts China solar radiation forecasts",
     "authors": [
@@ -581,26 +601,6 @@
     "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nThe intermittent output of solar power creates challenges for grid operators who must keep supply and demand in balance. Traditional numerical weather prediction models often handle cloud initialization poorly, which degrades ultra-short-term solar irradiance forecasts over time. \n\nResearchers Min Chen and Liangchen Guo of the Institute of Urban Meteorology at the China Meteorological Admini",
     "published_at": "2026-01-01T02:02:25Z",
     "updated_at": "2026-01-01T01:10:54.578552Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35064,
-    "title": "China launches twin Shijian-29 satellites to test space-target detection tech",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/China_launches_twin_Shijian_29_satellites_to_test_space_target_detection_tech_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/long-march-7a-wenchang-hainan-night-launch-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\nChina has launched a pair of Shijian-29 satellites on a Long March 7A rocket, adding new technology-demonstration assets to its growing space-based surveillance and tracking capabilities. The mission lifted off from the coastal Wenchang Space Launch Site on Hainan Island at 6:40 a.m. Beijing Time on Wednesday, placing the two spacecraft into their planned orbit and marking the 623rd flight of the Long March launch vehicle family.",
-    "published_at": "2026-01-01T02:02:25Z",
-    "updated_at": "2026-01-01T01:10:54.522141Z",
     "featured": false,
     "launches": [],
     "events": [],
