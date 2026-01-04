@@ -1,5 +1,72 @@
 [
   {
+    "id": 35101,
+    "title": "Space Force begins base network overhaul as cybersecurity demands grow",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-force-begins-base-network-overhaul-as-cybersecurity-demands-grow/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/241120-X-TP791-1001-scaled.jpg?fit=1024%2C681&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Department of the Air Force is planning upgrades across 14 Space Force bases under the “Base Infrastructure Modernization” IDIQ contract\nThe post Space Force begins base network overhaul as cybersecurity demands grow appeared first on SpaceNews.",
+    "published_at": "2026-01-04T05:30:00Z",
+    "updated_at": "2026-01-04T05:30:25.765463Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35100,
+    "title": "Live coverage: SpaceX to launch first Starlink deployment mission since problem strikes satellite",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/01/04/live-coverage-spacex-to-launch-first-starlink-deployment-mission-since-problem-strikes-satellite/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260103_Starlink_6-88_prelaunch_JP-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 6-88 will add 29 broadband internet satellites to the constellation of more than 9,300 in low Earth orbit. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 12 a.m. EST (0500 UTC). ",
+    "published_at": "2026-01-04T01:01:37Z",
+    "updated_at": "2026-01-04T01:10:24.901089Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35099,
+    "title": "SpaceX, China drive new record for orbital launches in 2025",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-china-drive-new-record-for-orbital-launches-in-2025/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/f9-165.jpeg?fit=1024%2C694&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nOrbital launch activity set another annual record in 2025, although future growth may depend on factors different from those that fueled the recent surge.\nThe post SpaceX, China drive new record for orbital launches in 2025 appeared first on SpaceNews.",
+    "published_at": "2026-01-04T00:32:22Z",
+    "updated_at": "2026-01-04T00:40:20.015174Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35098,
     "title": "New Spanish communications satellite suffers ‘space particle’ impact",
     "authors": [
@@ -107,26 +174,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35092,
-    "title": "Joint ground- and space-based observations reveal Saturn-mass rogue planet",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Joint_ground__and_space_based_observations_reveal_Saturn_mass_rogue_planet_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/hot-saturn-exoplanet-extrasolar-starquakes-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Jan 03, 2026\n\n\nSimultaneous ground- and space-based observations of a newly discovered free-floating planet have enabled direct measurement of its mass and distance from Earth, according to a new study. The findings offer insights into the diverse and dynamic pathways by which planets can be cast adrift into interstellar space. \n\nAlthough studies to date have only revealed a handful of such free-floating p",
-    "published_at": "2026-01-03T01:55:37Z",
-    "updated_at": "2026-01-03T00:50:29.931602Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35090,
     "title": "Curiosity's Nevado Sajama postcard captures Mars on the eve of conjunction",
     "authors": [
@@ -181,6 +228,26 @@
     "summary": "Berlin, Germany (SPX) Jan 03, 2026\n\n\nThe University of Copenhagen will lead Denmark's first lunar mission, a European Space Agency project that will map the Moon's surface in three dimensions to support future landings and base construction. \n\nThe Mani satellite will orbit the Moon's north and south polar regions, acquiring high-resolution images that can be combined into detailed elevation models. \n\nBy imaging the same are",
     "published_at": "2026-01-03T01:55:37Z",
     "updated_at": "2026-01-03T00:50:29.922541Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35092,
+    "title": "Joint ground- and space-based observations reveal Saturn-mass rogue planet",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Joint_ground__and_space_based_observations_reveal_Saturn_mass_rogue_planet_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/hot-saturn-exoplanet-extrasolar-starquakes-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (SPX) Jan 03, 2026\n\n\nSimultaneous ground- and space-based observations of a newly discovered free-floating planet have enabled direct measurement of its mass and distance from Earth, according to a new study. The findings offer insights into the diverse and dynamic pathways by which planets can be cast adrift into interstellar space. \n\nAlthough studies to date have only revealed a handful of such free-floating p",
+    "published_at": "2026-01-03T01:55:37Z",
+    "updated_at": "2026-01-03T00:50:29.931602Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -374,6 +441,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35073,
+    "title": "RTX radar selected to support autonomous X 62A fighter testing",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rtx-raytheon-usaf-x-62-autonomous-vista-f-16d-phantomstrike-radar-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nRaytheon has received a U.S. Air Force contract to integrate its PhantomStrike radar on the autonomous X-62A Variable In-flight Simulation Test Aircraft, or VISTA, a modified F-16D Block 30 test aircraft upgraded with Block 40 avionics and configured as a machine-learning and software testbed. \n\nThe X-62A VISTA functions as a dedicated platform for flight testing autonomy and artificial inte",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.008755Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35078,
     "title": "Cyviz awarded two classified NATO defense contracts for mission critical visualization systems",
     "authors": [
@@ -408,26 +495,6 @@
     "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nMuon Space has secured a Direct to Phase II award to support the Space Development Agency's missile warning and tracking mission, advancing the company's role in developing space based sensing capabilities for national defense. \n\nThe award enables Muon Space to continue development of its QuickBeam multispectral electro optical and infrared payload technology, which is designed to provide pe",
     "published_at": "2026-01-01T11:20:58Z",
     "updated_at": "2026-01-01T10:20:15.969654Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35074,
-    "title": "ESA reaches new benchmark in autonomous formation flying",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.022388Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -594,20 +661,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35073,
-    "title": "RTX radar selected to support autonomous X 62A fighter testing",
+    "id": 35074,
+    "title": "ESA reaches new benchmark in autonomous formation flying",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rtx-raytheon-usaf-x-62-autonomous-vista-f-16d-phantomstrike-radar-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nRaytheon has received a U.S. Air Force contract to integrate its PhantomStrike radar on the autonomous X-62A Variable In-flight Simulation Test Aircraft, or VISTA, a modified F-16D Block 30 test aircraft upgraded with Block 40 avionics and configured as a machine-learning and software testbed. \n\nThe X-62A VISTA functions as a dedicated platform for flight testing autonomy and artificial inte",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
     "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.008755Z",
+    "updated_at": "2026-01-01T10:20:16.022388Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -929,73 +996,6 @@
     "summary": "As 2025 turns to 2026, the worldwide launch manifest is quieting down, with only four…\nThe post Launch Roundup: Worldwide launch manifest quiet as 2026 begins appeared first on NASASpaceFlight.com.",
     "published_at": "2025-12-30T23:28:19Z",
     "updated_at": "2025-12-30T23:31:37.412597Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35053,
-    "title": "Space Force offers new Vandenberg launch site",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/space-force-offers-new-vandenberg-launch-site/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/vandenberg.jpeg?fit=1024%2C681&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nVandenberg Space Force Base is offering launch providers access to a new site with conditions that could enable flights of SpaceX’s Starship.\nThe post Space Force offers new Vandenberg launch site appeared first on SpaceNews.",
-    "published_at": "2025-12-30T23:05:44Z",
-    "updated_at": "2025-12-30T23:11:36.811910Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35052,
-    "title": "ESA confirms data breach",
-    "authors": [
-      {
-        "name": "Emma Gatti",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/esa-confirms-data-breach/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/ariel-scaled.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nMILAN — The European Space Agency has confirmed a security breach of unclassified material from  science servers following reports on social media. A threat actor claimed to have compromised ESA systems and to have leaked roughly 200 gigabytes of data. According to screenshots shared on X by French cybersecurity professional Seb Latom, the actor alleges […]\nThe post ESA confirms data breach appeared first on SpaceNews.",
-    "published_at": "2025-12-30T18:30:15Z",
-    "updated_at": "2025-12-30T18:40:22.495099Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35051,
-    "title": "Curiosity Sends Holiday Postcard from Mars",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/curiosity-sends-holiday-postcard-from-mars/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/pia26680orig.jpg",
-    "news_site": "NASA",
-    "summary": "Team members working with NASA’s Curiosity Mars rover created this “postcard” by commanding the rover to take images at two times of day on Nov. 18, 2025, spanning periods that occurred on both the 4,722nd and 4,723rd Martian days, or sols, of the mission. The panoramas were captured at 4:15 p.m. on Sol 4,722 and […]",
-    "published_at": "2025-12-30T18:20:49Z",
-    "updated_at": "2025-12-30T18:30:07.375714Z",
     "featured": false,
     "launches": [],
     "events": [],
