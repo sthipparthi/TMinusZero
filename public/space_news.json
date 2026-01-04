@@ -174,26 +174,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35090,
-    "title": "Curiosity's Nevado Sajama postcard captures Mars on the eve of conjunction",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Curiositys_Nevado_Sajama_postcard_captures_Mars_on_the_eve_of_conjunction_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-curiosity-valley-view-combo-sol-4722-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 03, 2026\n\n\nFrom its perch on a rugged ridge in Gale Crater, NASA's Curiosity rover has stitched together a holiday postcard that doubles as a science panorama, framing the Nevado Sajama drill site against a hazy Martian sky. The scene merges two Mastcam mosaics taken on Nov. 18, 2025 - late afternoon on sol 4722 and early morning on sol 4723 - then tinted in cool blues and warm golds to emphasize changing",
-    "published_at": "2026-01-03T01:55:37Z",
-    "updated_at": "2026-01-03T00:50:29.898530Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35093,
     "title": "Galileo satellites ride Ariane 6 to boost Europe navigation resilience",
     "authors": [
@@ -214,20 +194,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35091,
-    "title": "Danish Mani mission to chart lunar terrain in 3D",
+    "id": 35090,
+    "title": "Curiosity's Nevado Sajama postcard captures Mars on the eve of conjunction",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.moondaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/denmark-mani-satellite-lunar-mapper-bg.jpg",
+    "url": "https://www.marsdaily.com/reports/Curiositys_Nevado_Sajama_postcard_captures_Mars_on_the_eve_of_conjunction_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mars-curiosity-valley-view-combo-sol-4722-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 03, 2026\n\n\nThe University of Copenhagen will lead Denmark's first lunar mission, a European Space Agency project that will map the Moon's surface in three dimensions to support future landings and base construction. \n\nThe Mani satellite will orbit the Moon's north and south polar regions, acquiring high-resolution images that can be combined into detailed elevation models. \n\nBy imaging the same are",
+    "summary": "Los Angeles CA (SPX) Jan 03, 2026\n\n\nFrom its perch on a rugged ridge in Gale Crater, NASA's Curiosity rover has stitched together a holiday postcard that doubles as a science panorama, framing the Nevado Sajama drill site against a hazy Martian sky. The scene merges two Mastcam mosaics taken on Nov. 18, 2025 - late afternoon on sol 4722 and early morning on sol 4723 - then tinted in cool blues and warm golds to emphasize changing",
     "published_at": "2026-01-03T01:55:37Z",
-    "updated_at": "2026-01-03T00:50:29.922541Z",
+    "updated_at": "2026-01-03T00:50:29.898530Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -248,6 +228,26 @@
     "summary": "Washington DC (SPX) Jan 03, 2026\n\n\nSimultaneous ground- and space-based observations of a newly discovered free-floating planet have enabled direct measurement of its mass and distance from Earth, according to a new study. The findings offer insights into the diverse and dynamic pathways by which planets can be cast adrift into interstellar space. \n\nAlthough studies to date have only revealed a handful of such free-floating p",
     "published_at": "2026-01-03T01:55:37Z",
     "updated_at": "2026-01-03T00:50:29.931602Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35091,
+    "title": "Danish Mani mission to chart lunar terrain in 3D",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/denmark-mani-satellite-lunar-mapper-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 03, 2026\n\n\nThe University of Copenhagen will lead Denmark's first lunar mission, a European Space Agency project that will map the Moon's surface in three dimensions to support future landings and base construction. \n\nThe Mani satellite will orbit the Moon's north and south polar regions, acquiring high-resolution images that can be combined into detailed elevation models. \n\nBy imaging the same are",
+    "published_at": "2026-01-03T01:55:37Z",
+    "updated_at": "2026-01-03T00:50:29.922541Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -441,6 +441,166 @@
     "detailed_news": ""
   },
   {
+    "id": 35079,
+    "title": "TanDEM X marks 15 years mapping Earth in 3D",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/TanDEM_X_marks_15_years_mapping_Earth_in_3D_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/dlr-western-europe-tandem-x-digital-elevation-model-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nExactly 15 years ago, in December 2010, the German TanDEM-X mission began routine radar imaging of Earth to produce a global digital elevation model, launching a long-running Earth observation program. Over six years, data from the twin radar satellites were processed into a consistent, high-precision digital elevation model that covers all land surfaces on the planet. This elevation model has s",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.110151Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35076,
+    "title": "Planet delivers first light image from Pelican 6 satellite capturing Lhasa Gonggar Airport",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Planet_delivers_first_light_image_from_Pelican_6_satellite_capturing_Lhasa_Gonggar_Airport_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/planet-labs-first-light-pelican-6-lhasa-gonggar-international-airport-tibet-china-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nPlanet Labs has released the first light image from its Pelican 6 Earth imaging satellite, highlighting Lhasa Gonggar International Airport in Tibet, China, and demonstrating the new spacecraft's imaging performance. \n\nThe Pelican 6 satellite is part of Planet's Pelican constellation, a fleet of next generation Earth observation spacecraft designed to capture high resolution imagery with rap",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.059038Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35069,
+    "title": "Australian team maps quantum error memory over time",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Australian_team_maps_quantum_error_memory_over_time_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/macquarie-quantum-memory-illustration-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Jan 01, 2026\n\n\nA collaboration led by Macquarie University has reconstructed how errors develop and spread inside working quantum computers, revealing that noise can link events across time rather than appearing as isolated random faults. \n\nThe researchers show that small inaccuracies in quantum processors can linger, evolve and correlate across different computational steps, creating a form of temporal me",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:15.935010Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35071,
+    "title": "SDA expands Tracking Layer satellite awards and related missile defense contracts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Space_Development_Agency_expands_Tracking_Layer_satellite_awards_and_related_missile_defense_contracts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rocket-lab-lightning-spacecraft-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nThe Space Development Agency has selected four contractor teams to build and operate 72 Tracking Layer satellites for Tranche 3 of the Proliferated Warfighter Space Architecture in low Earth orbit, under agreements valued at approximately 3.5 billion dollars. \n\nThe awards, issued under Other Transaction Authority, go to Lockheed Martin of Sunnyvale California, Rocket Lab USA of Long Beach Ca",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:15.982619Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35074,
+    "title": "ESA reaches new benchmark in autonomous formation flying",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.022388Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35080,
+    "title": "Physicists map axion production paths inside deuterium tritium fusion reactors",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.energy-daily.com/reports/Physicists_map_axion_production_paths_inside_deuterium_tritium_fusion_reactors_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/tritium-three-nucleons-short-range-correlations-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nA University of Cincinnati physicist and collaborators from Fermi National Accelerator Laboratory MIT and Technion-Israel Institute of Technology have developed a theoretical framework showing how axions or axion like particles could be produced and studied in deuterium tritium fusion reactors lined with lithium. \n\nTheir analysis builds on a recurring joke arc in the television series The Bi",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.127927Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35070,
+    "title": "Muon Space secures Direct to Phase II award for SDA missile warning and tracking mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Muon_Space_secures_Direct_to_Phase_II_award_for_SDA_missile_warning_and_tracking_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/muon-space-quickbeam-multispectral-eo-ir-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nMuon Space has secured a Direct to Phase II award to support the Space Development Agency's missile warning and tracking mission, advancing the company's role in developing space based sensing capabilities for national defense. \n\nThe award enables Muon Space to continue development of its QuickBeam multispectral electro optical and infrared payload technology, which is designed to provide pe",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:15.969654Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35072,
+    "title": "DLR completes ground roll tests of HAP alpha uncrewed high altitude solar aircraft",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/DLR_completes_ground_roll_tests_of_HAP_alpha_uncrewed_high_altitude_solar_aircraft_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uav-zephyr-s-haps-drone-airbus-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nThe German Aerospace Center has successfully completed ground roll tests of HAP alpha, an uncrewed high altitude solar powered aircraft designed to operate in the lower stratosphere for extended periods, marking a key milestone toward future flight testing. \n\nGround roll tests verified the aircraft's steering, braking, propulsion response, and ground handling behavior under realistic operati",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:15.992737Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35073,
     "title": "RTX radar selected to support autonomous X 62A fighter testing",
     "authors": [
@@ -481,126 +641,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35070,
-    "title": "Muon Space secures Direct to Phase II award for SDA missile warning and tracking mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Muon_Space_secures_Direct_to_Phase_II_award_for_SDA_missile_warning_and_tracking_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/muon-space-quickbeam-multispectral-eo-ir-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nMuon Space has secured a Direct to Phase II award to support the Space Development Agency's missile warning and tracking mission, advancing the company's role in developing space based sensing capabilities for national defense. \n\nThe award enables Muon Space to continue development of its QuickBeam multispectral electro optical and infrared payload technology, which is designed to provide pe",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:15.969654Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35079,
-    "title": "TanDEM X marks 15 years mapping Earth in 3D",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/TanDEM_X_marks_15_years_mapping_Earth_in_3D_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/dlr-western-europe-tandem-x-digital-elevation-model-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nExactly 15 years ago, in December 2010, the German TanDEM-X mission began routine radar imaging of Earth to produce a global digital elevation model, launching a long-running Earth observation program. Over six years, data from the twin radar satellites were processed into a consistent, high-precision digital elevation model that covers all land surfaces on the planet. This elevation model has s",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.110151Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35071,
-    "title": "SDA expands Tracking Layer satellite awards and related missile defense contracts",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Space_Development_Agency_expands_Tracking_Layer_satellite_awards_and_related_missile_defense_contracts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rocket-lab-lightning-spacecraft-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nThe Space Development Agency has selected four contractor teams to build and operate 72 Tracking Layer satellites for Tranche 3 of the Proliferated Warfighter Space Architecture in low Earth orbit, under agreements valued at approximately 3.5 billion dollars. \n\nThe awards, issued under Other Transaction Authority, go to Lockheed Martin of Sunnyvale California, Rocket Lab USA of Long Beach Ca",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:15.982619Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35080,
-    "title": "Physicists map axion production paths inside deuterium tritium fusion reactors",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.energy-daily.com/reports/Physicists_map_axion_production_paths_inside_deuterium_tritium_fusion_reactors_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/tritium-three-nucleons-short-range-correlations-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nA University of Cincinnati physicist and collaborators from Fermi National Accelerator Laboratory MIT and Technion-Israel Institute of Technology have developed a theoretical framework showing how axions or axion like particles could be produced and studied in deuterium tritium fusion reactors lined with lithium. \n\nTheir analysis builds on a recurring joke arc in the television series The Bi",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.127927Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35072,
-    "title": "DLR completes ground roll tests of HAP alpha uncrewed high altitude solar aircraft",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/DLR_completes_ground_roll_tests_of_HAP_alpha_uncrewed_high_altitude_solar_aircraft_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uav-zephyr-s-haps-drone-airbus-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nThe German Aerospace Center has successfully completed ground roll tests of HAP alpha, an uncrewed high altitude solar powered aircraft designed to operate in the lower stratosphere for extended periods, marking a key milestone toward future flight testing. \n\nGround roll tests verified the aircraft's steering, braking, propulsion response, and ground handling behavior under realistic operati",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:15.992737Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35069,
-    "title": "Australian team maps quantum error memory over time",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Australian_team_maps_quantum_error_memory_over_time_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/macquarie-quantum-memory-illustration-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Jan 01, 2026\n\n\nA collaboration led by Macquarie University has reconstructed how errors develop and spread inside working quantum computers, revealing that noise can link events across time rather than appearing as isolated random faults. \n\nThe researchers show that small inaccuracies in quantum processors can linger, evolve and correlate across different computational steps, creating a form of temporal me",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:15.935010Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35075,
     "title": "Hydrogen peroxide thruster qualifies for ESA launcher attitude control",
     "authors": [
@@ -615,26 +655,6 @@
     "summary": "Paris, France (SPX) Jan 01, 2026\n\n\nMany launchers and satellites rely on separate propulsion systems for major orbital maneuvers and for attitude control, with the latter provided by compact reaction control thrusters that steer and stabilise the vehicle. \n\nSpanish firm Arkadia Space has developed a new 250 newton monopropellant reaction control thruster, designated ARIEL, for use on reusable European launchers and other spac",
     "published_at": "2026-01-01T11:20:58Z",
     "updated_at": "2026-01-01T10:20:16.038791Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35076,
-    "title": "Planet delivers first light image from Pelican 6 satellite capturing Lhasa Gonggar Airport",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Planet_delivers_first_light_image_from_Pelican_6_satellite_capturing_Lhasa_Gonggar_Airport_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/planet-labs-first-light-pelican-6-lhasa-gonggar-international-airport-tibet-china-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nPlanet Labs has released the first light image from its Pelican 6 Earth imaging satellite, highlighting Lhasa Gonggar International Airport in Tibet, China, and demonstrating the new spacecraft's imaging performance. \n\nThe Pelican 6 satellite is part of Planet's Pelican constellation, a fleet of next generation Earth observation spacecraft designed to capture high resolution imagery with rap",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.059038Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -661,20 +681,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35074,
-    "title": "ESA reaches new benchmark in autonomous formation flying",
+    "id": 35067,
+    "title": "Satellites lined up for shared space computing power networks",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Satellites_lined_up_for_shared_space_computing_power_networks_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/space-computing-power-networks-space-cpn-architecture-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.022388Z",
+    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nResearchers are outlining a space computing power network that would link communication and computation across satellite constellations to handle growing data processing demands in orbit. Over recent decades, satellites have expanded global connectivity and remote sensing, but many systems still move raw data to the ground for processing under tight contact windows. \n\nTraditional satellite-g",
+    "published_at": "2026-01-01T02:02:25Z",
+    "updated_at": "2026-01-01T01:10:54.590387Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -701,20 +721,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35067,
-    "title": "Satellites lined up for shared space computing power networks",
+    "id": 35065,
+    "title": "Satellites to extend 5G and 6G coverage worldwide",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Satellites_lined_up_for_shared_space_computing_power_networks_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/space-computing-power-networks-space-cpn-architecture-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Satellites_to_extend_5G_and_6G_coverage_worldwide_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satellite-communication-systems-future-5g-6g-connectivity-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nResearchers are outlining a space computing power network that would link communication and computation across satellite constellations to handle growing data processing demands in orbit. Over recent decades, satellites have expanded global connectivity and remote sensing, but many systems still move raw data to the ground for processing under tight contact windows. \n\nTraditional satellite-g",
+    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nThe integration of satellite communication systems with terrestrial networks is emerging as a central approach to achieving seamless global connectivity in 5G and future 6G eras. A recent article in the journal Engineering titled \"Evolution of Satellite Communication Systems Toward 5G/6G for 2030 and Beyond\" reviews recent progress, technical obstacles, and likely directions for this combined in",
     "published_at": "2026-01-01T02:02:25Z",
-    "updated_at": "2026-01-01T01:10:54.590387Z",
+    "updated_at": "2026-01-01T01:10:54.561558Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -755,26 +775,6 @@
     "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nThe intermittent output of solar power creates challenges for grid operators who must keep supply and demand in balance. Traditional numerical weather prediction models often handle cloud initialization poorly, which degrades ultra-short-term solar irradiance forecasts over time. \n\nResearchers Min Chen and Liangchen Guo of the Institute of Urban Meteorology at the China Meteorological Admini",
     "published_at": "2026-01-01T02:02:25Z",
     "updated_at": "2026-01-01T01:10:54.578552Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35065,
-    "title": "Satellites to extend 5G and 6G coverage worldwide",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Satellites_to_extend_5G_and_6G_coverage_worldwide_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satellite-communication-systems-future-5g-6g-connectivity-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nThe integration of satellite communication systems with terrestrial networks is emerging as a central approach to achieving seamless global connectivity in 5G and future 6G eras. A recent article in the journal Engineering titled \"Evolution of Satellite Communication Systems Toward 5G/6G for 2030 and Beyond\" reviews recent progress, technical obstacles, and likely directions for this combined in",
-    "published_at": "2026-01-01T02:02:25Z",
-    "updated_at": "2026-01-01T01:10:54.561558Z",
     "featured": false,
     "launches": [],
     "events": [],
