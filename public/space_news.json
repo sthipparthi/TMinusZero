@@ -1,5 +1,45 @@
 [
   {
+    "id": 35103,
+    "title": "Space Force requests launch provider interest in Cape and Vandenberg pads",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/01/space-force-launch-interest-cape-vandenberg-pads/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/NSF-2026-01-04-22-00-08-134.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "In a strategic push to bolster launch infrastructure amid growing military and commercial demands for…\nThe post Space Force requests launch provider interest in Cape and Vandenberg pads appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-01-04T22:04:53Z",
+    "updated_at": "2026-01-04T22:11:19.773843Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35102,
+    "title": "What’s Happening in Space Policy January 4-10, 2026",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-4-10-2026/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/01/Capitol-Reflecting-Pool-300x225.webp",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of January 4-10, 2026 and any insight we can offer about them. The House and Senate are in session […]",
+    "published_at": "2026-01-04T21:40:26Z",
+    "updated_at": "2026-01-04T21:50:16.474446Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35101,
     "title": "Space Force begins base network overhaul as cybersecurity demands grow",
     "authors": [
@@ -174,26 +214,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35093,
-    "title": "Galileo satellites ride Ariane 6 to boost Europe navigation resilience",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Galileo_satellites_ride_Ariane_6_to_boost_Europe_navigation_resilience_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ariane-6-during-nighttime-rehearsal-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 03, 2026\n\n\nOn 17 December, two Galileo satellites lifted off from Europe's Spaceport in Kourou, French Guiana, aboard an Ariane 6 rocket, marking the 14th launch dedicated to Europe's Galileo constellation and reinforcing European satellite navigation capacity, resilience and autonomy. \n\nThe spacecraft, designated SAT 33 and SAT 34, were launched at 06:01 CET and separated from the launcher after a fli",
-    "published_at": "2026-01-03T01:55:37Z",
-    "updated_at": "2026-01-03T00:50:29.941928Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35090,
     "title": "Curiosity's Nevado Sajama postcard captures Mars on the eve of conjunction",
     "authors": [
@@ -214,20 +234,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35092,
-    "title": "Joint ground- and space-based observations reveal Saturn-mass rogue planet",
+    "id": 35093,
+    "title": "Galileo satellites ride Ariane 6 to boost Europe navigation resilience",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Joint_ground__and_space_based_observations_reveal_Saturn_mass_rogue_planet_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/hot-saturn-exoplanet-extrasolar-starquakes-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Galileo_satellites_ride_Ariane_6_to_boost_Europe_navigation_resilience_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ariane-6-during-nighttime-rehearsal-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Jan 03, 2026\n\n\nSimultaneous ground- and space-based observations of a newly discovered free-floating planet have enabled direct measurement of its mass and distance from Earth, according to a new study. The findings offer insights into the diverse and dynamic pathways by which planets can be cast adrift into interstellar space. \n\nAlthough studies to date have only revealed a handful of such free-floating p",
+    "summary": "Berlin, Germany (SPX) Jan 03, 2026\n\n\nOn 17 December, two Galileo satellites lifted off from Europe's Spaceport in Kourou, French Guiana, aboard an Ariane 6 rocket, marking the 14th launch dedicated to Europe's Galileo constellation and reinforcing European satellite navigation capacity, resilience and autonomy. \n\nThe spacecraft, designated SAT 33 and SAT 34, were launched at 06:01 CET and separated from the launcher after a fli",
     "published_at": "2026-01-03T01:55:37Z",
-    "updated_at": "2026-01-03T00:50:29.931602Z",
+    "updated_at": "2026-01-03T00:50:29.941928Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -248,6 +268,26 @@
     "summary": "Berlin, Germany (SPX) Jan 03, 2026\n\n\nThe University of Copenhagen will lead Denmark's first lunar mission, a European Space Agency project that will map the Moon's surface in three dimensions to support future landings and base construction. \n\nThe Mani satellite will orbit the Moon's north and south polar regions, acquiring high-resolution images that can be combined into detailed elevation models. \n\nBy imaging the same are",
     "published_at": "2026-01-03T01:55:37Z",
     "updated_at": "2026-01-03T00:50:29.922541Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35092,
+    "title": "Joint ground- and space-based observations reveal Saturn-mass rogue planet",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Joint_ground__and_space_based_observations_reveal_Saturn_mass_rogue_planet_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/hot-saturn-exoplanet-extrasolar-starquakes-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (SPX) Jan 03, 2026\n\n\nSimultaneous ground- and space-based observations of a newly discovered free-floating planet have enabled direct measurement of its mass and distance from Earth, according to a new study. The findings offer insights into the diverse and dynamic pathways by which planets can be cast adrift into interstellar space. \n\nAlthough studies to date have only revealed a handful of such free-floating p",
+    "published_at": "2026-01-03T01:55:37Z",
+    "updated_at": "2026-01-03T00:50:29.931602Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -461,6 +501,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35074,
+    "title": "ESA reaches new benchmark in autonomous formation flying",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
+    "published_at": "2026-01-01T11:20:58Z",
+    "updated_at": "2026-01-01T10:20:16.022388Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35076,
     "title": "Planet delivers first light image from Pelican 6 satellite capturing Lhasa Gonggar Airport",
     "authors": [
@@ -515,26 +575,6 @@
     "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nThe Space Development Agency has selected four contractor teams to build and operate 72 Tracking Layer satellites for Tranche 3 of the Proliferated Warfighter Space Architecture in low Earth orbit, under agreements valued at approximately 3.5 billion dollars. \n\nThe awards, issued under Other Transaction Authority, go to Lockheed Martin of Sunnyvale California, Rocket Lab USA of Long Beach Ca",
     "published_at": "2026-01-01T11:20:58Z",
     "updated_at": "2026-01-01T10:20:15.982619Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35074,
-    "title": "ESA reaches new benchmark in autonomous formation flying",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-proba-3-alignment-flying-selfie-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nESA reports that its Proba-3 mission has achieved autonomous formation flying in orbit with millimetre-level precision. \n\nIan Carnelli, ESA Head of Systems Department, stated: \"Proba-3 proves that bold in-orbit experimentation is essential to turning breakthrough ideas into real space capabilities. ESA does not just design innovation, it flies it\". \n\nProba-3 operates as two spacecraft fl",
-    "published_at": "2026-01-01T11:20:58Z",
-    "updated_at": "2026-01-01T10:20:16.022388Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -949,53 +989,6 @@
     "summary": "247th American Astronomical Society (AAS) Meeting Join NASA in the Exhibit Hall (Booth #401 for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. SUNDAY, JANUARY 4 6:45 – 7:00 PMNancy Grace Roman Space TelescopeDominic Benford7:00 – 7:15 PMStorytelling with NASA: Eyes on ExoplanetsAnjali Tripathi7:15 – 7:30 PMRoman Space Telescope UpdateJulie McEnery7:30 – 7:45 PMThe […]",
     "published_at": "2025-12-31T01:35:42Z",
     "updated_at": "2025-12-31T02:10:14.297539Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35055,
-    "title": "Planet bets on orbital data centers in partnership with Google",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/planet-bets-on-orbital-data-centers-in-partnership-with-google/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/owl2.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nPlanet, a company best known for providing geospatial intelligence through its constellation of imaging satellites, sees a significant opportunity in developing orbital data centers for artificial intelligence.\nThe post Planet bets on orbital data centers in partnership with Google appeared first on SpaceNews.",
-    "published_at": "2025-12-30T23:58:44Z",
-    "updated_at": "2025-12-31T00:05:39.179264Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35054,
-    "title": "Launch Roundup: Worldwide launch manifest quiet as 2026 begins",
-    "authors": [
-      {
-        "name": "Haygen Warren",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2025/12/launch-roundup-123025/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/12/julia-strea-5-scaled.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "As 2025 turns to 2026, the worldwide launch manifest is quieting down, with only four…\nThe post Launch Roundup: Worldwide launch manifest quiet as 2026 begins appeared first on NASASpaceFlight.com.",
-    "published_at": "2025-12-30T23:28:19Z",
-    "updated_at": "2025-12-30T23:31:37.412597Z",
     "featured": false,
     "launches": [],
     "events": [],
