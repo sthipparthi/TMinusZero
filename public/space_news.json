@@ -1,5 +1,65 @@
 [
   {
+    "id": 35155,
+    "title": "Diving Into Human Spaceflight Safety with NASA Johnson’s Craig Shannon",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/diving-into-human-spaceflight-safety-with-nasa-johnsons-craig-shannon/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/dsc-4348.jpg",
+    "news_site": "NASA",
+    "summary": "Growing up in Houston, Craig Shannon was always inspired by NASA and the spirit of exploration the agency represents. Yet it was a passion for scuba diving that unexpectedly led to his more than 23-year career at NASA’s Johnson Space Center. Shannon became a certified diver and scuba instructor while earning his bachelor’s degree in […]",
+    "published_at": "2026-01-06T09:39:00Z",
+    "updated_at": "2026-01-06T09:40:07.255417Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35153,
+    "title": "How College Students Really Afford Rent And Groceries Now",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/How_College_Students_Really_Afford_Rent_And_Groceries_Now_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/students-young-people-youth-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\nMany college students say that rent and basic food costs feel harder to manage than any other part of school. It's not unusual for students to work, budget, and still feel short at the end of the month. This leaves a lot of them unsure of how to cover the gap without taking on too much stress.",
+    "published_at": "2026-01-06T09:17:00Z",
+    "updated_at": "2026-01-06T08:10:17.643714Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35152,
+    "title": "What Makes Air Refrigeration Safer for Food Storage",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/What_Makes_Air_Refrigeration_Safer_for_Food_Storage_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mirai-intex.com-air-refrigeration-safer-for-food-storage-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\nFood businesses rely on cold rooms and process chillers to keep products safe from farm to fork. When cooling systems fail or behave unpredictably, the result can be spoilage, recalls, or subtle quality drift that emerges only when products reach consumers.",
+    "published_at": "2026-01-06T07:18:13Z",
+    "updated_at": "2026-01-06T06:10:23.713657Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35149,
     "title": "Nullschool launches new mobile app for popular Earth weather platform",
     "authors": [
@@ -60,26 +120,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35139,
-    "title": "Thin ice may have protected lake water on frozen Mars",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Thin_ice_may_have_protected_lake_water_on_frozen_Mars_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-frozen-lake-remnant-gale-crater-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Houston TX (SPX) Jan 06, 2026\n\n\nSmall lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing. Using a climate model adapted for Martian conditions, a team of researchers from Rice University discovered that lakes in locations such as Gale Crater, near Mars' equator, could have persisted under thin seasonal ice for at least decades and likely as long as climate conditi",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:31.619231Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35145,
     "title": "Starfighters completes supersonic tests for GE Aerospace ramjet program",
     "authors": [
@@ -100,20 +140,60 @@
     "detailed_news": ""
   },
   {
-    "id": 35140,
-    "title": "Rogue planet mass pinned down for the first time",
+    "id": 35139,
+    "title": "Thin ice may have protected lake water on frozen Mars",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Rogue_planet_mass_pinned_down_for_the_first_time_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/art-free-floating-planet-analog-bg.jpg",
+    "url": "https://www.marsdaily.com/reports/Thin_ice_may_have_protected_lake_water_on_frozen_Mars_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mars-frozen-lake-remnant-gale-crater-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nPeking University, January 2, 2026: A coordinated observation campaign using space- and ground-based telescopes has yielded the first precise mass measurement of a rogue planet, confirming that one long-standing candidate is indeed a planet. Unlike planets in the Solar System, rogue planets travel through space without orbiting a host star. \n\nOver the last decade, astronomers have identified",
+    "summary": "Houston TX (SPX) Jan 06, 2026\n\n\nSmall lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing. Using a climate model adapted for Martian conditions, a team of researchers from Rice University discovered that lakes in locations such as Gale Crater, near Mars' equator, could have persisted under thin seasonal ice for at least decades and likely as long as climate conditi",
     "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:32.023794Z",
+    "updated_at": "2026-01-06T03:02:31.619231Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35142,
+    "title": "Hubble tracks Betelgeuse companion carving dense wake in giant star atmosphere",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hubble_tracks_Betelgeuse_companion_carving_dense_wake_in_giant_star_atmosphere_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/betelgeuse-companion-carving-wake-star-atmosphere-hubble-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nUsing NASA's Hubble Space Telescope with ground-based observatories, astronomers have traced how Betelgeuse's recently identified companion star, Siwarha, disturbs gas in the red supergiant's extended atmosphere and produces a dense wake of material. The work, led by researchers at the Center for Astrophyphysics | Harvard and Smithsonian (CfA), links this wake to puzzling changes in Betelgeuse's",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:33.072978Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35146,
+    "title": "Momentus to flight test 3D printed fuel tank on Vigoride 7",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Momentus_to_flight_test_3D_printed_fuel_tank_on_Vigoride_7_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/momentus-vigoride-satellite-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nMomentus Inc. has developed an additively manufactured metal fuel tank that will undergo flight testing on the companys Vigoride-7 Orbital Service Vehicle in orbit. The tank, produced in collaboration with Velo3D, is intended as a space-rated component for use on future missions. \n\nThe tank was designed by Momentus and manufactured using Velo3Ds metal 3D printing systems. The companies used",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:35.055260Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -134,6 +214,46 @@
     "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nThe third satellite in the COSMO-SkyMed Second Generation radar constellation has been launched from Vandenberg Space Force Base in California on a SpaceX Falcon 9 for the Italian Space Agency and the Italian Ministry of Defense, extending Italy's dual-use Earth observation capability. \n\nBuilt by Thales Alenia Space, a joint venture between Thales and Leonardo, and operated in orbit by Teles",
     "published_at": "2026-01-06T04:06:46Z",
     "updated_at": "2026-01-06T03:02:36.037617Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35141,
+    "title": "Hubble confirms dark starless relic cloud near galaxy M94",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hubble_confirms_dark_starless_relic_cloud_near_galaxy_M94_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/vla-hubble-faint-dwarf-galaxy-cloud-9-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nA team using NASA's Hubble Space Telescope has identified a new type of astronomical object, a starless gas-rich dark-matter cloud considered a relic of early galaxy formation and nicknamed \"Cloud-9.\" The object is the first confirmed example of a Reionization-Limited H I Cloud, or RELHIC, a neutral hydrogen cloud from the early universe that never formed stars. \n\nProgram principal investiga",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:32.226627Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35148,
+    "title": "Chinese astronauts hone extreme cave survival skills",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-astronaut-cave-training-first-analog-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nTwenty-eight astronauts and trainees have completed China's first cave-survival training program, a nearly monthlong exercise run by the Astronaut Center of China in Chongqing's Wulong district. \n\nThe course included more than 10 core activities such as environmental monitoring, cave mapping, simulated communication with ground control, and a series of psychological and behavioral drills in",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:36.145018Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -180,80 +300,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35146,
-    "title": "Momentus to flight test 3D printed fuel tank on Vigoride 7",
+    "id": 35140,
+    "title": "Rogue planet mass pinned down for the first time",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Momentus_to_flight_test_3D_printed_fuel_tank_on_Vigoride_7_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/momentus-vigoride-satellite-marker-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Rogue_planet_mass_pinned_down_for_the_first_time_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/art-free-floating-planet-analog-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nMomentus Inc. has developed an additively manufactured metal fuel tank that will undergo flight testing on the companys Vigoride-7 Orbital Service Vehicle in orbit. The tank, produced in collaboration with Velo3D, is intended as a space-rated component for use on future missions. \n\nThe tank was designed by Momentus and manufactured using Velo3Ds metal 3D printing systems. The companies used",
+    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nPeking University, January 2, 2026: A coordinated observation campaign using space- and ground-based telescopes has yielded the first precise mass measurement of a rogue planet, confirming that one long-standing candidate is indeed a planet. Unlike planets in the Solar System, rogue planets travel through space without orbiting a host star. \n\nOver the last decade, astronomers have identified",
     "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:35.055260Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35148,
-    "title": "Chinese astronauts hone extreme cave survival skills",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.moondaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-astronaut-cave-training-first-analog-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nTwenty-eight astronauts and trainees have completed China's first cave-survival training program, a nearly monthlong exercise run by the Astronaut Center of China in Chongqing's Wulong district. \n\nThe course included more than 10 core activities such as environmental monitoring, cave mapping, simulated communication with ground control, and a series of psychological and behavioral drills in",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:36.145018Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35142,
-    "title": "Hubble tracks Betelgeuse companion carving dense wake in giant star atmosphere",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hubble_tracks_Betelgeuse_companion_carving_dense_wake_in_giant_star_atmosphere_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/betelgeuse-companion-carving-wake-star-atmosphere-hubble-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nUsing NASA's Hubble Space Telescope with ground-based observatories, astronomers have traced how Betelgeuse's recently identified companion star, Siwarha, disturbs gas in the red supergiant's extended atmosphere and produces a dense wake of material. The work, led by researchers at the Center for Astrophyphysics | Harvard and Smithsonian (CfA), links this wake to puzzling changes in Betelgeuse's",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:33.072978Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35141,
-    "title": "Hubble confirms dark starless relic cloud near galaxy M94",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hubble_confirms_dark_starless_relic_cloud_near_galaxy_M94_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/vla-hubble-faint-dwarf-galaxy-cloud-9-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nA team using NASA's Hubble Space Telescope has identified a new type of astronomical object, a starless gas-rich dark-matter cloud considered a relic of early galaxy formation and nicknamed \"Cloud-9.\" The object is the first confirmed example of a Reionization-Limited H I Cloud, or RELHIC, a neutral hydrogen cloud from the early universe that never formed stars. \n\nProgram principal investiga",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:32.226627Z",
+    "updated_at": "2026-01-06T03:02:32.023794Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -540,6 +600,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35154,
+    "title": "Press conference with ESA astronaut Sophie Adenot",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/Press_conference_with_ESA_astronaut_Sophie_Adenot",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/01/press_conference_with_esa_astronaut_sophie_adenot/27056105-1-eng-GB/Press_conference_with_ESA_astronaut_Sophie_Adenot_card_full.png",
+    "news_site": "ESA",
+    "summary": "Media representatives joined French ESA astronaut Sophie Adenot, on Monday 5 January, for a hybrid press conference to learn more about her first mission to space.",
+    "published_at": "2026-01-05T16:30:00Z",
+    "updated_at": "2026-01-06T08:30:16.797899Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35124,
     "title": "Minibus provides $24.4 billion for NASA for fiscal year 2026",
     "authors": [
@@ -797,26 +877,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35109,
-    "title": "Alen Space begins SATMAR satellite validation over Bay of Algeciras",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Alen_Space_begins_SATMAR_satellite_validation_over_Bay_of_Algeciras_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/alen-space-satmar-control-room-western-europe-atlantic-shipping-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nAlen Space has completed the first demonstrator pilot campaign of VDES technology using its SATMAR satellite over the Bay of Algeciras in southern Spain. Over the past week, the company worked with Egatel and the Port Authority of the Bay of Algeciras to run several operational tests in a real maritime setting. \n\nIn the first pilot, SATMAR supported message exchanges between a vessel and the",
-    "published_at": "2026-01-05T05:37:37Z",
-    "updated_at": "2026-01-05T04:30:20.790840Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35110,
     "title": "OPERA satellite data sharpens US crop and water management",
     "authors": [
@@ -857,20 +917,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35108,
-    "title": "NASA and Boeing advance control strategies for flexible long span airliner wings",
+    "id": 35109,
+    "title": "Alen Space begins SATMAR satellite validation over Bay of Algeciras",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/NASA_and_Boeing_advance_control_strategies_for_flexible_long_span_airliner_wings_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nasa-boeing-longer-narrower-wings-aircraft-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Alen_Space_begins_SATMAR_satellite_validation_over_Bay_of_Algeciras_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/alen-space-satmar-control-room-western-europe-atlantic-shipping-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 01, 2026\n\n\nThe airliners of coming decades may feature long, slender wings that change the look of commercial aircraft while improving ride quality and cutting fuel use. \n\nThose high aspect ratio wings promise lower drag and better efficiency, but their increased flexibility introduces structural and control challenges that engineers must address before airlines can adopt them. \n\nAs part of the Int",
+    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nAlen Space has completed the first demonstrator pilot campaign of VDES technology using its SATMAR satellite over the Bay of Algeciras in southern Spain. Over the past week, the company worked with Egatel and the Port Authority of the Bay of Algeciras to run several operational tests in a real maritime setting. \n\nIn the first pilot, SATMAR supported message exchanges between a vessel and the",
     "published_at": "2026-01-05T05:37:37Z",
-    "updated_at": "2026-01-05T04:30:20.774659Z",
+    "updated_at": "2026-01-05T04:30:20.790840Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -911,66 +971,6 @@
     "summary": "Tokyo, Japan (SPX) Dec 31, 2025\n\n\nResearchers from Zhengzhou University, the University of Kent, and City University of Hong Kong have developed a framework to evaluate and optimize the spatiotemporal resilience of Internet of Things (IoT)-enabled unmanned system of systems operating in complex missions. The work responds to the growing use of unmanned aerial vehicles and unmanned vehicles in hazardous environments where maintai",
     "published_at": "2026-01-05T05:37:37Z",
     "updated_at": "2026-01-05T04:30:20.762685Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35105,
-    "title": "Deep Arctic gas hydrate mounds host ultra deep cold seep ecosystem",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Deep_Arctic_gas_hydrate_mounds_host_ultra_deep_cold_seep_ecosystem_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/greenland-sea-molloy-ridge-freya-gas-hydrate-mounds-fauna-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 01, 2026\n\n\nA multinational research team led by UiT The Arctic University of Norway has identified the deepest known gas hydrate cold seep on Earth during the Ocean Census Arctic Deep - EXTREME24 expedition, documenting the Freya Hydrate Mounds at 3,640 meters depth on the Molloy Ridge in the Greenland Sea. The work reveals a previously unknown ecosystem on the Arctic seafloor where exposed gas hydrate, me",
-    "published_at": "2026-01-05T05:37:37Z",
-    "updated_at": "2026-01-05T04:30:20.702410Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35120,
-    "title": "An Amphitheater of Rock at Cedar Breaks",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/an-amphitheater-of-rock-at-cedar-breaks/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/an-amphitheater-of-rock-at-cedar-breaks/utahcedarbreaks_oli2_20250618.jpg",
-    "news_site": "NASA",
-    "summary": "The colorful formations found in this bowl-shaped escarpment in southwestern Utah are the centerpiece of Cedar Breaks National Monument.",
-    "published_at": "2026-01-05T05:01:00Z",
-    "updated_at": "2026-01-05T14:10:08.083298Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35104,
-    "title": "North Korea tests hypersonic missiles, says nuclear forces ready for war",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/North_Korea_tests_hypersonic_missiles_says_nuclear_forces_ready_for_war_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/north-korean-hypersonic-missile-hwasong-8-missile-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Seoul (AFP) Jan 5, 2026\n\n\n North Korean leader Kim Jong Un oversaw the test-firing of \"cutting-edge\" hypersonic missiles to ready Pyongyang's nuclear forces for war, state media said Monday. \n\nPyongyang said Sunday's test was made all the more necessary by \"recent geopolitical crisis\" - a clear nod to this weekend's events in North Korea's socialist ally Venezuela. \n\nSeoul and Tokyo said Sunday they had detected the",
-    "published_at": "2026-01-05T02:39:31Z",
-    "updated_at": "2026-01-05T01:30:18.138146Z",
     "featured": false,
     "launches": [],
     "events": [],
