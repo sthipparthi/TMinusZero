@@ -1,6 +1,6 @@
 {
-  "count": 5,
-  "last_updated": "2026-01-06T12:01:56.668157Z",
+  "count": 6,
+  "last_updated": "2026-01-06T18:02:24.902393Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (5 failed/unavailable)"
+    "Empty AI summaries (6 failed/unavailable)"
   ],
   "launches": [
     {
@@ -109,6 +109,47 @@
           "url": "https://x.com/i/broadcasts/1ypKdqQyardGW"
         }
       ],
+      "ai_summary": ""
+    },
+    {
+      "id": "520a0927-088f-4273-a7ea-eedb09965d89",
+      "name": "PSLV-DL | EOS-N1 and others",
+      "status": "Go",
+      "net": "2026-01-12T04:47:00Z",
+      "window_start": "2026-01-12T04:15:00Z",
+      "window_end": "2026-01-12T08:15:00Z",
+      "lsp_name": "Indian Space Research Organization",
+      "lsp_description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
+      "lsp_type": "Government",
+      "lsp_country": "IND",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
+      "mission_name": "EOS-N1 and others",
+      "mission_description": "Small Earth observation satellite from NewSpace India Limited (NSIL) for an \"Indian strategic user\", details TBD.\r\n\r\nThis launch will also carry 18 other ride-share payloads.",
+      "mission_type": "Earth Science",
+      "orbit": "Sun-Synchronous Orbit",
+      "launch_site": "Satish Dhawan Space Centre First Launch Pad, Satish Dhawan Space Centre, India",
+      "pad": "Satish Dhawan Space Centre First Launch Pad",
+      "location": "Satish Dhawan Space Centre, India",
+      "rocket": "PSLV-DL",
+      "rocket_config_description": "PSLV-DL variant has only two strapons boosters with 12 tonne propellant load on them. PSLV-C44 on 24 January 2019 was the first flight to use PSLV-DL variant of Polar Satellite Launch Vehicle.",
+      "rocket_config_family": "PSLV",
+      "rocket_config_full_name": "PSLV-DL",
+      "rocket_config_total_launch_count": 4,
+      "rocket_config_successful_launches": 4,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Indian Space Research Organization",
+      "rocket_manufacturer_type": "Government",
+      "rocket_manufacturer_description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
+      "rocket_manufacturer_total_launch_count": 98,
+      "rocket_manufacturer_successful_launches": 84,
+      "rocket_manufacturer_failed_launches": 14,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv-dl_image_20191201202351.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/520a0927-088f-4273-a7ea-eedb09965d89/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
       "ai_summary": ""
     },
     {
@@ -247,7 +288,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 5,
-    "total_launches": 5
+    "empty_summaries": 6,
+    "total_launches": 6
   }
 }
