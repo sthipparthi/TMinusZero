@@ -1,5 +1,30 @@
 [
   {
+    "id": 35170,
+    "title": "Sandblasting on Mars",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Sandblasting_on_Mars",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/mars_express_sees_sandblasted_wind_sculptures_near_eumenides_dorsum/27056321-1-eng-GB/Mars_Express_sees_sandblasted_wind_sculptures_near_Eumenides_Dorsum_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Martian winds can have quite an impact. ESA’s Mars Express has spotted them whipping up sand grains and acting as a cosmic sandblaster, carving out intriguing grooves near Mars’s equator.",
+    "published_at": "2026-01-07T10:00:00Z",
+    "updated_at": "2026-01-07T11:54:32.519102Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "db62cfa1-4d10-41d3-b25f-a58e138ce202",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35169,
     "title": "Algae Swirls Across a South African Reservoir",
     "authors": [
@@ -417,46 +442,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35140,
-    "title": "Rogue planet mass pinned down for the first time",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Rogue_planet_mass_pinned_down_for_the_first_time_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/art-free-floating-planet-analog-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nPeking University, January 2, 2026: A coordinated observation campaign using space- and ground-based telescopes has yielded the first precise mass measurement of a rogue planet, confirming that one long-standing candidate is indeed a planet. Unlike planets in the Solar System, rogue planets travel through space without orbiting a host star. \n\nOver the last decade, astronomers have identified",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:32.023794Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35147,
-    "title": "Third COSMO-SkyMed Second Generation radar satellite enters service ramp-up",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Third_COSMO_SkyMed_Second_Generation_radar_satellite_enters_service_ramp_up_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-italian-cosmo-skymed-second-generation-2-final-deployment-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nThe third satellite in the COSMO-SkyMed Second Generation radar constellation has been launched from Vandenberg Space Force Base in California on a SpaceX Falcon 9 for the Italian Space Agency and the Italian Ministry of Defense, extending Italy's dual-use Earth observation capability. \n\nBuilt by Thales Alenia Space, a joint venture between Thales and Leonardo, and operated in orbit by Teles",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:36.037617Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35139,
     "title": "Thin ice may have protected lake water on frozen Mars",
     "authors": [
@@ -477,40 +462,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35148,
-    "title": "Chinese astronauts hone extreme cave survival skills",
+    "id": 35140,
+    "title": "Rogue planet mass pinned down for the first time",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.moondaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-astronaut-cave-training-first-analog-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Rogue_planet_mass_pinned_down_for_the_first_time_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/art-free-floating-planet-analog-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nTwenty-eight astronauts and trainees have completed China's first cave-survival training program, a nearly monthlong exercise run by the Astronaut Center of China in Chongqing's Wulong district. \n\nThe course included more than 10 core activities such as environmental monitoring, cave mapping, simulated communication with ground control, and a series of psychological and behavioral drills in",
+    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nPeking University, January 2, 2026: A coordinated observation campaign using space- and ground-based telescopes has yielded the first precise mass measurement of a rogue planet, confirming that one long-standing candidate is indeed a planet. Unlike planets in the Solar System, rogue planets travel through space without orbiting a host star. \n\nOver the last decade, astronomers have identified",
     "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:36.145018Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35141,
-    "title": "Hubble confirms dark starless relic cloud near galaxy M94",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hubble_confirms_dark_starless_relic_cloud_near_galaxy_M94_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/vla-hubble-faint-dwarf-galaxy-cloud-9-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nA team using NASA's Hubble Space Telescope has identified a new type of astronomical object, a starless gas-rich dark-matter cloud considered a relic of early galaxy formation and nicknamed \"Cloud-9.\" The object is the first confirmed example of a Reionization-Limited H I Cloud, or RELHIC, a neutral hydrogen cloud from the early universe that never formed stars. \n\nProgram principal investiga",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:32.226627Z",
+    "updated_at": "2026-01-06T03:02:32.023794Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -537,20 +502,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35146,
-    "title": "Momentus to flight test 3D printed fuel tank on Vigoride 7",
+    "id": 35143,
+    "title": "Solar probes follow hyperactive sunspot region through three full rotations",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Momentus_to_flight_test_3D_printed_fuel_tank_on_Vigoride_7_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/momentus-vigoride-satellite-marker-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Solar_probes_follow_hyperactive_sunspot_region_through_three_full_rotations_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/art-solar-orbiter-observing-sun-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nMomentus Inc. has developed an additively manufactured metal fuel tank that will undergo flight testing on the companys Vigoride-7 Orbital Service Vehicle in orbit. The tank, produced in collaboration with Velo3D, is intended as a space-rated component for use on future missions. \n\nThe tank was designed by Momentus and manufactured using Velo3Ds metal 3D printing systems. The companies used",
+    "summary": "Zurich, Switzerland (SPX) Jan 06, 2026\n\n\nThe sun rotates about once every 28 days, so active regions on its surface are usually visible from Earth for only around two weeks before they move out of view behind the limb. Ioannis Kontogiannis, a solar physicist at ETH Zurich and the Istituto ricerche solari Aldo e Cele Dacco (IRSOL) in Locarno, notes that ESA's Solar Orbiter mission, launched in 2020, has extended this viewing window by o",
     "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:35.055260Z",
+    "updated_at": "2026-01-06T03:02:33.555204Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35148,
+    "title": "Chinese astronauts hone extreme cave survival skills",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-astronaut-cave-training-first-analog-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nTwenty-eight astronauts and trainees have completed China's first cave-survival training program, a nearly monthlong exercise run by the Astronaut Center of China in Chongqing's Wulong district. \n\nThe course included more than 10 core activities such as environmental monitoring, cave mapping, simulated communication with ground control, and a series of psychological and behavioral drills in",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:36.145018Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -577,26 +562,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35143,
-    "title": "Solar probes follow hyperactive sunspot region through three full rotations",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Solar_probes_follow_hyperactive_sunspot_region_through_three_full_rotations_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/art-solar-orbiter-observing-sun-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Zurich, Switzerland (SPX) Jan 06, 2026\n\n\nThe sun rotates about once every 28 days, so active regions on its surface are usually visible from Earth for only around two weeks before they move out of view behind the limb. Ioannis Kontogiannis, a solar physicist at ETH Zurich and the Istituto ricerche solari Aldo e Cele Dacco (IRSOL) in Locarno, notes that ESA's Solar Orbiter mission, launched in 2020, has extended this viewing window by o",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:33.555204Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35145,
     "title": "Starfighters completes supersonic tests for GE Aerospace ramjet program",
     "authors": [
@@ -611,6 +576,66 @@
     "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nStarfighters Space Inc has completed a supersonic flight test campaign for GE Aerospace in which a company F-104 aircraft carried an advanced propulsion test vehicle on multiple flights at supersonic speed. The work supports GE Aerospace's Atmospheric Test of Launched Air-breathing System (ATLAS) program, which is focused on solid fuel ramjet propulsion. \n\nAs part of the ATLAS program, Starf",
     "published_at": "2026-01-06T04:06:46Z",
     "updated_at": "2026-01-06T03:02:34.624469Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35141,
+    "title": "Hubble confirms dark starless relic cloud near galaxy M94",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hubble_confirms_dark_starless_relic_cloud_near_galaxy_M94_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/vla-hubble-faint-dwarf-galaxy-cloud-9-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nA team using NASA's Hubble Space Telescope has identified a new type of astronomical object, a starless gas-rich dark-matter cloud considered a relic of early galaxy formation and nicknamed \"Cloud-9.\" The object is the first confirmed example of a Reionization-Limited H I Cloud, or RELHIC, a neutral hydrogen cloud from the early universe that never formed stars. \n\nProgram principal investiga",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:32.226627Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35147,
+    "title": "Third COSMO-SkyMed Second Generation radar satellite enters service ramp-up",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Third_COSMO_SkyMed_Second_Generation_radar_satellite_enters_service_ramp_up_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/spacex-italian-cosmo-skymed-second-generation-2-final-deployment-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nThe third satellite in the COSMO-SkyMed Second Generation radar constellation has been launched from Vandenberg Space Force Base in California on a SpaceX Falcon 9 for the Italian Space Agency and the Italian Ministry of Defense, extending Italy's dual-use Earth observation capability. \n\nBuilt by Thales Alenia Space, a joint venture between Thales and Leonardo, and operated in orbit by Teles",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:36.037617Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35146,
+    "title": "Momentus to flight test 3D printed fuel tank on Vigoride 7",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Momentus_to_flight_test_3D_printed_fuel_tank_on_Vigoride_7_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/momentus-vigoride-satellite-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nMomentus Inc. has developed an additively manufactured metal fuel tank that will undergo flight testing on the companys Vigoride-7 Orbital Service Vehicle in orbit. The tank, produced in collaboration with Velo3D, is intended as a space-rated component for use on future missions. \n\nThe tank was designed by Momentus and manufactured using Velo3Ds metal 3D printing systems. The companies used",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:35.055260Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -958,26 +983,6 @@
     "summary": "\nDubai / Male’ November 18, 2025 – ARCHE ORBITAL SYSTEMS, a global space-technology company specializing in advanced mission design and in-orbit services operations, has signed a Memorandum of Understanding (MoU) […]\nThe post ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives appeared first on SpaceNews.",
     "published_at": "2026-01-05T16:09:08Z",
     "updated_at": "2026-01-05T16:13:49.976951Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35122,
-    "title": "No more free rides: it’s time to pay for space safety",
-    "authors": [
-      {
-        "name": "Audrey Schaffer",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/no-more-free-rides-its-time-to-pay-for-space-safety/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-9.53.41%E2%80%AFAM.png?fit=1024%2C556&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA small but important change can be found at the end of President Trump’s sweeping December 18, 2025, Executive Order, “Ensuring American Space Superiority.” The Executive Order removes the requirement for the United States government to make basic space situational awareness data and space traffic management services available “free of direct user fees,” instead saying […]\nThe post No more free rides: it’s time to pay for space safety appeared first on SpaceNews.",
-    "published_at": "2026-01-05T14:00:00Z",
-    "updated_at": "2026-01-05T14:10:25.186840Z",
     "featured": false,
     "launches": [],
     "events": [],
