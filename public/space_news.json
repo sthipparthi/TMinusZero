@@ -1,5 +1,52 @@
 [
   {
+    "id": 35169,
+    "title": "Algae Swirls Across a South African Reservoir",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/algae-blooms-swirl-across-a-south-african-reservoir/hartbeesdam_oli2_20220810.jpg",
+    "news_site": "NASA",
+    "summary": "Vivid green blooms form, drift, and fade in Hartbeespoortdam reservoir over the course of a year.",
+    "published_at": "2026-01-07T05:00:00Z",
+    "updated_at": "2026-01-07T05:10:15.775821Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35168,
+    "title": "NASA works to extend Swift’s life ahead of reboost mission",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/swift-2025.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAs preparations continue for a mission to raise the orbit of NASA’s Swift astrophysics spacecraft, project officials are also pursuing steps to extend the satellite’s life in case of delays.\nThe post NASA works to extend Swift’s life ahead of reboost mission appeared first on SpaceNews.",
+    "published_at": "2026-01-07T00:14:07Z",
+    "updated_at": "2026-01-07T00:24:29.052075Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35167,
     "title": "Supernova Remnant Video From NASA’s Chandra Is Decades in Making",
     "authors": [
@@ -390,40 +437,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35144,
-    "title": "ALMA views giant dusty disk in Gomezs Hamburger with signs of early giant planet formation",
+    "id": 35147,
+    "title": "Third COSMO-SkyMed Second Generation radar satellite enters service ramp-up",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/ALMA_views_giant_dusty_disk_in_Gomezs_Hamburger_with_signs_of_early_giant_planet_formation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gomez-hamburger-system-stacked-layers-alma-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Third_COSMO_SkyMed_Second_Generation_radar_satellite_enters_service_ramp_up_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/spacex-italian-cosmo-skymed-second-generation-2-final-deployment-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nAstronomers using the Atacama Large Millimeter/submillimeter Array ALMA have identified the earliest phases of giant planet formation inside the dense layers of gas and dust in the nearly edge-on disk known as Gomez's Hamburger GoHam. The team presented the research, which is in preparation for publication, at a press conference during the American Astronomical Society's annual meeting in Januar",
+    "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nThe third satellite in the COSMO-SkyMed Second Generation radar constellation has been launched from Vandenberg Space Force Base in California on a SpaceX Falcon 9 for the Italian Space Agency and the Italian Ministry of Defense, extending Italy's dual-use Earth observation capability. \n\nBuilt by Thales Alenia Space, a joint venture between Thales and Leonardo, and operated in orbit by Teles",
     "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:34.178650Z",
+    "updated_at": "2026-01-06T03:02:36.037617Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35143,
-    "title": "Solar probes follow hyperactive sunspot region through three full rotations",
+    "id": 35139,
+    "title": "Thin ice may have protected lake water on frozen Mars",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Solar_probes_follow_hyperactive_sunspot_region_through_three_full_rotations_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/art-solar-orbiter-observing-sun-bg.jpg",
+    "url": "https://www.marsdaily.com/reports/Thin_ice_may_have_protected_lake_water_on_frozen_Mars_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mars-frozen-lake-remnant-gale-crater-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Zurich, Switzerland (SPX) Jan 06, 2026\n\n\nThe sun rotates about once every 28 days, so active regions on its surface are usually visible from Earth for only around two weeks before they move out of view behind the limb. Ioannis Kontogiannis, a solar physicist at ETH Zurich and the Istituto ricerche solari Aldo e Cele Dacco (IRSOL) in Locarno, notes that ESA's Solar Orbiter mission, launched in 2020, has extended this viewing window by o",
+    "summary": "Houston TX (SPX) Jan 06, 2026\n\n\nSmall lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing. Using a climate model adapted for Martian conditions, a team of researchers from Rice University discovered that lakes in locations such as Gale Crater, near Mars' equator, could have persisted under thin seasonal ice for at least decades and likely as long as climate conditi",
     "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:33.555204Z",
+    "updated_at": "2026-01-06T03:02:31.619231Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -450,66 +497,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35147,
-    "title": "Third COSMO-SkyMed Second Generation radar satellite enters service ramp-up",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Third_COSMO_SkyMed_Second_Generation_radar_satellite_enters_service_ramp_up_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-italian-cosmo-skymed-second-generation-2-final-deployment-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nThe third satellite in the COSMO-SkyMed Second Generation radar constellation has been launched from Vandenberg Space Force Base in California on a SpaceX Falcon 9 for the Italian Space Agency and the Italian Ministry of Defense, extending Italy's dual-use Earth observation capability. \n\nBuilt by Thales Alenia Space, a joint venture between Thales and Leonardo, and operated in orbit by Teles",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:36.037617Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35142,
-    "title": "Hubble tracks Betelgeuse companion carving dense wake in giant star atmosphere",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hubble_tracks_Betelgeuse_companion_carving_dense_wake_in_giant_star_atmosphere_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/betelgeuse-companion-carving-wake-star-atmosphere-hubble-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nUsing NASA's Hubble Space Telescope with ground-based observatories, astronomers have traced how Betelgeuse's recently identified companion star, Siwarha, disturbs gas in the red supergiant's extended atmosphere and produces a dense wake of material. The work, led by researchers at the Center for Astrophyphysics | Harvard and Smithsonian (CfA), links this wake to puzzling changes in Betelgeuse's",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:33.072978Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35145,
-    "title": "Starfighters completes supersonic tests for GE Aerospace ramjet program",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Starfighters_completes_supersonic_tests_for_GE_Aerospace_ramjet_program_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/starfighters-space-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nStarfighters Space Inc has completed a supersonic flight test campaign for GE Aerospace in which a company F-104 aircraft carried an advanced propulsion test vehicle on multiple flights at supersonic speed. The work supports GE Aerospace's Atmospheric Test of Launched Air-breathing System (ATLAS) program, which is focused on solid fuel ramjet propulsion. \n\nAs part of the ATLAS program, Starf",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:34.624469Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35141,
     "title": "Hubble confirms dark starless relic cloud near galaxy M94",
     "authors": [
@@ -524,6 +511,26 @@
     "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nA team using NASA's Hubble Space Telescope has identified a new type of astronomical object, a starless gas-rich dark-matter cloud considered a relic of early galaxy formation and nicknamed \"Cloud-9.\" The object is the first confirmed example of a Reionization-Limited H I Cloud, or RELHIC, a neutral hydrogen cloud from the early universe that never formed stars. \n\nProgram principal investiga",
     "published_at": "2026-01-06T04:06:46Z",
     "updated_at": "2026-01-06T03:02:32.226627Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35144,
+    "title": "ALMA views giant dusty disk in Gomezs Hamburger with signs of early giant planet formation",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ALMA_views_giant_dusty_disk_in_Gomezs_Hamburger_with_signs_of_early_giant_planet_formation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gomez-hamburger-system-stacked-layers-alma-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nAstronomers using the Atacama Large Millimeter/submillimeter Array ALMA have identified the earliest phases of giant planet formation inside the dense layers of gas and dust in the nearly edge-on disk known as Gomez's Hamburger GoHam. The team presented the research, which is in preparation for publication, at a press conference during the American Astronomical Society's annual meeting in Januar",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:34.178650Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -550,20 +557,60 @@
     "detailed_news": ""
   },
   {
-    "id": 35139,
-    "title": "Thin ice may have protected lake water on frozen Mars",
+    "id": 35142,
+    "title": "Hubble tracks Betelgeuse companion carving dense wake in giant star atmosphere",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.marsdaily.com/reports/Thin_ice_may_have_protected_lake_water_on_frozen_Mars_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-frozen-lake-remnant-gale-crater-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Hubble_tracks_Betelgeuse_companion_carving_dense_wake_in_giant_star_atmosphere_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/betelgeuse-companion-carving-wake-star-atmosphere-hubble-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Houston TX (SPX) Jan 06, 2026\n\n\nSmall lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing. Using a climate model adapted for Martian conditions, a team of researchers from Rice University discovered that lakes in locations such as Gale Crater, near Mars' equator, could have persisted under thin seasonal ice for at least decades and likely as long as climate conditi",
+    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nUsing NASA's Hubble Space Telescope with ground-based observatories, astronomers have traced how Betelgeuse's recently identified companion star, Siwarha, disturbs gas in the red supergiant's extended atmosphere and produces a dense wake of material. The work, led by researchers at the Center for Astrophyphysics | Harvard and Smithsonian (CfA), links this wake to puzzling changes in Betelgeuse's",
     "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:31.619231Z",
+    "updated_at": "2026-01-06T03:02:33.072978Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35143,
+    "title": "Solar probes follow hyperactive sunspot region through three full rotations",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Solar_probes_follow_hyperactive_sunspot_region_through_three_full_rotations_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/art-solar-orbiter-observing-sun-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Zurich, Switzerland (SPX) Jan 06, 2026\n\n\nThe sun rotates about once every 28 days, so active regions on its surface are usually visible from Earth for only around two weeks before they move out of view behind the limb. Ioannis Kontogiannis, a solar physicist at ETH Zurich and the Istituto ricerche solari Aldo e Cele Dacco (IRSOL) in Locarno, notes that ESA's Solar Orbiter mission, launched in 2020, has extended this viewing window by o",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:33.555204Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35145,
+    "title": "Starfighters completes supersonic tests for GE Aerospace ramjet program",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Starfighters_completes_supersonic_tests_for_GE_Aerospace_ramjet_program_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/starfighters-space-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nStarfighters Space Inc has completed a supersonic flight test campaign for GE Aerospace in which a company F-104 aircraft carried an advanced propulsion test vehicle on multiple flights at supersonic speed. The work supports GE Aerospace's Atmospheric Test of Launched Air-breathing System (ATLAS) program, which is focused on solid fuel ramjet propulsion. \n\nAs part of the ATLAS program, Starf",
+    "published_at": "2026-01-06T04:06:46Z",
+    "updated_at": "2026-01-06T03:02:34.624469Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -933,56 +980,6 @@
     "updated_at": "2026-01-05T14:10:25.186840Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35118,
-    "title": "Tree planting for εpsilon",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Tree_planting_for_epsilon2",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/tree_planting_for_epsilon2/27055944-1-eng-GB/Tree_planting_for_epsilon_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-01-05T13:34:00Z",
-    "updated_at": "2026-01-05T15:56:27.413434Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35119,
-    "title": "Tree planting for εpsilon",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Tree_planting_for_epsilon",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/tree_planting_for_epsilon/27055897-1-eng-GB/Tree_planting_for_epsilon_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-01-05T13:27:00Z",
-    "updated_at": "2026-01-05T15:56:31.019413Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
