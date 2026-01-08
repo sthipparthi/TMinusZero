@@ -1,6 +1,6 @@
 {
-  "count": 6,
-  "last_updated": "2026-01-07T18:01:41.651182Z",
+  "count": 7,
+  "last_updated": "2026-01-08T00:04:29.660222Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (6 failed/unavailable)"
+    "Empty AI summaries (7 failed/unavailable)"
   ],
   "launches": [
     {
@@ -107,6 +107,62 @@
           "description": "Livestream on X",
           "feature_image": "https://pbs.twimg.com/media/G9bY_WsWgAAME1p.jpg",
           "url": "https://x.com/i/broadcasts/1ypKdqQyardGW"
+        }
+      ],
+      "ai_summary": ""
+    },
+    {
+      "id": "02700e48-65c6-4a95-8b97-c47152302283",
+      "name": "Falcon 9 Block 5 | Pandora / Twilight rideshare mission",
+      "status": "Go",
+      "net": "2026-01-11T13:19:00Z",
+      "window_start": "2026-01-11T13:19:00Z",
+      "window_end": "2026-01-11T14:16:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Pandora / Twilight rideshare mission",
+      "mission_description": "The Pandora small satellite was selected in 2021 as an inaugural mission in NASA’s Astrophysics Pioneers Program. It includes a 0.45-meter telescope that will improve our understanding of exoplanet atmospheres by disentangling exoplanet signals from their host stars, as well as studying host star variability with long-duration observations of 20 unique planets through visible-light photometry and near-infrared spectroscopy.\r\n\r\nAlso launching on this launch are 39 other ride-share payloads under the \"Falcon 9 Twilight mission\" manifested by Exolaunch, including satellites from Spire Global and Kepler Communications.",
+      "mission_type": "Astrophysics",
+      "orbit": "Sun-Synchronous Orbit",
+      "launch_site": "Space Launch Complex 4E, Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 528,
+      "rocket_config_successful_launches": 527,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 99,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 621,
+      "rocket_manufacturer_successful_launches": 606,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/02700e48-65c6-4a95-8b97-c47152302283/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 8,
+          "title": "SpaceX - Falcon 9 - Twilight (Pandora & Others) - SLC-4E - Vandenberg SFB - Space Affairs Live",
+          "description": "Launch Date: January 11, 2026 (PST)\nLaunch Time: 5:09 a.m. PST, 1309 UTC, 14:09 CET\nLaunch Window: Open until 7:09 a.m. PST\nLaunch Site: SLC-4E - Vandenberg Space Force Base, California\nTargeted Orbit: Sun-Synchronous Orbit\nLaunch Inclination: South\nLaunch Status: Scheduled\n\nMission: Twilight (Pandora & Others)\nLaunch Provider: SpaceX\nLauncher System: Falcon 9 (Booster 1081 - Turnaround time 26 days)\nOperator of the Mission: NASA\nFlight for the Booster: TBD\nPrevious Flights of the Booster: TBD\nBooster landing: LZ-4 (Landing Zone 4) - Vandenberg Space Force Base, CA\n\nPrice: $69,75 million (without payload)\nDiameter: 3,7 m\nHeight: 70 meters\nPayload to Orbit: 22,800 LEO / 8,300 GTO\nLift-Off Thrust: 7,607 kilonewtons\nFairing: Diameter 5,2 meters / Height 13 meters\nStages: 2\n\nSpaceX is tar...",
+          "feature_image": "https://i.ytimg.com/vi/4iOWTQxnPzc/maxresdefault_live.jpg",
+          "url": "https://www.youtube.com/watch?v=4iOWTQxnPzc"
+        },
+        {
+          "priority": 10,
+          "title": "Twilight Mission",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/G-F4CnSW4AA1iKz.jpg",
+          "url": "https://x.com/i/broadcasts/1nAKEEAevzbKL"
         }
       ],
       "ai_summary": ""
@@ -288,7 +344,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 6,
-    "total_launches": 6
+    "empty_summaries": 7,
+    "total_launches": 7
   }
 }

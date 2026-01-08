@@ -1,5 +1,85 @@
 [
   {
+    "id": 35193,
+    "title": "NASA postpones first spacewalk of 2026 due to a ‘medical concern’ with an ISS crew member",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/01/07/nasa-postpones-first-spacewalk-of-2026-due-to-a-medical-concern-with-an-iss-crew-member/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260107_US_Spacewalk_94_preparations.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "U.S. spacewalk 94 was slated to have NASA astronauts Mike Fincke and Zena Cardman perform a variety of operations around the orbiting outpost during the roughly 6.5-hour-long event. A new date for the spacewalk hasn’t been announced. ",
+    "published_at": "2026-01-07T23:33:38Z",
+    "updated_at": "2026-01-07T23:42:44.415170Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35192,
+    "title": "TPS evaluations taking place at Starbase on next two Ships to fly",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/01/tps-evaluations-next-two-ships/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/NSF-2026-01-07-23-06-48-175.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX continues to accelerate production of its next-generation Starship vehicles at the Starfactory facility in…\nThe post TPS evaluations taking place at Starbase on next two Ships to fly appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-01-07T23:22:28Z",
+    "updated_at": "2026-01-07T23:30:14.575524Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35191,
+    "title": "NASA Celebrates Artemis II During Houston Texans Space City Day",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-artemis-ii-during-houston-texans-space-city-day/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/jsc2026e000025.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Johnson Space Center was front and center Jan. 4, 2026, as the Houston Texans faced the Indianapolis Colts during Space City Day at NRG Stadium. Fans watched the Texans win while getting a close look at NASA’s Artemis II mission, the first crewed flight of the Artemis campaign.  The Artemis II mission will send four astronauts—NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian […]",
+    "published_at": "2026-01-07T22:40:11Z",
+    "updated_at": "2026-01-07T22:50:07.634530Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35190,
+    "title": "25 Years in Orbit: Science, Innovation, and the Future of Exploration",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/25-years-in-orbit-science-innovation-and-the-future-of-exploration/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/11/54280486872-9d1e9402d8-o.jpg",
+    "news_site": "NASA",
+    "summary": "NASA and its partners have supported humans continuously living and working in space since November 2000. A truly global endeavor, the International Space Station has been visited by more than 290 people from 26 countries and a variety of international and commercial spacecraft. The unique microgravity laboratory has hosted more than 4,000 experiments from over […]",
+    "published_at": "2026-01-07T21:05:57Z",
+    "updated_at": "2026-01-07T21:10:09.830835Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35189,
     "title": "Lightning from Above",
     "authors": [
@@ -60,20 +140,80 @@
     "detailed_news": ""
   },
   {
-    "id": 35179,
-    "title": "NASA selects industry partners to mature Habitable Worlds Observatory technologies",
+    "id": 35173,
+    "title": "We have no idea what most of the universe is made of, but scientists are closer than ever to finding out",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/NASA_selects_industry_partners_to_mature_Habitable_Worlds_Observatory_technologies_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/habitable-worlds-observatory-hwo-early-design-concept-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/We_have_no_idea_what_most_of_the_universe_is_made_of_but_scientists_are_closer_than_ever_to_finding_out_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rupak-mahapatra-with-tesseract-detector-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nNASA has chosen a set of industry proposals to advance technologies for its Habitable Worlds Observatory concept, a planned flagship space telescope intended to directly image Earth-like planets around Sun-like stars and analyze their atmospheres for potential signs of life. \n\nThe observatory is also expected to support a broad astrophysics program and contribute to planning for future human",
+    "summary": "College Station TX (SPX) Jan 06, 2026\n\n\nWhen it comes to understanding the universe, what we know is only a sliver of the whole picture. Dark matter and dark energy make up about 95% of the universe, leaving only 5% \"ordinary matter,\" or what we can see. Dr. Rupak Mahapatra, an experimental particle physicist at Texas A&M University, designs highly advanced semiconductor detectors with cryogenic quantum sensors, powering experiments w",
     "published_at": "2026-01-07T14:12:22Z",
-    "updated_at": "2026-01-07T13:02:22.197516Z",
+    "updated_at": "2026-01-07T13:02:19.861285Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35180,
+    "title": "K dwarf survey maps stellar neighborhood for habitable worlds",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/K_dwarf_survey_maps_stellar_neighborhood_for_habitable_worlds_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/habitable-zone-goldilocks-chart-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nA Georgia State University astronomy graduate student has led a new survey of nearby K-type stars to identify targets where Earth-like planets could provide conditions suitable for life. Sebastian Carrazco-Gaxiola presented the results at the January 2026 meeting of the American Astronomical Society in Phoenix, Arizona. \n\nThe project delivers the first comprehensive spectroscopic census of t",
+    "published_at": "2026-01-07T14:12:22Z",
+    "updated_at": "2026-01-07T13:02:22.589128Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35181,
+    "title": "Aegis Aerospace and United Semiconductors plan in orbit semiconductor materials plant",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Aegis_Aerospace_and_United_Semiconductors_plan_in_orbit_semiconductor_materials_plant_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gps-europe-galileo-orbit-2024-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nAegis Aerospace Inc. has entered into a partnership with United Semiconductors LLC to develop semiconductor manufacturing capabilities in low Earth orbit as part of a new advanced materials production platform. The collaboration follows a recent grant agreement between Aegis Aerospace and the Texas Space Commission to design and operate an in-space manufacturing system for advanced materials in",
+    "published_at": "2026-01-07T14:12:22Z",
+    "updated_at": "2026-01-07T13:02:22.868929Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35177,
+    "title": "Milky Way black hole flare leaves X ray echoes in nearby gas cloud",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Milky_Way_black_hole_flare_leaves_X_ray_echoes_in_nearby_gas_cloud_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/sagittarius-a-galactic-center-map-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nOur galaxy's supermassive black hole is among the faintest known, yet new observations indicate it was far more active in the recent past on cosmic timescales. Sagittarius A*, at the Milky Way's center, appears to have produced a powerful X ray flare within the last few hundred to 1,000 years, leaving an observable imprint in surrounding gas. \n\nMichigan State University researcher Stephen Di",
+    "published_at": "2026-01-07T14:12:22Z",
+    "updated_at": "2026-01-07T13:02:21.388857Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -105,100 +245,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35177,
-    "title": "Milky Way black hole flare leaves X ray echoes in nearby gas cloud",
+    "id": 35179,
+    "title": "NASA selects industry partners to mature Habitable Worlds Observatory technologies",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Milky_Way_black_hole_flare_leaves_X_ray_echoes_in_nearby_gas_cloud_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sagittarius-a-galactic-center-map-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/NASA_selects_industry_partners_to_mature_Habitable_Worlds_Observatory_technologies_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/habitable-worlds-observatory-hwo-early-design-concept-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nOur galaxy's supermassive black hole is among the faintest known, yet new observations indicate it was far more active in the recent past on cosmic timescales. Sagittarius A*, at the Milky Way's center, appears to have produced a powerful X ray flare within the last few hundred to 1,000 years, leaving an observable imprint in surrounding gas. \n\nMichigan State University researcher Stephen Di",
+    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nNASA has chosen a set of industry proposals to advance technologies for its Habitable Worlds Observatory concept, a planned flagship space telescope intended to directly image Earth-like planets around Sun-like stars and analyze their atmospheres for potential signs of life. \n\nThe observatory is also expected to support a broad astrophysics program and contribute to planning for future human",
     "published_at": "2026-01-07T14:12:22Z",
-    "updated_at": "2026-01-07T13:02:21.388857Z",
+    "updated_at": "2026-01-07T13:02:22.197516Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35180,
-    "title": "K dwarf survey maps stellar neighborhood for habitable worlds",
+    "id": 35178,
+    "title": "China geospatial information industry approaches 1 trillion yuan output",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/K_dwarf_survey_maps_stellar_neighborhood_for_habitable_worlds_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/habitable-zone-goldilocks-chart-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/China_geospatial_information_industry_approaches_1_trillion_yuan_output_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-gaofen-7-earth-observation-civil-use-optical-transmission-3d-surveying-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nA Georgia State University astronomy graduate student has led a new survey of nearby K-type stars to identify targets where Earth-like planets could provide conditions suitable for life. Sebastian Carrazco-Gaxiola presented the results at the January 2026 meeting of the American Astronomical Society in Phoenix, Arizona. \n\nThe project delivers the first comprehensive spectroscopic census of t",
+    "summary": "Tokyo, Japan (SPX) Jan 07, 2026\n\n\nChina's geospatial information sector, a key component of digital mapping and positioning, is approaching a scale of 1 trillion yuan, according to the Ministry of Natural Resources. \n\nThe industry is expected to have exceeded 900 billion yuan in output for 2025, representing growth of more than 30 percent compared with 2020, and it employs more than 4 million people. \n\nAt the core of the",
     "published_at": "2026-01-07T14:12:22Z",
-    "updated_at": "2026-01-07T13:02:22.589128Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35176,
-    "title": "Jupiter's moon Europa has a seafloor that may be quiet and lifeless",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Jupiters_moon_Europa_has_a_seafloor_that_may_be_quiet_and_lifeless_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/jupiter-moon-europa-ocean-ice-core-cutaway-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "St. Louis MO (SPX) Jan 06, 2026\n\n\nThe giant planet Jupiter has nearly 100 known moons, yet none have captured the interest and imagination of astronomers and space scientists quite like Europa, an ice-shrouded world that is thought to possess a vast ocean of liquid salt water. For decades, scientists have wondered whether that ocean could harbor the right conditions for life, placing Europa near the top of the list of solar syst",
-    "published_at": "2026-01-07T14:12:22Z",
-    "updated_at": "2026-01-07T13:02:20.912839Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35173,
-    "title": "We have no idea what most of the universe is made of, but scientists are closer than ever to finding out",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/We_have_no_idea_what_most_of_the_universe_is_made_of_but_scientists_are_closer_than_ever_to_finding_out_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rupak-mahapatra-with-tesseract-detector-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "College Station TX (SPX) Jan 06, 2026\n\n\nWhen it comes to understanding the universe, what we know is only a sliver of the whole picture. Dark matter and dark energy make up about 95% of the universe, leaving only 5% \"ordinary matter,\" or what we can see. Dr. Rupak Mahapatra, an experimental particle physicist at Texas A&M University, designs highly advanced semiconductor detectors with cryogenic quantum sensors, powering experiments w",
-    "published_at": "2026-01-07T14:12:22Z",
-    "updated_at": "2026-01-07T13:02:19.861285Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35181,
-    "title": "Aegis Aerospace and United Semiconductors plan in orbit semiconductor materials plant",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Aegis_Aerospace_and_United_Semiconductors_plan_in_orbit_semiconductor_materials_plant_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gps-europe-galileo-orbit-2024-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nAegis Aerospace Inc. has entered into a partnership with United Semiconductors LLC to develop semiconductor manufacturing capabilities in low Earth orbit as part of a new advanced materials production platform. The collaboration follows a recent grant agreement between Aegis Aerospace and the Texas Space Commission to design and operate an in-space manufacturing system for advanced materials in",
-    "published_at": "2026-01-07T14:12:22Z",
-    "updated_at": "2026-01-07T13:02:22.868929Z",
+    "updated_at": "2026-01-07T13:02:21.737096Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -225,20 +305,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35178,
-    "title": "China geospatial information industry approaches 1 trillion yuan output",
+    "id": 35176,
+    "title": "Jupiter's moon Europa has a seafloor that may be quiet and lifeless",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/China_geospatial_information_industry_approaches_1_trillion_yuan_output_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-gaofen-7-earth-observation-civil-use-optical-transmission-3d-surveying-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Jupiters_moon_Europa_has_a_seafloor_that_may_be_quiet_and_lifeless_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/jupiter-moon-europa-ocean-ice-core-cutaway-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 07, 2026\n\n\nChina's geospatial information sector, a key component of digital mapping and positioning, is approaching a scale of 1 trillion yuan, according to the Ministry of Natural Resources. \n\nThe industry is expected to have exceeded 900 billion yuan in output for 2025, representing growth of more than 30 percent compared with 2020, and it employs more than 4 million people. \n\nAt the core of the",
+    "summary": "St. Louis MO (SPX) Jan 06, 2026\n\n\nThe giant planet Jupiter has nearly 100 known moons, yet none have captured the interest and imagination of astronomers and space scientists quite like Europa, an ice-shrouded world that is thought to possess a vast ocean of liquid salt water. For decades, scientists have wondered whether that ocean could harbor the right conditions for life, placing Europa near the top of the list of solar syst",
     "published_at": "2026-01-07T14:12:22Z",
-    "updated_at": "2026-01-07T13:02:21.737096Z",
+    "updated_at": "2026-01-07T13:02:20.912839Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -908,86 +988,6 @@
     "summary": "Zurich, Switzerland (SPX) Jan 06, 2026\n\n\nThe sun rotates about once every 28 days, so active regions on its surface are usually visible from Earth for only around two weeks before they move out of view behind the limb. Ioannis Kontogiannis, a solar physicist at ETH Zurich and the Istituto ricerche solari Aldo e Cele Dacco (IRSOL) in Locarno, notes that ESA's Solar Orbiter mission, launched in 2020, has extended this viewing window by o",
     "published_at": "2026-01-06T04:06:46Z",
     "updated_at": "2026-01-06T03:02:33.555204Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35144,
-    "title": "ALMA views giant dusty disk in Gomezs Hamburger with signs of early giant planet formation",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ALMA_views_giant_dusty_disk_in_Gomezs_Hamburger_with_signs_of_early_giant_planet_formation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gomez-hamburger-system-stacked-layers-alma-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nAstronomers using the Atacama Large Millimeter/submillimeter Array ALMA have identified the earliest phases of giant planet formation inside the dense layers of gas and dust in the nearly edge-on disk known as Gomez's Hamburger GoHam. The team presented the research, which is in preparation for publication, at a press conference during the American Astronomical Society's annual meeting in Januar",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:34.178650Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35142,
-    "title": "Hubble tracks Betelgeuse companion carving dense wake in giant star atmosphere",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hubble_tracks_Betelgeuse_companion_carving_dense_wake_in_giant_star_atmosphere_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/betelgeuse-companion-carving-wake-star-atmosphere-hubble-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nUsing NASA's Hubble Space Telescope with ground-based observatories, astronomers have traced how Betelgeuse's recently identified companion star, Siwarha, disturbs gas in the red supergiant's extended atmosphere and produces a dense wake of material. The work, led by researchers at the Center for Astrophyphysics | Harvard and Smithsonian (CfA), links this wake to puzzling changes in Betelgeuse's",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:33.072978Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35145,
-    "title": "Starfighters completes supersonic tests for GE Aerospace ramjet program",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Starfighters_completes_supersonic_tests_for_GE_Aerospace_ramjet_program_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/starfighters-space-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 06, 2026\n\n\nStarfighters Space Inc has completed a supersonic flight test campaign for GE Aerospace in which a company F-104 aircraft carried an advanced propulsion test vehicle on multiple flights at supersonic speed. The work supports GE Aerospace's Atmospheric Test of Launched Air-breathing System (ATLAS) program, which is focused on solid fuel ramjet propulsion. \n\nAs part of the ATLAS program, Starf",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:34.624469Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35141,
-    "title": "Hubble confirms dark starless relic cloud near galaxy M94",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hubble_confirms_dark_starless_relic_cloud_near_galaxy_M94_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/vla-hubble-faint-dwarf-galaxy-cloud-9-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 06, 2026\n\n\nA team using NASA's Hubble Space Telescope has identified a new type of astronomical object, a starless gas-rich dark-matter cloud considered a relic of early galaxy formation and nicknamed \"Cloud-9.\" The object is the first confirmed example of a Reionization-Limited H I Cloud, or RELHIC, a neutral hydrogen cloud from the early universe that never formed stars. \n\nProgram principal investiga",
-    "published_at": "2026-01-06T04:06:46Z",
-    "updated_at": "2026-01-06T03:02:32.226627Z",
     "featured": false,
     "launches": [],
     "events": [],
