@@ -1,5 +1,85 @@
 [
   {
+    "id": 35236,
+    "title": "Ganges Delta Under a Winter Shroud of Fog",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/ganges-delta-under-a-winter-shroud-of-fog/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ganges-delta-under-a-winter-shroud-of-fog/cloudstreets_tmo_20250106.jpg",
+    "news_site": "NASA",
+    "summary": "Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.",
+    "published_at": "2026-01-09T05:00:00Z",
+    "updated_at": "2026-01-09T05:11:11.501254Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35235,
+    "title": "Crew-11 to cut mission short and return to Earth due to medical issue",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/01/09/crew-11-to-cut-mission-short-and-return-to-earth-due-to-medical-issue/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260108_crew11_1500.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "In keeping with the agency's strict medical privacy policy, NASA officials have not identified the astronaut in question or provided any details about the nature of the medical issue. ",
+    "published_at": "2026-01-09T04:35:29Z",
+    "updated_at": "2026-01-09T04:40:21.012536Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35234,
+    "title": "NASA DECIDES TO BRING CREW-11 HOME EARLY, BUT NOT AN EMERGENCY",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-decides-to-bring-crew-11-home-early-but-not-an-emergency/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/01/Jared-Jan-8-26-2-300x233.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "NASA Administrator Jared Isaacman has decided to bring Crew-11 home early because of a medical concern affecting one of the crew members. NASA is not revealing who it is to […]",
+    "published_at": "2026-01-09T02:43:05Z",
+    "updated_at": "2026-01-09T02:52:53.174821Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35233,
+    "title": "NASA Crew-11 Will Return Early Due to Medical Situation",
+    "authors": [
+      {
+        "name": "Beverly Casillas",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2026/01/nasa-crew-11-will-return-early-due-to-medical-situation/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/01/presser.png",
+    "news_site": "Space Scout",
+    "summary": "NASA’s Crew-11 mission to the International Space Station will make an unprecedented early return to Earth due to a medical situation involving one of the four astronauts.",
+    "published_at": "2026-01-09T00:14:13Z",
+    "updated_at": "2026-01-09T00:20:18.014254Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35232,
     "title": "Medical issue prompts early return of Crew-11 from ISS",
     "authors": [
@@ -468,20 +548,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35209,
-    "title": "Starfighters Space positions for rapid hypersonic era missions",
+    "id": 35208,
+    "title": "Sierra Space finishes first plane of SDA missile tracking satellite structures",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Starfighters_Space_positions_for_rapid_hypersonic_era_missions_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/milspace-spix-3-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Sierra_Space_finishes_first_plane_of_SDA_missile_tracking_satellite_structures_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/sierra-space-victory-works-sda-satellite-assembly-line-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Jan 03, 2026\n\n\nAs rivals deploy operational hypersonic vehicles, analysts describe a new Sputnik moment for U.S. tactical space access, with the Pentagon directing more than $6.9 billion toward hypersonic weapons programs for fiscal 2025 and the hypersonic technology market projected at about $8.46 billion this year. The shift away from chasing the lowest launch price toward speed and responsiveness underpins",
+    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nSierra Space has completed the first nine satellite structures for the Space Development Agency's Tranche 2 Tracking Layer program, delivering Plane 1 of its contracted 18 satellites three months ahead of schedule. The milestone supports delivery and launch preparation timelines for the Tranche 2 Tracking Layer within the Proliferated Warfighter Space Architecture. \n\nErik Daehler, Senior Vic",
     "published_at": "2026-01-08T09:12:29Z",
-    "updated_at": "2026-01-08T08:00:27.854585Z",
+    "updated_at": "2026-01-08T08:00:27.797440Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -508,6 +588,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35209,
+    "title": "Starfighters Space positions for rapid hypersonic era missions",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Starfighters_Space_positions_for_rapid_hypersonic_era_missions_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/milspace-spix-3-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Jan 03, 2026\n\n\nAs rivals deploy operational hypersonic vehicles, analysts describe a new Sputnik moment for U.S. tactical space access, with the Pentagon directing more than $6.9 billion toward hypersonic weapons programs for fiscal 2025 and the hypersonic technology market projected at about $8.46 billion this year. The shift away from chasing the lowest launch price toward speed and responsiveness underpins",
+    "published_at": "2026-01-08T09:12:29Z",
+    "updated_at": "2026-01-08T08:00:27.854585Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35206,
     "title": "US Space Command APEX summit explores AI for campaign planning",
     "authors": [
@@ -522,26 +622,6 @@
     "summary": "Colorado Springs CO (SPX) Jan 03, 2026\n\n\nU.S. Space Command's Joint Operations Division hosted the command's first artificial intelligence-enabled summit Nov. 18-21, 2025, at the Bayfield facility in Colorado Springs and at a MITRE-operated facility that supports national security work. \n\nThe Augmented Planning and Execution Summit brought together more than 70 leaders, including seven division chiefs and component representatives,",
     "published_at": "2026-01-08T09:12:29Z",
     "updated_at": "2026-01-08T08:00:27.756178Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35208,
-    "title": "Sierra Space finishes first plane of SDA missile tracking satellite structures",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Sierra_Space_finishes_first_plane_of_SDA_missile_tracking_satellite_structures_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sierra-space-victory-works-sda-satellite-assembly-line-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nSierra Space has completed the first nine satellite structures for the Space Development Agency's Tranche 2 Tracking Layer program, delivering Plane 1 of its contracted 18 satellites three months ahead of schedule. The milestone supports delivery and launch preparation timelines for the Tranche 2 Tracking Layer within the Proliferated Warfighter Space Architecture. \n\nErik Daehler, Senior Vic",
-    "published_at": "2026-01-08T09:12:29Z",
-    "updated_at": "2026-01-08T08:00:27.797440Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -568,46 +648,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35199,
-    "title": "M dwarf plasma torus offers window into space weather and planetary habitability",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/M_dwarf_plasma_torus_offers_window_into_space_weather_and_planetary_habitability_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/space-weather-m-dwarf-tic-141146667-magnetic-field-lines-artwork-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 08, 2026\n\n\nCarnegie researcher Luke Bouma is using a naturally occurring plasma structure around certain young M dwarf stars as a kind of space weather station to investigate how stellar particles shape planetary environments and potential habitability. M dwarfs are smaller, cooler and dimmer than the Sun and commonly host at least one Earth-sized rocky planet, many of which are either too hot for liquid w",
-    "published_at": "2026-01-08T05:14:32Z",
-    "updated_at": "2026-01-08T04:10:13.913479Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35200,
-    "title": "We finally know how the most common types of planets are created",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/We_finally_know_how_the_most_common_types_of_planets_are_created_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-nins-japan-puffy-planets-exoplanets-intense-radiation-host-star-driving-atmospheric-escape-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nThanks to the discovery of thousands of exoplanets to date, we know that planets bigger than Earth but smaller than Neptune orbit most stars. Oddly, our sun lacks such a planet. That's been a source of frustration for planetary scientists, who can't study them in as much detail as they'd like, leaving one big question: How did these planets form? \n\n h3>Now we know the answer /h3>\nAn interna",
-    "published_at": "2026-01-08T05:14:32Z",
-    "updated_at": "2026-01-08T04:10:13.922435Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35198,
     "title": "NSF-DOE Vera C. Rubin Observatory spots record-breaking asteroid in pre-survey observations",
     "authors": [
@@ -622,66 +662,6 @@
     "summary": "Washington DC (SPX) Jan 08, 2026\n\n\nAs part of the NSF-DOE Vera C. Rubin Observatory First Look event in June 2025, Rubin announced that it had observed thousands of asteroids cruising about our Solar System, about 1900 of which have been confirmed as never-before-seen. Within the flurry, a team of astronomers has discovered 19 super- and ultra-fast-rotating asteroids. One of these is the fastest-spinning asteroid larger than 500",
     "published_at": "2026-01-08T05:14:32Z",
     "updated_at": "2026-01-08T04:10:13.902669Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35202,
-    "title": "NJIT researchers discover long-hidden source of gamma rays unleashed by solar flares",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NJIT_researchers_discover_long_hidden_source_of_gamma_rays_unleashed_by_solar_flares_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/solar-dynamics-observatory-solar-flare-plasma-ejection-magnetic-loops-sdo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Newark NJ (SPX) Jan 08, 2026\n\n\nSolar physicists say they have found a key source of intense gamma rays unleashed when Earth's nearest star produces its most violent eruptions. \n\nIn findings published in Nature Astronomy, scientists at NJIT's Center for Solar-Terrestrial Research (NJIT-CSTR) have pinpointed a previously unknown class of high-energy particles in the Sun's upper atmosphere responsible for generating the long",
-    "published_at": "2026-01-08T05:14:32Z",
-    "updated_at": "2026-01-08T04:10:13.946123Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35195,
-    "title": "Second ESCAPADE spacecraft completes key trajectory fix on path to Mars",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Second_ESCAPADE_spacecraft_completes_key_trajectory_fix_on_path_to_Mars_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/escapade-mars-mission-patch-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Jan 07, 2026\n\n\nNASA's twin ESCAPADE spacecraft are back on a fully synchronized path to Mars after mission controllers successfully carried out a critical trajectory correction maneuver for the second probe on Jan. 6. The burn followed a brief pause in December 2025, when engineers delayed the attempt to investigate low thrust seen during earlier correction efforts on one of the two small satellites. \n\nThe",
-    "published_at": "2026-01-08T05:14:32Z",
-    "updated_at": "2026-01-08T04:10:13.843304Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35201,
-    "title": "Puffy young exoplanets reveal origin of super Earths",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Puffy_young_exoplanets_reveal_origin_of_super_Earths_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-nins-japan-puffy-planets-exoplanets-intense-radiation-host-star-driving-atmospheric-escape-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 08, 2026\n\n\nAstronomers have identified a young planetary system that links newborn giant worlds to the compact super Earths and sub Neptunes that dominate the Milky Way. V1298 Tau, a star about 20 million years old, hosts four planets between the sizes of Neptune and Jupiter in close-in orbits, offering a snapshot of planets during a brief and dynamic stage of evolution. \n\nOver ten years, researchers c",
-    "published_at": "2026-01-08T05:14:32Z",
-    "updated_at": "2026-01-08T04:10:13.933609Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -708,6 +688,46 @@
     "detailed_news": ""
   },
   {
+    "id": 35199,
+    "title": "M dwarf plasma torus offers window into space weather and planetary habitability",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/M_dwarf_plasma_torus_offers_window_into_space_weather_and_planetary_habitability_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/space-weather-m-dwarf-tic-141146667-magnetic-field-lines-artwork-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 08, 2026\n\n\nCarnegie researcher Luke Bouma is using a naturally occurring plasma structure around certain young M dwarf stars as a kind of space weather station to investigate how stellar particles shape planetary environments and potential habitability. M dwarfs are smaller, cooler and dimmer than the Sun and commonly host at least one Earth-sized rocky planet, many of which are either too hot for liquid w",
+    "published_at": "2026-01-08T05:14:32Z",
+    "updated_at": "2026-01-08T04:10:13.913479Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35202,
+    "title": "NJIT researchers discover long-hidden source of gamma rays unleashed by solar flares",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NJIT_researchers_discover_long_hidden_source_of_gamma_rays_unleashed_by_solar_flares_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/solar-dynamics-observatory-solar-flare-plasma-ejection-magnetic-loops-sdo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Newark NJ (SPX) Jan 08, 2026\n\n\nSolar physicists say they have found a key source of intense gamma rays unleashed when Earth's nearest star produces its most violent eruptions. \n\nIn findings published in Nature Astronomy, scientists at NJIT's Center for Solar-Terrestrial Research (NJIT-CSTR) have pinpointed a previously unknown class of high-energy particles in the Sun's upper atmosphere responsible for generating the long",
+    "published_at": "2026-01-08T05:14:32Z",
+    "updated_at": "2026-01-08T04:10:13.946123Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35203,
     "title": "Dark matter neutrino link may ease cosmic tension",
     "authors": [
@@ -722,6 +742,66 @@
     "summary": "London, UK (SPX) Jan 08, 2026\n\n\nScientists report signs that dark matter and neutrinos may interact, a possibility that would extend the standard cosmological model and change how structure growth in the universe is understood. \n\nThe study examines how such interactions could influence the formation of galaxies and other large-scale structures, addressing a known mismatch between predictions from early-universe measurement",
     "published_at": "2026-01-08T05:14:32Z",
     "updated_at": "2026-01-08T04:10:13.958136Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35195,
+    "title": "Second ESCAPADE spacecraft completes key trajectory fix on path to Mars",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Second_ESCAPADE_spacecraft_completes_key_trajectory_fix_on_path_to_Mars_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/escapade-mars-mission-patch-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (SPX) Jan 07, 2026\n\n\nNASA's twin ESCAPADE spacecraft are back on a fully synchronized path to Mars after mission controllers successfully carried out a critical trajectory correction maneuver for the second probe on Jan. 6. The burn followed a brief pause in December 2025, when engineers delayed the attempt to investigate low thrust seen during earlier correction efforts on one of the two small satellites. \n\nThe",
+    "published_at": "2026-01-08T05:14:32Z",
+    "updated_at": "2026-01-08T04:10:13.843304Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35200,
+    "title": "We finally know how the most common types of planets are created",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/We_finally_know_how_the_most_common_types_of_planets_are_created_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-nins-japan-puffy-planets-exoplanets-intense-radiation-host-star-driving-atmospheric-escape-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nThanks to the discovery of thousands of exoplanets to date, we know that planets bigger than Earth but smaller than Neptune orbit most stars. Oddly, our sun lacks such a planet. That's been a source of frustration for planetary scientists, who can't study them in as much detail as they'd like, leaving one big question: How did these planets form? \n\n h3>Now we know the answer /h3>\nAn interna",
+    "published_at": "2026-01-08T05:14:32Z",
+    "updated_at": "2026-01-08T04:10:13.922435Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35201,
+    "title": "Puffy young exoplanets reveal origin of super Earths",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Puffy_young_exoplanets_reveal_origin_of_super_Earths_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/extrasolar-nins-japan-puffy-planets-exoplanets-intense-radiation-host-star-driving-atmospheric-escape-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 08, 2026\n\n\nAstronomers have identified a young planetary system that links newborn giant worlds to the compact super Earths and sub Neptunes that dominate the Milky Way. V1298 Tau, a star about 20 million years old, hosts four planets between the sizes of Neptune and Jupiter in close-in orbits, offering a snapshot of planets during a brief and dynamic stage of evolution. \n\nOver ten years, researchers c",
+    "published_at": "2026-01-08T05:14:32Z",
+    "updated_at": "2026-01-08T04:10:13.933609Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -911,91 +991,6 @@
     "updated_at": "2026-01-07T16:30:10.158607Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35188,
-    "title": "Terran Orbital Appoints Michael Vishion as Vice President of Program Management",
-    "authors": [
-      {
-        "name": "Terran Orbital",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/terran-orbital-appoints-michael-vishion-as-vice-president-of-program-management/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/Terran_Orbital_Standard_RGB_4k-square-scaled.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIRVINE, Calif., Jan. 7, 2026 — Terran Orbital, a Lockheed Martin Company and a leading manufacturer of satellite solutions, announced today the appointment of Michael Vishion as vice president of […]\nThe post Terran Orbital Appoints Michael Vishion as Vice President of Program Management appeared first on SpaceNews.",
-    "published_at": "2026-01-07T15:44:38Z",
-    "updated_at": "2026-01-07T15:50:20.407262Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35187,
-    "title": "Space Force moves to standardize satellites with ‘Handle 2.0’ contract",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-force-moves-to-standardize-satellites-with-handle-2-0-contract/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Screenshot-2026-01-07-at-9.45.29-AM.png?fit=1024%2C570&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFalcon ExoDynamics wins contract to mature satellite interface developed by Aerospace Corp.\nThe post Space Force moves to standardize satellites with ‘Handle 2.0’ contract appeared first on SpaceNews.",
-    "published_at": "2026-01-07T14:53:03Z",
-    "updated_at": "2026-01-07T15:00:25.847342Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35174,
-    "title": "Star like early galaxies challenge views of cosmic evolution",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Star_like_early_galaxies_challenge_views_of_cosmic_evolution_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/webb-ceers-survey-platypus-galaxies-12-billion-years-ago-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nScientists at the University of Missouri have identified a small group of unusual objects in the early universe that look like stars in images yet behave like compact galaxies when analyzed in detail. Using NASAs James Webb Space Telescope JWST, Haojing Yan and colleagues at Mizzous College of Arts and Science found that these sources appear as single points of light while carrying the spectral",
-    "published_at": "2026-01-07T14:12:22Z",
-    "updated_at": "2026-01-07T13:02:20.132878Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35175,
-    "title": "NASA's IXPE Measures White Dwarf Star for First Time",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASAs_IXPE_Measures_White_Dwarf_Star_for_First_Time_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ixpe-white-dwarf-pulling-material-from-star-accretion-disk-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Huntsville AL (SPX) Jan 05, 2026\r\n\r\n\r\nFor the first time, scientists have used NASA's IXPE (Imaging X-ray Polarization Explorer) to study a white dwarf star. Using IXPE's unique X-ray polarization capability, astronomers examined a star called the intermediate polar EX Hydrae, unlocking the geometry of energetic binary systems. \r\n\r\nIn 2024, IXPE spent nearly one week focused on EX Hydrae, a white dwarf star system located in the c",
-    "published_at": "2026-01-07T14:12:22Z",
-    "updated_at": "2026-01-07T15:06:16.091102Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
