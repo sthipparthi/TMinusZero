@@ -1,5 +1,52 @@
 [
   {
+    "id": 35267,
+    "title": "FCC approves 7,500 additional Starlink satellites",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/starlink-comparison.jpeg?fit=1024%2C597&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe FCC approved a second tranche of 7,500 Starlink Gen2 satellites Jan. 9, expanding the size of SpaceX’s authorized next-generation constellation.\nThe post FCC approves 7,500 additional Starlink satellites appeared first on SpaceNews.",
+    "published_at": "2026-01-10T17:18:32Z",
+    "updated_at": "2026-01-10T17:20:28.311668Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35268,
+    "title": "Space Force awards $739 million in launch orders to SpaceX",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/G-Qd-AVWYAEPm0u-scaled.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX sweeps nine national security missions for SDA and NRO under NSSL Phase 3 Lane 1\nThe post Space Force awards $739 million in launch orders to SpaceX appeared first on SpaceNews.",
+    "published_at": "2026-01-10T17:13:08Z",
+    "updated_at": "2026-01-10T17:20:28.377267Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35266,
     "title": "MaiaSpace to Launch “Minimum Viable Product” in 2026",
     "authors": [
@@ -300,26 +347,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35249,
-    "title": "China ramps up CHSN01 fusion magnet jacket for cryogenic reactors",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.energy-daily.com/reports/China_ramps_up_CHSN01_fusion_magnet_jacket_for_cryogenic_reactors_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-fusion-east-experimental-advanced-superconducting-tokamak-facility-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nChina has produced 30 tons of cryogenic jacket material made from its CHSN01 steel in continuous lengths of about 5 km for use in Cable-in-Conduit Conductors for future fusion reactors. The jacket is designed for magnets that must endure strong fields and very low temperatures in advanced fusion devices. \n\nMechanical tests at 4.2 K show the CHSN01 jacket reaches an average yield strength of",
-    "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T12:20:56.496504Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35246,
     "title": "Trimble positioning tech to enhance Lucid Gravity lane level navigation",
     "authors": [
@@ -360,27 +387,42 @@
     "detailed_news": ""
   },
   {
-    "id": 35247,
-    "title": "International Space Station crew to return early after astronaut medical issue",
+    "id": 35248,
+    "title": "Superradiant spin teamwork yields self driven microwave signals",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/International_Space_Station_crew_to_return_early_after_astronaut_medical_issue_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/iss-spix-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Superradiant_spin_teamwork_yields_self_driven_microwave_signals_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/superradiant-spin-teamwork-figures-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Jan 8, 2026\r\n\r\n\r\n NASA crewmembers at the International Space Station will return to Earth within days after an astronaut suffered a health issue, the US space agency said Thursday, the first such medical evacuation in the orbital lab's history. \r\n\r\nOfficials did not provide details of the medical event but said the unidentified crewmember is stable. They said it did not result from any kind of injury onboard or",
+    "summary": "Sydney, Australia (SPX) Jan 05, 2026\n\n\nWhen quantum particles work together, they can produce signals far stronger than any one particle could generate alone, a cooperative phenomenon known as superradiance that has often caused rapid energy loss in quantum systems and created challenges for quantum technologies. A study published in Nature Physics shows that the same collective effect can instead generate self-sustained, long-lived",
     "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T14:43:55.806752Z",
+    "updated_at": "2026-01-09T12:20:56.478258Z",
     "featured": false,
-    "launches": [
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35243,
+    "title": "China tallies record launch year as lunar and asteroid plans advance",
+    "authors": [
       {
-        "launch_id": "88b4b179-c4ed-4bd1-868d-ced568a2342a",
-        "provider": "Launch Library 2"
+        "name": "SpaceDaily",
+        "socials": null
       }
     ],
+    "url": "https://www.spacedaily.com/reports/China_tallies_record_launch_year_as_lunar_and_asteroid_plans_advance_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-sun-rocket-launch-silhouette-long-march-2f-shenzhou-22-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 09, 2026\n\n\nChina's space sector completed 93 orbital launch missions in 2025, the highest annual total the nation has recorded. \n\nChina Aerospace Science and Technology Corp (CASC), the main State-owned contractor, closed out the year on Dec 31 with a Long March 7A launch from the Wenchang Space Launch Center in Hainan that placed two technology demonstration satellites into orbit. The company conducte",
+    "published_at": "2026-01-09T13:29:54Z",
+    "updated_at": "2026-01-09T12:20:56.405648Z",
+    "featured": false,
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -425,26 +467,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35248,
-    "title": "Superradiant spin teamwork yields self driven microwave signals",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Superradiant_spin_teamwork_yields_self_driven_microwave_signals_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/superradiant-spin-teamwork-figures-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Jan 05, 2026\n\n\nWhen quantum particles work together, they can produce signals far stronger than any one particle could generate alone, a cooperative phenomenon known as superradiance that has often caused rapid energy loss in quantum systems and created challenges for quantum technologies. A study published in Nature Physics shows that the same collective effect can instead generate self-sustained, long-lived",
-    "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T12:20:56.478258Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35242,
     "title": "Barred spiral galaxy spotted 11.5 billion years in the past",
     "authors": [
@@ -465,20 +487,45 @@
     "detailed_news": ""
   },
   {
-    "id": 35243,
-    "title": "China tallies record launch year as lunar and asteroid plans advance",
+    "id": 35247,
+    "title": "International Space Station crew to return early after astronaut medical issue",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/China_tallies_record_launch_year_as_lunar_and_asteroid_plans_advance_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-sun-rocket-launch-silhouette-long-march-2f-shenzhou-22-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/International_Space_Station_crew_to_return_early_after_astronaut_medical_issue_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/iss-spix-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 09, 2026\n\n\nChina's space sector completed 93 orbital launch missions in 2025, the highest annual total the nation has recorded. \n\nChina Aerospace Science and Technology Corp (CASC), the main State-owned contractor, closed out the year on Dec 31 with a Long March 7A launch from the Wenchang Space Launch Center in Hainan that placed two technology demonstration satellites into orbit. The company conducte",
+    "summary": "Washington, United States (AFP) Jan 8, 2026\r\n\r\n\r\n NASA crewmembers at the International Space Station will return to Earth within days after an astronaut suffered a health issue, the US space agency said Thursday, the first such medical evacuation in the orbital lab's history. \r\n\r\nOfficials did not provide details of the medical event but said the unidentified crewmember is stable. They said it did not result from any kind of injury onboard or",
     "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T12:20:56.405648Z",
+    "updated_at": "2026-01-09T14:43:55.806752Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "88b4b179-c4ed-4bd1-868d-ced568a2342a",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35249,
+    "title": "China ramps up CHSN01 fusion magnet jacket for cryogenic reactors",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.energy-daily.com/reports/China_ramps_up_CHSN01_fusion_magnet_jacket_for_cryogenic_reactors_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-fusion-east-experimental-advanced-superconducting-tokamak-facility-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nChina has produced 30 tons of cryogenic jacket material made from its CHSN01 steel in continuous lengths of about 5 km for use in Cable-in-Conduit Conductors for future fusion reactors. The jacket is designed for magnets that must endure strong fields and very low temperatures in advanced fusion devices. \n\nMechanical tests at 4.2 K show the CHSN01 jacket reaches an average yield strength of",
+    "published_at": "2026-01-09T13:29:54Z",
+    "updated_at": "2026-01-09T12:20:56.496504Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -945,46 +992,6 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-01-08T15:18:00Z",
     "updated_at": "2026-01-09T09:30:19.124972Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35218,
-    "title": "Eric Schmidt will massively invest in private telescopes, including Hubble replacement",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/01/eric-schmidt-will-massively-invest-in-private-telescopes-including-hubble-replacement/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/5.jpg",
-    "news_site": "Arstechnica",
-    "summary": "“This is a very significant contribution to the astronomical community.\"",
-    "published_at": "2026-01-08T14:05:52Z",
-    "updated_at": "2026-01-08T14:10:47.179693Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35219,
-    "title": "Vulcan to open 2026 with national security launch",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/vulcan-to-open-2026-with-national-security-launch/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/G9gq1UwWIAAosaE-scaled.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe launch of USSF-87 comes amid leadership change at United Launch Alliance and pressure to increase launch tempo\nThe post Vulcan to open 2026 with national security launch appeared first on SpaceNews.",
-    "published_at": "2026-01-08T14:04:06Z",
-    "updated_at": "2026-01-08T14:12:43.078553Z",
     "featured": false,
     "launches": [],
     "events": [],
