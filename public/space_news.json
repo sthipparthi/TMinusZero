@@ -1,5 +1,25 @@
 [
   {
+    "id": 35266,
+    "title": "MaiaSpace to Launch “Minimum Viable Product” in 2026",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/maiaspace-to-launch-minimum-viable-product-in-2026/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/MaiaSpace-to-Launch-Minimum-Viable-Product-in-2026.webp",
+    "news_site": "European Spaceflight",
+    "summary": "French small launch services provider MaiaSpace has explained that an initial flight of its Maia rocket in 2026 will represent the deployment of a “minimum viable product.” MaiaSpace was founded in 2022 as a wholly-owned subsidiary of ArianeGroup. The company is developing a partially reusable two-stage rocket called Maia that is designed to be capable […]\nThe post MaiaSpace to Launch “Minimum Viable Product” in 2026 appeared first on European Spaceflight.",
+    "published_at": "2026-01-10T07:28:04Z",
+    "updated_at": "2026-01-10T07:30:26.014011Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35265,
     "title": "NASA sets milestones on the path to Artemis II crew launch",
     "authors": [
@@ -340,22 +360,27 @@
     "detailed_news": ""
   },
   {
-    "id": 35243,
-    "title": "China tallies record launch year as lunar and asteroid plans advance",
+    "id": 35247,
+    "title": "International Space Station crew to return early after astronaut medical issue",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/China_tallies_record_launch_year_as_lunar_and_asteroid_plans_advance_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-sun-rocket-launch-silhouette-long-march-2f-shenzhou-22-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/International_Space_Station_crew_to_return_early_after_astronaut_medical_issue_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/iss-spix-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 09, 2026\n\n\nChina's space sector completed 93 orbital launch missions in 2025, the highest annual total the nation has recorded. \n\nChina Aerospace Science and Technology Corp (CASC), the main State-owned contractor, closed out the year on Dec 31 with a Long March 7A launch from the Wenchang Space Launch Center in Hainan that placed two technology demonstration satellites into orbit. The company conducte",
+    "summary": "Washington, United States (AFP) Jan 8, 2026\r\n\r\n\r\n NASA crewmembers at the International Space Station will return to Earth within days after an astronaut suffered a health issue, the US space agency said Thursday, the first such medical evacuation in the orbital lab's history. \r\n\r\nOfficials did not provide details of the medical event but said the unidentified crewmember is stable. They said it did not result from any kind of injury onboard or",
     "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T12:20:56.405648Z",
+    "updated_at": "2026-01-09T14:43:55.806752Z",
     "featured": false,
-    "launches": [],
+    "launches": [
+      {
+        "launch_id": "88b4b179-c4ed-4bd1-868d-ced568a2342a",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -400,26 +425,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35242,
-    "title": "Barred spiral galaxy spotted 11.5 billion years in the past",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Barred_spiral_galaxy_spotted_11_5_billion_years_in_the_past_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/cosmos-74706-big-bang-structure-2-billion-years-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 09, 2026\n\n\nResearch led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at the University of Pittsburgh, has identified a contender for one of the earliest known spiral galaxies containing a stellar bar, a structure that plays a role in how galaxies evolve. The system, designated COSMOS-74706, appears as a barred spiral galaxy from a time wh",
-    "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T12:20:56.375079Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35248,
     "title": "Superradiant spin teamwork yields self driven microwave signals",
     "authors": [
@@ -440,27 +445,42 @@
     "detailed_news": ""
   },
   {
-    "id": 35247,
-    "title": "International Space Station crew to return early after astronaut medical issue",
+    "id": 35242,
+    "title": "Barred spiral galaxy spotted 11.5 billion years in the past",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/International_Space_Station_crew_to_return_early_after_astronaut_medical_issue_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/iss-spix-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Barred_spiral_galaxy_spotted_11_5_billion_years_in_the_past_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/cosmos-74706-big-bang-structure-2-billion-years-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Jan 8, 2026\r\n\r\n\r\n NASA crewmembers at the International Space Station will return to Earth within days after an astronaut suffered a health issue, the US space agency said Thursday, the first such medical evacuation in the orbital lab's history. \r\n\r\nOfficials did not provide details of the medical event but said the unidentified crewmember is stable. They said it did not result from any kind of injury onboard or",
+    "summary": "Los Angeles CA (SPX) Jan 09, 2026\n\n\nResearch led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at the University of Pittsburgh, has identified a contender for one of the earliest known spiral galaxies containing a stellar bar, a structure that plays a role in how galaxies evolve. The system, designated COSMOS-74706, appears as a barred spiral galaxy from a time wh",
     "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T14:43:55.806752Z",
+    "updated_at": "2026-01-09T12:20:56.375079Z",
     "featured": false,
-    "launches": [
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35243,
+    "title": "China tallies record launch year as lunar and asteroid plans advance",
+    "authors": [
       {
-        "launch_id": "88b4b179-c4ed-4bd1-868d-ced568a2342a",
-        "provider": "Launch Library 2"
+        "name": "SpaceDaily",
+        "socials": null
       }
     ],
+    "url": "https://www.spacedaily.com/reports/China_tallies_record_launch_year_as_lunar_and_asteroid_plans_advance_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-sun-rocket-launch-silhouette-long-march-2f-shenzhou-22-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 09, 2026\n\n\nChina's space sector completed 93 orbital launch missions in 2025, the highest annual total the nation has recorded. \n\nChina Aerospace Science and Technology Corp (CASC), the main State-owned contractor, closed out the year on Dec 31 with a Long March 7A launch from the Wenchang Space Launch Center in Hainan that placed two technology demonstration satellites into orbit. The company conducte",
+    "published_at": "2026-01-09T13:29:54Z",
+    "updated_at": "2026-01-09T12:20:56.405648Z",
+    "featured": false,
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -965,26 +985,6 @@
     "summary": "\nThe launch of USSF-87 comes amid leadership change at United Launch Alliance and pressure to increase launch tempo\nThe post Vulcan to open 2026 with national security launch appeared first on SpaceNews.",
     "published_at": "2026-01-08T14:04:06Z",
     "updated_at": "2026-01-08T14:12:43.078553Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35217,
-    "title": "The ‘space tax’ on your self-driving car",
-    "authors": [
-      {
-        "name": "Amadi Brians Chinonso",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-space-tax-on-your-self-driving-car/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Orpheus-satellites-graphic-scaled.png?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLiDAR costs, compute power and AI training are the “big three” usually associated with the high cost of autonomous vehicles (AVs). We rarely look up. But maybe we should. High above the Earth, the ionosphere, a chaotic, sun-charged layer of our atmosphere, is levying an invisible tax on every self-driving car in development. If you […]\nThe post The ‘space tax’ on your self-driving car appeared first on SpaceNews.",
-    "published_at": "2026-01-08T14:00:00Z",
-    "updated_at": "2026-01-08T14:00:31.657767Z",
     "featured": false,
     "launches": [],
     "events": [],
