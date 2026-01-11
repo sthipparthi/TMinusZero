@@ -1,5 +1,30 @@
 [
   {
+    "id": 35273,
+    "title": "SpaceX’s Twilight rideshare mission set to fly from Vandenberg",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/01/spacexs-twilight-rideshare-mission-vandenberg/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/IMG_9624-scaled.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "Fresh off a record-shattering launch cadence in 2025, SpaceX is planning to fly its first…\r\nThe post SpaceX’s Twilight rideshare mission set to fly from Vandenberg appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-01-11T10:27:13Z",
+    "updated_at": "2026-01-11T10:44:55.194407Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "02700e48-65c6-4a95-8b97-c47152302283",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35272,
     "title": "Live coverage: SpaceX to launch 1st ‘Twilight’ rideshare mission",
     "authors": [
@@ -414,6 +439,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35250,
+    "title": "Lithium ion battery study on Tiangong space station explores microgravity effects on performance",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.energy-daily.com/reports/Lithium_ion_battery_study_on_Tiangong_space_station_explores_microgravity_effects_on_performance_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/tiangong-space-station-mengtian-lab-module-complete-artwork-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 08, 2026\n\n\nA lithium ion battery experiment has been completed aboard China's Tiangong space station, focusing on basic electrochemical processes that govern performance and lifetime. Researchers at the Dalian Institute of Chemical Physics under the Chinese Academy of Sciences reported the work, which was carried out by the three astronauts of the Shenzhou XXI crew. \n\nThe experiment is designed to clar",
+    "published_at": "2026-01-09T13:29:54Z",
+    "updated_at": "2026-01-09T12:20:56.510142Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35245,
     "title": "Tiangong science program delivers data surge",
     "authors": [
@@ -454,20 +499,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35249,
-    "title": "China ramps up CHSN01 fusion magnet jacket for cryogenic reactors",
+    "id": 35242,
+    "title": "Barred spiral galaxy spotted 11.5 billion years in the past",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.energy-daily.com/reports/China_ramps_up_CHSN01_fusion_magnet_jacket_for_cryogenic_reactors_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-fusion-east-experimental-advanced-superconducting-tokamak-facility-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Barred_spiral_galaxy_spotted_11_5_billion_years_in_the_past_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/cosmos-74706-big-bang-structure-2-billion-years-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nChina has produced 30 tons of cryogenic jacket material made from its CHSN01 steel in continuous lengths of about 5 km for use in Cable-in-Conduit Conductors for future fusion reactors. The jacket is designed for magnets that must endure strong fields and very low temperatures in advanced fusion devices. \n\nMechanical tests at 4.2 K show the CHSN01 jacket reaches an average yield strength of",
+    "summary": "Los Angeles CA (SPX) Jan 09, 2026\n\n\nResearch led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at the University of Pittsburgh, has identified a contender for one of the earliest known spiral galaxies containing a stellar bar, a structure that plays a role in how galaxies evolve. The system, designated COSMOS-74706, appears as a barred spiral galaxy from a time wh",
     "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T12:20:56.496504Z",
+    "updated_at": "2026-01-09T12:20:56.375079Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35248,
+    "title": "Superradiant spin teamwork yields self driven microwave signals",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Superradiant_spin_teamwork_yields_self_driven_microwave_signals_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/superradiant-spin-teamwork-figures-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Jan 05, 2026\n\n\nWhen quantum particles work together, they can produce signals far stronger than any one particle could generate alone, a cooperative phenomenon known as superradiance that has often caused rapid energy loss in quantum systems and created challenges for quantum technologies. A study published in Nature Physics shows that the same collective effect can instead generate self-sustained, long-lived",
+    "published_at": "2026-01-09T13:29:54Z",
+    "updated_at": "2026-01-09T12:20:56.478258Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -499,20 +564,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35248,
-    "title": "Superradiant spin teamwork yields self driven microwave signals",
+    "id": 35246,
+    "title": "Trimble positioning tech to enhance Lucid Gravity lane level navigation",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Superradiant_spin_teamwork_yields_self_driven_microwave_signals_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/superradiant-spin-teamwork-figures-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Trimble_positioning_tech_to_enhance_Lucid_Gravity_lane_level_navigation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/trimble-delivers-lane-level-precision-lucid-gravity-electric-vehicles-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Jan 05, 2026\n\n\nWhen quantum particles work together, they can produce signals far stronger than any one particle could generate alone, a cooperative phenomenon known as superradiance that has often caused rapid energy loss in quantum systems and created challenges for quantum technologies. A study published in Nature Physics shows that the same collective effect can instead generate self-sustained, long-lived",
+    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nTrimble has agreed to provide positioning technology that will feed navigation and driver assistance systems in the Lucid Gravity electric vehicle, delivering centimeter-level accuracy in conditions where conventional GPS often loses reliability, such as tunnels, parking structures and dense urban corridors. \n\nThe system combines Trimble RTX corrections with the ProPoint Go positioning engin",
     "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T12:20:56.478258Z",
+    "updated_at": "2026-01-09T12:20:56.453274Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -539,40 +604,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35246,
-    "title": "Trimble positioning tech to enhance Lucid Gravity lane level navigation",
+    "id": 35249,
+    "title": "China ramps up CHSN01 fusion magnet jacket for cryogenic reactors",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Trimble_positioning_tech_to_enhance_Lucid_Gravity_lane_level_navigation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/trimble-delivers-lane-level-precision-lucid-gravity-electric-vehicles-bg.jpg",
+    "url": "https://www.energy-daily.com/reports/China_ramps_up_CHSN01_fusion_magnet_jacket_for_cryogenic_reactors_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-fusion-east-experimental-advanced-superconducting-tokamak-facility-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nTrimble has agreed to provide positioning technology that will feed navigation and driver assistance systems in the Lucid Gravity electric vehicle, delivering centimeter-level accuracy in conditions where conventional GPS often loses reliability, such as tunnels, parking structures and dense urban corridors. \n\nThe system combines Trimble RTX corrections with the ProPoint Go positioning engin",
+    "summary": "Tokyo, Japan (SPX) Jan 06, 2026\n\n\nChina has produced 30 tons of cryogenic jacket material made from its CHSN01 steel in continuous lengths of about 5 km for use in Cable-in-Conduit Conductors for future fusion reactors. The jacket is designed for magnets that must endure strong fields and very low temperatures in advanced fusion devices. \n\nMechanical tests at 4.2 K show the CHSN01 jacket reaches an average yield strength of",
     "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T12:20:56.453274Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35242,
-    "title": "Barred spiral galaxy spotted 11.5 billion years in the past",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Barred_spiral_galaxy_spotted_11_5_billion_years_in_the_past_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/cosmos-74706-big-bang-structure-2-billion-years-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 09, 2026\n\n\nResearch led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at the University of Pittsburgh, has identified a contender for one of the earliest known spiral galaxies containing a stellar bar, a structure that plays a role in how galaxies evolve. The system, designated COSMOS-74706, appears as a barred spiral galaxy from a time wh",
-    "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T12:20:56.375079Z",
+    "updated_at": "2026-01-09T12:20:56.496504Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -593,26 +638,6 @@
     "summary": "London, UK (SPX) Jan 09, 2026\n\n\nResearchers at the Hebrew University of Jerusalem have developed a semi-transparent, flexible perovskite solar cell that generates electricity while allowing control over both light transmission and perceived color for use in windows, building facades, and curved surfaces. \n\nThe research was led by Prof. Lioz Etgar and Prof. Shlomo Magdassi from the Institute of Chemistry and the Center for",
     "published_at": "2026-01-09T13:29:54Z",
     "updated_at": "2026-01-09T12:20:56.528484Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35250,
-    "title": "Lithium ion battery study on Tiangong space station explores microgravity effects on performance",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.energy-daily.com/reports/Lithium_ion_battery_study_on_Tiangong_space_station_explores_microgravity_effects_on_performance_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/tiangong-space-station-mengtian-lab-module-complete-artwork-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 08, 2026\n\n\nA lithium ion battery experiment has been completed aboard China's Tiangong space station, focusing on basic electrochemical processes that govern performance and lifetime. Researchers at the Dalian Institute of Chemical Physics under the Chinese Academy of Sciences reported the work, which was carried out by the three astronauts of the Shenzhou XXI crew. \n\nThe experiment is designed to clar",
-    "published_at": "2026-01-09T13:29:54Z",
-    "updated_at": "2026-01-09T12:20:56.510142Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -972,33 +997,6 @@
     "summary": "Development continues on NASA’s Power and Propulsion Element, a solar electric propulsion spacecraft designed to provide power for Gateway in lunar orbit. Able to generate 60 kilowatts of thrust, the element was successfully powered on earlier last year. The milestone demonstrates the element can provide the spacecraft with power, high-rate communications, attitude control, as well […]",
     "published_at": "2026-01-08T17:04:25Z",
     "updated_at": "2026-01-08T17:10:14.150783Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35223,
-    "title": "Private group unveils plans for large space telescope",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/lazuli.jpeg?fit=900%2C840&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA billionaire-backed philanthropic organization is funding the development of a series of new observatories, including a space telescope larger than Hubble.\nThe post Private group unveils plans for large space telescope appeared first on SpaceNews.",
-    "published_at": "2026-01-08T16:33:58Z",
-    "updated_at": "2026-01-08T16:42:28.949429Z",
     "featured": false,
     "launches": [],
     "events": [],
