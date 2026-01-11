@@ -1,5 +1,32 @@
 [
   {
+    "id": 35274,
+    "title": "NASA astrophysics, commercial satellites launch on SpaceX rideshare mission",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-astrophysics-commercial-satellites-launch-on-spacex-rideshare-mission/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/pandora.jpeg?fit=1024%2C512&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA SpaceX Falcon 9 launched a trio of NASA astrophysics small satellites along with dozens of commercial spacecraft on a rideshare mission Jan. 11.\nThe post NASA astrophysics, commercial satellites launch on SpaceX rideshare mission appeared first on SpaceNews.",
+    "published_at": "2026-01-11T16:24:48Z",
+    "updated_at": "2026-01-11T16:31:10.594490Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35273,
     "title": "SpaceX’s Twilight rideshare mission set to fly from Vandenberg",
     "authors": [
@@ -977,26 +1004,6 @@
     "summary": "Artemis II crewmembers (left to right) NASA astronauts Christina Koch, mission specialist; and Victor Glover, pilot; CSA (Canadian Space Agency) astronaut Jeremy Hansen, mission specialist; and NASA astronaut Reid Wiseman, commander are led by Bill Owens of the Closeout Crew from the elevator at the 275-foot level of the mobile launcher to the crew access […]",
     "published_at": "2026-01-08T17:20:46Z",
     "updated_at": "2026-01-08T17:30:08.852259Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35224,
-    "title": "NASA Starts Up Gateway’s Power System for First Time",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/",
-    "image_url": "https://images-assets.nasa.gov/image/jsc2025e087964/jsc2025e087964~large.jpg",
-    "news_site": "NASA",
-    "summary": "Development continues on NASA’s Power and Propulsion Element, a solar electric propulsion spacecraft designed to provide power for Gateway in lunar orbit. Able to generate 60 kilowatts of thrust, the element was successfully powered on earlier last year. The milestone demonstrates the element can provide the spacecraft with power, high-rate communications, attitude control, as well […]",
-    "published_at": "2026-01-08T17:04:25Z",
-    "updated_at": "2026-01-08T17:10:14.150783Z",
     "featured": false,
     "launches": [],
     "events": [],
