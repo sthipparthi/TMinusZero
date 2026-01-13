@@ -1,5 +1,172 @@
 [
   {
+    "id": 35318,
+    "title": "Portugal signs the Artemis Accords",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/portugal-signs-the-artemis-accords/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/portugal-aa.jpeg?fit=1024%2C682&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nPortugal has become the latest country to sign the Artemis Accords outlining best practices for responsible space exploration, beating out another European country to be the 60th to join.\nThe post Portugal signs the Artemis Accords appeared first on SpaceNews.",
+    "published_at": "2026-01-12T23:46:40Z",
+    "updated_at": "2026-01-12T23:50:29.174461Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35316,
+    "title": "NASA, SpaceX Invite Media to Watch Crew-12 Launch to Space Station",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-12-launch-to-space-station/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/crew-12-compile.jpg",
+    "news_site": "NASA",
+    "summary": "Media accreditation is open for the launch of NASA’s 12th rotational mission of a SpaceX Falcon 9 rocket and Dragon spacecraft carrying astronauts to the International Space Station for a science expedition from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. NASA announced it is targeting no earlier than Thursday, Jan. […]",
+    "published_at": "2026-01-12T23:25:02Z",
+    "updated_at": "2026-01-12T23:30:09.172866Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35317,
+    "title": "Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week",
+    "authors": [
+      {
+        "name": "Haygen Warren",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/01/launch-preview-011226/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "Eight orbital launch attempts are scheduled for this week, with SpaceX and Chinese launches comprising…\nThe post Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-01-12T23:24:50Z",
+    "updated_at": "2026-01-12T23:30:17.099671Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35315,
+    "title": "You can now reserve a hotel room on the Moon for $250,000",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/01/you-can-now-reserve-a-hotel-room-on-the-moon-for-250000/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lunar-hotel-1-1768258910.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"We can't keep everyone living on that first ship that sailed to North America.\"",
+    "published_at": "2026-01-12T23:04:33Z",
+    "updated_at": "2026-01-12T23:10:09.054562Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35314,
+    "title": "A Quarter Century in Orbit: Science Shaping Life on Earth and Beyond",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/a-quarter-century-in-orbit-science-shaping-life-on-earth-and-beyond/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/54085564808-3d495f8355-o.jpg",
+    "news_site": "NASA",
+    "summary": "For more than 25 years, humans have lived and worked continuously aboard the International Space Station, conducting research that is transforming life on Earth and shaping the future of exploration. From growing food and sequencing DNA to studying disease and simulating Mars missions, every experiment aboard the orbiting laboratory expands our understanding of how humans […]",
+    "published_at": "2026-01-12T22:43:30Z",
+    "updated_at": "2026-01-12T22:50:08.786235Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35313,
+    "title": "NASA Invites Media to Cover Artemis Mission from Johnson Space Center",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-cover-artemis-mission-from-johnson-space-center/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/artemis-ii-briefing.jpg",
+    "news_site": "NASA",
+    "summary": "Media accreditation is open to attend Artemis II mission activities at NASA’s Johnson Space Center in Houston. Johnson is where flight controllers in mission control will manage the test flight after liftoff of the first crewed Moon mission under the agency’s Artemis campaign. Targeted to launch no earlier Friday, Feb. 6, the Artemis II mission […]",
+    "published_at": "2026-01-12T21:27:56Z",
+    "updated_at": "2026-01-12T21:30:13.363980Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35312,
+    "title": "2026 Civil Space Shortfall Ranking",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/2026-civil-space-shortfall-ranking/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2024/03/fy25-budget-cover-no-text.png",
+    "news_site": "NASA",
+    "summary": "NASA has identified a list of 32 technology shortfalls and invites you to give input on your critical technology needs using this feedback mechanism. Whether you’re part of the space technology community or an interested member of the public, your input is invaluable. By registering and providing your feedback, you could help inform of national space technology priorities. […]",
+    "published_at": "2026-01-12T18:41:53Z",
+    "updated_at": "2026-01-12T18:50:10.036397Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35311,
+    "title": "NASA Welcomes Portugal as 60th Artemis Accords Signatory",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-welcomes-portugal-as-60th-artemis-accords-signatory/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/artemis-accords-signing-portugal.jpg",
+    "news_site": "NASA",
+    "summary": "Portugal is the latest nation to sign the Artemis Accords alongside 59 other countries in a commitment to advancing principles for the responsible exploration of the Moon, Mars, and beyond with NASA. “Portugal joins a cadre of nations building the framework for safe, transparent, and prosperous activity in space,” said NASA Administrator Jared Isaacman in […]",
+    "published_at": "2026-01-12T18:32:50Z",
+    "updated_at": "2026-01-12T18:40:09.185432Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35310,
     "title": "NASA Stennis Engineer Proud to Serve During NASA’s Return to the Moon",
     "authors": [
@@ -307,6 +474,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35295,
+    "title": "This year must bring greater collaboration against orbital congestion",
+    "authors": [
+      {
+        "name": "Agostinho Linhares",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/this-year-must-bring-greater-collaboration-against-orbital-congestion/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/Screenshot-2025-07-10-101931.png?fit=1024%2C403&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe problem of overcrowding orbits and increasing space debris has never been more urgent. International organizations, policy makers, regulators, space operators and researchers are recognizing how critical this issue is and how it could impact all space services and operations, including, but not limited to, satellite broadband, global navigation satellite systems, scientific research and space […]\nThe post This year must bring greater collaboration against orbital congestion appeared first on SpaceNews.",
+    "published_at": "2026-01-12T12:00:00Z",
+    "updated_at": "2026-01-12T12:00:50.782952Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35294,
     "title": "Applied lessons for NASA’s science programs",
     "authors": [
@@ -334,26 +521,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35295,
-    "title": "This year must bring greater collaboration against orbital congestion",
-    "authors": [
-      {
-        "name": "Agostinho Linhares",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/this-year-must-bring-greater-collaboration-against-orbital-congestion/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/Screenshot-2025-07-10-101931.png?fit=1024%2C403&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe problem of overcrowding orbits and increasing space debris has never been more urgent. International organizations, policy makers, regulators, space operators and researchers are recognizing how critical this issue is and how it could impact all space services and operations, including, but not limited to, satellite broadband, global navigation satellite systems, scientific research and space […]\nThe post This year must bring greater collaboration against orbital congestion appeared first on SpaceNews.",
-    "published_at": "2026-01-12T12:00:00Z",
-    "updated_at": "2026-01-12T12:00:50.782952Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35293,
     "title": "India’s PSLV launch fails during ascent, 16 satellites lost",
     "authors": [
@@ -368,6 +535,226 @@
     "summary": "\nIndia’s Polar Satellite Launch Vehicle failed late Sunday during ascent, resulting in the loss of a primary Earth observation satellite and 15 smaller co-passenger spacecraft.\nThe post India’s PSLV launch fails during ascent, 16 satellites lost appeared first on SpaceNews.",
     "published_at": "2026-01-12T10:33:34Z",
     "updated_at": "2026-01-12T10:40:26.327542Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35291,
+    "title": "This exotic form of ice just got weirder",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/This_exotic_form_of_ice_just_got_weirder_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/battery-solid-state-superionic-phase-of-ag8snse6-hybrid-crystalline-liquid-atomic-structure-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Menlo Park CA (SPX) Jan 08, 2026\n\n\nResearchers hoped to clarify the boundaries between different types of superionic water - the hot, black ice believed to exist at the core of giant ice planets. Instead, they found multiple atomic stacking patterns coexisting in overlapping configurations never seen before in this phase of water. \n\nSuperionic water - the hot, black and strangely conductive form of ice that exists in the cent",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.667066Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35290,
+    "title": "Milky Way stars mapped as major source of ghost particle flux at Earth",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Milky_Way_stars_mapped_as_major_source_of_ghost_particle_flux_at_Earth_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/psc-icecube-milky-way-map-low-energy-radio-wave-visible-light-gamma-rays-neutrinos-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nNeutrinos, often called ghost particles, are elementary particles that are electrically neutral, extremely light, and interact only rarely with other matter. Trillions pass through Earth and the human body every second without leaving a trace, which makes them difficult to detect but valuable as probes of regions of the universe that are otherwise hidden. \n\nResearchers at the University of C",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.652585Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35288,
+    "title": "Surrey Japan team to probe short lived atomic nuclei in cosmic element quest",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Surrey_Japan_team_to_probe_short_lived_atomic_nuclei_in_cosmic_element_quest_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/superconducting-ring-cyclotron-src-riken-ribf-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nPlans to obtain the first precision measurements of some of the rarest and most unstable atomic nuclei are set to advance understanding of nuclear structure and the way chemical elements form during extreme cosmic events such as supernovae, neutron star mergers and X-ray bursts. \n\nThe University of Surrey is partnering with researchers in Japan to develop instruments that can measure previou",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.620115Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35281,
+    "title": "Sentinel 1 decade long radar record tracks shifting Greenland and Antarctic ice",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Sentinel_1_decade_long_radar_record_tracks_shifting_Greenland_and_Antarctic_ice_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/copernicus-sentinel-1-antarctic-ice-sheet-ice-flow-velocity-2014-2024-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 08, 2026\n\n\nThe Copernicus Sentinel 1 mission has delivered a 10 year record of how ice flows from Greenland and Antarctic ice sheets into the ocean, providing a consistent, high resolution view of a key driver of sea level rise. \n\nStarting in 2014, Sentinel 1 observations now form the first continuous map of surface flow velocities across both the Greenland and Antarctic ice sheets at continental scale",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.504092Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35289,
+    "title": "Jets from black hole drive record coronal gas stream in nearby galaxy",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Jets_from_black_hole_drive_record_coronal_gas_stream_in_nearby_galaxy_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/active-nucleus-galaxy-supermassive-black-hole-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 09, 2026\n\n\nAstronomers at the University of California, Irvine have identified the largest-known stream of super-heated gas in the universe flowing out of a nearby disk galaxy called VV 340a, with their findings reported in Science. The gas, traced using data from NASA's James Webb Space Telescope, emerges from both sides of the galaxy as two elongated nebulae powered by an active supermassive black hole a",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.634833Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35287,
+    "title": "Quantum interferometer boosts sensitivity to tiny laser beam shifts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Quantum_interferometer_boosts_sensitivity_to_tiny_laser_beam_shifts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/nanomaterial-sensitive-detection-molecules-twist-using-laser-light-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nResearchers at Ludwig-Maximilians-Universitat Munchen have demonstrated a quantum interferometric method that can register extremely small tilts and displacements of a laser beam. The approach is based on weak value amplification, a concept from quantum mechanics that enhances the response of an interferometer when internal beam parameters change only slightly. \n\nIn many experiments and tech",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.607148Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35283,
+    "title": "Asteroid metals harden under extreme particle blasts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Asteroid_metals_harden_under_extreme_particle_blasts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/campo-del-cielo-meteorite-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London, UK (SPX) Jan 09, 2026\n\n\nPhysicists at the University of Oxford have contributed to a study showing that iron-rich asteroids can withstand much higher energy inputs than expected without breaking apart, a result that affects assessments of planetary defence strategies against hazardous objects. The work, published in Nature Communications, indicates that under rapid, intense heating these bodies can even become tougher",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.545629Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35284,
+    "title": "Creating hallucination-free, psychedelic-like molecules by shining light on life's basic building blocks",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Creating_hallucination_free_psychedelic_like_molecules_by_shining_light_on_lifes_basic_building_blocks_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/serotonin-fusing-tryptamine-to-amino-acids-ultraviolet-light-trigger-5ht2a-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Davis CA (SPX) Jan 08, 2026\n\n\nUC Davis researchers have developed a new method that uses light to transform amino acids - the building blocks of proteins - into molecules that are similar in structure to psychedelics and mimic their interaction with the brain. Like psychedelics, these molecules activate the brain's serotonin 5-HT2A receptors, which promote cortical neuron growth, and could be candidates to treat a host of br",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.559591Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35282,
+    "title": "MDA Space wins role in US SHIELD missile defense program",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/MDA_Space_wins_role_in_US_SHIELD_missile_defense_program_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/abm-spix-1-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nMDA Space Ltd. (TSX: MDA) reports it has received an indefinite delivery/indefinite quantity (IDIQ) contract from the Missile Defense Agency for the Scalable Homeland Innovative Enterprise Layered Defense (SHIELD) program. \n\nThe IDIQ award makes MDA Space eligible to bid on future tasks and service orders under SHIELD, a US defense effort aimed at strengthening protection against threats acr",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.518131Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35286,
+    "title": "Giant amoeba virus ushikuvirus sheds light on how complex cells evolved",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Giant_amoeba_virus_ushikuvirus_sheds_light_on_how_complex_cells_evolved_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/giant-amoeba-virus-ushikuvirus-origin-of-life--bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 08, 2026\n\n\nGiant DNA viruses that infect amoebae are providing new evidence that viruses may have helped drive the evolution of complex life, according to researchers at Tokyo University of Science and the National Institute of Natural Sciences in Japan. \n\nIn work published online on November 24, 2025, in the Journal of Virology, the team reports the discovery of ushikuvirus, a newly isolated giant vir",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.593003Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35285,
+    "title": "Electrons lag behind the nucleus",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Electrons_lag_behind_the_nucleus_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/time-crystal-rydberg-atom-electron-far-from-nucleus-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Zurich, Switzerland (SPX) Jan 07, 2026\n\n\nOne of the great successes of 20th-century physics was the quantum mechanical description of solids. This allowed scientists to understand for the first time how and why certain materials conduct electric current and how these properties could be purposefully modified. For instance, semiconductors such as silicon could be used to produce transistors, which revolutionized electronics and made mod",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.576031Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -395,226 +782,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35289,
-    "title": "Jets from black hole drive record coronal gas stream in nearby galaxy",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Jets_from_black_hole_drive_record_coronal_gas_stream_in_nearby_galaxy_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/active-nucleus-galaxy-supermassive-black-hole-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 09, 2026\n\n\nAstronomers at the University of California, Irvine have identified the largest-known stream of super-heated gas in the universe flowing out of a nearby disk galaxy called VV 340a, with their findings reported in Science. The gas, traced using data from NASA's James Webb Space Telescope, emerges from both sides of the galaxy as two elongated nebulae powered by an active supermassive black hole a",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.634833Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35282,
-    "title": "MDA Space wins role in US SHIELD missile defense program",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/MDA_Space_wins_role_in_US_SHIELD_missile_defense_program_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/abm-spix-1-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nMDA Space Ltd. (TSX: MDA) reports it has received an indefinite delivery/indefinite quantity (IDIQ) contract from the Missile Defense Agency for the Scalable Homeland Innovative Enterprise Layered Defense (SHIELD) program. \n\nThe IDIQ award makes MDA Space eligible to bid on future tasks and service orders under SHIELD, a US defense effort aimed at strengthening protection against threats acr",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.518131Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35283,
-    "title": "Asteroid metals harden under extreme particle blasts",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Asteroid_metals_harden_under_extreme_particle_blasts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/campo-del-cielo-meteorite-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Jan 09, 2026\n\n\nPhysicists at the University of Oxford have contributed to a study showing that iron-rich asteroids can withstand much higher energy inputs than expected without breaking apart, a result that affects assessments of planetary defence strategies against hazardous objects. The work, published in Nature Communications, indicates that under rapid, intense heating these bodies can even become tougher",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.545629Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35291,
-    "title": "This exotic form of ice just got weirder",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/This_exotic_form_of_ice_just_got_weirder_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/battery-solid-state-superionic-phase-of-ag8snse6-hybrid-crystalline-liquid-atomic-structure-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Menlo Park CA (SPX) Jan 08, 2026\n\n\nResearchers hoped to clarify the boundaries between different types of superionic water - the hot, black ice believed to exist at the core of giant ice planets. Instead, they found multiple atomic stacking patterns coexisting in overlapping configurations never seen before in this phase of water. \n\nSuperionic water - the hot, black and strangely conductive form of ice that exists in the cent",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.667066Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35288,
-    "title": "Surrey Japan team to probe short lived atomic nuclei in cosmic element quest",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Surrey_Japan_team_to_probe_short_lived_atomic_nuclei_in_cosmic_element_quest_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/superconducting-ring-cyclotron-src-riken-ribf-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nPlans to obtain the first precision measurements of some of the rarest and most unstable atomic nuclei are set to advance understanding of nuclear structure and the way chemical elements form during extreme cosmic events such as supernovae, neutron star mergers and X-ray bursts. \n\nThe University of Surrey is partnering with researchers in Japan to develop instruments that can measure previou",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.620115Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35285,
-    "title": "Electrons lag behind the nucleus",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Electrons_lag_behind_the_nucleus_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/time-crystal-rydberg-atom-electron-far-from-nucleus-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Zurich, Switzerland (SPX) Jan 07, 2026\n\n\nOne of the great successes of 20th-century physics was the quantum mechanical description of solids. This allowed scientists to understand for the first time how and why certain materials conduct electric current and how these properties could be purposefully modified. For instance, semiconductors such as silicon could be used to produce transistors, which revolutionized electronics and made mod",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.576031Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35287,
-    "title": "Quantum interferometer boosts sensitivity to tiny laser beam shifts",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Quantum_interferometer_boosts_sensitivity_to_tiny_laser_beam_shifts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nanomaterial-sensitive-detection-molecules-twist-using-laser-light-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nResearchers at Ludwig-Maximilians-Universitat Munchen have demonstrated a quantum interferometric method that can register extremely small tilts and displacements of a laser beam. The approach is based on weak value amplification, a concept from quantum mechanics that enhances the response of an interferometer when internal beam parameters change only slightly. \n\nIn many experiments and tech",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.607148Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35286,
-    "title": "Giant amoeba virus ushikuvirus sheds light on how complex cells evolved",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Giant_amoeba_virus_ushikuvirus_sheds_light_on_how_complex_cells_evolved_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/giant-amoeba-virus-ushikuvirus-origin-of-life--bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 08, 2026\n\n\nGiant DNA viruses that infect amoebae are providing new evidence that viruses may have helped drive the evolution of complex life, according to researchers at Tokyo University of Science and the National Institute of Natural Sciences in Japan. \n\nIn work published online on November 24, 2025, in the Journal of Virology, the team reports the discovery of ushikuvirus, a newly isolated giant vir",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.593003Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35284,
-    "title": "Creating hallucination-free, psychedelic-like molecules by shining light on life's basic building blocks",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Creating_hallucination_free_psychedelic_like_molecules_by_shining_light_on_lifes_basic_building_blocks_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/serotonin-fusing-tryptamine-to-amino-acids-ultraviolet-light-trigger-5ht2a-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Davis CA (SPX) Jan 08, 2026\n\n\nUC Davis researchers have developed a new method that uses light to transform amino acids - the building blocks of proteins - into molecules that are similar in structure to psychedelics and mimic their interaction with the brain. Like psychedelics, these molecules activate the brain's serotonin 5-HT2A receptors, which promote cortical neuron growth, and could be candidates to treat a host of br",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.559591Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35281,
-    "title": "Sentinel 1 decade long radar record tracks shifting Greenland and Antarctic ice",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Sentinel_1_decade_long_radar_record_tracks_shifting_Greenland_and_Antarctic_ice_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/copernicus-sentinel-1-antarctic-ice-sheet-ice-flow-velocity-2014-2024-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 08, 2026\n\n\nThe Copernicus Sentinel 1 mission has delivered a 10 year record of how ice flows from Greenland and Antarctic ice sheets into the ocean, providing a consistent, high resolution view of a key driver of sea level rise. \n\nStarting in 2014, Sentinel 1 observations now form the first continuous map of surface flow velocities across both the Greenland and Antarctic ice sheets at continental scale",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.504092Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35290,
-    "title": "Milky Way stars mapped as major source of ghost particle flux at Earth",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Milky_Way_stars_mapped_as_major_source_of_ghost_particle_flux_at_Earth_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/psc-icecube-milky-way-map-low-energy-radio-wave-visible-light-gamma-rays-neutrinos-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nNeutrinos, often called ghost particles, are elementary particles that are electrically neutral, extremely light, and interact only rarely with other matter. Trillions pass through Earth and the human body every second without leaving a trace, which makes them difficult to detect but valuable as probes of regions of the universe that are otherwise hidden. \n\nResearchers at the University of C",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.652585Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -848,180 +1015,6 @@
     "summary": "NASA is getting ready for the launch of Artemis II as early as next month. The launch window for the first flight of astronauts around the Moon since the Apollo […]",
     "published_at": "2026-01-10T22:07:07Z",
     "updated_at": "2026-01-10T22:10:32.514780Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35270,
-    "title": "Crew-11 to make early return Jan. 15",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/crew-11-to-make-early-return-jan-15/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/54474123971_6cbcb7a0d4_k.jpg?fit=1024%2C684&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA plans to return four astronauts from the ISS to Earth early Jan. 15, about a week after one of them experienced a medical issue that prompted the shortened mission.\nThe post Crew-11 to make early return Jan. 15 appeared first on SpaceNews.",
-    "published_at": "2026-01-10T21:46:54Z",
-    "updated_at": "2026-01-10T21:50:42.021758Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35269,
-    "title": "NASA Marshall Removes 2 Historic Test Stands",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-removes-2-historic-test-stands/",
-    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "news_site": "NASA",
-    "summary": "NASA’s Marshall Space Flight Center in Huntsville, Alabama, removed two of its historic test stands – the Propulsion and Structural Test Facility and the Dynamic Test Facility – with carefully coordinated implosions on Jan. 10, 2026. The demolition of these historic structures is part of a larger project at Marshall that began in spring 2022, […]",
-    "published_at": "2026-01-10T21:01:09Z",
-    "updated_at": "2026-01-10T21:10:16.277091Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35267,
-    "title": "FCC approves 7,500 additional Starlink satellites",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/starlink-comparison.jpeg?fit=1024%2C597&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe FCC approved a second tranche of 7,500 Starlink Gen2 satellites Jan. 9, expanding the size of SpaceX’s authorized next-generation constellation.\nThe post FCC approves 7,500 additional Starlink satellites appeared first on SpaceNews.",
-    "published_at": "2026-01-10T17:18:32Z",
-    "updated_at": "2026-01-10T17:20:28.311668Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35268,
-    "title": "Space Force awards $739 million in launch orders to SpaceX",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/G-Qd-AVWYAEPm0u-scaled.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpaceX sweeps nine national security missions for SDA and NRO under NSSL Phase 3 Lane 1\nThe post Space Force awards $739 million in launch orders to SpaceX appeared first on SpaceNews.",
-    "published_at": "2026-01-10T17:13:08Z",
-    "updated_at": "2026-01-10T17:20:28.377267Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35266,
-    "title": "MaiaSpace to Launch “Minimum Viable Product” in 2026",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/maiaspace-to-launch-minimum-viable-product-in-2026/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/MaiaSpace-to-Launch-Minimum-Viable-Product-in-2026.webp",
-    "news_site": "European Spaceflight",
-    "summary": "French small launch services provider MaiaSpace has explained that an initial flight of its Maia rocket in 2026 will represent the deployment of a “minimum viable product.” MaiaSpace was founded in 2022 as a wholly-owned subsidiary of ArianeGroup. The company is developing a partially reusable two-stage rocket called Maia that is designed to be capable […]\nThe post MaiaSpace to Launch “Minimum Viable Product” in 2026 appeared first on European Spaceflight.",
-    "published_at": "2026-01-10T07:28:04Z",
-    "updated_at": "2026-01-10T07:30:26.014011Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35265,
-    "title": "NASA sets milestones on the path to Artemis II crew launch",
-    "authors": [
-      {
-        "name": "Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/01/nasa-milestones-path-artemis-ii-launch/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/NSF-2026-01-10-04-16-40-054.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "NASA has confirmed the upcoming milestones for its historic Artemis II mission—the first crewed flight…\nThe post NASA sets milestones on the path to Artemis II crew launch appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-01-10T04:49:55Z",
-    "updated_at": "2026-01-10T04:50:26.710133Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35264,
-    "title": "Crew-11 To Begin Return Home on Wednesday",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/crew-11-to-begin-return-home-on-wednesday/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/07/Crew-11-NASA-300x201.webp",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Today NASA announced that Crew-11 will begin its return to Earth from the International Space Station on Wednesday, January 14. The unexpected early departure is due to a medical condition […]",
-    "published_at": "2026-01-10T03:47:38Z",
-    "updated_at": "2026-01-10T03:50:19.771040Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35263,
-    "title": "Final Steps Underway for NASA’s First Crewed Artemis Moon Mission",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/boosters.jpg",
-    "news_site": "NASA",
-    "summary": "As NASA moves closer to launch of the Artemis II test flight, the agency soon will roll its SLS (Space Launch System) rocket and Orion spacecraft to the launch pad for the first time at the agency’s Kennedy Space Center in Florida to begin final integration, testing, and launch rehearsals. NASA is targeting no earlier […]",
-    "published_at": "2026-01-10T00:00:48Z",
-    "updated_at": "2026-01-10T00:10:14.511712Z",
     "featured": false,
     "launches": [],
     "events": [],
