@@ -1,5 +1,65 @@
 [
   {
+    "id": 35321,
+    "title": "A Plume of Bright Blue in Melissa’s Wake",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-plume-of-bright-blue-in-melissas-wake/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-plume-of-bright-blue-in-melissa%E2%80%99s-wake/pedrobanksediment_tmo_20250920.jpg",
+    "news_site": "NASA",
+    "summary": "The category 5 hurricane stirred up carbonate sediment near Jamaica in what scientists believe is the largest such event in the satellite record.",
+    "published_at": "2026-01-13T05:01:00Z",
+    "updated_at": "2026-01-13T05:10:12.595236Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35320,
+    "title": "Artemis Accords Reach Another Milestone with Portugal",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/artemis-accords-reach-another-milestone-with-portugal/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/01/Portugal-Artemis-Accords-300x200.webp",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Portugal became the 60th country to join the Artemis Accords today. It’s another milestone for the U.S.-led principles for responsible behavior on the Moon. The Accords recently celebrated the fifth […]",
+    "published_at": "2026-01-13T03:31:04Z",
+    "updated_at": "2026-01-13T03:40:19.785142Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35319,
+    "title": "ISS gains new commander as Crew-11 prepares midweek departure",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/01/13/iss-gains-new-commander-as-crew-11-prepares-midweek-departure/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260112_ISS_Crew-11.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "NASA astronaut Mike Fincke took over command of the International Space Station on Dec. 7, 2025. He and the rest of the SpaceX Crew-11 mission will undock from the ISS on Jan. 14. ",
+    "published_at": "2026-01-13T01:18:46Z",
+    "updated_at": "2026-01-13T01:20:24.150224Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35318,
     "title": "Portugal signs the Artemis Accords",
     "authors": [
@@ -681,26 +741,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35284,
-    "title": "Creating hallucination-free, psychedelic-like molecules by shining light on life's basic building blocks",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Creating_hallucination_free_psychedelic_like_molecules_by_shining_light_on_lifes_basic_building_blocks_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/serotonin-fusing-tryptamine-to-amino-acids-ultraviolet-light-trigger-5ht2a-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Davis CA (SPX) Jan 08, 2026\n\n\nUC Davis researchers have developed a new method that uses light to transform amino acids - the building blocks of proteins - into molecules that are similar in structure to psychedelics and mimic their interaction with the brain. Like psychedelics, these molecules activate the brain's serotonin 5-HT2A receptors, which promote cortical neuron growth, and could be candidates to treat a host of br",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.559591Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35282,
     "title": "MDA Space wins role in US SHIELD missile defense program",
     "authors": [
@@ -741,26 +781,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35285,
-    "title": "Electrons lag behind the nucleus",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Electrons_lag_behind_the_nucleus_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/time-crystal-rydberg-atom-electron-far-from-nucleus-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Zurich, Switzerland (SPX) Jan 07, 2026\n\n\nOne of the great successes of 20th-century physics was the quantum mechanical description of solids. This allowed scientists to understand for the first time how and why certain materials conduct electric current and how these properties could be purposefully modified. For instance, semiconductors such as silicon could be used to produce transistors, which revolutionized electronics and made mod",
-    "published_at": "2026-01-12T09:57:11Z",
-    "updated_at": "2026-01-12T08:50:20.576031Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35280,
     "title": "Dark star theory links JWST early universe anomalies",
     "authors": [
@@ -782,6 +802,46 @@
         "provider": "Launch Library 2"
       }
     ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35285,
+    "title": "Electrons lag behind the nucleus",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Electrons_lag_behind_the_nucleus_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/time-crystal-rydberg-atom-electron-far-from-nucleus-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Zurich, Switzerland (SPX) Jan 07, 2026\n\n\nOne of the great successes of 20th-century physics was the quantum mechanical description of solids. This allowed scientists to understand for the first time how and why certain materials conduct electric current and how these properties could be purposefully modified. For instance, semiconductors such as silicon could be used to produce transistors, which revolutionized electronics and made mod",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.576031Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35284,
+    "title": "Creating hallucination-free, psychedelic-like molecules by shining light on life's basic building blocks",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Creating_hallucination_free_psychedelic_like_molecules_by_shining_light_on_lifes_basic_building_blocks_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/serotonin-fusing-tryptamine-to-amino-acids-ultraviolet-light-trigger-5ht2a-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Davis CA (SPX) Jan 08, 2026\n\n\nUC Davis researchers have developed a new method that uses light to transform amino acids - the building blocks of proteins - into molecules that are similar in structure to psychedelics and mimic their interaction with the brain. Like psychedelics, these molecules activate the brain's serotonin 5-HT2A receptors, which promote cortical neuron growth, and could be candidates to treat a host of br",
+    "published_at": "2026-01-12T09:57:11Z",
+    "updated_at": "2026-01-12T08:50:20.559591Z",
+    "featured": false,
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -950,71 +1010,6 @@
     "summary": "\nA SpaceX Falcon 9 launched a trio of NASA astrophysics small satellites along with dozens of commercial spacecraft on a rideshare mission Jan. 11.\nThe post NASA astrophysics, commercial satellites launch on SpaceX rideshare mission appeared first on SpaceNews.",
     "published_at": "2026-01-11T16:24:48Z",
     "updated_at": "2026-01-11T16:31:10.594490Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35273,
-    "title": "SpaceX’s Twilight rideshare mission set to fly from Vandenberg",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/01/spacexs-twilight-rideshare-mission-vandenberg/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/IMG_9624-scaled.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "Fresh off a record-shattering launch cadence in 2025, SpaceX is planning to fly its first…\r\nThe post SpaceX’s Twilight rideshare mission set to fly from Vandenberg appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-01-11T10:27:13Z",
-    "updated_at": "2026-01-11T10:44:55.194407Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "02700e48-65c6-4a95-8b97-c47152302283",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35272,
-    "title": "Live coverage: SpaceX to launch 1st ‘Twilight’ rideshare mission",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/01/10/live-coverage-spacex-to-launch-1st-twilight-rideshare-mission/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260110_Starlink_G9_10_Vertical_Sunset-1.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The flight includes 40 deployment events for a variety of payloads, including NASA’s Pandora spacecraft. Liftoff from pad 4E is scheduled for 5:19 a.m. PST (8:19 a.m. EST / 1319 UTC). ",
-    "published_at": "2026-01-10T23:27:51Z",
-    "updated_at": "2026-01-10T23:31:16.809113Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35271,
-    "title": "NASA Gearing Up for Artemis II Launch",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/nasa-gearing-up-for-artemis-ii-launch/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2023/08/Artemis-II-crew-Orion-Aug-8-23-Shiflett-300x176.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "NASA is getting ready for the launch of Artemis II as early as next month. The launch window for the first flight of astronauts around the Moon since the Apollo […]",
-    "published_at": "2026-01-10T22:07:07Z",
-    "updated_at": "2026-01-10T22:10:32.514780Z",
     "featured": false,
     "launches": [],
     "events": [],
