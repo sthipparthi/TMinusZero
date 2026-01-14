@@ -1,6 +1,6 @@
 {
-  "count": 9,
-  "last_updated": "2026-01-14T06:01:38.382134Z",
+  "count": 10,
+  "last_updated": "2026-01-14T12:02:02.173462Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (9 failed/unavailable)"
+    "Empty AI summaries (10 failed/unavailable)"
   ],
   "launches": [
     {
@@ -139,6 +139,47 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1s_image_20230905114324.jpeg",
       "infographic": null,
       "url": "https://ll.thespacedevs.com/2.0.0/launch/ea2d97bc-a834-4904-b579-6a1e1f7a9c54/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
+      "id": "67068998-010a-40cc-8bc8-a60743cda331",
+      "name": "Long March 3B/E | Unknown Payload",
+      "status": "Go",
+      "net": "2026-01-16T16:55:00Z",
+      "window_start": "2026-01-16T16:47:00Z",
+      "window_end": "2026-01-16T17:34:00Z",
+      "lsp_name": "China Aerospace Science and Technology Corporation",
+      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "lsp_type": "Government",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
+      "mission_name": "Unknown Payload",
+      "mission_description": "Details TBD.",
+      "mission_type": "Unknown",
+      "orbit": "Unknown",
+      "launch_site": "Launch Complex 3 (LC-3/LA-1), Xichang Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Complex 3 (LC-3/LA-1)",
+      "location": "Xichang Satellite Launch Center, People's Republic of China",
+      "rocket": "Long March 3B/E",
+      "rocket_config_description": "The Long March 3B / E (G2) (CZ-3B / E) is one of the most successful medium-range launchers and the strongest variant of the CZ-3 series.\r\nIt was specially developed for the transport of heavy communications satellites into a geostationary transfer orbit.\r\n\r\nThe additional designation \"E\" stands for a higher payload fairing, stretched boosters and extended fuel tanks at the first stage, over the CZ-3B.",
+      "rocket_config_family": "Long March",
+      "rocket_config_full_name": "Long March 3B/E",
+      "rocket_config_total_launch_count": 75,
+      "rocket_config_successful_launches": 74,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
+      "rocket_manufacturer_type": "Government",
+      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "rocket_manufacturer_total_launch_count": 572,
+      "rocket_manufacturer_successful_launches": 558,
+      "rocket_manufacturer_failed_launches": 14,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20230907120240.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/67068998-010a-40cc-8bc8-a60743cda331/",
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
@@ -419,7 +460,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 9,
-    "total_launches": 9
+    "empty_summaries": 10,
+    "total_launches": 10
   }
 }

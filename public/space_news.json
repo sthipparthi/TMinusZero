@@ -1,99 +1,188 @@
 [
   {
-    "id": 35373,
-    "title": "New orbital mapping system targets Earth Moon libration traffic",
+    "id": 35382,
+    "title": "Space operations will become more dynamic this year",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "Charles Galbreath",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/New_orbital_mapping_system_targets_Earth_Moon_libration_traffic_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/orbital-parameterization-method-for-earth-moon-collinear-libration-points-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 14, 2026\n\n\nAs lunar exploration intensifies, the cislunar space is experiencing increasing congestion. Traditional two body Keplerian elements, which have long been the standard for Earth orbiting objects, prove insufficient for accurately describing the complex orbits near the Earth Moon Lagrange points due to the chaotic and non integrable nature of three body dynamics. \n\nThis fundamental deficiency",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.735627Z",
+    "url": "https://spacenews.com/space-operations-will-become-more-dynamic-this-year/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/aps-r.jpeg?fit=1024%2C578&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFrom civil science and exploration missions to national security, there are many space activities to look forward to in 2026. There will be at least three missions heading to the moon, Vast’s Haven-1 is scheduled to launch as the first prospective commercial low Earth orbit (LEO) destination. But perhaps more importantly, there will be a […]\nThe post Space operations will become more dynamic this year appeared first on SpaceNews.",
+    "published_at": "2026-01-14T12:00:00Z",
+    "updated_at": "2026-01-14T12:01:21.141886Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35369,
-    "title": "Europe approves EPS Sterna polar microsatellite network",
+    "id": 35381,
+    "title": "SkyFi raises $12.7 million to scale satellite data marketplace",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "Sandra Erwin",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Europe_approves_EPS_Sterna_polar_microsatellite_network_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/eumetsat-polar-system-eps-sterna-constellation-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 12, 2026\n\n\nThe EUMETSAT Council has formally endorsed the EUMETSAT Polar System Sterna (EPS Sterna), clearing the way for a new constellation of polar orbiting microsatellites that will deliver frequent microwave measurements of atmospheric temperature, humidity and cloud properties. The decision confirms EPS Sterna as a mandatory programme for EUMETSAT and authorises full scale activities targeting the la",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.586696Z",
+    "url": "https://spacenews.com/skyfi-raises-12-7-million-to-scale-satellite-data-marketplace/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/A-satellite-image-of-Kaliningrad-Oblast-Russia-showing-a-strategic-naval-port-captured-before-dawn-using-SAR-from-ICEYE-US-accessed-via-SkyFi-scaled.png?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFunding backs expansion of “virtual constellation” that aggregates imagery from commercial operators\nThe post SkyFi raises $12.7 million to scale satellite data marketplace appeared first on SpaceNews.",
+    "published_at": "2026-01-14T11:30:00Z",
+    "updated_at": "2026-01-14T11:40:32.496989Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35370,
-    "title": "Aerospacelab expands Pulsar navigation constellation work with new Xona satellite order",
+    "id": 35380,
+    "title": "China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "Andrew Jones",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Aerospacelab_expands_Pulsar_navigation_constellation_work_with_new_Xona_satellite_order_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/aerospacelab-xona-constellation-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 14, 2026\n\n\nAerospacelab, a satellite manufacturing and design company, has been selected by Xona Space Systems to produce eight additional satellites for Pulsar, a low Earth orbit navigation constellation designed to deliver high performance positioning, navigation and timing services. The new order is intended to bridge early commercial demand, with launches scheduled to begin in late 2026 as Xona develop",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.615725Z",
+    "url": "https://spacenews.com/chinas-first-launches-of-2026-send-yaogan-spacecraft-into-unusual-orbit-loft-guowang-satellites/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/CZ6A-Yaogan50-01-TSLC-13jan2026-CASC.jpg?fit=1024%2C600&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "China conducted a pair of Long March rocket launches Tuesday, kicking off what is likely to be a record-breaking year for the country.\r\nThe post China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites  appeared first on SpaceNews.",
+    "published_at": "2026-01-14T10:46:43Z",
+    "updated_at": "2026-01-14T10:54:16.623666Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "2e15e3c4-408b-48a2-a647-4818df4eebc4",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "eac0eb9a-98c4-4660-a168-be5ec4e8ba4b",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35379,
+    "title": "Virtual tour of ESA’s Test Centre gets a makeover",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Virtual_tour_of_ESA_s_Test_Centre_gets_a_makeover",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/virtual_tour_of_esa_s_test_centre_gets_a_makeover/27063479-1-eng-GB/Virtual_tour_of_ESA_s_Test_Centre_gets_a_makeover_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-01-14T10:30:00Z",
+    "updated_at": "2026-01-14T10:20:21.225274Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35359,
-    "title": "Indian rocket hits snag during launch",
+    "id": 35378,
+    "title": "Sweden to Acquire 10 Surveillance Satellites for €121 Million",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "European Spaceflight",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Indian_rocket_hits_snag_during_launch_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/india-pslv-c37-launch-day-clear-pad-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New Delhi (AFP) Jan 12, 2026\n\n\n An Indian rocket hit a snag during its launch Monday, forcing a deviation in flight path as it carried an Earth observation satellite and commercial payloads, the country's space agency said. \n\nThe PSLV-C62, a four-stage launch vehicle, \"encountered an anomaly\" towards the end of the third stage, the Indian Space Research Organisation (ISRO) posted on X, without saying exactly what went wrong.",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.219644Z",
+    "url": "https://europeanspaceflight.com/sweden-to-acquire-10-surveillance-satellites-for-e121-million/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/Sweden-to-Acquire-10-Surveillance-Satellites-for-E121-Million.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The Swedish government has committed SEK 1.3 billion (approximately €121 million) to purchase ten satellites to build out a sovereign intelligence, surveillance, and reconnaissance (ISR) system. On 12 January, Sweden announced a SEK 5.3 billion (approximately €494 million) spending package focused on expanding national defence capacity. The funding forms part of a SEK 25 billion […]\nThe post Sweden to Acquire 10 Surveillance Satellites for €121 Million appeared first on European Spaceflight.",
+    "published_at": "2026-01-14T08:56:50Z",
+    "updated_at": "2026-01-14T09:00:21.534390Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35367,
-    "title": "Fueling research in nuclear thermal propulsion",
+    "id": 35376,
+    "title": "Quantum light switch built from atomically thin mirror",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Fueling_research_in_nuclear_thermal_propulsion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nuclear-thermal-propulsion-mars-transit-habitat-mars-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/electrically-tunable-hybrid-2d-excitonic-metasurface-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "by Poornima Apte for MIT News\n\n\nBoston MA (SPX) Jan 14, 2026\nGoing to the moon was one thing; going to Mars will be quite another. The distance alone is intimidating. While the moon is 238,855 miles away, the distance to Mars is between 33 million and 249 million miles. The propulsion systems that got us to the moon just will not work. \n\nTaylor Hampson, a master's student in the Department of Nuclear Science and Engineeri",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.519573Z",
+    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nControlling light across scales, from microscopes and telescopes down to nanometers, is a central challenge in modern optics. Researchers at the University of Amsterdam have now demonstrated a nanoscale mirror whose reflectivity can be switched on and off electrically using quantum effects in an atomically thin material. \n\nPhysicists Tom Hoekstra and Jorik van de Groep of the UvA-Institute o",
+    "published_at": "2026-01-14T08:17:13Z",
+    "updated_at": "2026-01-14T07:20:20.831645Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35374,
+    "title": "Musk vs OpenAI trial set for April 27",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.robodaily.com/reports/Musk_vs_OpenAI_trial_set_for_April_27_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/elon-musk-x-ai-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "San Francisco, United States (AFP) Jan 13, 2026\n\n\n A trial in the lawsuit brought by Elon Musk against OpenAI CEO Samuel Altman and other defendants - including tech giant Microsoft - is scheduled to begin April 27, according to a federal court order issued Tuesday. \n\nThe legal showdown will center on Musk's claim that OpenAI and Altman abandoned the startup's original nonprofit, public-benefit mission and misled him while turning the lab in",
+    "published_at": "2026-01-14T08:17:13Z",
+    "updated_at": "2026-01-14T07:20:20.791963Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35377,
+    "title": "Quantum key method enables redundant storage of qubit data",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Quantum_key_method_enables_redundant_storage_of_qubit_data_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/quantum-information-storage-uwaterloo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nA team of researchers at the University of Waterloo have demonstrated a method to back up quantum information by encrypting qubits during copying, providing redundancy while remaining consistent with the no-cloning theorem. \n\nQuantum computing stores and processes information in qubits, which can be implemented in individual electrons, photons, atoms, ions or tiny electrical currents.",
+    "published_at": "2026-01-14T08:17:13Z",
+    "updated_at": "2026-01-14T07:20:20.860088Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35375,
+    "title": "How IVRT Testing Ensures Consistent Product Quality",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/How_IVRT_Testing_Ensures_Consistent_Product_Quality_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/teledyne-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 13, 2026\n\nStringent quality control is essential in the pharmaceutical industry, as both cosmetics and pharmaceutical products must maintain a high standard of quality. Any deviation from these standards poses a significant threat to their market survival. Customers believe that every product will work with every use. In vitro release testing (IVRT) is a crucial process that enables manufacturers to meet",
+    "published_at": "2026-01-14T08:17:13Z",
+    "updated_at": "2026-01-14T07:20:20.814989Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -120,100 +209,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35371,
-    "title": "Multiple satellite filings demonstrate transparency, responsibility and ambition: China Daily editorial",
+    "id": 35367,
+    "title": "Fueling research in nuclear thermal propulsion",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Multiple_satellite_filings_demonstrate_transparency_responsibility_and_ambition_China_Daily_editorial_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satellite-constellation-mixed-marker-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Fueling_research_in_nuclear_thermal_propulsion_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/nuclear-thermal-propulsion-mars-transit-habitat-mars-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Beijing, China (SPX) Jan 13, 2026\n\n\nLow-Earth orbit slots are finite, nonrenewable and increasingly scarce. Once they are occupied or effectively locked by early movers, latecomers face severe constraints on their ability to deploy satellite systems critical for communications, navigation, remote sensing and digital services. \n\nUnder the long-standing \"first-come, first-served\" principle of the International Telecommunication",
+    "summary": "by Poornima Apte for MIT News\n\n\nBoston MA (SPX) Jan 14, 2026\nGoing to the moon was one thing; going to Mars will be quite another. The distance alone is intimidating. While the moon is 238,855 miles away, the distance to Mars is between 33 million and 249 million miles. The propulsion systems that got us to the moon just will not work. \n\nTaylor Hampson, a master's student in the Department of Nuclear Science and Engineeri",
     "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.677150Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35365,
-    "title": "Quantum camera startup plans satellite and telescope constellations",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Quantum_camera_startup_plans_satellite_and_telescope_constellations_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/diffraqtion-quantum-camera-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nDiffraqtion, a space startup spun out of MIT and the University of Maryland, has closed a pre-seed funding round to advance satellite constellations and telescope systems powered by a novel quantum camera. The round is led by QDNL Participations, with participation from milemark+ capital, Aether VC, ADIN, Offline Ventures, and a non-dilutive DARPA SBIR Direct-to-Phase 2 contract that supports sp",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.439018Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35372,
-    "title": "NASA Back for Seconds with New Food System Design Challenge",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_Back_for_Seconds_with_New_Food_System_Design_Challenge_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-rice-farm-1-dalle-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Jan 14, 2026\n\n\nNASA is getting ready to send four astronauts around the Moon with Artemis II, laying the foundation for sustainable missions to the lunar surface and paving the way for human exploration on Mars. As the agency considers deep space endeavors that could last months or years, it must develop ways to feed astronauts beyond sending supplies from Earth. \n\nThat is why NASA is launching the Deep Sp",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.707812Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35368,
-    "title": "Superheavy-lift rockets like SpaceX's Starship could transform astronomy by making space telescopes cheaper",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Superheavy_lift_rockets_like_SpaceXs_Starship_could_transform_astronomy_by_making_space_telescopes_cheaper_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/eth-zurich-life-five-satellite-form-large-space-telescope-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Jan 10, 2026\n\n\nAfter a string of dramatic failures, the huge Starship rocket from SpaceX had a fully successful test on Oct. 13, 2025. A couple more test flights, and SpaceX plans to launch it into orbit. \n\nA month later, a rival rocket company, Blue Origin, flew its almost-as-large New Glenn rocket all the way to orbit and sent spacecraft on their way to Mars. \n\nWhile these successful flights are exci",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.560454Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35363,
-    "title": "Space station study reveals unusual virus bacteria dynamics in microgravity",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Space_station_study_reveals_unusual_virus_bacteria_dynamics_in_microgravity_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/biofuel-e-coli-bacteria-alter-protein-structure-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nIn near weightless conditions aboard the International Space Station, viruses that infect bacteria continue to attack their hosts but follow an altered evolutionary trajectory compared to the same systems on Earth. \n\nA new study led by researchers at the University of Wisconsin Madison used Escherichia coli and its bacteriophage predator T7 to probe how microgravity reshapes the coevolution",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.384306Z",
+    "updated_at": "2026-01-14T06:00:28.519573Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -240,6 +249,66 @@
     "detailed_news": ""
   },
   {
+    "id": 35363,
+    "title": "Space station study reveals unusual virus bacteria dynamics in microgravity",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Space_station_study_reveals_unusual_virus_bacteria_dynamics_in_microgravity_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/biofuel-e-coli-bacteria-alter-protein-structure-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nIn near weightless conditions aboard the International Space Station, viruses that infect bacteria continue to attack their hosts but follow an altered evolutionary trajectory compared to the same systems on Earth. \n\nA new study led by researchers at the University of Wisconsin Madison used Escherichia coli and its bacteriophage predator T7 to probe how microgravity reshapes the coevolution",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.384306Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35365,
+    "title": "Quantum camera startup plans satellite and telescope constellations",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Quantum_camera_startup_plans_satellite_and_telescope_constellations_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/diffraqtion-quantum-camera-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nDiffraqtion, a space startup spun out of MIT and the University of Maryland, has closed a pre-seed funding round to advance satellite constellations and telescope systems powered by a novel quantum camera. The round is led by QDNL Participations, with participation from milemark+ capital, Aether VC, ADIN, Offline Ventures, and a non-dilutive DARPA SBIR Direct-to-Phase 2 contract that supports sp",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.439018Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35368,
+    "title": "Superheavy-lift rockets like SpaceX's Starship could transform astronomy by making space telescopes cheaper",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Superheavy_lift_rockets_like_SpaceXs_Starship_could_transform_astronomy_by_making_space_telescopes_cheaper_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/eth-zurich-life-five-satellite-form-large-space-telescope-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (SPX) Jan 10, 2026\n\n\nAfter a string of dramatic failures, the huge Starship rocket from SpaceX had a fully successful test on Oct. 13, 2025. A couple more test flights, and SpaceX plans to launch it into orbit. \n\nA month later, a rival rocket company, Blue Origin, flew its almost-as-large New Glenn rocket all the way to orbit and sent spacecraft on their way to Mars. \n\nWhile these successful flights are exci",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.560454Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35364,
     "title": "Berkeley Scientists set to home in on 100 signals from Seti at Home",
     "authors": [
@@ -254,6 +323,106 @@
     "summary": "Berkeley, United States (SPX) Jan 12, 2026\n\nFor 21 years, between 1999 and 2020, millions of people worldwide loaned UC Berkeley scientists their computers to search for signs of advanced civilizations in our galaxy. \n\nThe project - called SETI@home, after the Search for Extraterrestrial Intelligence (SETI) - generated a loyal following eager to participate in one of the most popular crowd-sourced projects in the early days of the int",
     "published_at": "2026-01-14T07:08:24Z",
     "updated_at": "2026-01-14T06:00:28.422219Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35369,
+    "title": "Europe approves EPS Sterna polar microsatellite network",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Europe_approves_EPS_Sterna_polar_microsatellite_network_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/eumetsat-polar-system-eps-sterna-constellation-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 12, 2026\n\n\nThe EUMETSAT Council has formally endorsed the EUMETSAT Polar System Sterna (EPS Sterna), clearing the way for a new constellation of polar orbiting microsatellites that will deliver frequent microwave measurements of atmospheric temperature, humidity and cloud properties. The decision confirms EPS Sterna as a mandatory programme for EUMETSAT and authorises full scale activities targeting the la",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.586696Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35371,
+    "title": "Multiple satellite filings demonstrate transparency, responsibility and ambition: China Daily editorial",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Multiple_satellite_filings_demonstrate_transparency_responsibility_and_ambition_China_Daily_editorial_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satellite-constellation-mixed-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Beijing, China (SPX) Jan 13, 2026\n\n\nLow-Earth orbit slots are finite, nonrenewable and increasingly scarce. Once they are occupied or effectively locked by early movers, latecomers face severe constraints on their ability to deploy satellite systems critical for communications, navigation, remote sensing and digital services. \n\nUnder the long-standing \"first-come, first-served\" principle of the International Telecommunication",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.677150Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35359,
+    "title": "Indian rocket hits snag during launch",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Indian_rocket_hits_snag_during_launch_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/india-pslv-c37-launch-day-clear-pad-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "New Delhi (AFP) Jan 12, 2026\n\n\n An Indian rocket hit a snag during its launch Monday, forcing a deviation in flight path as it carried an Earth observation satellite and commercial payloads, the country's space agency said. \n\nThe PSLV-C62, a four-stage launch vehicle, \"encountered an anomaly\" towards the end of the third stage, the Indian Space Research Organisation (ISRO) posted on X, without saying exactly what went wrong.",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.219644Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35373,
+    "title": "New orbital mapping system targets Earth Moon libration traffic",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/New_orbital_mapping_system_targets_Earth_Moon_libration_traffic_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/orbital-parameterization-method-for-earth-moon-collinear-libration-points-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 14, 2026\n\n\nAs lunar exploration intensifies, the cislunar space is experiencing increasing congestion. Traditional two body Keplerian elements, which have long been the standard for Earth orbiting objects, prove insufficient for accurately describing the complex orbits near the Earth Moon Lagrange points due to the chaotic and non integrable nature of three body dynamics. \n\nThis fundamental deficiency",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.735627Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35362,
+    "title": "Firefly prepares Alpha Block II upgrade for Flight 8",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Block_II_upgrade_for_Flight_8_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/firefly-aerospace-alpha-block-ii-qualification-testing-rocket-ranch-texas-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nFirefly Aerospace has announced a Block II configuration upgrade for its Alpha small launch vehicle, with qualification testing for the new second stage hardware now underway at the companys Rocket Ranch test facility in Briggs, Texas. The Block II program is intended to boost reliability, streamline manufacturing, and improve launch operations to better support commercial, civil, and national s",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.337007Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -280,20 +449,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35362,
-    "title": "Firefly prepares Alpha Block II upgrade for Flight 8",
+    "id": 35370,
+    "title": "Aerospacelab expands Pulsar navigation constellation work with new Xona satellite order",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Block_II_upgrade_for_Flight_8_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/firefly-aerospace-alpha-block-ii-qualification-testing-rocket-ranch-texas-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Aerospacelab_expands_Pulsar_navigation_constellation_work_with_new_Xona_satellite_order_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/aerospacelab-xona-constellation-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nFirefly Aerospace has announced a Block II configuration upgrade for its Alpha small launch vehicle, with qualification testing for the new second stage hardware now underway at the companys Rocket Ranch test facility in Briggs, Texas. The Block II program is intended to boost reliability, streamline manufacturing, and improve launch operations to better support commercial, civil, and national s",
+    "summary": "Berlin, Germany (SPX) Jan 14, 2026\n\n\nAerospacelab, a satellite manufacturing and design company, has been selected by Xona Space Systems to produce eight additional satellites for Pulsar, a low Earth orbit navigation constellation designed to deliver high performance positioning, navigation and timing services. The new order is intended to bridge early commercial demand, with launches scheduled to begin in late 2026 as Xona develop",
     "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.337007Z",
+    "updated_at": "2026-01-14T06:00:28.615725Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35372,
+    "title": "NASA Back for Seconds with New Food System Design Challenge",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_Back_for_Seconds_with_New_Food_System_Design_Challenge_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mars-rice-farm-1-dalle-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (SPX) Jan 14, 2026\n\n\nNASA is getting ready to send four astronauts around the Moon with Artemis II, laying the foundation for sustainable missions to the lunar surface and paving the way for human exploration on Mars. As the agency considers deep space endeavors that could last months or years, it must develop ways to feed astronauts beyond sending supplies from Earth. \n\nThat is why NASA is launching the Deep Sp",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.707812Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -421,26 +610,6 @@
     "summary": "The Starlink 6-98 mission will add 29 Starlink V2 Mini Optimized satellites to the low Earth orbit constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 1:08 p.m. EST (1808 UTC). ",
     "published_at": "2026-01-14T00:35:35Z",
     "updated_at": "2026-01-14T00:40:26.660960Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35352,
-    "title": "La NASA transmitirá en directo el regreso y el amerizaje de Crew 11",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/la-nasa-transmitira-en-directo-el-regreso-y-el-amerizaje-de-crew-11/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/crew11.jpg",
-    "news_site": "NASA",
-    "summary": "Read this press release in English here. La NASA y SpaceX prevén que, si las condiciones meteorológicas lo permiten, el desacoplamiento de la misión SpaceX Crew 11 de la agencia espacial estadounidense de la Estación Espacial Internacional se produzca no antes de las 5:05 p.m. EST (hora del este) del miércoles 14 de enero. El 8 […]",
-    "published_at": "2026-01-13T23:52:24Z",
-    "updated_at": "2026-01-14T00:00:28.937740Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -627,46 +796,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35338,
-    "title": "Jet from galaxy black hole drives vast stream of super heated gas into space",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Jet_from_galaxy_black_hole_drives_vast_stream_of_super_heated_gas_into_space_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/supernova-host-galaxy-gravitationally-lensed-black-hole-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Irvine, United States (SPX) Jan 08, 2026\n\n\nUniversity of California Irvine astronomers have reported the discovery of the largest known stream of super heated gas in the universe flowing out of a nearby spiral galaxy called VV 340a. The team describes the finding, made with data from NASA's James Webb Space Telescope and other facilities, in the journal Science under the identifier 10.1126/science.adp8989. \n\nThe observations show sup",
-    "published_at": "2026-01-13T14:50:49Z",
-    "updated_at": "2026-01-13T13:40:15.153060Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35339,
-    "title": "China outlines mega constellations in ITU satellite filings",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/China_outlines_mega_constellations_in_ITU_satellite_filings_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/terran-orbital-rivada-space-networks-satellite-constellation-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 13, 2026\n\n\nChina has submitted plans for more than 200,000 satellites to the International Telecommunication Union, underscoring a drive to secure orbital positions and radio spectrum as global competition for low Earth orbit intensifies. The applications on the ITU website cover more than a dozen planned satellite constellations, with individual networks ranging from a few dozen spacecraft to systems appr",
-    "published_at": "2026-01-13T14:50:49Z",
-    "updated_at": "2026-01-13T13:40:15.183928Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35336,
     "title": "Mixed crystal phase of superionic water mapped inside giant planets",
     "authors": [
@@ -681,26 +810,6 @@
     "summary": "Berlin, Germany (SPX) Jan 13, 2026\n\n\nTemperatures of several thousand degrees Celsius and pressures of millions of atmospheres drive water into a superionic state in which hydrogen ions move freely through a solid lattice of oxygen atoms. In this exotic phase, which forms only under extreme conditions, water behaves like a hybrid of solid and liquid and shows very high electrical conductivity. \n\nBecause this phase can efficient",
     "published_at": "2026-01-13T14:50:49Z",
     "updated_at": "2026-01-13T13:40:15.117967Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35333,
-    "title": "Ancient deltas reveal vast Martian ocean across northern hemisphere",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.marsdaily.com/reports/Ancient_deltas_reveal_vast_Martian_ocean_across_northern_hemisphere_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/coprates-chasma-scarp-fronted-deposits-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 13, 2026\n\n\nUsing high resolution images from several Mars orbiters, an international team led by the University of Bern has identified a system of fan deltas in southeast Coprates Chasma that record the highest stand of an ancient ocean in Mars Valles Marineris. The geomorphologic structures, preserved today as scarp fronted deposits near the lower end of the canyon system, closely resemble classic river d",
-    "published_at": "2026-01-13T14:50:49Z",
-    "updated_at": "2026-01-13T13:40:15.056535Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -747,6 +856,51 @@
     "detailed_news": ""
   },
   {
+    "id": 35337,
+    "title": "Pandora exoplanet mission checks in after launch",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Pandora_exoplanet_mission_checks_in_after_launch_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/exoplanet-pandora-orbital-pattern-in-sun-synchronous-low-earth-orbit-solar-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 13, 2026\r\n\r\n\r\nNASA mission controllers have acquired full signal from the agency's Pandora small satellite, confirming the health and initial operations of the exoplanet observatory following launch from Vandenberg Space Force Base in California on Jan. 11, 2026. \r\n\r\nThe spacecraft rode to orbit on a SpaceX Falcon 9 rocket from Space Launch Complex 4 East, sharing the flight with the Star-Planet Activity Re",
+    "published_at": "2026-01-13T14:50:49Z",
+    "updated_at": "2026-01-13T13:59:45.845438Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "02700e48-65c6-4a95-8b97-c47152302283",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35330,
+    "title": "PH-1 test flight advances Chinese reusable suborbital spacecraft plans",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/PH_1_test_flight_advances_Chinese_reusable_suborbital_spacecraft_plans_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-cas-space-ph1-reusable-launch-system-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 13, 2026\r\n\r\n\r\nA Chinese suborbital spacecraft designed for reusable operations and future space tourism has completed a key test flight, marking a new step in the country's commercial space ambitions. \r\n\r\nThe vehicle, designated PH-1, is developed by Beijing-based commercial aerospace company CAS Space and is intended to support low cost scientific experiments in microgravity as well as pave the way for pas",
+    "published_at": "2026-01-13T14:50:49Z",
+    "updated_at": "2026-01-13T13:59:51.307336Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35332,
     "title": "Ancient impact may explain moons contrasting sides",
     "authors": [
@@ -787,190 +941,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35330,
-    "title": "PH-1 test flight advances Chinese reusable suborbital spacecraft plans",
+    "id": 35339,
+    "title": "China outlines mega constellations in ITU satellite filings",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/PH_1_test_flight_advances_Chinese_reusable_suborbital_spacecraft_plans_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-cas-space-ph1-reusable-launch-system-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/China_outlines_mega_constellations_in_ITU_satellite_filings_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/terran-orbital-rivada-space-networks-satellite-constellation-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 13, 2026\r\n\r\n\r\nA Chinese suborbital spacecraft designed for reusable operations and future space tourism has completed a key test flight, marking a new step in the country's commercial space ambitions. \r\n\r\nThe vehicle, designated PH-1, is developed by Beijing-based commercial aerospace company CAS Space and is intended to support low cost scientific experiments in microgravity as well as pave the way for pas",
+    "summary": "Tokyo, Japan (SPX) Jan 13, 2026\n\n\nChina has submitted plans for more than 200,000 satellites to the International Telecommunication Union, underscoring a drive to secure orbital positions and radio spectrum as global competition for low Earth orbit intensifies. The applications on the ITU website cover more than a dozen planned satellite constellations, with individual networks ranging from a few dozen spacecraft to systems appr",
     "published_at": "2026-01-13T14:50:49Z",
-    "updated_at": "2026-01-13T13:59:51.307336Z",
+    "updated_at": "2026-01-13T13:40:15.183928Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35337,
-    "title": "Pandora exoplanet mission checks in after launch",
+    "id": 35333,
+    "title": "Ancient deltas reveal vast Martian ocean across northern hemisphere",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Pandora_exoplanet_mission_checks_in_after_launch_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/exoplanet-pandora-orbital-pattern-in-sun-synchronous-low-earth-orbit-solar-bg.jpg",
+    "url": "https://www.marsdaily.com/reports/Ancient_deltas_reveal_vast_Martian_ocean_across_northern_hemisphere_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/coprates-chasma-scarp-fronted-deposits-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 13, 2026\r\n\r\n\r\nNASA mission controllers have acquired full signal from the agency's Pandora small satellite, confirming the health and initial operations of the exoplanet observatory following launch from Vandenberg Space Force Base in California on Jan. 11, 2026. \r\n\r\nThe spacecraft rode to orbit on a SpaceX Falcon 9 rocket from Space Launch Complex 4 East, sharing the flight with the Star-Planet Activity Re",
+    "summary": "Berlin, Germany (SPX) Jan 13, 2026\n\n\nUsing high resolution images from several Mars orbiters, an international team led by the University of Bern has identified a system of fan deltas in southeast Coprates Chasma that record the highest stand of an ancient ocean in Mars Valles Marineris. The geomorphologic structures, preserved today as scarp fronted deposits near the lower end of the canyon system, closely resemble classic river d",
     "published_at": "2026-01-13T14:50:49Z",
-    "updated_at": "2026-01-13T13:59:45.845438Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "02700e48-65c6-4a95-8b97-c47152302283",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35341,
-    "title": "Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering",
-    "authors": [
-      {
-        "name": "Turion Space Corp.",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/turion-space-corp-acquires-tychee-research-group-to-accelerate-autonomous-space-operations-and-mission-engineering/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/turion-space-logo-square.png?fit=1022%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIRVINE, Calif. & LOS ANGELES, Calif. — January 13, 2026 — Turion Space Corp. (“Turion”), a space infrastructure company that builds and operates mission-grade spacecraft and space operations software, today […]\nThe post Turion Space Corp. Acquires Tychee Research Group to Accelerate Autonomous Space Operations and Mission Engineering appeared first on SpaceNews.",
-    "published_at": "2026-01-13T14:00:00Z",
-    "updated_at": "2026-01-13T14:10:33.646486Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35342,
-    "title": "Space Force wants competition. Satellite makers want stability.",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-force-wants-competition-satellite-makers-want-stability/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Screenshot-2025-12-06-at-6.07.39-PM.png?fit=1024%2C586&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBehind the rhetoric about competition and innovation, not everyone is convinced SDA’s approach is a win-win\nThe post Space Force wants competition. Satellite makers want stability. appeared first on SpaceNews.",
-    "published_at": "2026-01-13T14:00:00Z",
-    "updated_at": "2026-01-13T14:10:33.703748Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35340,
-    "title": "Hubble Nets Menagerie of Young Stellar Objects",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/hubble-nets-menagerie-of-young-stellar-objects/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/young-stars/Hubble_NGC%201333_J521025_3117_2flat_cont_FINAL.tif",
-    "news_site": "NASA",
-    "summary": "A disparate collection of young stellar objects bejewels a cosmic panorama in the star-forming region NGC 1333 in this new image from NASA’s Hubble Space Telescope. To the left, an actively forming star called a protostar casts its glow on the surrounding gas and dust, creating a reflection nebula. Two dark stripes on opposite sides […]",
-    "published_at": "2026-01-13T13:38:01Z",
-    "updated_at": "2026-01-13T14:31:18.770581Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35329,
-    "title": "10 asteroids named to honour ESA’s role in Planetary Defence",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Space_Safety/Planetary_Defence/10_asteroids_named_to_honour_ESA_s_role_in_Planetary_Defence",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/esa_s_planetary_defence_team/27061923-1-eng-GB/ESA_s_Planetary_Defence_team_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-01-13T13:00:00Z",
-    "updated_at": "2026-01-13T12:50:20.450192Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35328,
-    "title": "ESA Adjusts Scope of Phase 2 of its LEO Cargo Return Services Initiative",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-adjusts-scope-of-phase-2-of-its-leo-cargo-return-services-initiative/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/ESA-Adjusts-Scope-of-Phase-2-of-its-LEO-Cargo-Return-Services-Initiative.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency (ESA) has adjusted the scope of Phase 2 of its LEO Cargo Return Services programme to account for the retirement of the International Space Station (ISS). Under the new call, the agency will accept proposals for demonstration missions to a future commercial LEO destination by the end of 2030. ESA announced […]\nThe post ESA Adjusts Scope of Phase 2 of its LEO Cargo Return Services Initiative appeared first on European Spaceflight.",
-    "published_at": "2026-01-13T12:13:58Z",
-    "updated_at": "2026-01-13T12:20:15.500159Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35326,
-    "title": "Orbion delivers 33 electric thrusters to York Space for U.S. military constellation",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/orbion-delivers-33-electric-thrusters-to-york-space-for-u-s-military-constellation/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/06/Orbion1-scaled.jpg?fit=1024%2C719&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nMichigan-based supplier cites rising government and commercial demand amid tight smallsat supply chain\nThe post Orbion delivers 33 electric thrusters to York Space for U.S. military constellation appeared first on SpaceNews.",
-    "published_at": "2026-01-13T12:00:00Z",
-    "updated_at": "2026-01-13T12:00:34.069603Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35327,
-    "title": "2026 will be the year of space nuclear power and surviving the lunar night",
-    "authors": [
-      {
-        "name": "Tyler Bernstein, A.C. Charania and Alex Gilbert",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/2026-will-be-the-year-of-space-nuclear-power-and-surviving-the-lunar-night/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/ZENO-SATELLITE-SCENE-scaled.jpg?fit=1024%2C640&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLunar night survival becomes an imperative “Surviving the lunar night has crossed a critical threshold: what was once a ‘nice-to-have’ is now the imperative for any serious lunar mission. We’re seeing this ‘survive, operate, thrive’ progression play out in real time: we’ve proven we can land repeatedly, now we’re focused on surviving that brutal two-week […]\nThe post 2026 will be the year of space nuclear power and surviving the lunar night appeared first on SpaceNews.",
-    "published_at": "2026-01-13T12:00:00Z",
-    "updated_at": "2026-01-13T12:00:34.201305Z",
+    "updated_at": "2026-01-13T13:40:15.056535Z",
     "featured": false,
     "launches": [],
     "events": [],
