@@ -1,5 +1,25 @@
 [
   {
+    "id": 35399,
+    "title": "Clouds Swimming over Lago Argentino",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/clouds-swimming-over-lago-argentino/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/clouds-swimming-over-lago-argentino/ISS074-E-8940.jpg",
+    "news_site": "NASA",
+    "summary": "A collection of fish-shaped clouds hovered above the glacial lake in Patagonia in December 2025.",
+    "published_at": "2026-01-15T05:01:00Z",
+    "updated_at": "2026-01-15T05:10:10.168618Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35398,
     "title": "Coverage, Briefing Set for NASA’s Artemis II Moon Rocket Roll to Pad",
     "authors": [
@@ -450,46 +470,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35374,
-    "title": "Musk vs OpenAI trial set for April 27",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.robodaily.com/reports/Musk_vs_OpenAI_trial_set_for_April_27_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/elon-musk-x-ai-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "San Francisco, United States (AFP) Jan 13, 2026\n\n\n A trial in the lawsuit brought by Elon Musk against OpenAI CEO Samuel Altman and other defendants - including tech giant Microsoft - is scheduled to begin April 27, according to a federal court order issued Tuesday. \n\nThe legal showdown will center on Musk's claim that OpenAI and Altman abandoned the startup's original nonprofit, public-benefit mission and misled him while turning the lab in",
-    "published_at": "2026-01-14T08:17:13Z",
-    "updated_at": "2026-01-14T07:20:20.791963Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35376,
-    "title": "Quantum light switch built from atomically thin mirror",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/electrically-tunable-hybrid-2d-excitonic-metasurface-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nControlling light across scales, from microscopes and telescopes down to nanometers, is a central challenge in modern optics. Researchers at the University of Amsterdam have now demonstrated a nanoscale mirror whose reflectivity can be switched on and off electrically using quantum effects in an atomically thin material. \n\nPhysicists Tom Hoekstra and Jorik van de Groep of the UvA-Institute o",
-    "published_at": "2026-01-14T08:17:13Z",
-    "updated_at": "2026-01-14T07:20:20.831645Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35375,
     "title": "How IVRT Testing Ensures Consistent Product Quality",
     "authors": [
@@ -524,6 +504,46 @@
     "summary": "Los Angeles CA (SPX) Jan 07, 2026\n\n\nA team of researchers at the University of Waterloo have demonstrated a method to back up quantum information by encrypting qubits during copying, providing redundancy while remaining consistent with the no-cloning theorem. \n\nQuantum computing stores and processes information in qubits, which can be implemented in individual electrons, photons, atoms, ions or tiny electrical currents.",
     "published_at": "2026-01-14T08:17:13Z",
     "updated_at": "2026-01-14T07:20:20.860088Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35376,
+    "title": "Quantum light switch built from atomically thin mirror",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/electrically-tunable-hybrid-2d-excitonic-metasurface-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nControlling light across scales, from microscopes and telescopes down to nanometers, is a central challenge in modern optics. Researchers at the University of Amsterdam have now demonstrated a nanoscale mirror whose reflectivity can be switched on and off electrically using quantum effects in an atomically thin material. \n\nPhysicists Tom Hoekstra and Jorik van de Groep of the UvA-Institute o",
+    "published_at": "2026-01-14T08:17:13Z",
+    "updated_at": "2026-01-14T07:20:20.831645Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35374,
+    "title": "Musk vs OpenAI trial set for April 27",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.robodaily.com/reports/Musk_vs_OpenAI_trial_set_for_April_27_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/elon-musk-x-ai-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "San Francisco, United States (AFP) Jan 13, 2026\n\n\n A trial in the lawsuit brought by Elon Musk against OpenAI CEO Samuel Altman and other defendants - including tech giant Microsoft - is scheduled to begin April 27, according to a federal court order issued Tuesday. \n\nThe legal showdown will center on Musk's claim that OpenAI and Altman abandoned the startup's original nonprofit, public-benefit mission and misled him while turning the lab in",
+    "published_at": "2026-01-14T08:17:13Z",
+    "updated_at": "2026-01-14T07:20:20.791963Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -570,20 +590,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35372,
-    "title": "NASA Back for Seconds with New Food System Design Challenge",
+    "id": 35359,
+    "title": "Indian rocket hits snag during launch",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/NASA_Back_for_Seconds_with_New_Food_System_Design_Challenge_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-rice-farm-1-dalle-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Indian_rocket_hits_snag_during_launch_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/india-pslv-c37-launch-day-clear-pad-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Jan 14, 2026\n\n\nNASA is getting ready to send four astronauts around the Moon with Artemis II, laying the foundation for sustainable missions to the lunar surface and paving the way for human exploration on Mars. As the agency considers deep space endeavors that could last months or years, it must develop ways to feed astronauts beyond sending supplies from Earth. \n\nThat is why NASA is launching the Deep Sp",
+    "summary": "New Delhi (AFP) Jan 12, 2026\n\n\n An Indian rocket hit a snag during its launch Monday, forcing a deviation in flight path as it carried an Earth observation satellite and commercial payloads, the country's space agency said. \n\nThe PSLV-C62, a four-stage launch vehicle, \"encountered an anomaly\" towards the end of the third stage, the Indian Space Research Organisation (ISRO) posted on X, without saying exactly what went wrong.",
     "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.707812Z",
+    "updated_at": "2026-01-14T06:00:28.219644Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -610,6 +630,86 @@
     "detailed_news": ""
   },
   {
+    "id": 35373,
+    "title": "New orbital mapping system targets Earth Moon libration traffic",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/New_orbital_mapping_system_targets_Earth_Moon_libration_traffic_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/orbital-parameterization-method-for-earth-moon-collinear-libration-points-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 14, 2026\n\n\nAs lunar exploration intensifies, the cislunar space is experiencing increasing congestion. Traditional two body Keplerian elements, which have long been the standard for Earth orbiting objects, prove insufficient for accurately describing the complex orbits near the Earth Moon Lagrange points due to the chaotic and non integrable nature of three body dynamics. \n\nThis fundamental deficiency",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.735627Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35372,
+    "title": "NASA Back for Seconds with New Food System Design Challenge",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_Back_for_Seconds_with_New_Food_System_Design_Challenge_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mars-rice-farm-1-dalle-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (SPX) Jan 14, 2026\n\n\nNASA is getting ready to send four astronauts around the Moon with Artemis II, laying the foundation for sustainable missions to the lunar surface and paving the way for human exploration on Mars. As the agency considers deep space endeavors that could last months or years, it must develop ways to feed astronauts beyond sending supplies from Earth. \n\nThat is why NASA is launching the Deep Sp",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.707812Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35367,
+    "title": "Fueling research in nuclear thermal propulsion",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Fueling_research_in_nuclear_thermal_propulsion_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/nuclear-thermal-propulsion-mars-transit-habitat-mars-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "by Poornima Apte for MIT News\n\n\nBoston MA (SPX) Jan 14, 2026\nGoing to the moon was one thing; going to Mars will be quite another. The distance alone is intimidating. While the moon is 238,855 miles away, the distance to Mars is between 33 million and 249 million miles. The propulsion systems that got us to the moon just will not work. \n\nTaylor Hampson, a master's student in the Department of Nuclear Science and Engineeri",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.519573Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35362,
+    "title": "Firefly prepares Alpha Block II upgrade for Flight 8",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Block_II_upgrade_for_Flight_8_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/firefly-aerospace-alpha-block-ii-qualification-testing-rocket-ranch-texas-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nFirefly Aerospace has announced a Block II configuration upgrade for its Alpha small launch vehicle, with qualification testing for the new second stage hardware now underway at the companys Rocket Ranch test facility in Briggs, Texas. The Block II program is intended to boost reliability, streamline manufacturing, and improve launch operations to better support commercial, civil, and national s",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.337007Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35360,
     "title": "NASA heavy ion tests confirm Sakura II AI chip for orbital and lunar use",
     "authors": [
@@ -624,6 +724,46 @@
     "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nEdgeCortix Inc. reports that its Sakura II edge AI co-processor has demonstrated high levels of radiation resiliency in heavy ion testing conducted under the NASA Electronic Parts and Packaging Program. The results mark the second time an EdgeCortix device has completed this test campaign, following earlier work in 2024 on the Sakura I co-processor. \n\nAccording to the new NASA report, Sakura",
     "published_at": "2026-01-14T07:08:24Z",
     "updated_at": "2026-01-14T06:00:28.283437Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35370,
+    "title": "Aerospacelab expands Pulsar navigation constellation work with new Xona satellite order",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Aerospacelab_expands_Pulsar_navigation_constellation_work_with_new_Xona_satellite_order_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/aerospacelab-xona-constellation-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 14, 2026\n\n\nAerospacelab, a satellite manufacturing and design company, has been selected by Xona Space Systems to produce eight additional satellites for Pulsar, a low Earth orbit navigation constellation designed to deliver high performance positioning, navigation and timing services. The new order is intended to bridge early commercial demand, with launches scheduled to begin in late 2026 as Xona develop",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.615725Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35366,
+    "title": "Blue Origin and Nimbus validate fuel cells for lunar life support",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Blue_Origin_and_Nimbus_validate_fuel_cells_for_lunar_life_support_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/blue-origin-nimbus-power-fuel-cells-life-support-space-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nIn a key step toward sustaining crews on future lunar missions, Nimbus Power Systems has completed a campaign of shock and vibration tests on its advanced, gravity independent fuel cell hardware in cooperation with Blue Origin. The tests reproduced the harsh launch and ascent environments expected for NASA Artemis crewed missions, and the fuel cell met all specified performance targets while mai",
+    "published_at": "2026-01-14T07:08:24Z",
+    "updated_at": "2026-01-14T06:00:28.493510Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -670,46 +810,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35366,
-    "title": "Blue Origin and Nimbus validate fuel cells for lunar life support",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Blue_Origin_and_Nimbus_validate_fuel_cells_for_lunar_life_support_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/blue-origin-nimbus-power-fuel-cells-life-support-space-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nIn a key step toward sustaining crews on future lunar missions, Nimbus Power Systems has completed a campaign of shock and vibration tests on its advanced, gravity independent fuel cell hardware in cooperation with Blue Origin. The tests reproduced the harsh launch and ascent environments expected for NASA Artemis crewed missions, and the fuel cell met all specified performance targets while mai",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.493510Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35370,
-    "title": "Aerospacelab expands Pulsar navigation constellation work with new Xona satellite order",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Aerospacelab_expands_Pulsar_navigation_constellation_work_with_new_Xona_satellite_order_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/aerospacelab-xona-constellation-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 14, 2026\n\n\nAerospacelab, a satellite manufacturing and design company, has been selected by Xona Space Systems to produce eight additional satellites for Pulsar, a low Earth orbit navigation constellation designed to deliver high performance positioning, navigation and timing services. The new order is intended to bridge early commercial demand, with launches scheduled to begin in late 2026 as Xona develop",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.615725Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35369,
     "title": "Europe approves EPS Sterna polar microsatellite network",
     "authors": [
@@ -744,86 +844,6 @@
     "summary": "Beijing, China (SPX) Jan 13, 2026\n\n\nLow-Earth orbit slots are finite, nonrenewable and increasingly scarce. Once they are occupied or effectively locked by early movers, latecomers face severe constraints on their ability to deploy satellite systems critical for communications, navigation, remote sensing and digital services. \n\nUnder the long-standing \"first-come, first-served\" principle of the International Telecommunication",
     "published_at": "2026-01-14T07:08:24Z",
     "updated_at": "2026-01-14T06:00:28.677150Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35367,
-    "title": "Fueling research in nuclear thermal propulsion",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Fueling_research_in_nuclear_thermal_propulsion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nuclear-thermal-propulsion-mars-transit-habitat-mars-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "by Poornima Apte for MIT News\n\n\nBoston MA (SPX) Jan 14, 2026\nGoing to the moon was one thing; going to Mars will be quite another. The distance alone is intimidating. While the moon is 238,855 miles away, the distance to Mars is between 33 million and 249 million miles. The propulsion systems that got us to the moon just will not work. \n\nTaylor Hampson, a master's student in the Department of Nuclear Science and Engineeri",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.519573Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35359,
-    "title": "Indian rocket hits snag during launch",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Indian_rocket_hits_snag_during_launch_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/india-pslv-c37-launch-day-clear-pad-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New Delhi (AFP) Jan 12, 2026\n\n\n An Indian rocket hit a snag during its launch Monday, forcing a deviation in flight path as it carried an Earth observation satellite and commercial payloads, the country's space agency said. \n\nThe PSLV-C62, a four-stage launch vehicle, \"encountered an anomaly\" towards the end of the third stage, the Indian Space Research Organisation (ISRO) posted on X, without saying exactly what went wrong.",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.219644Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35373,
-    "title": "New orbital mapping system targets Earth Moon libration traffic",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/New_orbital_mapping_system_targets_Earth_Moon_libration_traffic_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/orbital-parameterization-method-for-earth-moon-collinear-libration-points-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 14, 2026\n\n\nAs lunar exploration intensifies, the cislunar space is experiencing increasing congestion. Traditional two body Keplerian elements, which have long been the standard for Earth orbiting objects, prove insufficient for accurately describing the complex orbits near the Earth Moon Lagrange points due to the chaotic and non integrable nature of three body dynamics. \n\nThis fundamental deficiency",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.735627Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35362,
-    "title": "Firefly prepares Alpha Block II upgrade for Flight 8",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Block_II_upgrade_for_Flight_8_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/firefly-aerospace-alpha-block-ii-qualification-testing-rocket-ranch-texas-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nFirefly Aerospace has announced a Block II configuration upgrade for its Alpha small launch vehicle, with qualification testing for the new second stage hardware now underway at the companys Rocket Ranch test facility in Briggs, Texas. The Block II program is intended to boost reliability, streamline manufacturing, and improve launch operations to better support commercial, civil, and national s",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.337007Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -971,26 +991,6 @@
     "summary": "The change will allow the U.S. Space Force to expedite the process of building out its GPS constellation in medium Earth orbit. The launch date for the next satellite, GPS III Space Vehicle 09, could be within weeks. ",
     "published_at": "2026-01-13T23:42:02Z",
     "updated_at": "2026-01-13T23:50:28.339418Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35350,
-    "title": "NASA to Provide Live Coverage of Crew-11 Return, Splashdown",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-11-return-splashdown/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/crew11.jpg",
-    "news_site": "NASA",
-    "summary": "NASA and SpaceX are targeting no earlier than 5:05 p.m. EST, Wednesday, Jan. 14, for the undocking of the agency’s SpaceX Crew-11 mission from the International Space Station, pending weather conditions. On Jan. 8, NASA announced its decision to return the agency’s SpaceX Crew-11 mission to Earth from the space station earlier than originally planned […]",
-    "published_at": "2026-01-13T23:13:09Z",
-    "updated_at": "2026-01-13T23:20:16.811712Z",
     "featured": false,
     "launches": [],
     "events": [],
