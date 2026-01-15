@@ -1,5 +1,389 @@
 [
   {
+    "id": 35415,
+    "title": "Hydrosat raises $60 million in Series B funding",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/hydrosat-raises-60-million-in-series-b-funding/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/rsz_dubai-united-arab-emirates-landscape.png?fit=879%2C459&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Hydrosat, a thermal imagery startup focused on water-resource management, has raised $60 million in Series B funding from equity investors and sovereign wealth funds. With the influx […]\nThe post Hydrosat raises $60 million in Series B funding appeared first on SpaceNews.",
+    "published_at": "2026-01-15T11:00:00Z",
+    "updated_at": "2026-01-15T11:01:11.256926Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35414,
+    "title": "NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/crew-11-in-dragon-jan-15.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s SpaceX Crew-11 mission safely splashed down early Thursday morning in the Pacific Ocean off the coast of San Diego, concluding a more than five-month mission aboard the International Space Station. NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov returned to Earth at […]",
+    "published_at": "2026-01-15T10:59:03Z",
+    "updated_at": "2026-01-15T11:58:30.316952Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "88b4b179-c4ed-4bd1-868d-ced568a2342a",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1313,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 35413,
+    "title": "Crew 11 safely splashes down after shortened mission",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/01/15/crew-11-safely-splashes-down-after-shortened-mission/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260115-Crew-11-Return-Feature-Image.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Four space station crewmates undocked and plunged back to Earth Thursday, safely splashing down in the Pacific Ocean off the California coast six days after NASA ordered them home early because of a medical issue.",
+    "published_at": "2026-01-15T10:47:21Z",
+    "updated_at": "2026-01-15T11:58:37.131995Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "88b4b179-c4ed-4bd1-868d-ced568a2342a",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1313,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 35412,
+    "title": "Crew-11 Back on Earth So Ailing Crew Member Can Get Treatment",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/crew-11-back-on-earth-so-ailing-crew-member-can-get-treatment/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/01/Crew-11-bobbing-2-300x169.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Four astronauts splashed down near San Diego this morning, four weeks earlier than planned. One of the four is experiencing a “medical condition.” NASA declines to specify the person or […]",
+    "published_at": "2026-01-15T10:01:42Z",
+    "updated_at": "2026-01-15T10:27:33.800620Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "88b4b179-c4ed-4bd1-868d-ced568a2342a",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1313,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 35411,
+    "title": "Crew-11 makes early return from ISS",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/crew-11-makes-early-return-from-iss/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/crew11-splashdown.jpeg?fit=1024%2C568&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "A Crew Dragon spacecraft splashed down off the California coast Jan. 15, bringing back four people from the ISS more than a month early because of a medical issue.\r\nThe post Crew-11 makes early return from ISS appeared first on SpaceNews.",
+    "published_at": "2026-01-15T09:01:17Z",
+    "updated_at": "2026-01-15T09:41:28.927984Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "88b4b179-c4ed-4bd1-868d-ced568a2342a",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1313,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 35410,
+    "title": "Plato passes vibe check",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/Plato_passes_vibe_check",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/01/plato_passes_vibe_check/27063702-2-eng-GB/Plato_passes_vibe_check_card_full.png",
+    "news_site": "ESA",
+    "summary": "Plato, the European Space Agency’s mission to discover Earth-like exoplanets, successfully passed a first round of tests designed to ensure that the spacecraft is fit for launch. As this video shows, the tests consist of vigorously shaking the spacecraft to mimic the powerful jolts and vibrations that Plato will experience during launch.",
+    "published_at": "2026-01-15T09:00:00Z",
+    "updated_at": "2026-01-15T09:41:04.843474Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "526b4a0f-f0c9-4a20-9066-e9fc8c79307b",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35409,
+    "title": "Indian startup Aule Space enters satellite servicing market",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/indian-startup-aule-space-enters-satellite-servicing-market/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/aule-groundtest.jpeg?fit=1024%2C572&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAn Indian startup is entering the satellite servicing market with plans to develop low-cost spacecraft to extend the lives of satellites.\nThe post Indian startup Aule Space enters satellite servicing market appeared first on SpaceNews.",
+    "published_at": "2026-01-15T08:33:28Z",
+    "updated_at": "2026-01-15T08:40:25.164364Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35408,
+    "title": "Sentinel-2 explores night vision",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_explores_night_vision",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/gas_flares_in_qatar_imaged_by_sentinel-2a/27064960-1-eng-GB/Gas_flares_in_Qatar_imaged_by_Sentinel-2A_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "After more than 10 years in orbit, the first Copernicus Sentinel-2 satellite, Sentinel-2A, is still finding new ways to contribute to Earth observation. With its younger siblings, Sentinel-2B and Sentinel-2C, now leading the mission’s core task of delivering high-resolution, ‘camera-like’ images of Earth’s surface, the European Space Agency is pushing Sentinel-2A beyond its original remit.",
+    "published_at": "2026-01-15T08:00:00Z",
+    "updated_at": "2026-01-15T08:10:18.346863Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35400,
+    "title": "NASA and DOE plan fission power plant on Moon by 2030",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/NASA_and_DOE_plan_fission_power_plant_on_Moon_by_2030_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/lunar-spix-3-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 15, 2026\n\n\nNASA and the U.S. Department of Energy have renewed their long standing partnership to develop a fission surface power system that can operate on the Moon as part of the Artemis campaign and future missions to Mars. The agencies plan to deploy a lunar surface reactor by 2030 to support sustained human and robotic activities and to advance U.S. leadership in space exploration and commerce.",
+    "published_at": "2026-01-15T07:55:13Z",
+    "updated_at": "2026-01-15T06:50:15.758862Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35405,
+    "title": "JAXA taps ispace for lunar debris mitigation and disposal study",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/JAXA_taps_ispace_for_lunar_debris_mitigation_and_disposal_study_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/lunar-spix-5-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 15, 2026\n\n\nispace inc has been selected by the Japan Aerospace Exploration Agency to conduct an analysis on how to limit harmful space debris in lunar orbit and manage spacecraft end of life on the Moon as activity around the lunar environment increases. The contracted study is titled \"Analysis for Space Debris Mitigation in Lunar Orbit and Disposal Management on the Lunar Surface\" and reflects growing con",
+    "published_at": "2026-01-15T07:55:13Z",
+    "updated_at": "2026-01-15T06:50:15.935812Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35404,
+    "title": "The Quiet Transformation of GPS - What's Coming by 2026",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/The_Quiet_Transformation_of_GPS_Whats_Coming_by_2026_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gps-delivery-1-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 15, 2026\n\nGPS has long been perceived as a finished system - dependable, standardized, and largely unchanged from the user's point of view. For most people, navigation simply works, and that reliability creates the illusion of stagnation.",
+    "published_at": "2026-01-15T07:55:13Z",
+    "updated_at": "2026-01-15T06:50:15.916696Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35406,
+    "title": "How to Transcribe Audio to Text - A Step-by-Step Guide",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/How_to_Transcribe_Audio_to_Text_A_Step_by_Step_Guide_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/woman-headphones-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 15, 2026\n\nTranscribing audio to text is a crucial process in many industries, from media to education and customer service. The ability to convert spoken words into written form makes content more accessible, searchable, and shareable.",
+    "published_at": "2026-01-15T07:55:13Z",
+    "updated_at": "2026-01-15T06:50:15.953943Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35407,
+    "title": "GPS in 2026 - Hidden Shifts That Could Redefine Global Navigation",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.gpsdaily.com/reports/GPS_in_2026_Hidden_Shifts_That_Could_Redefine_Global_Navigation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gps-map-smartphone-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 15, 2026\n\nFor decades, GPS has been treated as a stable, almost invisible layer of modern technology - always present, always reliable. Yet as 2026 approaches, subtle but meaningful changes are beginning to reshape how global navigation systems operate behind the scenes.",
+    "published_at": "2026-01-15T07:55:13Z",
+    "updated_at": "2026-01-15T06:50:15.972343Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35403,
+    "title": "Spaceflight study links astronaut biology to reversible shifts in epigenetic age",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Spaceflight_study_links_astronaut_biology_to_reversible_shifts_in_epigenetic_age_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/astronaut-spacedisc-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nWhen the four member crew of Axiom 2 launched on a 10 day mission in May 2023, their time in orbit carried a dense manifest of biomedical experiments aimed at probing human physiology under spaceflight conditions. \n\nA new analysis led by scientists at the Buck Institute for Research on Aging uses blood samples from that mission to position spaceflight as a model system for studying biologica",
+    "published_at": "2026-01-15T07:55:13Z",
+    "updated_at": "2026-01-15T06:50:15.884243Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35402,
+    "title": "The Silent Partner - How Machine Learning Quietly Powers Modern Space Operations",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/The_Silent_Partner_How_Machine_Learning_Quietly_Powers_Modern_Space_Operations_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/machine-learning-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 15, 2026\n\nThe space industry handles some of the most complex data in existence. Satellite images cover millions of square kilometers. Telemetry from a single spacecraft involves thousands of data points. The position of millions of objects in orbit must be tracked to prevent collisions",
+    "published_at": "2026-01-15T07:55:13Z",
+    "updated_at": "2026-01-15T06:50:15.863826Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35401,
+    "title": "JWST red dots reveal rapidly growing early black holes",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/JWST_red_dots_reveal_rapidly_growing_early_black_holes_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/little-red-dots-young-black-holes-hundred-times-less-massive-enshrouded-cocoon-gas-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 15, 2026\r\n\r\n\r\nSince the James Webb Space Telescope began science operations in December 2021 some 1.5 million kilometres from Earth, astronomers have been puzzled by compact, intensely red sources scattered through its deep images of the early universe. These so called little red dots appear when the universe is only several hundred million years old, then seem to vanish about a billion years later, prompting",
+    "published_at": "2026-01-15T07:55:13Z",
+    "updated_at": "2026-01-15T07:26:54.317131Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35399,
     "title": "Clouds Swimming over Lago Argentino",
     "authors": [
@@ -201,26 +585,6 @@
     "summary": "\nBoulder-based startup plans 2026 demonstrations tied to space domain awareness\nThe post ThinkOrbital raises seed funding to advance X-ray space inspection appeared first on SpaceNews.",
     "published_at": "2026-01-14T15:00:00Z",
     "updated_at": "2026-01-14T15:00:45.716092Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35389,
-    "title": "La NASA publica datos de la temperatura global",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
-    "news_site": "NASA",
-    "summary": "Read this press release in English here. La temperatura global de la superficie terrestre en 2025 fue un poco más cálida que en 2023 pero, dentro de los márgenes de error, ambos años está prácticamente empatados, según un análisis realizado por científicos de la NASA. Desde que comenzaron los registros en 1880, 2024 sigue siendo el […]",
-    "published_at": "2026-01-14T14:35:22Z",
-    "updated_at": "2026-01-14T14:40:14.646099Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -470,26 +834,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35375,
-    "title": "How IVRT Testing Ensures Consistent Product Quality",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/How_IVRT_Testing_Ensures_Consistent_Product_Quality_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/teledyne-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 13, 2026\n\nStringent quality control is essential in the pharmaceutical industry, as both cosmetics and pharmaceutical products must maintain a high standard of quality. Any deviation from these standards poses a significant threat to their market survival. Customers believe that every product will work with every use. In vitro release testing (IVRT) is a crucial process that enables manufacturers to meet",
-    "published_at": "2026-01-14T08:17:13Z",
-    "updated_at": "2026-01-14T07:20:20.814989Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35377,
     "title": "Quantum key method enables redundant storage of qubit data",
     "authors": [
@@ -550,40 +894,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35363,
-    "title": "Space station study reveals unusual virus bacteria dynamics in microgravity",
+    "id": 35375,
+    "title": "How IVRT Testing Ensures Consistent Product Quality",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Space_station_study_reveals_unusual_virus_bacteria_dynamics_in_microgravity_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/biofuel-e-coli-bacteria-alter-protein-structure-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/How_IVRT_Testing_Ensures_Consistent_Product_Quality_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/teledyne-logo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nIn near weightless conditions aboard the International Space Station, viruses that infect bacteria continue to attack their hosts but follow an altered evolutionary trajectory compared to the same systems on Earth. \n\nA new study led by researchers at the University of Wisconsin Madison used Escherichia coli and its bacteriophage predator T7 to probe how microgravity reshapes the coevolution",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.384306Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35361,
-    "title": "Nullspace speeds antenna and radar simulations with new EM software tools",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Nullspace_speeds_antenna_and_radar_simulations_with_new_EM_software_tools_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nullspace-splash-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nNullspace Inc. has released a new version of its electromagnetic simulation suite that targets large-scale antenna and radar applications with faster frequency analysis and streamlined CAD preparation for RF engineers. The company positions the software as a way to shorten design cycles and time-to-market for complex RF systems by combining high-accuracy solvers with new automation features.",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.319968Z",
+    "summary": "Los Angeles CA (SPX) Jan 13, 2026\n\nStringent quality control is essential in the pharmaceutical industry, as both cosmetics and pharmaceutical products must maintain a high standard of quality. Any deviation from these standards poses a significant threat to their market survival. Customers believe that every product will work with every use. In vitro release testing (IVRT) is a crucial process that enables manufacturers to meet",
+    "published_at": "2026-01-14T08:17:13Z",
+    "updated_at": "2026-01-14T07:20:20.814989Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -610,106 +934,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35368,
-    "title": "Superheavy-lift rockets like SpaceX's Starship could transform astronomy by making space telescopes cheaper",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Superheavy_lift_rockets_like_SpaceXs_Starship_could_transform_astronomy_by_making_space_telescopes_cheaper_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/eth-zurich-life-five-satellite-form-large-space-telescope-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Jan 10, 2026\n\n\nAfter a string of dramatic failures, the huge Starship rocket from SpaceX had a fully successful test on Oct. 13, 2025. A couple more test flights, and SpaceX plans to launch it into orbit. \n\nA month later, a rival rocket company, Blue Origin, flew its almost-as-large New Glenn rocket all the way to orbit and sent spacecraft on their way to Mars. \n\nWhile these successful flights are exci",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.560454Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35373,
-    "title": "New orbital mapping system targets Earth Moon libration traffic",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/New_orbital_mapping_system_targets_Earth_Moon_libration_traffic_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/orbital-parameterization-method-for-earth-moon-collinear-libration-points-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 14, 2026\n\n\nAs lunar exploration intensifies, the cislunar space is experiencing increasing congestion. Traditional two body Keplerian elements, which have long been the standard for Earth orbiting objects, prove insufficient for accurately describing the complex orbits near the Earth Moon Lagrange points due to the chaotic and non integrable nature of three body dynamics. \n\nThis fundamental deficiency",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.735627Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35372,
-    "title": "NASA Back for Seconds with New Food System Design Challenge",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_Back_for_Seconds_with_New_Food_System_Design_Challenge_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-rice-farm-1-dalle-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Jan 14, 2026\n\n\nNASA is getting ready to send four astronauts around the Moon with Artemis II, laying the foundation for sustainable missions to the lunar surface and paving the way for human exploration on Mars. As the agency considers deep space endeavors that could last months or years, it must develop ways to feed astronauts beyond sending supplies from Earth. \n\nThat is why NASA is launching the Deep Sp",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.707812Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35367,
-    "title": "Fueling research in nuclear thermal propulsion",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Fueling_research_in_nuclear_thermal_propulsion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nuclear-thermal-propulsion-mars-transit-habitat-mars-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "by Poornima Apte for MIT News\n\n\nBoston MA (SPX) Jan 14, 2026\nGoing to the moon was one thing; going to Mars will be quite another. The distance alone is intimidating. While the moon is 238,855 miles away, the distance to Mars is between 33 million and 249 million miles. The propulsion systems that got us to the moon just will not work. \n\nTaylor Hampson, a master's student in the Department of Nuclear Science and Engineeri",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.519573Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35362,
-    "title": "Firefly prepares Alpha Block II upgrade for Flight 8",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Block_II_upgrade_for_Flight_8_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/firefly-aerospace-alpha-block-ii-qualification-testing-rocket-ranch-texas-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nFirefly Aerospace has announced a Block II configuration upgrade for its Alpha small launch vehicle, with qualification testing for the new second stage hardware now underway at the companys Rocket Ranch test facility in Briggs, Texas. The Block II program is intended to boost reliability, streamline manufacturing, and improve launch operations to better support commercial, civil, and national s",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.337007Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35360,
     "title": "NASA heavy ion tests confirm Sakura II AI chip for orbital and lunar use",
     "authors": [
@@ -730,40 +954,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35370,
-    "title": "Aerospacelab expands Pulsar navigation constellation work with new Xona satellite order",
+    "id": 35362,
+    "title": "Firefly prepares Alpha Block II upgrade for Flight 8",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Aerospacelab_expands_Pulsar_navigation_constellation_work_with_new_Xona_satellite_order_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/aerospacelab-xona-constellation-marker-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Block_II_upgrade_for_Flight_8_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/firefly-aerospace-alpha-block-ii-qualification-testing-rocket-ranch-texas-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 14, 2026\n\n\nAerospacelab, a satellite manufacturing and design company, has been selected by Xona Space Systems to produce eight additional satellites for Pulsar, a low Earth orbit navigation constellation designed to deliver high performance positioning, navigation and timing services. The new order is intended to bridge early commercial demand, with launches scheduled to begin in late 2026 as Xona develop",
+    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nFirefly Aerospace has announced a Block II configuration upgrade for its Alpha small launch vehicle, with qualification testing for the new second stage hardware now underway at the companys Rocket Ranch test facility in Briggs, Texas. The Block II program is intended to boost reliability, streamline manufacturing, and improve launch operations to better support commercial, civil, and national s",
     "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.615725Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35366,
-    "title": "Blue Origin and Nimbus validate fuel cells for lunar life support",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Blue_Origin_and_Nimbus_validate_fuel_cells_for_lunar_life_support_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/blue-origin-nimbus-power-fuel-cells-life-support-space-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nIn a key step toward sustaining crews on future lunar missions, Nimbus Power Systems has completed a campaign of shock and vibration tests on its advanced, gravity independent fuel cell hardware in cooperation with Blue Origin. The tests reproduced the harsh launch and ascent environments expected for NASA Artemis crewed missions, and the fuel cell met all specified performance targets while mai",
-    "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.493510Z",
+    "updated_at": "2026-01-14T06:00:28.337007Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -830,167 +1034,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35371,
-    "title": "Multiple satellite filings demonstrate transparency, responsibility and ambition: China Daily editorial",
+    "id": 35370,
+    "title": "Aerospacelab expands Pulsar navigation constellation work with new Xona satellite order",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Multiple_satellite_filings_demonstrate_transparency_responsibility_and_ambition_China_Daily_editorial_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satellite-constellation-mixed-marker-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Aerospacelab_expands_Pulsar_navigation_constellation_work_with_new_Xona_satellite_order_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/aerospacelab-xona-constellation-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Beijing, China (SPX) Jan 13, 2026\n\n\nLow-Earth orbit slots are finite, nonrenewable and increasingly scarce. Once they are occupied or effectively locked by early movers, latecomers face severe constraints on their ability to deploy satellite systems critical for communications, navigation, remote sensing and digital services. \n\nUnder the long-standing \"first-come, first-served\" principle of the International Telecommunication",
+    "summary": "Berlin, Germany (SPX) Jan 14, 2026\n\n\nAerospacelab, a satellite manufacturing and design company, has been selected by Xona Space Systems to produce eight additional satellites for Pulsar, a low Earth orbit navigation constellation designed to deliver high performance positioning, navigation and timing services. The new order is intended to bridge early commercial demand, with launches scheduled to begin in late 2026 as Xona develop",
     "published_at": "2026-01-14T07:08:24Z",
-    "updated_at": "2026-01-14T06:00:28.677150Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35358,
-    "title": "Fires on the Rise in the Far North",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/fires-on-the-rise-in-the-far-north/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/fires-on-the-rise-in-the-far-north/arctic_wildfires_firms_20022012.jpg",
-    "news_site": "NASA",
-    "summary": "Satellite-based maps show northern wildland fires becoming more frequent and widespread as temperatures rise and lightning reaches higher latitudes.",
-    "published_at": "2026-01-14T05:00:00Z",
-    "updated_at": "2026-01-14T05:10:22.519974Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35357,
-    "title": "Fire on Ice: The Arctic’s Changing Fire Regime",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/fire-on-ice-the-arctics-changing-fire-regime/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/articles/images/the-arctic%E2%80%99s-changing-fire-regime/evensk_oli_2019098_1440.jpg",
-    "news_site": "NASA",
-    "summary": "An increasingly flammable landscape combined with more lightning strikes is leading to larger, more frequent, and more intense fires than the landscape is adapted for.",
-    "published_at": "2026-01-14T05:00:00Z",
-    "updated_at": "2026-01-14T05:10:22.432480Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35356,
-    "title": "India’s workhorse PSLV needs to solve third stage issue following second consecutive failure",
-    "authors": [
-      {
-        "name": "Ryan Caton and Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/01/indias-pslv-solve-third-stage-second-failure/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/NSF-2026-01-14-02-36-22-132.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "India’s Polar Satellite Launch Vehicle (PSLV), long hailed as the reliable workhorse of the Indian…\nThe post India’s workhorse PSLV needs to solve third stage issue following second consecutive failure appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-01-14T02:42:35Z",
-    "updated_at": "2026-01-14T02:50:18.730361Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35355,
-    "title": "Firefly to upgrade Alpha rocket to improve reliability",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/firefly-to-upgrade-alpha-rocket-to-improve-reliability/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/53391894924_67f8907238_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFirefly Aerospace says it will upgrade its Alpha launch vehicle, making changes intended to improve the reliability of a rocket that has experienced several failures.\nThe post Firefly to upgrade Alpha rocket to improve reliability appeared first on SpaceNews.",
-    "published_at": "2026-01-14T01:37:53Z",
-    "updated_at": "2026-01-14T01:40:29.527370Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35354,
-    "title": "Congressional hearing highlights military’s reliance on NOAA data",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/congressional-hearing-highlights-militarys-reliance-on-noaa-data/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/rsz_screenshot_2026-01-13_at_41826-pm.png?fit=879%2C584&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – A Jan. 13 hearing underscored the importance of ongoing collaboration between the National Oceanic and Atmospheric Administration (NOAA) and the U.S. armed services. U.S. Air Force and U.S. Navy witnesses discussed their heavy reliance on datasets and weather models provided by NOAA and said their agencies are working closely to ensure NOAA’s […]\nThe post Congressional hearing highlights military’s reliance on NOAA data appeared first on SpaceNews.",
-    "published_at": "2026-01-14T00:41:41Z",
-    "updated_at": "2026-01-14T00:50:30.638970Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35353,
-    "title": "Live coverage: SpaceX to launch midweek Starlink mission on Falcon 9 rocket from Cape Canaveral",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/01/14/live-coverage-spacex-to-launch-midweek-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/01/20250106_Starlink_6-71_prelaunch-678x382.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 6-98 mission will add 29 Starlink V2 Mini Optimized satellites to the low Earth orbit constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 1:08 p.m. EST (1808 UTC). ",
-    "published_at": "2026-01-14T00:35:35Z",
-    "updated_at": "2026-01-14T00:40:26.660960Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35351,
-    "title": "U.S. Space Force switches rockets for upcoming GPS satellite launch",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/01/13/u-s-space-force-switches-rockets-for-upcoming-gps-satellite-launch/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260113-GPS-III-SV09-Shipping.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The change will allow the U.S. Space Force to expedite the process of building out its GPS constellation in medium Earth orbit. The launch date for the next satellite, GPS III Space Vehicle 09, could be within weeks. ",
-    "published_at": "2026-01-13T23:42:02Z",
-    "updated_at": "2026-01-13T23:50:28.339418Z",
+    "updated_at": "2026-01-14T06:00:28.615725Z",
     "featured": false,
     "launches": [],
     "events": [],
