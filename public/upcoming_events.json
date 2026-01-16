@@ -1,6 +1,6 @@
 {
-  "count": 9,
-  "last_updated": "2026-01-16T12:02:17.309857Z",
+  "count": 10,
+  "last_updated": "2026-01-16T18:01:21.105209Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (9 failed/unavailable)"
+    "Empty AI summaries (10 failed/unavailable)"
   ],
   "launches": [
     {
@@ -366,6 +366,47 @@
       "ai_summary": ""
     },
     {
+      "id": "8d50a489-8f86-4411-81fa-d4bfe75680eb",
+      "name": "New Shepard | NS-38",
+      "status": "Go",
+      "net": "2026-01-22T14:30:00Z",
+      "window_start": "2026-01-22T14:30:00Z",
+      "window_end": "2026-01-22T21:30:00Z",
+      "lsp_name": "Blue Origin",
+      "lsp_description": "Blue Origin is an American privately funded aerospace manufacturer and spaceflight services company set up by Amazon.com founder Jeff Bezos with its headquarters in Kent, Washington. The company is developing technologies to enable private human access to space with the goal to dramatically lower costs and increase reliability. Blue Origin currently launches its New Shepard sub-orbital vehicle from its West Texas launch site, they are currently constructing a launch pad for their orbital vehicle New Glenn at Cape Canaveral LC-36.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/blue2520origin_logo_20190207032427.png",
+      "mission_name": "NS-38",
+      "mission_description": "NS-38 is the 17th crewed flight for the New Shepard program and the 38th in the New Shepard program's history.",
+      "mission_type": "Tourism",
+      "orbit": "Suborbital",
+      "launch_site": "West Texas Suborbital Launch Site/ Corn Ranch, Corn Ranch, Van Horn, TX, USA",
+      "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+      "location": "Corn Ranch, Van Horn, TX, USA",
+      "rocket": "New Shepard",
+      "rocket_config_description": "The New Shepard reusable launch system is a vertical-takeoff, vertical-landing (VTVL), suborbital manned rocket that is being developed by Blue Origin as a commercial system for suborbital space tourism.",
+      "rocket_config_family": "",
+      "rocket_config_full_name": "New Shepard",
+      "rocket_config_total_launch_count": 37,
+      "rocket_config_successful_launches": 36,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Blue Origin",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Blue Origin is an American privately funded aerospace manufacturer and spaceflight services company set up by Amazon.com founder Jeff Bezos with its headquarters in Kent, Washington. The company is developing technologies to enable private human access to space with the goal to dramatically lower costs and increase reliability. Blue Origin currently launches its New Shepard sub-orbital vehicle from its West Texas launch site, they are currently constructing a launch pad for their orbital vehicle New Glenn at Cape Canaveral LC-36.",
+      "rocket_manufacturer_total_launch_count": 39,
+      "rocket_manufacturer_successful_launches": 38,
+      "rocket_manufacturer_failed_launches": 1,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/8d50a489-8f86-4411-81fa-d4bfe75680eb/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
       "id": "cd4bb934-0652-4425-9a5c-bbe5e467ade4",
       "name": "KAIROS | Flight 3",
       "status": "Go",
@@ -411,7 +452,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 9,
-    "total_launches": 9
+    "empty_summaries": 10,
+    "total_launches": 10
   }
 }
