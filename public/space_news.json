@@ -1,5 +1,92 @@
 [
   {
+    "id": 35429,
+    "title": "NASA Adds Two F-15 Aircraft to Support Supersonic Flight Research",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasa-adds-two-f-15-aircraft-to-support-supersonic-flight-research/",
+    "image_url": "https://images-assets.nasa.gov/image/AFRC2025-0190-14/AFRC2025-0190-14~large.jpg",
+    "news_site": "NASA",
+    "summary": "Two retired U.S. Air Force F-15 jets have joined the flight research fleet at NASA’s Armstrong Flight Research Center in Edwards, California, transitioning from military service to a new role enabling breakthrough advancements in aerospace. The F-15s will support supersonic flight research for NASA’s Flight Demonstrations and Capabilities project, including testing for the Quesst mission’s […]",
+    "published_at": "2026-01-15T20:58:45Z",
+    "updated_at": "2026-01-15T21:00:14.654916Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35428,
+    "title": "NASA’s SpaceX Crew-11 Wraps Up Space Station Science",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-11-wraps-up-space-station-science/",
+    "image_url": "https://images-assets.nasa.gov/image/iss074e0046389/iss074e0046389~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s SpaceX Crew-11 mission with agency astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov returned to Earth after a long-duration mission aboard the International Space Station. During their stay, Cardman, Fincke, and Yui contributed more than 850 hours of research to help prepare humanity […]",
+    "published_at": "2026-01-15T20:37:23Z",
+    "updated_at": "2026-01-15T20:40:13.278778Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35427,
+    "title": "Arianespace to begin Amazon Leo launches in February",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/arianespace-to-begin-amazon-leo-launches-in-february/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/ariane64.jpeg?fit=1024%2C713&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nArianespace will begin launches for its largest commercial customer in February as it works to ramp up its flight rate and attract additional business.\nThe post Arianespace to begin Amazon Leo launches in February appeared first on SpaceNews.",
+    "published_at": "2026-01-15T20:13:24Z",
+    "updated_at": "2026-01-15T20:20:26.488657Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35426,
+    "title": "Eutelsat Awards MaiaSpace Multi-Launch Contract for OneWeb Satellites",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/eutelsat-awards-maiaspace-multi-launch-contract-for-oneweb-satellites/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/Eutelsat-Awards-MaiaSpace-Multi-Launch-Contract-for-OneWeb-Satellites.webp",
+    "news_site": "European Spaceflight",
+    "summary": "French rocket builder MaiaSpace has signed an agreement with Eutelsat to perform multiple launches to support the expansion of the company’s OneWeb satellite constellation. MaiaSpace was founded in 2022 as a wholly owned subsidiary of ArianeGroup. The company is developing a two-stage, partially reusable launch vehicle called Maia, designed to deliver up to 4,000 kilograms […]\nThe post Eutelsat Awards MaiaSpace Multi-Launch Contract for OneWeb Satellites appeared first on European Spaceflight.",
+    "published_at": "2026-01-15T18:28:45Z",
+    "updated_at": "2026-01-15T18:30:19.450299Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35425,
     "title": "NASA Data Helps Maine Oyster Farmers Choose Where to Grow",
     "authors": [
@@ -429,46 +516,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35404,
-    "title": "The Quiet Transformation of GPS - What's Coming by 2026",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/The_Quiet_Transformation_of_GPS_Whats_Coming_by_2026_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gps-delivery-1-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 15, 2026\n\nGPS has long been perceived as a finished system - dependable, standardized, and largely unchanged from the user's point of view. For most people, navigation simply works, and that reliability creates the illusion of stagnation.",
-    "published_at": "2026-01-15T07:55:13Z",
-    "updated_at": "2026-01-15T06:50:15.916696Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35402,
-    "title": "The Silent Partner - How Machine Learning Quietly Powers Modern Space Operations",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/The_Silent_Partner_How_Machine_Learning_Quietly_Powers_Modern_Space_Operations_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/machine-learning-splash-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 15, 2026\n\nThe space industry handles some of the most complex data in existence. Satellite images cover millions of square kilometers. Telemetry from a single spacecraft involves thousands of data points. The position of millions of objects in orbit must be tracked to prevent collisions",
-    "published_at": "2026-01-15T07:55:13Z",
-    "updated_at": "2026-01-15T06:50:15.863826Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35407,
     "title": "GPS in 2026 - Hidden Shifts That Could Redefine Global Navigation",
     "authors": [
@@ -514,6 +561,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35404,
+    "title": "The Quiet Transformation of GPS - What's Coming by 2026",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/The_Quiet_Transformation_of_GPS_Whats_Coming_by_2026_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gps-delivery-1-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 15, 2026\n\nGPS has long been perceived as a finished system - dependable, standardized, and largely unchanged from the user's point of view. For most people, navigation simply works, and that reliability creates the illusion of stagnation.",
+    "published_at": "2026-01-15T07:55:13Z",
+    "updated_at": "2026-01-15T06:50:15.916696Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35400,
     "title": "NASA and DOE plan fission power plant on Moon by 2030",
     "authors": [
@@ -548,6 +615,26 @@
     "summary": "Los Angeles CA (SPX) Jan 14, 2026\n\n\nWhen the four member crew of Axiom 2 launched on a 10 day mission in May 2023, their time in orbit carried a dense manifest of biomedical experiments aimed at probing human physiology under spaceflight conditions. \n\nA new analysis led by scientists at the Buck Institute for Research on Aging uses blood samples from that mission to position spaceflight as a model system for studying biologica",
     "published_at": "2026-01-15T07:55:13Z",
     "updated_at": "2026-01-15T06:50:15.884243Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35402,
+    "title": "The Silent Partner - How Machine Learning Quietly Powers Modern Space Operations",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/The_Silent_Partner_How_Machine_Learning_Quietly_Powers_Modern_Space_Operations_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/machine-learning-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 15, 2026\n\nThe space industry handles some of the most complex data in existence. Satellite images cover millions of square kilometers. Telemetry from a single spacecraft involves thousands of data points. The position of millions of objects in orbit must be tracked to prevent collisions",
+    "published_at": "2026-01-15T07:55:13Z",
+    "updated_at": "2026-01-15T06:50:15.863826Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -969,95 +1056,6 @@
     "summary": "\nFunding backs expansion of “virtual constellation” that aggregates imagery from commercial operators\nThe post SkyFi raises $12.7 million to scale satellite data marketplace appeared first on SpaceNews.",
     "published_at": "2026-01-14T11:30:00Z",
     "updated_at": "2026-01-14T11:40:32.496989Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35380,
-    "title": "China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/chinas-first-launches-of-2026-send-yaogan-spacecraft-into-unusual-orbit-loft-guowang-satellites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/CZ6A-Yaogan50-01-TSLC-13jan2026-CASC.jpg?fit=1024%2C600&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "China conducted a pair of Long March rocket launches Tuesday, kicking off what is likely to be a record-breaking year for the country.\r\nThe post China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites  appeared first on SpaceNews.",
-    "published_at": "2026-01-14T10:46:43Z",
-    "updated_at": "2026-01-14T10:54:16.623666Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "2e15e3c4-408b-48a2-a647-4818df4eebc4",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "eac0eb9a-98c4-4660-a168-be5ec4e8ba4b",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35379,
-    "title": "Virtual tour of ESA’s Test Centre gets a makeover",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Virtual_tour_of_ESA_s_Test_Centre_gets_a_makeover",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/virtual_tour_of_esa_s_test_centre_gets_a_makeover/27063479-1-eng-GB/Virtual_tour_of_ESA_s_Test_Centre_gets_a_makeover_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-01-14T10:30:00Z",
-    "updated_at": "2026-01-14T10:20:21.225274Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35378,
-    "title": "Sweden to Acquire 10 Surveillance Satellites for €121 Million",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/sweden-to-acquire-10-surveillance-satellites-for-e121-million/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/Sweden-to-Acquire-10-Surveillance-Satellites-for-E121-Million.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The Swedish government has committed SEK 1.3 billion (approximately €121 million) to purchase ten satellites to build out a sovereign intelligence, surveillance, and reconnaissance (ISR) system. On 12 January, Sweden announced a SEK 5.3 billion (approximately €494 million) spending package focused on expanding national defence capacity. The funding forms part of a SEK 25 billion […]\nThe post Sweden to Acquire 10 Surveillance Satellites for €121 Million appeared first on European Spaceflight.",
-    "published_at": "2026-01-14T08:56:50Z",
-    "updated_at": "2026-01-14T09:00:21.534390Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35376,
-    "title": "Quantum light switch built from atomically thin mirror",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/electrically-tunable-hybrid-2d-excitonic-metasurface-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 09, 2026\n\n\nControlling light across scales, from microscopes and telescopes down to nanometers, is a central challenge in modern optics. Researchers at the University of Amsterdam have now demonstrated a nanoscale mirror whose reflectivity can be switched on and off electrically using quantum effects in an atomically thin material. \n\nPhysicists Tom Hoekstra and Jorik van de Groep of the UvA-Institute o",
-    "published_at": "2026-01-14T08:17:13Z",
-    "updated_at": "2026-01-14T07:20:20.831645Z",
     "featured": false,
     "launches": [],
     "events": [],
