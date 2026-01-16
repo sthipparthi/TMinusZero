@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-01-16T06:01:31.940476Z",
+  "count": 9,
+  "last_updated": "2026-01-16T12:02:17.309857Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
     {
@@ -276,6 +276,47 @@
       "ai_summary": ""
     },
     {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "name": "Spectrum | Onward and Upward",
+      "status": "Go",
+      "net": "2026-01-21T20:00:00Z",
+      "window_start": "2026-01-21T20:00:00Z",
+      "window_end": "2026-01-21T20:50:00Z",
+      "lsp_name": "Isar Aerospace",
+      "lsp_description": "Isar Aerospace is a German aerospace company based in Munich, Germany. The company was founded in 2018.",
+      "lsp_type": "Private",
+      "lsp_country": "DEU",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/isar2520aerospace_logo_20230125151814.jpeg",
+      "mission_name": "Onward and Upward",
+      "mission_description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
+      "mission_type": "Test Flight",
+      "orbit": "Sun-Synchronous Orbit",
+      "launch_site": "Orbital Launch Pad, Andøya Spaceport",
+      "pad": "Orbital Launch Pad",
+      "location": "Andøya Spaceport",
+      "rocket": "Spectrum",
+      "rocket_config_description": "Spectrum is a small launch vehicle developed by German company Isar Aerospace.",
+      "rocket_config_family": "",
+      "rocket_config_full_name": "Spectrum",
+      "rocket_config_total_launch_count": 1,
+      "rocket_config_successful_launches": 0,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 5,
+      "rocket_manufacturer_name": "Isar Aerospace",
+      "rocket_manufacturer_type": "Private",
+      "rocket_manufacturer_description": "Isar Aerospace is a German aerospace company based in Munich, Germany. The company was founded in 2018.",
+      "rocket_manufacturer_total_launch_count": 1,
+      "rocket_manufacturer_successful_launches": 0,
+      "rocket_manufacturer_failed_launches": 1,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/1b23eb18-e06e-4058-9b42-e95ca0980511/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
       "id": "18292387-fbeb-43ac-97a0-1ade50bd68f1",
       "name": "Falcon 9 Block 5 | Starlink Group 17-30",
       "status": "Go",
@@ -370,7 +411,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 9,
+    "total_launches": 9
   }
 }
