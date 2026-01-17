@@ -1,5 +1,25 @@
 [
   {
+    "id": 35468,
+    "title": "Arianespace to launch first Ariane 64 rocket on 12 Feb",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/arianespace-to-launch-first-ariane-64-rocket-on-12-feb/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/Arianespace-to-launch-first-Ariane-64-rocket-on-12-Feb.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Arianespace has announced that the first flight of its more powerful four-booster Ariane 6 will be launched on 12 February from the Guiana Space Centre in French Guiana. The inaugural flight of the Ariane 6 launch system was conducted in July 2024. In 2025, Arianespace launched four flights of the rocket carrying payloads for ESA, […]\nThe post Arianespace to launch first Ariane 64 rocket on 12 Feb appeared first on European Spaceflight.",
+    "published_at": "2026-01-17T05:00:12Z",
+    "updated_at": "2026-01-17T05:00:24.767994Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35467,
     "title": "NASA’s SpaceX Crew-11 to Discuss Space Station Science Mission",
     "authors": [
@@ -494,35 +514,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35444,
-    "title": "Multiple spacecraft track evolving solar storm to improve space weather forecasts",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Multiple_spacecraft_track_evolving_solar_storm_to_improve_space_weather_forecasts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/solar-weather-forecasts-current-spacecraft-2026-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 14, 2026\r\n\r\n\r\nAt times the sun ejects massive clouds of energetic material into space, and these events can disturb satellites, threaten astronauts and even affect power grids on the ground. Researchers are working to understand how these eruptions travel through the solar system so they can develop reliable space weather forecasts that protect critical technology and infrastructure. \r\n\r\nA team including sc",
-    "published_at": "2026-01-16T11:40:08Z",
-    "updated_at": "2026-01-16T10:37:20.190627Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "e81bd43b-6359-4436-911f-01888c3369ef",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "acdd0fab-b485-4c18-bb6f-c45cb62bdfd7",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35439,
     "title": "GE and Lockheed validate compact rotating detonation ramjet for hypersonic missiles",
     "authors": [
@@ -581,6 +572,35 @@
     "launches": [
       {
         "launch_id": "02700e48-65c6-4a95-8b97-c47152302283",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35444,
+    "title": "Multiple spacecraft track evolving solar storm to improve space weather forecasts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Multiple_spacecraft_track_evolving_solar_storm_to_improve_space_weather_forecasts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/solar-weather-forecasts-current-spacecraft-2026-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 14, 2026\r\n\r\n\r\nAt times the sun ejects massive clouds of energetic material into space, and these events can disturb satellites, threaten astronauts and even affect power grids on the ground. Researchers are working to understand how these eruptions travel through the solar system so they can develop reliable space weather forecasts that protect critical technology and infrastructure. \r\n\r\nA team including sc",
+    "published_at": "2026-01-16T11:40:08Z",
+    "updated_at": "2026-01-16T10:37:20.190627Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "e81bd43b-6359-4436-911f-01888c3369ef",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "acdd0fab-b485-4c18-bb6f-c45cb62bdfd7",
         "provider": "Launch Library 2"
       }
     ],
@@ -1037,26 +1057,6 @@
     "summary": "\"It comes up almost every time that I see him. Continuous human presence and no gap.\"",
     "published_at": "2026-01-15T15:15:15Z",
     "updated_at": "2026-01-15T15:20:07.943706Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35420,
-    "title": "CNES Launches €1 Million AI Space Data Challenge",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/cnes-launches-e1-million-ai-space-data-challenge/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/CNES-Launches-1-Million-Euro-AI-Space-Data-Challenge.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The French space agency CNES and the Île-de-France region, which includes Paris, have partnered to launch a €1 million challenge focused on the use of artificial intelligence to analyse satellite data. Originally announced at the Paris Air Show in June 2025, the challenge forms part of the Île-de-France Region’s AI Challenge framework, launched in 2019 […]\nThe post CNES Launches €1 Million AI Space Data Challenge appeared first on European Spaceflight.",
-    "published_at": "2026-01-15T14:52:29Z",
-    "updated_at": "2026-01-15T15:00:18.610480Z",
     "featured": false,
     "launches": [],
     "events": [],
