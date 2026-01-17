@@ -1,5 +1,52 @@
 [
   {
+    "id": 35470,
+    "title": "White House resubmits NASA deputy administrator nominee",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/white-house-resubmits-nasa-deputy-administrator-nominee/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-2.47.55%E2%80%AFPM-e1733956342623.png?fit=1024%2C584&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe White House has resubmitted a nomination for NASA deputy administrator but is seeking a new nominee for the agency’s chief financial officer.\nThe post White House resubmits NASA deputy administrator nominee appeared first on SpaceNews.",
+    "published_at": "2026-01-17T11:39:49Z",
+    "updated_at": "2026-01-17T11:40:26.883685Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35469,
+    "title": "China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-hit-by-dual-launch-failures-as-long-march-3b-and-ceres-2-debut-mission-fail/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Ceres2-galactic-energy.jpg?fit=1000%2C653&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChina suffered a pair of launch failures Friday, seeing the loss of a classified Shijian satellite and the failed first launch of the Ceres-2 rocket\nThe post China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail appeared first on SpaceNews.",
+    "published_at": "2026-01-17T10:34:47Z",
+    "updated_at": "2026-01-17T10:40:26.383428Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35468,
     "title": "Arianespace to launch first Ariane 64 rocket on 12 Feb",
     "authors": [
@@ -514,6 +561,35 @@
     "detailed_news": ""
   },
   {
+    "id": 35444,
+    "title": "Multiple spacecraft track evolving solar storm to improve space weather forecasts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Multiple_spacecraft_track_evolving_solar_storm_to_improve_space_weather_forecasts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/solar-weather-forecasts-current-spacecraft-2026-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 14, 2026\r\n\r\n\r\nAt times the sun ejects massive clouds of energetic material into space, and these events can disturb satellites, threaten astronauts and even affect power grids on the ground. Researchers are working to understand how these eruptions travel through the solar system so they can develop reliable space weather forecasts that protect critical technology and infrastructure. \r\n\r\nA team including sc",
+    "published_at": "2026-01-16T11:40:08Z",
+    "updated_at": "2026-01-16T10:37:20.190627Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "e81bd43b-6359-4436-911f-01888c3369ef",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "acdd0fab-b485-4c18-bb6f-c45cb62bdfd7",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35439,
     "title": "GE and Lockheed validate compact rotating detonation ramjet for hypersonic missiles",
     "authors": [
@@ -572,35 +648,6 @@
     "launches": [
       {
         "launch_id": "02700e48-65c6-4a95-8b97-c47152302283",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35444,
-    "title": "Multiple spacecraft track evolving solar storm to improve space weather forecasts",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Multiple_spacecraft_track_evolving_solar_storm_to_improve_space_weather_forecasts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/solar-weather-forecasts-current-spacecraft-2026-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 14, 2026\r\n\r\n\r\nAt times the sun ejects massive clouds of energetic material into space, and these events can disturb satellites, threaten astronauts and even affect power grids on the ground. Researchers are working to understand how these eruptions travel through the solar system so they can develop reliable space weather forecasts that protect critical technology and infrastructure. \r\n\r\nA team including sc",
-    "published_at": "2026-01-16T11:40:08Z",
-    "updated_at": "2026-01-16T10:37:20.190627Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "e81bd43b-6359-4436-911f-01888c3369ef",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "acdd0fab-b485-4c18-bb6f-c45cb62bdfd7",
         "provider": "Launch Library 2"
       }
     ],
@@ -1019,46 +1066,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35422,
-    "title": "Parsons buys Altamira for $375 million to expand space and intelligence portfolio",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/parsons-buys-altamira-for-375-million-to-expand-space-and-intelligence-portfolio/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-24-at-3.11.45-PM.png?fit=1024%2C561&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe acquisition brings missile-warning and space data analytics capabilities\nThe post Parsons buys Altamira for $375 million to expand space and intelligence portfolio appeared first on SpaceNews.",
-    "published_at": "2026-01-15T15:36:33Z",
-    "updated_at": "2026-01-15T15:40:22.725539Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35421,
-    "title": "Key Senate staffer is “begging” NASA to get on with commercial space stations",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/01/key-senate-staffer-is-begging-nasa-to-get-on-with-commercial-space-stations/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/51814201006_e93b98b15e_k.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"It comes up almost every time that I see him. Continuous human presence and no gap.\"",
-    "published_at": "2026-01-15T15:15:15Z",
-    "updated_at": "2026-01-15T15:20:07.943706Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
