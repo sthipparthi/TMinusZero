@@ -1,5 +1,65 @@
 [
   {
+    "id": 35478,
+    "title": "What’s Happening in Space Policy January 18-24, 2026",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-18-24-2026/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/01/Artemis-2-rolling-out-best-Jan-17-26-200x300.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of January 18-24, 2026 and any insight we can offer about them. The House is in session this week. […]",
+    "published_at": "2026-01-18T20:56:43Z",
+    "updated_at": "2026-01-18T21:00:26.493085Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35477,
+    "title": "Space Science in 2026: New lunar explorers, Mars missions, and space telescopes",
+    "authors": [
+      {
+        "name": "Martijn Luinstra",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/01/space-science-2026-preview/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/2026-science-preview.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "With many missions on the manifest, the new year promises to be packed with space…\nThe post Space Science in 2026: New lunar explorers, Mars missions, and space telescopes appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-01-18T20:46:57Z",
+    "updated_at": "2026-01-18T20:50:13.493556Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35476,
+    "title": "Live coverage: Space Falcon 9 rocket counting down to Starlink delivery mission",
+    "authors": [
+      {
+        "name": "Steven Young",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/01/18/live-coverage-space-falcon-9-rocket-counting-down-to-starlink-delivery-mission/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260118-Starlink-pre-deploy-Feature-Image.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "SpaceX will continue the expansion of its Starlink internet network with the launch of 29 new satellites. Liftoff from Cape Canaveral in Florida is scheduled for 5:06:10 p.m. EST (2206:10 UTC) Sunday.\n ",
+    "published_at": "2026-01-18T18:14:49Z",
+    "updated_at": "2026-01-18T18:20:28.810421Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35475,
     "title": "Eutelsat signs OneWeb launch deal with MaiaSpace",
     "authors": [
@@ -999,73 +1059,6 @@
     "summary": "The Senate passed a second minibus of three FY2026 appropriations bills this afternoon that includes the Commerce-Justice-Science (CJS) bill, which funds NASA and NOAA. It is the final congressional step […]",
     "published_at": "2026-01-16T00:59:58Z",
     "updated_at": "2026-01-16T01:00:26.249125Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35430,
-    "title": "Congress passes minibus spending bill that rejects proposed NASA cuts",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/congress-passes-minibus-spending-bill-that-rejects-proposed-nasa-cuts/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2015/06/us_capitol_nasa_1040.jpg?fit=1024%2C771&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nCongress has approved a fiscal year 2026 spending bill that largely restores funding proposed for deep cuts to NASA while canceling one major mission.\nThe post Congress passes minibus spending bill that rejects proposed NASA cuts appeared first on SpaceNews.",
-    "published_at": "2026-01-16T00:40:51Z",
-    "updated_at": "2026-01-16T00:50:21.139289Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35429,
-    "title": "NASA Adds Two F-15 Aircraft to Support Supersonic Flight Research",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasa-adds-two-f-15-aircraft-to-support-supersonic-flight-research/",
-    "image_url": "https://images-assets.nasa.gov/image/AFRC2025-0190-14/AFRC2025-0190-14~large.jpg",
-    "news_site": "NASA",
-    "summary": "Two retired U.S. Air Force F-15 jets have joined the flight research fleet at NASA’s Armstrong Flight Research Center in Edwards, California, transitioning from military service to a new role enabling breakthrough advancements in aerospace. The F-15s will support supersonic flight research for NASA’s Flight Demonstrations and Capabilities project, including testing for the Quesst mission’s […]",
-    "published_at": "2026-01-15T20:58:45Z",
-    "updated_at": "2026-01-15T21:00:14.654916Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35428,
-    "title": "NASA’s SpaceX Crew-11 Wraps Up Space Station Science",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-11-wraps-up-space-station-science/",
-    "image_url": "https://images-assets.nasa.gov/image/iss074e0046389/iss074e0046389~large.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s SpaceX Crew-11 mission with agency astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov returned to Earth after a long-duration mission aboard the International Space Station. During their stay, Cardman, Fincke, and Yui contributed more than 850 hours of research to help prepare humanity […]",
-    "published_at": "2026-01-15T20:37:23Z",
-    "updated_at": "2026-01-15T20:40:13.278778Z",
     "featured": false,
     "launches": [],
     "events": [],
