@@ -1,6 +1,6 @@
 {
-  "count": 7,
-  "last_updated": "2026-01-19T06:03:15.229802Z",
+  "count": 6,
+  "last_updated": "2026-01-19T12:02:35.392966Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (7 failed/unavailable)"
+    "Empty AI summaries (6 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "878c07cc-73db-4be6-8492-42f2890a498a",
-      "name": "Long March 12 | Unknown Payload",
-      "status": "Go",
-      "net": "2026-01-19T07:48:00Z",
-      "window_start": "2026-01-19T07:41:00Z",
-      "window_end": "2026-01-19T08:08:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Commercial LC-2, Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-2",
-      "location": "Wenchang Space Launch Site, People's Republic of China",
-      "rocket": "Long March 12",
-      "rocket_config_description": "The Long March 12 carrier rocket is a Chinese medium-lift launch vehicle currently under development by the Shanghai Academy of Spaceflight Technology, using kerosene and liquid oxygen as propellant. It will be capable of placing at least 10 tonnes of payload in low Earth orbit and at least 6 tonnes in a 700 km Sun-synchronous orbit.",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 12",
-      "rocket_config_total_launch_count": 4,
-      "rocket_config_successful_launches": 4,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 570,
-      "rocket_manufacturer_successful_launches": 556,
-      "rocket_manufacturer_failed_launches": 14,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/878c07cc-73db-4be6-8492-42f2890a498a/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "50a682c6-1da0-4859-a163-4182c7619178",
       "name": "Electron | The Cosmos Will See You Now (Open Cosmos Constellation Launch 1)",
@@ -321,7 +280,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 7,
-    "total_launches": 7
+    "empty_summaries": 6,
+    "total_launches": 6
   }
 }
