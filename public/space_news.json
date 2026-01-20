@@ -1,5 +1,72 @@
 [
   {
+    "id": 35506,
+    "title": "Gilmour Space raises $146 million",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/gilmour-space-raises-146-million/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Eris_Testflight1.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAustralian launch vehicle and satellite manufacturer Gilmour Space Technologies has raised its largest funding round to date to scale up rocket and spacecraft production.\nThe post Gilmour Space raises $146 million appeared first on SpaceNews.",
+    "published_at": "2026-01-20T11:34:23Z",
+    "updated_at": "2026-01-20T11:40:29.559820Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35505,
+    "title": "Jaclyn Kagey Shapes Humanity’s Return to the Moon",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/jaclyn-kagey-shapes-humanitys-return-to-the-moon/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/4-nb2-9930-a.jpg",
+    "news_site": "NASA",
+    "summary": "For Jaclyn Kagey, helping astronauts put boots on the Moon is part of her daily work.  As the Artemis III extravehicular activity lead in NASA’s Flight Operations Directorate, Kagey plays a central role in preparing astronauts for humanity’s return to the lunar surface.   She helps define how astronauts will work on the Moon, from planning detailed spacewalk […]",
+    "published_at": "2026-01-20T11:00:00Z",
+    "updated_at": "2026-01-20T11:00:10.222963Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35504,
+    "title": "ArianeGroup Appoints Safran’s Christophe Bruneau as Next CEO",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/arianegroup-appoints-safrans-christophe-bruneau-as-next-ceo/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/ArianeGroup-Appoints-Safrans-Christophe-Bruneau-as-Next-CEO.webp",
+    "news_site": "European Spaceflight",
+    "summary": "ArianeGroup, jointly owned by Airbus and Safran, has announced that its Board of Directors has appointed Christophe Bruneau as CEO, succeeding Martin Sion, who has held the role since April 2023. Bruneau joins ArianeGroup from Safran Aircraft Engines, where he has served as Executive Vice President and General Manager of the company’s Military Engines division […]\nThe post ArianeGroup Appoints Safran’s Christophe Bruneau as Next CEO appeared first on European Spaceflight.",
+    "published_at": "2026-01-20T09:07:50Z",
+    "updated_at": "2026-01-20T09:10:28.638211Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35503,
     "title": "Damaged DSN antenna out of service until May",
     "authors": [
@@ -107,26 +174,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35497,
-    "title": "NASA must act now to ensure U.S. leadership in space",
-    "authors": [
-      {
-        "name": "Walt Faulconer",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/art2-slscloseupvab.jpeg?fit=1024%2C899&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nJared Isaacman made something unmistakably clear during his confirmation hearing as NASA Administrator: time is not on America’s side. The United States is no longer alone in deep space ambition, and the race to return humans to the moon is strategic, geopolitical and urgent — not just symbolic. China has declared its intent with regards […]\nThe post NASA must act now to ensure U.S. leadership in space appeared first on SpaceNews.",
-    "published_at": "2026-01-19T14:00:00Z",
-    "updated_at": "2026-01-19T14:00:34.715514Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35498,
     "title": "Rocket roll",
     "authors": [
@@ -141,6 +188,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-01-19T14:00:00Z",
     "updated_at": "2026-01-19T14:10:19.281559Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35497,
+    "title": "NASA must act now to ensure U.S. leadership in space",
+    "authors": [
+      {
+        "name": "Walt Faulconer",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/art2-slscloseupvab.jpeg?fit=1024%2C899&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nJared Isaacman made something unmistakably clear during his confirmation hearing as NASA Administrator: time is not on America’s side. The United States is no longer alone in deep space ambition, and the race to return humans to the moon is strategic, geopolitical and urgent — not just symbolic. China has declared its intent with regards […]\nThe post NASA must act now to ensure U.S. leadership in space appeared first on SpaceNews.",
+    "published_at": "2026-01-19T14:00:00Z",
+    "updated_at": "2026-01-19T14:00:34.715514Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -227,20 +294,190 @@
     "detailed_news": ""
   },
   {
-    "id": 35487,
-    "title": "China Sky Eye tracks binary-triggered fast radio burst activity",
+    "id": 35488,
+    "title": "Atomic 6 debris shields selected for Portal Space Systems mission",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/China_Sky_Eye_tracks_binary_triggered_fast_radio_burst_activity_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/coronal-mass-ejection-magnetised-plasma-cloud-fast-radio-bursts-binary-origin-scenario-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Atomic_6_debris_shields_selected_for_Portal_Space_Systems_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-orbital-junk-yard-debris-satellites-repair-refuel-artwork-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nAn international team of astronomers has obtained the first decisive evidence that at least some fast radio bursts originate in binary stellar systems rather than from isolated objects. The work centers on an active repeating fast radio burst source about 2.5 billion light years away that shows a sudden and transient change in its magnetic environment consistent with material expelled from a ste",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAtomic-6 has secured a key deployment of its Space Armor tiles as the primary micrometeoroid and orbital debris protection system on an upcoming Portal Space Systems spacecraft that will fly on SpaceX's Transporter 18 rideshare mission in October 2026 aboard a Falcon 9 rocket. The flight will mark the first operational orbital deployment of Space Armor tiles, moving the material from earlier tes",
     "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.227191Z",
+    "updated_at": "2026-01-19T08:50:20.242343Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35481,
+    "title": "Galactic Energy conducts sixth offshore Ceres 1 mission from Yellow Sea platform",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Galactic_Energy_conducts_sixth_offshore_Ceres_1_mission_from_Yellow_Sea_platform_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-galactic-space-ceres-1-carrier-rocket-offshore-shandong-sea-launch-platform-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Beijing, China (SPX) Jan 19, 2026\r\n\r\n\r\nGalactic Energy has carried out its sixth sea based mission of the Ceres 1 solid fuel launcher, adding four more spacecraft to the Tianqi commercial internet of things constellation. \r\n\r\nThe latest Ceres 1 lifted off at 4:10 a.m. local time from a mobile offshore platform positioned in the Yellow Sea off Shandong province in eastern China, placing its payload into low Earth orbit about 850 kil",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T09:27:09.688547Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ea2d97bc-a834-4904-b579-6a1e1f7a9c54",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35490,
+    "title": "Keck backed team advances first graviton detector concept",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Keck_backed_team_advances_first_graviton_detector_concept_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/graviton-quantum-building-blocks-gravity-laser-illuminated-superfluid-helium-bars-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nModern physics faces a deep inconsistency between quantum theory, which explains nature using discrete particles and interactions, and general relativity, which describes gravity as a smooth curvature of space and time. For gravity to fit into a unified quantum framework, it must be mediated by particles called gravitons, but detecting even a single graviton was long considered fundamentally imp",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T08:50:20.269986Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35480,
+    "title": "China tests Long March 12B reusable first stage at Jiuquan",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/China_tests_Long_March_12B_reusable_first_stage_at_Jiuquan_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-space-long-march-12b-launch-pad-engine-test-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\r\n\r\n\r\nChina Aerospace Science and Technology Corp has carried out a static firing test of the first stage of its new Long March 12B reusable carrier rocket at the Jiuquan Satellite Launch Center in Northwest China. \r\n\r\nThe company said engines on the Long March 12B first stage were ignited on Friday afternoon and sustained combustion for a period while ground teams monitored performance and control",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T09:26:06.393328Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "459225a2-dc1a-43d7-8c2c-78f9552b0a05",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35486,
+    "title": "Iron bar of hot plasma revealed inside Ring Nebula",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Iron_bar_of_hot_plasma_revealed_inside_Ring_Nebula_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/weave-lifu-emission-line-images-ring-nebula-iron-bar-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London, UK (SPX) Jan 19, 2026\n\n\nAstronomers using a powerful new multi-object spectrograph on the William Herschel Telescope have uncovered a previously unknown bar-shaped cloud of ionised iron inside the famous Ring Nebula. The structure, described in Monthly Notices of the Royal Astronomical Society, stretches across the inner region of the nebula and contains a mass of iron atoms comparable to the mass of Mars. \n\nThe Ri",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T08:50:20.212340Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35491,
+    "title": "ExoAnalytic tools to power FireSat wildfire monitoring constellation",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/ExoAnalytic_tools_to_power_FireSat_wildfire_monitoring_constellation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/earth-fire-alliance-logo-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nExoAnalytic Solutions Inc. has been selected to develop advanced software and visualization tools for the Earth Fire Alliance FireSat program, an emerging satellite constellation designed specifically to serve the global wildfire community. The company, which focuses on space and defense technologies, will provide capabilities aimed at improving how FireSat data is presented and used by frontlin",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T08:50:20.288379Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35483,
+    "title": "Computer models let scientists peer into the mystery beneath Jupiter's clouds",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Computer_models_let_scientists_peer_into_the_mystery_beneath_Jupiters_clouds_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/colourful-swirling-cloud-belts-dominate-jupiter-southern-hemisphere-juno-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Chicago IL (SPX) Jan 19, 2026\n\n\nSpectacular clouds swirl across the surface of Jupiter. These clouds contain water, just like Earth's, but are much denser on the gas giant--so thick that no spacecraft has been able to measure exactly what lies beneath. \n\nBut a new study led by University of Chicago and Jet Propulsion Lab scientists has given us a deeper look at the planet by creating the most complete model to date of Jupi",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T08:50:20.166980Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35479,
+    "title": "Interstellar raises major Series F funding to expand launch and satellite business",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Interstellar_raises_major_Series_F_funding_to_expand_launch_and_satellite_business_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/interstellar-technologies-first-launch-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nInterstellar Technologies, a privately held Japanese space infrastructure company, has completed a Series F funding round totaling 20.1 billion JPY (approximately 129.7 million USD) through a third-party allotment of new shares to a group of domestic financial and strategic investors. \n\nThe company states that this latest round brings its cumulative funding to 44.6 billion JPY (about 287.7 m",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T08:50:20.091811Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35484,
+    "title": "Laser timing tech sharpens black hole radio views",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Laser_timing_tech_sharpens_black_hole_radio_views_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/meerkat-mysterious-milky-way-object-neutron-star-black-hole-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nRadio telescopes capture faint radio signals from space and convert them into images of distant celestial objects, but resolving black holes sharply requires many instruments to observe in perfect synchrony as if they were a single giant dish. \n\nTo meet this challenge, a KAIST led collaboration has implemented a reference signal system that sends an optical frequency comb laser directly into",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T08:50:20.182067Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -297,111 +534,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35479,
-    "title": "Interstellar raises major Series F funding to expand launch and satellite business",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Interstellar_raises_major_Series_F_funding_to_expand_launch_and_satellite_business_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/interstellar-technologies-first-launch-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nInterstellar Technologies, a privately held Japanese space infrastructure company, has completed a Series F funding round totaling 20.1 billion JPY (approximately 129.7 million USD) through a third-party allotment of new shares to a group of domestic financial and strategic investors. \n\nThe company states that this latest round brings its cumulative funding to 44.6 billion JPY (about 287.7 m",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.091811Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35486,
-    "title": "Iron bar of hot plasma revealed inside Ring Nebula",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Iron_bar_of_hot_plasma_revealed_inside_Ring_Nebula_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/weave-lifu-emission-line-images-ring-nebula-iron-bar-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Jan 19, 2026\n\n\nAstronomers using a powerful new multi-object spectrograph on the William Herschel Telescope have uncovered a previously unknown bar-shaped cloud of ionised iron inside the famous Ring Nebula. The structure, described in Monthly Notices of the Royal Astronomical Society, stretches across the inner region of the nebula and contains a mass of iron atoms comparable to the mass of Mars. \n\nThe Ri",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.212340Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35480,
-    "title": "China tests Long March 12B reusable first stage at Jiuquan",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/China_tests_Long_March_12B_reusable_first_stage_at_Jiuquan_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-space-long-march-12b-launch-pad-engine-test-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\r\n\r\n\r\nChina Aerospace Science and Technology Corp has carried out a static firing test of the first stage of its new Long March 12B reusable carrier rocket at the Jiuquan Satellite Launch Center in Northwest China. \r\n\r\nThe company said engines on the Long March 12B first stage were ignited on Friday afternoon and sustained combustion for a period while ground teams monitored performance and control",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T09:26:06.393328Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "459225a2-dc1a-43d7-8c2c-78f9552b0a05",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35484,
-    "title": "Laser timing tech sharpens black hole radio views",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Laser_timing_tech_sharpens_black_hole_radio_views_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/meerkat-mysterious-milky-way-object-neutron-star-black-hole-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nRadio telescopes capture faint radio signals from space and convert them into images of distant celestial objects, but resolving black holes sharply requires many instruments to observe in perfect synchrony as if they were a single giant dish. \n\nTo meet this challenge, a KAIST led collaboration has implemented a reference signal system that sends an optical frequency comb laser directly into",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.182067Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35488,
-    "title": "Atomic 6 debris shields selected for Portal Space Systems mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Atomic_6_debris_shields_selected_for_Portal_Space_Systems_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-orbital-junk-yard-debris-satellites-repair-refuel-artwork-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAtomic-6 has secured a key deployment of its Space Armor tiles as the primary micrometeoroid and orbital debris protection system on an upcoming Portal Space Systems spacecraft that will fly on SpaceX's Transporter 18 rideshare mission in October 2026 aboard a Falcon 9 rocket. The flight will mark the first operational orbital deployment of Space Armor tiles, moving the material from earlier tes",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.242343Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35489,
     "title": "China lofts AlSat 3A imaging craft for Algeria",
     "authors": [
@@ -427,85 +559,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35483,
-    "title": "Computer models let scientists peer into the mystery beneath Jupiter's clouds",
+    "id": 35487,
+    "title": "China Sky Eye tracks binary-triggered fast radio burst activity",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Computer_models_let_scientists_peer_into_the_mystery_beneath_Jupiters_clouds_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/colourful-swirling-cloud-belts-dominate-jupiter-southern-hemisphere-juno-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/China_Sky_Eye_tracks_binary_triggered_fast_radio_burst_activity_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/coronal-mass-ejection-magnetised-plasma-cloud-fast-radio-bursts-binary-origin-scenario-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Chicago IL (SPX) Jan 19, 2026\n\n\nSpectacular clouds swirl across the surface of Jupiter. These clouds contain water, just like Earth's, but are much denser on the gas giant--so thick that no spacecraft has been able to measure exactly what lies beneath. \n\nBut a new study led by University of Chicago and Jet Propulsion Lab scientists has given us a deeper look at the planet by creating the most complete model to date of Jupi",
+    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nAn international team of astronomers has obtained the first decisive evidence that at least some fast radio bursts originate in binary stellar systems rather than from isolated objects. The work centers on an active repeating fast radio burst source about 2.5 billion light years away that shows a sudden and transient change in its magnetic environment consistent with material expelled from a ste",
     "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.166980Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35491,
-    "title": "ExoAnalytic tools to power FireSat wildfire monitoring constellation",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.terradaily.com/reports/ExoAnalytic_tools_to_power_FireSat_wildfire_monitoring_constellation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/earth-fire-alliance-logo-splash-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nExoAnalytic Solutions Inc. has been selected to develop advanced software and visualization tools for the Earth Fire Alliance FireSat program, an emerging satellite constellation designed specifically to serve the global wildfire community. The company, which focuses on space and defense technologies, will provide capabilities aimed at improving how FireSat data is presented and used by frontlin",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.288379Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35481,
-    "title": "Galactic Energy conducts sixth offshore Ceres 1 mission from Yellow Sea platform",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Galactic_Energy_conducts_sixth_offshore_Ceres_1_mission_from_Yellow_Sea_platform_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-galactic-space-ceres-1-carrier-rocket-offshore-shandong-sea-launch-platform-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Beijing, China (SPX) Jan 19, 2026\r\n\r\n\r\nGalactic Energy has carried out its sixth sea based mission of the Ceres 1 solid fuel launcher, adding four more spacecraft to the Tianqi commercial internet of things constellation. \r\n\r\nThe latest Ceres 1 lifted off at 4:10 a.m. local time from a mobile offshore platform positioned in the Yellow Sea off Shandong province in eastern China, placing its payload into low Earth orbit about 850 kil",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T09:27:09.688547Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "ea2d97bc-a834-4904-b579-6a1e1f7a9c54",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35490,
-    "title": "Keck backed team advances first graviton detector concept",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Keck_backed_team_advances_first_graviton_detector_concept_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/graviton-quantum-building-blocks-gravity-laser-illuminated-superfluid-helium-bars-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nModern physics faces a deep inconsistency between quantum theory, which explains nature using discrete particles and interactions, and general relativity, which describes gravity as a smooth curvature of space and time. For gravity to fit into a unified quantum framework, it must be mediated by particles called gravitons, but detecting even a single graviton was long considered fundamentally imp",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.269986Z",
+    "updated_at": "2026-01-19T08:50:20.227191Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -961,71 +1028,6 @@
     "summary": "NASA’s Crew-11 mission splashed down safely off the coast of California at 3:41 AM Eastern time early Thursday morning, one",
     "published_at": "2026-01-16T17:54:11Z",
     "updated_at": "2026-01-16T18:00:38.156270Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35457,
-    "title": "Live coverage: NRO, SpaceX to launch reconnaissance satellites from Vandenberg",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/01/16/live-coverage-nro-spacex-to-launch-reconnaissance-satellites-from-vandenberg/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260115_NRO_proliferated_architecture_patch.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The NROL-105 mission is the first of about a dozen missions planned for 2026 that support the NRO’s so-called proliferated architecture satellite constellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 8:18 p.m. PST (11:18 p.m. EST / 0418 UTC).",
-    "published_at": "2026-01-16T16:53:05Z",
-    "updated_at": "2026-01-16T17:19:36.816857Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "1cdbe42e-22bb-470e-9107-edcc4c902ee5",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35456,
-    "title": "AO-Resistant Material Boosts VLEO Satellite Longevity",
-    "authors": [
-      {
-        "name": "Deposition Sciences, Inc.",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/ao-resistant-material-boosts-vleo-satellite-longevity/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/23-10192-Jackson-Jaida-Deposition-Services-Inc-FAVICON.png?fit=277%2C277&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nDeposition Sciences, Inc. (DSI), a wholly owned subsidiary of Lockheed Martin, specializes in advanced materials and optical coatings. For over 20 years, they’ve been producing their Sunshade® thermal control material, […]\nThe post AO-Resistant Material Boosts VLEO Satellite Longevity appeared first on SpaceNews.",
-    "published_at": "2026-01-16T15:21:42Z",
-    "updated_at": "2026-01-16T15:30:18.498297Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35455,
-    "title": "Out of This World Discoveries: Space Station Research in 2025",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/station/iss-research/out-of-this-world-discoveries-space-station-research-in-2025/",
-    "image_url": "https://images-assets.nasa.gov/image/iss073e0028436/iss073e0028436~large.jpg",
-    "news_site": "NASA",
-    "summary": "As Earth completed its orbit around the Sun to close out 2025, the International Space Station circled our planet more than 5,800 times. Serving as humanity’s unique laboratory in space, the station has hosted thousands of experiments and technology demonstrations, advancing science in ways that cannot be replicated on Earth. In 2025 alone, more than […]",
-    "published_at": "2026-01-16T15:00:00Z",
-    "updated_at": "2026-01-16T15:00:14.630733Z",
     "featured": false,
     "launches": [],
     "events": [],
