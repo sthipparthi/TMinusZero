@@ -1,5 +1,25 @@
 [
   {
+    "id": 35533,
+    "title": "Fires Erupt in South-Central Chile",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/fires-erupt-in-south-central-chile/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-erupt-in-south-central-chile/chilefires_tmo_20250118.jpg",
+    "news_site": "NASA",
+    "summary": "Tens of thousands of people fled to safety as blazes spread throughout the country’s Biobío and Ñuble regions.",
+    "published_at": "2026-01-21T05:01:00Z",
+    "updated_at": "2026-01-21T05:10:13.052810Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35532,
     "title": "Webb has given us with a stunning new view of a well-known planetary nebula",
     "authors": [
@@ -290,27 +310,22 @@
     "detailed_news": ""
   },
   {
-    "id": 35517,
-    "title": "Intricacies of Helix Nebula Revealed With NASA’s Webb",
+    "id": 35515,
+    "title": "Commercial Space Federation (CSF) Welcomes 3 New Associate Members",
     "authors": [
       {
-        "name": "NASA",
+        "name": "Commercial Space Federation",
         "socials": null
       }
     ],
-    "url": "https://science.nasa.gov/missions/webb/intricacies-of-helix-nebula-revealed-with-nasas-webb/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ.png",
-    "news_site": "NASA",
-    "summary": "NASA’s James Webb Space Telescope has zoomed into the Helix Nebula to give an up-close view of the possible eventual fate of our own Sun and planetary system. In Webb’s high-resolution look, the structure of the gas being shed off by a dying star comes into full focus. The image reveals how stars recycle their […]",
+    "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-3-new-associate-members/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/commercial-space-federation-csf-square.png?fit=900%2C901&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nJanuary 20, 2026 – Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome Max Space, Slingshot Aerospace, and Muon Space. Together, these companies strengthen CSF’s advocacy efforts across space […]\nThe post Commercial Space Federation (CSF) Welcomes 3 New Associate Members appeared first on SpaceNews.",
     "published_at": "2026-01-20T15:00:00Z",
-    "updated_at": "2026-01-20T15:50:29.702032Z",
+    "updated_at": "2026-01-20T15:01:09.459249Z",
     "featured": false,
-    "launches": [
-      {
-        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
-        "provider": "Launch Library 2"
-      }
-    ],
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -340,22 +355,27 @@
     "detailed_news": ""
   },
   {
-    "id": 35515,
-    "title": "Commercial Space Federation (CSF) Welcomes 3 New Associate Members",
+    "id": 35517,
+    "title": "Intricacies of Helix Nebula Revealed With NASA’s Webb",
     "authors": [
       {
-        "name": "Commercial Space Federation",
+        "name": "NASA",
         "socials": null
       }
     ],
-    "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-3-new-associate-members/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/commercial-space-federation-csf-square.png?fit=900%2C901&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nJanuary 20, 2026 – Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome Max Space, Slingshot Aerospace, and Muon Space. Together, these companies strengthen CSF’s advocacy efforts across space […]\nThe post Commercial Space Federation (CSF) Welcomes 3 New Associate Members appeared first on SpaceNews.",
+    "url": "https://science.nasa.gov/missions/webb/intricacies-of-helix-nebula-revealed-with-nasas-webb/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ.png",
+    "news_site": "NASA",
+    "summary": "NASA’s James Webb Space Telescope has zoomed into the Helix Nebula to give an up-close view of the possible eventual fate of our own Sun and planetary system. In Webb’s high-resolution look, the structure of the gas being shed off by a dying star comes into full focus. The image reveals how stars recycle their […]",
     "published_at": "2026-01-20T15:00:00Z",
-    "updated_at": "2026-01-20T15:01:09.459249Z",
+    "updated_at": "2026-01-20T15:50:29.702032Z",
     "featured": false,
-    "launches": [],
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -806,26 +826,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35486,
-    "title": "Iron bar of hot plasma revealed inside Ring Nebula",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Iron_bar_of_hot_plasma_revealed_inside_Ring_Nebula_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/weave-lifu-emission-line-images-ring-nebula-iron-bar-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Jan 19, 2026\n\n\nAstronomers using a powerful new multi-object spectrograph on the William Herschel Telescope have uncovered a previously unknown bar-shaped cloud of ionised iron inside the famous Ring Nebula. The structure, described in Monthly Notices of the Royal Astronomical Society, stretches across the inner region of the nebula and contains a mass of iron atoms comparable to the mass of Mars. \n\nThe Ri",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.212340Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35484,
     "title": "Laser timing tech sharpens black hole radio views",
     "authors": [
@@ -866,46 +866,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35488,
-    "title": "Atomic 6 debris shields selected for Portal Space Systems mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Atomic_6_debris_shields_selected_for_Portal_Space_Systems_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-orbital-junk-yard-debris-satellites-repair-refuel-artwork-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAtomic-6 has secured a key deployment of its Space Armor tiles as the primary micrometeoroid and orbital debris protection system on an upcoming Portal Space Systems spacecraft that will fly on SpaceX's Transporter 18 rideshare mission in October 2026 aboard a Falcon 9 rocket. The flight will mark the first operational orbital deployment of Space Armor tiles, moving the material from earlier tes",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.242343Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35479,
-    "title": "Interstellar raises major Series F funding to expand launch and satellite business",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Interstellar_raises_major_Series_F_funding_to_expand_launch_and_satellite_business_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/interstellar-technologies-first-launch-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nInterstellar Technologies, a privately held Japanese space infrastructure company, has completed a Series F funding round totaling 20.1 billion JPY (approximately 129.7 million USD) through a third-party allotment of new shares to a group of domestic financial and strategic investors. \n\nThe company states that this latest round brings its cumulative funding to 44.6 billion JPY (about 287.7 m",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.091811Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35489,
     "title": "China lofts AlSat 3A imaging craft for Algeria",
     "authors": [
@@ -931,40 +891,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35483,
-    "title": "Computer models let scientists peer into the mystery beneath Jupiter's clouds",
+    "id": 35486,
+    "title": "Iron bar of hot plasma revealed inside Ring Nebula",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Computer_models_let_scientists_peer_into_the_mystery_beneath_Jupiters_clouds_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/colourful-swirling-cloud-belts-dominate-jupiter-southern-hemisphere-juno-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Iron_bar_of_hot_plasma_revealed_inside_Ring_Nebula_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/weave-lifu-emission-line-images-ring-nebula-iron-bar-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Chicago IL (SPX) Jan 19, 2026\n\n\nSpectacular clouds swirl across the surface of Jupiter. These clouds contain water, just like Earth's, but are much denser on the gas giant--so thick that no spacecraft has been able to measure exactly what lies beneath. \n\nBut a new study led by University of Chicago and Jet Propulsion Lab scientists has given us a deeper look at the planet by creating the most complete model to date of Jupi",
+    "summary": "London, UK (SPX) Jan 19, 2026\n\n\nAstronomers using a powerful new multi-object spectrograph on the William Herschel Telescope have uncovered a previously unknown bar-shaped cloud of ionised iron inside the famous Ring Nebula. The structure, described in Monthly Notices of the Royal Astronomical Society, stretches across the inner region of the nebula and contains a mass of iron atoms comparable to the mass of Mars. \n\nThe Ri",
     "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.166980Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35491,
-    "title": "ExoAnalytic tools to power FireSat wildfire monitoring constellation",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.terradaily.com/reports/ExoAnalytic_tools_to_power_FireSat_wildfire_monitoring_constellation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/earth-fire-alliance-logo-splash-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nExoAnalytic Solutions Inc. has been selected to develop advanced software and visualization tools for the Earth Fire Alliance FireSat program, an emerging satellite constellation designed specifically to serve the global wildfire community. The company, which focuses on space and defense technologies, will provide capabilities aimed at improving how FireSat data is presented and used by frontlin",
-    "published_at": "2026-01-19T09:56:59Z",
-    "updated_at": "2026-01-19T08:50:20.288379Z",
+    "updated_at": "2026-01-19T08:50:20.212340Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -1001,6 +941,46 @@
     "detailed_news": ""
   },
   {
+    "id": 35483,
+    "title": "Computer models let scientists peer into the mystery beneath Jupiter's clouds",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Computer_models_let_scientists_peer_into_the_mystery_beneath_Jupiters_clouds_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/colourful-swirling-cloud-belts-dominate-jupiter-southern-hemisphere-juno-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Chicago IL (SPX) Jan 19, 2026\n\n\nSpectacular clouds swirl across the surface of Jupiter. These clouds contain water, just like Earth's, but are much denser on the gas giant--so thick that no spacecraft has been able to measure exactly what lies beneath. \n\nBut a new study led by University of Chicago and Jet Propulsion Lab scientists has given us a deeper look at the planet by creating the most complete model to date of Jupi",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T08:50:20.166980Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35488,
+    "title": "Atomic 6 debris shields selected for Portal Space Systems mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Atomic_6_debris_shields_selected_for_Portal_Space_Systems_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-orbital-junk-yard-debris-satellites-repair-refuel-artwork-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAtomic-6 has secured a key deployment of its Space Armor tiles as the primary micrometeoroid and orbital debris protection system on an upcoming Portal Space Systems spacecraft that will fly on SpaceX's Transporter 18 rideshare mission in October 2026 aboard a Falcon 9 rocket. The flight will mark the first operational orbital deployment of Space Armor tiles, moving the material from earlier tes",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T08:50:20.242343Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35480,
     "title": "China tests Long March 12B reusable first stage at Jiuquan",
     "authors": [
@@ -1022,6 +1002,26 @@
         "provider": "Launch Library 2"
       }
     ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35487,
+    "title": "China Sky Eye tracks binary-triggered fast radio burst activity",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/China_Sky_Eye_tracks_binary_triggered_fast_radio_burst_activity_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/coronal-mass-ejection-magnetised-plasma-cloud-fast-radio-bursts-binary-origin-scenario-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nAn international team of astronomers has obtained the first decisive evidence that at least some fast radio bursts originate in binary stellar systems rather than from isolated objects. The work centers on an active repeating fast radio burst source about 2.5 billion light years away that shows a sudden and transient change in its magnetic environment consistent with material expelled from a ste",
+    "published_at": "2026-01-19T09:56:59Z",
+    "updated_at": "2026-01-19T08:50:20.227191Z",
+    "featured": false,
+    "launches": [],
     "events": [],
     "detailed_news": ""
   }
