@@ -1,5 +1,225 @@
 [
   {
+    "id": 35585,
+    "title": "Snow Buries Kamchatka",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/snow-buries-kamchatka/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/snow-buries-kamchatka/kamchatkasnow_amo_20260117.jpg",
+    "news_site": "NASA",
+    "summary": "December and January brought a series of intense winter storms to the peninsula in far eastern Russia.",
+    "published_at": "2026-01-22T05:01:00Z",
+    "updated_at": "2026-01-22T05:10:05.716110Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35578,
+    "title": "Sentinel 2A trials reveal unexpected night sensing capability",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Sentinel_2A_trials_reveal_unexpected_night_sensing_capability_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/wildfire-india-sentinel-2a-nighttime-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Jan 21, 2026\n\n\nAfter more than 10 years in orbit, the first Copernicus Sentinel 2 satellite, Sentinel 2A, is still finding new ways to contribute to Earth observation as engineers push the mission beyond its original remit. \n\nWith Sentinel 2B and Sentinel 2C now leading the core task of delivering high resolution, camera like images of Earths surface, Sentinel 2A is being used as a test platform to explore",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.714105Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35580,
+    "title": "Keysight joins Airbus UpNext SpaceRAN project to advance 5G satellite NTN",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Keysight_joins_Airbus_UpNext_SpaceRAN_project_to_advance_5G_satellite_NTN_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/keysight-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nKeysight Technologies is collaborating on the Airbus UpNext SpaceRAN demonstrator to explore 5G non-terrestrial network capabilities using software-defined satellite technology in both ground and in-orbit scenarios. The initiative focuses on using a Low Earth Orbit satellite platform to test how next generation satellite payloads can support emerging 5G services from space. \n\nThe project add",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.748640Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35577,
+    "title": "Comtech wins multi-million dollar follow-on contract for civil space components",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Comtech_wins_multi_million_dollar_follow_on_contract_for_civil_space_components_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/comtech-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nComtech Telecommunications Corp. has received a follow-on space components award valued at more than 5 million dollars to support a major civil space exploration program in the United States. The award underlines the companys role as a global communications technology supplier to both commercial and government space customers. \n\nUnder the contract, Comtech will deliver advanced electronic co",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.680906Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35575,
+    "title": "AST SpaceMobile secures role on MDA SHIELD defense architecture",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-mda-shield-program-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAST SpaceMobile has been selected for a prime contract position on the U.S. Missile Defense Agency Scalable Homeland Innovative Enterprise Layered Defense, or SHIELD, program, placing its space-based cellular broadband architecture inside a key U.S. missile defense modernization effort. The indefinite-delivery, indefinite-quantity framework is designed to rapidly deliver new capabilities across",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.624609Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35579,
+    "title": "Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/teledyne-imaging-sensors-blackcat-speedster-hyvisi-hybrid-visible-silicon-imager-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\nTeledyne Technologies has confirmed that its Space Imaging division has successfully deployed Speedster HyViSI Hybrid Visible Silicon Imager focal plane arrays aboard NASAs BlackCAT CubeSat mission, which launched on January 11, 2026 on a SpaceX Twilight rideshare flight. The mission, led by Pennsylvania State University, places an x ray observatory on a Cub",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.731508Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35582,
+    "title": "2025 was third hottest year on record: EU, US experts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/2025_was_third_hottest_year_on_record_EU_US_experts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/heatwave-spix-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Brussels, Belgium (AFP) Jan 14, 2026\n\n\n The planet logged its third hottest year on record in 2025, extending a run of unprecedented heat, with no relief expected in 2026, US researchers and EU climate monitors said Wednesday. \n\nThe last 11 years have now been the warmest ever recorded, with 2024 topping the podium and 2023 in second place, according to the EU's Copernicus Climate Change Service and Berkeley Earth, a California-base",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.775906Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35581,
+    "title": "Energy learning algorithm boosts complex UAV swarm tasking",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Energy_learning_algorithm_boosts_complex_UAV_swarm_tasking_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uav-hyper-heuristic-algorithm-cooperative-task-assignment-heterogeneous-drones-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nWith unmanned aerial vehicles now common across modern military and security operations, planners face increasing pressure to assign heterogeneous drone swarms to complex mission sets without wasting time or resources. A new study in the journal Defence Technology reports an energy learning hyper-heuristic algorithm that tackles cooperative task assignment under multiple operational constraints.",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.763944Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35583,
+    "title": "Perovskite betavoltaic cell sets record efficiency using carbon 14 source",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.energy-daily.com/reports/Perovskite_betavoltaic_cell_sets_record_efficiency_using_carbon_14_source_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/dgist-carbon-14-perovskite-betavoltaics-nuclear-battery-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 13, 2026\n\n\nA research team at DGIST has developed a perovskite based self powered betavoltaic battery that achieves what they report as the worlds highest conversion efficiency for this class of device while maintaining long term operational stability. The work targets applications that require continuous reliable power without external charging, such as artificial intelligence systems, internet of things",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.787988Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35576,
+    "title": "Slingshot to embed AI agent in US Space Force space warfare training",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/slingshot-aerospace-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nSlingshot Aerospace has secured a 27 million dollar contract to modernize how the US Space Force trains for conflict in orbit by embedding its TALOS AI agent into the service's Operational Test and Training Infrastructure program. The 18 month effort will integrate AI native technology into existing training capabilities so that exercises more accurately reflect the rapidly evolving orbital thre",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.657623Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35584,
+    "title": "Crew-11 Enthusiastic Despite Early Return",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/crew-11-enthusiastic-despite-early-return/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/01/Crew11-post-flight-presser-2-Jan-21-26-300x208.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The four members of Crew-11 met with reporters today to discuss their nearly six-month mission aboard the International Space Station. Such news conferences are routine, but this time the crew […]",
+    "published_at": "2026-01-22T02:08:51Z",
+    "updated_at": "2026-01-22T02:10:14.599178Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35574,
     "title": "NASA astronaut stuck in space for nine months retires",
     "authors": [
@@ -466,26 +686,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35549,
-    "title": "Mercury and Earth chorus waves show shared plasma behavior across magnetospheres",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Mercury_and_Earth_chorus_waves_show_shared_plasma_behavior_across_magnetospheres_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mercury-magnetospheric-orbiter-mio-bepicolombo-geotail-planetary-magnetospheres-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 21, 2026\n\n\nAn international team has shown that natural electromagnetic chorus waves, long known in Earths magnetosphere, also occur in Mercurys much weaker magnetosphere with strikingly similar frequency behavior. The work uses coordinated observations from the BepiColombo Mercury Magnetospheric Orbiter Mio during six Mercury flybys between 2021 and 2025, together with decades of data from Earths GEOTAIL",
-    "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.836913Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35541,
     "title": "Lunar impacts limit late delivery of Earth ocean water",
     "authors": [
@@ -520,6 +720,26 @@
     "summary": "Berlin, Germany (SPX) Jan 21, 2026\n\n\nAstronomers have assembled the most detailed view so far of planetary systems in a long elusive stage between their birth and maturity, using the Atacama Large Millimeter/submillimeter Array (ALMA) in Chile. The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) has produced the sharpest images yet of 24 debris discs, the dusty belts that remain once the main phase of planet formation is",
     "published_at": "2026-01-21T13:11:03Z",
     "updated_at": "2026-01-21T12:00:14.912689Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35543,
+    "title": "Polar weather on Jupiter and Saturn hints at the planets' interior details",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Polar_weather_on_Jupiter_and_Saturn_hints_at_the_planets_interior_details_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/jupiter-north-north-temperate-belt-region-high-altitude-cloud-formation-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Boston MA (SPX) Jan 21, 2026\n\n\nOver the years, passing spacecraft have observed mystifying weather patterns at the poles of Jupiter and Saturn. The two planets host very different types of polar vortices, which are huge atmospheric whirlpools that rotate over a planet's polar region. On Saturn, a single massive polar vortex appears to cap the north pole in a curiously hexagonal shape, while on Jupiter, a central polar vortex",
+    "published_at": "2026-01-21T13:11:03Z",
+    "updated_at": "2026-01-21T12:00:14.637302Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -566,26 +786,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35543,
-    "title": "Polar weather on Jupiter and Saturn hints at the planets' interior details",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Polar_weather_on_Jupiter_and_Saturn_hints_at_the_planets_interior_details_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/jupiter-north-north-temperate-belt-region-high-altitude-cloud-formation-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Boston MA (SPX) Jan 21, 2026\n\n\nOver the years, passing spacecraft have observed mystifying weather patterns at the poles of Jupiter and Saturn. The two planets host very different types of polar vortices, which are huge atmospheric whirlpools that rotate over a planet's polar region. On Saturn, a single massive polar vortex appears to cap the north pole in a curiously hexagonal shape, while on Jupiter, a central polar vortex",
-    "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.637302Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35539,
     "title": "Stratolaunch secures major funding to scale hypersonic flight services",
     "authors": [
@@ -600,6 +800,26 @@
     "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nStratolaunch has completed a significant capital raise to accelerate the growth of its hypersonic test and flight services business, adding Elliott Investment Management L.P. as a new investor alongside existing backer Cerberus Capital Management, L.P. The new funding is intended to rapidly expand Stratolaunch's role in the American defense industrial base through higher production rates and mor",
     "published_at": "2026-01-21T13:11:03Z",
     "updated_at": "2026-01-21T12:00:14.495223Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35549,
+    "title": "Mercury and Earth chorus waves show shared plasma behavior across magnetospheres",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Mercury_and_Earth_chorus_waves_show_shared_plasma_behavior_across_magnetospheres_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mercury-magnetospheric-orbiter-mio-bepicolombo-geotail-planetary-magnetospheres-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 21, 2026\n\n\nAn international team has shown that natural electromagnetic chorus waves, long known in Earths magnetosphere, also occur in Mercurys much weaker magnetosphere with strikingly similar frequency behavior. The work uses coordinated observations from the BepiColombo Mercury Magnetospheric Orbiter Mio during six Mercury flybys between 2021 and 2025, together with decades of data from Earths GEOTAIL",
+    "published_at": "2026-01-21T13:11:03Z",
+    "updated_at": "2026-01-21T12:00:14.836913Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -774,236 +994,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35561,
-    "title": "ESA at the European Space Conference 2026",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Exhibitions/ESA_at_the_European_Space_Conference_2026",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/esa_at_the_european_space_conference/27073924-1-eng-GB/ESA_at_the_European_Space_Conference_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The 18th European Space Conference (ESC) will take place on 27 and 28 January 2026 at the Square Convention Centre in Brussels, Belgium.",
-    "published_at": "2026-01-21T10:00:00Z",
-    "updated_at": "2026-01-21T16:10:21.262912Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35536,
-    "title": "Artificial intelligence in manufacturing rocket parts",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Artificial_intelligence_in_manufacturing_rocket_parts",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/friction_stir_welding_machine_at_mt_aerospace/27074439-3-eng-GB/Friction_stir_welding_machine_at_MT_Aerospace_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-01-21T08:27:00Z",
-    "updated_at": "2026-01-21T09:50:11.973235Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35535,
-    "title": "Magnetic avalanches power solar flares, finds Solar Orbiter",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Magnetic_avalanches_power_solar_flares_finds_Solar_Orbiter",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/unleashing_a_solar_flare/27073719-1-eng-GB/Unleashing_a_solar_flare_card_full.png",
-    "news_site": "ESA",
-    "summary": "Just as avalanches on snowy mountains start with the movement of a small quantity of snow, the ESA-led Solar Orbiter spacecraft has discovered that a solar flare is triggered by initially weak disturbances that quickly become more violent. This rapidly evolving process creates a ‘sky’ of raining plasma blobs that continue to fall even after the flare subsides.",
-    "published_at": "2026-01-21T08:00:00Z",
-    "updated_at": "2026-01-21T08:27:01.387943Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "acdd0fab-b485-4c18-bb6f-c45cb62bdfd7",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35534,
-    "title": "Legs made for a Mars landing",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Legs_made_for_a_Mars_landing",
-    "image_url": "https://www.esa.int/extension/pillars/design/pillars/images/nebula_b.jpg",
-    "news_site": "ESA",
-    "summary": "To land on the right foot on the Red Planet, European engineers have been dropping a skeleton of the four-legged ExoMars descent module at various speeds and heights on simulated martian surfaces.",
-    "published_at": "2026-01-21T07:50:00Z",
-    "updated_at": "2026-01-21T08:26:55.988452Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35533,
-    "title": "Fires Erupt in South-Central Chile",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/fires-erupt-in-south-central-chile/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-erupt-in-south-central-chile/chilefires_tmo_20250118.jpg",
-    "news_site": "NASA",
-    "summary": "Tens of thousands of people fled to safety as blazes spread throughout the country’s Biobío and Ñuble regions.",
-    "published_at": "2026-01-21T05:01:00Z",
-    "updated_at": "2026-01-21T05:10:13.052810Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35532,
-    "title": "Webb has given us with a stunning new view of a well-known planetary nebula",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/STScI-01KCMAMZ8ZSMRTR9KKD8Y6EMRJ.png",
-    "news_site": "Arstechnica",
-    "summary": "The colors show the star’s final breath transforming into the raw ingredients for new worlds.",
-    "published_at": "2026-01-20T23:33:57Z",
-    "updated_at": "2026-01-20T23:40:04.665682Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35531,
-    "title": "NASA’s Day of Remembrance Honors Fallen Heroes of Exploration",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration-2/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/dorjan25.jpg",
-    "news_site": "NASA",
-    "summary": "NASA will observe its annual Day of Remembrance on Thursday, Jan. 22, which includes commemorating the crews of Apollo 1 and the space shuttles Challenger and Columbia. The event is traditionally held every year on the fourth Thursday of January, as all three astronaut accidents happened around the end of the month. “On NASA’s Day […]",
-    "published_at": "2026-01-20T23:17:06Z",
-    "updated_at": "2026-01-20T23:20:06.436197Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35530,
-    "title": "Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/defense-appropriations-bill-for-2026-funds-space-force-at-26-billion-presses-pentagon-on-golden-dome/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/9479852-scaled-e1768946417433.jpg?fit=1024%2C630&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\n‘Minibus’ shifts money to GPS, backs commercial services and cuts proposed MILNET constellation\nThe post Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome appeared first on SpaceNews.",
-    "published_at": "2026-01-20T22:05:28Z",
-    "updated_at": "2026-01-20T22:10:31.061913Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35529,
-    "title": "NASA Astronaut Suni Williams Retires",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-astronaut-suni-williams-retires/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/suni-williams-portrait.jpg",
-    "news_site": "NASA",
-    "summary": "After 27 years of service, NASA astronaut Suni Williams retired from the agency, effective Dec. 27, 2025. Williams completed three missions aboard the International Space Station, setting numerous human spaceflight records throughout her career. “Suni Williams has been a trailblazer in human spaceflight, shaping the future of exploration through her leadership aboard the space station […]",
-    "published_at": "2026-01-20T21:57:32Z",
-    "updated_at": "2026-01-20T22:00:10.422547Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35527,
-    "title": "New NASA Artemis Payloads To Study Moon’s Terrain, Radiation, History",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/new-nasa-artemis-payloads-to-study-moons-terrain-radiation-history/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "news_site": "NASA",
-    "summary": "NASA announced Tuesday the selection of three new science investigations that will strengthen humanity’s understanding and exploration of the Moon. As part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign, American companies will deliver these research payloads to the lunar surface no earlier than 2028. “With CLPS, NASA has been taking […]",
-    "published_at": "2026-01-20T21:21:59Z",
-    "updated_at": "2026-01-20T21:30:07.820161Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35528,
-    "title": "Space Foundation to Host Innovate Space: Finance Forum in Partnership With Texas Space Commission",
-    "authors": [
-      {
-        "name": "Space Foundation",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-foundation-to-host-innovate-space-finance-forum-in-partnership-with-texas-space-commission/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/FinanceForum500x500.png?fit=500%2C500&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nCOLORADO SPRINGS, Colo. — Jan. 15, 2026 — Space Foundation, a nonprofit organization founded in 1983 to advance the global space community, today announced it will host Innovate Space: Finance […]\nThe post Space Foundation to Host Innovate Space: Finance Forum in Partnership With Texas Space Commission appeared first on SpaceNews.",
-    "published_at": "2026-01-20T21:21:49Z",
-    "updated_at": "2026-01-20T21:30:22.622778Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
