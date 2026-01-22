@@ -1,5 +1,110 @@
 [
   {
+    "id": 35594,
+    "title": "Blue Origin makes impressive strides with reuse—next launch will refly booster",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-bird.jpg",
+    "news_site": "Arstechnica",
+    "summary": "With this quick turnaround, Blue Origin takes a step toward a faster cadence.",
+    "published_at": "2026-01-22T17:49:24Z",
+    "updated_at": "2026-01-22T18:00:05.187889Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35593,
+    "title": "L3Harris to supply imager for Korean geostationary weather satellite",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/l3harris-to-supply-imager-for-korean-geostationary-weather-satellite/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/rsz_7da9328e40c124ff88740c579e4588a4_1747204434474.png?fit=892%2C525&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nTAHOE CITY, Calif. — L3Harris Technologies will provide the primary imagery for the Korean Meteorological Administration’s (KMA) next-generation geostationary weather satellite. The contract, awarded to L3Harris by Korean aerospace manufacturer […]\nThe post L3Harris to supply imager for Korean geostationary weather satellite appeared first on SpaceNews.",
+    "published_at": "2026-01-22T17:30:01Z",
+    "updated_at": "2026-01-22T17:30:22.404837Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35592,
+    "title": "NASA AI Model That Found 370 Exoplanets Now Digs Into TESS Data",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/open-science/deep-learning-exoplanets-tess/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/hubbleart_67.jpg",
+    "news_site": "NASA",
+    "summary": "Trained on data from NASA’s exoplanet-hunting missions, the open-source ExoMiner++ deep learning model uses an advanced algorithm to validate new planets.",
+    "published_at": "2026-01-22T14:00:48Z",
+    "updated_at": "2026-01-22T15:49:23.610393Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ca4e796d-f3e4-4b80-b2f7-f7fd6a7b325f",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35591,
+    "title": "Tomorrow.io unveils DeepSky: constellation of large satellites and instruments",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/rsz_3hur_erin.png?fit=879%2C587&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Weather intelligence startup Tomorrow.io unveiled DeepSky, a satellite constellation designed to refine atmospheric forecasts by gathering the vast quantities of data needed to feed artificial intelligence models. […]\nThe post Tomorrow.io unveils DeepSky: constellation of large satellites and instruments appeared first on SpaceNews.",
+    "published_at": "2026-01-22T13:00:00Z",
+    "updated_at": "2026-01-22T13:10:26.181605Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35590,
+    "title": "CNES Awards Loft Orbital Contract for French Radar Imaging Demo",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/cnes-awards-loft-orbital-contract-for-french-radar-imaging-demo/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/CNES-Awards-Loft-Orbital-Contract-for-French-Radar-Imaging-Demo.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The French space agency CNES awarded a contract to a consortium led by Loft Orbital to develop a synthetic aperture radar (SAR) imagery demonstrator. According to the company, the aim of the project is to foster the development of a “national radar imaging value chain.” Announced by Loft Orbital and consortium partner Thales Alenia Space […]\nThe post CNES Awards Loft Orbital Contract for French Radar Imaging Demo appeared first on European Spaceflight.",
+    "published_at": "2026-01-22T12:34:27Z",
+    "updated_at": "2026-01-22T12:40:26.752836Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35588,
     "title": "Rocket Lab suffers Neutron testing setback",
     "authors": [
@@ -127,20 +232,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35577,
-    "title": "Comtech wins multi-million dollar follow-on contract for civil space components",
+    "id": 35576,
+    "title": "Slingshot to embed AI agent in US Space Force space warfare training",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Comtech_wins_multi_million_dollar_follow_on_contract_for_civil_space_components_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/comtech-logo-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/slingshot-aerospace-logo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nComtech Telecommunications Corp. has received a follow-on space components award valued at more than 5 million dollars to support a major civil space exploration program in the United States. The award underlines the companys role as a global communications technology supplier to both commercial and government space customers. \n\nUnder the contract, Comtech will deliver advanced electronic co",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nSlingshot Aerospace has secured a 27 million dollar contract to modernize how the US Space Force trains for conflict in orbit by embedding its TALOS AI agent into the service's Operational Test and Training Infrastructure program. The 18 month effort will integrate AI native technology into existing training capabilities so that exercises more accurately reflect the rapidly evolving orbital thre",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.680906Z",
+    "updated_at": "2026-01-22T01:20:11.657623Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -167,80 +272,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35575,
-    "title": "AST SpaceMobile secures role on MDA SHIELD defense architecture",
+    "id": 35581,
+    "title": "Energy learning algorithm boosts complex UAV swarm tasking",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-mda-shield-program-splash-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Energy_learning_algorithm_boosts_complex_UAV_swarm_tasking_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uav-hyper-heuristic-algorithm-cooperative-task-assignment-heterogeneous-drones-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAST SpaceMobile has been selected for a prime contract position on the U.S. Missile Defense Agency Scalable Homeland Innovative Enterprise Layered Defense, or SHIELD, program, placing its space-based cellular broadband architecture inside a key U.S. missile defense modernization effort. The indefinite-delivery, indefinite-quantity framework is designed to rapidly deliver new capabilities across",
+    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nWith unmanned aerial vehicles now common across modern military and security operations, planners face increasing pressure to assign heterogeneous drone swarms to complex mission sets without wasting time or resources. A new study in the journal Defence Technology reports an energy learning hyper-heuristic algorithm that tackles cooperative task assignment under multiple operational constraints.",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.624609Z",
+    "updated_at": "2026-01-22T01:20:11.763944Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35579,
-    "title": "Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission",
+    "id": 35577,
+    "title": "Comtech wins multi-million dollar follow-on contract for civil space components",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/teledyne-imaging-sensors-blackcat-speedster-hyvisi-hybrid-visible-silicon-imager-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Comtech_wins_multi_million_dollar_follow_on_contract_for_civil_space_components_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/comtech-logo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\nTeledyne Technologies has confirmed that its Space Imaging division has successfully deployed Speedster HyViSI Hybrid Visible Silicon Imager focal plane arrays aboard NASAs BlackCAT CubeSat mission, which launched on January 11, 2026 on a SpaceX Twilight rideshare flight. The mission, led by Pennsylvania State University, places an x ray observatory on a Cub",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nComtech Telecommunications Corp. has received a follow-on space components award valued at more than 5 million dollars to support a major civil space exploration program in the United States. The award underlines the companys role as a global communications technology supplier to both commercial and government space customers. \n\nUnder the contract, Comtech will deliver advanced electronic co",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.731508Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35576,
-    "title": "Slingshot to embed AI agent in US Space Force space warfare training",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/slingshot-aerospace-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nSlingshot Aerospace has secured a 27 million dollar contract to modernize how the US Space Force trains for conflict in orbit by embedding its TALOS AI agent into the service's Operational Test and Training Infrastructure program. The 18 month effort will integrate AI native technology into existing training capabilities so that exercises more accurately reflect the rapidly evolving orbital thre",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.657623Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35580,
-    "title": "Keysight joins Airbus UpNext SpaceRAN project to advance 5G satellite NTN",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Keysight_joins_Airbus_UpNext_SpaceRAN_project_to_advance_5G_satellite_NTN_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/keysight-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nKeysight Technologies is collaborating on the Airbus UpNext SpaceRAN demonstrator to explore 5G non-terrestrial network capabilities using software-defined satellite technology in both ground and in-orbit scenarios. The initiative focuses on using a Low Earth Orbit satellite platform to test how next generation satellite payloads can support emerging 5G services from space. \n\nThe project add",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.748640Z",
+    "updated_at": "2026-01-22T01:20:11.680906Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -267,20 +332,60 @@
     "detailed_news": ""
   },
   {
-    "id": 35581,
-    "title": "Energy learning algorithm boosts complex UAV swarm tasking",
+    "id": 35575,
+    "title": "AST SpaceMobile secures role on MDA SHIELD defense architecture",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Energy_learning_algorithm_boosts_complex_UAV_swarm_tasking_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uav-hyper-heuristic-algorithm-cooperative-task-assignment-heterogeneous-drones-bg.jpg",
+    "url": "https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-mda-shield-program-splash-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nWith unmanned aerial vehicles now common across modern military and security operations, planners face increasing pressure to assign heterogeneous drone swarms to complex mission sets without wasting time or resources. A new study in the journal Defence Technology reports an energy learning hyper-heuristic algorithm that tackles cooperative task assignment under multiple operational constraints.",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAST SpaceMobile has been selected for a prime contract position on the U.S. Missile Defense Agency Scalable Homeland Innovative Enterprise Layered Defense, or SHIELD, program, placing its space-based cellular broadband architecture inside a key U.S. missile defense modernization effort. The indefinite-delivery, indefinite-quantity framework is designed to rapidly deliver new capabilities across",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.763944Z",
+    "updated_at": "2026-01-22T01:20:11.624609Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35580,
+    "title": "Keysight joins Airbus UpNext SpaceRAN project to advance 5G satellite NTN",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Keysight_joins_Airbus_UpNext_SpaceRAN_project_to_advance_5G_satellite_NTN_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/keysight-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nKeysight Technologies is collaborating on the Airbus UpNext SpaceRAN demonstrator to explore 5G non-terrestrial network capabilities using software-defined satellite technology in both ground and in-orbit scenarios. The initiative focuses on using a Low Earth Orbit satellite platform to test how next generation satellite payloads can support emerging 5G services from space. \n\nThe project add",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.748640Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35579,
+    "title": "Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/teledyne-imaging-sensors-blackcat-speedster-hyvisi-hybrid-visible-silicon-imager-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\nTeledyne Technologies has confirmed that its Space Imaging division has successfully deployed Speedster HyViSI Hybrid Visible Silicon Imager focal plane arrays aboard NASAs BlackCAT CubeSat mission, which launched on January 11, 2026 on a SpaceX Twilight rideshare flight. The mission, led by Pennsylvania State University, places an x ray observatory on a Cub",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.731508Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -307,26 +412,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35574,
-    "title": "NASA astronaut stuck in space for nine months retires",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_astronaut_stuck_in_space_for_nine_months_retires_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/international-space-station-astrobee-reacch-technology-demonstration-suni-williams-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Jan 21, 2026\n\n\n A NASA astronaut who was stuck in space for nine months because of problems with her spacecraft has retired after 27 years of service, the space agency said Tuesday. \n\nSuni Williams stepped down from her post on December 27 - making her ill-fated mission her last journey to space. \n\nWilliams and fellow astronaut Barry \"Butch\" Wilmore set out on an eight-day mission in June 2024 to test fly",
-    "published_at": "2026-01-22T00:54:12Z",
-    "updated_at": "2026-01-21T23:50:17.793087Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35573,
     "title": "Elon Musk hints at buying Ryanair amid Starlink spat",
     "authors": [
@@ -341,6 +426,26 @@
     "summary": "Dublin (AFP) Jan 20, 2026\n\n US tech boss Elon Musk has polled followers on his social network X about buying Ryanair, stoking a clash with the airline's boss Michael O'Leary over using the Starlink system onboard to use the internet. \n\nBy late Tuesday, lowcost carrier Ryanair had not replied to a request from AFP to respond to the poll that was posted Monday, with more than 900,000 participants. \n\nMusk, who founded Tes",
     "published_at": "2026-01-22T00:54:12Z",
     "updated_at": "2026-01-21T23:50:17.758082Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35574,
+    "title": "NASA astronaut stuck in space for nine months retires",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_astronaut_stuck_in_space_for_nine_months_retires_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/international-space-station-astrobee-reacch-technology-demonstration-suni-williams-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington, United States (AFP) Jan 21, 2026\n\n\n A NASA astronaut who was stuck in space for nine months because of problems with her spacecraft has retired after 27 years of service, the space agency said Tuesday. \n\nSuni Williams stepped down from her post on December 27 - making her ill-fated mission her last journey to space. \n\nWilliams and fellow astronaut Barry \"Butch\" Wilmore set out on an eight-day mission in June 2024 to test fly",
+    "published_at": "2026-01-22T00:54:12Z",
+    "updated_at": "2026-01-21T23:50:17.793087Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -626,6 +731,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35558,
+    "title": "Accelerating digital transformation is the keystone to deterring space war",
+    "authors": [
+      {
+        "name": "David Logsdon and Eric Felt",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/accelerating-digital-transformation-is-the-keystone-to-deterring-space-war/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/8059034-scaled.jpg?fit=1024%2C861&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe United States cannot beat China without accelerating digital transformation: cloud-native services, edge computing, AI/ML-driven autonomy, software-defined payloads, zero-trust cybersecurity, network maneuver and automated DevSecOps pipelines. Digital transformation drives the pace at which militaries convert data into decisions, and decision dominance enables proactive deterrence.  Choices made today about software, data, resilience and partnerships will therefore […]\nThe post Accelerating digital transformation is the keystone to deterring space war appeared first on SpaceNews.",
+    "published_at": "2026-01-21T14:00:00Z",
+    "updated_at": "2026-01-21T14:10:13.920202Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35557,
     "title": "Starfish Space wins SDA contract to deorbit satellites",
     "authors": [
@@ -653,26 +778,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35558,
-    "title": "Accelerating digital transformation is the keystone to deterring space war",
-    "authors": [
-      {
-        "name": "David Logsdon and Eric Felt",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/accelerating-digital-transformation-is-the-keystone-to-deterring-space-war/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/8059034-scaled.jpg?fit=1024%2C861&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe United States cannot beat China without accelerating digital transformation: cloud-native services, edge computing, AI/ML-driven autonomy, software-defined payloads, zero-trust cybersecurity, network maneuver and automated DevSecOps pipelines. Digital transformation drives the pace at which militaries convert data into decisions, and decision dominance enables proactive deterrence.  Choices made today about software, data, resilience and partnerships will therefore […]\nThe post Accelerating digital transformation is the keystone to deterring space war appeared first on SpaceNews.",
-    "published_at": "2026-01-21T14:00:00Z",
-    "updated_at": "2026-01-21T14:10:13.920202Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35556,
     "title": "The Exploration Company in Talks to Buy UK Rocket Builder Orbex",
     "authors": [
@@ -693,20 +798,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35547,
-    "title": "Quantum collapse models point to subtle limits in timekeeping accuracy",
+    "id": 35548,
+    "title": "Cosmic dust chemistry forges peptide building blocks in deep space",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Quantum_collapse_models_point_to_subtle_limits_in_timekeeping_accuracy_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/twitch-in-time-graphic-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Cosmic_dust_chemistry_forges_peptide_building_blocks_in_deep_space_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/peptides-icy-layers-cosmic-dust-grains-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nQuantum mechanics describes a microscopic world in which particles exist in a superposition of states, being in multiple places and configurations at once, encoded in a mathematical object called a wavefunction. But this picture clashes with everyday experience, where objects appear in definite locations and configurations, never in superpositions. \n\nTo account for this, standard quantum the",
+    "summary": "Berlin, Germany (SPX) Jan 21, 2026\n\n\nNew experiments show that key molecular building blocks for life can form spontaneously on icy dust grains in deep space long before planets emerge from collapsing gas clouds. \n\nIn a laboratory at Aarhus University and at the HUN-REN Atomki facility in Hungary, researchers Sergio Ioppolo and Alfred Thomas Hopkinson reproduced the extreme conditions in giant interstellar dust clouds, where te",
     "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.756761Z",
+    "updated_at": "2026-01-21T12:00:14.816670Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -733,40 +838,80 @@
     "detailed_news": ""
   },
   {
-    "id": 35545,
-    "title": "Europa ice delamination may deliver nutrients to hidden ocean",
+    "id": 35546,
+    "title": "Study links Europa's quiet seafloor to hidden potential for life",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Europa_ice_delamination_may_deliver_nutrients_to_hidden_ocean_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/jupiter-moons-europa-chaos-terrains-shuttling-oxygen-to-ocean-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Study_links_Europas_quiet_seafloor_to_hidden_potential_for_life_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/black-smoker-piccard-hydrothermal-5000-meters-mid-cayman-rise-whoi-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nA new geophysics study proposes a mechanism that could move life-sustaining nutrients from the battered surface of Europa down into its buried global ocean, improving the odds that the Jovian moon could support microbial life. \n\nEuropa, one of Jupiters largest moons, holds more liquid water beneath its frozen shell than all of Earths oceans combined, but the ocean is sealed away under thick",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nThe giant planet Jupiter has nearly 100 known moons, but none has captured scientific attention quite like Europa, which likely hides a global salty ocean beneath an icy crust that may contain twice as much water as all of Earth's oceans combined. A new modeling study led by Washington University in collaboration with Woods Hole Oceanographic Institution (WHOI) suggests that, despite this ocean,",
     "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.716254Z",
+    "updated_at": "2026-01-21T12:00:14.736834Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35552,
-    "title": "Century-old solar records refine future cycle forecasts",
+    "id": 35547,
+    "title": "Quantum collapse models point to subtle limits in timekeeping accuracy",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Century_old_solar_records_refine_future_cycle_forecasts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/solar-activity-merged-historical-modern-solar-data-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Quantum_collapse_models_point_to_subtle_limits_in_timekeeping_accuracy_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/twitch-in-time-graphic-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nAn international team of astronomers has developed a new way to extract solar polar magnetic information from more than a century of historical observations, improving prospects for predicting future solar cycle activity. The work combines data from the Kodaikanal Solar Observatory in India with modern measurements to reconstruct the behavior of the Sun's polar magnetic field over more than 100",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nQuantum mechanics describes a microscopic world in which particles exist in a superposition of states, being in multiple places and configurations at once, encoded in a mathematical object called a wavefunction. But this picture clashes with everyday experience, where objects appear in definite locations and configurations, never in superpositions. \n\nTo account for this, standard quantum the",
     "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.937035Z",
+    "updated_at": "2026-01-21T12:00:14.756761Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35542,
+    "title": "ExLabs and ChibaTech team up to land student CubeLanders on asteroid Apophis",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ExLabs_and_ChibaTech_team_up_to_land_student_CubeLanders_on_asteroid_Apophis_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/exlabs-commercial-deep-space-rideshare-mission-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\n\nExLabs has partnered with Japan's Chiba Institute of Technology and its Planetary Exploration Research Center to deliver university-led payloads to the surface of asteroid Apophis during its close approach to Earth in 2029. The ApophisExL mission is described as the world's first commercial deep-space rideshare and is supported through mission design and operations collaboration with NASA's Jet",
+    "published_at": "2026-01-21T13:11:03Z",
+    "updated_at": "2026-01-21T12:00:14.615009Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35549,
+    "title": "Mercury and Earth chorus waves show shared plasma behavior across magnetospheres",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Mercury_and_Earth_chorus_waves_show_shared_plasma_behavior_across_magnetospheres_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mercury-magnetospheric-orbiter-mio-bepicolombo-geotail-planetary-magnetospheres-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 21, 2026\n\n\nAn international team has shown that natural electromagnetic chorus waves, long known in Earths magnetosphere, also occur in Mercurys much weaker magnetosphere with strikingly similar frequency behavior. The work uses coordinated observations from the BepiColombo Mercury Magnetospheric Orbiter Mio during six Mercury flybys between 2021 and 2025, together with decades of data from Earths GEOTAIL",
+    "published_at": "2026-01-21T13:11:03Z",
+    "updated_at": "2026-01-21T12:00:14.836913Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -813,66 +958,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35543,
-    "title": "Polar weather on Jupiter and Saturn hints at the planets' interior details",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Polar_weather_on_Jupiter_and_Saturn_hints_at_the_planets_interior_details_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/jupiter-north-north-temperate-belt-region-high-altitude-cloud-formation-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Boston MA (SPX) Jan 21, 2026\n\n\nOver the years, passing spacecraft have observed mystifying weather patterns at the poles of Jupiter and Saturn. The two planets host very different types of polar vortices, which are huge atmospheric whirlpools that rotate over a planet's polar region. On Saturn, a single massive polar vortex appears to cap the north pole in a curiously hexagonal shape, while on Jupiter, a central polar vortex",
-    "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.637302Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35548,
-    "title": "Cosmic dust chemistry forges peptide building blocks in deep space",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Cosmic_dust_chemistry_forges_peptide_building_blocks_in_deep_space_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/peptides-icy-layers-cosmic-dust-grains-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 21, 2026\n\n\nNew experiments show that key molecular building blocks for life can form spontaneously on icy dust grains in deep space long before planets emerge from collapsing gas clouds. \n\nIn a laboratory at Aarhus University and at the HUN-REN Atomki facility in Hungary, researchers Sergio Ioppolo and Alfred Thomas Hopkinson reproduced the extreme conditions in giant interstellar dust clouds, where te",
-    "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.816670Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35540,
-    "title": "Major equity deal backs Gilmour Space expansion of sovereign launch capability",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Major_equity_deal_backs_Gilmour_Space_expansion_of_sovereign_launch_capability_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gilmour-space-technologies-prime-minister-albanese-australia-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\n\nGilmour Space Technologies has raised 217 million Australian dollars in private equity funding to accelerate the next phase of its sovereign space operations in Australia. \n\nThe Series E round was jointly led by the National Reconstruction Fund Corporation (NRFC) and superannuation fund Hostplus, with participation from Future Fund, Blackbird, Funds SA, HESTA, NGS Super, Main Sequence, QIC,",
-    "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.551018Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35539,
     "title": "Stratolaunch secures major funding to scale hypersonic flight services",
     "authors": [
@@ -893,100 +978,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35549,
-    "title": "Mercury and Earth chorus waves show shared plasma behavior across magnetospheres",
+    "id": 35540,
+    "title": "Major equity deal backs Gilmour Space expansion of sovereign launch capability",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Mercury_and_Earth_chorus_waves_show_shared_plasma_behavior_across_magnetospheres_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mercury-magnetospheric-orbiter-mio-bepicolombo-geotail-planetary-magnetospheres-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Major_equity_deal_backs_Gilmour_Space_expansion_of_sovereign_launch_capability_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gilmour-space-technologies-prime-minister-albanese-australia-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 21, 2026\n\n\nAn international team has shown that natural electromagnetic chorus waves, long known in Earths magnetosphere, also occur in Mercurys much weaker magnetosphere with strikingly similar frequency behavior. The work uses coordinated observations from the BepiColombo Mercury Magnetospheric Orbiter Mio during six Mercury flybys between 2021 and 2025, together with decades of data from Earths GEOTAIL",
+    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\n\nGilmour Space Technologies has raised 217 million Australian dollars in private equity funding to accelerate the next phase of its sovereign space operations in Australia. \n\nThe Series E round was jointly led by the National Reconstruction Fund Corporation (NRFC) and superannuation fund Hostplus, with participation from Future Fund, Blackbird, Funds SA, HESTA, NGS Super, Main Sequence, QIC,",
     "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.836913Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35546,
-    "title": "Study links Europa's quiet seafloor to hidden potential for life",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Study_links_Europas_quiet_seafloor_to_hidden_potential_for_life_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/black-smoker-piccard-hydrothermal-5000-meters-mid-cayman-rise-whoi-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nThe giant planet Jupiter has nearly 100 known moons, but none has captured scientific attention quite like Europa, which likely hides a global salty ocean beneath an icy crust that may contain twice as much water as all of Earth's oceans combined. A new modeling study led by Washington University in collaboration with Woods Hole Oceanographic Institution (WHOI) suggests that, despite this ocean,",
-    "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.736834Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35542,
-    "title": "ExLabs and ChibaTech team up to land student CubeLanders on asteroid Apophis",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ExLabs_and_ChibaTech_team_up_to_land_student_CubeLanders_on_asteroid_Apophis_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/exlabs-commercial-deep-space-rideshare-mission-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\n\nExLabs has partnered with Japan's Chiba Institute of Technology and its Planetary Exploration Research Center to deliver university-led payloads to the surface of asteroid Apophis during its close approach to Earth in 2029. The ApophisExL mission is described as the world's first commercial deep-space rideshare and is supported through mission design and operations collaboration with NASA's Jet",
-    "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.615009Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35544,
-    "title": "Birth conditions fixed water contrast on Jupiters moons",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Birth_conditions_fixed_water_contrast_on_Jupiters_moons_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/jupiter-moons-spix-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nWhile Io, the most volcanically active moon in the solar system, appears completely dry and devoid of water ice, its neighbor Europa is thought to harbor a vast global ocean of liquid water beneath an icy crust. A new international study co-led by Aix-Marseille University and Southwest Research Institute finds that this stark contrast in water content was imprinted at birth as the moons formed a",
-    "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.657144Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35555,
-    "title": "U.S. vulnerable to Russian escalation in space, new report warns",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/u-s-vulnerable-to-russian-escalation-in-space-new-report-warns/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/2021-Russian-ASAT-COMPSOC-volumetric.jpeg?fit=1000%2C562&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAtlantic Council report urges shift toward resilient satellite architectures to blunt potential Russian attacks\nThe post U.S. vulnerable to Russian escalation in space, new report warns appeared first on SpaceNews.",
-    "published_at": "2026-01-21T13:00:00Z",
-    "updated_at": "2026-01-21T13:10:43.692765Z",
+    "updated_at": "2026-01-21T12:00:14.551018Z",
     "featured": false,
     "launches": [],
     "events": [],
