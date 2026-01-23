@@ -1,5 +1,85 @@
 [
   {
+    "id": 35606,
+    "title": "Winter Grips the Michigan Mitten",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/winter-grips-the-michigan-mitten/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winter-grips-the-michigan-mitten/greatlakes_cloudstreets_tmo_20260120.jpg",
+    "news_site": "NASA",
+    "summary": "A blanket of snow spanned Michigan and much of the Great Lakes region following a potent cold snap.",
+    "published_at": "2026-01-23T05:00:00Z",
+    "updated_at": "2026-01-23T05:10:07.623913Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35605,
+    "title": "TerraWave enters the scene with lasers and game-changing data speeds",
+    "authors": [
+      {
+        "name": "Ryan Caton and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/01/terrawave-lasers-speeds/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/NSF-2026-01-23-03-45-01-055.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Blue Origin has unveiled TeraWave, an ambitious satellite communications network poised to deliver symmetrical data…\nThe post TerraWave enters the scene with lasers and game-changing data speeds appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-01-23T03:52:41Z",
+    "updated_at": "2026-01-23T04:00:25.267699Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35604,
+    "title": "Eastern Range ready for same day fueling of Space Launch System, Vulcan rockets",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/01/23/eastern-range-ready-for-same-day-fueling-of-space-launch-system-vulcan-rockets/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260122_SLS_Vulcan_split.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Florida’s Space Coast is preparing for a future that could see in excess of 350 launches annually. ",
+    "published_at": "2026-01-23T03:07:01Z",
+    "updated_at": "2026-01-23T03:10:30.103187Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35603,
+    "title": "Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-forces-acquisition-arm-races-to-rebuild-contracting-workforce-after-civilian-cuts/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/260122-X-DC888-1001.jpg?fit=1024%2C735&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nPentagon acquisition reforms and the prospect of a budget surge are colliding with a thinned civilian workforce\nThe post Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts appeared first on SpaceNews.",
+    "published_at": "2026-01-23T00:09:41Z",
+    "updated_at": "2026-01-23T00:10:34.136298Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35602,
     "title": "Blue Origin to reuse New Glenn booster on next launch",
     "authors": [
@@ -400,100 +480,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35576,
-    "title": "Slingshot to embed AI agent in US Space Force space warfare training",
+    "id": 35579,
+    "title": "Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/slingshot-aerospace-logo-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/teledyne-imaging-sensors-blackcat-speedster-hyvisi-hybrid-visible-silicon-imager-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nSlingshot Aerospace has secured a 27 million dollar contract to modernize how the US Space Force trains for conflict in orbit by embedding its TALOS AI agent into the service's Operational Test and Training Infrastructure program. The 18 month effort will integrate AI native technology into existing training capabilities so that exercises more accurately reflect the rapidly evolving orbital thre",
+    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\nTeledyne Technologies has confirmed that its Space Imaging division has successfully deployed Speedster HyViSI Hybrid Visible Silicon Imager focal plane arrays aboard NASAs BlackCAT CubeSat mission, which launched on January 11, 2026 on a SpaceX Twilight rideshare flight. The mission, led by Pennsylvania State University, places an x ray observatory on a Cub",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.657623Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35583,
-    "title": "Perovskite betavoltaic cell sets record efficiency using carbon 14 source",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.energy-daily.com/reports/Perovskite_betavoltaic_cell_sets_record_efficiency_using_carbon_14_source_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/dgist-carbon-14-perovskite-betavoltaics-nuclear-battery-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 13, 2026\n\n\nA research team at DGIST has developed a perovskite based self powered betavoltaic battery that achieves what they report as the worlds highest conversion efficiency for this class of device while maintaining long term operational stability. The work targets applications that require continuous reliable power without external charging, such as artificial intelligence systems, internet of things",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.787988Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35578,
-    "title": "Sentinel 2A trials reveal unexpected night sensing capability",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Sentinel_2A_trials_reveal_unexpected_night_sensing_capability_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/wildfire-india-sentinel-2a-nighttime-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 21, 2026\n\n\nAfter more than 10 years in orbit, the first Copernicus Sentinel 2 satellite, Sentinel 2A, is still finding new ways to contribute to Earth observation as engineers push the mission beyond its original remit. \n\nWith Sentinel 2B and Sentinel 2C now leading the core task of delivering high resolution, camera like images of Earths surface, Sentinel 2A is being used as a test platform to explore",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.714105Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35577,
-    "title": "Comtech wins multi-million dollar follow-on contract for civil space components",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Comtech_wins_multi_million_dollar_follow_on_contract_for_civil_space_components_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/comtech-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nComtech Telecommunications Corp. has received a follow-on space components award valued at more than 5 million dollars to support a major civil space exploration program in the United States. The award underlines the companys role as a global communications technology supplier to both commercial and government space customers. \n\nUnder the contract, Comtech will deliver advanced electronic co",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.680906Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35582,
-    "title": "2025 was third hottest year on record: EU, US experts",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.terradaily.com/reports/2025_was_third_hottest_year_on_record_EU_US_experts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/heatwave-spix-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Brussels, Belgium (AFP) Jan 14, 2026\n\n\n The planet logged its third hottest year on record in 2025, extending a run of unprecedented heat, with no relief expected in 2026, US researchers and EU climate monitors said Wednesday. \n\nThe last 11 years have now been the warmest ever recorded, with 2024 topping the podium and 2023 in second place, according to the EU's Copernicus Climate Change Service and Berkeley Earth, a California-base",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.775906Z",
+    "updated_at": "2026-01-22T01:20:11.731508Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -520,20 +520,60 @@
     "detailed_news": ""
   },
   {
-    "id": 35581,
-    "title": "Energy learning algorithm boosts complex UAV swarm tasking",
+    "id": 35578,
+    "title": "Sentinel 2A trials reveal unexpected night sensing capability",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Energy_learning_algorithm_boosts_complex_UAV_swarm_tasking_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uav-hyper-heuristic-algorithm-cooperative-task-assignment-heterogeneous-drones-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Sentinel_2A_trials_reveal_unexpected_night_sensing_capability_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/wildfire-india-sentinel-2a-nighttime-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nWith unmanned aerial vehicles now common across modern military and security operations, planners face increasing pressure to assign heterogeneous drone swarms to complex mission sets without wasting time or resources. A new study in the journal Defence Technology reports an energy learning hyper-heuristic algorithm that tackles cooperative task assignment under multiple operational constraints.",
+    "summary": "Paris, France (SPX) Jan 21, 2026\n\n\nAfter more than 10 years in orbit, the first Copernicus Sentinel 2 satellite, Sentinel 2A, is still finding new ways to contribute to Earth observation as engineers push the mission beyond its original remit. \n\nWith Sentinel 2B and Sentinel 2C now leading the core task of delivering high resolution, camera like images of Earths surface, Sentinel 2A is being used as a test platform to explore",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.763944Z",
+    "updated_at": "2026-01-22T01:20:11.714105Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35582,
+    "title": "2025 was third hottest year on record: EU, US experts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/2025_was_third_hottest_year_on_record_EU_US_experts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/heatwave-spix-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Brussels, Belgium (AFP) Jan 14, 2026\n\n\n The planet logged its third hottest year on record in 2025, extending a run of unprecedented heat, with no relief expected in 2026, US researchers and EU climate monitors said Wednesday. \n\nThe last 11 years have now been the warmest ever recorded, with 2024 topping the podium and 2023 in second place, according to the EU's Copernicus Climate Change Service and Berkeley Earth, a California-base",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.775906Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35576,
+    "title": "Slingshot to embed AI agent in US Space Force space warfare training",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/slingshot-aerospace-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nSlingshot Aerospace has secured a 27 million dollar contract to modernize how the US Space Force trains for conflict in orbit by embedding its TALOS AI agent into the service's Operational Test and Training Infrastructure program. The 18 month effort will integrate AI native technology into existing training capabilities so that exercises more accurately reflect the rapidly evolving orbital thre",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.657623Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -560,20 +600,60 @@
     "detailed_news": ""
   },
   {
-    "id": 35579,
-    "title": "Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission",
+    "id": 35581,
+    "title": "Energy learning algorithm boosts complex UAV swarm tasking",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/teledyne-imaging-sensors-blackcat-speedster-hyvisi-hybrid-visible-silicon-imager-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Energy_learning_algorithm_boosts_complex_UAV_swarm_tasking_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uav-hyper-heuristic-algorithm-cooperative-task-assignment-heterogeneous-drones-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\nTeledyne Technologies has confirmed that its Space Imaging division has successfully deployed Speedster HyViSI Hybrid Visible Silicon Imager focal plane arrays aboard NASAs BlackCAT CubeSat mission, which launched on January 11, 2026 on a SpaceX Twilight rideshare flight. The mission, led by Pennsylvania State University, places an x ray observatory on a Cub",
+    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nWith unmanned aerial vehicles now common across modern military and security operations, planners face increasing pressure to assign heterogeneous drone swarms to complex mission sets without wasting time or resources. A new study in the journal Defence Technology reports an energy learning hyper-heuristic algorithm that tackles cooperative task assignment under multiple operational constraints.",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.731508Z",
+    "updated_at": "2026-01-22T01:20:11.763944Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35577,
+    "title": "Comtech wins multi-million dollar follow-on contract for civil space components",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Comtech_wins_multi_million_dollar_follow_on_contract_for_civil_space_components_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/comtech-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nComtech Telecommunications Corp. has received a follow-on space components award valued at more than 5 million dollars to support a major civil space exploration program in the United States. The award underlines the companys role as a global communications technology supplier to both commercial and government space customers. \n\nUnder the contract, Comtech will deliver advanced electronic co",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.680906Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35583,
+    "title": "Perovskite betavoltaic cell sets record efficiency using carbon 14 source",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.energy-daily.com/reports/Perovskite_betavoltaic_cell_sets_record_efficiency_using_carbon_14_source_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/dgist-carbon-14-perovskite-betavoltaics-nuclear-battery-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 13, 2026\n\n\nA research team at DGIST has developed a perovskite based self powered betavoltaic battery that achieves what they report as the worlds highest conversion efficiency for this class of device while maintaining long term operational stability. The work targets applications that require continuous reliable power without external charging, such as artificial intelligence systems, internet of things",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.787988Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -600,26 +680,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35573,
-    "title": "Elon Musk hints at buying Ryanair amid Starlink spat",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Elon_Musk_hints_at_buying_Ryanair_amid_Starlink_spat_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/smug-musk-whitehouse-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Dublin (AFP) Jan 20, 2026\n\n US tech boss Elon Musk has polled followers on his social network X about buying Ryanair, stoking a clash with the airline's boss Michael O'Leary over using the Starlink system onboard to use the internet. \n\nBy late Tuesday, lowcost carrier Ryanair had not replied to a request from AFP to respond to the poll that was posted Monday, with more than 900,000 participants. \n\nMusk, who founded Tes",
-    "published_at": "2026-01-22T00:54:12Z",
-    "updated_at": "2026-01-21T23:50:17.758082Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35574,
     "title": "NASA astronaut stuck in space for nine months retires",
     "authors": [
@@ -634,6 +694,26 @@
     "summary": "Washington, United States (AFP) Jan 21, 2026\n\n\n A NASA astronaut who was stuck in space for nine months because of problems with her spacecraft has retired after 27 years of service, the space agency said Tuesday. \n\nSuni Williams stepped down from her post on December 27 - making her ill-fated mission her last journey to space. \n\nWilliams and fellow astronaut Barry \"Butch\" Wilmore set out on an eight-day mission in June 2024 to test fly",
     "published_at": "2026-01-22T00:54:12Z",
     "updated_at": "2026-01-21T23:50:17.793087Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35573,
+    "title": "Elon Musk hints at buying Ryanair amid Starlink spat",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Elon_Musk_hints_at_buying_Ryanair_amid_Starlink_spat_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/smug-musk-whitehouse-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Dublin (AFP) Jan 20, 2026\n\n US tech boss Elon Musk has polled followers on his social network X about buying Ryanair, stoking a clash with the airline's boss Michael O'Leary over using the Starlink system onboard to use the internet. \n\nBy late Tuesday, lowcost carrier Ryanair had not replied to a request from AFP to respond to the poll that was posted Monday, with more than 900,000 participants. \n\nMusk, who founded Tes",
+    "published_at": "2026-01-22T00:54:12Z",
+    "updated_at": "2026-01-21T23:50:17.758082Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -919,26 +999,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35558,
-    "title": "Accelerating digital transformation is the keystone to deterring space war",
-    "authors": [
-      {
-        "name": "David Logsdon and Eric Felt",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/accelerating-digital-transformation-is-the-keystone-to-deterring-space-war/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/8059034-scaled.jpg?fit=1024%2C861&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe United States cannot beat China without accelerating digital transformation: cloud-native services, edge computing, AI/ML-driven autonomy, software-defined payloads, zero-trust cybersecurity, network maneuver and automated DevSecOps pipelines. Digital transformation drives the pace at which militaries convert data into decisions, and decision dominance enables proactive deterrence.  Choices made today about software, data, resilience and partnerships will therefore […]\nThe post Accelerating digital transformation is the keystone to deterring space war appeared first on SpaceNews.",
-    "published_at": "2026-01-21T14:00:00Z",
-    "updated_at": "2026-01-21T14:10:13.920202Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35557,
     "title": "Starfish Space wins SDA contract to deorbit satellites",
     "authors": [
@@ -960,66 +1020,6 @@
     "summary": "\nStarfish Space has won a contract from the Space Development Agency to deorbit satellites in a missile-tracking and communications constellation, evidence that deorbiting services are moving into the mainstream.\nThe post Starfish Space wins SDA contract to deorbit satellites appeared first on SpaceNews.",
     "published_at": "2026-01-21T14:00:00Z",
     "updated_at": "2026-01-21T14:10:13.888180Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35556,
-    "title": "The Exploration Company in Talks to Buy UK Rocket Builder Orbex",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/the-exploration-company-in-talks-to-buy-uk-rocket-builder-orbex/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/The-Exploration-Company-in-Talks-to-Buy-UK-Rocket-Builder-Orbex.webp",
-    "news_site": "European Spaceflight",
-    "summary": "UK-based rocket builder Orbex has signed a letter of intent to sell its business to European space logistics startup The Exploration Company. Orbex was founded in 2015 and is developing a small launch vehicle called Prime. The company also began work on a larger, medium-lift launch vehicle called Proxima in December 2024. On 21 January, […]\nThe post The Exploration Company in Talks to Buy UK Rocket Builder Orbex appeared first on European Spaceflight.",
-    "published_at": "2026-01-21T13:29:42Z",
-    "updated_at": "2026-01-21T13:30:16.395763Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35548,
-    "title": "Cosmic dust chemistry forges peptide building blocks in deep space",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Cosmic_dust_chemistry_forges_peptide_building_blocks_in_deep_space_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/peptides-icy-layers-cosmic-dust-grains-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 21, 2026\n\n\nNew experiments show that key molecular building blocks for life can form spontaneously on icy dust grains in deep space long before planets emerge from collapsing gas clouds. \n\nIn a laboratory at Aarhus University and at the HUN-REN Atomki facility in Hungary, researchers Sergio Ioppolo and Alfred Thomas Hopkinson reproduced the extreme conditions in giant interstellar dust clouds, where te",
-    "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.816670Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35550,
-    "title": "Primordial magnetism offers fresh angle on the Hubble constant puzzle",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Primordial_magnetism_offers_fresh_angle_on_the_Hubble_constant_puzzle_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/hubble-lemaitre-constant-tension-gravity-universe-matter-densities-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nA Simon Fraser University cosmologist reports that new theoretical work on primordial magnetic fields could move researchers closer to resolving the longstanding Hubble tension, the mismatch in measurements of how fast the universe is expanding today. \n\nThe Hubble tension arises because two precise approaches to determining the Hubble constant give significantly different results, despite dr",
-    "published_at": "2026-01-21T13:11:03Z",
-    "updated_at": "2026-01-21T12:00:14.856490Z",
     "featured": false,
     "launches": [],
     "events": [],
