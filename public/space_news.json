@@ -1,5 +1,50 @@
 [
   {
+    "id": 35609,
+    "title": "Earth from Space: Pantanal",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Pantanal",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/earth_from_space_pantanal/27077146-1-eng-GB/Earth_from_Space_Pantanal_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-01-23T09:00:00Z",
+    "updated_at": "2026-01-23T09:20:18.565415Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35607,
+    "title": "ESA to Study Falcon 9 Breakup Over Poland",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-to-study-falcon-9-breakup-over-poland/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/ESA-to-Study-Falcon-9-Breakup-Over-Poland.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency has published a call to tender for a study examining the re-entry and breakup of a SpaceX Falcon 9 upper stage in February last year. In the early hours of 19 February 2025, a Falcon 9 second stage underwent an uncontrolled atmospheric re-entry over Poland. At least four fragments of the […]\r\nThe post ESA to Study Falcon 9 Breakup Over Poland appeared first on European Spaceflight.",
+    "published_at": "2026-01-23T08:18:18Z",
+    "updated_at": "2026-01-23T09:21:34.309663Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "4571a6a4-5d5b-4126-ba16-65d4581e7d73",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35606,
     "title": "Winter Grips the Michigan Mitten",
     "authors": [
@@ -460,6 +505,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35608,
+    "title": "Flight ticket initiative: more tickets booked, flying with RFA One",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Flight_ticket_initiative_more_tickets_booked_flying_with_RFA_One",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/flight_ticket_initiative/26849504-2-eng-GB/Flight_Ticket_Initiative_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-01-22T07:42:00Z",
+    "updated_at": "2026-01-23T09:01:29.571141Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35585,
     "title": "Snow Buries Kamchatka",
     "authors": [
@@ -474,106 +539,6 @@
     "summary": "December and January brought a series of intense winter storms to the peninsula in far eastern Russia.",
     "published_at": "2026-01-22T05:01:00Z",
     "updated_at": "2026-01-22T05:10:05.716110Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35579,
-    "title": "Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/teledyne-imaging-sensors-blackcat-speedster-hyvisi-hybrid-visible-silicon-imager-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\nTeledyne Technologies has confirmed that its Space Imaging division has successfully deployed Speedster HyViSI Hybrid Visible Silicon Imager focal plane arrays aboard NASAs BlackCAT CubeSat mission, which launched on January 11, 2026 on a SpaceX Twilight rideshare flight. The mission, led by Pennsylvania State University, places an x ray observatory on a Cub",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.731508Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35575,
-    "title": "AST SpaceMobile secures role on MDA SHIELD defense architecture",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-mda-shield-program-splash-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAST SpaceMobile has been selected for a prime contract position on the U.S. Missile Defense Agency Scalable Homeland Innovative Enterprise Layered Defense, or SHIELD, program, placing its space-based cellular broadband architecture inside a key U.S. missile defense modernization effort. The indefinite-delivery, indefinite-quantity framework is designed to rapidly deliver new capabilities across",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.624609Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35578,
-    "title": "Sentinel 2A trials reveal unexpected night sensing capability",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Sentinel_2A_trials_reveal_unexpected_night_sensing_capability_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/wildfire-india-sentinel-2a-nighttime-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 21, 2026\n\n\nAfter more than 10 years in orbit, the first Copernicus Sentinel 2 satellite, Sentinel 2A, is still finding new ways to contribute to Earth observation as engineers push the mission beyond its original remit. \n\nWith Sentinel 2B and Sentinel 2C now leading the core task of delivering high resolution, camera like images of Earths surface, Sentinel 2A is being used as a test platform to explore",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.714105Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35582,
-    "title": "2025 was third hottest year on record: EU, US experts",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.terradaily.com/reports/2025_was_third_hottest_year_on_record_EU_US_experts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/heatwave-spix-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Brussels, Belgium (AFP) Jan 14, 2026\n\n\n The planet logged its third hottest year on record in 2025, extending a run of unprecedented heat, with no relief expected in 2026, US researchers and EU climate monitors said Wednesday. \n\nThe last 11 years have now been the warmest ever recorded, with 2024 topping the podium and 2023 in second place, according to the EU's Copernicus Climate Change Service and Berkeley Earth, a California-base",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.775906Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35576,
-    "title": "Slingshot to embed AI agent in US Space Force space warfare training",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/slingshot-aerospace-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nSlingshot Aerospace has secured a 27 million dollar contract to modernize how the US Space Force trains for conflict in orbit by embedding its TALOS AI agent into the service's Operational Test and Training Infrastructure program. The 18 month effort will integrate AI native technology into existing training capabilities so that exercises more accurately reflect the rapidly evolving orbital thre",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.657623Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -620,20 +585,80 @@
     "detailed_news": ""
   },
   {
-    "id": 35577,
-    "title": "Comtech wins multi-million dollar follow-on contract for civil space components",
+    "id": 35578,
+    "title": "Sentinel 2A trials reveal unexpected night sensing capability",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Comtech_wins_multi_million_dollar_follow_on_contract_for_civil_space_components_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/comtech-logo-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Sentinel_2A_trials_reveal_unexpected_night_sensing_capability_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/wildfire-india-sentinel-2a-nighttime-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nComtech Telecommunications Corp. has received a follow-on space components award valued at more than 5 million dollars to support a major civil space exploration program in the United States. The award underlines the companys role as a global communications technology supplier to both commercial and government space customers. \n\nUnder the contract, Comtech will deliver advanced electronic co",
+    "summary": "Paris, France (SPX) Jan 21, 2026\n\n\nAfter more than 10 years in orbit, the first Copernicus Sentinel 2 satellite, Sentinel 2A, is still finding new ways to contribute to Earth observation as engineers push the mission beyond its original remit. \n\nWith Sentinel 2B and Sentinel 2C now leading the core task of delivering high resolution, camera like images of Earths surface, Sentinel 2A is being used as a test platform to explore",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.680906Z",
+    "updated_at": "2026-01-22T01:20:11.714105Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35576,
+    "title": "Slingshot to embed AI agent in US Space Force space warfare training",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/slingshot-aerospace-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nSlingshot Aerospace has secured a 27 million dollar contract to modernize how the US Space Force trains for conflict in orbit by embedding its TALOS AI agent into the service's Operational Test and Training Infrastructure program. The 18 month effort will integrate AI native technology into existing training capabilities so that exercises more accurately reflect the rapidly evolving orbital thre",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.657623Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35579,
+    "title": "Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/teledyne-imaging-sensors-blackcat-speedster-hyvisi-hybrid-visible-silicon-imager-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\nTeledyne Technologies has confirmed that its Space Imaging division has successfully deployed Speedster HyViSI Hybrid Visible Silicon Imager focal plane arrays aboard NASAs BlackCAT CubeSat mission, which launched on January 11, 2026 on a SpaceX Twilight rideshare flight. The mission, led by Pennsylvania State University, places an x ray observatory on a Cub",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.731508Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35575,
+    "title": "AST SpaceMobile secures role on MDA SHIELD defense architecture",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-mda-shield-program-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAST SpaceMobile has been selected for a prime contract position on the U.S. Missile Defense Agency Scalable Homeland Innovative Enterprise Layered Defense, or SHIELD, program, placing its space-based cellular broadband architecture inside a key U.S. missile defense modernization effort. The indefinite-delivery, indefinite-quantity framework is designed to rapidly deliver new capabilities across",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.624609Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -654,6 +679,46 @@
     "summary": "Tokyo, Japan (SPX) Jan 13, 2026\n\n\nA research team at DGIST has developed a perovskite based self powered betavoltaic battery that achieves what they report as the worlds highest conversion efficiency for this class of device while maintaining long term operational stability. The work targets applications that require continuous reliable power without external charging, such as artificial intelligence systems, internet of things",
     "published_at": "2026-01-22T02:29:35Z",
     "updated_at": "2026-01-22T01:20:11.787988Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35577,
+    "title": "Comtech wins multi-million dollar follow-on contract for civil space components",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Comtech_wins_multi_million_dollar_follow_on_contract_for_civil_space_components_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/comtech-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nComtech Telecommunications Corp. has received a follow-on space components award valued at more than 5 million dollars to support a major civil space exploration program in the United States. The award underlines the companys role as a global communications technology supplier to both commercial and government space customers. \n\nUnder the contract, Comtech will deliver advanced electronic co",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.680906Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35582,
+    "title": "2025 was third hottest year on record: EU, US experts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/2025_was_third_hottest_year_on_record_EU_US_experts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/heatwave-spix-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Brussels, Belgium (AFP) Jan 14, 2026\n\n\n The planet logged its third hottest year on record in 2025, extending a run of unprecedented heat, with no relief expected in 2026, US researchers and EU climate monitors said Wednesday. \n\nThe last 11 years have now been the warmest ever recorded, with 2024 topping the podium and 2023 in second place, according to the EU's Copernicus Climate Change Service and Berkeley Earth, a California-base",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.775906Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -948,78 +1013,6 @@
     "summary": "This Jan. 17, 2026, image shows NASA’s SLS (Space Launch System) and Orion spacecraft rolling out of the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida. NASA’s massive Crawler-Transporter, upgraded for the Artemis program, carries the powerful SLS rocket and Orion spacecraft to Launch Pad 39B in preparation for the Artemis II mission. […]",
     "published_at": "2026-01-21T17:38:45Z",
     "updated_at": "2026-01-21T17:40:05.744982Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35560,
-    "title": "NASA Webb Finds Young Sun-Like Star Forging, Spewing Common Crystals",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/webb/nasa-webb-finds-young-sun-like-star-forging-spewing-common-crystals/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/01/STScI-01KESWN3G28KZCQPZ2GHHDKAC3.png",
-    "news_site": "NASA",
-    "summary": "Astronomers have long sought evidence to explain why comets at the outskirts of our own solar system contain crystalline silicates, since crystals require intense heat to form and these “dirty snowballs” spend most of their time in the ultracold Kuiper Belt and Oort Cloud. Now, looking outside our solar system, NASA’s James Webb Space Telescope […]",
-    "published_at": "2026-01-21T16:00:00Z",
-    "updated_at": "2026-01-21T16:19:13.702431Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35559,
-    "title": "Orbex’s Subsidiary in Denmark to File for Bankruptcy",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/orbexs-subsidiary-in-denmark-to-file-for-bankruptcy/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/Orbexs-Subsidiary-in-Denmark-to-File-for-Bankruptcy.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Orbex’s Danish subsidiary, Orbital Express Launch ApS, is set to file for bankruptcy, with its facilities officially closing on 20 January and approximately 90 employees losing their jobs. UK-based Orbital Express Launch (Orbex) established its business in Denmark in October 2016. According to the company, its Copenhagen-based business carried out work in propulsion, testing, software, […]\nThe post Orbex’s Subsidiary in Denmark to File for Bankruptcy appeared first on European Spaceflight.",
-    "published_at": "2026-01-21T15:13:09Z",
-    "updated_at": "2026-01-21T15:20:18.089755Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35557,
-    "title": "Starfish Space wins SDA contract to deorbit satellites",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/starfish-space-wins-sda-contract-to-deorbit-satellites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/otter-sda.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nStarfish Space has won a contract from the Space Development Agency to deorbit satellites in a missile-tracking and communications constellation, evidence that deorbiting services are moving into the mainstream.\nThe post Starfish Space wins SDA contract to deorbit satellites appeared first on SpaceNews.",
-    "published_at": "2026-01-21T14:00:00Z",
-    "updated_at": "2026-01-21T14:10:13.888180Z",
     "featured": false,
     "launches": [],
     "events": [],
