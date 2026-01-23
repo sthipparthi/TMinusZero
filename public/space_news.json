@@ -1,5 +1,246 @@
 [
   {
+    "id": 35619,
+    "title": "Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/space-beyond-lines-up-2027-spacex-launch-for-low-cost-memorial-cubesat/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/e66575_1095a0fb1e9e40278e7af9aa212e67f4mv2-scaled.webp?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFlorida-based Space Beyond plans to start building its first memorial spacecraft next week after booking a launch on SpaceX’s October 2027 rideshare mission.\nThe post Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat appeared first on SpaceNews.",
+    "published_at": "2026-01-23T17:42:35Z",
+    "updated_at": "2026-01-23T17:50:30.870448Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35618,
+    "title": "AMS 2025 Hyperwall Schedule",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/uncategorized/ams-2025-hyperwall-schedule/",
+    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "news_site": "NASA",
+    "summary": "106th American Meteorological Society (AMS) Meeting, January 25 – 29, 2026 Join NASA in the Exhibit Hall (Booth #323) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, JANUARY 26 6:05 – 6:20 PMExpanding Discovery from Earth Science Missions in Space Highlights of NASA Earth Science Missions to Advance Research, Data, Models, and Actionable […]",
+    "published_at": "2026-01-23T15:36:27Z",
+    "updated_at": "2026-01-23T16:10:10.751282Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35617,
+    "title": "Journey to Center of Milky Way With Upcoming NASA Roman Core Survey",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/roman-space-telescope/journey-to-center-of-milky-way-with-upcoming-nasa-roman-core-survey/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/04/roman-survey-infographic-mkiv-gbs.jpg",
+    "news_site": "NASA",
+    "summary": "At the heart of our own galaxy, there is a dense thicket of stars with a supermassive black hole at the very center. NASA’s Nancy Grace Roman Space Telescope will provide the deepest-ever view of this zone, revealing stars, planets, and unique objects that resist definition. Based on the input of astronomers from across the […]",
+    "published_at": "2026-01-23T15:00:00Z",
+    "updated_at": "2026-01-23T15:11:15.502583Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "521f3a1c-f977-4306-9b7f-495858719adf",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35616,
+    "title": "Former astronaut joins Vast as Haven-1 moves into integration",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/former-astronaut-joins-vast-as-haven-1-moves-into-integration/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/haven1-integration.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Commercial space station developer Vast has hired another former NASA astronaut as the company delays the launch of its first station.\r\nThe post Former astronaut joins Vast as Haven-1 moves into integration appeared first on SpaceNews.",
+    "published_at": "2026-01-23T14:47:50Z",
+    "updated_at": "2026-01-23T14:51:21.024524Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "4cc61288-6f94-41de-8fd5-7fe4d72aedfb",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35615,
+    "title": "NASA Conducts Hot Fire of RS-25 Engine",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/hot-fire-of-rs25-engine/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/ssc-20260122-s00001h.jpg",
+    "news_site": "NASA",
+    "summary": "NASA successfully conducted a hot fire of RS-25 engine No. 2063 on Jan. 22 at the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, clearing the way for the engine to be installed for the agency’s Artemis IV mission.   The RS-25 engines help power NASA’s SLS (Space Launch […]",
+    "published_at": "2026-01-23T14:34:56Z",
+    "updated_at": "2026-01-23T14:40:42.513795Z",
+    "featured": false,
+    "launches": [],
+    "events": [
+      {
+        "event_id": 1322,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 35613,
+    "title": "TESS Status Updates",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/tess/tess-status-update/",
+    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "news_site": "NASA",
+    "summary": "Jan. 23, 2026 NASA’s TESS Returns to Science Observations NASA’s TESS (Transiting Exoplanet Survey Satellite) entered safe mode Jan. 15 and returned to normal science operations Jan. 18.  The operations team determined the issue arose when TESS slewed to point at a target, but its solar panels did not rotate to remain pointed at the […]",
+    "published_at": "2026-01-23T14:02:43Z",
+    "updated_at": "2026-01-23T14:39:56.803812Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ca4e796d-f3e4-4b80-b2f7-f7fd6a7b325f",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35612,
+    "title": "Launch operators are the rocket fuel required to galvanize spaceports in Europe",
+    "authors": [
+      {
+        "name": "Volodymyr Levykin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/launch-operators-are-the-rocket-fuel-required-to-galvanize-spaceports-in-europe/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/rfaone-saxavord-illus.jpeg?fit=1024%2C577&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEurope stands on the precipice of launching a satellite from the mainland. Until now, the Guiana Space Centre in South America has operated as Europe’s “gateway to space” but spaceports in SaxaVord and Andøya offer the tantalizing prospect of launches much closer to home. Yet infrastructure alone will not get us there. A launchpad is […]\nThe post Launch operators are the rocket fuel required to galvanize spaceports in Europe appeared first on SpaceNews.",
+    "published_at": "2026-01-23T13:00:00Z",
+    "updated_at": "2026-01-23T13:00:50.247613Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35611,
+    "title": "Ignis mission timelapses: Earth and Moon views from the International Space Station",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/09/Ignis_mission_timelapses_Earth_and_Moon_views_from_the_International_Space_Station",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/09/ignis_mission_timelapses_earth_and_moon_views_from_the_international_space_station/26879732-2-eng-GB/Ignis_mission_timelapses_Earth_and_Moon_views_from_the_International_Space_Station_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "ESA project astronaut Sławosz Uznański-Wiśniewski captured these stunning timelapse videos during his 20-day stay aboard the International Space Station as part of Axiom Mission 4, known as Ignis. Filmed from the Cupola – the Space Station’s iconic seven-windowed observation module – the footage showcases breathtaking views of Earth and the Moon from orbit.",
+    "published_at": "2026-01-23T13:00:00Z",
+    "updated_at": "2026-01-23T13:00:32.068676Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35610,
+    "title": "House appropriator sees ‘room for improvement’ in NASA funding for 2027",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/house-appropriator-sees-room-for-improvement-in-nasa-funding-for-2027/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/meng-goddard.jpeg?fit=1024%2C702&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWith the fiscal year 2026 appropriations process effectively complete, a key House appropriator says the next spending bill for NASA should build on that outcome.\nThe post House appropriator sees ‘room for improvement’ in NASA funding for 2027 appeared first on SpaceNews.",
+    "published_at": "2026-01-23T12:48:11Z",
+    "updated_at": "2026-01-23T12:50:33.215172Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35614,
+    "title": "Week in images: 19-23 January 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_January_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/aurora_over_the_netherlands_january_2026/27072143-1-eng-GB/Aurora_over_the_Netherlands_January_2026_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Week in images: 19-23 January 2026",
+    "published_at": "2026-01-23T09:41:00Z",
+    "updated_at": "2026-01-23T14:20:19.814914Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35609,
     "title": "Earth from Space: Pantanal",
     "authors": [
@@ -545,46 +786,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35580,
-    "title": "Keysight joins Airbus UpNext SpaceRAN project to advance 5G satellite NTN",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Keysight_joins_Airbus_UpNext_SpaceRAN_project_to_advance_5G_satellite_NTN_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/keysight-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nKeysight Technologies is collaborating on the Airbus UpNext SpaceRAN demonstrator to explore 5G non-terrestrial network capabilities using software-defined satellite technology in both ground and in-orbit scenarios. The initiative focuses on using a Low Earth Orbit satellite platform to test how next generation satellite payloads can support emerging 5G services from space. \n\nThe project add",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.748640Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35581,
-    "title": "Energy learning algorithm boosts complex UAV swarm tasking",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Energy_learning_algorithm_boosts_complex_UAV_swarm_tasking_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uav-hyper-heuristic-algorithm-cooperative-task-assignment-heterogeneous-drones-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nWith unmanned aerial vehicles now common across modern military and security operations, planners face increasing pressure to assign heterogeneous drone swarms to complex mission sets without wasting time or resources. A new study in the journal Defence Technology reports an energy learning hyper-heuristic algorithm that tackles cooperative task assignment under multiple operational constraints.",
-    "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.763944Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35578,
     "title": "Sentinel 2A trials reveal unexpected night sensing capability",
     "authors": [
@@ -605,20 +806,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35576,
-    "title": "Slingshot to embed AI agent in US Space Force space warfare training",
+    "id": 35580,
+    "title": "Keysight joins Airbus UpNext SpaceRAN project to advance 5G satellite NTN",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/slingshot-aerospace-logo-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Keysight_joins_Airbus_UpNext_SpaceRAN_project_to_advance_5G_satellite_NTN_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/keysight-logo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nSlingshot Aerospace has secured a 27 million dollar contract to modernize how the US Space Force trains for conflict in orbit by embedding its TALOS AI agent into the service's Operational Test and Training Infrastructure program. The 18 month effort will integrate AI native technology into existing training capabilities so that exercises more accurately reflect the rapidly evolving orbital thre",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\n\nKeysight Technologies is collaborating on the Airbus UpNext SpaceRAN demonstrator to explore 5G non-terrestrial network capabilities using software-defined satellite technology in both ground and in-orbit scenarios. The initiative focuses on using a Low Earth Orbit satellite platform to test how next generation satellite payloads can support emerging 5G services from space. \n\nThe project add",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.657623Z",
+    "updated_at": "2026-01-22T01:20:11.748640Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35575,
+    "title": "AST SpaceMobile secures role on MDA SHIELD defense architecture",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-mda-shield-program-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAST SpaceMobile has been selected for a prime contract position on the U.S. Missile Defense Agency Scalable Homeland Innovative Enterprise Layered Defense, or SHIELD, program, placing its space-based cellular broadband architecture inside a key U.S. missile defense modernization effort. The indefinite-delivery, indefinite-quantity framework is designed to rapidly deliver new capabilities across",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.624609Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -645,20 +866,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35575,
-    "title": "AST SpaceMobile secures role on MDA SHIELD defense architecture",
+    "id": 35576,
+    "title": "Slingshot to embed AI agent in US Space Force space warfare training",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-mda-shield-program-splash-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/slingshot-aerospace-logo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nAST SpaceMobile has been selected for a prime contract position on the U.S. Missile Defense Agency Scalable Homeland Innovative Enterprise Layered Defense, or SHIELD, program, placing its space-based cellular broadband architecture inside a key U.S. missile defense modernization effort. The indefinite-delivery, indefinite-quantity framework is designed to rapidly deliver new capabilities across",
+    "summary": "Los Angeles CA (SPX) Jan 19, 2026\n\n\nSlingshot Aerospace has secured a 27 million dollar contract to modernize how the US Space Force trains for conflict in orbit by embedding its TALOS AI agent into the service's Operational Test and Training Infrastructure program. The 18 month effort will integrate AI native technology into existing training capabilities so that exercises more accurately reflect the rapidly evolving orbital thre",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.624609Z",
+    "updated_at": "2026-01-22T01:20:11.657623Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35582,
+    "title": "2025 was third hottest year on record: EU, US experts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/2025_was_third_hottest_year_on_record_EU_US_experts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/heatwave-spix-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Brussels, Belgium (AFP) Jan 14, 2026\n\n\n The planet logged its third hottest year on record in 2025, extending a run of unprecedented heat, with no relief expected in 2026, US researchers and EU climate monitors said Wednesday. \n\nThe last 11 years have now been the warmest ever recorded, with 2024 topping the podium and 2023 in second place, according to the EU's Copernicus Climate Change Service and Berkeley Earth, a California-base",
+    "published_at": "2026-01-22T02:29:35Z",
+    "updated_at": "2026-01-22T01:20:11.775906Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -705,20 +946,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35582,
-    "title": "2025 was third hottest year on record: EU, US experts",
+    "id": 35581,
+    "title": "Energy learning algorithm boosts complex UAV swarm tasking",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.terradaily.com/reports/2025_was_third_hottest_year_on_record_EU_US_experts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/heatwave-spix-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Energy_learning_algorithm_boosts_complex_UAV_swarm_tasking_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uav-hyper-heuristic-algorithm-cooperative-task-assignment-heterogeneous-drones-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Brussels, Belgium (AFP) Jan 14, 2026\n\n\n The planet logged its third hottest year on record in 2025, extending a run of unprecedented heat, with no relief expected in 2026, US researchers and EU climate monitors said Wednesday. \n\nThe last 11 years have now been the warmest ever recorded, with 2024 topping the podium and 2023 in second place, according to the EU's Copernicus Climate Change Service and Berkeley Earth, a California-base",
+    "summary": "Tokyo, Japan (SPX) Jan 19, 2026\n\n\nWith unmanned aerial vehicles now common across modern military and security operations, planners face increasing pressure to assign heterogeneous drone swarms to complex mission sets without wasting time or resources. A new study in the journal Defence Technology reports an energy learning hyper-heuristic algorithm that tackles cooperative task assignment under multiple operational constraints.",
     "published_at": "2026-01-22T02:29:35Z",
-    "updated_at": "2026-01-22T01:20:11.775906Z",
+    "updated_at": "2026-01-22T01:20:11.763944Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -799,220 +1040,6 @@
     "summary": "The Starlink 17-30 mission will send the batch of satellites into a polar low Earth orbit. Liftoff of the Falcon 9 rocket from pad 4E at Vandenberg Space Force Base is set for 6:46 p.m. PST (9:46 p.m. EST / 0246 UTC). ",
     "published_at": "2026-01-21T23:15:01Z",
     "updated_at": "2026-01-21T23:20:30.594390Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35571,
-    "title": "NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/",
-    "image_url": "https://images-assets.nasa.gov/image/KSC-01172026-Artemis%20II_Rollout-26/KSC-01172026-Artemis%20II_Rollout-26~large.jpg",
-    "news_site": "NASA",
-    "summary": "As America approaches its 250th anniversary of declaring independence, NASA’s Artemis II mission will carry a host of mementos that reflect the nation’s long tradition of exploration, innovation, and leadership in its official flight kit. The items will fly aboard the Orion spacecraft, launched on top of the Space Launch System (SLS) rocket, as it […]",
-    "published_at": "2026-01-21T22:48:06Z",
-    "updated_at": "2026-01-21T22:50:11.947132Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35570,
-    "title": "French startup Latitude targets 2026 for first launch while following market-driven approach",
-    "authors": [
-      {
-        "name": "Sean Yoder",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/01/latitude-efis-interview/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/separation.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "French small-launch startup Latitude is pushing toward a maiden flight of its Zephyr rocket within…\nThe post French startup Latitude targets 2026 for first launch while following market-driven approach appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-01-21T22:10:15Z",
-    "updated_at": "2026-01-21T22:10:17.633707Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35569,
-    "title": "Blue Origin plans bespoke high-speed Starlink rival",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/blue-origin-plans-bespoke-high-speed-starlink-rival/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/TeraWave.jpeg?fit=1024%2C538&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBlue Origin aims to start deploying more than 5,400 satellites from late next year for its own Starlink broadband competitor, targeting up to 6 Tbps capacity for enterprise, data center and government customers.\nThe post Blue Origin plans bespoke high-speed Starlink rival appeared first on SpaceNews.",
-    "published_at": "2026-01-21T21:48:46Z",
-    "updated_at": "2026-01-21T21:50:21.201211Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35567,
-    "title": "NASA Invites Media to Crew-10 Visit at Marshall",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-10-visit-at-marshall/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/02/crew-10-image.jpg",
-    "news_site": "NASA",
-    "summary": "NASA will host two astronauts at 10 a.m. CST Friday, Jan. 23, for a media opportunity at the agency’s Marshall Space Flight Center in Huntsville, Alabama. NASA astronaut Nichole Ayers and JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi, who served as part of NASA’s SpaceX Crew-10 mission, will  discuss their recent mission to the International […]",
-    "published_at": "2026-01-21T19:47:00Z",
-    "updated_at": "2026-01-21T19:50:11.621827Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35568,
-    "title": "Students Across New England Contribute to Climate Science Through NASA’s GLOBE Green Down",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/learning-resources/science-activation/students-across-new-england-contribute-to-climate-science-through-nasas-globe-green-down/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/LENE_GLOBE_Highlight3_KeriMoskowitz.png",
-    "news_site": "NASA",
-    "summary": "In fall 2025, more than 50 educators and over 1,500 young people across Maine and New Hampshire participated in NASA’s Global Learning and Observation to Benefit the Environment (GLOBE) Green Down, a citizen science (also known as participatory science or community science) initiative that engages students and volunteers in tracking seasonal changes in plant life. By observing and documenting leaf color change and leaf drop, participants contributed valuable data used by scientists studying how ecosystems respond to a changing climate.",
-    "published_at": "2026-01-21T19:29:22Z",
-    "updated_at": "2026-01-21T20:10:05.262730Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35566,
-    "title": "NASA’s Universe of Learning Unveils Fresh Facilitator Guides Inspired by Community Feedback",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/learning-resources/science-activation/nasas-universe-of-learning-unveils-fresh-facilitator-guides-inspired-by-community-feedback/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/UOL_Program_Guides_Webpage_TimothyRhueII.png",
-    "news_site": "NASA",
-    "summary": "The goal of NASA’s Universe of Learning (UoL) is to connect the public to the data, discoveries, and experts that span NASA’s Astrophysics missions. To make this possible, the NASA’s UoL team creates engaging STEM experiences that let people explore data and discoveries from NASA’s Astrophysics missions and learn from the experts behind them.",
-    "published_at": "2026-01-21T19:01:10Z",
-    "updated_at": "2026-01-21T19:10:11.927883Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35565,
-    "title": "Blue Origin: We want to have a megaconstellation, too",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/01/blue-origin-we-want-to-have-a-megaconstellation-too/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/G_NEl2bbgAAr100.jpg",
-    "news_site": "Arstechnica",
-    "summary": "With data speeds of up to 6Tbps, one could stream a lot of HD movies.",
-    "published_at": "2026-01-21T18:40:21Z",
-    "updated_at": "2026-01-21T18:50:03.458601Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35564,
-    "title": "NASA Tests Technology Offering Potential Fuel Savings for Commercial Aviation",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-technology-offering-potential-fuel-savings-for-commercial-aviation/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/afrc2026-0004-008.jpg",
-    "news_site": "NASA",
-    "summary": "NASA researchers have successfully completed a high-speed taxi test of a scale model of a design that could make future aircraft more efficient by improving how air flows across a wing’s surface, saving fuel and money. On Tuesday, Jan. 12, 2026, the Crossflow Attenuated Natural Laminar Flow (CATNLF) test article reached speeds of approximately 144 […]",
-    "published_at": "2026-01-21T18:32:01Z",
-    "updated_at": "2026-01-21T18:40:06.387660Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35563,
-    "title": "The Exploration Company in talks to acquire Orbex",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/the-exploration-company-in-talks-to-acquire-orbex/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/orbexprime-nov2025.jpeg?fit=1024%2C682&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Exploration Company is in talks to acquire Orbex, the U.K.-based small launch vehicle developer that has reportedly been in financial distress.\nThe post The Exploration Company in talks to acquire Orbex appeared first on SpaceNews.",
-    "published_at": "2026-01-21T18:02:54Z",
-    "updated_at": "2026-01-21T18:10:31.479257Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35562,
-    "title": "NASA’s Artemis II Rocket and Spacecraft Make Their Way to Launch Pad",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-rocket-and-spacecraft-make-their-way-to-launch-pad/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/sls-ksc-artemis-ii-rollout-1172026-33orig.jpg",
-    "news_site": "NASA",
-    "summary": "This Jan. 17, 2026, image shows NASA’s SLS (Space Launch System) and Orion spacecraft rolling out of the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida. NASA’s massive Crawler-Transporter, upgraded for the Artemis program, carries the powerful SLS rocket and Orion spacecraft to Launch Pad 39B in preparation for the Artemis II mission. […]",
-    "published_at": "2026-01-21T17:38:45Z",
-    "updated_at": "2026-01-21T17:40:05.744982Z",
     "featured": false,
     "launches": [],
     "events": [],
