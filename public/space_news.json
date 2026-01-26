@@ -1,19 +1,46 @@
 [
   {
-    "id": 35642,
-    "title": "Electron ordering mapped in quantum material with cryogenic 4D-STEM",
+    "id": 35646,
+    "title": "H3 failure linked to payload fairing separation anomaly",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/h3-f8fairing.jpeg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAn H3 launch failure in December may have been caused by an unusual event that led to the satellite separating from the rocket prematurely.\nThe post H3 failure linked to payload fairing separation anomaly appeared first on SpaceNews.",
+    "published_at": "2026-01-26T11:56:13Z",
+    "updated_at": "2026-01-26T12:00:51.130761Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35645,
+    "title": "Artemis II rollout",
+    "authors": [
+      {
+        "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Electron_ordering_mapped_in_quantum_material_with_cryogenic_4D_STEM_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/kaist-hidden-spatial-order-electrons-quantum-material-team-korea-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 20, 2026\n\nElectronic order in quantum materials often arises through intricate, non-uniform patterns that shift across space. A well-known example is the charge density wave (CDW), an ordered electronic state that forms periodic patterns at low temperatures. Although CDWs have been studied for decades, directly observing how their strength and spatial coherence evolve through a phase transition has remain",
-    "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.619999Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/Artemis_II_rollout",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/01/artemis_ii_rollout/27080342-1-eng-GB/Artemis_II_rollout_card_full.png",
+    "news_site": "ESA",
+    "summary": "On 17 January, the Artemis II Space Launch System rocket and Orion spacecraft were rolled out from the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida, to Launch Pad 39B. The 6.5-km journey took around 12 hours and was carried out using NASA's crawler-transporter, which has been moving rockets to launch pads for over 50 years.",
+    "published_at": "2026-01-26T10:30:00Z",
+    "updated_at": "2026-01-26T10:30:22.546322Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -34,6 +61,26 @@
     "summary": "Tokyo, Japan (SPX) Jan 26, 2026\n\n\nChina is preparing to bring into operation its first offshore platform purpose built for testing, launching and recovering reusable liquid propellant rockets, with the goal of lowering access costs to orbit and expanding commercial launch capacity. \n\nThe new facility is located at the Oriental Aerospace Port in Haiyang in east China s Shandong province, currently the country s only dedicated",
     "published_at": "2026-01-26T06:55:00Z",
     "updated_at": "2026-01-26T05:50:15.438859Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35639,
+    "title": "Solar Orbiter spots magnetic avalanches driving major solar flare",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Solar_Orbiter_spots_magnetic_avalanches_driving_major_solar_flare_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/solar-orbiter-second-before-solar-flare-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Jan 26, 2026\n\n\nJust as avalanches on snowy mountains begin with the motion of a small amount of snow, Solar Orbiter has revealed that a powerful solar flare can start from initially weak magnetic disturbances that rapidly escalate into a large-scale eruption. \n\nDuring a close approach to the Sun on 30 September 2024, the ESA-led Solar Orbiter spacecraft captured one of its most detailed views yet of a larg",
+    "published_at": "2026-01-26T06:55:00Z",
+    "updated_at": "2026-01-26T05:50:15.537622Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -80,20 +127,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35639,
-    "title": "Solar Orbiter spots magnetic avalanches driving major solar flare",
+    "id": 35636,
+    "title": "Icy cycles may have driven early protocell evolution",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Solar_Orbiter_spots_magnetic_avalanches_driving_major_solar_flare_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/solar-orbiter-second-before-solar-flare-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Icy_cycles_may_have_driven_early_protocell_evolution_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/evolutionary-modes-modern-cells-versus-protocells-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 26, 2026\n\n\nJust as avalanches on snowy mountains begin with the motion of a small amount of snow, Solar Orbiter has revealed that a powerful solar flare can start from initially weak magnetic disturbances that rapidly escalate into a large-scale eruption. \n\nDuring a close approach to the Sun on 30 September 2024, the ESA-led Solar Orbiter spacecraft captured one of its most detailed views yet of a larg",
+    "summary": "Tokyo, Japan (SPX) Jan 26, 2026\n\n\nModern cells rely on intricate molecular machinery and genetic programs to grow and divide, but the earliest protocells were likely simple lipid-bound compartments whose behavior depended mainly on their physical and chemical properties. A new experimental study suggests that subtle differences in membrane composition could have helped these primitive compartments grow, fuse, and hold on to gene",
     "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.537622Z",
+    "updated_at": "2026-01-26T05:50:15.474286Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -140,20 +187,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35637,
-    "title": "Metal rich winds detected in giant dusty cloud around distant star",
+    "id": 35642,
+    "title": "Electron ordering mapped in quantum material with cryogenic 4D-STEM",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Metal_rich_winds_detected_in_giant_dusty_cloud_around_distant_star_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gemini-south-star-j0705+0612-gaseous-cloud-metallic-winds-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Electron_ordering_mapped_in_quantum_material_with_cryogenic_4D_STEM_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/kaist-hidden-spatial-order-electrons-quantum-material-team-korea-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nSweeping winds of vaporized metals have been detected in a massive cloud of gas and dust that dimmed the light of a distant star for nearly nine months, offering a rare view of late stage planetary system evolution. Astronomers obtained the observations with the Gemini South telescope in Chile, one half of the International Gemini Observatory, which is partly funded by the U.S. National Science",
+    "summary": "Tokyo, Japan (SPX) Jan 20, 2026\n\nElectronic order in quantum materials often arises through intricate, non-uniform patterns that shift across space. A well-known example is the charge density wave (CDW), an ordered electronic state that forms periodic patterns at low temperatures. Although CDWs have been studied for decades, directly observing how their strength and spatial coherence evolve through a phase transition has remain",
     "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.498413Z",
+    "updated_at": "2026-01-26T05:50:15.619999Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -180,20 +227,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35636,
-    "title": "Icy cycles may have driven early protocell evolution",
+    "id": 35637,
+    "title": "Metal rich winds detected in giant dusty cloud around distant star",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Icy_cycles_may_have_driven_early_protocell_evolution_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/evolutionary-modes-modern-cells-versus-protocells-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Metal_rich_winds_detected_in_giant_dusty_cloud_around_distant_star_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gemini-south-star-j0705+0612-gaseous-cloud-metallic-winds-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 26, 2026\n\n\nModern cells rely on intricate molecular machinery and genetic programs to grow and divide, but the earliest protocells were likely simple lipid-bound compartments whose behavior depended mainly on their physical and chemical properties. A new experimental study suggests that subtle differences in membrane composition could have helped these primitive compartments grow, fuse, and hold on to gene",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nSweeping winds of vaporized metals have been detected in a massive cloud of gas and dust that dimmed the light of a distant star for nearly nine months, offering a rare view of late stage planetary system evolution. Astronomers obtained the observations with the Gemini South telescope in Chile, one half of the International Gemini Observatory, which is partly funded by the U.S. National Science",
     "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.474286Z",
+    "updated_at": "2026-01-26T05:50:15.498413Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -981,53 +1028,6 @@
     "summary": "\nOpen Cosmos deployed two satellites Jan. 22 to activate Ka-band spectrum filings reassigned by Liechtenstein last week, racing to meet deployment deadlines to bring the frequencies into use for sovereign and enterprise broadband.\nThe post Open Cosmos advances broadband plans with spectrum once held by Rivada appeared first on SpaceNews.",
     "published_at": "2026-01-22T20:45:27Z",
     "updated_at": "2026-01-22T21:00:27.307822Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35597,
-    "title": "Blue Origin flies first New Shepard mission of 2026",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/blue-origin-flies-first-new-shepard-mission-of-2026/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/ns38.jpeg?fit=1024%2C548&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBlue Origin launched its first New Shepard mission of the year Jan. 22, carrying five paying customers and one company employee after a last-minute change.\nThe post Blue Origin flies first New Shepard mission of 2026 appeared first on SpaceNews.",
-    "published_at": "2026-01-22T20:39:30Z",
-    "updated_at": "2026-01-22T20:40:21.157507Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35596,
-    "title": "As satellites become targets, Space Force plans for growth and a broader role",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/as-satellites-become-targets-space-force-plans-for-growth-and-a-broader-role/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/DSC02039-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGen. Shawn Bratton, vice chief of space operations of the U.S. Space Force, says growing reliance on satellites is forcing faster integration with the joint force and long-term planning beyond Earth orbit\nThe post As satellites become targets, Space Force plans for growth and a broader role appeared first on SpaceNews.",
-    "published_at": "2026-01-22T20:19:56Z",
-    "updated_at": "2026-01-22T20:20:32.174929Z",
     "featured": false,
     "launches": [],
     "events": [],
