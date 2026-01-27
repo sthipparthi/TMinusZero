@@ -1,5 +1,480 @@
 [
   {
+    "id": 35722,
+    "title": "NASA Launches Its Most Powerful, Efficient Supercomputer",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/technology/computing/nasa-launches-its-most-powerful-efficient-supercomputer/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/acd26-0003-001-e30a99.jpg",
+    "news_site": "NASA",
+    "summary": "NASA is announcing the availability of its newest supercomputer, Athena, an advanced system designed to support a new generation of missions and research projects. The newest member of the agency’s High-End Computing Capability project expands the resources available to help scientists and engineers tackle some of the most complex challenges in space, aeronautics, and science. […]",
+    "published_at": "2026-01-27T16:52:24Z",
+    "updated_at": "2026-01-27T17:00:14.881285Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35719,
+    "title": "NASA’s James Webb Space Telescope Finds Crystal-Spewing Protostar",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-finds-crystal-spewing-protostar/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/stsci-01keswn3g28kzcqpz2ghhdkac3-e1f0ce.png",
+    "news_site": "NASA",
+    "summary": "The NIRCam (Near-Infrared Camera) on NASA’s James Webb Space Telescope captured the actively forming protostar EC 53 (circled at left) in the Serpens Nebula in this image released on Jan. 21, 2026. Astronomers have long sought evidence to explain why comets at the outskirts of our own solar system contain crystalline silicates, since crystals require intense heat to form […]",
+    "published_at": "2026-01-27T16:08:49Z",
+    "updated_at": "2026-01-27T16:23:10.303070Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35720,
+    "title": "NASA, Partners Advance LISA Prototype Hardware",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/lisa/nasa-partners-advance-lisa-prototype-hardware/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lisa/news/2026/development-units/LISA%20TVAC-9.jpg",
+    "news_site": "NASA",
+    "summary": "Engineers and scientists at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, completed tests this month on a second early version of a key element of the upcoming LISA (Laser Interferometer Space Antenna) mission. The LISA mission, a collaboration between ESA (the European Space Agency) and NASA, will use infrared lasers to detect gravitational waves, […]",
+    "published_at": "2026-01-27T15:09:48Z",
+    "updated_at": "2026-01-27T16:23:00.694047Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "7bc92e2c-0faa-4b4f-ad11-c18252a1332c",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35717,
+    "title": "AI Unlocks Hundreds of Cosmic Anomalies in Hubble Archive",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/ai-unlocks-hundreds-of-cosmic-anomalies-in-hubble-archive/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/01/STScI-01KA9Q1B4XSJJ4MS39W4H29AXV.jpg",
+    "news_site": "NASA",
+    "summary": "A team of astronomers has employed a cutting-edge, artificial intelligence-assisted technique to uncover rare astronomical phenomena within archived data from NASA’s Hubble Space Telescope. The team analyzed nearly 100 million image cutouts from the Hubble Legacy Archive, each measuring just a few dozen pixels (7 to 8 arcseconds) on a side. They identified more than […]",
+    "published_at": "2026-01-27T15:00:27Z",
+    "updated_at": "2026-01-27T16:22:49.488205Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35716,
+    "title": "The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse",
+    "authors": [
+      {
+        "name": "UARX Space",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-stealth-strategy-pays-off-uarx-space-emerges-as-europes-high-reliability-powerhouse/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/main_header.jpg?fit=1024%2C769&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNIGRÁN, Spain — While much of the European NewSpace ecosystem has spent the last five years in a cycle of public fundraising and prototype announcements, UARX Space took a different […]\nThe post The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse appeared first on SpaceNews.",
+    "published_at": "2026-01-27T15:00:00Z",
+    "updated_at": "2026-01-27T15:00:45.838099Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35718,
+    "title": "1400 quirky objects found in Hubble's archive",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/1400_quirky_objects_found_in_Hubble_s_archive",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/astrophysical_anomalies_from_hubble_s_archive/27079955-9-eng-GB/Astrophysical_anomalies_from_Hubble_s_archive_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "A team of astronomers have used a new AI-assisted method to search for rare astronomical objects in the Hubble Legacy Archive. The team sifted through nearly 100 million image cutouts in just two and a half days, uncovering nearly 1400 anomalous objects, more than 800 of which had never been documented before.",
+    "published_at": "2026-01-27T15:00:00Z",
+    "updated_at": "2026-01-27T16:22:42.911307Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35721,
+    "title": "European Space Conference in Bruxelles: ESA DG keynote address",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/01/European_Space_Conference_in_Bruxelles_ESA_DG_keynote_address",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/01/european_space_conference_in_bruxelles_esa_dg_keynote_address/27083711-1-eng-GB/European_Space_Conference_in_Bruxelles_ESA_DG_keynote_address_card_full.png",
+    "news_site": "ESA",
+    "summary": "Watch the keynote address by ESA Director General Josef Aschbacher at the 18th European Space Conference in Brussels.",
+    "published_at": "2026-01-27T15:00:00Z",
+    "updated_at": "2026-01-27T16:50:20.055584Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35714,
+    "title": "As data from space spikes, an innovative ground station company seeks to cash in",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/01/as-data-from-space-spikes-an-innovative-ground-station-company-seeks-to-cash-in/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/2405e3f23bdc3b88ca609d0a228cb64fe0761063-3840x2160-1.avif",
+    "news_site": "Arstechnica",
+    "summary": "\"That's why we're here, that's why we're building what we're building.\"",
+    "published_at": "2026-01-27T14:16:32Z",
+    "updated_at": "2026-01-27T14:20:09.568404Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35715,
+    "title": "NASA evaluation lauds quality of PlanetiQ radio occultation data",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/nasa-evaluation-lauds-quality-of-planetiq-radio-occultation-data/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/rsz_hr-satellite-transparent.png?fit=879%2C816&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – An independent NASA evaluation confirmed the quality of radio occultation data provided by PlanetiQ. The one-year evaluation, which compared PlanetiQ observations with data from the Constellation Observing […]\nThe post NASA evaluation lauds quality of PlanetiQ radio occultation data appeared first on SpaceNews.",
+    "published_at": "2026-01-27T14:15:00Z",
+    "updated_at": "2026-01-27T14:20:33.261855Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35713,
+    "title": "NASA lines up WDR for SLS ahead of Artemis II",
+    "authors": [
+      {
+        "name": "Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/01/nasa-wdr-sls-artemis-ii/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/NSF-2026-01-27-05-19-52-480.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Teams at the Kennedy Space Center are advancing preparations for the Artemis II mission, the…\r\nThe post NASA lines up WDR for SLS ahead of Artemis II appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-01-27T13:52:44Z",
+    "updated_at": "2026-01-27T16:22:40.790500Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1325,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 35712,
+    "title": "Activists question treaty power to protect high seas",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/Activists_question_treaty_power_to_protect_high_seas_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/osiris-apex-228000-km-earth-flyby-australia-six-pics-mapcam-arizonau-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\nAfter years of international negotiation and diplomacy, the High Seas Treaty has come into force in January 2026, with 61 states ratifying the agreement to protect international waters and marine life. The milestone has renewed debate over whether international law can meaningfully safeguard the ocean without robust enforcement and complementary direct action. \n\nIn a new book titled The Only",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.241082Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35703,
+    "title": "Aalyria spacetime platform tapped for AFRL space data network trials",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Aalyria_spacetime_platform_tapped_for_AFRL_space_data_network_trials_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/aalyria-spacetime-network-orchestration-technology-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\nAalyria has been selected by the U.S. Air Force Research Laboratory's Rapid Architecture Prototyping and Integration Development program to advance software solutions for managing complex military space communications networks under the Space Data Network Experimentation program. The award, executed through AFRL's Space Technology Advanced Research Fast-trackin",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.042787Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35704,
+    "title": "Ancient nitrogen enzyme study illuminates early Earth conditions and life detection",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/Ancient_nitrogen_enzyme_study_illuminates_early_Earth_conditions_and_life_detection_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/betul-kacar-ancient-enzyme-early-earth-life-beyond-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nBy resurrecting a 3.2 billion year old enzyme and testing it inside living microbes, researchers have opened a new experimental window on early Earth and how to recognize signs of life on other worlds. The work, led by scientists at the University of Wisconsin-Madison and supported by NASA, uses synthetic biology to reconstruct ancient biochemistry in the laboratory. \n\nThe team focused on ni",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.064751Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35706,
+    "title": "Geoscientists use satellite to determine not the shape of water, but how water shapes land",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/Geoscientists_use_satellite_to_determine_not_the_shape_of_water_but_how_water_shapes_land_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/yukon-river-coarse-grained-sediment-glaciers-further-upstream-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Blacksburg VA (SPX) Jan 21, 2026\r\n\r\n\r\nWhat's the shape of water? In 2022, NASA launched the Surface Water and Ocean Topography (SWOT) satellite to answer this question by precisely measuring the height and extent of bodies of water. \r\n\r\nVirginia Tech geoscientists are using the same satellite to ask a related question: How is water shaping the land? \r\n\r\n\"We wanted to show how the satellite could be used in ways that it wasn't pr",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T16:22:30.616958Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "8226d219-b612-4797-a9d2-c5ca7ab0b076",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35708,
+    "title": "Low frequency lasers modeled to greatly boost nuclear fusion rates",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.energy-daily.com/reports/Low_frequency_lasers_modeled_to_greatly_boost_nuclear_fusion_rates_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/laser-assisted-deuterium-tritium-fusion-schematic-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 26, 2026\n\n\nA new theoretical study shows that intense laser fields could greatly enhance nuclear fusion reactions by reshaping the collision energies of interacting nuclei before they tunnel through the Coulomb barrier. The work tackles one of fusion energy's central challenges, the strong electrostatic repulsion between positively charged nuclei that usually demands temperatures of tens of millions of kel",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.152321Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35705,
+    "title": "Spire weather data to power AiDASH vegetation and outage risk tools",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Spire_weather_data_to_power_AiDASH_vegetation_and_outage_risk_tools_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/aidash-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nSpire Global has been selected by AiDASH to supply advanced space-based weather intelligence for AiDASH's vegetation, storm and ignition risk platform used by electric utilities in North America. The collaboration integrates Spire's high-resolution forecasts and meteorology support into AiDASH's AI-driven tools for vegetation management and outage prediction across modern power grids. \n\nAiDA",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.088534Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35701,
+    "title": "Stratoship alliance charts staged path for smallsat payloads",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Stratoship_alliance_charts_staged_path_for_smallsat_payloads_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/stratoship-sz-155-airship-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Jan 21, 2026\n\nStratoship has signed a memorandum of understanding with Queensland based companies Orbit2Orbit and Sunburnt Space Co to build a staged lab to space pathway for small satellite payloads. \n\nThe agreement establishes a commercial framework that links laboratory development, stratospheric testing, very low Earth orbit and orbital missions into a coherent progression for customers. \n\nUnder t",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:20.949707Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35702,
+    "title": "Hydrogen nuclei experiment sharpens view of quarks inside matter",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hydrogen_nuclei_experiment_sharpens_view_of_quarks_inside_matter_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/continuous-electron-beam-accelerator-facility-cebaf-thomas-jefferson-national-accelerator-facility-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nThe lightest element in the universe is helping nuclear physicists probe the inner structure of matter with new precision. At the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility, researchers have compared two isotopes of hydrogen to gain sharper insight into how quarks and gluons are arranged inside protons and neutrons. \n\nHydrogen sits at the top of the Periodic T",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.016435Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35710,
+    "title": "Understanding USDT How Stablecoins Maintain Value in Volatile Markets",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Understanding_USDT_How_Stablecoins_Maintain_Value_in_Volatile_Markets_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/stablecoins-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\nCryptocurrency markets are known for extreme price swings, where values can rise or drop dramatically within hours. This volatility creates uncertainty for traders, investors, and institutions trying to move assets safely. Stablecoins have emerged to provide a consistent value anchor amid these fluctuations, offering predictable liquidity and price stability. Among them, USDT stands as one of th",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.194385Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35711,
+    "title": "Quantum transport method reads open quantum states",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Quantum_transport_method_reads_open_quantum_states_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/quantum-astrology-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Jan 21, 2026\n\nWhat is the state of a quantum system? Answering this question is essential for exploiting quantum properties in emerging devices and for developing new quantum technologies across computing, sensing and secure communications. \n\nQuantum technologies, whether computers, sensors or cryptographic systems, all rely on one essential step: the characterisation of quantum states. This process, know",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.216263Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35709,
+    "title": "Oak Ridge team plans powerful test facility for next generation fusion components",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.energy-daily.com/reports/Oak_Ridge_team_plans_powerful_test_facility_for_next_generation_fusion_components_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/type-one-energy-high-heat-flux-high-temperature-helium-loop-forged-pfcs-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nThe Department of Energy's Oak Ridge National Laboratory is joining with Type One Energy and the University of Tennessee, Knoxville to develop a world class high heat flux facility to test fusion energy materials at the Tennessee Valley Authority's Bull Run Energy Complex in East Tennessee. \n\nThe new facility will evaluate how plasma facing components perform when exposed to the extreme heat",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.172058Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35707,
+    "title": "Lunar soil study limits late meteorite role in supplying Earth oceans",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/Lunar_soil_study_limits_late_meteorite_role_in_supplying_Earth_oceans_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/new-mexico-center-for-stable-isotopes-tony-gargano-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nA long standing idea in planetary science is that water rich meteorites arriving late in Earth history could have delivered a major share of the planet's water. A new study that mines the Moon's impact history now argues that this late delivery pathway could only have supplied a small fraction of Earth's oceans. \n\nIn work published in the Proceedings of the National Academy of Sciences, a te",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.131727Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35699,
     "title": "Space Force set to choose contractors for next-gen GEO spy satellites",
     "authors": [
@@ -525,166 +1000,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35637,
-    "title": "Metal rich winds detected in giant dusty cloud around distant star",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Metal_rich_winds_detected_in_giant_dusty_cloud_around_distant_star_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gemini-south-star-j0705+0612-gaseous-cloud-metallic-winds-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nSweeping winds of vaporized metals have been detected in a massive cloud of gas and dust that dimmed the light of a distant star for nearly nine months, offering a rare view of late stage planetary system evolution. Astronomers obtained the observations with the Gemini South telescope in Chile, one half of the International Gemini Observatory, which is partly funded by the U.S. National Science",
-    "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.498413Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35638,
-    "title": "Seismic networks offer new way to track space junk reentering atmosphere",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Seismic_networks_offer_new_way_to_track_space_junk_reentering_atmosphere_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/shenzhou-15-return-capsule-dongfeng-north-china-inner-mongolia-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nSpace debris, the thousands of fragments of human made hardware abandoned in Earth orbit, can threaten people and infrastructure when it falls out of the sky and reaches the ground. Researchers at Johns Hopkins University and Imperial College London have now shown that existing networks of earthquake detecting seismometers can also detect and track falling space junk in near real time, offering",
-    "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.517873Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35641,
-    "title": "Starfighters completes key wind tunnel campaign for STARLAUNCH 1 air launch vehicle",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Starfighters_completes_key_wind_tunnel_campaign_for_STARLAUNCH_1_air_launch_vehicle_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/starfighters-space-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nStarfighters Space Inc has completed a dedicated wind tunnel campaign for its STARLAUNCH 1 air launched rocket, marking a key technical milestone in the development of the sub orbital vehicle. The program focused on validating how the rocket separates from the companys supersonic aircraft platform under a range of flight conditions. \n\nThe test series examined STARLAUNCH 1 separation behavior",
-    "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.574761Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35643,
-    "title": "Heavy impurities reveal new link in quantum matter theory",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Heavy_impurities_reveal_new_link_in_quantum_matter_theory_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mass-gap-description-heavy-impurities-fermi-gases-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 21, 2026\n\nA new theoretical framework from physicists at Heidelberg University connects two long standing views of how a single exotic particle behaves inside a quantum many body system of fermions. The work unifies descriptions of an impurity that moves through a Fermi sea and an impurity that is so heavy it is effectively fixed in place. \n\nIn the standard quasiparticle picture, a lone electron or at",
-    "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.637900Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35640,
-    "title": "Sulfur ring molecule in galactic cloud links space chemistry to life",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Sulfur_ring_molecule_in_galactic_cloud_links_space_chemistry_to_life_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/milkyway-first-sulfur-bearing-six-membered-ring-molecule-compound-space-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 26, 2026\n\n\nResearchers at the Max Planck Institute for Extraterrestrial Physics, working with colleagues at the Centro de Astrobiologia in Spain, have identified the largest sulfur-bearing molecule yet seen in interstellar space. The compound, 2,5-cyclohexadiene-1-thione (C6H6S), was detected in the molecular cloud G+0.693-0.027 near the center of the Milky Way, about 27,000 light years from Earth. With a",
-    "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.556190Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35642,
-    "title": "Electron ordering mapped in quantum material with cryogenic 4D-STEM",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Electron_ordering_mapped_in_quantum_material_with_cryogenic_4D_STEM_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/kaist-hidden-spatial-order-electrons-quantum-material-team-korea-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 20, 2026\n\nElectronic order in quantum materials often arises through intricate, non-uniform patterns that shift across space. A well-known example is the charge density wave (CDW), an ordered electronic state that forms periodic patterns at low temperatures. Although CDWs have been studied for decades, directly observing how their strength and spatial coherence evolve through a phase transition has remain",
-    "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.619999Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35636,
-    "title": "Icy cycles may have driven early protocell evolution",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Icy_cycles_may_have_driven_early_protocell_evolution_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/evolutionary-modes-modern-cells-versus-protocells-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 26, 2026\n\n\nModern cells rely on intricate molecular machinery and genetic programs to grow and divide, but the earliest protocells were likely simple lipid-bound compartments whose behavior depended mainly on their physical and chemical properties. A new experimental study suggests that subtle differences in membrane composition could have helped these primitive compartments grow, fuse, and hold on to gene",
-    "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.474286Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35635,
-    "title": "China prepares offshore test base for reusable liquid rocket launches",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/China_prepares_offshore_test_base_for_reusable_liquid_rocket_launches_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-reusable-liquid-rocket-offshore-platform-artwork-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 26, 2026\n\n\nChina is preparing to bring into operation its first offshore platform purpose built for testing, launching and recovering reusable liquid propellant rockets, with the goal of lowering access costs to orbit and expanding commercial launch capacity. \n\nThe new facility is located at the Oriental Aerospace Port in Haiyang in east China s Shandong province, currently the country s only dedicated",
-    "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.438859Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35639,
     "title": "Solar Orbiter spots magnetic avalanches driving major solar flare",
     "authors": [
@@ -705,307 +1020,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35644,
-    "title": "It started with a cat: How 100 years of quantum weirdness powers today's tech",
+    "id": 35642,
+    "title": "Electron ordering mapped in quantum material with cryogenic 4D-STEM",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/It_started_with_a_cat_How_100_years_of_quantum_weirdness_powers_todays_tech_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/schrodingers-cat-second-box-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Electron_ordering_mapped_in_quantum_material_with_cryogenic_4D_STEM_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/kaist-hidden-spatial-order-electrons-quantum-material-team-korea-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "College Station, TX (SPX) Jan 21, 2026\n\n\nA hundred years ago, quantum mechanics was a radical theory that baffled even the brightest minds. Today, it's the backbone of technologies that shape our lives, from lasers and microchips to quantum computers and secure communications. \n\nIn a sweeping new perspective published in Science, Dr. Marlan Scully, a university distinguished professor at Texas A and M University, traces the journey",
+    "summary": "Tokyo, Japan (SPX) Jan 20, 2026\n\nElectronic order in quantum materials often arises through intricate, non-uniform patterns that shift across space. A well-known example is the charge density wave (CDW), an ordered electronic state that forms periodic patterns at low temperatures. Although CDWs have been studied for decades, directly observing how their strength and spatial coherence evolve through a phase transition has remain",
     "published_at": "2026-01-26T06:55:00Z",
-    "updated_at": "2026-01-26T05:50:15.656352Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35634,
-    "title": "Live coverage: SpaceX to launch GPS 3 satellite following switch from ULA Vulcan rocket",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/01/26/live-coverage-spacex-to-launch-gps-3-satellite-following-switch-from-ula-vulcan-rocket/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260121_GPS_III_9_ENCAP_Astrotech.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "This will be the third launch of a GPS satellite in as many years. Liftoff of the GPS 3-9 mission from pad 40 at Cape Canaveral Space Force Station is scheduled for 11:42 p.m. EST (0442 UTC). ",
-    "published_at": "2026-01-26T01:02:55Z",
-    "updated_at": "2026-01-26T01:10:25.608451Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35633,
-    "title": "What’s Happening in Space Policy January 25-31, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-25-31-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/01/snow-297x300.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of January 25-31, 2026 and any insight we can offer about them. The Senate is in session this week. […]",
-    "published_at": "2026-01-25T17:42:10Z",
-    "updated_at": "2026-01-25T17:50:23.484210Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35632,
-    "title": "Golden Dome is forcing the Pentagon to confront missile defense economics",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/golden-dome-is-forcing-the-pentagon-to-confront-missile-defense-economics/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Image-1-23-26-at-11.09-AM-scaled.png?fit=1024%2C566&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGen. Michael Guetlein says deterrence hinges less on exquisite technology than on cost, production scale and industrial execution\nThe post Golden Dome is forcing the Pentagon to confront missile defense economics appeared first on SpaceNews.",
-    "published_at": "2026-01-25T15:47:06Z",
-    "updated_at": "2026-01-25T15:50:26.078800Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35631,
-    "title": "Live coverage: SpaceX to launch 25 Starlink satellites to polar, low Earth orbit",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/01/25/live-coverage-spacex-to-launch-25-starlink-satellites-to-polar-low-earth-orbit/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/03/20250320_NROL_57_Vertical_small-678x313.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 17-20 mission will be the seventh Starlink mission this year. Liftoff from pad 4E is scheduled for 7:38:20 a.m. PST (10:38:20 a.m. EST / 1538:20 UTC). ",
-    "published_at": "2026-01-25T03:41:11Z",
-    "updated_at": "2026-01-25T03:50:23.954001Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35630,
-    "title": "NASA and DOE to collaborate on lunar nuclear reactor development",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-and-doe-to-collaborate-on-lunar-nuclear-reactor-development/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Antares_lunar-scaled.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA and the Department of Energy have agreed to work together on development of nuclear reactors for the moon as industry awaits the release of a final call for proposals.\nThe post NASA and DOE to collaborate on lunar nuclear reactor development appeared first on SpaceNews.",
-    "published_at": "2026-01-25T00:24:24Z",
-    "updated_at": "2026-01-25T00:30:33.542328Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35629,
-    "title": "RFA Awarded ESA Flight Ticket Initiative Launch Contracts",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/rfa-awarded-esa-flight-ticket-initiative-launch-contracts/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/RFA-Awarded-ESA-Flight-Ticket-Initiative-Launch-Contracts.webp",
-    "news_site": "European Spaceflight",
-    "summary": "German rocket builder Rocket Factory Augsburg (RFA) has been awarded launch service contracts for two missions under the Flight Ticket Initiative. The Flight Ticket Initiative is a programme run jointly by the European Space Agency (ESA) and the European Union that provides subsidised launch opportunities for European companies and organisations on small launch vehicles. Under […]\nThe post RFA Awarded ESA Flight Ticket Initiative Launch Contracts appeared first on European Spaceflight.",
-    "published_at": "2026-01-24T05:04:04Z",
-    "updated_at": "2026-01-24T05:10:15.681517Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35628,
-    "title": "Hungry Hippos and Test Tanks – Rocket Lab building towards Neutron",
-    "authors": [
-      {
-        "name": "Martijn Luinstra and Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/01/hungry-hippos-test-tanks-neutron/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/NSF-2026-01-24-01-35-04-079.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Rocket Lab’s innovative “Hungry Hippo” fairings for the Neutron rocket have arrived at Wallops Island,…\nThe post Hungry Hippos and Test Tanks – Rocket Lab building towards Neutron appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-01-24T01:48:02Z",
-    "updated_at": "2026-01-24T01:50:17.089485Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35627,
-    "title": "NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/nasas-spacex-crew-12-spacex-suits-1.png",
-    "news_site": "NASA",
-    "summary": "NASA and its partners will discuss the upcoming crew rotation to the International Space Station during a pair of news conferences on Friday, Jan. 30, from the agency’s Johnson Space Center in Houston. At 11 a.m. EST, mission leadership will discuss final launch and mission preparations in a news conference that will stream on the […]",
-    "published_at": "2026-01-23T22:46:13Z",
-    "updated_at": "2026-01-23T22:50:09.392202Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35626,
-    "title": "NASA Awards Global Modeling, Assimilation Support Contract",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-awards-global-modeling-assimilation-support-contract/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2024/08/meatball-w-black-background.webp",
-    "news_site": "NASA",
-    "summary": "NASA has selected ADNET Systems, Inc. of Bethesda, Maryland, to provide global modeling and data assimilation support at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. The Global Modeling and Assimilation Support contract is a single-award, cost-plus-fixed-fee, indefinite-delivery/indefinite-quantity contract with a maximum ordering value of approximately $84 million with a five-year period of performance […]",
-    "published_at": "2026-01-23T21:47:44Z",
-    "updated_at": "2026-01-23T21:50:08.897767Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35625,
-    "title": "NASA Selects Participants to Track Artemis II Mission",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/technology/space-comms/nasa-selects-participants-to-track-artemis-ii-mission/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/newsannouncements-2.png",
-    "news_site": "NASA",
-    "summary": "NASA has selected 34 global volunteers to track the Orion spacecraft during the crewed Artemis II mission’s journey around the Moon. The Artemis II test flight will launch NASA’s Space Launch System (SLS) rocket, carrying the Orion spacecraft and a crew of four astronauts, on a mission into deep space. The agency’s second mission in […]",
-    "published_at": "2026-01-23T21:01:33Z",
-    "updated_at": "2026-01-23T21:10:09.428699Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35624,
-    "title": "I Am Artemis: Dustin Gohmert",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-dustin-gohmert/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/dustin-i-am-artemis.jpg",
-    "news_site": "NASA",
-    "summary": "Listen to this audio excerpt from Dustin Gohmert, Orion Crew Survival System (OCSS) manager: During NASA’s Artemis II mission around the Moon, the astronauts inside the Orion spacecraft will be wearing specialized pressure suits designed to protect them throughout their journey. At NASA’s Johnson Space Center in Houston, Dustin Gohmert leads the team responsible for […]",
-    "published_at": "2026-01-23T19:29:40Z",
-    "updated_at": "2026-01-23T19:30:10.746069Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35623,
-    "title": "Red, Green Light Show",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/red-green-light-show/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/iss074e0150285orig.jpg",
-    "news_site": "NASA",
-    "summary": "A green and red aurora streams across Earth’s horizon above the city lights of Europe in this Jan. 19, 2026, photograph, which looks north across Italy toward Germany. The International Space Station was orbiting 262 miles above the Mediterranean Sea at approximately 10:02 p.m. local time when the image was captured. Also known as the […]",
-    "published_at": "2026-01-23T19:19:39Z",
-    "updated_at": "2026-01-23T19:20:10.025825Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35621,
-    "title": "NASA Finds Lunar Regolith Limits Meteorites as Source of Earth’s Water",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/astromaterials/nasa-finds-lunar-regolith-limits-meteorites-as-source-of-earths-water/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as15-82-11082_orig.jpg",
-    "news_site": "NASA",
-    "summary": "A new NASA study of its Apollo lunar soils clarifies the Moon’s record of meteorite impacts and timing of water delivery. These findings place upper bounds on how much water meteorites could have supplied later in Earth’s history. Research has previously shown that meteorites may have been a significant source of Earth’s water as they […]",
-    "published_at": "2026-01-23T18:33:53Z",
-    "updated_at": "2026-01-23T19:10:09.644399Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35620,
-    "title": "NASA’s Chandra Releases Deep Cut From Catalog of Cosmic Recordings",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/chandra/nasas-chandra-releases-deep-cut-from-catalog-of-cosmic-recordings/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/csc.jpg",
-    "news_site": "NASA",
-    "summary": "Like a recording artist who has had a long career, NASA’s Chandra X-ray Observatory has a “back catalog” of cosmic recordings that is impossible to replicate. To access these X-ray tracks, or observations, the ultimate compendium has been developed: the Chandra Source Catalog (CSC). The CSC contains the X-ray data detected up to the end of 2020 by Chandra, the world’s […]",
-    "published_at": "2026-01-23T18:02:31Z",
-    "updated_at": "2026-01-23T18:10:12.072307Z",
+    "updated_at": "2026-01-26T05:50:15.619999Z",
     "featured": false,
     "launches": [],
     "events": [],
