@@ -1,5 +1,85 @@
 [
   {
+    "id": 35735,
+    "title": "NOAA solar observatory reaches Lagrange point 1",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/noaa-solar-observatory-reaches-lagrange-point-1/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/rsz_2026-01_swfo-l1-rendering-january-2026.png?fit=879%2C494&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO — The National Oceanic and Atmospheric Administration’s latest space weather observatory has reached Lagrange point 1. The Space Weather Follow On — Lagrange 1 executed its final engine […]\nThe post NOAA solar observatory reaches Lagrange point 1 appeared first on SpaceNews.",
+    "published_at": "2026-01-28T05:18:09Z",
+    "updated_at": "2026-01-28T05:20:37.570110Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35734,
+    "title": "Snow Buries the U.S. Interior and East",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/snow-buries-the-u-s-interior-and-east/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/snow-buries-the-u-s--interior-and-east/ussnow_vir_20260126.jpg",
+    "news_site": "NASA",
+    "summary": "Satellites observed a frozen landscape across much of the country after a massive winter storm.",
+    "published_at": "2026-01-28T05:01:00Z",
+    "updated_at": "2026-01-28T05:10:15.337015Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35733,
+    "title": "Budget remains tight for scaled-back GeoXO program",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/budget-remains-tight-for-scaled-back-geoxo-program/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/rsz_geoxo.png?fit=879%2C515&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – The National Oceanic and Atmospheric Administration is keeping close tabs on the cost of the next generation of geostationary weather satellites. The Geostationary and Extended Operations (GeoXO) […]\nThe post Budget remains tight for scaled-back GeoXO program appeared first on SpaceNews.",
+    "published_at": "2026-01-28T03:56:45Z",
+    "updated_at": "2026-01-28T04:01:02.325543Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35732,
+    "title": "EU launches government satcom program in sovereignty push",
+    "authors": [
+      {
+        "name": "Emma Gatti",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/P067364-774808-scaled.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nBRUSSELS —  The European Union’s new government satellite communications program, GOVSATCOM, which pools capacity from eight already on-orbit geosynchronous satellites, began operations last week, European Commissioner for Defence and Space Andrius Kubilius said Jan. 27. The program is designed to provide secure communications capabilities to the EU and its member states and could expand by […]\nThe post EU launches government satcom program in sovereignty push appeared first on SpaceNews.",
+    "published_at": "2026-01-28T01:36:40Z",
+    "updated_at": "2026-01-28T01:40:37.100761Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35730,
     "title": "NASA Testing Advances Space Nuclear Propulsion Capabilities",
     "authors": [
@@ -275,6 +355,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35716,
+    "title": "The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse",
+    "authors": [
+      {
+        "name": "UARX Space",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-stealth-strategy-pays-off-uarx-space-emerges-as-europes-high-reliability-powerhouse/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/main_header.jpg?fit=1024%2C769&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNIGRÁN, Spain — While much of the European NewSpace ecosystem has spent the last five years in a cycle of public fundraising and prototype announcements, UARX Space took a different […]\nThe post The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse appeared first on SpaceNews.",
+    "published_at": "2026-01-27T15:00:00Z",
+    "updated_at": "2026-01-27T15:00:45.838099Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35718,
     "title": "1400 quirky objects found in Hubble's archive",
     "authors": [
@@ -296,26 +396,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35716,
-    "title": "The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse",
-    "authors": [
-      {
-        "name": "UARX Space",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-stealth-strategy-pays-off-uarx-space-emerges-as-europes-high-reliability-powerhouse/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/main_header.jpg?fit=1024%2C769&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNIGRÁN, Spain — While much of the European NewSpace ecosystem has spent the last five years in a cycle of public fundraising and prototype announcements, UARX Space took a different […]\nThe post The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse appeared first on SpaceNews.",
-    "published_at": "2026-01-27T15:00:00Z",
-    "updated_at": "2026-01-27T15:00:45.838099Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -390,71 +470,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35712,
-    "title": "Activists question treaty power to protect high seas",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.terradaily.com/reports/Activists_question_treaty_power_to_protect_high_seas_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/osiris-apex-228000-km-earth-flyby-australia-six-pics-mapcam-arizonau-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\nAfter years of international negotiation and diplomacy, the High Seas Treaty has come into force in January 2026, with 61 states ratifying the agreement to protect international waters and marine life. The milestone has renewed debate over whether international law can meaningfully safeguard the ocean without robust enforcement and complementary direct action. \n\nIn a new book titled The Only",
-    "published_at": "2026-01-27T13:25:22Z",
-    "updated_at": "2026-01-27T12:20:21.241082Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35706,
-    "title": "Geoscientists use satellite to determine not the shape of water, but how water shapes land",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.terradaily.com/reports/Geoscientists_use_satellite_to_determine_not_the_shape_of_water_but_how_water_shapes_land_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/yukon-river-coarse-grained-sediment-glaciers-further-upstream-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Blacksburg VA (SPX) Jan 21, 2026\r\n\r\n\r\nWhat's the shape of water? In 2022, NASA launched the Surface Water and Ocean Topography (SWOT) satellite to answer this question by precisely measuring the height and extent of bodies of water. \r\n\r\nVirginia Tech geoscientists are using the same satellite to ask a related question: How is water shaping the land? \r\n\r\n\"We wanted to show how the satellite could be used in ways that it wasn't pr",
-    "published_at": "2026-01-27T13:25:22Z",
-    "updated_at": "2026-01-27T16:22:30.616958Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "8226d219-b612-4797-a9d2-c5ca7ab0b076",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35705,
-    "title": "Spire weather data to power AiDASH vegetation and outage risk tools",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Spire_weather_data_to_power_AiDASH_vegetation_and_outage_risk_tools_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/aidash-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nSpire Global has been selected by AiDASH to supply advanced space-based weather intelligence for AiDASH's vegetation, storm and ignition risk platform used by electric utilities in North America. The collaboration integrates Spire's high-resolution forecasts and meteorology support into AiDASH's AI-driven tools for vegetation management and outage prediction across modern power grids. \n\nAiDA",
-    "published_at": "2026-01-27T13:25:22Z",
-    "updated_at": "2026-01-27T12:20:21.088534Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35711,
     "title": "Quantum transport method reads open quantum states",
     "authors": [
@@ -475,40 +490,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35707,
-    "title": "Lunar soil study limits late meteorite role in supplying Earth oceans",
+    "id": 35712,
+    "title": "Activists question treaty power to protect high seas",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.terradaily.com/reports/Lunar_soil_study_limits_late_meteorite_role_in_supplying_Earth_oceans_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/new-mexico-center-for-stable-isotopes-tony-gargano-bg.jpg",
+    "url": "https://www.terradaily.com/reports/Activists_question_treaty_power_to_protect_high_seas_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/osiris-apex-228000-km-earth-flyby-australia-six-pics-mapcam-arizonau-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nA long standing idea in planetary science is that water rich meteorites arriving late in Earth history could have delivered a major share of the planet's water. A new study that mines the Moon's impact history now argues that this late delivery pathway could only have supplied a small fraction of Earth's oceans. \n\nIn work published in the Proceedings of the National Academy of Sciences, a te",
+    "summary": "Los Angeles CA (SPX) Jan 21, 2026\n\nAfter years of international negotiation and diplomacy, the High Seas Treaty has come into force in January 2026, with 61 states ratifying the agreement to protect international waters and marine life. The milestone has renewed debate over whether international law can meaningfully safeguard the ocean without robust enforcement and complementary direct action. \n\nIn a new book titled The Only",
     "published_at": "2026-01-27T13:25:22Z",
-    "updated_at": "2026-01-27T12:20:21.131727Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35703,
-    "title": "Aalyria spacetime platform tapped for AFRL space data network trials",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Aalyria_spacetime_platform_tapped_for_AFRL_space_data_network_trials_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/aalyria-spacetime-network-orchestration-technology-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\nAalyria has been selected by the U.S. Air Force Research Laboratory's Rapid Architecture Prototyping and Integration Development program to advance software solutions for managing complex military space communications networks under the Space Data Network Experimentation program. The award, executed through AFRL's Space Technology Advanced Research Fast-trackin",
-    "published_at": "2026-01-27T13:25:22Z",
-    "updated_at": "2026-01-27T12:20:21.042787Z",
+    "updated_at": "2026-01-27T12:20:21.241082Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -555,6 +550,131 @@
     "detailed_news": ""
   },
   {
+    "id": 35703,
+    "title": "Aalyria spacetime platform tapped for AFRL space data network trials",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Aalyria_spacetime_platform_tapped_for_AFRL_space_data_network_trials_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/aalyria-spacetime-network-orchestration-technology-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\nAalyria has been selected by the U.S. Air Force Research Laboratory's Rapid Architecture Prototyping and Integration Development program to advance software solutions for managing complex military space communications networks under the Space Data Network Experimentation program. The award, executed through AFRL's Space Technology Advanced Research Fast-trackin",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.042787Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35707,
+    "title": "Lunar soil study limits late meteorite role in supplying Earth oceans",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/Lunar_soil_study_limits_late_meteorite_role_in_supplying_Earth_oceans_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/new-mexico-center-for-stable-isotopes-tony-gargano-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nA long standing idea in planetary science is that water rich meteorites arriving late in Earth history could have delivered a major share of the planet's water. A new study that mines the Moon's impact history now argues that this late delivery pathway could only have supplied a small fraction of Earth's oceans. \n\nIn work published in the Proceedings of the National Academy of Sciences, a te",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.131727Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35705,
+    "title": "Spire weather data to power AiDASH vegetation and outage risk tools",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Spire_weather_data_to_power_AiDASH_vegetation_and_outage_risk_tools_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/aidash-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nSpire Global has been selected by AiDASH to supply advanced space-based weather intelligence for AiDASH's vegetation, storm and ignition risk platform used by electric utilities in North America. The collaboration integrates Spire's high-resolution forecasts and meteorology support into AiDASH's AI-driven tools for vegetation management and outage prediction across modern power grids. \n\nAiDA",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.088534Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35708,
+    "title": "Low frequency lasers modeled to greatly boost nuclear fusion rates",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.energy-daily.com/reports/Low_frequency_lasers_modeled_to_greatly_boost_nuclear_fusion_rates_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/laser-assisted-deuterium-tritium-fusion-schematic-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Jan 26, 2026\n\n\nA new theoretical study shows that intense laser fields could greatly enhance nuclear fusion reactions by reshaping the collision energies of interacting nuclei before they tunnel through the Coulomb barrier. The work tackles one of fusion energy's central challenges, the strong electrostatic repulsion between positively charged nuclei that usually demands temperatures of tens of millions of kel",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.152321Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35706,
+    "title": "Geoscientists use satellite to determine not the shape of water, but how water shapes land",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.terradaily.com/reports/Geoscientists_use_satellite_to_determine_not_the_shape_of_water_but_how_water_shapes_land_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/yukon-river-coarse-grained-sediment-glaciers-further-upstream-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Blacksburg VA (SPX) Jan 21, 2026\r\n\r\n\r\nWhat's the shape of water? In 2022, NASA launched the Surface Water and Ocean Topography (SWOT) satellite to answer this question by precisely measuring the height and extent of bodies of water. \r\n\r\nVirginia Tech geoscientists are using the same satellite to ask a related question: How is water shaping the land? \r\n\r\n\"We wanted to show how the satellite could be used in ways that it wasn't pr",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T16:22:30.616958Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "8226d219-b612-4797-a9d2-c5ca7ab0b076",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35702,
+    "title": "Hydrogen nuclei experiment sharpens view of quarks inside matter",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hydrogen_nuclei_experiment_sharpens_view_of_quarks_inside_matter_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/continuous-electron-beam-accelerator-facility-cebaf-thomas-jefferson-national-accelerator-facility-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nThe lightest element in the universe is helping nuclear physicists probe the inner structure of matter with new precision. At the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility, researchers have compared two isotopes of hydrogen to gain sharper insight into how quarks and gluons are arranged inside protons and neutrons. \n\nHydrogen sits at the top of the Periodic T",
+    "published_at": "2026-01-27T13:25:22Z",
+    "updated_at": "2026-01-27T12:20:21.016435Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35701,
     "title": "Stratoship alliance charts staged path for smallsat payloads",
     "authors": [
@@ -589,46 +709,6 @@
     "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nBy resurrecting a 3.2 billion year old enzyme and testing it inside living microbes, researchers have opened a new experimental window on early Earth and how to recognize signs of life on other worlds. The work, led by scientists at the University of Wisconsin-Madison and supported by NASA, uses synthetic biology to reconstruct ancient biochemistry in the laboratory. \n\nThe team focused on ni",
     "published_at": "2026-01-27T13:25:22Z",
     "updated_at": "2026-01-27T12:20:21.064751Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35708,
-    "title": "Low frequency lasers modeled to greatly boost nuclear fusion rates",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.energy-daily.com/reports/Low_frequency_lasers_modeled_to_greatly_boost_nuclear_fusion_rates_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/laser-assisted-deuterium-tritium-fusion-schematic-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 26, 2026\n\n\nA new theoretical study shows that intense laser fields could greatly enhance nuclear fusion reactions by reshaping the collision energies of interacting nuclei before they tunnel through the Coulomb barrier. The work tackles one of fusion energy's central challenges, the strong electrostatic repulsion between positively charged nuclei that usually demands temperatures of tens of millions of kel",
-    "published_at": "2026-01-27T13:25:22Z",
-    "updated_at": "2026-01-27T12:20:21.152321Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35702,
-    "title": "Hydrogen nuclei experiment sharpens view of quarks inside matter",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hydrogen_nuclei_experiment_sharpens_view_of_quarks_inside_matter_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/continuous-electron-beam-accelerator-facility-cebaf-thomas-jefferson-national-accelerator-facility-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 26, 2026\n\n\nThe lightest element in the universe is helping nuclear physicists probe the inner structure of matter with new precision. At the U.S. Department of Energy's Thomas Jefferson National Accelerator Facility, researchers have compared two isotopes of hydrogen to gain sharper insight into how quarks and gluons are arranged inside protons and neutrons. \n\nHydrogen sits at the top of the Periodic T",
-    "published_at": "2026-01-27T13:25:22Z",
-    "updated_at": "2026-01-27T12:20:21.016435Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -935,93 +1015,6 @@
     "summary": "To an untrained eye, the aircraft engine sitting outside of a Cincinnati facility in December might have looked like standard hardware. But NASA and GE Aerospace researchers watching the unit fire up for a demonstration knew what they were looking at: a hybrid engine performing at a level that could potentially power an airliner.   It’s something new in the […]",
     "published_at": "2026-01-26T21:00:47Z",
     "updated_at": "2026-01-26T21:10:16.100168Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35687,
-    "title": "NASA Welcomes Oman as Newest Artemis Accords Signatory",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-welcomes-oman-as-newest-artemis-accords-signatory/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/artemis-accords-oman-61-012626.jpg",
-    "news_site": "NASA",
-    "summary": "The Sultanate of Oman signed the Artemis Accords during a ceremony in Muscat attended by NASA on Monday, becoming the 61st nation to commit to responsible space exploration for the benefit of all humanity. “Oman’s accession to the Artemis Accords sets an important example about the value of responsible behavior and shared pursuit of discovery,” […]",
-    "published_at": "2026-01-26T20:53:49Z",
-    "updated_at": "2026-01-26T21:00:20.753836Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35654,
-    "title": "NASA Technology Brings Golden Age of Exploration to Earth",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-technology-brings-golden-age-of-exploration-to-earth/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/spinoff-cover.jpg",
-    "news_site": "NASA",
-    "summary": "As NASA fosters technologies needed to live and work farther away from home than ever before, the agency’s Technology Transfer program has the sole mission of getting those innovations into the hands of companies, entrepreneurs, and, ultimately, everyday people. The agency’s Spinoff publication has captured this endeavor for half a century, sharing stories of space […]",
-    "published_at": "2026-01-26T18:42:42Z",
-    "updated_at": "2026-01-26T18:50:12.739275Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35653,
-    "title": "How NASA Is Homing in From Space on Ocean Debris",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/earth/how-nasa-is-homing-in-from-space-on-ocean-debris/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/1-hawaii-beach-litter.jpg",
-    "news_site": "NASA",
-    "summary": "Space-based technology could help track plastic and other flotsam by its ‘fingerprints.’ In late 2025, scientists reported that, for the first time, they were able to detect concentrations of plastic pollution on land using NASA’s Earth Surface Mineral Dust Source Investigation (EMIT) sensor aboard the International Space Station. The technology has inspired marine researchers to […]",
-    "published_at": "2026-01-26T17:02:17Z",
-    "updated_at": "2026-01-26T17:10:12.862541Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35652,
-    "title": "Astranis adds Oman customer to summer GEO launch lineup",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/astranis-adds-oman-customer-to-summer-geo-launch-lineup/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/Astranis1-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nOman-based industrial conglomerate MB Group has ordered a small geostationary broadband satellite from Astranis that is slated to launch this summer.\nThe post Astranis adds Oman customer to summer GEO launch lineup appeared first on SpaceNews.",
-    "published_at": "2026-01-26T16:48:53Z",
-    "updated_at": "2026-01-26T16:50:28.963325Z",
     "featured": false,
     "launches": [],
     "events": [],
