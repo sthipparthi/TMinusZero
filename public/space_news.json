@@ -1,5 +1,65 @@
 [
   {
+    "id": 35811,
+    "title": "Extreme January Cold",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/extreme-january-cold/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extreme-january-cold/coldairsidebyside_gmao_20260129.jpg",
+    "news_site": "NASA",
+    "summary": "Following a significant winter storm, frigid temperatures lingered in late January 2026 across a vast swath of the U.S.",
+    "published_at": "2026-01-30T05:00:00Z",
+    "updated_at": "2026-01-30T05:10:09.019158Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35812,
+    "title": "Live coverage: SpaceX to launch overnight Starlink flight as it unveils new ‘Stargaze’ space situational awareness system",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/01/30/live-coverage-spacex-starlink-flight-comes-as-it-unveils-new-stargaze-space-situational-awareness-system/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 6-101 mission is set to be SpaceX’s 13th and final launch of the month. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 2:22 a.m. EST (0722 UTC). ",
+    "published_at": "2026-01-30T04:43:22Z",
+    "updated_at": "2026-01-30T06:10:29.651791Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35810,
+    "title": "NASA Johnson Celebrates 25 Years in Space with Community Day",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-celebrates-25-years-in-space-with-community-day/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/20260124-165957584-ios.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Johnson Space Center brought the International Space Station’s 25-year legacy to the public on Jan. 24, 2026, during a community day event in Houston.   Johnson’s visitor center, Space Center Houston, hosted the celebration commemorating 25 years of continuous human presence in space.   For a quarter century, astronauts have lived and worked aboard the orbiting laboratory, advancing science, strengthening international partnerships, and shaping the future […]",
+    "published_at": "2026-01-30T03:16:36Z",
+    "updated_at": "2026-01-30T03:20:12.185941Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35808,
     "title": "PLD Space accelerates Miura 5 toward 2026 debut with milestones update",
     "authors": [
@@ -494,26 +554,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35783,
-    "title": "SpaceX eyes IPO timed to planet alignment and Musk birthday: report",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/SpaceX_eyes_IPO_timed_to_planet_alignment_and_Musk_birthday_report_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/elon-musk-black-hat-maga-trump-rally-afp-pool-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "San Francisco, United States (AFP) Jan 28, 2026\r\n\r\n\r\n SpaceX is targeting a mid-June initial public offering that would coincide with a rare planetary alignment and founder Elon Musk's birthday, the Financial Times reported on Wednesday, as the billionaire entrepreneur seeks to raise a record $50 billion. \r\n\r\nThe rocket company is planning its IPO for when Jupiter and Venus appear very close together in the sky - a conjunction that occurs for the",
-    "published_at": "2026-01-29T10:31:23Z",
-    "updated_at": "2026-01-29T09:24:58.694689Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35784,
     "title": "Earliest launch window to ISS set for February 11: NASA",
     "authors": [
@@ -535,6 +575,26 @@
         "provider": "Launch Library 2"
       }
     ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35783,
+    "title": "SpaceX eyes IPO timed to planet alignment and Musk birthday: report",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/SpaceX_eyes_IPO_timed_to_planet_alignment_and_Musk_birthday_report_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/elon-musk-black-hat-maga-trump-rally-afp-pool-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "San Francisco, United States (AFP) Jan 28, 2026\r\n\r\n\r\n SpaceX is targeting a mid-June initial public offering that would coincide with a rare planetary alignment and founder Elon Musk's birthday, the Financial Times reported on Wednesday, as the billionaire entrepreneur seeks to raise a record $50 billion. \r\n\r\nThe rocket company is planning its IPO for when Jupiter and Venus appear very close together in the sky - a conjunction that occurs for the",
+    "published_at": "2026-01-29T10:31:23Z",
+    "updated_at": "2026-01-29T09:24:58.694689Z",
+    "featured": false,
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -636,40 +696,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35768,
-    "title": "New analysis sharpens view of cosmic birefringence and universe symmetry",
+    "id": 35774,
+    "title": "Bright streaks reveal Mercury still geologically active",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/New_analysis_sharpens_view_of_cosmic_birefringence_and_universe_symmetry_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/kavli-universe-symmetry-cosmic-birefringence-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Bright_streaks_reveal_Mercury_still_geologically_active_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mercury-circular-deposit-enormous-effusive-volcanic-deposit-caloris-basin-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nA research team has developed a method to reduce uncertainties in measurements of cosmic birefringence, a subtle rotation in the polarization of the cosmic microwave background that may hold clues to new physics beyond the standard model. The work, published January 27 in Physical Review Letters, provides the first quantitative treatment of uncertainty in the birefringence angle, a key observabl",
+    "summary": "Berlin, Germany (SPX) Jan 29, 2026\n\n\nA new analysis of Mercury has uncovered hundreds of bright linear streaks on crater slopes that point to ongoing loss of volatile material from the planet's interior, challenging the view of Mercury as a geologically dead and dry world. The work, led by researchers at the Center for Space and Habitability (CSH) at the University of Bern together with colleagues at the Astronomical Observatory of",
     "published_at": "2026-01-29T04:43:51Z",
-    "updated_at": "2026-01-29T03:40:16.740662Z",
+    "updated_at": "2026-01-29T03:40:16.924023Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35776,
-    "title": "Sidus Space advances LizzieSat-4 payload integration with Maris-Tech edge computing system",
+    "id": 35771,
+    "title": "Runaway massive stars mapped across the Milky Way",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Sidus_Space_advances_LizzieSat_4_payload_integration_with_Maris_Tech_edge_computing_system_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sidus-space-logo-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Runaway_massive_stars_mapped_across_the_Milky_Way_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/composite-supernova-1e01022-7219-x-rays-chandra-visible-muse-instrument-hubble-neutron-star-massive-star-collapses-supernova-center-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nSidus Space Inc has reached a key integration milestone with Maris-Tech Ltd as the companies prepare to fly Maris-Tech's advanced payload aboard the LizzieSat-4 mission planned for launch later in 2026. The step marks the move from planning activities into active hardware testing and platform-level integration for the mission. \n\nSidus reported that testing of Maris-Tech's payload hardware is",
+    "summary": "Madrid, Spain (SPX) Jan 29, 2026\n\n\nAstronomers have carried out the most extensive observational study so far of massive runaway stars in the Milky Way, combining detailed measurements of how fast these stars move, how rapidly they spin, and whether they live alone or in binary systems. Researchers from the Institute of Cosmos Sciences of the University of Barcelona (ICCUB) and the Institute of Space Studies of Catalonia (IEEC),",
     "published_at": "2026-01-29T04:43:51Z",
-    "updated_at": "2026-01-29T03:40:16.958308Z",
+    "updated_at": "2026-01-29T03:40:16.834606Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -696,6 +756,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35772,
+    "title": "Autophage rocket concept wins EU prize for debris free launch technology",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Autophage_rocket_concept_wins_EU_prize_for_debris_free_launch_technology_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/alpha-impulsion-orbital-vehicle-artwork-2026-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Jan 29, 2026\n\n\nAlpha Impulsion, a space startup based in Toulouse and Naples, has received a 950000 euro award from the European Union for a major innovation in space propulsion aimed at more economical, efficient, and debris free access to orbit. \n\nThe company has been recognized as the first enterprise to gain international acknowledgment for a propulsion solution that from the outset addresses sustainab",
+    "published_at": "2026-01-29T04:43:51Z",
+    "updated_at": "2026-01-29T03:40:16.856955Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35778,
     "title": "Space Station study maps hurdles for microbial manufacturing in orbit",
     "authors": [
@@ -710,26 +790,6 @@
     "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nScientists at the U.S. Naval Research Laboratory have completed a spaceflight biology experiment on the International Space Station that shows how microgravity reshapes microbial metabolism and constrains biological manufacturing performance during long missions. The work, recently reported in the journal npj Microgravity, highlights both the vulnerabilities and potential of engineered microbes",
     "published_at": "2026-01-29T04:43:51Z",
     "updated_at": "2026-01-29T03:40:17.041987Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35779,
-    "title": "AI digital twins aim to protect astronaut mobility on deep space missions",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AI_digital_twins_aim_to_protect_astronaut_mobility_on_deep_space_missions_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-astronaut-andreas-mogensen-circadian-light-experiment-sleep-studies-huginn-mission-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nWest Virginia University researchers are developing artificial intelligence tools to help astronauts maintain movement control and overall physical health during long missions in microgravity environments such as space stations, the Moon and future voyages to Mars. Their work centers on building personalized computer models that capture how each astronaut moves and how their muscles are activate",
-    "published_at": "2026-01-29T04:43:51Z",
-    "updated_at": "2026-01-29T03:40:17.071983Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -756,20 +816,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35774,
-    "title": "Bright streaks reveal Mercury still geologically active",
+    "id": 35770,
+    "title": "AI tool mines Hubble archive for hundreds of strange cosmic objects",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Bright_streaks_reveal_Mercury_still_geologically_active_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mercury-circular-deposit-enormous-effusive-volcanic-deposit-caloris-basin-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/AI_tool_mines_Hubble_archive_for_hundreds_of_strange_cosmic_objects_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/hubble-archive-cosmic-anomalies-ai-search-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Jan 29, 2026\n\n\nA new analysis of Mercury has uncovered hundreds of bright linear streaks on crater slopes that point to ongoing loss of volatile material from the planet's interior, challenging the view of Mercury as a geologically dead and dry world. The work, led by researchers at the Center for Space and Habitability (CSH) at the University of Bern together with colleagues at the Astronomical Observatory of",
+    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nA team of astronomers has used a new artificial intelligence assisted technique to uncover rare astronomical phenomena in archived data from NASA's Hubble Space Telescope. They sifted through nearly 100 million small image cutouts from the Hubble Legacy Archive, each only a few dozen pixels across, and identified more than 1,300 unusually shaped objects in just two and a half days, including ove",
     "published_at": "2026-01-29T04:43:51Z",
-    "updated_at": "2026-01-29T03:40:16.924023Z",
+    "updated_at": "2026-01-29T03:40:16.811424Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -796,20 +856,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35770,
-    "title": "AI tool mines Hubble archive for hundreds of strange cosmic objects",
+    "id": 35768,
+    "title": "New analysis sharpens view of cosmic birefringence and universe symmetry",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/AI_tool_mines_Hubble_archive_for_hundreds_of_strange_cosmic_objects_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/hubble-archive-cosmic-anomalies-ai-search-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/New_analysis_sharpens_view_of_cosmic_birefringence_and_universe_symmetry_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/kavli-universe-symmetry-cosmic-birefringence-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nA team of astronomers has used a new artificial intelligence assisted technique to uncover rare astronomical phenomena in archived data from NASA's Hubble Space Telescope. They sifted through nearly 100 million small image cutouts from the Hubble Legacy Archive, each only a few dozen pixels across, and identified more than 1,300 unusually shaped objects in just two and a half days, including ove",
+    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nA research team has developed a method to reduce uncertainties in measurements of cosmic birefringence, a subtle rotation in the polarization of the cosmic microwave background that may hold clues to new physics beyond the standard model. The work, published January 27 in Physical Review Letters, provides the first quantitative treatment of uncertainty in the birefringence angle, a key observabl",
     "published_at": "2026-01-29T04:43:51Z",
-    "updated_at": "2026-01-29T03:40:16.811424Z",
+    "updated_at": "2026-01-29T03:40:16.740662Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35779,
+    "title": "AI digital twins aim to protect astronaut mobility on deep space missions",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/AI_digital_twins_aim_to_protect_astronaut_mobility_on_deep_space_missions_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-astronaut-andreas-mogensen-circadian-light-experiment-sleep-studies-huginn-mission-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nWest Virginia University researchers are developing artificial intelligence tools to help astronauts maintain movement control and overall physical health during long missions in microgravity environments such as space stations, the Moon and future voyages to Mars. Their work centers on building personalized computer models that capture how each astronaut moves and how their muscles are activate",
+    "published_at": "2026-01-29T04:43:51Z",
+    "updated_at": "2026-01-29T03:40:17.071983Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -836,40 +916,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35772,
-    "title": "Autophage rocket concept wins EU prize for debris free launch technology",
+    "id": 35776,
+    "title": "Sidus Space advances LizzieSat-4 payload integration with Maris-Tech edge computing system",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Autophage_rocket_concept_wins_EU_prize_for_debris_free_launch_technology_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/alpha-impulsion-orbital-vehicle-artwork-2026-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Sidus_Space_advances_LizzieSat_4_payload_integration_with_Maris_Tech_edge_computing_system_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/sidus-space-logo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Jan 29, 2026\n\n\nAlpha Impulsion, a space startup based in Toulouse and Naples, has received a 950000 euro award from the European Union for a major innovation in space propulsion aimed at more economical, efficient, and debris free access to orbit. \n\nThe company has been recognized as the first enterprise to gain international acknowledgment for a propulsion solution that from the outset addresses sustainab",
+    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nSidus Space Inc has reached a key integration milestone with Maris-Tech Ltd as the companies prepare to fly Maris-Tech's advanced payload aboard the LizzieSat-4 mission planned for launch later in 2026. The step marks the move from planning activities into active hardware testing and platform-level integration for the mission. \n\nSidus reported that testing of Maris-Tech's payload hardware is",
     "published_at": "2026-01-29T04:43:51Z",
-    "updated_at": "2026-01-29T03:40:16.856955Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35771,
-    "title": "Runaway massive stars mapped across the Milky Way",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Runaway_massive_stars_mapped_across_the_Milky_Way_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/composite-supernova-1e01022-7219-x-rays-chandra-visible-muse-instrument-hubble-neutron-star-massive-star-collapses-supernova-center-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Madrid, Spain (SPX) Jan 29, 2026\n\n\nAstronomers have carried out the most extensive observational study so far of massive runaway stars in the Milky Way, combining detailed measurements of how fast these stars move, how rapidly they spin, and whether they live alone or in binary systems. Researchers from the Institute of Cosmos Sciences of the University of Barcelona (ICCUB) and the Institute of Space Studies of Catalonia (IEEC),",
-    "published_at": "2026-01-29T04:43:51Z",
-    "updated_at": "2026-01-29T03:40:16.834606Z",
+    "updated_at": "2026-01-29T03:40:16.958308Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -930,80 +990,6 @@
     "summary": "Artemis II, the next mission in NASA’s Artemis program to explore the Moon, is scheduled…\nThe post NASA readies unique science experiments and tech demonstrations for Artemis II crew appeared first on NASASpaceFlight.com.",
     "published_at": "2026-01-28T22:23:19Z",
     "updated_at": "2026-01-28T22:30:19.051363Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35764,
-    "title": "GAO flags risks in Space Development Agency’s missile-tracking satellite program",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/gao-flags-risks-in-space-development-agencys-missile-tracking-satellite-program/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/28187_T3TRK_Image-02_v2.jpg-scaled.jpeg?fit=1024%2C573&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nCongressional watchdog says SDA is overestimating technology readiness \nThe post GAO flags risks in Space Development Agency’s missile-tracking satellite program appeared first on SpaceNews.",
-    "published_at": "2026-01-28T21:45:51Z",
-    "updated_at": "2026-01-28T21:50:31.984259Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35763,
-    "title": "HEO acquires in-orbit satellite from Satellogic",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/heo-acquires-in-orbit-satellite-from-satellogic/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/heo-newsdat34.jpeg?fit=1000%2C842&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nHEO, the Australian company that performs in-space imaging of spacecraft, has acquired its own satellite though a deal with Satellogic.\nThe post HEO acquires in-orbit satellite from Satellogic appeared first on SpaceNews.",
-    "published_at": "2026-01-28T21:32:31Z",
-    "updated_at": "2026-01-28T21:40:23.229988Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35762,
-    "title": "Space-focused SPAC goes public after pricing $200 million IPO",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/space-focused-spac-goes-public-after-pricing-200-million-ipo/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/NASDAQ.webp?fit=1024%2C674&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nTAMPA, Fla. — A shell company chaired by venture capitalist Raphael Roettgen began trading on the Nasdaq stock exchange Jan. 28 after raising $200 million to pursue a merger with a space-related business. Space Asset Acquisition Corp., a special purpose acquisition company (SPAC) that offers a fast-track to the public markets for firms seeking capital, […]\nThe post Space-focused SPAC goes public after pricing $200 million IPO appeared first on SpaceNews.",
-    "published_at": "2026-01-28T21:26:18Z",
-    "updated_at": "2026-01-28T21:30:33.993743Z",
     "featured": false,
     "launches": [],
     "events": [],
