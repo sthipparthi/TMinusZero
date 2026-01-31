@@ -1,5 +1,32 @@
 [
   {
+    "id": 35871,
+    "title": "SpaceX files plans for million-satellite orbital data center constellation",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-files-plans-for-million-satellite-orbital-data-center-constellation/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/spacex-odc.jpeg?fit=1024%2C623&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX is seeking Federal Communications Commission approval for a satellite constellation of unprecedented scale intended to function as an orbital data center.\nThe post SpaceX files plans for million-satellite orbital data center constellation appeared first on SpaceNews.",
+    "published_at": "2026-01-31T13:03:04Z",
+    "updated_at": "2026-01-31T13:10:27.468876Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35870,
     "title": "China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test",
     "authors": [
@@ -14,66 +41,6 @@
     "summary": "\nChina launched a satellite for Algeria late Friday, as signs mount that multiple missions have been delayed amid preparations for a key human spaceflight test.\nThe post China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test appeared first on SpaceNews.",
     "published_at": "2026-01-31T10:10:55Z",
     "updated_at": "2026-01-31T10:20:25.719308Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35865,
-    "title": "NASA delays Moon mission over frigid weather",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_delays_Moon_mission_over_frigid_weather_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-full-stack-crawler-dawn-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Jan 30, 2026\n\n\n NASA on Friday pushed back the earliest date that astronauts could fly to the Moon, due to forecasts of freezing temperatures at the Florida launch site. \n\nThe earliest window for the moonshot will now be February 8, two days later than originally scheduled. \n\nNASA was preparing to conduct a key fueling test over the weekend of the 322-foot (98-meter) rocket that is on the Cape Canaveral lau",
-    "published_at": "2026-01-31T04:17:17Z",
-    "updated_at": "2026-01-31T03:10:13.730622Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35868,
-    "title": "NASA advances space based tracking of marine debris",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_advances_space_based_tracking_of_marine_debris_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/beach-plastic-garbage-pollution-waste-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 28, 2026\n\n\nDetergent bottles and other litter can travel thousands of miles across the ocean before washing up on remote islands like Kaho'olawe in Hawaii, highlighting how persistent plastic pollution has become in the marine environment. A remote sensing technology developed at NASA's Jet Propulsion Laboratory that recently detected plastic pollution on land is now inspiring efforts to one day track ocea",
-    "published_at": "2026-01-31T04:17:17Z",
-    "updated_at": "2026-01-31T03:10:13.778203Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35864,
-    "title": "Bezos's Blue Origin to 'pause' space tourism to focus on Moon efforts",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Bezoss_Blue_Origin_to_pause_space_tourism_to_focus_on_Moon_efforts_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/jeff-bezos-new-shepard-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (AFP) Jan 30, 2026\n\n\n Jeff Bezos's space company Blue Origin said Friday it would temporarily pause flights of its space tourism rocket to focus more resources on its lunar ambitions. \n\nThe company said in a statement it would \"pause New Shepard flights for no less than two years\" in order to \"further accelerate development of the company's human lunar capabilities.\" \n\n\"The decision reflects Blue Origin's commitm",
-    "published_at": "2026-01-31T04:17:17Z",
-    "updated_at": "2026-01-31T03:10:13.719067Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -100,6 +67,26 @@
     "detailed_news": ""
   },
   {
+    "id": 35866,
+    "title": "Balerion backs Northwood to tackle ground bottlenecks in expanding space economy",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Balerion_backs_Northwood_to_tackle_ground_bottlenecks_in_expanding_space_economy_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/milspace-comms-spix-1-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 28, 2026\n\n\nBalerion Space Ventures has made a strategic investment in Northwood Space's 100 million dollar Series B funding round, targeting what it sees as a critical bottleneck in the emerging space economy: terrestrial ground infrastructure. The firm positions this deployment of capital as part of its broader focus on the foundational systems required to scale space operations across commercial and gove",
+    "published_at": "2026-01-31T04:17:17Z",
+    "updated_at": "2026-01-31T03:10:13.755030Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35867,
     "title": "Leonardo DRS infrared payloads selected for SDA Tracking Layer Tranche 3",
     "authors": [
@@ -120,20 +107,60 @@
     "detailed_news": ""
   },
   {
-    "id": 35866,
-    "title": "Balerion backs Northwood to tackle ground bottlenecks in expanding space economy",
+    "id": 35868,
+    "title": "NASA advances space based tracking of marine debris",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Balerion_backs_Northwood_to_tackle_ground_bottlenecks_in_expanding_space_economy_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/milspace-comms-spix-1-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/NASA_advances_space_based_tracking_of_marine_debris_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/beach-plastic-garbage-pollution-waste-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 28, 2026\n\n\nBalerion Space Ventures has made a strategic investment in Northwood Space's 100 million dollar Series B funding round, targeting what it sees as a critical bottleneck in the emerging space economy: terrestrial ground infrastructure. The firm positions this deployment of capital as part of its broader focus on the foundational systems required to scale space operations across commercial and gove",
+    "summary": "Los Angeles CA (SPX) Jan 28, 2026\n\n\nDetergent bottles and other litter can travel thousands of miles across the ocean before washing up on remote islands like Kaho'olawe in Hawaii, highlighting how persistent plastic pollution has become in the marine environment. A remote sensing technology developed at NASA's Jet Propulsion Laboratory that recently detected plastic pollution on land is now inspiring efforts to one day track ocea",
     "published_at": "2026-01-31T04:17:17Z",
-    "updated_at": "2026-01-31T03:10:13.755030Z",
+    "updated_at": "2026-01-31T03:10:13.778203Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35865,
+    "title": "NASA delays Moon mission over frigid weather",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_delays_Moon_mission_over_frigid_weather_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-full-stack-crawler-dawn-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington, United States (AFP) Jan 30, 2026\n\n\n NASA on Friday pushed back the earliest date that astronauts could fly to the Moon, due to forecasts of freezing temperatures at the Florida launch site. \n\nThe earliest window for the moonshot will now be February 8, two days later than originally scheduled. \n\nNASA was preparing to conduct a key fueling test over the weekend of the 322-foot (98-meter) rocket that is on the Cape Canaveral lau",
+    "published_at": "2026-01-31T04:17:17Z",
+    "updated_at": "2026-01-31T03:10:13.730622Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35864,
+    "title": "Bezos's Blue Origin to 'pause' space tourism to focus on Moon efforts",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Bezoss_Blue_Origin_to_pause_space_tourism_to_focus_on_Moon_efforts_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/jeff-bezos-new-shepard-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "New York (AFP) Jan 30, 2026\n\n\n Jeff Bezos's space company Blue Origin said Friday it would temporarily pause flights of its space tourism rocket to focus more resources on its lunar ambitions. \n\nThe company said in a statement it would \"pause New Shepard flights for no less than two years\" in order to \"further accelerate development of the company's human lunar capabilities.\" \n\n\"The decision reflects Blue Origin's commitm",
+    "published_at": "2026-01-31T04:17:17Z",
+    "updated_at": "2026-01-31T03:10:13.719067Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -969,26 +996,6 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-01-30T09:00:00Z",
     "updated_at": "2026-01-30T09:10:17.553147Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35823,
-    "title": "EU Awards Three Contracts for Mobile Responsive Launch System Studies",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/eu-awards-three-contracts-for-mobile-responsive-launch-system-studies/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/01/EU-Awards-Three-Contracts-for-Mobile-Responsive-Launch-System-Studies.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Commission has commissioned three parallel studies to examine the potential of a mobile responsive launch system capable of rapidly deploying satellites into orbit from non-permanent (mobile) ground platforms. Initially published in July 2025, the call for the Mobile Responsive Launch System pilot project noted that, amid a growing range of human-made and natural […]\nThe post EU Awards Three Contracts for Mobile Responsive Launch System Studies appeared first on European Spaceflight.",
-    "published_at": "2026-01-30T08:43:57Z",
-    "updated_at": "2026-01-30T08:50:16.905957Z",
     "featured": false,
     "launches": [],
     "events": [],
