@@ -1,5 +1,32 @@
 [
   {
+    "id": 35872,
+    "title": "Varda’s W-5 mission lands in Australia",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/vardas-w-5-mission-lands-in-australia/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/varda-w5.jpeg?fit=1024%2C774&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nVarda Space Industries completed its latest reentry mission Jan. 29, completing an end-to-end demonstration of a new in-house spacecraft design.\nThe post Varda’s W-5 mission lands in Australia appeared first on SpaceNews.",
+    "published_at": "2026-01-31T22:50:26Z",
+    "updated_at": "2026-01-31T23:00:36.755718Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35871,
     "title": "SpaceX files plans for million-satellite orbital data center constellation",
     "authors": [
@@ -67,26 +94,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35866,
-    "title": "Balerion backs Northwood to tackle ground bottlenecks in expanding space economy",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Balerion_backs_Northwood_to_tackle_ground_bottlenecks_in_expanding_space_economy_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/milspace-comms-spix-1-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 28, 2026\n\n\nBalerion Space Ventures has made a strategic investment in Northwood Space's 100 million dollar Series B funding round, targeting what it sees as a critical bottleneck in the emerging space economy: terrestrial ground infrastructure. The firm positions this deployment of capital as part of its broader focus on the foundational systems required to scale space operations across commercial and gove",
-    "published_at": "2026-01-31T04:17:17Z",
-    "updated_at": "2026-01-31T03:10:13.755030Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35867,
     "title": "Leonardo DRS infrared payloads selected for SDA Tracking Layer Tranche 3",
     "authors": [
@@ -101,6 +108,26 @@
     "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nLeonardo DRS has been awarded a subcontract to deliver advanced infrared mission payloads for the Space Development Agency's Tracking Layer Tranche 3, expanding space-based support for the U.S. missile defense architecture. The contract positions the company as the space-based mission payload provider for TRKT3, a critical element in the U.S. military program to detect, track, and cue defenses a",
     "published_at": "2026-01-31T04:17:17Z",
     "updated_at": "2026-01-31T03:10:13.766024Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35866,
+    "title": "Balerion backs Northwood to tackle ground bottlenecks in expanding space economy",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Balerion_backs_Northwood_to_tackle_ground_bottlenecks_in_expanding_space_economy_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/milspace-comms-spix-1-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 28, 2026\n\n\nBalerion Space Ventures has made a strategic investment in Northwood Space's 100 million dollar Series B funding round, targeting what it sees as a critical bottleneck in the emerging space economy: terrestrial ground infrastructure. The firm positions this deployment of capital as part of its broader focus on the foundational systems required to scale space operations across commercial and gove",
+    "published_at": "2026-01-31T04:17:17Z",
+    "updated_at": "2026-01-31T03:10:13.755030Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -976,26 +1003,6 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-01-30T09:00:00Z",
     "updated_at": "2026-01-30T09:30:12.689828Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35824,
-    "title": "Dark rings and new light",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Dark_rings_and_new_light",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/dark_rings_and_new_light/27086903-1-eng-GB/Dark_rings_and_new_light_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-01-30T09:00:00Z",
-    "updated_at": "2026-01-30T09:10:17.553147Z",
     "featured": false,
     "launches": [],
     "events": [],
