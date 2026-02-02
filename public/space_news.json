@@ -1,5 +1,77 @@
 [
   {
+    "id": 35880,
+    "title": "Transcelestial to provide satellite laser communication terminals to Gilmour Space",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/transcelestial-to-provide-satellite-laser-communication-terminals-to-gilmour-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/transcelestial.jpeg?fit=1024%2C625&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nTranscelestial, a startup developing optical communications technologies, has signed an agreement with Gilmour Space Technologies to incorporate its technology on Gilmour Space spacecraft.\nThe post Transcelestial to provide satellite laser communication terminals to Gilmour Space appeared first on SpaceNews.",
+    "published_at": "2026-02-02T11:01:48Z",
+    "updated_at": "2026-02-02T11:10:21.490243Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35879,
+    "title": "Apply now to the ESA Graduate Trainee Programme",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/esa_graduate_trainee_programme_2026/27067804-1-eng-GB/ESA_Graduate_Trainee_Programme_2026_card_full.png",
+    "news_site": "ESA",
+    "summary": "The 2026 ESA Graduate Trainee positions are now open! If you’re passionate about engineering, science, IT or business, this is your chance to turn your dreams into reality.",
+    "published_at": "2026-02-02T10:00:00Z",
+    "updated_at": "2026-02-02T10:00:45.240896Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35878,
+    "title": "First launch of Ariane 6 with four boosters",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/First_launch_of_Ariane_6_with_four_boosters",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/artist_s_view_of_ariane_6_with_four_boosters_over_earth/27089218-2-eng-GB/Artist_s_view_of_Ariane_6_with_four_boosters_over_Earth_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-02-02T07:03:00Z",
+    "updated_at": "2026-02-02T07:57:34.282062Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "71eba994-ab9f-4707-ba5e-024cfff73c01",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35877,
     "title": "Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
     "authors": [
@@ -174,26 +246,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35867,
-    "title": "Leonardo DRS infrared payloads selected for SDA Tracking Layer Tranche 3",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Leonardo_DRS_infrared_payloads_selected_for_SDA_Tracking_Layer_Tranche_3_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/leonardo-drs-satellite-orbit-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nLeonardo DRS has been awarded a subcontract to deliver advanced infrared mission payloads for the Space Development Agency's Tracking Layer Tranche 3, expanding space-based support for the U.S. missile defense architecture. The contract positions the company as the space-based mission payload provider for TRKT3, a critical element in the U.S. military program to detect, track, and cue defenses a",
-    "published_at": "2026-01-31T04:17:17Z",
-    "updated_at": "2026-01-31T03:10:13.766024Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35868,
     "title": "NASA advances space based tracking of marine debris",
     "authors": [
@@ -208,26 +260,6 @@
     "summary": "Los Angeles CA (SPX) Jan 28, 2026\n\n\nDetergent bottles and other litter can travel thousands of miles across the ocean before washing up on remote islands like Kaho'olawe in Hawaii, highlighting how persistent plastic pollution has become in the marine environment. A remote sensing technology developed at NASA's Jet Propulsion Laboratory that recently detected plastic pollution on land is now inspiring efforts to one day track ocea",
     "published_at": "2026-01-31T04:17:17Z",
     "updated_at": "2026-01-31T03:10:13.778203Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35866,
-    "title": "Balerion backs Northwood to tackle ground bottlenecks in expanding space economy",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Balerion_backs_Northwood_to_tackle_ground_bottlenecks_in_expanding_space_economy_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/milspace-comms-spix-1-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 28, 2026\n\n\nBalerion Space Ventures has made a strategic investment in Northwood Space's 100 million dollar Series B funding round, targeting what it sees as a critical bottleneck in the emerging space economy: terrestrial ground infrastructure. The firm positions this deployment of capital as part of its broader focus on the foundational systems required to scale space operations across commercial and gove",
-    "published_at": "2026-01-31T04:17:17Z",
-    "updated_at": "2026-01-31T03:10:13.755030Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -254,6 +286,46 @@
     "detailed_news": ""
   },
   {
+    "id": 35863,
+    "title": "The Perception War: How Artemis II Could Win the Race Without Landing",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.moondaily.com/reports/The_Perception_War_How_Artemis_II_Could_Win_the_Race_Without_Landing_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/artemis-orion-full-moon-flyby-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "New York NY (SPX) Jan 31, 2026\n\nAs NASA counts down toward humanity's first crewed lunar mission in more than half a century, a question beyond engineering is taking shape: Can a flight that never touches the surface still define who \"wins\" the Second Moon Race? The answer lies not in propulsion equations or landing dynamics, but in the realm where space programs have always competed most fiercely-perception, prestige, and the stories nations tell about themselves.",
+    "published_at": "2026-01-31T04:17:17Z",
+    "updated_at": "2026-01-31T03:10:13.678725Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35867,
+    "title": "Leonardo DRS infrared payloads selected for SDA Tracking Layer Tranche 3",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Leonardo_DRS_infrared_payloads_selected_for_SDA_Tracking_Layer_Tranche_3_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/leonardo-drs-satellite-orbit-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nLeonardo DRS has been awarded a subcontract to deliver advanced infrared mission payloads for the Space Development Agency's Tracking Layer Tranche 3, expanding space-based support for the U.S. missile defense architecture. The contract positions the company as the space-based mission payload provider for TRKT3, a critical element in the U.S. military program to detect, track, and cue defenses a",
+    "published_at": "2026-01-31T04:17:17Z",
+    "updated_at": "2026-01-31T03:10:13.766024Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35865,
     "title": "NASA delays Moon mission over frigid weather",
     "authors": [
@@ -274,20 +346,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35863,
-    "title": "The Perception War: How Artemis II Could Win the Race Without Landing",
+    "id": 35866,
+    "title": "Balerion backs Northwood to tackle ground bottlenecks in expanding space economy",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.moondaily.com/reports/The_Perception_War_How_Artemis_II_Could_Win_the_Race_Without_Landing_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-orion-full-moon-flyby-bg.jpg",
+    "url": "https://www.spacewar.com/reports/Balerion_backs_Northwood_to_tackle_ground_bottlenecks_in_expanding_space_economy_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/milspace-comms-spix-1-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "New York NY (SPX) Jan 31, 2026\n\nAs NASA counts down toward humanity's first crewed lunar mission in more than half a century, a question beyond engineering is taking shape: Can a flight that never touches the surface still define who \"wins\" the Second Moon Race? The answer lies not in propulsion equations or landing dynamics, but in the realm where space programs have always competed most fiercely-perception, prestige, and the stories nations tell about themselves.",
+    "summary": "Los Angeles CA (SPX) Jan 28, 2026\n\n\nBalerion Space Ventures has made a strategic investment in Northwood Space's 100 million dollar Series B funding round, targeting what it sees as a critical bottleneck in the emerging space economy: terrestrial ground infrastructure. The firm positions this deployment of capital as part of its broader focus on the foundational systems required to scale space operations across commercial and gove",
     "published_at": "2026-01-31T04:17:17Z",
-    "updated_at": "2026-01-31T03:10:13.678725Z",
+    "updated_at": "2026-01-31T03:10:13.755030Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -675,26 +747,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35843,
-    "title": "NASA’s Commercial Satellite Data Acquisition Program Releases Archived and Tasked Multispectral Data from Satellogic",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/uncategorized/news-satellogic/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/01/satellogic-near-nola.jpg",
-    "news_site": "NASA",
-    "summary": "“The mission of the CSDA Program is to identify, evaluate, and acquire data from commercial sources that support NASA’s Earth science research and application goals,” said CSDA Project Manager Dana Ostrenga. “The addition of this product from Satellogic to the SDX demonstrates the CSDA Program’s ongoing commitment to that mission, as well as to our […]",
-    "published_at": "2026-01-30T18:58:35Z",
-    "updated_at": "2026-01-30T19:10:10.028092Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35844,
     "title": "NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars",
     "authors": [
@@ -709,26 +761,6 @@
     "summary": "The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.  NASA’s Perseverance Mars rover has completed the first drives on another world that were planned by artificial intelligence. Executed on Dec. 8 and 10, and led by the agency’s Jet Propulsion Laboratory in Southern California, the demonstration used generative AI to create waypoints for Perseverance, a complex decision-making task typically performed manually by […]",
     "published_at": "2026-01-30T18:51:46Z",
     "updated_at": "2026-01-30T19:10:10.045864Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35842,
-    "title": "NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/e2-pia26645-hyperdrive-overlay.png",
-    "news_site": "NASA",
-    "summary": "The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.  NASA’s Perseverance Mars rover has completed the first drives on another world that were planned by artificial intelligence. Executed on Dec. 8 and 10, and led by the agency’s Jet Propulsion Laboratory in Southern California, the demonstration used generative AI to create waypoints for Perseverance, a complex decision-making task typically performed manually by […]",
-    "published_at": "2026-01-30T18:51:46Z",
-    "updated_at": "2026-01-30T19:00:13.122630Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -976,26 +1008,6 @@
     "summary": "Week in images: 26-30 January 2026",
     "published_at": "2026-01-30T14:10:00Z",
     "updated_at": "2026-01-30T14:19:18.311828Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35828,
-    "title": "Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/07/LaunchsiteScotland_3b.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"We’re seeing remarkable growth year after year.\"",
-    "published_at": "2026-01-30T12:00:41Z",
-    "updated_at": "2026-01-30T12:10:08.120319Z",
     "featured": false,
     "launches": [],
     "events": [],
