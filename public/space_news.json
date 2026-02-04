@@ -1,59 +1,515 @@
 [
   {
-    "id": 35948,
-    "title": "Stacked metasurfaces use light and spacing to lock holographic data",
+    "id": 35975,
+    "title": "Evaluation of Adhesive and Solvent Alternatives for PolymericBonding Applications",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "NASA",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Stacked_metasurfaces_use_light_and_spacing_to_lock_holographic_data_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/modular-diffractive-neural-network%E2%80%93based-photonic-encryption-metahologram-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 04, 2026\n\n\nA research team at Pohang University of Science and Technology (POSTECH) has demonstrated a secure holographic platform that encodes and reveals information using only the wavelength of light and the spacing between stacked metasurface layers. The approach targets the growing limitations of conventional digital security by shifting the encryption key from electronic code to the physical properti",
-    "published_at": "2026-02-04T13:04:21Z",
-    "updated_at": "2026-02-04T12:00:23.682729Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Tokyo, Japan (SPX) Feb 04, 2026\n\n\nA research team at Pohang University of Science and Technology (POSTECH) has demonstrated a secure holographic platform that encodes and reveals information using only the wavelength of light and the spacing between stacked metasurface layers. The approach targets the growing limitations of conventional digital security by shifting the encryption key from electronic code to the physical properti"
-  },
-  {
-    "id": 35940,
-    "title": "ExLabs taps SpacePilot autonomy for Apophis asteroid mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ExLabs_taps_SpacePilot_autonomy_for_Apophis_asteroid_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/exlabs-commercial-deep-space-rideshare-mission-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 04, 2026\n\n\nExLabs has selected CUS-GNC's SpacePilot onboard autonomy software to provide guidance, navigation, and control for its planned Mission to Asteroid Apophis, a commercial deep-space campaign that will operate at distances exceeding 100 million kilometers from Earth. The company describes itself as a commercial deep-space mission operator developing next-generation platforms for exploration beyond",
-    "published_at": "2026-02-04T13:04:21Z",
-    "updated_at": "2026-02-04T12:00:23.511154Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/evaluation-of-adhesive-and-solvent-alternatives-for-polymericbonding-applications/",
+    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "news_site": "NASA",
+    "summary": "The NASA Engineering and Safety Center (NESC) conducted a technical assessment to evaluate alternatives to dichloromethane, traditionally used for bonding transparent polymeric materials. This effort was initiated in response to potential regulatory restrictions under the EPA Toxic Substances Control Act (TSCA), which could impact critical bonding processes used in spaceflight hardware and experimental systems. Download […]",
+    "published_at": "2026-02-04T18:09:35Z",
+    "updated_at": "2026-02-04T18:10:19.756039Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 35949,
-    "title": "Global partners advance plans to harden submarine cable networks",
+    "id": 35973,
+    "title": "NASA Armstrong Contributions Propel Artemis, Deep Space Innovation",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-armstrong-contributions-propel-artemis-deep-space-innovation/",
+    "image_url": "https://images-assets.nasa.gov/image/AFRC2025-0187-122/AFRC2025-0187-122~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA is leveraging expertise, capabilities, and partnerships across its centers to make Artemis campaign and deep space exploration safer, more reliable, and efficient. At NASA’s Armstrong Flight Research Center in Edwards, California, contributions include technical leadership, unique flight-testing capabilities, and management of a key technology program that advances critical exploration concepts. Artemis II is an […]",
+    "published_at": "2026-02-04T16:57:47Z",
+    "updated_at": "2026-02-04T17:00:29.858759Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35972,
+    "title": "NASA Heat Shield Tech Contributes to America’s Space Industry",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasa-heat-shield-tech-contributes-to-americas-space-industry/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/heatshield-w5.jpg",
+    "news_site": "NASA",
+    "summary": "This Jan. 29, 2026, photo captures the streak the Varda Space Industries W-5 capsule made while returning to Earth. The capsule uses a protective heat shield Varda produced made of cutting-edge material it licensed from NASA. The material, known as C-PICA (Conformal Phenolic Impregnated Carbon Ablator), provides a stronger, less expensive, and more efficient thermal protection […]",
+    "published_at": "2026-02-04T16:23:44Z",
+    "updated_at": "2026-02-04T16:30:13.879855Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35974,
+    "title": "NASA’s SPHEREx Examines Comet 3I/ATLAS’s Coma",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/photojournal/nasas-spherex-examines-comet-3i-atlass-coma/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26720/PIA26720_SPHEREx_3I_4panel_colorized.png",
+    "news_site": "NASA",
+    "summary": "Description These observations by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) show the infrared light emitted by the dust, water, organic molecules, and carbon dioxide contained within comet 3I/ATLAS’s coma. The comet brightened significantly during the December 2025 period when SPHEREx made the observations — about two […]",
+    "published_at": "2026-02-04T16:18:29Z",
+    "updated_at": "2026-02-04T17:10:09.611242Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35969,
+    "title": "Antarctic ice feedback limits Southern Ocean carbon sink",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Global_partners_advance_plans_to_harden_submarine_cable_networks_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/big-data-internet-tube-600-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Antarctic_ice_feedback_limits_Southern_Ocean_carbon_sink_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uol-west-antarctic-ice-sheet-torben-struve-southern-ocean-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Madrid, Spain (SPX) Feb 04, 2026\n\n\nGovernments, industry representatives and international organizations from over 70 countries have agreed on new guidance to strengthen the resilience of submarine telecommunications cables at the International Submarine Cable Resilience Summit 2026 in Porto, Portugal. The event focused on protecting the subsea infrastructure that underpins global digital communications and economic activity.",
+    "summary": "Berlin, Germany (SPX) Feb 03, 2026\n\n\nA sediment core from the Pacific sector of the Southern Ocean has provided a research team led by geochemist Dr Torben Struve from the University of Oldenburg, Germany, with evidence of an unexpected climate feedback in Antarctica. The study, published in Nature Geoscience, links changes in the West Antarctic Ice Sheet to variations in marine algae growth over several glacial cycles, but in a wa",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:50:15.147042Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35964,
+    "title": "Lockheed ramps up THAAD interceptor output with new framework deal and Camden facility",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Lockheed_ramps_up_THAAD_interceptor_output_with_new_framework_deal_and_Camden_facility_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/lockheed-martin-thaad-interceptor-production-facility-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 02, 2026\n\n\nLockheed Martin has signed a new framework agreement with the U.S. Department of War that aims to quadruple annual production of Terminal High Altitude Area Defense (THAAD) interceptors from 96 to 400 units. The multi year arrangement is intended to expand the supply of missile defense interceptors available to the U.S. military and allied customers amid rising global demand. \n\nThe company w",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:50:15.039423Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35966,
+    "title": "NASA Libera payload completes testing for future Earth energy tracking mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_Libera_payload_completes_testing_for_future_Earth_energy_tracking_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/nasa-libera-earth-energy-instrument-radiation-budget-balance-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 02, 2026\r\n\r\n\r\nNASA's Libera Earth energy instrument has completed a full campaign of environmental testing and is now ready for delivery to its host satellite, marking a major milestone for the agency's long term record of Earth's radiation budget measurements. The test series included thermal vacuum trials that replicated the temperature extremes and vacuum conditions Libera will face in orbit, along with ot",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:59:54.379122Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d88a9bd5-76c4-4c55-b2eb-8cd3e071b02c",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35965,
+    "title": "DARPA taps Raytheon for new maritime defense system",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/DARPA_taps_Raytheon_for_new_maritime_defense_system_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rtx-advanced-maritime-defense-technologies-uav-drone-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 03, 2026\n\n\nRaytheon, an RTX business, has been selected by the US Defense Advanced Research Projects Agency to develop an advanced sensing and targeting system to protect commercial shipping and naval logistics vessels from emerging maritime threats such as unmanned surface vehicles. \n\nUnder the Pulling Guard program, Raytheon s Advanced Technology team will design, build and demonstrate a system that",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:50:15.064593Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35968,
+    "title": "Rock microbes reveal hidden groundwater carbon engine",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Rock_microbes_reveal_hidden_groundwater_carbon_engine_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/fsu-jena-microbial-worlds-alisha-sharma-groundwater-well-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Feb 03, 2026\n\n\nDeep underground, microbial communities living on rock surfaces are emerging as powerful but largely overlooked drivers of groundwater chemistry and carbon storage. A team from the Cluster of Excellence Balance of the Microverse at Friedrich Schiller University Jena has now shown that these attached microbes follow fundamentally different strategies from free-floating cells in groundwater, with",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:50:15.126914Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35967,
+    "title": "NISAR radar view maps surface changes in Mississippi Delta",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NISAR_radar_view_maps_surface_changes_in_Mississippi_Delta_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/nasa-isro-nisar-l-band-sar-new-orleans-baton-rouge-mississippi-pontchartrain-wetlands-farm-urban-town-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 02, 2026\r\n\r\n\r\nA new radar image from the joint NASA-ISRO NISAR satellite shows how the mission can see through cloud cover to reveal surface features across the Mississippi River Delta region in southeastern Louisiana. \r\n\r\nThe scene, acquired on November 29, 2025, with NISAR's L-band synthetic aperture radar instrument, spans the cities of New Orleans and Baton Rouge, the winding Mississippi River between t",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:55:07.108876Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "3e852c36-4179-4c45-a2b1-9252e639372f",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35960,
+    "title": "NASA Moon mission launch srubbed to March after test",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_Moon_mission_launch_delayed_to_March_after_test_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-2-pad-moon-orion-capsule-desk-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington, United States (AFP) Feb 3, 2026\r\n\r\n\r\n NASA said Tuesday it's delaying until March the launch of its first crewed flyby mission to the Moon in more than 50 years, after encountering leaks during final tests. \r\n\r\nThe mishaps during a run-through that the US space agency calls a \"wet dress rehearsal\" dashed hopes that the mission around the Moon could launch as soon as Sunday. The next possible launch window now opens March 6. \r\n\r\nThe",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:55:52.823969Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1325,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 35961,
+    "title": "SpaceX grounds Falcon 9 missions, could impact ISS launch",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/SpaceX_grounds_Falcon_9_missions_could_impact_ISS_launch_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/spacex-dragon-crew-12-iss-fedyaev-hathaway-meir-adenot-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington, United States (AFP) Feb 3, 2026\r\n\r\n NASA said Tuesday its next crew rotation to the International Space Station could be delayed after SpaceX announced it was grounding flights of its Falcon 9 rocket to investigate an unspecified issue. \r\n\r\nSpaceX, the private space company owned by Elon Musk, has paused flights of its Falcon 9 rocket following an issue its second stage experienced during a routine launch Monday of Starlink satell",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:55:43.766684Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "d0949d55-3057-4eda-a5d8-cee5b0a7d3ce",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35962,
+    "title": "KSAT rolls out AI driven maritime monitoring platform",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/KSAT_rolls_out_AI_driven_maritime_monitoring_platform_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ksat-maritime-situational-awareness-ship-watch-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Feb 03, 2026\n\n\nKSAT is introducing a new platform that provides space based maritime situational awareness by combining its global satellite ground network and maritime services with AI powered analytics developed by VAKE. \n\nThe Vake Powered By KSAT platform delivers detection, identification and tracking of dark vessels from space by using data from optical, radiofrequency and radar satellites operated by",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:50:15.009393Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35963,
+    "title": "Space Force stands up SPACEFOR-NORTH for homeland mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Space_Force_stands_up_SPACEFOR_NORTH_for_homeland_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/united-states-space-force-recruitment-video-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 02, 2026\n\n\nThe U.S. Space Force has activated U.S. Space Forces Northern as its newest component field command, positioning space capabilities more directly in support of the homeland defense mission at Peterson Space Force Base, Colorado, on Jan 30, 2026. \n\nThe command, known as SPACEFOR-NORTH, serves as the U.S. Space Force service component to U.S. Northern Command, becoming the seventh Space Force",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:50:15.022317Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35971,
+    "title": "FireSat adds orbit-visualization software to help firefighters plan around satellite passes",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/firesat-adds-orbit-visualization-software-to-help-firefighters-plan-around-satellite-passes/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/Logo-Art-for-FireSat-Press-Release_5_3_24_no_logos-01-scaled.jpg?fit=1024%2C410&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nExoAnalytic tool aims to show when fire-monitoring satellites can actually see the ground\nThe post FireSat adds orbit-visualization software to help firefighters plan around satellite passes appeared first on SpaceNews.",
+    "published_at": "2026-02-04T15:50:47Z",
+    "updated_at": "2026-02-04T16:01:41.601082Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35970,
+    "title": "Space telescopes at light speed",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/space-telescopes-at-light-speed/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/complete-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Light is the fastest phenomenon in the universe, clocking in at just under 300,000 kilometers per second. The telescopes that observe that light, from radio waves to gamma rays, are built at rather slower speeds. Take, as one example, the James Webb Space Telescope. NASA began feasibility studies for the mission in the mid-1990s and […]\r\nThe post Space telescopes at light speed appeared first on SpaceNews.",
+    "published_at": "2026-02-04T15:00:00Z",
+    "updated_at": "2026-02-04T15:34:21.351835Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35959,
+    "title": "NASA finally acknowledges the elephant in the room with the SLS rocket",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/02/nasa-finally-acknowledges-the-elephant-in-the-room-with-the-sls-rocket/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Artemis-II-at-the-pad-Full-Snow-Moon-02012026_8large.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"You know, you're right, the flight rate—three years is a long time.\"",
+    "published_at": "2026-02-04T14:41:30Z",
+    "updated_at": "2026-02-04T14:56:04.665989Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35958,
+    "title": "Isar Aerospace to Expand Testing Facilities as it Prepares for Next Spectrum Flight",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/isar-aerospace-to-expand-testing-facilities-as-it-prepares-for-next-spectrum-flight/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/Isar-Aerospace-to-Expand-Testing-Facilities-as-it-Prepares-for-Next-Spectrum-Flight.webp",
+    "news_site": "European Spaceflight",
+    "summary": "German rocket builder Isar Aerospace has announced plans to expand its testing facilities at the Esrange Space Center in Sweden. The announcement comes as the company prepares for the second flight of its Spectrum rocket, currently expected no earlier than 19 March. Isar Aerospace was founded in 2018 and is developing a 28-metre-tall rocket designed […]\r\nThe post Isar Aerospace to Expand Testing Facilities as it Prepares for Next Spectrum Flight appeared first on European Spaceflight.",
+    "published_at": "2026-02-04T14:18:14Z",
+    "updated_at": "2026-02-04T14:59:39.600659Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "German rocket builder Isar Aerospace has announced plans to expand its testing facilities at the Esrange Space Center in Sweden. The announcement comes as the company prepares for the second flight of its Spectrum rocket, currently expected no earlier than 19 March. Isar Aerospace was founded in 2018 and is developing a 28-metre-tall rocket designed […]\r\nThe post Isar Aerospace to Expand Testing Facilities as it Prepares for Next Spectrum Flight appeared first on European Spaceflight."
+  },
+  {
+    "id": 35957,
+    "title": "Silicon as strategy: the hidden battleground of the new space race",
+    "authors": [
+      {
+        "name": "Elad Baram",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/silicon-as-strategy-the-hidden-battleground-of-the-new-space-race/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/200mm_Si_Wafer.png?fit=1024%2C902&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIn the consumer electronics playbook, custom silicon is the final step in the marathon: you use off-the-shelf components to prove a product, achieve mass scale and only then invest in proprietary chips to create differentiation, improve operations, and optimize margins. In the modern satellite communications (SATCOM) ecosystem, this script has been flipped. For the industry’s […]\nThe post Silicon as strategy: the hidden battleground of the new space race appeared first on SpaceNews.",
+    "published_at": "2026-02-04T14:00:00Z",
+    "updated_at": "2026-02-04T14:10:26.883412Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35956,
+    "title": "Tracking Glacial Change with Landsat and Radar",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/landsat/nasa-scientist-explains-how-glaciers-flow-with-the-seasons/",
+    "image_url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2025/satellites-detect-seasonal-pulses-in-earth%E2%80%99s-glaciers/baltoroseasonal_hls_2024_hires.gif",
+    "news_site": "NASA",
+    "summary": "NASA Scientist Alex Gardner highlights how Landsat made his research into the dynamics of glacial flow possible.",
+    "published_at": "2026-02-04T14:00:00Z",
+    "updated_at": "2026-02-04T14:10:10.294678Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35955,
+    "title": "Rocket ignition that resonates",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Rocket_ignition_that_resonates",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/resonance_igniter_firing/27093904-2-eng-GB/Resonance_igniter_firing_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-02-04T13:30:00Z",
+    "updated_at": "2026-02-04T13:50:23.840141Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35954,
+    "title": "Artemis II: WDR resolutions in work ahead of March target",
+    "authors": [
+      {
+        "name": "Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/02/artemis-ii-wdr-resolutions-march-target/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/NSF-2026-02-04-12-58-38-367-wmarked-1.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Engineers are working through a data review of the Wet Dress Rehearsal for Artemis II,…\r\nThe post Artemis II: WDR resolutions in work ahead of March target appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-02-04T13:18:55Z",
+    "updated_at": "2026-02-04T14:58:57.201862Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1325,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 35946,
+    "title": "Muon Space ramps up multi-mission satellite constellations",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Muon_Space_ramps_up_multi_mission_satellite_constellations_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/muon-space-musat2-satellite-integration-team-vandenberg-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 04, 2026\n\n\nMuon Space is entering a new phase of operational scale as it moves from discrete missions to sustained, multi-mission satellite constellation deployment for government and commercial customers. \n\nThe Mountain View based company reports that its growing mission portfolio, expanding launch manifest and increasing demand for end-to-end, mission-optimized systems are driving this transition. In",
     "published_at": "2026-02-04T13:04:21Z",
-    "updated_at": "2026-02-04T12:00:23.705761Z",
+    "updated_at": "2026-02-04T12:00:23.648574Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -80,20 +536,40 @@
     "detailed_news": ""
   },
   {
-    "id": 35947,
-    "title": "Experts warn of urgent need to address human reproduction risks in space",
+    "id": 35944,
+    "title": "Exploding primordial black hole model may link extreme neutrino and dark matter",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Experts_warn_of_urgent_need_to_address_human_reproduction_risks_in_space_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mother-baby-floating-zero-gravity-inside-spaceship-canva-ai-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Exploding_primordial_black_hole_model_may_link_extreme_neutrino_and_dark_matter_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/recent-black-hole-explode-answers-all-or-not-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 04, 2026\n\n\nAs commercial spaceflight moves closer to routine operations and missions extend in duration, a new expert report argues that reproductive health in space has shifted from a theoretical concern to an urgently practical issue. The authors warn that space is an environment fundamentally hostile to human biology, yet human activity beyond Earth is rapidly expanding without matching standards for ma",
+    "summary": "Amherst MD (SPX) Feb 04, 2026\n\n\nIn 2023, a subatomic particle called a neutrino crashed into Earth with such a high amount of energy that it should have been impossible. In fact, there are no known sources anywhere in the universe capable of producing such energy - 100,000 times more than the highest-energy particle ever produced by the Large Hadron Collider, the world's most powerful particle accelerator. However, a team of p",
     "published_at": "2026-02-04T13:04:21Z",
-    "updated_at": "2026-02-04T12:00:23.666535Z",
+    "updated_at": "2026-02-04T12:00:23.607768Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35940,
+    "title": "ExLabs taps SpacePilot autonomy for Apophis asteroid mission",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ExLabs_taps_SpacePilot_autonomy_for_Apophis_asteroid_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/exlabs-commercial-deep-space-rideshare-mission-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 04, 2026\n\n\nExLabs has selected CUS-GNC's SpacePilot onboard autonomy software to provide guidance, navigation, and control for its planned Mission to Asteroid Apophis, a commercial deep-space campaign that will operate at distances exceeding 100 million kilometers from Earth. The company describes itself as a commercial deep-space mission operator developing next-generation platforms for exploration beyond",
+    "published_at": "2026-02-04T13:04:21Z",
+    "updated_at": "2026-02-04T12:00:23.511154Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -120,40 +596,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35946,
-    "title": "Muon Space ramps up multi-mission satellite constellations",
+    "id": 35947,
+    "title": "Experts warn of urgent need to address human reproduction risks in space",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Muon_Space_ramps_up_multi_mission_satellite_constellations_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/muon-space-musat2-satellite-integration-team-vandenberg-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Experts_warn_of_urgent_need_to_address_human_reproduction_risks_in_space_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mother-baby-floating-zero-gravity-inside-spaceship-canva-ai-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 04, 2026\n\n\nMuon Space is entering a new phase of operational scale as it moves from discrete missions to sustained, multi-mission satellite constellation deployment for government and commercial customers. \n\nThe Mountain View based company reports that its growing mission portfolio, expanding launch manifest and increasing demand for end-to-end, mission-optimized systems are driving this transition. In",
+    "summary": "Los Angeles CA (SPX) Feb 04, 2026\n\n\nAs commercial spaceflight moves closer to routine operations and missions extend in duration, a new expert report argues that reproductive health in space has shifted from a theoretical concern to an urgently practical issue. The authors warn that space is an environment fundamentally hostile to human biology, yet human activity beyond Earth is rapidly expanding without matching standards for ma",
     "published_at": "2026-02-04T13:04:21Z",
-    "updated_at": "2026-02-04T12:00:23.648574Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35944,
-    "title": "Exploding primordial black hole model may link extreme neutrino and dark matter",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Exploding_primordial_black_hole_model_may_link_extreme_neutrino_and_dark_matter_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/recent-black-hole-explode-answers-all-or-not-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Amherst MD (SPX) Feb 04, 2026\n\n\nIn 2023, a subatomic particle called a neutrino crashed into Earth with such a high amount of energy that it should have been impossible. In fact, there are no known sources anywhere in the universe capable of producing such energy - 100,000 times more than the highest-energy particle ever produced by the Large Hadron Collider, the world's most powerful particle accelerator. However, a team of p",
-    "published_at": "2026-02-04T13:04:21Z",
-    "updated_at": "2026-02-04T12:00:23.607768Z",
+    "updated_at": "2026-02-04T12:00:23.666535Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -194,6 +650,100 @@
     "summary": "Paris, France (SPX) Feb 04, 2026\n\n\nBefore any building rises on the Moon, engineers will need to understand the soil beneath their structures just as they do on Earth. To address this challenge, a recent ESA Discovery project led by the Norwegian Geotechnical Institute (NGI) has produced a design for a specialised calibration chamber that will allow cone penetration instruments to be tested under lunar conditions, providing the g",
     "published_at": "2026-02-04T13:04:21Z",
     "updated_at": "2026-02-04T12:00:23.546209Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35948,
+    "title": "Stacked metasurfaces use light and spacing to lock holographic data",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Stacked_metasurfaces_use_light_and_spacing_to_lock_holographic_data_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/modular-diffractive-neural-network%E2%80%93based-photonic-encryption-metahologram-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Feb 04, 2026\n\n\nA research team at Pohang University of Science and Technology (POSTECH) has demonstrated a secure holographic platform that encodes and reveals information using only the wavelength of light and the spacing between stacked metasurface layers. The approach targets the growing limitations of conventional digital security by shifting the encryption key from electronic code to the physical properti",
+    "published_at": "2026-02-04T13:04:21Z",
+    "updated_at": "2026-02-04T12:00:23.682729Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Tokyo, Japan (SPX) Feb 04, 2026\n\n\nA research team at Pohang University of Science and Technology (POSTECH) has demonstrated a secure holographic platform that encodes and reveals information using only the wavelength of light and the spacing between stacked metasurface layers. The approach targets the growing limitations of conventional digital security by shifting the encryption key from electronic code to the physical properti"
+  },
+  {
+    "id": 35949,
+    "title": "Global partners advance plans to harden submarine cable networks",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Global_partners_advance_plans_to_harden_submarine_cable_networks_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/big-data-internet-tube-600-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Madrid, Spain (SPX) Feb 04, 2026\n\n\nGovernments, industry representatives and international organizations from over 70 countries have agreed on new guidance to strengthen the resilience of submarine telecommunications cables at the International Submarine Cable Resilience Summit 2026 in Porto, Portugal. The event focused on protecting the subsea infrastructure that underpins global digital communications and economic activity.",
+    "published_at": "2026-02-04T13:04:21Z",
+    "updated_at": "2026-02-04T12:00:23.705761Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35952,
+    "title": "Senate committee delays consideration of bill to streamline FCC satellite licensing",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/senate-committee-delays-consideration-of-bill-to-streamline-fcc-satellite-licensing/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/04/megaconstellation-coverage-ESA-science-office.jpg?fit=1024%2C761&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA Senate committee has delayed consideration of a bill intended to expedite Federal Communications Commission reviews of satellite license applications amid concerns that the proposal may be too permissive.\nThe post Senate committee delays consideration of bill to streamline FCC satellite licensing appeared first on SpaceNews.",
+    "published_at": "2026-02-04T13:01:46Z",
+    "updated_at": "2026-02-04T13:10:34.533101Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35951,
+    "title": "SmallSat Alliance shifts focus from proliferation to coordination",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/smallsat-alliance-shifts-focus-from-proliferation-to-coordination/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/image-scaled.png?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAfter helping place proliferated LEO constellations at the center of U.S. military space planning, the SmallSat Alliance is now tackling how these networks can be used together as a unified system.\nThe post SmallSat Alliance shifts focus from proliferation to coordination appeared first on SpaceNews.",
+    "published_at": "2026-02-04T12:16:50Z",
+    "updated_at": "2026-02-04T12:20:38.975909Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -486,500 +1036,6 @@
     "summary": "NASA is passing on this month’s opportunity to send astronauts around the Moon on the Artemis II mission. March is the new target, with five available dates starting March 6. […]",
     "published_at": "2026-02-03T12:46:48Z",
     "updated_at": "2026-02-03T12:50:24.843793Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35923,
-    "title": "SpaceX pauses Falcon 9 launches after upper stage anomaly",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/f9-20260202.jpeg?fit=1024%2C719&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpaceX is pausing Falcon 9 launches after an issue with the rocket’s upper stage encountered at the end of a launch Feb. 2.\nThe post SpaceX pauses Falcon 9 launches after upper stage anomaly appeared first on SpaceNews.",
-    "published_at": "2026-02-03T12:29:06Z",
-    "updated_at": "2026-02-03T12:30:46.735861Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35922,
-    "title": "Artemis 2 slips to March",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/artemis-2-slips-to-march/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/art2-20260201.jpeg?fit=1024%2C716&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA is no longer planning a February launch of the Artemis 2 mission after encountering hydrogen leaks during a fueling test of the Space Launch System.\nThe post Artemis 2 slips to March appeared first on SpaceNews.",
-    "published_at": "2026-02-03T11:43:23Z",
-    "updated_at": "2026-02-03T11:50:34.380488Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35919,
-    "title": "Gravitational wave triad puts relativity under intense scrutiny",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Gravitational_wave_triad_puts_relativity_under_intense_scrutiny_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/testing-einstein-theory-of-relativity-clearest-gravitational-wave-signal-yet-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 02, 2026\n\n\nAn international team working within the LIGO Virgo KAGRA collaboration has used the exceptionally clear gravitational wave signal GW250114 to carry out some of the most precise tests yet of Einstein general theory of relativity. The work, which appears in Physical Review Letters, relies heavily on contributions from researchers at the Max Planck Institute for Gravitational Physics (Albert Einst",
-    "published_at": "2026-02-03T11:07:02Z",
-    "updated_at": "2026-02-03T10:00:24.216467Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35920,
-    "title": "Airspan 5G platform selected for Space Compass high altitude maritime network",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Airspan_5G_platform_selected_for_Space_Compass_high_altitude_maritime_network_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/space-compass-high-altitude-platform-station-artwork-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 30, 2026\n\n\nAirspan Networks Holdings LLC has announced that it will deploy a 5G Air-to-Ground communications system for Space Compass's High-Altitude Platform Station, creating a new capability for maritime domain awareness from the stratosphere. The partnership will use high-altitude aircraft operating around 16 to 18 kilometers to extend secure broadband connectivity far beyond the reach of conventional",
-    "published_at": "2026-02-03T11:07:02Z",
-    "updated_at": "2026-02-03T10:00:24.264533Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35918,
-    "title": "AI framework links gravitational waves and radio afterglows",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AI_framework_links_gravitational_waves_and_radio_afterglows_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rapid-radar-radio-afterglow-detection-and-ai-driven-response-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 02, 2026\n\n\nWhen two neutron stars collide, they generate gravitational waves and light across the electromagnetic spectrum, from intense gamma ray flashes to faint radio signals that can persist for years. These multi-messenger events contain rich information about the physics of compact objects, their environments and the formation of heavy elements, but extracting that information efficiently has proved",
-    "published_at": "2026-02-03T11:07:02Z",
-    "updated_at": "2026-02-03T10:00:24.176590Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35917,
-    "title": "Smartphone kit offers low cost on site radiation dose checks",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Smartphone_kit_offers_low_cost_on_site_radiation_dose_checks_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/smartphones-emergency-radiation-detectors-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nPrompt, individual dose assessment is a critical part of protecting people after large scale nuclear or radiological incidents, but traditional dosimetry relies on expensive instruments or laboratory processing that can delay decisions on medical care. Researchers at Hiroshima University have now demonstrated a portable, low cost system that pairs a small piece of radiochromic film with a foldab",
-    "published_at": "2026-02-03T11:07:02Z",
-    "updated_at": "2026-02-03T10:00:24.152952Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35916,
-    "title": "Laser method proposed to extend muon lifetime for science applications",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Laser_method_proposed_to_extend_muon_lifetime_for_science_applications_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/real-cms-proton-proton-collisions-events-electrons-muons-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Jan 28, 2026\n\n\nUnless they work in particle physics or a related discipline, most people are unlikely to have encountered muons, elementary particles that resemble electrons but are around 200 times heavier and interact only weakly with matter. This combination of properties enables muons to penetrate dense materials and be used in imaging techniques similar to X rays, but on the scale of large and heavy struc",
-    "published_at": "2026-02-03T11:07:02Z",
-    "updated_at": "2026-02-03T10:00:24.075924Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35921,
-    "title": "MDA Space and Hanwha target Korean K-LEO defense network",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/MDA_Space_and_Hanwha_target_Korean_K_LEO_defense_network_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mda-space-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Jan 30, 2026\n\n\nMDA Space has signed a Memorandum of Understanding with Hanwha Systems to pursue collaboration on Korea's planned sovereign Low Earth Orbit K-LEO defense constellation, targeting enhanced military communications and data services for national security operations. The agreement sets a framework for the two companies to explore how MDA Space's AURORA software-defined digital satellite platform can",
-    "published_at": "2026-02-03T11:07:02Z",
-    "updated_at": "2026-02-03T10:00:24.285614Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35915,
-    "title": "Engineered microbes use light to build new molecules",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Engineered_microbes_use_light_to_build_new_molecules_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/photoenzymatic-reactions-unnatural-biosynthesis-microorganisms-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 02, 2026\n\n\nResearchers are developing new ways to reprogram the cellular machinery of microbes such as yeast and bacteria so they can manufacture useful products for medicine and industry. A team at the Carl R. Woese Institute for Genomic Biology has now shown that they can extend the biosynthetic capabilities of microbes by harnessing light to drive new types of chemical reactions inside cells. \n\nIn w",
-    "published_at": "2026-02-03T11:07:02Z",
-    "updated_at": "2026-02-03T10:00:23.978583Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35914,
-    "title": "OpenClaw's AI agent does everything, even social media",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/OpenClaws_AI_agent_does_everything_even_social_media_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/openclaw-ai-agent-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Feb 2, 2026\n\n\n Meet OpenClaw: the AI assistant that promised to be your dream intern, terrified cybersecurity experts, and now thrives on chatbot-only social media  - all in just a few weeks. \n\nThe perfect assistant? \n\nAt the heart of the tech world's latest come-out-of-nowhere fascination is an AI tool built by Austrian researcher Peter Steinberger in November to help organize his digital life. \n\nAfter",
-    "published_at": "2026-02-03T06:28:08Z",
-    "updated_at": "2026-02-03T05:20:17.144505Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35913,
-    "title": "NASA conducts vital tests ahead of slated Moon mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_conducts_vital_tests_ahead_of_slated_Moon_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-2-launch-pad-stack-day-ocean-view-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (AFP) Feb 2, 2026\n\n\n NASA on Monday was conducting critical final tests ahead of setting a launch date for its first crewed flyby mission to the Moon in more than half a century. \n\nAt approximately 11:25 am EST (1625 GMT), the launch director of the Artemis 2 mission gave the green light to begin loading cryogenic liquid propellant into the giant rocket at the Cape Canaveral launch pad in Florida as part of the \"w",
-    "published_at": "2026-02-03T06:28:08Z",
-    "updated_at": "2026-02-03T05:20:17.075226Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35912,
-    "title": "Musk merges xAI into SpaceX in bid to build space data centers",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Musk_merges_xAI_into_SpaceX_in_bid_to_build_space_data_centers_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/elon-musk-twitter-not-dead-fu-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "San Francisco USA (AFP) Feb 2, 2026\n\n Elon Musk's SpaceX has taken over his artificial intelligence company xAI in a merger aimed at deploying space-based data centers, a statement said on Monday. \n\nThe acquisition combines SpaceX's rocket capabilities with xAI's technology to create what Musk in the statement called \"the most ambitious, vertically-integrated innovation engine on (and off) Earth.\" \n\nThe merger comes as funding f",
-    "published_at": "2026-02-03T06:28:08Z",
-    "updated_at": "2026-02-03T05:20:17.033059Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35928,
-    "title": "Cracking Antarctic Sea Ice",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/cracking-antarctic-sea-ice/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cracking-antarctic-sea-ice/antmcmurdoice_oli2_20260119.jpg",
-    "news_site": "NASA",
-    "summary": "Icebreakers play a critical role in delivering supplies to America’s largest research base in Antarctica.",
-    "published_at": "2026-02-03T05:01:00Z",
-    "updated_at": "2026-02-03T16:10:10.956469Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35906,
-    "title": "Crew 12 set for Dragon launch to Station in February",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Crew_12_set_for_Dragon_launch_to_Station_in_February_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-dragon-crew-12-iss-fedyaev-hathaway-meir-adenot-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Feb 02, 2026\n\n\nA four person international crew is preparing to launch to the International Space Station no earlier than Wednesday 11 February, riding a SpaceX Dragon spacecraft on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The planned liftoff time is 11:00 GMT, which corresponds to 12:00 CET and 06:00 EST, with two additional launch opportunities on 12 an",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.457658Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35896,
-    "title": "Flat dark matter sheet solves local galaxy motion puzzle",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Flat_dark_matter_sheet_solves_local_galaxy_motion_puzzle_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/milky-way-embedded-large-scale-sheet-local-group-puzzle-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 03, 2026\n\n\nAstronomers have used advanced computer simulations to show that the matter distribution just beyond the Local Group is organized in a vast, flattened structure of dark matter that extends tens of millions of light years. This large scale sheet surrounds the Milky Way and the Andromeda Galaxy and is bordered above and below by enormous voids where galaxies are absent. \n\nFor almost a century,",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.179962Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35899,
-    "title": "Lockheed Martin delivers second lot Sentinel A4 radar to US Army",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Lockheed_Martin_delivers_second_lot_Sentinel_A4_radar_to_US_Army_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lmt-sentinel-a4-radar-syracuse-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 03, 2026\n\n\nLockheed Martin has delivered the first Sentinel A4 radar from the second Low Rate Initial Production tranche to the US Army, marking a key step toward full rate production of the new air and missile defense sensor. \n\nThe radar recently completed the first phase of Initial Operational Test and Evaluation, which is designed to assess performance in representative operational scenarios and red",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.268072Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35898,
-    "title": "NASAs IMAP Begins Primary Science Mission",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASAs_IMAP_Begins_Primary_Science_Mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nasa-imap-reaches-mission-operations-destination-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Greenbelt MD (SPX) Feb 03, 2026\n\n\nNASAs IMAP (Interstellar Mapping and Acceleration Probe) began its two-year primary science mission on Feb. 1 to explore and map the boundaries of our heliosphere - the protective bubble created by the solar wind that encapsulates our solar system. \n\nThe mission, which launched on Sept. 24, 2025, relies on 10 scientific instruments to chart a comprehensive picture of what is roiling in space",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.254896Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35900,
-    "title": "NTU Singapore boosts agile space access with trio of new projects",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NTU_Singapore_boosts_agile_space_access_with_trio_of_new_projects_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ntu-edge-ai-satellite-mission-control-centre-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 03, 2026\n\n\nNanyang Technological University, Singapore is launching three new space projects under Singapore's Space Technology Development Programme, a national initiative to accelerate the commercialisation of space technologies. The projects are among the first supported under the Space Access Programme, which targets annual launches in 2026, 2027 and 2028 to give local researchers and companies faster,",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.299088Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35903,
-    "title": "NASA books fifth Axiom private astronaut flight to space station",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_books_fifth_Axiom_private_astronaut_flight_to_space_station_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-dragon-crew-axiom-1-docking-port-iss-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 02, 2026\n\n\nNASA has ordered a fifth private astronaut mission to the International Space Station from Axiom Space, targeting a launch no earlier than January 2027 from the agency's Kennedy Space Center in Florida. The flight, designated Axiom Mission 5, continues the series of commercially sponsored crewed missions to the orbital laboratory under NASA's commercial space strategy. \n\nNASA Administrator J",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.361104Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35908,
-    "title": "Perseverance rover completes landmark AI guided trek across Jezero rim",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Perseverance_rover_completes_landmark_AI_guided_trek_across_Jezero_rim_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mars-perseverance-rover-ai-planned-drive-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 02, 2026\n\n\nNASA's Perseverance Mars rover has completed the first AI planned drives ever carried out on another planet, using a vision capable generative AI system to map out safe routes across the rim of Jezero Crater without human route planners intervening in the usual way. \n\nThe demonstration, run on Dec 8 and Dec 10, 2025, used generative AI to create waypoints for the six wheeled rover, taking ov",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.481153Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35904,
-    "title": "NASA backs studies to boost hypersonic flight testing",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_backs_studies_to_boost_hypersonic_flight_testing_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spaceworks-enterprises-x-60-platform-hypersonic-supersonic-aerospace-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 02, 2026\n\n\nNASA is preparing for a new phase in hypersonic aviation by funding industry studies aimed at expanding flight test capabilities for reusable airbreathing vehicles that can cruise at several times the speed of sound. \n\nThe agency has awarded short term study contracts to SpaceWorks Enterprises of Atlanta, Georgia, and Stratolaunch of Mojave, California, to examine how existing platforms coul",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.372145Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35897,
-    "title": "Lab made cosmic dust experiment reveals paths to life chemistry",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Lab_made_cosmic_dust_experiment_reveals_paths_to_life_chemistry_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/unisyd-cosmic-dust-linda-losurdo-plasma-lab-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 03, 2026\n\n\nA PhD candidate at the University of Sydney has recreated a small slice of cosmic chemistry in the laboratory by manufacturing carbon rich dust under conditions that mimic space. Working in the School of Physics, materials and plasma physics researcher Linda Losurdo used a simple set of gases to simulate the harsh environments near aging stars and supernova remnants, then tracked how they assemb",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.238280Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35909,
-    "title": "Artemis II teams step through full-scale launch rehearsal at Kennedy",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Artemis_II_teams_step_through_full_scale_launch_rehearsal_at_Kennedy_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-2-pad-moon-orion-capsule-desk-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 02, 2026\n\n\nThe countdown for NASA's Artemis II wet dress rehearsal is underway at the agency's Kennedy Space Center in Florida, marking a key test before the first crewed flight of the Space Launch System rocket and Orion spacecraft in the Artemis campaign to return astronauts to the Moon. \n\nThe Space Launch System (SLS) rocket and Orion spacecraft, secured to the mobile launcher at Launch Pad 39B, wil",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.536441Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35902,
-    "title": "Dragon spacecraft gears up for crew 12 arrival and station science work",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Dragon_spacecraft_gears_up_for_crew_12_arrival_and_station_science_work_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-dragon-spacecraft-fires-draco-engines-iss-docking-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 03, 2026\n\n\nThe Expedition 74 crew has opened the week with preparations for the arrival of NASA's SpaceX Crew-12 mission while keeping the International Space Station supplied and its science hardware in working order. A SpaceX Dragon cargo spacecraft is also being readied for its return to Earth after delivering experiments, supplies and hardware in August 2025. \n\nThe next mission to the orbital outpo",
-    "published_at": "2026-02-03T04:52:30Z",
-    "updated_at": "2026-02-03T03:50:18.347560Z",
     "featured": false,
     "launches": [],
     "events": [],
