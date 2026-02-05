@@ -1,5 +1,85 @@
 [
   {
+    "id": 35988,
+    "title": "Morpheus raises $15 million in Series A+ round",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/morpheus-raises-15-million-in-series-a-round/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_go-2_11_25.jpg?fit=879%2C586&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO — Morpheus Space raised $15 million in a Series A+ funding round announced Feb. 5. “This funding is intended to accelerate our production as we focus on bringing our GO-2 Electric Propulsion System fully to market,” Morpheus CEO Kevin Lausten told SpaceNews. “It’s about getting the product in the hands of our customers.” […]\nThe post Morpheus raises $15 million in Series A+ round appeared first on SpaceNews.",
+    "published_at": "2026-02-05T12:00:00Z",
+    "updated_at": "2026-02-05T12:00:32.723472Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35987,
+    "title": "Space Force may be done with R-GPS, but Congress isn’t",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-force-may-be-done-with-r-gps-but-congress-isnt/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/9470308-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFew modern systems are as consequential — or as exposed — as the Global Positioning System. A temporary loss of access to its positioning, navigation and timing signals would ripple through the global economy and severely impair military operations. Yet despite repeated warnings that GPS signals can be jammed, spoofed or denied — often using […]\nThe post Space Force may be done with R-GPS, but Congress isn’t appeared first on SpaceNews.",
+    "published_at": "2026-02-05T12:00:00Z",
+    "updated_at": "2026-02-05T12:00:32.687800Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35986,
+    "title": "Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/vantor-wins-5-3-million-nga-contract-to-spot-terrain-changes-using-commercial-satellite-data/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Global-Change-Detection.jpg.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe award was made under NGA’s Luno program.\nThe post Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data appeared first on SpaceNews.",
+    "published_at": "2026-02-05T10:30:00Z",
+    "updated_at": "2026-02-05T10:40:39.953434Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35985,
+    "title": "Three ways R&D has shaped Galileo Second Generation",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Three_ways_R_D_has_shaped_Galileo_Second_Generation",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/rubidium_pulsed_optically_pumped_rb_pop_atomic_clock_by_leonardo_italy/27094183-1-eng-GB/Rubidium_Pulsed_Optically_Pumped_Rb_POP_atomic_clock_by_Leonardo_Italy_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Dedicated research and development, funded by European Union (EU) and European Space Agency (ESA) programmes over the years, has played a key role in Galileo Second Generation. ",
+    "published_at": "2026-02-05T08:31:00Z",
+    "updated_at": "2026-02-05T09:30:28.940358Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 35984,
     "title": "Milano Cortina 2026",
     "authors": [
@@ -287,6 +367,36 @@
     "detailed_news": ""
   },
   {
+    "id": 35960,
+    "title": "NASA Moon mission launch srubbed to March after test",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_Moon_mission_launch_delayed_to_March_after_test_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-2-pad-moon-orion-capsule-desk-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington, United States (AFP) Feb 3, 2026\r\n\r\n\r\n NASA said Tuesday it's delaying until March the launch of its first crewed flyby mission to the Moon in more than 50 years, after encountering leaks during final tests. \r\n\r\nThe mishaps during a run-through that the US space agency calls a \"wet dress rehearsal\" dashed hopes that the mission around the Moon could launch as soon as Sunday. The next possible launch window now opens March 6. \r\n\r\nThe",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:55:52.823969Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1325,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
     "id": 35969,
     "title": "Antarctic ice feedback limits Southern Ocean carbon sink",
     "authors": [
@@ -327,24 +437,48 @@
     "detailed_news": ""
   },
   {
-    "id": 35967,
-    "title": "NISAR radar view maps surface changes in Mississippi Delta",
+    "id": 35965,
+    "title": "DARPA taps Raytheon for new maritime defense system",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/NISAR_radar_view_maps_surface_changes_in_Mississippi_Delta_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nasa-isro-nisar-l-band-sar-new-orleans-baton-rouge-mississippi-pontchartrain-wetlands-farm-urban-town-bg.jpg",
+    "url": "https://www.spacewar.com/reports/DARPA_taps_Raytheon_for_new_maritime_defense_system_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rtx-advanced-maritime-defense-technologies-uav-drone-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 02, 2026\r\n\r\n\r\nA new radar image from the joint NASA-ISRO NISAR satellite shows how the mission can see through cloud cover to reveal surface features across the Mississippi River Delta region in southeastern Louisiana. \r\n\r\nThe scene, acquired on November 29, 2025, with NISAR's L-band synthetic aperture radar instrument, spans the cities of New Orleans and Baton Rouge, the winding Mississippi River between t",
+    "summary": "Los Angeles CA (SPX) Feb 03, 2026\n\n\nRaytheon, an RTX business, has been selected by the US Defense Advanced Research Projects Agency to develop an advanced sensing and targeting system to protect commercial shipping and naval logistics vessels from emerging maritime threats such as unmanned surface vehicles. \n\nUnder the Pulling Guard program, Raytheon s Advanced Technology team will design, build and demonstrate a system that",
     "published_at": "2026-02-04T15:53:40Z",
-    "updated_at": "2026-02-04T14:55:07.108876Z",
+    "updated_at": "2026-02-04T14:50:15.064593Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35961,
+    "title": "SpaceX grounds Falcon 9 missions, could impact ISS launch",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/SpaceX_grounds_Falcon_9_missions_could_impact_ISS_launch_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/spacex-dragon-crew-12-iss-fedyaev-hathaway-meir-adenot-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington, United States (AFP) Feb 3, 2026\r\n\r\n NASA said Tuesday its next crew rotation to the International Space Station could be delayed after SpaceX announced it was grounding flights of its Falcon 9 rocket to investigate an unspecified issue. \r\n\r\nSpaceX, the private space company owned by Elon Musk, has paused flights of its Falcon 9 rocket following an issue its second stage experienced during a routine launch Monday of Starlink satell",
+    "published_at": "2026-02-04T15:53:40Z",
+    "updated_at": "2026-02-04T14:55:43.766684Z",
     "featured": false,
     "launches": [
       {
-        "launch_id": "3e852c36-4179-4c45-a2b1-9252e639372f",
+        "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "d0949d55-3057-4eda-a5d8-cee5b0a7d3ce",
         "provider": "Launch Library 2"
       }
     ],
@@ -397,81 +531,27 @@
     "detailed_news": ""
   },
   {
-    "id": 35961,
-    "title": "SpaceX grounds Falcon 9 missions, could impact ISS launch",
+    "id": 35967,
+    "title": "NISAR radar view maps surface changes in Mississippi Delta",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/SpaceX_grounds_Falcon_9_missions_could_impact_ISS_launch_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-dragon-crew-12-iss-fedyaev-hathaway-meir-adenot-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/NISAR_radar_view_maps_surface_changes_in_Mississippi_Delta_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/nasa-isro-nisar-l-band-sar-new-orleans-baton-rouge-mississippi-pontchartrain-wetlands-farm-urban-town-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Feb 3, 2026\r\n\r\n NASA said Tuesday its next crew rotation to the International Space Station could be delayed after SpaceX announced it was grounding flights of its Falcon 9 rocket to investigate an unspecified issue. \r\n\r\nSpaceX, the private space company owned by Elon Musk, has paused flights of its Falcon 9 rocket following an issue its second stage experienced during a routine launch Monday of Starlink satell",
+    "summary": "Los Angeles CA (SPX) Feb 02, 2026\r\n\r\n\r\nA new radar image from the joint NASA-ISRO NISAR satellite shows how the mission can see through cloud cover to reveal surface features across the Mississippi River Delta region in southeastern Louisiana. \r\n\r\nThe scene, acquired on November 29, 2025, with NISAR's L-band synthetic aperture radar instrument, spans the cities of New Orleans and Baton Rouge, the winding Mississippi River between t",
     "published_at": "2026-02-04T15:53:40Z",
-    "updated_at": "2026-02-04T14:55:43.766684Z",
+    "updated_at": "2026-02-04T14:55:07.108876Z",
     "featured": false,
     "launches": [
       {
-        "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "d0949d55-3057-4eda-a5d8-cee5b0a7d3ce",
+        "launch_id": "3e852c36-4179-4c45-a2b1-9252e639372f",
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35960,
-    "title": "NASA Moon mission launch srubbed to March after test",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_Moon_mission_launch_delayed_to_March_after_test_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-2-pad-moon-orion-capsule-desk-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Feb 3, 2026\r\n\r\n\r\n NASA said Tuesday it's delaying until March the launch of its first crewed flyby mission to the Moon in more than 50 years, after encountering leaks during final tests. \r\n\r\nThe mishaps during a run-through that the US space agency calls a \"wet dress rehearsal\" dashed hopes that the mission around the Moon could launch as soon as Sunday. The next possible launch window now opens March 6. \r\n\r\nThe",
-    "published_at": "2026-02-04T15:53:40Z",
-    "updated_at": "2026-02-04T14:55:52.823969Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [
-      {
-        "event_id": 1325,
-        "provider": "Launch Library 2"
-      }
-    ],
-    "detailed_news": ""
-  },
-  {
-    "id": 35965,
-    "title": "DARPA taps Raytheon for new maritime defense system",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/DARPA_taps_Raytheon_for_new_maritime_defense_system_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rtx-advanced-maritime-defense-technologies-uav-drone-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 03, 2026\n\n\nRaytheon, an RTX business, has been selected by the US Defense Advanced Research Projects Agency to develop an advanced sensing and targeting system to protect commercial shipping and naval logistics vessels from emerging maritime threats such as unmanned surface vehicles. \n\nUnder the Pulling Guard program, Raytheon s Advanced Technology team will design, build and demonstrate a system that",
-    "published_at": "2026-02-04T15:53:40Z",
-    "updated_at": "2026-02-04T14:50:15.064593Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -951,98 +1031,6 @@
     "summary": "\nGen. Shawn Bratton, the Space Force’s vice chief of space operations, spoke with SpaceNews’ Sandra Erwin as part of an event focused on the Space Force 2040 at the Johns Hopkins University Bloomberg Center on Jan. 21. Here are six takeaways from their conversation: Planning for 2040 means more space superiority A long-range planning initiative […]\nThe post As satellites become targets, Space Force plans a broader role appeared first on SpaceNews.",
     "published_at": "2026-02-04T12:00:00Z",
     "updated_at": "2026-02-04T12:01:07.479105Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35939,
-    "title": "Explore Mars’s Flaugergues Crater",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/overhead_perspective_of_flaugergues_crater/27078072-1-eng-GB/Overhead_perspective_of_Flaugergues_Crater_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA’s Mars Express takes us on a journey across the southern highlands of Mars, including a flight around Flaugergues Crater.",
-    "published_at": "2026-02-04T10:00:00Z",
-    "updated_at": "2026-02-04T10:21:12.303133Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "db62cfa1-4d10-41d3-b25f-a58e138ce202",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35938,
-    "title": "Fast download speeds for European science in space, five years on",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2021/02/Fast_download_speeds_for_European_science_in_space_five_years_on",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/02/fast_download_speeds_for_european_science_in_space_five_years_on/23165034-1-eng-GB/Fast_download_speeds_for_European_science_in_space_five_years_on_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-02-04T08:22:00Z",
-    "updated_at": "2026-02-04T09:30:47.410652Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35937,
-    "title": "Chilled New York City",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/chilled-new-york-city/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/chilled-new-york-city/nycicy_oli_20260128.jpg",
-    "news_site": "NASA",
-    "summary": "Ice in the Hudson River hugged the shore of Manhattan amid a deep freeze.",
-    "published_at": "2026-02-04T05:01:00Z",
-    "updated_at": "2026-02-04T05:10:08.741437Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35936,
-    "title": "NASA examining hydrogen leaks during Artemis 2 fueling test",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-examining-hydrogen-leaks-during-artemis-2-fueling-test/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/art2-20260202.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA officials defended their preparations for the Artemis 2 mission after a fueling test experienced the same type of hydrogen leaks that bedeviled Artemis 1 more than three years ago.\nThe post NASA examining hydrogen leaks during Artemis 2 fueling test appeared first on SpaceNews.",
-    "published_at": "2026-02-04T02:10:28Z",
-    "updated_at": "2026-02-04T02:20:51.053055Z",
     "featured": false,
     "launches": [],
     "events": [],
