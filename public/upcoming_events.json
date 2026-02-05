@@ -1,6 +1,6 @@
 {
-  "count": 9,
-  "last_updated": "2026-02-04T18:12:23.709595Z",
+  "count": 11,
+  "last_updated": "2026-02-05T00:06:51.145468Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (9 failed/unavailable)"
+    "Empty AI summaries (11 failed/unavailable)"
   ],
   "launches": [
     {
@@ -104,6 +104,47 @@
       "ai_summary": ""
     },
     {
+      "id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
+      "name": "Falcon 9 Block 5 | Crew-12",
+      "status": "Go",
+      "net": "2026-02-11T11:01:04Z",
+      "window_start": "2026-02-11T11:01:04Z",
+      "window_end": "2026-02-11T11:01:04Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Crew-12",
+      "mission_description": "SpaceX Crew-12 is the twelfth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
+      "mission_type": "Human Exploration",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Space Launch Complex 40, Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "location": "Cape Canaveral SFS, FL, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 540,
+      "rocket_config_successful_launches": 539,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 105,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 633,
+      "rocket_manufacturer_successful_launches": 618,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20220301072106.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/862b54e3-7bf8-48e5-8cd1-d77257d5fde9/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
       "id": "d9c4e13d-abab-4ddc-9821-710a81d54e57",
       "name": "Falcon 9 Block 5 | Starlink Group 17-34",
       "status": "Go",
@@ -150,6 +191,47 @@
           "url": "https://x.com/i/broadcasts/1djGXWlWWwkKZ"
         }
       ],
+      "ai_summary": ""
+    },
+    {
+      "id": "550f778d-6c2d-41fc-b182-6f0cd8feda93",
+      "name": "Vulcan VC4S | USSF-87",
+      "status": "Go",
+      "net": "2026-02-12T08:00:00Z",
+      "window_start": "2026-02-12T08:00:00Z",
+      "window_end": "2026-02-12T12:50:00Z",
+      "lsp_name": "United Launch Alliance",
+      "lsp_description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+      "mission_name": "USSF-87",
+      "mission_description": "USSF-87 will launch two identical Geosynchronous Space Situational Awareness Program (GSSAP) satellites GSSAP-7 and GSSAP-8 directly to a near-geosynchronous orbit approximately 36,000 km above the equator.\r\n\r\nData from the GSSAP will uniquely contribute to timely and accurate orbital predictions, further enabling space flight safety including satellite collision avoidance.",
+      "mission_type": "Government/Top Secret",
+      "orbit": "Geostationary Orbit",
+      "launch_site": "Space Launch Complex 41, Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 41",
+      "location": "Cape Canaveral SFS, FL, USA",
+      "rocket": "Vulcan VC4S",
+      "rocket_config_description": "Vulcan Centaur is a two-stage-to-orbit, heavy-lift launch vehicle under development by United Launch Alliance (ULA) since 2014. It is principally designed to meet launch demands for the U.S. government's National Security Space Launch (NSSL) program for use by the United States Space Force and U.S. intelligence agencies for national security satellite launches. It will replace both of ULA's existing launchers (Atlas V and Delta IV Heavy) in this role, as these launchers are retiring.",
+      "rocket_config_family": "Vulcan",
+      "rocket_config_full_name": "Vulcan VC4S",
+      "rocket_config_total_launch_count": 1,
+      "rocket_config_successful_launches": 1,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 2,
+      "rocket_manufacturer_name": "United Launch Alliance",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+      "rocket_manufacturer_total_launch_count": 170,
+      "rocket_manufacturer_successful_launches": 170,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc4s_v-0_image_20250812014341.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/550f778d-6c2d-41fc-b182-6f0cd8feda93/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
       "ai_summary": ""
     },
     {
@@ -427,7 +509,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 9,
-    "total_launches": 9
+    "empty_summaries": 11,
+    "total_launches": 11
   }
 }
