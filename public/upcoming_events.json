@@ -1,6 +1,6 @@
 {
-  "count": 14,
-  "last_updated": "2026-02-05T18:12:50.702141Z",
+  "count": 13,
+  "last_updated": "2026-02-06T00:04:50.269968Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (14 failed/unavailable)"
+    "Empty AI summaries (13 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "726f22bb-8a58-482e-82e8-b2a88e08fc7e",
-      "name": "Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)",
-      "status": "Go",
-      "net": "2026-02-05T18:57:00Z",
-      "window_start": "2026-02-05T15:00:00Z",
-      "window_end": "2026-02-05T22:00:00Z",
-      "lsp_name": "Russian Space Forces",
-      "lsp_description": "The Russian Space Forces are a branch of the Russian Aerospace Forces, that provides aerospace warning, air sovereignty, and protection for Russia. Having been reestablished following August 1, 2015 merger between the Russian Air Force and the Russian Aerospace Defence Forces after a 2011 dissolving of the branch. The Russian Space Forces were originally formed on August 10, 1992 and the creation of the Russian Armed Forces.",
-      "lsp_type": "Government",
-      "lsp_country": "RUS",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/russian2520space2520forces_logo_20200805185824.png",
-      "mission_name": "Kosmos (Unknown Payload)",
-      "mission_description": "Unknown classified payload(s) for the Russian military.",
-      "mission_type": "Government/Top Secret",
-      "orbit": "Unknown",
-      "launch_site": "Unknown Pad, Plesetsk Cosmodrome, Russian Federation",
-      "pad": "Unknown Pad",
-      "location": "Plesetsk Cosmodrome, Russian Federation",
-      "rocket": "Soyuz 2.1a Fregat-M",
-      "rocket_config_description": "The 2.1a version includes conversion from analog to digital flight control system and uprated engines on the booster and the first stage with improved injection systems. The new digital flight control and telemetry systems allow the rocket to launch from a fixed rather than angled launch platform and adjust its heading in flight. A digital control system also enables the launch of larger commercial satellites with wider and longer payload fairings such as the ST-type fairing. These fairings introduce too much aerodynamic instability for the old analog system to handle.",
-      "rocket_config_family": "Soyuz",
-      "rocket_config_full_name": "Soyuz 2.1a Fregat-M",
-      "rocket_config_total_launch_count": 19,
-      "rocket_config_successful_launches": 18,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "Progress Rocket Space Center",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Progress Rocket Space Centre, formerly known as TsSKB-Progress, is a space science and aerospace research company which is known for manufacturing launch vehicles and satellites. Most notably, Progress Rocket Space Centre is the manufacturer of Soyuz launch vehicles.",
-      "rocket_manufacturer_total_launch_count": 45,
-      "rocket_manufacturer_successful_launches": 44,
-      "rocket_manufacturer_failed_launches": 1,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/726f22bb-8a58-482e-82e8-b2a88e08fc7e/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "a9fd7757-9a51-4607-845d-d830673c4486",
       "name": "Long March 2F/G | Chinese Reusable Space Vehicle (???)",
@@ -640,7 +599,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 14,
-    "total_launches": 14
+    "empty_summaries": 13,
+    "total_launches": 13
   }
 }

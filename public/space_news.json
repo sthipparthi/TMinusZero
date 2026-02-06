@@ -1,5 +1,112 @@
 [
   {
+    "id": 36008,
+    "title": "FAA approves Starship launches from LC-39A",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/faa-approves-starship-launches-from-lc-39a/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/starship-lc39a-jan26.jpeg?fit=1024%2C704&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Federal Aviation Administration has approved plans for Starship launches from Kennedy Space Center’s Launch Complex 39A as SpaceX shifts Falcon 9 launches away from the historic pad.\nThe post FAA approves Starship launches from LC-39A appeared first on SpaceNews.",
+    "published_at": "2026-02-06T00:01:21Z",
+    "updated_at": "2026-02-06T00:02:13.667953Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36007,
+    "title": "NASA Selects Two Earth System Explorers Missions",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-selects-two-earth-system-explorers-missions/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+    "news_site": "NASA",
+    "summary": "Two next-generation satellite missions announced Thursday will help NASA better understand Earth and improve capabilities to foresee environmental events and mitigate disasters. “NASA uses the unique vantage point of space to study our home planet to deliver life-saving data into the hands of disaster response and decision-makers every day for the benefit of all, while […]",
+    "published_at": "2026-02-05T21:10:14Z",
+    "updated_at": "2026-02-05T21:20:10.276896Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36006,
+    "title": "Career Spotlight: Welder (Ages 14-18)",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/learning-resources/career-spotlight-welder-ages-14-18/",
+    "image_url": "https://images-assets.nasa.gov/image/KSC-20181026-PH_JBS01_0029/KSC-20181026-PH_JBS01_0029~large.jpg",
+    "news_site": "NASA",
+    "summary": "What does a welder do? A welder uses tools that join two or more parts through forces such as heat or pressure. Metals are the materials most commonly used in welding, but it’s also possible to weld thermoplastics or wood. Welders use their hands, skills, and problem-solving abilities to create something new. At NASA, welders […]",
+    "published_at": "2026-02-05T19:35:15Z",
+    "updated_at": "2026-02-05T19:40:18.374044Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36005,
+    "title": "NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/55065874866-7c923a326a-k-1.png",
+    "news_site": "NASA",
+    "summary": "NASA’s SpaceX Crew-12 mission is preparing to launch for a long-duration science mission aboard the International Space Station. During the mission, select crew members will participate in human health studies focused on understanding how astronauts’ bodies adapt to the low-gravity environment of space, including a new study examining subtle changes in blood flow. The experiments, […]",
+    "published_at": "2026-02-05T18:38:08Z",
+    "updated_at": "2026-02-05T18:40:15.299180Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36003,
+    "title": "Despite initial setbacks, Chinese spaceflight expected to see exciting 2026",
+    "authors": [
+      {
+        "name": "Martin Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/02/china-roundup-020526/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/Landspace-ZhuQue-3-ascends-on-its-maiden-launch-Credit-Landspace.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "The new year has not started well for China, with two failures among its first…\nThe post Despite initial setbacks, Chinese spaceflight expected to see exciting 2026 appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-02-05T18:15:44Z",
+    "updated_at": "2026-02-05T18:20:23.678200Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36002,
     "title": "Hubble Spots Lens-Shaped Galaxy",
     "authors": [
@@ -34,6 +141,26 @@
     "summary": "\nIn this episode of Space Minds, Mike Gruss sits down with a panel of experts at the Johns Hopkins University Bloomberg Center to discuss the future of the United States […]\nThe post The future of the Space Force in a competitive, congested and contested space environment appeared first on SpaceNews.",
     "published_at": "2026-02-05T15:59:02Z",
     "updated_at": "2026-02-05T16:01:57.678223Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36004,
+    "title": "A presidential greeting ahead of Sophie Adenot's first spaceflight",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Corporate_news/A_presidential_greeting_ahead_of_Sophie_Adenot_s_first_spaceflight",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/esa_astronaut_sophie_adenot_speaking_with_french_president_emmanuel_macron/27096558-3-eng-GB/ESA_astronaut_Sophie_Adenot_speaking_with_French_President_Emmanuel_Macron_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "ESA Director General Josef Aschbacher joined French President Emmanuel Macron at the Élysée Palace for an event celebrating the first spaceflight of ESA astronaut Sophie Adenot.",
+    "published_at": "2026-02-05T15:55:00Z",
+    "updated_at": "2026-02-05T18:30:42.486511Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -147,60 +274,20 @@
     "detailed_news": ""
   },
   {
-    "id": 35989,
-    "title": "Einstein effect clears planets from tight double star systems",
+    "id": 35990,
+    "title": "Why Modern Game Engines Struggle with Real Interstellar Combat Physics",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Einstein_effect_clears_planets_from_tight_double_star_systems_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/rare-tatooine-planets-general-relativity-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Why_Modern_Game_Engines_Struggle_with_Real_Interstellar_Combat_Physics_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/real-interstellar-combat-physics-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 02, 2026\n\n\nOf the more than 4,500 stars known to have planets, one puzzling statistic stands out. Even though nearly all stars are expected to have planets and most stars form in pairs, planets that orbit both stars in a pair are rare. \n\nOf the more than 6,000 extrasolar planets, or exoplanets, confirmed to date - most of them found by NASA's Kepler Space Telescope and the Transiting Exoplanet Survey S",
+    "summary": "Los Angeles CA (SPX) Feb 05, 2026\n\nYour favorite space sim lies to you every single time you hit the throttle. Developers prioritize \"fun\" over \"physics\" because actual interstellar combat involves math that would melt your brain and your GPU simultaneously",
     "published_at": "2026-02-05T14:01:07Z",
-    "updated_at": "2026-02-05T13:00:18.478333Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35991,
-    "title": "BlackSky expands Gen 3 Assured deals with new defense customer",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/BlackSky_expands_Gen_3_Assured_deals_with_new_defense_customer_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/blacksky-gen-3-container-ship-port-jebel-ali-dubai-uae-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 04, 2026\n\n\nBlackSky Technology Inc. has secured multiple Gen 3 Assured services contracts totaling seven figures with a new international defense customer following an early access period for the capability. The company reports that the expansion agreements signal a rapid shift by the customer toward advanced space-based dynamic monitoring as they scale to support time-sensitive tactical intelligence, surv",
-    "published_at": "2026-02-05T14:01:07Z",
-    "updated_at": "2026-02-05T13:00:18.516897Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35993,
-    "title": "Study maps thousands of non native plants that could colonize Arctic",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Study_maps_thousands_of_non_native_plants_that_could_colonize_Arctic_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/common-meadow-rue-thalictrum-flavum-svalbard-alien-species-arctic-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 04, 2026\n\n\nSpecies that are not native to an area can displace the species that already live there, and the Intergovernmental Panel on Nature has identified invasive alien organisms as one of the greatest threats to global biodiversity. Researchers from the Norwegian University of Science and Technology and the University of Liverpool have now produced a systematic scan of which alien vascular plants could",
-    "published_at": "2026-02-05T14:01:07Z",
-    "updated_at": "2026-02-05T13:00:18.561302Z",
+    "updated_at": "2026-02-05T13:00:18.506050Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -227,26 +314,6 @@
     "detailed_news": ""
   },
   {
-    "id": 35990,
-    "title": "Why Modern Game Engines Struggle with Real Interstellar Combat Physics",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Why_Modern_Game_Engines_Struggle_with_Real_Interstellar_Combat_Physics_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/real-interstellar-combat-physics-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 05, 2026\n\nYour favorite space sim lies to you every single time you hit the throttle. Developers prioritize \"fun\" over \"physics\" because actual interstellar combat involves math that would melt your brain and your GPU simultaneously",
-    "published_at": "2026-02-05T14:01:07Z",
-    "updated_at": "2026-02-05T13:00:18.506050Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 35994,
     "title": "Ancient lungfish fossils refine early vertebrate story",
     "authors": [
@@ -261,6 +328,66 @@
     "summary": "Sydney, Australia (SPX) Feb 04, 2026\n\n\nNew research from Australian and Chinese scientists is filling key gaps in the evolutionary story of some of the oldest fishes on Earth, including early lungfishes closely related to land vertebrates. \n\nIn two separate studies, researchers have re-examined fossil material from the Late Devonian Gogo Formation in Western Australia and described a new lungfish species from 410 million-year-old",
     "published_at": "2026-02-05T14:01:07Z",
     "updated_at": "2026-02-05T13:00:18.573028Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35991,
+    "title": "BlackSky expands Gen 3 Assured deals with new defense customer",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/BlackSky_expands_Gen_3_Assured_deals_with_new_defense_customer_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/blacksky-gen-3-container-ship-port-jebel-ali-dubai-uae-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 04, 2026\n\n\nBlackSky Technology Inc. has secured multiple Gen 3 Assured services contracts totaling seven figures with a new international defense customer following an early access period for the capability. The company reports that the expansion agreements signal a rapid shift by the customer toward advanced space-based dynamic monitoring as they scale to support time-sensitive tactical intelligence, surv",
+    "published_at": "2026-02-05T14:01:07Z",
+    "updated_at": "2026-02-05T13:00:18.516897Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35989,
+    "title": "Einstein effect clears planets from tight double star systems",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Einstein_effect_clears_planets_from_tight_double_star_systems_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/rare-tatooine-planets-general-relativity-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 02, 2026\n\n\nOf the more than 4,500 stars known to have planets, one puzzling statistic stands out. Even though nearly all stars are expected to have planets and most stars form in pairs, planets that orbit both stars in a pair are rare. \n\nOf the more than 6,000 extrasolar planets, or exoplanets, confirmed to date - most of them found by NASA's Kepler Space Telescope and the Transiting Exoplanet Survey S",
+    "published_at": "2026-02-05T14:01:07Z",
+    "updated_at": "2026-02-05T13:00:18.478333Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 35993,
+    "title": "Study maps thousands of non native plants that could colonize Arctic",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Study_maps_thousands_of_non_native_plants_that_could_colonize_Arctic_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/common-meadow-rue-thalictrum-flavum-svalbard-alien-species-arctic-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Feb 04, 2026\n\n\nSpecies that are not native to an area can displace the species that already live there, and the Intergovernmental Panel on Nature has identified invasive alien organisms as one of the greatest threats to global biodiversity. Researchers from the Norwegian University of Science and Technology and the University of Liverpool have now produced a systematic scan of which alien vascular plants could",
+    "published_at": "2026-02-05T14:01:07Z",
+    "updated_at": "2026-02-05T13:00:18.561302Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -884,143 +1011,6 @@
     "summary": "\nExoAnalytic tool aims to show when fire-monitoring satellites can actually see the ground\nThe post FireSat adds orbit-visualization software to help firefighters plan around satellite passes appeared first on SpaceNews.",
     "published_at": "2026-02-04T15:50:47Z",
     "updated_at": "2026-02-04T16:01:41.601082Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35970,
-    "title": "Space telescopes at light speed",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/space-telescopes-at-light-speed/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/complete-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "Light is the fastest phenomenon in the universe, clocking in at just under 300,000 kilometers per second. The telescopes that observe that light, from radio waves to gamma rays, are built at rather slower speeds. Take, as one example, the James Webb Space Telescope. NASA began feasibility studies for the mission in the mid-1990s and […]\r\nThe post Space telescopes at light speed appeared first on SpaceNews.",
-    "published_at": "2026-02-04T15:00:00Z",
-    "updated_at": "2026-02-04T15:34:21.351835Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35959,
-    "title": "NASA finally acknowledges the elephant in the room with the SLS rocket",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/02/nasa-finally-acknowledges-the-elephant-in-the-room-with-the-sls-rocket/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Artemis-II-at-the-pad-Full-Snow-Moon-02012026_8large.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"You know, you're right, the flight rate—three years is a long time.\"",
-    "published_at": "2026-02-04T14:41:30Z",
-    "updated_at": "2026-02-04T14:56:04.665989Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35958,
-    "title": "Isar Aerospace to Expand Testing Facilities as it Prepares for Next Spectrum Flight",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/isar-aerospace-to-expand-testing-facilities-as-it-prepares-for-next-spectrum-flight/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/Isar-Aerospace-to-Expand-Testing-Facilities-as-it-Prepares-for-Next-Spectrum-Flight.webp",
-    "news_site": "European Spaceflight",
-    "summary": "German rocket builder Isar Aerospace has announced plans to expand its testing facilities at the Esrange Space Center in Sweden. The announcement comes as the company prepares for the second flight of its Spectrum rocket, currently expected no earlier than 19 March. Isar Aerospace was founded in 2018 and is developing a 28-metre-tall rocket designed […]\r\nThe post Isar Aerospace to Expand Testing Facilities as it Prepares for Next Spectrum Flight appeared first on European Spaceflight.",
-    "published_at": "2026-02-04T14:18:14Z",
-    "updated_at": "2026-02-04T14:59:39.600659Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "German rocket builder Isar Aerospace has announced plans to expand its testing facilities at the Esrange Space Center in Sweden. The announcement comes as the company prepares for the second flight of its Spectrum rocket, currently expected no earlier than 19 March. Isar Aerospace was founded in 2018 and is developing a 28-metre-tall rocket designed […]\r\nThe post Isar Aerospace to Expand Testing Facilities as it Prepares for Next Spectrum Flight appeared first on European Spaceflight."
-  },
-  {
-    "id": 35956,
-    "title": "Tracking Glacial Change with Landsat and Radar",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/landsat/nasa-scientist-explains-how-glaciers-flow-with-the-seasons/",
-    "image_url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2025/satellites-detect-seasonal-pulses-in-earth%E2%80%99s-glaciers/baltoroseasonal_hls_2024_hires.gif",
-    "news_site": "NASA",
-    "summary": "NASA Scientist Alex Gardner highlights how Landsat made his research into the dynamics of glacial flow possible.",
-    "published_at": "2026-02-04T14:00:00Z",
-    "updated_at": "2026-02-04T14:10:10.294678Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35957,
-    "title": "Silicon as strategy: the hidden battleground of the new space race",
-    "authors": [
-      {
-        "name": "Elad Baram",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/silicon-as-strategy-the-hidden-battleground-of-the-new-space-race/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/200mm_Si_Wafer.png?fit=1024%2C902&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn the consumer electronics playbook, custom silicon is the final step in the marathon: you use off-the-shelf components to prove a product, achieve mass scale and only then invest in proprietary chips to create differentiation, improve operations, and optimize margins. In the modern satellite communications (SATCOM) ecosystem, this script has been flipped. For the industry’s […]\nThe post Silicon as strategy: the hidden battleground of the new space race appeared first on SpaceNews.",
-    "published_at": "2026-02-04T14:00:00Z",
-    "updated_at": "2026-02-04T14:10:26.883412Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 35955,
-    "title": "Rocket ignition that resonates",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Rocket_ignition_that_resonates",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/resonance_igniter_firing/27093904-2-eng-GB/Resonance_igniter_firing_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-02-04T13:30:00Z",
-    "updated_at": "2026-02-04T13:50:23.840141Z",
     "featured": false,
     "launches": [],
     "events": [],
