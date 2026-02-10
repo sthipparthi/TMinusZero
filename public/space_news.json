@@ -20,6 +20,93 @@
     "detailed_news": ""
   },
   {
+    "id": 36080,
+    "title": "Musk says SpaceX focus is on the moon rather than Mars",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/musk-says-spacex-focus-is-on-the-moon-rather-than-mars/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2017/09/bfr-moon.jpg?fit=879%2C495&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA little more than a year after dismissing the moon as a “distraction,” Elon Musk says SpaceX will focus on lunar settlement before sending humans to Mars.\nThe post Musk says SpaceX focus is on the moon rather than Mars appeared first on SpaceNews.",
+    "published_at": "2026-02-09T22:55:18Z",
+    "updated_at": "2026-02-09T23:01:37.971407Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36079,
+    "title": "Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS",
+    "authors": [
+      {
+        "name": "Aaron McCrea",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/02/launch-preview-020926/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/Crew-12-Dragon-scaled.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "The launch manifest is full this week, with eight launches scheduled from different launch sites…\nThe post Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-02-09T22:34:44Z",
+    "updated_at": "2026-02-09T22:40:16.401574Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36078,
+    "title": "What You Need to Know About NASA’s SpaceX Crew-12 Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-12-mission/",
+    "image_url": "https://images-assets.nasa.gov/image/jsc2026e004045/jsc2026e004045~large.jpg",
+    "news_site": "NASA",
+    "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-12 mission, where they will conduct research, technology demonstrations, and maintenance aboard the orbiting laboratory. The crew will lift off from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida aboard a SpaceX Dragon spacecraft […]",
+    "published_at": "2026-02-09T22:14:29Z",
+    "updated_at": "2026-02-09T22:20:15.285060Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36077,
+    "title": "Weather delays NASA’s SpaceX Crew-12 flight to the International Space Station",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/02/09/weather-delays-nasas-spacex-crew-12-flight-to-the-international-space-station/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260209_Crew-12_DDR-1.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The launch is now targeting no earlier than Thursday, Feb. 12, but that too could face challenges from a weather standpoint. ",
+    "published_at": "2026-02-09T22:09:35Z",
+    "updated_at": "2026-02-09T22:10:41.279330Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36076,
     "title": "Crew-12 to Return ISS to Normal Complement",
     "authors": [
@@ -265,26 +352,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36061,
-    "title": "Gilat books multimillion order for Sidewinder inflight ESA terminals",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Gilat_books_multimillion_order_for_Sidewinder_inflight_ESA_terminals_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/oneweb-satellite-orbit-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Feb 08, 2026\n\n\nGilat Satellite Networks has secured a multimillion order from a major global avionics company for its Sidewinder electronically steered antenna inflight connectivity terminals designed by Gilat Stellar Blu, with deliveries scheduled over the next six months. \n\nThe new contract underscores growing momentum for the Sidewinder ESA platform as airlines and service providers look to deploy advan",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.255492Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36059,
     "title": "Thunderstorm, not eclipse, drove tree signal spike in Dolomites",
     "authors": [
@@ -305,40 +372,40 @@
     "detailed_news": ""
   },
   {
-    "id": 36051,
-    "title": "First Crewed Moon Flyby In 54 Years: Artemis II",
+    "id": 36057,
+    "title": "'The beacons were lit!' A system to detect and map merging black holes",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/NASAs_Artemis_II_plans_to_send_a_crew_around_the_Moon_to_test_equipment_and_lay_the_groundwork_for_a_future_landing_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-2-pad-moon-orion-capsule-desk-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/The_beacons_were_lit!_A_system_to_detect_and_map_merging_black_holes_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gravitational-waves-merger-black-holes-lensed-massive-stellar-objects-calculate-space-time-distance-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tempe AZ (SPX) Feb 08, 2026\n\n\nAlmost as tall as a football field, NASAs Space Launch System rocket and capsule stack traveled slowly - just under 1 mile per hour - out to the Artemis II launchpad, its temporary home at the Kennedy Space Center in Florida, on Jan. 17, 2026. That slow crawl is in stark contrast to the peak velocity it will reach on launch day, over 22,000 miles per hour, when it will send a crew of four on a j",
+    "summary": "New Haven CT (SPX) Feb 08, 2026\n\n\nAn international collaboration of astrophysicists that includes researchers from Yale has created and tested a detection system that uses gravitational waves to map out the locations of merging black holes - known as supermassive black hole binaries - around the universe. \n\nSuch a map would provide a vital new way to explore and understand astronomy and physics, just as X-rays and radio wave",
     "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.108499Z",
+    "updated_at": "2026-02-08T00:50:15.207380Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 36062,
-    "title": "Britain Launches Secure Satellite Timing System to Guard Critical Services",
+    "id": 36061,
+    "title": "Gilat books multimillion order for Sidewinder inflight ESA terminals",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Britain_Launches_Secure_Satellite_Timing_System_to_Guard_Critical_Services_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uk-space-agency-logo-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Gilat_books_multimillion_order_for_Sidewinder_inflight_ESA_terminals_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/oneweb-satellite-orbit-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Feb 08, 2026\n\n\nBritain has contracted GMV to build a Two-Way Satellite Time and Frequency Transfer system designed to deliver assured Position, Navigation and Time services for national infrastructure, defense operations, and the wider economy. The system will reduce dependence on Global Navigation Satellite Systems, which remain vulnerable to interference and disruption. \n\nGMV won the competitive tender t",
+    "summary": "London, UK (SPX) Feb 08, 2026\n\n\nGilat Satellite Networks has secured a multimillion order from a major global avionics company for its Sidewinder electronically steered antenna inflight connectivity terminals designed by Gilat Stellar Blu, with deliveries scheduled over the next six months. \n\nThe new contract underscores growing momentum for the Sidewinder ESA platform as airlines and service providers look to deploy advan",
     "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.266068Z",
+    "updated_at": "2026-02-08T00:50:15.255492Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -385,6 +452,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36056,
+    "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4788_4797_Welcome_Back_from_Conjunction_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-jupiter-earth-sun-mars-solar-conjunction-2023-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Pasadena CA (SPX) Feb 08, 2026\n\n\nMars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get back to work on Mars. Our first planning day last Friday gave Curiosity a full weekend of activities, which wrapped up with getting us ready for our next drill. \n\nWe checked out a broken white rock in the workspace with APXS, MAHLI, and ChemCam's laser spectrometer and fi",
+    "published_at": "2026-02-08T01:59:29Z",
+    "updated_at": "2026-02-08T00:50:15.196762Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36058,
     "title": "Runaway black hole jet outshines legendary death star",
     "authors": [
@@ -405,60 +492,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36057,
-    "title": "'The beacons were lit!' A system to detect and map merging black holes",
+    "id": 36062,
+    "title": "Britain Launches Secure Satellite Timing System to Guard Critical Services",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/The_beacons_were_lit!_A_system_to_detect_and_map_merging_black_holes_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gravitational-waves-merger-black-holes-lensed-massive-stellar-objects-calculate-space-time-distance-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Britain_Launches_Secure_Satellite_Timing_System_to_Guard_Critical_Services_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uk-space-agency-logo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "New Haven CT (SPX) Feb 08, 2026\n\n\nAn international collaboration of astrophysicists that includes researchers from Yale has created and tested a detection system that uses gravitational waves to map out the locations of merging black holes - known as supermassive black hole binaries - around the universe. \n\nSuch a map would provide a vital new way to explore and understand astronomy and physics, just as X-rays and radio wave",
+    "summary": "London, UK (SPX) Feb 08, 2026\n\n\nBritain has contracted GMV to build a Two-Way Satellite Time and Frequency Transfer system designed to deliver assured Position, Navigation and Time services for national infrastructure, defense operations, and the wider economy. The system will reduce dependence on Global Navigation Satellite Systems, which remain vulnerable to interference and disruption. \n\nGMV won the competitive tender t",
     "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.207380Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36054,
-    "title": "NASA Study: Non-biologic Processes Don't Fully Explain Mars Organics",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_Study_Non_biologic_Processes_Dont_Fully_Explain_Mars_Organics_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/curiosity-mars-lab-vista-sol-3817-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Greenbelt MD (SPX) Feb 08, 2026\n\n\nIn a new study, researchers say that non-biological sources they considered could not fully account for the abundance of organic compounds in a sample collected on Mars by NASA's Curiosity rover. \n\nIn March 2025, scientists reported identifying small amounts of decane, undecane, and dodecane in a rock sample analyzed in the chemistry lab aboard Curiosity. These were the largest organic compo",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.163603Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36056,
-    "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4788_4797_Welcome_Back_from_Conjunction_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-jupiter-earth-sun-mars-solar-conjunction-2023-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (SPX) Feb 08, 2026\n\n\nMars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get back to work on Mars. Our first planning day last Friday gave Curiosity a full weekend of activities, which wrapped up with getting us ready for our next drill. \n\nWe checked out a broken white rock in the workspace with APXS, MAHLI, and ChemCam's laser spectrometer and fi",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.196762Z",
+    "updated_at": "2026-02-08T00:50:15.266068Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -499,6 +546,46 @@
     "summary": "London, UK (SPX) Feb 08, 2026\n\n\nOur Milky Way galaxy may not host a supermassive black hole at its center but instead an enormous concentration of dark matter that exerts an equivalent gravitational influence on nearby stars and gas, according to new research published in Monthly Notices of the Royal Astronomical Society. The authors argue that this invisible substance, which makes up most of the universe's mass, can account b",
     "published_at": "2026-02-08T01:59:29Z",
     "updated_at": "2026-02-08T00:50:15.137953Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36054,
+    "title": "NASA Study: Non-biologic Processes Don't Fully Explain Mars Organics",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_Study_Non_biologic_Processes_Dont_Fully_Explain_Mars_Organics_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/curiosity-mars-lab-vista-sol-3817-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Greenbelt MD (SPX) Feb 08, 2026\n\n\nIn a new study, researchers say that non-biological sources they considered could not fully account for the abundance of organic compounds in a sample collected on Mars by NASA's Curiosity rover. \n\nIn March 2025, scientists reported identifying small amounts of decane, undecane, and dodecane in a rock sample analyzed in the chemistry lab aboard Curiosity. These were the largest organic compo",
+    "published_at": "2026-02-08T01:59:29Z",
+    "updated_at": "2026-02-08T00:50:15.163603Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36051,
+    "title": "First Crewed Moon Flyby In 54 Years: Artemis II",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASAs_Artemis_II_plans_to_send_a_crew_around_the_Moon_to_test_equipment_and_lay_the_groundwork_for_a_future_landing_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-2-pad-moon-orion-capsule-desk-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tempe AZ (SPX) Feb 08, 2026\n\n\nAlmost as tall as a football field, NASAs Space Launch System rocket and capsule stack traveled slowly - just under 1 mile per hour - out to the Artemis II launchpad, its temporary home at the Kennedy Space Center in Florida, on Jan. 17, 2026. That slow crawl is in stark contrast to the peak velocity it will reach on launch day, over 22,000 miles per hour, when it will send a crew of four on a j",
+    "published_at": "2026-02-08T01:59:29Z",
+    "updated_at": "2026-02-08T00:50:15.108499Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -907,86 +994,6 @@
     "summary": "\nIn 2025, more than 322,000 civil servants left jobs voluntarily or were dismissed out of a workforce of roughly 2.4 million. The 13% drop in staffing is the largest single-year decline since the end of World War II. In total, more than 5,000 people who were part of the federal space workforce left their positions. […]\nThe post ‘Serving the country and pushing the boundaries of human existence is very purposeful.’ appeared first on SpaceNews.",
     "published_at": "2026-02-06T16:56:22Z",
     "updated_at": "2026-02-06T17:00:41.064100Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36027,
-    "title": "‘I loved thinking about how to make science possible for America and for the world’",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/i-loved-thinking-about-how-to-make-science-possible-for-america-and-for-the-world/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Kartik_Sheth_SpaceNews_Jason_Dixson_Photography.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn 2025, more than 322,000 civil servants left jobs voluntarily or were dismissed out of a workforce of roughly 2.4 million. The 13% drop in staffing is the largest single-year decline since the end of World War II. In total, more than 5,000 people who were part of the federal space workforce left their positions. […]\nThe post ‘I loved thinking about how to make science possible for America and for the world’ appeared first on SpaceNews.",
-    "published_at": "2026-02-06T16:55:41Z",
-    "updated_at": "2026-02-06T17:00:41.085885Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36028,
-    "title": "‘You need competent people in the government to direct and make decisions.’",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/you-need-competent-people-in-the-government-to-direct-and-make-decisions/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Claire_Leon.jpg?fit=624%2C468&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn 2025, more than 322,000 civil servants left jobs voluntarily or were dismissed out of a workforce of roughly 2.4 million. The 13% drop in staffing is the largest single-year decline since the end of World War II. In total, more than 5,000 people who were part of the federal space workforce left their positions. […]\nThe post ‘You need competent people in the government to direct and make decisions.’ appeared first on SpaceNews.",
-    "published_at": "2026-02-06T16:55:04Z",
-    "updated_at": "2026-02-06T17:00:41.101985Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36029,
-    "title": "‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/now-its-time-to-turn-the-baton-over-to-others-i-hope-theres-somebody-else-to-grab-that-baton/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Phil_McAlister_SpaceNews_Jason_Dixson_Photography.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn 2025, more than 322,000 civil servants left jobs voluntarily or were dismissed out of a workforce of roughly 2.4 million. The 13% drop in staffing is the largest single-year decline since the end of World War II. In total, more than 5,000 people who were part of the federal space workforce left their positions. […]\nThe post ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’ appeared first on SpaceNews.",
-    "published_at": "2026-02-06T16:54:08Z",
-    "updated_at": "2026-02-06T17:00:41.116247Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36030,
-    "title": "‘People knew that they could come to us to figure out how to get things done.’",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/people-knew-that-they-could-come-to-us-to-figure-out-how-to-get-things-done/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Shawn_Phillips.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn 2025, more than 322,000 civil servants left jobs voluntarily or were dismissed out of a workforce of roughly 2.4 million. The 13% drop in staffing is the largest single-year decline since the end of World War II. In total, more than 5,000 people who were part of the federal space workforce left their positions. […]\nThe post ‘People knew that they could come to us to figure out how to get things done.’ appeared first on SpaceNews.",
-    "published_at": "2026-02-06T16:53:43Z",
-    "updated_at": "2026-02-06T17:00:41.129171Z",
     "featured": false,
     "launches": [],
     "events": [],
