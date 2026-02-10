@@ -1,19 +1,305 @@
 [
   {
-    "id": 36099,
-    "title": "Climate change speeds up destruction of key greenhouse gas",
+    "id": 36116,
+    "title": "Aerospace attracts partners for DiskSat demonstrations",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/aerospace-attracts-partners-for-disksat-demonstrations/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_disksat_20250805-bert-153.jpg?fit=879%2C495&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nMOUNTAIN VIEW – The Aerospace Corp. is sharing DiskSat technology with industry partners as the first four pancake-shaped spacecraft undergo commissioning. Orbotic Systems, a Southern California startup focused on space debris remediation, and San Francisco-based edge computing startup Satylt have signed the first DiskSat commercial licensing agreements. “This is an opportunity for commercial, international, government […]\nThe post Aerospace attracts partners for DiskSat demonstrations appeared first on SpaceNews.",
+    "published_at": "2026-02-10T18:00:00Z",
+    "updated_at": "2026-02-10T18:10:45.567994Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36114,
+    "title": "Non-venture space startup investment hits post-SPAC high",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/non-venture-space-startup-investment-hits-post-spac-high/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/BryceTech_Total-Non-Venture-Investment-Graphic.jpg?fit=1024%2C677&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNon-venture investment in space startups surged last year to its highest level since a 2021 spike driven by a wave of special purpose acquisition company mergers, according to BryceTech analysis.\nThe post Non-venture space startup investment hits post-SPAC high appeared first on SpaceNews.",
+    "published_at": "2026-02-10T17:10:00Z",
+    "updated_at": "2026-02-10T17:10:25.671442Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36113,
+    "title": "CubeSats’ Missions Begin",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/cubesats-missions-begin/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/iss074e0301064orig.jpg",
+    "news_site": "NASA",
+    "summary": "NASA astronaut Chris Williams pointed a camera out a window on the cupola as a set of CubeSats were deployed outside the Kibo laboratory module by a small satellite orbital deployer into Earth orbit. Students from Mexico, Italy, Thailand, Malaysia, and Japan designed the shoe-boxed satellites for a series of Earth observations and technology demonstrations. CubeSats are a class of nanosatellites – small spacecraft […]",
+    "published_at": "2026-02-10T17:03:30Z",
+    "updated_at": "2026-02-10T17:10:09.958526Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36115,
+    "title": "Spaceium demonstrates refueling actuator in orbit",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_1spaceium_arm.png?fit=879%2C503&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Spaceium, a startup planning to establish a network of in-space refueling and repair stations, demonstrated the actuator for its robotic arm in space.   Extensive testing of Spaceium’s actuator, which flew on Transporter-15, the SpaceX Falcon 9 rideshare launched in November, confirmed its accuracy.“We tested the actuator first, because our technology revolves […]\nThe post Spaceium demonstrates refueling actuator in orbit appeared first on SpaceNews.",
+    "published_at": "2026-02-10T17:01:00Z",
+    "updated_at": "2026-02-10T17:10:25.708634Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36111,
+    "title": "NASA’s Hubble Captures Light Show Around Rapidly Dying Star",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-light-show-around-rapidly-dying-star/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/02/STScI-01KAEVP71560HQNPJMT2ZC0GA6.jpg",
+    "news_site": "NASA",
+    "summary": "This stunning image from NASA’s Hubble Space Telescope reveals a dramatic interplay of light and shadow in the Egg Nebula, sculpted by freshly ejected stardust. Located approximately 1,000 light-years away in the constellation Cygnus, the Egg Nebula features a central star obscured by a dense cloud of dust — like a “yolk” nestled within a […]",
+    "published_at": "2026-02-10T15:00:33Z",
+    "updated_at": "2026-02-10T15:12:52.104825Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36110,
+    "title": "Apolink and Galaxia team up to improve planned data relay capability",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/apolink-and-galaxia-team-up-to-improve-planned-data-relay-capability/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/IMG_0890-1-scaled.jpeg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA satellite to be built by Canadian startup Galaxia for launch in 2027 is being lined up for a study aimed at improving California-based Apolink’s proposed in-orbit data relay services.\nThe post Apolink and Galaxia team up to improve planned data relay capability appeared first on SpaceNews.",
+    "published_at": "2026-02-10T15:00:00Z",
+    "updated_at": "2026-02-10T15:00:37.157160Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36108,
+    "title": "Core Survey by NASA’s Roman Mission Will Unveil Universe’s Dark Side",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/roman-space-telescope/core-survey-by-nasas-roman-mission-will-unveil-universes-dark-side/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/roman-survey-infographic-mkv-hlwa-gcoord-1.jpg",
+    "news_site": "NASA",
+    "summary": "The broadest planned survey by NASA’s upcoming Nancy Grace Roman Space Telescope will reveal hundreds of millions of galaxies scattered across the cosmos. After Roman launches as soon as this fall, scientists will use these sparkly beacons to study the universe’s shadowy underpinnings: dark matter and dark energy. “We set out to build the ultimate […]",
+    "published_at": "2026-02-10T15:00:00Z",
+    "updated_at": "2026-02-10T15:13:05.390455Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "521f3a1c-f977-4306-9b7f-495858719adf",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36112,
+    "title": "ESA awards contracts for Ramses mission to Apophis",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Planetary_Defence/ESA_awards_contracts_for_Ramses_mission_to_Apophis",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/10/ramses_esa_s_mission_to_rendezvous_with_asteroid_apophis/26908615-3-eng-GB/Ramses_ESA_s_mission_to_rendezvous_with_asteroid_Apophis_card_full.png",
+    "news_site": "ESA",
+    "summary": "On 10 February 2026, the European Space Agency (ESA) signed a contract with OHB Italia for the development of the Rapid Apophis Mission for Space Safety (Ramses). Launching in 2028, Ramses will rendezvous with the asteroid Apophis before its rare close encounter with Earth. The mission will provide unique insight into the physical properties and behaviour of asteroids, and strengthen international collaboration and European capabilities in planetary defence.",
+    "published_at": "2026-02-10T15:00:00Z",
+    "updated_at": "2026-02-10T15:45:09.896524Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "71b006aa-0d41-49fb-b0bf-dc30b10ef528",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36109,
+    "title": "Hubble captures light show around rapidly dying star",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/Hubble_captures_light_show_around_rapidly_dying_star",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/hubble_captures_light_show_around_rapidly_dying_star/27096255-1-eng-GB/Hubble_captures_light_show_around_rapidly_dying_star_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-02-10T15:00:00Z",
+    "updated_at": "2026-02-10T15:12:59.826775Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36106,
+    "title": "NASA, Boeing still working on Starliner return to flight",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-boeing-still-working-on-starliner-return-to-flight/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/53988402529_bec93e5a26_k.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "As NASA prepares to launch a new crew to the International Space Station, the agency has yet to decide which spacecraft it will use for the next crew-rotation mission.\r\nThe post NASA, Boeing still working on Starliner return to flight appeared first on SpaceNews.",
+    "published_at": "2026-02-10T13:13:02Z",
+    "updated_at": "2026-02-10T14:35:41.596031Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "07e945c1-2ec6-4d29-a500-1afbe920440f",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36100,
+    "title": "EUMETSAT extends role in DestinE digital twin infrastructure",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Climate_change_speeds_up_destruction_of_key_greenhouse_gas_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/nitrous-oxide-ocean-atmosphere-warming-ozone-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/EUMETSAT_extends_role_in_DestinE_digital_twin_infrastructure_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/eumetsat-destination-earth-destine-program-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 06, 2026\n\n\nScientists at the University of California, Irvine report that human driven climate change is causing nitrous oxide, a major greenhouse gas and ozone depleting substance, to break down in the atmosphere more quickly than previously estimated. Using two decades of data from NASA's Microwave Limb Sounder, they find that the atmospheric lifetime of nitrous oxide is shortening at a rate that introdu",
+    "summary": "Paris, France (SPX) Feb 06, 2026\n\n\nThe EUMETSAT Council has confirmed that the organisation will remain a key contributor to the European Commission's Destination Earth initiative as it enters Phase Three later this year. \n\nLaunched in 2022, Destination Earth aims to build highly accurate digital twins of the planet to simulate and predict how natural processes interact with human activities, supporting better-informed decisi",
     "published_at": "2026-02-10T13:03:32Z",
-    "updated_at": "2026-02-10T12:00:15.020094Z",
+    "updated_at": "2026-02-10T12:00:15.046803Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36102,
+    "title": "From Quantum Physics to Coastal Resilience Brad Bartz to Present Who Turned the Power Back On at AltaSea",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/From_Quantum_Physics_to_Coastal_Resilience_Brad_Bartz_to_Present_Who_Turned_the_Power_Back_On_at_AltaSea_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/altasea-brad-bartz-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 08, 2026\n\nSolar engineer and ABC Solar founder Brad Bartz will deliver a keynote-style talk titled \"The Palos Verdes Landslide: Who Turned the Power Back On?\" during an upcoming community event at AltaSea at the Port of Los Angeles on March 14, 2026. The presentation blends scientific storytelling with real-world engineering experience, exploring how fundamental physics principles translate into resilient",
+    "published_at": "2026-02-10T13:03:32Z",
+    "updated_at": "2026-02-10T12:00:15.102539Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36101,
+    "title": "Landsat study maps boreal forest shift north",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Landsat_study_maps_boreal_forest_shift_north_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/boreal-forest-600-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 08, 2026\n\n\nThe boreal forest, the world's largest terrestrial biome, is warming faster than any other major forest type and is now measurably shifting northward. A new analysis of the biome from 1985 to 2020 confirms that boreal forest cover has expanded and migrated toward higher latitudes over the past four decades. \n\nIn a study led by Feng and colleagues and published in Biogeosciences in February 2",
+    "published_at": "2026-02-10T13:03:32Z",
+    "updated_at": "2026-02-10T12:00:15.085014Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -40,40 +326,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36100,
-    "title": "EUMETSAT extends role in DestinE digital twin infrastructure",
+    "id": 36099,
+    "title": "Climate change speeds up destruction of key greenhouse gas",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/EUMETSAT_extends_role_in_DestinE_digital_twin_infrastructure_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/eumetsat-destination-earth-destine-program-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Climate_change_speeds_up_destruction_of_key_greenhouse_gas_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/nitrous-oxide-ocean-atmosphere-warming-ozone-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Feb 06, 2026\n\n\nThe EUMETSAT Council has confirmed that the organisation will remain a key contributor to the European Commission's Destination Earth initiative as it enters Phase Three later this year. \n\nLaunched in 2022, Destination Earth aims to build highly accurate digital twins of the planet to simulate and predict how natural processes interact with human activities, supporting better-informed decisi",
+    "summary": "Los Angeles CA (SPX) Feb 06, 2026\n\n\nScientists at the University of California, Irvine report that human driven climate change is causing nitrous oxide, a major greenhouse gas and ozone depleting substance, to break down in the atmosphere more quickly than previously estimated. Using two decades of data from NASA's Microwave Limb Sounder, they find that the atmospheric lifetime of nitrous oxide is shortening at a rate that introdu",
     "published_at": "2026-02-10T13:03:32Z",
-    "updated_at": "2026-02-10T12:00:15.046803Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36101,
-    "title": "Landsat study maps boreal forest shift north",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Landsat_study_maps_boreal_forest_shift_north_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/boreal-forest-600-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 08, 2026\n\n\nThe boreal forest, the world's largest terrestrial biome, is warming faster than any other major forest type and is now measurably shifting northward. A new analysis of the biome from 1985 to 2020 confirms that boreal forest cover has expanded and migrated toward higher latitudes over the past four decades. \n\nIn a study led by Feng and colleagues and published in Biogeosciences in February 2",
-    "published_at": "2026-02-10T13:03:32Z",
-    "updated_at": "2026-02-10T12:00:15.085014Z",
+    "updated_at": "2026-02-10T12:00:15.020094Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -120,60 +386,85 @@
     "detailed_news": ""
   },
   {
-    "id": 36102,
-    "title": "From Quantum Physics to Coastal Resilience Brad Bartz to Present Who Turned the Power Back On at AltaSea",
+    "id": 36105,
+    "title": "Intense rainfall brings floods across Iberian Peninsula",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/From_Quantum_Physics_to_Coastal_Resilience_Brad_Bartz_to_Present_Who_Turned_the_Power_Back_On_at_AltaSea_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/altasea-brad-bartz-splash-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 08, 2026\n\nSolar engineer and ABC Solar founder Brad Bartz will deliver a keynote-style talk titled \"The Palos Verdes Landslide: Who Turned the Power Back On?\" during an upcoming community event at AltaSea at the Port of Los Angeles on March 14, 2026. The presentation blends scientific storytelling with real-world engineering experience, exploring how fundamental physics principles translate into resilient",
-    "published_at": "2026-02-10T13:03:32Z",
-    "updated_at": "2026-02-10T12:00:15.102539Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Intense_rainfall_brings_floods_across_Iberian_Peninsula",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/flooding_around_the_tajo_river_portugal_by_sentinel-1/27102111-1-eng-GB/Flooding_around_the_Tajo_River_Portugal_by_Sentinel-1_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Satellite data has captured the intensity of rainfall over the Iberian Peninsula during three severe winter storms, and the extent of flooding that followed around the Tajo River and basin in Portugal.",
+    "published_at": "2026-02-10T12:45:00Z",
+    "updated_at": "2026-02-10T13:20:17.428105Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 36093,
-    "title": "Firefly prepares Alpha Flight 7 stairway to seven mission",
+    "id": 36104,
+    "title": "Earth Observation Data Provider Constellr Closes €37 Million Series A",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "European Spaceflight",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Flight_7_stairway_to_seven_mission_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/firefly-alpha-flight-mission-patch-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 10, 2026\n\n\nFirefly Aerospace is preparing its next Alpha rocket mission, Flight 7 \"Stairway to Seven\", as a dedicated return-to-flight test from Space Launch Complex 2 at Vandenberg Space Force Base in California. \n\nThe Alpha FLTA007 rocket will launch no earlier than February 18 on a mission focused on achieving nominal performance of both the first and second stages rather than deploying an operation",
-    "published_at": "2026-02-10T07:40:55Z",
-    "updated_at": "2026-02-10T06:30:20.953349Z",
+    "url": "https://europeanspaceflight.com/earth-observation-data-provider-constellr-closes-e37-million-series-a/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/Earth-Observation-Data-Provider-Constellr-Closes-37-Million-Euros-Series-A.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Munich-based Earth observation data provider Constellr announced on 10 February that it has closed a €37 million Series A funding round, bringing its total funding raised to date to €75 million. The Series A round was led by Alpine Space Ventures and Lakestar, both venture capital firms. Founded in 2020, Constellr provides thermal Earth observation […]\nThe post Earth Observation Data Provider Constellr Closes €37 Million Series A appeared first on European Spaceflight.",
+    "published_at": "2026-02-10T12:03:08Z",
+    "updated_at": "2026-02-10T13:20:15.173971Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 36094,
-    "title": "ReOrbit and Google Cloud develop orbital space cloud network",
+    "id": 36103,
+    "title": "Watch live: first launch of Ariane 6 with four boosters",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_first_launch_of_Ariane_6_with_four_boosters",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/artist_s_view_of_ariane_6_with_four_boosters_over_earth/27089218-2-eng-GB/Artist_s_view_of_Ariane_6_with_four_boosters_over_Earth_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-02-10T10:10:00Z",
+    "updated_at": "2026-02-10T12:25:19.526709Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "71eba994-ab9f-4707-ba5e-024cfff73c01",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36091,
+    "title": "Astroscale Japan to mature electric refueling for future GEO servicing",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/ReOrbit_and_Google_Cloud_develop_orbital_space_cloud_network_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/google-reorbit-space-cloud-orbital-data-economy-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Astroscale_Japan_to_mature_electric_refueling_for_future_GEO_servicing_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/astroscale-various-satellites-debris-refuel-repair-onorbit-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 10, 2026\n\n\nReOrbit has launched Space Cloud, a multi year initiative to build a distributed network of software enabled satellites that can move and process data securely in orbit, in collaboration with Google Cloud. The company describes the project as a space based data center network that will combine on board computing, advanced networking and cloud style orchestration to support government, military a",
+    "summary": "Tokyo, Japan (SPX) Feb 10, 2026\n\n\nAstroscale Japan Inc., a subsidiary of Astroscale Holdings Inc., has been selected as an implementing organization under the Japan Aerospace Exploration Agency Space Strategy Fund Program. The company will develop electric propellant refueling technology to underpin future geostationary orbit servicing missions, advancing capabilities for on-orbit satellite support and logistics. \n\nThe Space",
     "published_at": "2026-02-10T07:40:55Z",
-    "updated_at": "2026-02-10T06:30:20.968187Z",
+    "updated_at": "2026-02-10T06:30:20.858058Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -200,60 +491,40 @@
     "detailed_news": ""
   },
   {
-    "id": 36088,
-    "title": "Enceladus waves shape Saturn space weather",
+    "id": 36082,
+    "title": "Voyager wins NASA ISS mission management role through 2030",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Enceladus_waves_shape_Saturn_space_weather_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/europlanet-enceladus-electromagnetic-influence-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Voyager_wins_NASA_ISS_mission_management_role_through_2030_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/voyager-space-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Feb 10, 2026\n\n\nEnceladus, a small icy moon of Saturn, generates electromagnetic ripples that stretch more than half a million kilometers through the giant planet's space environment. A new analysis of data from NASA's Cassini mission shows that this modest world acts as a large scale generator of Alfven waves that carry energy and momentum along Saturn's magnetic field lines. \n\nAn international team led by",
+    "summary": "Los Angeles CA (SPX) Feb 10, 2026\n\n\nVoyager Technologies has secured a new Indefinite Delivery/Indefinite Quantity mission management contract from NASA's Johnson Space Center with a ceiling of 24.5 million dollars over four years to support International Space Station operations through 2030. Under the agreement, Voyager will provide full service mission management for ISS payloads, anchoring recurring mission execution across mu",
     "published_at": "2026-02-10T07:40:55Z",
-    "updated_at": "2026-02-10T06:30:20.761026Z",
+    "updated_at": "2026-02-10T06:30:20.478439Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 36087,
-    "title": "JWST study links sulfur rich gas giants to core growth in distant HR 8799 system",
+    "id": 36093,
+    "title": "Firefly prepares Alpha Flight 7 stairway to seven mission",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/JWST_study_links_sulfur_rich_gas_giants_to_core_growth_in_distant_HR_8799_system_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ucsd-gas-giant-planet-formation-hr-8799-system-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Flight_7_stairway_to_seven_mission_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/firefly-alpha-flight-mission-patch-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 10, 2026\n\n\nGas giants are large planets composed mainly of hydrogen and helium with dense cores but no solid surfaces. Astronomers have long debated how the most massive of these worlds form and where the boundary lies between true planets and brown dwarfs. A new investigation of the HR 8799 planetary system using the James Webb Space Telescope provides key evidence that even very massive gas giants can gr",
+    "summary": "Los Angeles CA (SPX) Feb 10, 2026\n\n\nFirefly Aerospace is preparing its next Alpha rocket mission, Flight 7 \"Stairway to Seven\", as a dedicated return-to-flight test from Space Launch Complex 2 at Vandenberg Space Force Base in California. \n\nThe Alpha FLTA007 rocket will launch no earlier than February 18 on a mission focused on achieving nominal performance of both the first and second stages rather than deploying an operation",
     "published_at": "2026-02-10T07:40:55Z",
-    "updated_at": "2026-02-10T06:30:20.726373Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36084,
-    "title": "Amino acids in Bennu asteroid hint at icy radioactive origin",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Amino_acids_in_Bennu_asteroid_hint_at_icy_radioactive_origin_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/psu-space-dust-vial-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 10, 2026\n\n\nAmino acids discovered in samples from the Bennu asteroid may have formed in an icy, radioactive environment in the early solar system, according to a new study led by Penn State researchers. The findings challenge long-held assumptions that these building blocks of life on asteroids formed primarily in the presence of warm liquid water. \n\nThe team analyzed a small amount of Bennu material,",
-    "published_at": "2026-02-10T07:40:55Z",
-    "updated_at": "2026-02-10T06:30:20.652169Z",
+    "updated_at": "2026-02-10T06:30:20.953349Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -280,6 +551,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36083,
+    "title": "UK backs new electric propulsion hub for satellite engines",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/UK_backs_new_electric_propulsion_hub_for_satellite_engines_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uk-space-ceo-dr-paul-bate-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London, UK (SPX) Feb 06, 2026\n\n\nA new electric propulsion laboratory for satellite engines has opened at the Harwell Science and Innovation Campus in Oxfordshire, providing UK space companies with access to advanced testing and development facilities. The Disruptive Experimental Electric Propulsion (DEEP) Lab has been built by space technology company Magdrive with support from the UK Space Agency's Space Clusters Infrastructu",
+    "published_at": "2026-02-10T07:40:55Z",
+    "updated_at": "2026-02-10T06:30:20.583234Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36086,
     "title": "Venus radar study reveals vast underground lava cave",
     "authors": [
@@ -294,6 +585,26 @@
     "summary": "Berlin, Germany (SPX) Feb 10, 2026\n\n\nVolcanic activity is a key force shaping the surfaces of rocky planets, and new work from Italy indicates that Venus hosts a giant empty lava tube beneath its surface. Using radar images from NASA's Magellan mission, a team at the University of Trento has identified a skylight feature in the Nyx Mons region that reveals a large underground cavity interpreted as a lava conduit. \n\nThe study, p",
     "published_at": "2026-02-10T07:40:55Z",
     "updated_at": "2026-02-10T06:30:20.676791Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36084,
+    "title": "Amino acids in Bennu asteroid hint at icy radioactive origin",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Amino_acids_in_Bennu_asteroid_hint_at_icy_radioactive_origin_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/psu-space-dust-vial-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 10, 2026\n\n\nAmino acids discovered in samples from the Bennu asteroid may have formed in an icy, radioactive environment in the early solar system, according to a new study led by Penn State researchers. The findings challenge long-held assumptions that these building blocks of life on asteroids formed primarily in the presence of warm liquid water. \n\nThe team analyzed a small amount of Bennu material,",
+    "published_at": "2026-02-10T07:40:55Z",
+    "updated_at": "2026-02-10T06:30:20.652169Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -320,46 +631,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36082,
-    "title": "Voyager wins NASA ISS mission management role through 2030",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Voyager_wins_NASA_ISS_mission_management_role_through_2030_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/voyager-space-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 10, 2026\n\n\nVoyager Technologies has secured a new Indefinite Delivery/Indefinite Quantity mission management contract from NASA's Johnson Space Center with a ceiling of 24.5 million dollars over four years to support International Space Station operations through 2030. Under the agreement, Voyager will provide full service mission management for ISS payloads, anchoring recurring mission execution across mu",
-    "published_at": "2026-02-10T07:40:55Z",
-    "updated_at": "2026-02-10T06:30:20.478439Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36083,
-    "title": "UK backs new electric propulsion hub for satellite engines",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/UK_backs_new_electric_propulsion_hub_for_satellite_engines_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uk-space-ceo-dr-paul-bate-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Feb 06, 2026\n\n\nA new electric propulsion laboratory for satellite engines has opened at the Harwell Science and Innovation Campus in Oxfordshire, providing UK space companies with access to advanced testing and development facilities. The Disruptive Experimental Electric Propulsion (DEEP) Lab has been built by space technology company Magdrive with support from the UK Space Agency's Space Clusters Infrastructu",
-    "published_at": "2026-02-10T07:40:55Z",
-    "updated_at": "2026-02-10T06:30:20.583234Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36089,
     "title": "China rolls out BeiDou satellite messaging for emergency use",
     "authors": [
@@ -380,20 +651,60 @@
     "detailed_news": ""
   },
   {
-    "id": 36091,
-    "title": "Astroscale Japan to mature electric refueling for future GEO servicing",
+    "id": 36087,
+    "title": "JWST study links sulfur rich gas giants to core growth in distant HR 8799 system",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Astroscale_Japan_to_mature_electric_refueling_for_future_GEO_servicing_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/astroscale-various-satellites-debris-refuel-repair-onorbit-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/JWST_study_links_sulfur_rich_gas_giants_to_core_growth_in_distant_HR_8799_system_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ucsd-gas-giant-planet-formation-hr-8799-system-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 10, 2026\n\n\nAstroscale Japan Inc., a subsidiary of Astroscale Holdings Inc., has been selected as an implementing organization under the Japan Aerospace Exploration Agency Space Strategy Fund Program. The company will develop electric propellant refueling technology to underpin future geostationary orbit servicing missions, advancing capabilities for on-orbit satellite support and logistics. \n\nThe Space",
+    "summary": "Los Angeles CA (SPX) Feb 10, 2026\n\n\nGas giants are large planets composed mainly of hydrogen and helium with dense cores but no solid surfaces. Astronomers have long debated how the most massive of these worlds form and where the boundary lies between true planets and brown dwarfs. A new investigation of the HR 8799 planetary system using the James Webb Space Telescope provides key evidence that even very massive gas giants can gr",
     "published_at": "2026-02-10T07:40:55Z",
-    "updated_at": "2026-02-10T06:30:20.858058Z",
+    "updated_at": "2026-02-10T06:30:20.726373Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36088,
+    "title": "Enceladus waves shape Saturn space weather",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Enceladus_waves_shape_Saturn_space_weather_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/europlanet-enceladus-electromagnetic-influence-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Feb 10, 2026\n\n\nEnceladus, a small icy moon of Saturn, generates electromagnetic ripples that stretch more than half a million kilometers through the giant planet's space environment. A new analysis of data from NASA's Cassini mission shows that this modest world acts as a large scale generator of Alfven waves that carry energy and momentum along Saturn's magnetic field lines. \n\nAn international team led by",
+    "published_at": "2026-02-10T07:40:55Z",
+    "updated_at": "2026-02-10T06:30:20.761026Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36094,
+    "title": "ReOrbit and Google Cloud develop orbital space cloud network",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ReOrbit_and_Google_Cloud_develop_orbital_space_cloud_network_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/google-reorbit-space-cloud-orbital-data-economy-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 10, 2026\n\n\nReOrbit has launched Space Cloud, a multi year initiative to build a distributed network of software enabled satellites that can move and process data securely in orbit, in collaboration with Google Cloud. The company describes the project as a space based data center network that will combine on board computing, advanced networking and cloud style orchestration to support government, military a",
+    "published_at": "2026-02-10T07:40:55Z",
+    "updated_at": "2026-02-10T06:30:20.968187Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -437,6 +748,36 @@
     "featured": false,
     "launches": [],
     "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36107,
+    "title": "Watch live: Crew-12 launch and docking (updated)",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking_updated",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/spacex_crew-12_2026/27058265-1-eng-GB/SpaceX_Crew-12_2026_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Update — 10 February 2026: NASA and SpaceX have announced they are now planning to launch the Crew-12 mission to the International Space Station no earlier than 10:15 GMT / 11:15 CET (05:15 ET) on Friday 13 February, due to forecast weather conditions along the flight path of the Dragon spacecraft. All the dates and times have been updated in the article.",
+    "published_at": "2026-02-10T07:00:00Z",
+    "updated_at": "2026-02-10T15:13:13.827917Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1326,
+        "provider": "Launch Library 2"
+      }
+    ],
     "detailed_news": ""
   },
   {
@@ -688,286 +1029,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36067,
-    "title": "The Race Is On: Artemis, China and Musk Turn the Moon Into the Next Strategic High Ground",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/The_Race_Is_On_Artemis_China_and_Musk_Turn_the_Moon_Into_the_Next_Strategic_High_Ground_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-starship-human-lunar-lander-design-moon-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York NY (SPX) Feb 09, 2026\n\nWhen Artemis II finally lights its engines and arcs away from Cape Canaveral, it will do more than send four astronauts on a ten-day loop around the Moon. It will fire the starting gun on a race that Washington and Beijing still insist does not exist and pull Elon Musk's SpaceX into the center of a contest that blends geopolitics, markets and myth. \n\nFor two years, NASA has framed Artemis as",
-    "published_at": "2026-02-09T04:45:27Z",
-    "updated_at": "2026-02-09T03:40:21.565335Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36066,
-    "title": "SpaceX shifts focus from Mars to Moon, Musk says",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/SpaceX_shifts_focus_from_Mars_to_Moon_Musk_says_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lunar-spix-5-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Feb 9, 2026\n\n\n SpaceX is putting its longstanding focus of sending humans to Mars on the backburner to prioritize establishing a settlement on the Moon, founder Elon Musk said Sunday. \n\nThe South Africa-born billionaire's space company has found massive success as a NASA contractor, but critics have for years panned Musk's Mars colonization plans as overambitious. \n\nThe move also puts Musk in alignment wit",
-    "published_at": "2026-02-09T03:43:28Z",
-    "updated_at": "2026-02-09T02:40:22.486421Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36065,
-    "title": "What’s Happening in Space Policy February 8-14, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-8-14-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/11/Soyuz-MS-28-NASA-JSC-300x240.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of February 8-14, 2026 and any insight we can offer about them. The House and Senate are in session […]",
-    "published_at": "2026-02-08T22:02:27Z",
-    "updated_at": "2026-02-08T22:10:23.074333Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36064,
-    "title": "SpaceX test fires its Falcon 9 rocket ahead of midweek launch of Crew-12 to the space station",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/02/08/spacex-test-fires-its-falcon-9-rocket-ahead-of-midweek-launch-of-crew-12-to-the-space-station/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260208_Crew-12_static_fire_AB-1.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The static fire test is an important precursor to the Crew-12 launch, scheduled for the morning of Feb. 11. Ignition at pad 40 at Cape Canaveral Space Force Station happened at 3:16 a.m. EST (0816 UTC). ",
-    "published_at": "2026-02-08T09:01:53Z",
-    "updated_at": "2026-02-08T09:10:31.085437Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36063,
-    "title": "NASA confirms first flight to ISS since medical evacuation",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_confirms_first_flight_to_ISS_since_medical_evacuation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-dragon-crew-12-iss-fedyaev-hathaway-meir-adenot-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Feb 6, 2026\n\n Four astronauts will blast off to re-staff the International Space Station (ISS) next week, NASA said Friday, after an emergency medical evacuation of the previous crew. \n\nCrew-12 will lift off on a SpaceX Falcon 9 rocket early Wednesday, the US space agency said, with launch time \"targeted for no earlier than 6:01 am\" local time (1101 GMT). \n\nThe confirmation provides a sliver of certainty",
-    "published_at": "2026-02-08T06:18:03Z",
-    "updated_at": "2026-02-08T05:10:16.709570Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36053,
-    "title": "Isar Aerospace expands engine and stage testing at Esrange",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Isar_Aerospace_expands_engine_and_stage_testing_at_Esrange_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/swedish-space-corporation-esrange-space-center-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Munich, Germany (SPX) Feb 08, 2026\n\n\nIsar Aerospace is expanding its test operations at Esrange Space Center in Kiruna, Sweden, by establishing a second test site in cooperation with SSC Space. The new infrastructure is intended to support the development and production ramp up of the companys Spectrum launch vehicle and to help make access to space more scalable for European customers. \n\nThe expansion at Esrange is aligned wit",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.150199Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36057,
-    "title": "'The beacons were lit!' A system to detect and map merging black holes",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/The_beacons_were_lit!_A_system_to_detect_and_map_merging_black_holes_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gravitational-waves-merger-black-holes-lensed-massive-stellar-objects-calculate-space-time-distance-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New Haven CT (SPX) Feb 08, 2026\n\n\nAn international collaboration of astrophysicists that includes researchers from Yale has created and tested a detection system that uses gravitational waves to map out the locations of merging black holes - known as supermassive black hole binaries - around the universe. \n\nSuch a map would provide a vital new way to explore and understand astronomy and physics, just as X-rays and radio wave",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.207380Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36058,
-    "title": "Runaway black hole jet outshines legendary death star",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Runaway_black_hole_jet_outshines_legendary_death_star_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/black-hole-powered-galaxies-blazars-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 08, 2026\n\n\nA supermassive black hole that shredded a nearby star is blasting out a jet of energy that has kept brightening for four years, in one of the most powerful events ever recorded in the universe. \n\nThe outburst comes from a tidal disruption event designated AT2018hyz, in which a star strayed too close to a black hole and was torn apart by intense gravitational forces in a process astronomers d",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.221480Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36054,
-    "title": "NASA Study: Non-biologic Processes Don't Fully Explain Mars Organics",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_Study_Non_biologic_Processes_Dont_Fully_Explain_Mars_Organics_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/curiosity-mars-lab-vista-sol-3817-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Greenbelt MD (SPX) Feb 08, 2026\n\n\nIn a new study, researchers say that non-biological sources they considered could not fully account for the abundance of organic compounds in a sample collected on Mars by NASA's Curiosity rover. \n\nIn March 2025, scientists reported identifying small amounts of decane, undecane, and dodecane in a rock sample analyzed in the chemistry lab aboard Curiosity. These were the largest organic compo",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.163603Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36056,
-    "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4788_4797_Welcome_Back_from_Conjunction_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-jupiter-earth-sun-mars-solar-conjunction-2023-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (SPX) Feb 08, 2026\n\n\nMars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get back to work on Mars. Our first planning day last Friday gave Curiosity a full weekend of activities, which wrapped up with getting us ready for our next drill. \n\nWe checked out a broken white rock in the workspace with APXS, MAHLI, and ChemCam's laser spectrometer and fi",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.196762Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36059,
-    "title": "Thunderstorm, not eclipse, drove tree signal spike in Dolomites",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Thunderstorm_not_eclipse_drove_tree_signal_spike_in_Dolomites_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/dolomites-mountain-range-northern-italy-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Feb 08, 2026\n\n\nAround 14 hours before a partial solar eclipse crossed the Dolomites in northern Italy, a cluster of spruce trees showed a sharp, synchronized rise in electrical activity. A new opinion paper argues that this spike did not reflect any anticipatory response to the eclipse but was instead triggered by a local thunderstorm and nearby lightning. \n\nIn a widely publicized study, Chiolerio and coll",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.232425Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36055,
-    "title": "DLR plans new control center for future Moon and Mars missions",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/DLR_plans_new_control_center_for_future_Moon_and_Mars_missions_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lunar-gateway-concept-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 08, 2026\n\n\nFor upcoming human and robotic missions to the Moon and Mars, the German Aerospace Center (DLR) will establish a new Human Exploration Control Center (HECC) at its site in Oberpfaffenhofen near Munich. The new facility will expand the existing German Space Operations Center (GSOC) and is designed to manage complex, long-duration missions beyond low Earth orbit while reinforcing Germany and Europ",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.184264Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36052,
-    "title": "Dark matter core may drive Milky Way center",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Dark_matter_core_may_drive_Milky_Way_center_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/milky-way-black-hole-centre-sagittarius-a-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Feb 08, 2026\n\n\nOur Milky Way galaxy may not host a supermassive black hole at its center but instead an enormous concentration of dark matter that exerts an equivalent gravitational influence on nearby stars and gas, according to new research published in Monthly Notices of the Royal Astronomical Society. The authors argue that this invisible substance, which makes up most of the universe's mass, can account b",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.137953Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36060,
-    "title": "Alfven waves drive stable electric fields that power auroras",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Alfven_waves_drive_stable_electric_fields_that_power_auroras_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/northern-lights-aurora-borealis-iss-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 08, 2026\n\n\nThe shimmering curtains of the aurora form when energetic electrons plunge into Earths upper atmosphere and collide with atoms and molecules, releasing light across the polar skies. For decades, scientists have known that these electrons are accelerated by intense electric fields above the auroral regions, but they lacked a clear explanation for how those fields are generated and sustained in ne",
-    "published_at": "2026-02-08T01:59:29Z",
-    "updated_at": "2026-02-08T00:50:15.244493Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
