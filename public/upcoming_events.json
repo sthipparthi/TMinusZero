@@ -1,6 +1,6 @@
 {
-  "count": 11,
-  "last_updated": "2026-02-12T12:07:36.135872Z",
+  "count": 10,
+  "last_updated": "2026-02-12T18:14:24.390897Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (11 failed/unavailable)"
+    "Empty AI summaries (10 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "71eba994-ab9f-4707-ba5e-024cfff73c01",
-      "name": "Ariane 64 | Amazon Leo (LE-01)",
-      "status": "Go",
-      "net": "2026-02-12T16:45:00Z",
-      "window_start": "2026-02-12T16:45:00Z",
-      "window_end": "2026-02-12T17:13:00Z",
-      "lsp_name": "Arianespace",
-      "lsp_description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
-      "lsp_type": "Commercial",
-      "lsp_country": "FRA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
-      "mission_name": "Amazon Leo (LE-01)",
-      "mission_description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n32 satellites will be carried on this launch.",
-      "mission_type": "Communications",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Ariane Launch Area 4, Guiana Space Centre, French Guiana",
-      "pad": "Ariane Launch Area 4",
-      "location": "Guiana Space Centre, French Guiana",
-      "rocket": "Ariane 64",
-      "rocket_config_description": "The Ariane 6 family is currently under development by the European Space Agency, with two variations including the Ariane 64 with four solid boosters intended for government and scientific missions.",
-      "rocket_config_family": "Ariane",
-      "rocket_config_full_name": "Ariane 64",
-      "rocket_config_total_launch_count": 0,
-      "rocket_config_successful_launches": 0,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 16,
-      "rocket_manufacturer_name": "ArianeGroup",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "ArianeGroup (formerly Airbus Safran Launchers) is an aerospace company based in France. A joint venture between Airbus and Safran, the company was founded in 2015 and is headquartered in Issy-les-Moulineaux. It consists of three core arms: aerospace, defence and security.",
-      "rocket_manufacturer_total_launch_count": 0,
-      "rocket_manufacturer_successful_launches": 0,
-      "rocket_manufacturer_failed_launches": 0,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_6_image_20240125142128.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/71eba994-ab9f-4707-ba5e-024cfff73c01/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
       "name": "Falcon 9 Block 5 | Crew-12",
@@ -517,7 +476,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 11,
-    "total_launches": 11
+    "empty_summaries": 10,
+    "total_launches": 10
   }
 }
