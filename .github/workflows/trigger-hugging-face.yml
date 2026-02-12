@@ -40,7 +40,7 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           HF_MODEL: "facebook/bart-large-cnn"
-        run: python scripts/upcoming-events-agent.py
+        run: python scripts/upcoming_events_agent.py
 
       - name: Update sitemap lastmod
         run: |

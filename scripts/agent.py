@@ -19,19 +19,18 @@ from tqdm.asyncio import tqdm_asyncio
 from typing import List
 import time
 
+from config import HF_TOKEN, request_timeout
+from hf_client import call_hf_api
+
 SPACE_API = "https://api.spaceflightnewsapi.net/v4/articles/?limit=48&offset=0&ordering=-published_at"
 OUTFILE = "public/space_news.json"
-HF_MODEL = os.getenv("HF_MODEL", "facebook/bart-large-cnn")
-HF_TOKEN = os.environ.get("HF_TOKEN")
 MAX_CONCURRENT_REQUESTS = int(os.getenv("MAX_CONC", "6"))
-REQUEST_TIMEOUT = aiohttp.ClientTimeout(total=60)
+REQUEST_TIMEOUT = request_timeout(total=60)
 CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", "2000"))
 TARGET_SUMMARY_WORDS = int(os.getenv("TARGET_WORDS", "1000"))
 
 if not HF_TOKEN:
     raise SystemExit("HF_TOKEN environment variable not set")
-
-HF_API_URL = f"https://api-inference.huggingface.co/models/{HF_MODEL}"
 
 # --- Helpers ---
 async def fetch_json(session: aiohttp.ClientSession, url: str):
@@ -54,7 +53,7 @@ async def fetch_text(session: aiohttp.ClientSession, url: str) -> str:
         if desc and desc.get("content"):
             text = desc["content"]
 
-    print(f"Fetched {len(text)} chars from {url}")          
+    print(f"Fetched {len(text)} chars from {url}")
     return text
 
 def chunk_text(text: str, chunk_size_chars: int) -> List[str]:
@@ -77,37 +76,8 @@ def chunk_text(text: str, chunk_size_chars: int) -> List[str]:
 
 async def hf_summarize_chunk(session: aiohttp.ClientSession, text: str, semaphore: asyncio.Semaphore, retries=3):
     print(f"Summarizing chunk of {len(text)} chars")
-    payload = {"inputs": text, "parameters": {"max_new_tokens": 512}}
-    headers = {"Authorization": f"Bearer {HF_TOKEN}", "Accept": "application/json"}
-    backoff = 2
-    for attempt in range(1, retries + 1):
-        try:
-            async with semaphore:
-                async with session.post(HF_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT) as resp:
-                    if resp.status == 200:
-                        out = await resp.json()
-                        if isinstance(out, list) and out and isinstance(out[0], dict):
-                            return out[0].get("summary_text") or out[0].get("generated_text") or ""
-                        if isinstance(out, dict):
-                            return out.get("summary_text") or out.get("generated_text") or ""
-                        if isinstance(out, str):
-                            return out
-                    else:
-                        text_resp = await resp.text()
-                        print(f"HF API returned status {resp.status}, body: {text_resp}")
-                        print(f"Using HF model endpoint: {HF_API_URL}")
-                        if resp.status in (429, 503, 502, 500):
-                            raise Exception(f"Retryable HF status: {resp.status}")
-                        return ""
-        except Exception as e:
-            if attempt < retries:
-                wait = backoff ** attempt
-                print(f"HF call failed (attempt {attempt}) -> {e}. Backing off {wait}s")
-                await asyncio.sleep(wait)
-                continue
-            else:
-                print(f"HF call failed after {retries} attempts: {e}")
-                return ""
+    async with semaphore:
+        return await call_hf_api(session, text, max_new_tokens=512, retries=retries)
 
 async def process_item(session: aiohttp.ClientSession, item: dict, semaphore: asyncio.Semaphore):
     url = item.get("url")
@@ -161,7 +131,7 @@ async def main():
         # Separate existing items from items that need processing
         to_process = []
         processed = []
-        
+
         for item in items:
             old_item = existing_items.get(item["id"])
             if old_item and old_item.get("id") == item.get("id"):
