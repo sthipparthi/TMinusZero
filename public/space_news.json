@@ -1,5 +1,52 @@
 [
   {
+    "id": 36239,
+    "title": "NASA continues SLS hydrogen leak tests",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-continues-sls-hydrogen-leak-tests/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/55089847805_3e6ed47d39_k.jpg?fit=1024%2C693&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA NASA test to confirm repairs to seals in the Space Launch System’s liquid hydrogen fueling system was only partially successful because of problems with ground equipment.\nThe post NASA continues SLS hydrogen leak tests appeared first on SpaceNews.",
+    "published_at": "2026-02-14T15:59:47Z",
+    "updated_at": "2026-02-14T16:00:27.951600Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36238,
+    "title": "‘Very lucky day’: NASA, SpaceX ace astronaut launch to the space station on Friday the 13th",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/02/14/very-lucky-day-nasa-spacex-ace-astronaut-launch-to-the-space-station-on-friday-the-13th/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260213-Crew-12_liftoff_landing_composite.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "This was the first time that the space agency happened to launch a crewed mission to the International Space Station on a Friday the 13th. The Crew-12 mission took flight onboard a SpaceX Falcon 9 rocket at 5:15 a.m. EST (1015 UTC). ",
+    "published_at": "2026-02-14T12:53:20Z",
+    "updated_at": "2026-02-14T13:00:26.556790Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36237,
     "title": "A new book captures the forces shaping space: China, the moon and industry",
     "authors": [
@@ -234,20 +281,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36220,
-    "title": "UK space firm Skyrora explores buying assets of struggling rival Orbex",
+    "id": 36219,
+    "title": "Chance glimpse of star collapse offers new insight into black hole formation",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/UK_space_firm_Skyrora_explores_buying_assets_of_struggling_rival_Orbex_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/orbex-prime-orbital-space-rocket-launch-pad-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Chance_glimpse_of_star_collapse_offers_new_insight_into_black_hole_formation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/meerkat-mysterious-milky-way-object-neutron-star-black-hole-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "London (AFP) Feb 12, 2026\n\n British company Skyrora, which designs and builds rockets to carry small satellites into space, announced Thursday it could acquire \"select\" assets from its stricken rival Orbex, including its spaceport in Scotland.  \n\nThe move by Skyrora, based in the Scottish city Glasgow, comes the day after Orbex revealed it was in the process of appointing administrators after \"fundraising, merger and acq",
+    "summary": "New York (AFP) Feb 12, 2026\n\n A watched pot never boils and love happens when you least expect it - turns out, the same logic applies to capturing a star as it collapses into a black hole. \n\nAt least that proved true for one group of researchers whose work took a turn when they accidentally witnessed what appears to be an example of the astronomical unicorn, a \"surprise\" discovery they detailed in findings published Thurs",
     "published_at": "2026-02-13T12:49:58Z",
-    "updated_at": "2026-02-13T11:40:22.065927Z",
+    "updated_at": "2026-02-13T11:40:22.048885Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -274,6 +321,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36220,
+    "title": "UK space firm Skyrora explores buying assets of struggling rival Orbex",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/UK_space_firm_Skyrora_explores_buying_assets_of_struggling_rival_Orbex_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/orbex-prime-orbital-space-rocket-launch-pad-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London (AFP) Feb 12, 2026\n\n British company Skyrora, which designs and builds rockets to carry small satellites into space, announced Thursday it could acquire \"select\" assets from its stricken rival Orbex, including its spaceport in Scotland.  \n\nThe move by Skyrora, based in the Scottish city Glasgow, comes the day after Orbex revealed it was in the process of appointing administrators after \"fundraising, merger and acq",
+    "published_at": "2026-02-13T12:49:58Z",
+    "updated_at": "2026-02-13T11:40:22.065927Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36218,
     "title": "Strange 'inside-out' planetary system baffles astronomers",
     "authors": [
@@ -288,26 +355,6 @@
     "summary": "Paris, France (AFP) Feb 12, 2026\n\n Surprised astronomers said Thursday they have discovered a star with planets in a bizarre order that defies scientific expectations - and suggests these faraway worlds formed in a manner never seen before. \n\nIn our Solar System, the four planets closest to the Sun are small and rocky, while the four farther out are gas giants. \n\nScientists had thought this planetary order - rocky first, th",
     "published_at": "2026-02-13T12:49:58Z",
     "updated_at": "2026-02-13T11:40:22.036181Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36219,
-    "title": "Chance glimpse of star collapse offers new insight into black hole formation",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Chance_glimpse_of_star_collapse_offers_new_insight_into_black_hole_formation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/meerkat-mysterious-milky-way-object-neutron-star-black-hole-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (AFP) Feb 12, 2026\n\n A watched pot never boils and love happens when you least expect it - turns out, the same logic applies to capturing a star as it collapses into a black hole. \n\nAt least that proved true for one group of researchers whose work took a turn when they accidentally witnessed what appears to be an example of the astronomical unicorn, a \"surprise\" discovery they detailed in findings published Thurs",
-    "published_at": "2026-02-13T12:49:58Z",
-    "updated_at": "2026-02-13T11:40:22.048885Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -670,6 +717,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36205,
+    "title": "Hydrogen sulfide detected in distant gas giant exoplanets for the first time",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hydrogen_sulfide_detected_in_distant_gas_giant_exoplanets_for_the_first_time_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ucla-gas-giant-exoplanets-w-thompson-wm-keck-observatory-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 13, 2026\n\n\nHydrogen sulfide is what makes rotten eggs stink. But the discovery of this gas in the atmospheres of four distant, Jupiter-like planets is turning heads for a pleasant reason: It solves the mystery of how some gas giants form. The discovery, made by UCLA and University of California San Diego astronomers, marks the first time that hydrogen sulfide has been detected in a distant gas giant outsid",
+    "published_at": "2026-02-13T05:20:04Z",
+    "updated_at": "2026-02-13T04:20:13.427370Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36206,
     "title": "Debris disc oddities point to hidden outer planets",
     "authors": [
@@ -804,26 +871,6 @@
     "summary": "Los Angeles CA (SPX) Feb 13, 2026\n\n\nNASA has adjusted operations of the Neil Gehrels Swift Observatory to reduce atmospheric drag and prepare the spacecraft for a planned orbit-raising mission. On Feb. 11 the mission team temporarily suspended most science activities so controllers can keep the satellite in an orientation that minimizes drag and slows its gradual loss of altitude. \n\nSwift normally slews rapidly to observe tran",
     "published_at": "2026-02-13T05:20:04Z",
     "updated_at": "2026-02-13T04:20:13.454018Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36205,
-    "title": "Hydrogen sulfide detected in distant gas giant exoplanets for the first time",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hydrogen_sulfide_detected_in_distant_gas_giant_exoplanets_for_the_first_time_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ucla-gas-giant-exoplanets-w-thompson-wm-keck-observatory-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 13, 2026\n\n\nHydrogen sulfide is what makes rotten eggs stink. But the discovery of this gas in the atmospheres of four distant, Jupiter-like planets is turning heads for a pleasant reason: It solves the mystery of how some gas giants form. The discovery, made by UCLA and University of California San Diego astronomers, marks the first time that hydrogen sulfide has been detected in a distant gas giant outsid",
-    "published_at": "2026-02-13T05:20:04Z",
-    "updated_at": "2026-02-13T04:20:13.427370Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -1005,51 +1052,6 @@
     "summary": "At 16:45 GMT/17:45 CET the first Ariane 6 rocket with four boosters lifted off from Europe’s Spaceport in French Guiana on 12 February, taking 32 Amazon Leo satellites to orbit.",
     "published_at": "2026-02-12T20:30:00Z",
     "updated_at": "2026-02-12T20:30:13.963756Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36211,
-    "title": "Arianespace Launches First Four-Booster Ariane 6 Rocket",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/arianespace-launches-first-four-booster-ariane-6-rocket/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/Arianespace-Launches-First-Four-Booster-Ariane-6-Rocket.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The first flight of Ariane 64, the more powerful four-booster variant of the Ariane 6 rocket, has been successfully launched from French Guiana. The rocket carried 32 satellites for the Amazon LEO constellation, formerly known as Project Kuiper. Arianespace launched the first Ariane 6 rocket in its two-booster configuration (Ariane 62) in July 2024. Another […]\r\nThe post Arianespace Launches First Four-Booster Ariane 6 Rocket appeared first on European Spaceflight.",
-    "published_at": "2026-02-12T20:02:34Z",
-    "updated_at": "2026-02-13T08:59:54.607395Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "71eba994-ab9f-4707-ba5e-024cfff73c01",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36187,
-    "title": "Ariane 6 first launch with four boosters: the complete broadcast",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_first_launch_with_four_boosters_the_complete_broadcast",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/02/ariane_6_first_launch_with_four_boosters_the_complete_broadcast/27107277-1-eng-GB/Ariane_6_first_launch_with_four_boosters_the_complete_broadcast_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Watch the broadcast for the launch of Ariane 6 Flight VA267, the first mission featuring the four-booster configuration.",
-    "published_at": "2026-02-12T19:15:00Z",
-    "updated_at": "2026-02-12T19:30:39.113120Z",
     "featured": false,
     "launches": [],
     "events": [],
