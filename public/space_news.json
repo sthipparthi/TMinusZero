@@ -1,5 +1,25 @@
 [
   {
+    "id": 36246,
+    "title": "Replacement crew docks at space station, boosts crew back to seven",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/02/15/replacement-crew-docks-at-space-station-boosts-crew-back-to-seven/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260214_crew_welcome1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Crew Dragon docked at the space-facing port of the lab's forward Harmony module at 3:15 p.m. EST, 34 hours after launch Friday from the Kennedy Space Center atop a Falcon 9 rocket. ",
+    "published_at": "2026-02-15T05:16:55Z",
+    "updated_at": "2026-02-15T05:20:24.441103Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36244,
     "title": "Crew-12 Arrives on Station",
     "authors": [
@@ -20,26 +40,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36242,
-    "title": "Official start of ESA astronaut Sophie Adenot’s εpsilon mission",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Official_start_of_ESA_astronaut_Sophie_Adenot_s_epsilon_mission",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/crew-12_inside_the_international_space_station/27110648-1-eng-GB/Crew-12_inside_the_International_Space_Station_card_full.png",
-    "news_site": "ESA",
-    "summary": "The SpaceX Dragon Freedom capsule carrying ESA astronaut Sophie Adenot, NASA astronauts Jessica Meir and Jack Hathaway, and Roscosmos cosmonaut Andrei Fedyaev, docked with the International Space Station on 14 February, at 20:15 GMT/21:15 CET, marking the official start of ESA’s εpsilon mission.",
-    "published_at": "2026-02-14T22:45:00Z",
-    "updated_at": "2026-02-14T22:50:17.214435Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36243,
     "title": "Official start of ESA astronaut Sophie Adenot’s εpsilon mission",
     "authors": [
@@ -54,6 +54,26 @@
     "summary": "The SpaceX Dragon Freedom capsule carrying ESA astronaut Sophie Adenot, NASA astronauts Jessica Meir and Jack Hathaway, and Roscosmos cosmonaut Andrei Fedyaev, docked with the International Space Station on 14 February, at 20:15 GMT/21:15 CET, marking the official start of ESA’s εpsilon mission.",
     "published_at": "2026-02-14T22:45:00Z",
     "updated_at": "2026-02-14T23:10:19.038448Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36242,
+    "title": "Official start of ESA astronaut Sophie Adenot’s εpsilon mission",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Official_start_of_ESA_astronaut_Sophie_Adenot_s_epsilon_mission",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/crew-12_inside_the_international_space_station/27110648-1-eng-GB/Crew-12_inside_the_International_Space_Station_card_full.png",
+    "news_site": "ESA",
+    "summary": "The SpaceX Dragon Freedom capsule carrying ESA astronaut Sophie Adenot, NASA astronauts Jessica Meir and Jack Hathaway, and Roscosmos cosmonaut Andrei Fedyaev, docked with the International Space Station on 14 February, at 20:15 GMT/21:15 CET, marking the official start of ESA’s εpsilon mission.",
+    "published_at": "2026-02-14T22:45:00Z",
+    "updated_at": "2026-02-14T22:50:17.214435Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -294,26 +314,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36230,
-    "title": "Full replay: Launch of Crew-12 with Sophie Adenot | εpsilon mission",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/02/Full_replay_Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/02/full_replay_launch_of_crew-12_with_sophie_adenot_epsilon_mission/27108969-1-eng-GB/Full_replay_Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Watch the launch of ESA astronaut Sophie Adenot to the International Space Station (ISS), aboard a SpaceX Falcon 9 rocket from Space Launch Complex 40 at NASA’s Kennedy Space Centre. Sophie flies as mission specialist. The other Crew-12 members are NASA astronauts Jessica Meir and Jack Hathaway, respectively commander and pilot of the mission, and Roscosmos cosmonaut Andrei Fedyaev, mission specialist.",
-    "published_at": "2026-02-13T13:00:00Z",
-    "updated_at": "2026-02-13T14:00:19.494935Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36229,
     "title": "Launch of Crew-12 with Sophie Adenot | εpsilon mission",
     "authors": [
@@ -328,6 +328,26 @@
     "summary": "Watch the launch of ESA astronaut Sophie Adenot to the International Space Station (ISS), aboard a SpaceX Falcon 9 rocket from Space Launch Complex 40 at NASA’s Kennedy Space Centre. Sophie flies as mission specialist. The other Crew-12 members are NASA astronauts Jessica Meir and Jack Hathaway, respectively commander and pilot of the mission, and Roscosmos cosmonaut Andrei Fedyaev, mission specialist.",
     "published_at": "2026-02-13T13:00:00Z",
     "updated_at": "2026-02-13T13:50:16.216148Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36230,
+    "title": "Full replay: Launch of Crew-12 with Sophie Adenot | εpsilon mission",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/02/Full_replay_Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/02/full_replay_launch_of_crew-12_with_sophie_adenot_epsilon_mission/27108969-1-eng-GB/Full_replay_Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Watch the launch of ESA astronaut Sophie Adenot to the International Space Station (ISS), aboard a SpaceX Falcon 9 rocket from Space Launch Complex 40 at NASA’s Kennedy Space Centre. Sophie flies as mission specialist. The other Crew-12 members are NASA astronauts Jessica Meir and Jack Hathaway, respectively commander and pilot of the mission, and Roscosmos cosmonaut Andrei Fedyaev, mission specialist.",
+    "published_at": "2026-02-13T13:00:00Z",
+    "updated_at": "2026-02-13T14:00:19.494935Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -401,6 +421,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36219,
+    "title": "Chance glimpse of star collapse offers new insight into black hole formation",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Chance_glimpse_of_star_collapse_offers_new_insight_into_black_hole_formation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/meerkat-mysterious-milky-way-object-neutron-star-black-hole-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "New York (AFP) Feb 12, 2026\n\n A watched pot never boils and love happens when you least expect it - turns out, the same logic applies to capturing a star as it collapses into a black hole. \n\nAt least that proved true for one group of researchers whose work took a turn when they accidentally witnessed what appears to be an example of the astronomical unicorn, a \"surprise\" discovery they detailed in findings published Thurs",
+    "published_at": "2026-02-13T12:49:58Z",
+    "updated_at": "2026-02-13T11:40:22.048885Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36218,
     "title": "Strange 'inside-out' planetary system baffles astronomers",
     "authors": [
@@ -435,26 +475,6 @@
     "summary": "San Francisco, United States (AFP) Feb 11, 2026\n\n Half of the original founding team at Elon Musk's artificial intelligence startup xAI has now departed after two co-founders resigned in rapid succession this week, raising fresh questions about talent retention ahead of an expected initial public offering. \n\nThe exodus comes at a delicate moment for xAI, which was valued at more than $200 billion when it was integrated with Musk's SpaceX rock",
     "published_at": "2026-02-13T12:49:58Z",
     "updated_at": "2026-02-13T11:40:22.117075Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36219,
-    "title": "Chance glimpse of star collapse offers new insight into black hole formation",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Chance_glimpse_of_star_collapse_offers_new_insight_into_black_hole_formation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/meerkat-mysterious-milky-way-object-neutron-star-black-hole-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (AFP) Feb 12, 2026\n\n A watched pot never boils and love happens when you least expect it - turns out, the same logic applies to capturing a star as it collapses into a black hole. \n\nAt least that proved true for one group of researchers whose work took a turn when they accidentally witnessed what appears to be an example of the astronomical unicorn, a \"surprise\" discovery they detailed in findings published Thurs",
-    "published_at": "2026-02-13T12:49:58Z",
-    "updated_at": "2026-02-13T11:40:22.048885Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -1011,26 +1031,6 @@
     "summary": "The glacier in southeastern Svalbard pulses with the changing seasons, speeding up and slowing its flow toward the sea.",
     "published_at": "2026-02-13T05:00:00Z",
     "updated_at": "2026-02-13T05:10:14.735526Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36196,
-    "title": "NASA, SpaceX set for launch of Crew-12 to ISS",
-    "authors": [
-      {
-        "name": "Haygen Warren",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/02/crew-12-launch/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/tylerfalcondragon-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "SpaceX and NASA are set for the launch of the 12th operational crew rotation mission…\nThe post NASA, SpaceX set for launch of Crew-12 to ISS appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-02-13T01:39:09Z",
-    "updated_at": "2026-02-13T01:40:20.816972Z",
     "featured": false,
     "launches": [],
     "events": [],
