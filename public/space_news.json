@@ -1,5 +1,25 @@
 [
   {
+    "id": 36272,
+    "title": "NASA to attempt second full fueling test of its Space Launch System rocket",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/02/17/nasa-to-attempt-second-full-fueling-test-of-its-space-launch-system-rocket/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260216_WDR-2_annoucement-1_MC-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The operation comes a week after NASA conducted a so-called ‘confidence test’ on Feb. 12, which was the process of loading some liquid hydrogen on the rocket’s core stage. ",
+    "published_at": "2026-02-17T00:34:09Z",
+    "updated_at": "2026-02-17T00:40:23.766597Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36271,
     "title": "NASA Will Conduct Second Artemis II WDR on Thursday",
     "authors": [
@@ -167,80 +187,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36261,
-    "title": "Mexican Gxiba-1 CubeSat Starts Mission After Kibo Deployment",
+    "id": 36257,
+    "title": "Infrared archive reveals quiet birth of new black hole in Andromeda",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Mexican_Gxiba_1_CubeSat_Starts_Mission_After_Kibo_Deployment_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/japan-iss-kibocube-gxiba-1-mexico-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Infrared_archive_reveals_quiet_birth_of_new_black_hole_in_Andromeda_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/black-hole-out-of-fuel-core-collapses-dust-gas-thick-shell-massive-star-artwork-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 16, 2026\n\n\nOn February 3, 2026, the Mexican CubeSat Gxiba-1 was deployed from the Japanese Experiment Module Kibo on the International Space Station, beginning its on orbit mission. The small satellite was released into space using the Kibo module's robotic arm as Earth passed in the background. \n\nGxiba-1 was built by a team from the Popular Autonomous University of the State of Puebla in Mexico after",
+    "summary": "Los Angeles CA (SPX) Feb 16, 2026\n\n\nAstronomers have used nearly two decades of infrared and optical observations to watch a massive star in the Andromeda galaxy quietly collapse into a black hole instead of ending its life with a bright supernova explosion. \n\nThe object, cataloged as M31-2014-DS1, sits about 2.5 million light years from Earth in the neighboring Andromeda galaxy. A typical massive star death produces a powerfu",
     "published_at": "2026-02-16T02:42:40Z",
-    "updated_at": "2026-02-16T01:40:11.939453Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36251,
-    "title": "International crew arrives at space station",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/International_crew_arrives_at_space_station_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-falcon-9-rocket-crew-dragon-iss-docking-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Feb 14, 2026\n\n Four astronauts docked at the International Space Station on Saturday for a months-long research mission, replacing a crew forced to return to Earth early over a medical issue. \n\nThe US space agency's Crew-12 arrived at the orbiting laboratory after a journey of about 34 hours that started with blastoff from Cape Canaveral, Florida aboard a SpaceX Falcon 9 rocket. \n\n\"We have bridged the lega",
-    "published_at": "2026-02-16T02:42:40Z",
-    "updated_at": "2026-02-16T01:40:11.809617Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36262,
-    "title": "China tests AI satellite swarm for space-based computing",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/China_tests_AI_satellite_swarm_for_space_based_computing_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/three-body-computing-constellation-artwork-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 16, 2026\n\n\nChina has advanced its vision for space-based computing with a satellite network that deploys 10 artificial intelligence models in orbit and demonstrates inter-satellite networking capabilities. \n\nDeveloped by Zhejiang Lab in cooperation with international partners, the experimental space computing network is built around the Three-Body Computing Constellation, a planned fleet of more than 1",
-    "published_at": "2026-02-16T02:42:40Z",
-    "updated_at": "2026-02-16T01:40:11.948388Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36254,
-    "title": "Sophie Adenot, the second French woman to fly to space",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Sophie_Adenot_the_second_French_woman_to_fly_to_space_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-dragon-crew-12-iss-fedyaev-hathaway-meir-adenot-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (AFP) Feb 13, 2026\n\n\n When she was growing up, Sophie Adenot plastered her childhood bedroom with posters of rockets launching from Cape Canaveral. \n\nOn Friday, she blasted off from that very launchpad, fulfilling her childhood dream and becoming just the second French woman to fly to space. \n\nAdenot is one of four astronauts now heading towards the International Space Station to replace a crew that was evacuated",
-    "published_at": "2026-02-16T02:42:40Z",
-    "updated_at": "2026-02-16T01:40:11.863387Z",
+    "updated_at": "2026-02-16T01:40:11.901226Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -267,26 +227,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36253,
-    "title": "China retrieves Long March 10 booster from South China Sea after test flight",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/China_retrieves_Long_March_10_booster_from_South_China_Sea_after_test_flight_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-long-march-10-first-stage-booster-maritime-salvage-usable-launcher-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 16, 2026\n\n\nChina has carried out its first maritime recovery of a rocket first-stage booster, retrieving the main stage of a Long March 10 heavy-lift carrier rocket from the South China Sea following a key test flight earlier this week. \n\nThe China Manned Space Agency reported that the booster was recovered on Friday morning from a designated splashdown zone, marking the first time China has recovered",
-    "published_at": "2026-02-16T02:42:40Z",
-    "updated_at": "2026-02-16T01:40:11.852871Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36259,
     "title": "Microbes harvest metals from meteorites aboard space station",
     "authors": [
@@ -307,40 +247,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36258,
-    "title": "Einstein probe catch may show black hole shredding white dwarf",
+    "id": 36253,
+    "title": "China retrieves Long March 10 booster from South China Sea after test flight",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Einstein_probe_catch_may_show_black_hole_shredding_white_dwarf_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/hku-einstein-probe-black-hole-white-dwarf-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/China_retrieves_Long_March_10_booster_from_South_China_Sea_after_test_flight_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-long-march-10-first-stage-booster-maritime-salvage-usable-launcher-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 16, 2026\n\n\nAn unusual high energy outburst captured by the China led Einstein Probe space telescope is offering a rare look at how an intermediate mass black hole may tear apart and consume a white dwarf star. \n\nDuring a routine sky survey on July 2 2025 the mission's Wide field X ray Telescope detected a rapidly varying X ray source that immediately stood out from ordinary cosmic objects and triggered",
+    "summary": "Tokyo, Japan (SPX) Feb 16, 2026\n\n\nChina has carried out its first maritime recovery of a rocket first-stage booster, retrieving the main stage of a Long March 10 heavy-lift carrier rocket from the South China Sea following a key test flight earlier this week. \n\nThe China Manned Space Agency reported that the booster was recovered on Friday morning from a designated splashdown zone, marking the first time China has recovered",
     "published_at": "2026-02-16T02:42:40Z",
-    "updated_at": "2026-02-16T01:40:11.909665Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36255,
-    "title": "Smart Dragon 3 rocket sends seven satellites to orbit from sea platform",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Smart_Dragon_3_rocket_sends_seven_satellites_to_orbit_from_sea_platform_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/smart-dragon-3-carrier-rocket-sea-launch-day-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 16, 2026\n\n\nChina has launched a Smart Dragon 3 carrier rocket from a sea based platform off the coast of Yangjiang in Guangdong province, placing seven satellites into orbit on Thursday afternoon. \n\nLiftoff occurred at 2:37 pm local time from a dedicated launch service ship, after which the solid propellant rocket deployed all seven spacecraft into their preset orbits. \n\nThe payloads included a rem",
-    "published_at": "2026-02-16T02:42:40Z",
-    "updated_at": "2026-02-16T01:40:11.874538Z",
+    "updated_at": "2026-02-16T01:40:11.852871Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -367,6 +287,66 @@
     "detailed_news": ""
   },
   {
+    "id": 36255,
+    "title": "Smart Dragon 3 rocket sends seven satellites to orbit from sea platform",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Smart_Dragon_3_rocket_sends_seven_satellites_to_orbit_from_sea_platform_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/smart-dragon-3-carrier-rocket-sea-launch-day-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Feb 16, 2026\n\n\nChina has launched a Smart Dragon 3 carrier rocket from a sea based platform off the coast of Yangjiang in Guangdong province, placing seven satellites into orbit on Thursday afternoon. \n\nLiftoff occurred at 2:37 pm local time from a dedicated launch service ship, after which the solid propellant rocket deployed all seven spacecraft into their preset orbits. \n\nThe payloads included a rem",
+    "published_at": "2026-02-16T02:42:40Z",
+    "updated_at": "2026-02-16T01:40:11.874538Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36254,
+    "title": "Sophie Adenot, the second French woman to fly to space",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Sophie_Adenot_the_second_French_woman_to_fly_to_space_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/spacex-dragon-crew-12-iss-fedyaev-hathaway-meir-adenot-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (AFP) Feb 13, 2026\n\n\n When she was growing up, Sophie Adenot plastered her childhood bedroom with posters of rockets launching from Cape Canaveral. \n\nOn Friday, she blasted off from that very launchpad, fulfilling her childhood dream and becoming just the second French woman to fly to space. \n\nAdenot is one of four astronauts now heading towards the International Space Station to replace a crew that was evacuated",
+    "published_at": "2026-02-16T02:42:40Z",
+    "updated_at": "2026-02-16T01:40:11.863387Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36258,
+    "title": "Einstein probe catch may show black hole shredding white dwarf",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Einstein_probe_catch_may_show_black_hole_shredding_white_dwarf_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/hku-einstein-probe-black-hole-white-dwarf-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Feb 16, 2026\n\n\nAn unusual high energy outburst captured by the China led Einstein Probe space telescope is offering a rare look at how an intermediate mass black hole may tear apart and consume a white dwarf star. \n\nDuring a routine sky survey on July 2 2025 the mission's Wide field X ray Telescope detected a rapidly varying X ray source that immediately stood out from ordinary cosmic objects and triggered",
+    "published_at": "2026-02-16T02:42:40Z",
+    "updated_at": "2026-02-16T01:40:11.909665Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36252,
     "title": "Vietnam licenses Musk's satellite internet firm Starlink",
     "authors": [
@@ -387,20 +367,60 @@
     "detailed_news": ""
   },
   {
-    "id": 36257,
-    "title": "Infrared archive reveals quiet birth of new black hole in Andromeda",
+    "id": 36261,
+    "title": "Mexican Gxiba-1 CubeSat Starts Mission After Kibo Deployment",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Infrared_archive_reveals_quiet_birth_of_new_black_hole_in_Andromeda_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/black-hole-out-of-fuel-core-collapses-dust-gas-thick-shell-massive-star-artwork-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Mexican_Gxiba_1_CubeSat_Starts_Mission_After_Kibo_Deployment_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/japan-iss-kibocube-gxiba-1-mexico-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 16, 2026\n\n\nAstronomers have used nearly two decades of infrared and optical observations to watch a massive star in the Andromeda galaxy quietly collapse into a black hole instead of ending its life with a bright supernova explosion. \n\nThe object, cataloged as M31-2014-DS1, sits about 2.5 million light years from Earth in the neighboring Andromeda galaxy. A typical massive star death produces a powerfu",
+    "summary": "Tokyo, Japan (SPX) Feb 16, 2026\n\n\nOn February 3, 2026, the Mexican CubeSat Gxiba-1 was deployed from the Japanese Experiment Module Kibo on the International Space Station, beginning its on orbit mission. The small satellite was released into space using the Kibo module's robotic arm as Earth passed in the background. \n\nGxiba-1 was built by a team from the Popular Autonomous University of the State of Puebla in Mexico after",
     "published_at": "2026-02-16T02:42:40Z",
-    "updated_at": "2026-02-16T01:40:11.901226Z",
+    "updated_at": "2026-02-16T01:40:11.939453Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36262,
+    "title": "China tests AI satellite swarm for space-based computing",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/China_tests_AI_satellite_swarm_for_space_based_computing_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/three-body-computing-constellation-artwork-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Feb 16, 2026\n\n\nChina has advanced its vision for space-based computing with a satellite network that deploys 10 artificial intelligence models in orbit and demonstrates inter-satellite networking capabilities. \n\nDeveloped by Zhejiang Lab in cooperation with international partners, the experimental space computing network is built around the Three-Body Computing Constellation, a planned fleet of more than 1",
+    "published_at": "2026-02-16T02:42:40Z",
+    "updated_at": "2026-02-16T01:40:11.948388Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36251,
+    "title": "International crew arrives at space station",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/International_crew_arrives_at_space_station_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/spacex-falcon-9-rocket-crew-dragon-iss-docking-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington, United States (AFP) Feb 14, 2026\n\n Four astronauts docked at the International Space Station on Saturday for a months-long research mission, replacing a crew forced to return to Earth early over a medical issue. \n\nThe US space agency's Crew-12 arrived at the orbiting laboratory after a journey of about 34 hours that started with blastoff from Cape Canaveral, Florida aboard a SpaceX Falcon 9 rocket. \n\n\"We have bridged the lega",
+    "published_at": "2026-02-16T02:42:40Z",
+    "updated_at": "2026-02-16T01:40:11.809617Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -905,20 +925,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36218,
-    "title": "Strange 'inside-out' planetary system baffles astronomers",
+    "id": 36219,
+    "title": "Chance glimpse of star collapse offers new insight into black hole formation",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Strange_inside-out_planetary_system_baffles_astronomers_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/binary-neutron-star-merger-artwork-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Chance_glimpse_of_star_collapse_offers_new_insight_into_black_hole_formation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/meerkat-mysterious-milky-way-object-neutron-star-black-hole-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (AFP) Feb 12, 2026\n\n Surprised astronomers said Thursday they have discovered a star with planets in a bizarre order that defies scientific expectations - and suggests these faraway worlds formed in a manner never seen before. \n\nIn our Solar System, the four planets closest to the Sun are small and rocky, while the four farther out are gas giants. \n\nScientists had thought this planetary order - rocky first, th",
+    "summary": "New York (AFP) Feb 12, 2026\n\n A watched pot never boils and love happens when you least expect it - turns out, the same logic applies to capturing a star as it collapses into a black hole. \n\nAt least that proved true for one group of researchers whose work took a turn when they accidentally witnessed what appears to be an example of the astronomical unicorn, a \"surprise\" discovery they detailed in findings published Thurs",
     "published_at": "2026-02-13T12:49:58Z",
-    "updated_at": "2026-02-13T11:40:22.036181Z",
+    "updated_at": "2026-02-13T11:40:22.048885Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -945,20 +965,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36216,
-    "title": "International crew takes off for space station",
+    "id": 36218,
+    "title": "Strange 'inside-out' planetary system baffles astronomers",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/International_crew_takes_off_for_space_station_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/spacex-crew-dragon-demo-1-undocked-free-fly-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Strange_inside-out_planetary_system_baffles_astronomers_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/binary-neutron-star-merger-artwork-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Cape Canaveral (AFP) Feb 13, 2026\n\nNASA launched four astronauts to the International Space Station on Friday, the latest team to head out on a research expedition to the orbiting laboratory. \n\nThe US space agency's international Crew-12 lifted off at approximately 5:15 am local time (1015 GMT) aboard a SpaceX Falcon 9 rocket from the Cape Canaveral launch site in Florida, according to a NASA video feed. \n\nThe astronauts",
+    "summary": "Paris, France (AFP) Feb 12, 2026\n\n Surprised astronomers said Thursday they have discovered a star with planets in a bizarre order that defies scientific expectations - and suggests these faraway worlds formed in a manner never seen before. \n\nIn our Solar System, the four planets closest to the Sun are small and rocky, while the four farther out are gas giants. \n\nScientists had thought this planetary order - rocky first, th",
     "published_at": "2026-02-13T12:49:58Z",
-    "updated_at": "2026-02-13T11:40:21.981750Z",
+    "updated_at": "2026-02-13T11:40:22.036181Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -979,26 +999,6 @@
     "summary": "San Francisco, United States (AFP) Feb 11, 2026\n\n Half of the original founding team at Elon Musk's artificial intelligence startup xAI has now departed after two co-founders resigned in rapid succession this week, raising fresh questions about talent retention ahead of an expected initial public offering. \n\nThe exodus comes at a delicate moment for xAI, which was valued at more than $200 billion when it was integrated with Musk's SpaceX rock",
     "published_at": "2026-02-13T12:49:58Z",
     "updated_at": "2026-02-13T11:40:22.117075Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36219,
-    "title": "Chance glimpse of star collapse offers new insight into black hole formation",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Chance_glimpse_of_star_collapse_offers_new_insight_into_black_hole_formation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/meerkat-mysterious-milky-way-object-neutron-star-black-hole-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (AFP) Feb 12, 2026\n\n A watched pot never boils and love happens when you least expect it - turns out, the same logic applies to capturing a star as it collapses into a black hole. \n\nAt least that proved true for one group of researchers whose work took a turn when they accidentally witnessed what appears to be an example of the astronomical unicorn, a \"surprise\" discovery they detailed in findings published Thurs",
-    "published_at": "2026-02-13T12:49:58Z",
-    "updated_at": "2026-02-13T11:40:22.048885Z",
     "featured": false,
     "launches": [],
     "events": [],
