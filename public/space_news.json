@@ -1,5 +1,45 @@
 [
   {
+    "id": 36298,
+    "title": "A Second Cyclone Slams Madagascar",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-second-cyclone-slams-madagascar/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-second-cyclone-slams-madagascar/cyclonegezani_tmo_20260210.jpg",
+    "news_site": "NASA",
+    "summary": "Widespread flooding affected tens of thousands of people after cyclones Fytia and Gezani drenched the island.",
+    "published_at": "2026-02-18T05:01:00Z",
+    "updated_at": "2026-02-18T05:10:10.954286Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36297,
+    "title": "Curiosity Blog Sols 4804-4811: Kicking Off the Final Phase of Boxwork Exploration",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4804-4811-kicking-off-the-final-phase-of-boxwork-exploration/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/february/https___mars.nasa.gov_msl-raw-images_msss_04803_mhli_4803MH0007740011703773C00_DXXX.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Abigail Fraeman, Curiosity Deputy Project Scientist Earth planning date: Friday, Feb. 13, 2026 Curiosity spent this week at Gale crater completing the last few activities associated with the “Nevado Sajama 2” drill before kicking off our final phase of the boxwork exploration campaign. As we’ve explored the boxwork region, the science team has […]",
+    "published_at": "2026-02-18T00:44:49Z",
+    "updated_at": "2026-02-18T01:10:10.851493Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36295,
     "title": "Starbase Pad 2 prepares to receive Booster 19 ahead of Block 3 milestones",
     "authors": [
@@ -279,26 +319,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36277,
-    "title": "SatService to supply Q V band satcom ground station for Bundeswehr university",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/SatService_to_supply_Q_V_band_satcom_ground_station_for_Bundeswehr_university_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satservice-calian-satellite-ground-station-german-armed-forces-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 17, 2026\n\n\nSatService GmbH, a Germany based provider of advanced satellite ground systems and a subsidiary of Calian Group Ltd, has secured a contract from the Federal Ministry of Defence of Germany to deliver an advanced Q V band satellite ground station to the University of the Federal Armed Forces in Munich. The project supports both scientific research and modern military satellite communications requi",
-    "published_at": "2026-02-17T11:51:13Z",
-    "updated_at": "2026-02-17T10:50:12.689100Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36278,
     "title": "Valen array advances multi-mission sensing tech",
     "authors": [
@@ -319,26 +339,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36275,
-    "title": "Mars relay orbiter seen as backbone for future exploration",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Mars_relay_orbiter_seen_as_backbone_for_future_exploration_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/escapade-mars-mission-two-identical-satellites-blue-gold-berkeley-rocket-lab-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nNASA has set clear goals at Mars: search for evidence of ancient life, understand the planet's climate and geology, and prepare for human exploration. Those objectives depend on a robust link between spacecraft at Mars and mission teams on Earth, with every image and dataset traveling hundreds of millions of kilometers across interplanetary space. Rocket Lab positions its proposed Mars Telecommu",
-    "published_at": "2026-02-17T11:51:13Z",
-    "updated_at": "2026-02-17T10:50:12.647520Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36279,
     "title": "Course correction needed quickly to avoid pathway to 'hothouse Earth' scenario, scientists say",
     "authors": [
@@ -353,6 +353,46 @@
     "summary": "Corvallis OR (SPX) Feb 13, 2026\n\nScientists say multiple Earth system components appear closer to destabilization than previously believed, putting the planet in increased danger of following a \"hothouse\" path driven by feedback loops that can amplify the consequences of global warming. \n\nPublished in the journal One Earth, \"The risk of a hothouse Earth trajectory\" is an analysis by an international collaboration led by Ore",
     "published_at": "2026-02-17T11:51:13Z",
     "updated_at": "2026-02-17T10:50:12.719676Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36277,
+    "title": "SatService to supply Q V band satcom ground station for Bundeswehr university",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/SatService_to_supply_Q_V_band_satcom_ground_station_for_Bundeswehr_university_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satservice-calian-satellite-ground-station-german-armed-forces-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Feb 17, 2026\n\n\nSatService GmbH, a Germany based provider of advanced satellite ground systems and a subsidiary of Calian Group Ltd, has secured a contract from the Federal Ministry of Defence of Germany to deliver an advanced Q V band satellite ground station to the University of the Federal Armed Forces in Munich. The project supports both scientific research and modern military satellite communications requi",
+    "published_at": "2026-02-17T11:51:13Z",
+    "updated_at": "2026-02-17T10:50:12.689100Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36275,
+    "title": "Mars relay orbiter seen as backbone for future exploration",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Mars_relay_orbiter_seen_as_backbone_for_future_exploration_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/escapade-mars-mission-two-identical-satellites-blue-gold-berkeley-rocket-lab-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nNASA has set clear goals at Mars: search for evidence of ancient life, understand the planet's climate and geology, and prepare for human exploration. Those objectives depend on a robust link between spacecraft at Mars and mission teams on Earth, with every image and dataset traveling hundreds of millions of kilometers across interplanetary space. Rocket Lab positions its proposed Mars Telecommu",
+    "published_at": "2026-02-17T11:51:13Z",
+    "updated_at": "2026-02-17T10:50:12.647520Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -954,46 +994,6 @@
     "summary": "\nNASA Administrator Jared Isaacman said he is interested in meeting with his Russian counterpart and attending an upcoming Soyuz launch.\nThe post Isaacman planning to meet with head of Roscosmos appeared first on SpaceNews.",
     "published_at": "2026-02-16T00:08:20Z",
     "updated_at": "2026-02-16T00:10:24.422445Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36249,
-    "title": "What’s Happening in Space Policy February 15-21, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-15-21-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Isaacman-Feb-13-26-post-launch-Crew-12-300x169.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of February 15-21, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
-    "published_at": "2026-02-15T21:41:20Z",
-    "updated_at": "2026-02-15T21:50:16.641643Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36248,
-    "title": "Space Station returns to a full crew complement after a month",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/crew-12.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"It's only possible because of the incredibly talented workforce we have.\"",
-    "published_at": "2026-02-15T21:11:54Z",
-    "updated_at": "2026-02-15T21:20:07.464169Z",
     "featured": false,
     "launches": [],
     "events": [],
