@@ -1,5 +1,25 @@
 [
   {
+    "id": 36337,
+    "title": "Northern Glow Spans Iceland and Canada",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/northern-glow-spans-iceland-and-canada/icelandaurora_vir_20260216.jpg",
+    "news_site": "NASA",
+    "summary": "A vivid display of the aurora lit up skies over the Denmark Strait and eastern Canada during a minor geomagnetic storm in February 2026.",
+    "published_at": "2026-02-19T05:00:00Z",
+    "updated_at": "2026-02-19T05:10:09.458123Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36336,
     "title": "Pentagon seeks commercially built GEO spy satellites",
     "authors": [
@@ -499,26 +519,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36314,
-    "title": "Revealed: 10 new insights in climate science",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Revealed_10_new_insights_in_climate_science",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/mediterranean_sea_heatwaves/27115581-1-eng-GB/Mediterranean_Sea_heatwaves_card_full.png",
-    "news_site": "ESA",
-    "summary": "Each year, the world’s leading climate scientists evaluate the most critical evidence on how our planet is changing. Their assessments draw heavily on data from Earth-observing satellites – and the latest report delivers a stark warning: the planet’s energy balance is drifting further out of alignment, ocean warming is now accelerating, and the land’s capacity to absorb carbon is declining, along with other troubling trends.",
-    "published_at": "2026-02-18T13:00:00Z",
-    "updated_at": "2026-02-18T14:20:18.551281Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36311,
     "title": "Vantor partners with Google AI to automate intelligence reports for government agencies",
     "authors": [
@@ -539,80 +539,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36303,
-    "title": "'Unprecedented' emissions maps will hone mitigation",
+    "id": 36314,
+    "title": "Revealed: 10 new insights in climate science",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Unprecedented_emissions_maps_will_hone_mitigation_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/cornell-global-cropland-emissions-map-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Ithaca, NY (SPX) Feb 16, 2026\n\n\nTo lower agricultural emissions, policymakers and communities first need to pinpoint the sources. Not just by country but crop by crop, field by field. In other words, they need maps. Detailed maps. \n\nIn a study published Feb. 13 in Nature Climate Change, researchers have synthesized data from multiple ground sources and models to map global cropland emissions at high resolution - down to ab",
-    "published_at": "2026-02-18T12:37:42Z",
-    "updated_at": "2026-02-18T11:30:15.288797Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36299,
-    "title": "UAE extends Mars probe mission until 2028",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/UAE_extends_Mars_probe_mission_until_2028_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uae-mars-hope-mission-graphic-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Dubai (AFP) Feb 17, 2026\n\n\n The United Arab Emirates announced on Tuesday that it would extend its Mars probe mission, now in its fifth year, for an additional three, underlining the oil-rich state's space ambitions. \n\nThe UAE's Hope probe arrived in orbit around Mars in 2021 after a seven-month voyage through space, making it the first Arab country to explore the Red Planet with a $200 million investment. \n\nThe Emirat",
-    "published_at": "2026-02-18T12:37:42Z",
-    "updated_at": "2026-02-18T11:30:15.190412Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36302,
-    "title": "Australian hypersonic test flight window announced",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Australian_hypersonic_test_flight_window_announced_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/australian-hypersonic-flight-pioneer-hypersonix-launch-systems-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 18, 2026\n\n\nAustralian hypersonic flight developer Hypersonix Launch Systems has set the launch window for a landmark test of its DART AE scramjet-powered vehicle, moving the company a step closer to sustained hypersonic flight in operational conditions. \n\nFounded in 2019, Hypersonix is developing a new class of autonomous hypersonic aircraft designed to deliver sustained flight at extreme speed, range",
-    "published_at": "2026-02-18T12:37:42Z",
-    "updated_at": "2026-02-18T11:30:15.265086Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36300,
-    "title": "Exolaunch to deploy five satellites on Spectrum mission from Norway",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Exolaunch_to_deploy_five_satellites_on_Spectrum_mission_from_Norway_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-spectrum-liftoff-isar-aerospace-andoya-spaceport-norway-snow-mountain-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nExolaunch has completed integration of five customer satellites for launch on Isar Aerospace's Spectrum rocket, scheduled no earlier than March 19, 2026 from Andoya spaceport in Norway. The mission, branded 'Onward and Upward,' represents the second flight of Spectrum and a key step toward strengthening German and European sovereign access to orbit. \n\nThe Berlin-based company is providing la",
-    "published_at": "2026-02-18T12:37:42Z",
-    "updated_at": "2026-02-18T11:30:15.226272Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Revealed_10_new_insights_in_climate_science",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/mediterranean_sea_heatwaves/27115581-1-eng-GB/Mediterranean_Sea_heatwaves_card_full.png",
+    "news_site": "ESA",
+    "summary": "Each year, the world’s leading climate scientists evaluate the most critical evidence on how our planet is changing. Their assessments draw heavily on data from Earth-observing satellites – and the latest report delivers a stark warning: the planet’s energy balance is drifting further out of alignment, ocean warming is now accelerating, and the land’s capacity to absorb carbon is declining, along with other troubling trends.",
+    "published_at": "2026-02-18T13:00:00Z",
+    "updated_at": "2026-02-18T14:20:18.551281Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -639,6 +579,46 @@
     "detailed_news": ""
   },
   {
+    "id": 36299,
+    "title": "UAE extends Mars probe mission until 2028",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/UAE_extends_Mars_probe_mission_until_2028_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uae-mars-hope-mission-graphic-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Dubai (AFP) Feb 17, 2026\n\n\n The United Arab Emirates announced on Tuesday that it would extend its Mars probe mission, now in its fifth year, for an additional three, underlining the oil-rich state's space ambitions. \n\nThe UAE's Hope probe arrived in orbit around Mars in 2021 after a seven-month voyage through space, making it the first Arab country to explore the Red Planet with a $200 million investment. \n\nThe Emirat",
+    "published_at": "2026-02-18T12:37:42Z",
+    "updated_at": "2026-02-18T11:30:15.190412Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36303,
+    "title": "'Unprecedented' emissions maps will hone mitigation",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Unprecedented_emissions_maps_will_hone_mitigation_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/cornell-global-cropland-emissions-map-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Ithaca, NY (SPX) Feb 16, 2026\n\n\nTo lower agricultural emissions, policymakers and communities first need to pinpoint the sources. Not just by country but crop by crop, field by field. In other words, they need maps. Detailed maps. \n\nIn a study published Feb. 13 in Nature Climate Change, researchers have synthesized data from multiple ground sources and models to map global cropland emissions at high resolution - down to ab",
+    "published_at": "2026-02-18T12:37:42Z",
+    "updated_at": "2026-02-18T11:30:15.288797Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36301,
     "title": "Sateliot books Spanish Miura 5 launch for two next gen Trito satellites in 2027",
     "authors": [
@@ -653,6 +633,46 @@
     "summary": "Madrid, Spain (SPX) Feb 18, 2026\n\n\nSateliot and PLD Space have signed a commercial contract for the dedicated launch of Sateliot's first two Trito next generation 5G direct to device satellites on a Miura 5 rocket in 2027. The agreement covers placing both satellites, each with a mass of about 160 kilograms, into low Earth orbit on a mission operated entirely by PLD Space. \n\nThe deal is described as the first fully private Sp",
     "published_at": "2026-02-18T12:37:42Z",
     "updated_at": "2026-02-18T11:30:15.245426Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36300,
+    "title": "Exolaunch to deploy five satellites on Spectrum mission from Norway",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Exolaunch_to_deploy_five_satellites_on_Spectrum_mission_from_Norway_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-spectrum-liftoff-isar-aerospace-andoya-spaceport-norway-snow-mountain-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nExolaunch has completed integration of five customer satellites for launch on Isar Aerospace's Spectrum rocket, scheduled no earlier than March 19, 2026 from Andoya spaceport in Norway. The mission, branded 'Onward and Upward,' represents the second flight of Spectrum and a key step toward strengthening German and European sovereign access to orbit. \n\nThe Berlin-based company is providing la",
+    "published_at": "2026-02-18T12:37:42Z",
+    "updated_at": "2026-02-18T11:30:15.226272Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36302,
+    "title": "Australian hypersonic test flight window announced",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Australian_hypersonic_test_flight_window_announced_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/australian-hypersonic-flight-pioneer-hypersonix-launch-systems-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 18, 2026\n\n\nAustralian hypersonic flight developer Hypersonix Launch Systems has set the launch window for a landmark test of its DART AE scramjet-powered vehicle, moving the company a step closer to sustained hypersonic flight in operational conditions. \n\nFounded in 2019, Hypersonix is developing a new class of autonomous hypersonic aircraft designed to deliver sustained flight at extreme speed, range",
+    "published_at": "2026-02-18T12:37:42Z",
+    "updated_at": "2026-02-18T11:30:15.265086Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -981,33 +1001,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36281,
-    "title": "Sateliot to launch satellites with PLD Space",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/sateliot-to-launch-satellites-with-pld-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Maqueta-Trito-scaled.png?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSateliot will launch two of its next-generation direct-to-device satellites on a PLD Space rocket in what is billed as the first fully private Spanish mission.\nThe post Sateliot to launch satellites with PLD Space appeared first on SpaceNews.",
-    "published_at": "2026-02-17T13:02:26Z",
-    "updated_at": "2026-02-17T13:10:27.247144Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
