@@ -1,5 +1,245 @@
 [
   {
+    "id": 36336,
+    "title": "Pentagon seeks commercially built GEO spy satellites",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/161021-D-ZZ999-998-e1771452020431.jpg?fit=1024%2C550&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Defense Innovation Unit plans to select companies to field and operate spacecraft before transferring them to government control within three years\nThe post Pentagon seeks commercially built GEO spy satellites  appeared first on SpaceNews.",
+    "published_at": "2026-02-18T22:06:28Z",
+    "updated_at": "2026-02-18T22:10:27.550180Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36335,
+    "title": "Digital Surface and Terrain Models from Vantor’s Precision3D Product Line Added to Satellite Data Explorer",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/uncategorized/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/peoria-vantor-dsm.jpg",
+    "news_site": "NASA",
+    "summary": "The CSDA Program added three digital elevation and digital terrain products from Vantor’s Precision3D Product Line to the Satellite Data Explorer.",
+    "published_at": "2026-02-18T21:05:58Z",
+    "updated_at": "2026-02-18T22:10:11.230256Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36332,
+    "title": "Vantor Archive Imagery Added to Satellite Data Explorer",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/vator-multispectral-dc.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Commercial Satellite Data Acquisition (CSDA) Program announces the addition of imagery from Vantor to its Satellite Data Explorer (SDX) data access and discovery tool.",
+    "published_at": "2026-02-18T20:54:31Z",
+    "updated_at": "2026-02-18T21:10:09.837903Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36333,
+    "title": "CSDA Releases New Data Acquisition Request System",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/uncategorized/csda-releases-new-data-acquisition-request-system/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/sdx-dashboard.jpg",
+    "news_site": "NASA",
+    "summary": "The CSDA Program’s Data Acquisition Request System lets authorized users submit proposals for yet-to-be-collected data from CSDA’s commercial partners.",
+    "published_at": "2026-02-18T20:42:16Z",
+    "updated_at": "2026-02-18T21:10:09.870347Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36334,
+    "title": "CSDA Program Announces Eight New Data Agreements",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/pittsburg-capella-space.png",
+    "news_site": "NASA",
+    "summary": "NASA’s Commercial Satellite Data Acquisition (CSDA) Program announced eight new agreements with seven of its commercial partners to give users more access to near‑global multispectral and synthetic aperture radar data.",
+    "published_at": "2026-02-18T20:23:53Z",
+    "updated_at": "2026-02-18T21:10:09.881426Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36325,
+    "title": "Notes from the Field",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/tucker1.jpg",
+    "news_site": "NASA",
+    "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
+    "published_at": "2026-02-18T19:23:57Z",
+    "updated_at": "2026-02-18T20:10:10.394329Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36326,
+    "title": "42 Years of Measuring the Sun, the Earth and the Energy in Between",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/galleries/images/erbe.jpg",
+    "news_site": "NASA",
+    "summary": "By Denise Lineberry On Jan. 31, 1958, Explorer 1 became the first satellite launched by the United States. Its primary science instrument, a cosmic ray detector, was designed to measure the radiation environment in Earth orbit. Though its final transmission was in May 1958, it continued to revolve around Earth more than 58,000 times. As […]",
+    "published_at": "2026-02-18T19:23:36Z",
+    "updated_at": "2026-02-18T20:10:10.409895Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36327,
+    "title": "The Sky Belongs to All of Us",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/explorer/the-sky-belongs-to-all-of-us/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/jwst_concept.jpg",
+    "news_site": "NASA",
+    "summary": "By Hashima Hasan How did a little girl born in India soon after its independence from the British Empire, become a program scientist for NASA’s Hubble Space Telescope, and the first female program scientist for the James Webb Space Telescope, Stratospheric Observatory for Infrared Astronomy (SOFIA), Gravity Probe B, and other astrophysics flight missions? The […]",
+    "published_at": "2026-02-18T19:23:12Z",
+    "updated_at": "2026-02-18T20:10:10.423482Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36328,
+    "title": "Measuring the Big Bang with the COBE satellite",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/explorer/measuring-the-big-bang-with-the-cobe-satellite/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/cobe.jpg",
+    "news_site": "NASA",
+    "summary": "By John Mather The Cosmic Background Explorer satellite (COBE) went up on a Delta rocket on Nov. 18, 1989, into a polar sun-synchronous orbit 900 km up. Our team at NASA Goddard Space Flight Center (GSFC), Ball Aerospace, the Jet Propulsion Laboratory (JPL) and universities built it to look at the cosmic microwave and infrared […]",
+    "published_at": "2026-02-18T19:22:41Z",
+    "updated_at": "2026-02-18T20:10:10.435712Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36329,
+    "title": "Peering Homeward, 1972",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/explorer/peering-homeward-1972/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/galleries/images/landsat1.jpg",
+    "news_site": "NASA",
+    "summary": "By Laura Rocchio On July 23, 1972 the first civilian satellite designed to image Earth’s land surfaces was launched from Vandenberg Air Force Base in California. On board the satellite, originally named the Earth Resources Technology Satellite (ERTS), but later known as Landsat 1, were two sensors. The primary sensor, called the Return Beam Vidicon […]",
+    "published_at": "2026-02-18T19:21:22Z",
+    "updated_at": "2026-02-18T20:10:10.449627Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36330,
+    "title": "My NASA Experience",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/explorer/my-nasa-experience/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/engineering/nircam1.jpg",
+    "news_site": "NASA",
+    "summary": "By Marcia J. Rieke The development of infrared detector arrays is intertwined with my experiences working on NASA projects. As an astronomer at a university, my interactions with NASA all start with a proposal in response to an opportunity. In 1983, near-infrared detector arrays were beginning to attract the attention of astronomers. At the suggestion […]",
+    "published_at": "2026-02-18T19:20:47Z",
+    "updated_at": "2026-02-18T20:10:10.462689Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36331,
+    "title": "The Gestation of the Hubble",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/explorer/the-gestation-of-the-hubble/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/hubble.jpg",
+    "news_site": "NASA",
+    "summary": "By Nancy Grace Roman Looking through the atmosphere is like looking through a piece of old stained glass. The glass has defects that distort the image. The atmosphere also has defects that distort the image, but the defects in the atmosphere move, thus blurring the image as well. The glass is colored, so only some […]",
+    "published_at": "2026-02-18T19:19:57Z",
+    "updated_at": "2026-02-18T20:10:10.482585Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36320,
     "title": "NASA to Provide Coverage of Artemis II Wet Dress Rehearsal",
     "authors": [
@@ -239,20 +479,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36311,
-    "title": "Vantor partners with Google AI to automate intelligence reports for government agencies",
+    "id": 36324,
+    "title": "Shareholder Advisory Firm Urges Vote Against Avio Bylaw Amendments",
     "authors": [
       {
-        "name": "Sandra Erwin",
+        "name": "European Spaceflight",
         "socials": null
       }
     ],
-    "url": "https://spacenews.com/vantor-partners-with-google-ai-to-automate-intelligence-reports-for-government-agencies/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Vantor-Google-EarthAI.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSatellite imagery-to-report timelines would be reduced from hours to minutes \nThe post Vantor partners with Google AI to automate intelligence reports for government agencies appeared first on SpaceNews.",
-    "published_at": "2026-02-18T13:00:00Z",
-    "updated_at": "2026-02-18T13:10:28.638608Z",
+    "url": "https://europeanspaceflight.com/shareholder-advisory-firm-urges-vote-against-avio-bylaw-amendments/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/Shareholder-Advisory-Firm-Urges-Vote-Against-Avio-Bylaw-Amendments-hero.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Institutional Shareholder Services (ISS), a proxy adviser for institutional investors, has recommended that Avio shareholders vote against a set of proposed bylaw amendments, setting up a tense run-up to a 3 March Extraordinary General Meeting. In September 2025, Italian rocket builder Avio introduced a new ten-year business plan targeting an average annual growth rate of […]\nThe post Shareholder Advisory Firm Urges Vote Against Avio Bylaw Amendments appeared first on European Spaceflight.",
+    "published_at": "2026-02-18T13:08:37Z",
+    "updated_at": "2026-02-18T20:00:20.075582Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -279,40 +519,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36299,
-    "title": "UAE extends Mars probe mission until 2028",
+    "id": 36311,
+    "title": "Vantor partners with Google AI to automate intelligence reports for government agencies",
     "authors": [
       {
-        "name": "SpaceDaily",
+        "name": "Sandra Erwin",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/UAE_extends_Mars_probe_mission_until_2028_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uae-mars-hope-mission-graphic-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Dubai (AFP) Feb 17, 2026\n\n\n The United Arab Emirates announced on Tuesday that it would extend its Mars probe mission, now in its fifth year, for an additional three, underlining the oil-rich state's space ambitions. \n\nThe UAE's Hope probe arrived in orbit around Mars in 2021 after a seven-month voyage through space, making it the first Arab country to explore the Red Planet with a $200 million investment. \n\nThe Emirat",
-    "published_at": "2026-02-18T12:37:42Z",
-    "updated_at": "2026-02-18T11:30:15.190412Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36304,
-    "title": "Deep sea wrinkles reveal ancient chemosynthetic microbes",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Deep_sea_wrinkles_reveal_ancient_chemosynthetic_microbes_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ancient-microbial-community-early-jurassic-preserved-seabed-ripples-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 16, 2026\n\n\nA chance observation on a Moroccan hillside has revealed that some wrinkled rock textures from the deep sea may actually be fossilized microbial communities, not just products of underwater landslides. While hiking in 2016, University of Texas at Austin geologist Rowan Martindale noticed a slab of sedimentary rock with a distinctive wrinkled surface that looked like classic microbial mat fossils",
-    "published_at": "2026-02-18T12:37:42Z",
-    "updated_at": "2026-02-18T11:30:15.310246Z",
+    "url": "https://spacenews.com/vantor-partners-with-google-ai-to-automate-intelligence-reports-for-government-agencies/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Vantor-Google-EarthAI.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSatellite imagery-to-report timelines would be reduced from hours to minutes \nThe post Vantor partners with Google AI to automate intelligence reports for government agencies appeared first on SpaceNews.",
+    "published_at": "2026-02-18T13:00:00Z",
+    "updated_at": "2026-02-18T13:10:28.638608Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -339,40 +559,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36300,
-    "title": "Exolaunch to deploy five satellites on Spectrum mission from Norway",
+    "id": 36299,
+    "title": "UAE extends Mars probe mission until 2028",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Exolaunch_to_deploy_five_satellites_on_Spectrum_mission_from_Norway_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/esa-spectrum-liftoff-isar-aerospace-andoya-spaceport-norway-snow-mountain-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/UAE_extends_Mars_probe_mission_until_2028_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uae-mars-hope-mission-graphic-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nExolaunch has completed integration of five customer satellites for launch on Isar Aerospace's Spectrum rocket, scheduled no earlier than March 19, 2026 from Andoya spaceport in Norway. The mission, branded 'Onward and Upward,' represents the second flight of Spectrum and a key step toward strengthening German and European sovereign access to orbit. \n\nThe Berlin-based company is providing la",
+    "summary": "Dubai (AFP) Feb 17, 2026\n\n\n The United Arab Emirates announced on Tuesday that it would extend its Mars probe mission, now in its fifth year, for an additional three, underlining the oil-rich state's space ambitions. \n\nThe UAE's Hope probe arrived in orbit around Mars in 2021 after a seven-month voyage through space, making it the first Arab country to explore the Red Planet with a $200 million investment. \n\nThe Emirat",
     "published_at": "2026-02-18T12:37:42Z",
-    "updated_at": "2026-02-18T11:30:15.226272Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36301,
-    "title": "Sateliot books Spanish Miura 5 launch for two next gen Trito satellites in 2027",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Sateliot_books_Spanish_Miura_5_launch_for_two_next_gen_Trito_satellites_in_2027_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/sateliot-pld-space-dedicated-rocket-launch-2027-factory-floor-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Madrid, Spain (SPX) Feb 18, 2026\n\n\nSateliot and PLD Space have signed a commercial contract for the dedicated launch of Sateliot's first two Trito next generation 5G direct to device satellites on a Miura 5 rocket in 2027. The agreement covers placing both satellites, each with a mass of about 160 kilograms, into low Earth orbit on a mission operated entirely by PLD Space. \n\nThe deal is described as the first fully private Sp",
-    "published_at": "2026-02-18T12:37:42Z",
-    "updated_at": "2026-02-18T11:30:15.245426Z",
+    "updated_at": "2026-02-18T11:30:15.190412Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -393,6 +593,66 @@
     "summary": "Los Angeles CA (SPX) Feb 18, 2026\n\n\nAustralian hypersonic flight developer Hypersonix Launch Systems has set the launch window for a landmark test of its DART AE scramjet-powered vehicle, moving the company a step closer to sustained hypersonic flight in operational conditions. \n\nFounded in 2019, Hypersonix is developing a new class of autonomous hypersonic aircraft designed to deliver sustained flight at extreme speed, range",
     "published_at": "2026-02-18T12:37:42Z",
     "updated_at": "2026-02-18T11:30:15.265086Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36300,
+    "title": "Exolaunch to deploy five satellites on Spectrum mission from Norway",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Exolaunch_to_deploy_five_satellites_on_Spectrum_mission_from_Norway_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/esa-spectrum-liftoff-isar-aerospace-andoya-spaceport-norway-snow-mountain-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nExolaunch has completed integration of five customer satellites for launch on Isar Aerospace's Spectrum rocket, scheduled no earlier than March 19, 2026 from Andoya spaceport in Norway. The mission, branded 'Onward and Upward,' represents the second flight of Spectrum and a key step toward strengthening German and European sovereign access to orbit. \n\nThe Berlin-based company is providing la",
+    "published_at": "2026-02-18T12:37:42Z",
+    "updated_at": "2026-02-18T11:30:15.226272Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36304,
+    "title": "Deep sea wrinkles reveal ancient chemosynthetic microbes",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Deep_sea_wrinkles_reveal_ancient_chemosynthetic_microbes_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ancient-microbial-community-early-jurassic-preserved-seabed-ripples-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 16, 2026\n\n\nA chance observation on a Moroccan hillside has revealed that some wrinkled rock textures from the deep sea may actually be fossilized microbial communities, not just products of underwater landslides. While hiking in 2016, University of Texas at Austin geologist Rowan Martindale noticed a slab of sedimentary rock with a distinctive wrinkled surface that looked like classic microbial mat fossils",
+    "published_at": "2026-02-18T12:37:42Z",
+    "updated_at": "2026-02-18T11:30:15.310246Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36301,
+    "title": "Sateliot books Spanish Miura 5 launch for two next gen Trito satellites in 2027",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Sateliot_books_Spanish_Miura_5_launch_for_two_next_gen_Trito_satellites_in_2027_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/sateliot-pld-space-dedicated-rocket-launch-2027-factory-floor-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Madrid, Spain (SPX) Feb 18, 2026\n\n\nSateliot and PLD Space have signed a commercial contract for the dedicated launch of Sateliot's first two Trito next generation 5G direct to device satellites on a Miura 5 rocket in 2027. The agreement covers placing both satellites, each with a mass of about 160 kilograms, into low Earth orbit on a mission operated entirely by PLD Space. \n\nThe deal is described as the first fully private Sp",
+    "published_at": "2026-02-18T12:37:42Z",
+    "updated_at": "2026-02-18T11:30:15.245426Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -746,273 +1006,6 @@
     "summary": "\nSateliot will launch two of its next-generation direct-to-device satellites on a PLD Space rocket in what is billed as the first fully private Spanish mission.\nThe post Sateliot to launch satellites with PLD Space appeared first on SpaceNews.",
     "published_at": "2026-02-17T13:02:26Z",
     "updated_at": "2026-02-17T13:10:27.247144Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36283,
-    "title": "River deltas are sinking faster than the sea is rising",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/River_deltas_are_sinking_faster_than_the_sea_is_rising",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/yellow_river_delta_china/27114385-1-eng-GB/Yellow_River_Delta_China_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Earth’s river deltas, home to about 5% of the global population and some of the world’s major cities, are experiencing subsidence, which exacerbates the risks from sea-level rise. The Copernicus Sentinel-1 mission has captured a decade's worth of data showing land sinking faster than previously thought.",
-    "published_at": "2026-02-17T13:00:00Z",
-    "updated_at": "2026-02-17T13:30:11.818827Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36276,
-    "title": "Assistive home robot learns coordinated dual arm tasks by watching people",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Assistive_home_robot_learns_coordinated_dual_arm_tasks_by_watching_people_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uc3m-assistive-robot-table-tasks-hands-head-mono-base-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 13, 2026\n\nResearchers at Universidad Carlos III de Madrid (UC3M) have developed a new way for an assistive robot to learn how to move its arms autonomously by combining observational learning with communication between its limbs. The approach lets the robot watch how people perform everyday tasks and then adapt those movements so its two arms can work together safely and efficiently in domestic settings s",
-    "published_at": "2026-02-17T11:51:13Z",
-    "updated_at": "2026-02-17T10:50:12.672953Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36277,
-    "title": "SatService to supply Q V band satcom ground station for Bundeswehr university",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/SatService_to_supply_Q_V_band_satcom_ground_station_for_Bundeswehr_university_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satservice-calian-satellite-ground-station-german-armed-forces-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 17, 2026\n\n\nSatService GmbH, a Germany based provider of advanced satellite ground systems and a subsidiary of Calian Group Ltd, has secured a contract from the Federal Ministry of Defence of Germany to deliver an advanced Q V band satellite ground station to the University of the Federal Armed Forces in Munich. The project supports both scientific research and modern military satellite communications requi",
-    "published_at": "2026-02-17T11:51:13Z",
-    "updated_at": "2026-02-17T10:50:12.689100Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36279,
-    "title": "Course correction needed quickly to avoid pathway to 'hothouse Earth' scenario, scientists say",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Course_correction_needed_quickly_to_avoid_pathway_to_hothouse_Earth_scenario_scientists_say_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/oregonstate-allan-hills-austin-carter-antarctica-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Corvallis OR (SPX) Feb 13, 2026\n\nScientists say multiple Earth system components appear closer to destabilization than previously believed, putting the planet in increased danger of following a \"hothouse\" path driven by feedback loops that can amplify the consequences of global warming. \n\nPublished in the journal One Earth, \"The risk of a hothouse Earth trajectory\" is an analysis by an international collaboration led by Ore",
-    "published_at": "2026-02-17T11:51:13Z",
-    "updated_at": "2026-02-17T10:50:12.719676Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36275,
-    "title": "Mars relay orbiter seen as backbone for future exploration",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Mars_relay_orbiter_seen_as_backbone_for_future_exploration_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/escapade-mars-mission-two-identical-satellites-blue-gold-berkeley-rocket-lab-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nNASA has set clear goals at Mars: search for evidence of ancient life, understand the planet's climate and geology, and prepare for human exploration. Those objectives depend on a robust link between spacecraft at Mars and mission teams on Earth, with every image and dataset traveling hundreds of millions of kilometers across interplanetary space. Rocket Lab positions its proposed Mars Telecommu",
-    "published_at": "2026-02-17T11:51:13Z",
-    "updated_at": "2026-02-17T10:50:12.647520Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36278,
-    "title": "Valen array advances multi-mission sensing tech",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Valen_array_advances_multi_mission_sensing_tech_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/northrop-grumman-valen-multifunction-active-electronically-scanned-array-aesa-radar-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nNorthrop Grumman has introduced Valen, a new multifunction active electronically scanned array that the company describes as a generational leap in sensing technology for U.S. and allied forces. The wideband array is designed to deliver enhanced situational awareness and a tactical edge across crewed and uncrewed platforms operating from the atmosphere to space. \n\nValen combines radar, elect",
-    "published_at": "2026-02-17T11:51:13Z",
-    "updated_at": "2026-02-17T10:50:12.703139Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36280,
-    "title": "Photonic neurons push ultra-fast trading beyond electronic limits",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Photonic_neurons_push_ultra_fast_trading_beyond_electronic_limits_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/electronic-signal-routing-latency-reductions-scalable-photonic-neurons-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 13, 2026\n\nIn high frequency stock trading, the fastest systems typically capture the greatest advantage, putting a premium on shaving every possible fraction of a second from end to end latency. For years, the most advanced platforms have relied on FPGA based electronic processors to minimize delay, but these architectures are now running into hard limits set by clock speeds, data conversion overhead, and",
-    "published_at": "2026-02-17T11:51:13Z",
-    "updated_at": "2026-02-17T10:50:12.746459Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36274,
-    "title": "Orbex collapse fails to halt progress for UK domestic launch capability",
-    "authors": [
-      {
-        "name": "Martin Smith and Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/02/orbex-collapse-progress-uk-domestic-capability/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/NSF-2026-02-17-04-18-21-901.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "The European small satellite launch sector has suffered a setback with the collapse of UK-based…\nThe post Orbex collapse fails to halt progress for UK domestic launch capability appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-02-17T09:05:09Z",
-    "updated_at": "2026-02-17T09:10:15.150859Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36285,
-    "title": "Genesis satellite",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/Genesis_satellite2",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/genesis_satellite2/27114155-1-eng-GB/Genesis_satellite_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-02-17T08:47:00Z",
-    "updated_at": "2026-02-17T15:40:19.845485Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36273,
-    "title": "Leonardo funding development of Earth observation constellation",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/leonardo-funding-development-of-earth-observation-constellation/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/brancati-smallsat2026.jpeg?fit=1024%2C685&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLeonardo is funding development of an Earth observation constellation designed to highlight its capabilities while also being a model for larger European initiatives.\nThe post Leonardo funding development of Earth observation constellation appeared first on SpaceNews.",
-    "published_at": "2026-02-17T08:43:30Z",
-    "updated_at": "2026-02-17T08:50:25.847997Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36294,
-    "title": "Sateliot Selects PLD Space to Launch Two 5G Direct-to-Device Satellites",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/sateliot-selects-pld-space-to-launch-two-5g-direct-to-device-satellites/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/Sateliot-Selects-PLD-Space-to-Launch-Two-5G-Direct-to-Device-Satellites.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Spanish satellite operator Sateliot has signed a launch services agreement with PLD Space to launch its first two high-capacity 5G D2D (Direct-to-Device) Tritó satellites aboard a dedicated MIURA 5 mission. Headquartered in Elche, on Spain’s Mediterranean coast, PLD Space is working toward the first flight of its 35.7-metre-tall MIURA 5 rocket in 2026. The rocket […]\nThe post Sateliot Selects PLD Space to Launch Two 5G Direct-to-Device Satellites appeared first on European Spaceflight.",
-    "published_at": "2026-02-17T08:30:55Z",
-    "updated_at": "2026-02-17T19:40:14.393489Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36272,
-    "title": "NASA to attempt second full fueling test of its Space Launch System rocket",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/02/17/nasa-to-attempt-second-full-fueling-test-of-its-space-launch-system-rocket/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260216_WDR-2_annoucement-1_MC-1.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The operation comes a week after NASA conducted a so-called ‘confidence test’ on Feb. 12, which was the process of loading some liquid hydrogen on the rocket’s core stage. ",
-    "published_at": "2026-02-17T00:34:09Z",
-    "updated_at": "2026-02-17T00:40:23.766597Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36271,
-    "title": "NASA Will Conduct Second Artemis II WDR on Thursday",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/nasa-will-conduct-second-artemis-ii-wdr-on-thursday/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Artemis-II-in-walkway-300x200.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "NASA will conduct a second Wet Dress Rehearsal (WDR) on Thursday in preparation for the launch of Artemis II. The nearly 50-hour test actually begins Tuesday evening as launch teams […]",
-    "published_at": "2026-02-16T23:33:05Z",
-    "updated_at": "2026-02-16T23:40:17.264257Z",
     "featured": false,
     "launches": [],
     "events": [],
