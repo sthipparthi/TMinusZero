@@ -1,5 +1,136 @@
 [
   {
+    "id": 36385,
+    "title": "Artemis II Crew Trains on T-38",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-trains-on-t-38/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/jsc2026e007422orig.jpg",
+    "news_site": "NASA",
+    "summary": "NASA astronaut Christina Koch and Canadian Space Agency astronaut Jeremy Hansen take off on a T-38 training flight from Ellington Field on Feb. 11, 2026, as a waning crescent Moon hovers above. Koch and Hansen, along with NASA astronauts Reid Wiseman and Victor Glover, are part of NASA’s Artemis II mission, the first crewed flight […]",
+    "published_at": "2026-02-20T14:50:53Z",
+    "updated_at": "2026-02-20T17:36:45.374692Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36384,
+    "title": "Week in images: 16-20 February 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_February_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/annular_solar_eclipse_seen_from_space/27119314-1-eng-GB/Annular_solar_eclipse_seen_from_space_card_full.png",
+    "news_site": "ESA",
+    "summary": "Week in images: 16-20 February 2026",
+    "published_at": "2026-02-20T14:10:00Z",
+    "updated_at": "2026-02-20T14:10:35.626731Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36383,
+    "title": "Boeing to boost production of missile-tracking sensors for military satellites",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/EOIR-Production-Space.jpg-scaled.jpeg?fit=1024%2C381&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe company opened a new facility in El Segundo to support Millennium’s missile-warning satellite backlog\nThe post Boeing to boost production of missile-tracking sensors for military satellites appeared first on SpaceNews.",
+    "published_at": "2026-02-20T13:00:00Z",
+    "updated_at": "2026-02-20T13:02:06.870745Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36381,
+    "title": "NASA completes second Artemis 2 fueling test",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-completes-second-artemis-2-fueling-test/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/KSC-20260210-PH-JBS01-0038large.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "NASA completed a second wet dress rehearsal for the Artemis 2 mission on Feb. 19 without any of the hydrogen leaks seen in the first such test earlier this month.\r\nThe post NASA completes second Artemis 2 fueling test appeared first on SpaceNews.",
+    "published_at": "2026-02-20T12:12:12Z",
+    "updated_at": "2026-02-20T12:41:54.702090Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1332,
+        "provider": "Launch Library 2"
+      },
+      {
+        "event_id": 1333,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 36382,
+    "title": "Annular solar eclipse seen from space",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/Annular_solar_eclipse_seen_from_space",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/annular_solar_eclipse_seen_from_space/27119314-1-eng-GB/Annular_solar_eclipse_seen_from_space_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-02-20T11:00:00Z",
+    "updated_at": "2026-02-20T12:43:03.104102Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "44b77752-f7db-4401-b314-c89df2994ac8",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36378,
     "title": "Smile sets sail for Europe’s Spaceport in French Guiana",
     "authors": [
@@ -422,22 +553,27 @@
     "detailed_news": ""
   },
   {
-    "id": 36361,
-    "title": "ESA’s 5G laboratory on wheels",
+    "id": 36356,
+    "title": "Webb maps Uranus's mysterious upper atmosphere",
     "authors": [
       {
         "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/ESA_s_5G_laboratory_on_wheels",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/esa_s_5g_laboratory_on_wheels/27118578-1-eng-GB/ESA_s_5G_laboratory_on_wheels_card_full.jpg",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_maps_Uranus_s_mysterious_upper_atmosphere",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/uranus_january_2025/27117041-1-eng-GB/Uranus_January_2025_card_full.jpg",
     "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
+    "summary": "For the first time, an international team of astronomers have mapped the vertical structure of Uranus’s upper atmosphere, uncovering how temperature and charged particles vary with height across the planet. Using NASA/ESA/CSA James Webb Space Telescope's NIRSpec instrument, the team observed Uranus for nearly a full rotation, detecting the faint glow from molecules high above the clouds. The results offer a new window into how ice-giant planets distribute energy in their upper layers.",
     "published_at": "2026-02-19T14:00:00Z",
-    "updated_at": "2026-02-19T14:20:22.759053Z",
+    "updated_at": "2026-02-19T14:45:20.972387Z",
     "featured": false,
-    "launches": [],
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -462,27 +598,22 @@
     "detailed_news": ""
   },
   {
-    "id": 36356,
-    "title": "Webb maps Uranus's mysterious upper atmosphere",
+    "id": 36361,
+    "title": "ESA’s 5G laboratory on wheels",
     "authors": [
       {
         "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_maps_Uranus_s_mysterious_upper_atmosphere",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/uranus_january_2025/27117041-1-eng-GB/Uranus_January_2025_card_full.jpg",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/ESA_s_5G_laboratory_on_wheels",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/esa_s_5g_laboratory_on_wheels/27118578-1-eng-GB/ESA_s_5G_laboratory_on_wheels_card_full.jpg",
     "news_site": "ESA",
-    "summary": "For the first time, an international team of astronomers have mapped the vertical structure of Uranus’s upper atmosphere, uncovering how temperature and charged particles vary with height across the planet. Using NASA/ESA/CSA James Webb Space Telescope's NIRSpec instrument, the team observed Uranus for nearly a full rotation, detecting the faint glow from molecules high above the clouds. The results offer a new window into how ice-giant planets distribute energy in their upper layers.",
+    "summary": "From the ESA Blogs.",
     "published_at": "2026-02-19T14:00:00Z",
-    "updated_at": "2026-02-19T14:45:20.972387Z",
+    "updated_at": "2026-02-19T14:20:22.759053Z",
     "featured": false,
-    "launches": [
-      {
-        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
-        "provider": "Launch Library 2"
-      }
-    ],
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -547,40 +678,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36348,
-    "title": "Slow mantle flow built Antarctica gravity low over tens of millions of years",
+    "id": 36351,
+    "title": "NRO expands commercial multi-phenomenology surveillance awards",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Slow_mantle_flow_built_Antarctica_gravity_low_over_tens_of_millions_of_years_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/cenozoic-evolution-antarctica-present-day-geoid-anomalies-bg.jpg",
+    "url": "https://www.spacewar.com/reports/NRO_expands_commercial_multi_phenomenology_surveillance_awards_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satvu-thermal-imaging-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 18, 2026\n\n\nGravity feels stable in everyday life, but its strength varies across the surface of the planet, and it is weakest beneath Antarctica after accounting for Earth rotation. These subtle variations arise from differences in rock density deep inside the planet, and around Antarctica they create a pronounced gravity low that also affects regional sea level by allowing the nearby ocean surface to sit",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nThe National Reconnaissance Office has issued the first three awards under its Strategic Commercial Enhancements Commercial Solutions Opening, advancing the agency's shift toward multi-phenomenology commercial remote sensing capabilities that combine several sensing modalities to support intelligence missions. \n\nUnder this initial tranche, HEO will provide non-Earth imagery, SatVu will deliv",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.109700Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36349,
-    "title": "Airbus taps Synspective SAR radar network for expanded Earth imaging",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Airbus_taps_Synspective_SAR_radar_network_for_expanded_Earth_imaging_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/airbus-synspective-splash-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Feb 17, 2026\n\n\nAirbus Defence and Space has signed a new radar satellite data framework agreement with Japanese Synthetic Aperture Radar (SAR) specialist Synspective Inc. to broaden its space-based radar coverage for Earth observation customers worldwide. \n\nUnder the agreement, Airbus gains access to Synspective's growing constellation of SAR satellites, which will operate alongside Airbus's existing radar",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.141471Z",
+    "updated_at": "2026-02-19T11:00:20.194386Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -627,40 +738,40 @@
     "detailed_news": ""
   },
   {
-    "id": 36353,
-    "title": "AALTO plans Zephyr stratospheric hub in northern Australia and seeks local payload partners",
+    "id": 36341,
+    "title": "Hypersonica completes milestone hypersonic missile flight test in Norway",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/AALTO_plans_Zephyr_stratospheric_hub_in_northern_Australia_and_seeks_local_payload_partners_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uav-zephyr-s-haps-drone-airbus-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Hypersonica_completes_milestone_hypersonic_missile_flight_test_in_Norway_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/hypersonica-nose-cone-nick-frank-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nAALTO HAPS Ltd, an Airbus subsidiary that develops and operates the Zephyr solar-powered Stratocraft, plans to establish its second launch and landing site in northern Australia as it expands stratospheric operations and services. The proposed AALTOPORT in Australia would complement the company's existing launch and landing base in Kenya, which opened in 2024, and is aimed at supporting a nation",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nHypersonica has completed its first hypersonic test flight at Andoya Space in Norway, marking what the company describes as a major step toward a European sovereign hypersonic strike capability by 2029. \n\nThe Anglo-German defense and aerospace company reported that its missile prototype accelerated to speeds above Mach 6 and flew more than 300 kilometers during the mission. All systems perfo",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.232885Z",
+    "updated_at": "2026-02-19T11:00:19.952349Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 36342,
-    "title": "NASA teams set for second Artemis II wet dress rehearsal",
+    "id": 36348,
+    "title": "Slow mantle flow built Antarctica gravity low over tens of millions of years",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/NASA_teams_set_for_second_Artemis_II_wet_dress_rehearsal_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-2-pad-moon-orion-capsule-desk-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Slow_mantle_flow_built_Antarctica_gravity_low_over_tens_of_millions_of_years_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/cenozoic-evolution-antarctica-present-day-geoid-anomalies-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 17, 2026\n\n\nNASA is preparing for the second wet dress rehearsal of the Space Launch System rocket and Orion spacecraft ahead of the Artemis II test flight, targeting Thursday, Feb. 19, as the day to load propellants into the vehicle at Kennedy Space Center in Florida. \n\nTeams spent the weekend replacing a filter in ground support equipment that was suspected of restricting liquid hydrogen flow during a",
+    "summary": "Los Angeles CA (SPX) Feb 18, 2026\n\n\nGravity feels stable in everyday life, but its strength varies across the surface of the planet, and it is weakest beneath Antarctica after accounting for Earth rotation. These subtle variations arise from differences in rock density deep inside the planet, and around Antarctica they create a pronounced gravity low that also affects regional sea level by allowing the nearby ocean surface to sit",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:19.995858Z",
+    "updated_at": "2026-02-19T11:00:20.109700Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -687,46 +798,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36341,
-    "title": "Hypersonica completes milestone hypersonic missile flight test in Norway",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hypersonica_completes_milestone_hypersonic_missile_flight_test_in_Norway_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/hypersonica-nose-cone-nick-frank-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nHypersonica has completed its first hypersonic test flight at Andoya Space in Norway, marking what the company describes as a major step toward a European sovereign hypersonic strike capability by 2029. \n\nThe Anglo-German defense and aerospace company reported that its missile prototype accelerated to speeds above Mach 6 and flew more than 300 kilometers during the mission. All systems perfo",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:19.952349Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36350,
-    "title": "BlackSky expands Gen-3 assured access for international defense customer",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/BlackSky_expands_Gen_3_assured_access_for_international_defense_customer_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/blacksky-gen-3-adelaide-international-airport-australia-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nBlackSky Technology Inc. has secured a new seven figure Assured contract that deepens its relationship with an international defense customer seeking guaranteed access to Gen 2 and Gen 3 satellite capabilities. The agreement extends uncontested tasking priority and real time delivery of imagery and AI enabled analytics over the country's key areas of interest. \n\nThe Assured model gives the c",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.160901Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36340,
     "title": "Study revisits chances of detecting alien technosignatures",
     "authors": [
@@ -741,6 +812,26 @@
     "summary": "Sydney, Australia (SPX) Feb 19, 2026\n\n\nFor more than sixty years, astronomers have searched the sky for signs of advanced extraterrestrial technology, scanning the Milky Way for artificial radio transmissions, optical flashes and excess infrared heat. \n\nDespite these efforts, no technosignature has been confirmed so far, a silence often attributed to the fact that only a tiny fraction of the cosmic search space has been explored.",
     "published_at": "2026-02-19T12:07:23Z",
     "updated_at": "2026-02-19T11:00:19.917398Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36349,
+    "title": "Airbus taps Synspective SAR radar network for expanded Earth imaging",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Airbus_taps_Synspective_SAR_radar_network_for_expanded_Earth_imaging_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/airbus-synspective-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Feb 17, 2026\n\n\nAirbus Defence and Space has signed a new radar satellite data framework agreement with Japanese Synthetic Aperture Radar (SAR) specialist Synspective Inc. to broaden its space-based radar coverage for Earth observation customers worldwide. \n\nUnder the agreement, Airbus gains access to Synspective's growing constellation of SAR satellites, which will operate alongside Airbus's existing radar",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.141471Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -767,20 +858,60 @@
     "detailed_news": ""
   },
   {
-    "id": 36351,
-    "title": "NRO expands commercial multi-phenomenology surveillance awards",
+    "id": 36350,
+    "title": "BlackSky expands Gen-3 assured access for international defense customer",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/NRO_expands_commercial_multi_phenomenology_surveillance_awards_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satvu-thermal-imaging-marker-bg.jpg",
+    "url": "https://www.spacewar.com/reports/BlackSky_expands_Gen_3_assured_access_for_international_defense_customer_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/blacksky-gen-3-adelaide-international-airport-australia-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nThe National Reconnaissance Office has issued the first three awards under its Strategic Commercial Enhancements Commercial Solutions Opening, advancing the agency's shift toward multi-phenomenology commercial remote sensing capabilities that combine several sensing modalities to support intelligence missions. \n\nUnder this initial tranche, HEO will provide non-Earth imagery, SatVu will deliv",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nBlackSky Technology Inc. has secured a new seven figure Assured contract that deepens its relationship with an international defense customer seeking guaranteed access to Gen 2 and Gen 3 satellite capabilities. The agreement extends uncontested tasking priority and real time delivery of imagery and AI enabled analytics over the country's key areas of interest. \n\nThe Assured model gives the c",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.194386Z",
+    "updated_at": "2026-02-19T11:00:20.160901Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36342,
+    "title": "NASA teams set for second Artemis II wet dress rehearsal",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_teams_set_for_second_Artemis_II_wet_dress_rehearsal_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-2-pad-moon-orion-capsule-desk-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Feb 17, 2026\n\n\nNASA is preparing for the second wet dress rehearsal of the Space Launch System rocket and Orion spacecraft ahead of the Artemis II test flight, targeting Thursday, Feb. 19, as the day to load propellants into the vehicle at Kennedy Space Center in Florida. \n\nTeams spent the weekend replacing a filter in ground support equipment that was suspected of restricting liquid hydrogen flow during a",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:19.995858Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36353,
+    "title": "AALTO plans Zephyr stratospheric hub in northern Australia and seeks local payload partners",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/AALTO_plans_Zephyr_stratospheric_hub_in_northern_Australia_and_seeks_local_payload_partners_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uav-zephyr-s-haps-drone-airbus-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nAALTO HAPS Ltd, an Airbus subsidiary that develops and operates the Zephyr solar-powered Stratocraft, plans to establish its second launch and landing site in northern Australia as it expands stratospheric operations and services. The proposed AALTOPORT in Australia would complement the company's existing launch and landing base in Kenya, which opened in 2024, and is aimed at supporting a nation",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.232885Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -893,106 +1024,6 @@
     "summary": "A vivid display of the aurora lit up skies over the Denmark Strait and eastern Canada during a minor geomagnetic storm in February 2026.",
     "published_at": "2026-02-19T05:00:00Z",
     "updated_at": "2026-02-19T05:10:09.458123Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36336,
-    "title": "Pentagon seeks commercially built GEO spy satellites",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/161021-D-ZZ999-998-e1771452020431.jpg?fit=1024%2C550&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Defense Innovation Unit plans to select companies to field and operate spacecraft before transferring them to government control within three years\nThe post Pentagon seeks commercially built GEO spy satellites  appeared first on SpaceNews.",
-    "published_at": "2026-02-18T22:06:28Z",
-    "updated_at": "2026-02-18T22:10:27.550180Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36335,
-    "title": "Digital Surface and Terrain Models from Vantor’s Precision3D Product Line Added to Satellite Data Explorer",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/uncategorized/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/peoria-vantor-dsm.jpg",
-    "news_site": "NASA",
-    "summary": "The CSDA Program added three digital elevation and digital terrain products from Vantor’s Precision3D Product Line to the Satellite Data Explorer.",
-    "published_at": "2026-02-18T21:05:58Z",
-    "updated_at": "2026-02-18T22:10:11.230256Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36332,
-    "title": "Vantor Archive Imagery Added to Satellite Data Explorer",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/vator-multispectral-dc.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Commercial Satellite Data Acquisition (CSDA) Program announces the addition of imagery from Vantor to its Satellite Data Explorer (SDX) data access and discovery tool.",
-    "published_at": "2026-02-18T20:54:31Z",
-    "updated_at": "2026-02-18T21:10:09.837903Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36333,
-    "title": "CSDA Releases New Data Acquisition Request System",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/uncategorized/csda-releases-new-data-acquisition-request-system/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/sdx-dashboard.jpg",
-    "news_site": "NASA",
-    "summary": "The CSDA Program’s Data Acquisition Request System lets authorized users submit proposals for yet-to-be-collected data from CSDA’s commercial partners.",
-    "published_at": "2026-02-18T20:42:16Z",
-    "updated_at": "2026-02-18T21:10:09.870347Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36334,
-    "title": "CSDA Program Announces Eight New Data Agreements",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/pittsburg-capella-space.png",
-    "news_site": "NASA",
-    "summary": "NASA’s Commercial Satellite Data Acquisition (CSDA) Program announced eight new agreements with seven of its commercial partners to give users more access to near‑global multispectral and synthetic aperture radar data.",
-    "published_at": "2026-02-18T20:23:53Z",
-    "updated_at": "2026-02-18T21:10:09.881426Z",
     "featured": false,
     "launches": [],
     "events": [],
