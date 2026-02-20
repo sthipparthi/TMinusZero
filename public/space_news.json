@@ -1,5 +1,75 @@
 [
   {
+    "id": 36378,
+    "title": "Smile sets sail for Europe’s Spaceport in French Guiana",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_sets_sail_for_Europe_s_Spaceport_in_French_Guiana",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_leaving_saint-nazaire_in_france/27120161-1-eng-GB/Smile_leaving_Saint-Nazaire_in_France_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Just over a year since Smile arrived in the Netherlands in two parts, the now-complete and thoroughly-tested spacecraft has left for good. With a launch window set for 8 April – 7 May on a Vega-C rocket, the joint European-Chinese mission is almost ready to embark upon its unique space mission.",
+    "published_at": "2026-02-20T09:05:00Z",
+    "updated_at": "2026-02-20T10:38:09.908151Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36380,
+    "title": "Earth from Space: Ouarzazate, Morocco",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Ouarzazate_Morocco",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/earth_from_space_ouarzazate_morocco/27117895-1-eng-GB/Earth_from_Space_Ouarzazate_Morocco_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-02-20T09:00:00Z",
+    "updated_at": "2026-02-20T09:20:15.151042Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36379,
+    "title": "The stellar lifecycle in a nearby spiral",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/The_stellar_lifecycle_in_a_nearby_spiral",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/the_stellar_lifecycle_in_a_nearby_spiral/27115960-1-eng-GB/The_stellar_lifecycle_in_a_nearby_spiral_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-02-20T09:00:00Z",
+    "updated_at": "2026-02-20T10:39:30.689368Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36377,
     "title": "Winds Whip Up Fires and Dust on the Southern Plains",
     "authors": [
@@ -372,6 +442,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36360,
+    "title": "Golden Dome will fail without software-defined warfare",
+    "authors": [
+      {
+        "name": "Ryan Frigm",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Golden-Dome-scaled.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIf the United States wants to defend the homeland against the next generation of missile and aerial threats, hardware alone will not save us. Sensors, radars and interceptors are necessary but no longer sufficient. The decisive advantage for Golden Dome for America will come from software and the ability to integrate, test, adapt and fight […]\nThe post Golden Dome will fail without software-defined warfare appeared first on SpaceNews.",
+    "published_at": "2026-02-19T14:00:00Z",
+    "updated_at": "2026-02-19T14:10:36.966769Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36356,
     "title": "Webb maps Uranus's mysterious upper atmosphere",
     "authors": [
@@ -397,26 +487,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36360,
-    "title": "Golden Dome will fail without software-defined warfare",
-    "authors": [
-      {
-        "name": "Ryan Frigm",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Golden-Dome-scaled.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIf the United States wants to defend the homeland against the next generation of missile and aerial threats, hardware alone will not save us. Sensors, radars and interceptors are necessary but no longer sufficient. The decisive advantage for Golden Dome for America will come from software and the ability to integrate, test, adapt and fight […]\nThe post Golden Dome will fail without software-defined warfare appeared first on SpaceNews.",
-    "published_at": "2026-02-19T14:00:00Z",
-    "updated_at": "2026-02-19T14:10:36.966769Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36357,
     "title": "Small But Mighty Lab Device Could Transform NASA Research",
     "authors": [
@@ -431,66 +501,6 @@
     "summary": "A small but mighty piece of lab equipment, about the size of a cellphone, has arrived at the International Space Station after launching with NASA’s SpaceX Crew-12 mission. NASA aims to use the off-the-shelf device, called a microplate reader, to conduct vital biological research in space and get real-time access to data.",
     "published_at": "2026-02-19T13:34:35Z",
     "updated_at": "2026-02-19T14:10:15.204651Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36351,
-    "title": "NRO expands commercial multi-phenomenology surveillance awards",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/NRO_expands_commercial_multi_phenomenology_surveillance_awards_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satvu-thermal-imaging-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nThe National Reconnaissance Office has issued the first three awards under its Strategic Commercial Enhancements Commercial Solutions Opening, advancing the agency's shift toward multi-phenomenology commercial remote sensing capabilities that combine several sensing modalities to support intelligence missions. \n\nUnder this initial tranche, HEO will provide non-Earth imagery, SatVu will deliv",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.194386Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36340,
-    "title": "Study revisits chances of detecting alien technosignatures",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Study_revisits_chances_of_detecting_alien_technosignatures_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/seti-radio-technosignatures-artwork-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 19, 2026\n\n\nFor more than sixty years, astronomers have searched the sky for signs of advanced extraterrestrial technology, scanning the Milky Way for artificial radio transmissions, optical flashes and excess infrared heat. \n\nDespite these efforts, no technosignature has been confirmed so far, a silence often attributed to the fact that only a tiny fraction of the cosmic search space has been explored.",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:19.917398Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36343,
-    "title": "Russian era ends at abandoned launchpad in South American jungle",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Russian_era_ends_at_abandoned_launchpad_in_South_American_jungle_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/soyuz-flight-vs20-ariane-kourou-pad-day-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Kourou (AFP) Feb 18, 2026\n\n\n \"Stop. Danger of death. Work in progress.\" \n\nThis sign, written in Russian, is still hanging inside an office at the site where Russia once launched its Soyuz rockets from Europe's spaceport in Kourou, French Guiana. \n\nHowever the jungle has been slowly reclaiming the launchpad on South America's northeastern coast ever since Russia hastily left in the aftermath of invading Ukraine in Februa",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.013158Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -517,60 +527,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36352,
-    "title": "UK backs in orbit production of high value materials",
+    "id": 36345,
+    "title": "KSAT prepares Hyperion in orbit relay test for satellite data",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/UK_backs_in_orbit_production_of_high_value_materials_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/period-demonstrator-iss-for-in-orbit-manufacture-and-assembly-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/KSAT_prepares_Hyperion_in_orbit_relay_test_for_satellite_data_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ksat-hyperion-hyper-dome-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Feb 17, 2026\n\n\nThe UK Space Agency has placed three new study contracts with British companies to assess how advanced materials could be manufactured in Low Earth Orbit for use back on Earth. The projects focus on life-saving medicines, high performance optical fibre and next generation semiconductor materials, all produced using the unique environment of space. \n\nIn orbit manufacturing can exploit microgr",
+    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nHyperion will move KSATs HYPER concept from design into on orbit demonstration, using relay satellites to act as ground stations in space and shorten the time it takes operators to receive satellite data when speed is critical. \n\nAnnounced at the SmallSat Symposium in Silicon Valley, the Hyperion mission will extend KSATs global ground network into low Earth orbit and test how an in orbit re",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.218677Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36354,
-    "title": "Gilat wins 9 million dollar MOD deal for secure defense satcom",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/Gilat_wins_9_million_dollar_MOD_deal_for_secure_defense_satcom_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gilat-logo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Feb 18, 2026\n\n\nGilat Satellite Networks has secured a 9 million dollar contract from Israel's Ministry of Defense to supply and integrate satellite communication systems and services for defense operations. The award was announced by the company's defense division, Gilat Defense, which will deliver next generation defense modems as a core element of Gilat's ground system defense solution. \n\nThe new modems",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.252529Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36347,
-    "title": "ST Engineering iDirect and G&S SatCom align network and service management on Intuition",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ST_Engineering_iDirect_and_GS_SatCom_align_network_and_service_management_on_Intuition_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/iris-programme-satellite-communications-air-traffic-management-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nST Engineering iDirect has formed a strategic technology partnership with G and S SatCom to create a unified approach to satellite network and service management for operators and service providers. The agreement centers on integrating the widely deployed G and S SatConnect module into ST Engineering iDirect's next generation ground system, Intuition, to extend service orchestration and operatio",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.093836Z",
+    "updated_at": "2026-02-19T11:00:20.051876Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -597,6 +567,66 @@
     "detailed_news": ""
   },
   {
+    "id": 36349,
+    "title": "Airbus taps Synspective SAR radar network for expanded Earth imaging",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Airbus_taps_Synspective_SAR_radar_network_for_expanded_Earth_imaging_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/airbus-synspective-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Feb 17, 2026\n\n\nAirbus Defence and Space has signed a new radar satellite data framework agreement with Japanese Synthetic Aperture Radar (SAR) specialist Synspective Inc. to broaden its space-based radar coverage for Earth observation customers worldwide. \n\nUnder the agreement, Airbus gains access to Synspective's growing constellation of SAR satellites, which will operate alongside Airbus's existing radar",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.141471Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36343,
+    "title": "Russian era ends at abandoned launchpad in South American jungle",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Russian_era_ends_at_abandoned_launchpad_in_South_American_jungle_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/soyuz-flight-vs20-ariane-kourou-pad-day-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Kourou (AFP) Feb 18, 2026\n\n\n \"Stop. Danger of death. Work in progress.\" \n\nThis sign, written in Russian, is still hanging inside an office at the site where Russia once launched its Soyuz rockets from Europe's spaceport in Kourou, French Guiana. \n\nHowever the jungle has been slowly reclaiming the launchpad on South America's northeastern coast ever since Russia hastily left in the aftermath of invading Ukraine in Februa",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.013158Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36347,
+    "title": "ST Engineering iDirect and G&S SatCom align network and service management on Intuition",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ST_Engineering_iDirect_and_GS_SatCom_align_network_and_service_management_on_Intuition_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/iris-programme-satellite-communications-air-traffic-management-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nST Engineering iDirect has formed a strategic technology partnership with G and S SatCom to create a unified approach to satellite network and service management for operators and service providers. The agreement centers on integrating the widely deployed G and S SatConnect module into ST Engineering iDirect's next generation ground system, Intuition, to extend service orchestration and operatio",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.093836Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36353,
     "title": "AALTO plans Zephyr stratospheric hub in northern Australia and seeks local payload partners",
     "authors": [
@@ -617,20 +647,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36349,
-    "title": "Airbus taps Synspective SAR radar network for expanded Earth imaging",
+    "id": 36342,
+    "title": "NASA teams set for second Artemis II wet dress rehearsal",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Airbus_taps_Synspective_SAR_radar_network_for_expanded_Earth_imaging_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/airbus-synspective-splash-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/NASA_teams_set_for_second_Artemis_II_wet_dress_rehearsal_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-2-pad-moon-orion-capsule-desk-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Feb 17, 2026\n\n\nAirbus Defence and Space has signed a new radar satellite data framework agreement with Japanese Synthetic Aperture Radar (SAR) specialist Synspective Inc. to broaden its space-based radar coverage for Earth observation customers worldwide. \n\nUnder the agreement, Airbus gains access to Synspective's growing constellation of SAR satellites, which will operate alongside Airbus's existing radar",
+    "summary": "Sydney, Australia (SPX) Feb 17, 2026\n\n\nNASA is preparing for the second wet dress rehearsal of the Space Launch System rocket and Orion spacecraft ahead of the Artemis II test flight, targeting Thursday, Feb. 19, as the day to load propellants into the vehicle at Kennedy Space Center in Florida. \n\nTeams spent the weekend replacing a filter in ground support equipment that was suspected of restricting liquid hydrogen flow during a",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.141471Z",
+    "updated_at": "2026-02-19T11:00:19.995858Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -657,26 +687,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36350,
-    "title": "BlackSky expands Gen-3 assured access for international defense customer",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/BlackSky_expands_Gen_3_assured_access_for_international_defense_customer_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/blacksky-gen-3-adelaide-international-airport-australia-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nBlackSky Technology Inc. has secured a new seven figure Assured contract that deepens its relationship with an international defense customer seeking guaranteed access to Gen 2 and Gen 3 satellite capabilities. The agreement extends uncontested tasking priority and real time delivery of imagery and AI enabled analytics over the country's key areas of interest. \n\nThe Assured model gives the c",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.160901Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36341,
     "title": "Hypersonica completes milestone hypersonic missile flight test in Norway",
     "authors": [
@@ -697,40 +707,100 @@
     "detailed_news": ""
   },
   {
-    "id": 36345,
-    "title": "KSAT prepares Hyperion in orbit relay test for satellite data",
+    "id": 36350,
+    "title": "BlackSky expands Gen-3 assured access for international defense customer",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/KSAT_prepares_Hyperion_in_orbit_relay_test_for_satellite_data_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ksat-hyperion-hyper-dome-bg.jpg",
+    "url": "https://www.spacewar.com/reports/BlackSky_expands_Gen_3_assured_access_for_international_defense_customer_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/blacksky-gen-3-adelaide-international-airport-australia-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nHyperion will move KSATs HYPER concept from design into on orbit demonstration, using relay satellites to act as ground stations in space and shorten the time it takes operators to receive satellite data when speed is critical. \n\nAnnounced at the SmallSat Symposium in Silicon Valley, the Hyperion mission will extend KSATs global ground network into low Earth orbit and test how an in orbit re",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nBlackSky Technology Inc. has secured a new seven figure Assured contract that deepens its relationship with an international defense customer seeking guaranteed access to Gen 2 and Gen 3 satellite capabilities. The agreement extends uncontested tasking priority and real time delivery of imagery and AI enabled analytics over the country's key areas of interest. \n\nThe Assured model gives the c",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.051876Z",
+    "updated_at": "2026-02-19T11:00:20.160901Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 36342,
-    "title": "NASA teams set for second Artemis II wet dress rehearsal",
+    "id": 36340,
+    "title": "Study revisits chances of detecting alien technosignatures",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/NASA_teams_set_for_second_Artemis_II_wet_dress_rehearsal_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-2-pad-moon-orion-capsule-desk-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Study_revisits_chances_of_detecting_alien_technosignatures_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/seti-radio-technosignatures-artwork-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 17, 2026\n\n\nNASA is preparing for the second wet dress rehearsal of the Space Launch System rocket and Orion spacecraft ahead of the Artemis II test flight, targeting Thursday, Feb. 19, as the day to load propellants into the vehicle at Kennedy Space Center in Florida. \n\nTeams spent the weekend replacing a filter in ground support equipment that was suspected of restricting liquid hydrogen flow during a",
+    "summary": "Sydney, Australia (SPX) Feb 19, 2026\n\n\nFor more than sixty years, astronomers have searched the sky for signs of advanced extraterrestrial technology, scanning the Milky Way for artificial radio transmissions, optical flashes and excess infrared heat. \n\nDespite these efforts, no technosignature has been confirmed so far, a silence often attributed to the fact that only a tiny fraction of the cosmic search space has been explored.",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:19.995858Z",
+    "updated_at": "2026-02-19T11:00:19.917398Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36352,
+    "title": "UK backs in orbit production of high value materials",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/UK_backs_in_orbit_production_of_high_value_materials_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/period-demonstrator-iss-for-in-orbit-manufacture-and-assembly-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London, UK (SPX) Feb 17, 2026\n\n\nThe UK Space Agency has placed three new study contracts with British companies to assess how advanced materials could be manufactured in Low Earth Orbit for use back on Earth. The projects focus on life-saving medicines, high performance optical fibre and next generation semiconductor materials, all produced using the unique environment of space. \n\nIn orbit manufacturing can exploit microgr",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.218677Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36351,
+    "title": "NRO expands commercial multi-phenomenology surveillance awards",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/NRO_expands_commercial_multi_phenomenology_surveillance_awards_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satvu-thermal-imaging-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nThe National Reconnaissance Office has issued the first three awards under its Strategic Commercial Enhancements Commercial Solutions Opening, advancing the agency's shift toward multi-phenomenology commercial remote sensing capabilities that combine several sensing modalities to support intelligence missions. \n\nUnder this initial tranche, HEO will provide non-Earth imagery, SatVu will deliv",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.194386Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36354,
+    "title": "Gilat wins 9 million dollar MOD deal for secure defense satcom",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Gilat_wins_9_million_dollar_MOD_deal_for_secure_defense_satcom_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gilat-logo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London, UK (SPX) Feb 18, 2026\n\n\nGilat Satellite Networks has secured a 9 million dollar contract from Israel's Ministry of Defense to supply and integrate satellite communication systems and services for defense operations. The award was announced by the company's defense division, Gilat Defense, which will deliver next generation defense modems as a core element of Gilat's ground system defense solution. \n\nThe new modems",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.252529Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -923,66 +993,6 @@
     "summary": "NASA’s Commercial Satellite Data Acquisition (CSDA) Program announced eight new agreements with seven of its commercial partners to give users more access to near‑global multispectral and synthetic aperture radar data.",
     "published_at": "2026-02-18T20:23:53Z",
     "updated_at": "2026-02-18T21:10:09.881426Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36325,
-    "title": "Notes from the Field",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/tucker1.jpg",
-    "news_site": "NASA",
-    "summary": "Looking at Chlorophyll from Space By Compton “Jim” Tucker NASA scientists are able to study plants from space, but this wasn’t always the case. “I love using satellite data to study the Earth,” says Dr. Compton “Jim” Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. […]",
-    "published_at": "2026-02-18T19:23:57Z",
-    "updated_at": "2026-02-18T20:10:10.394329Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36326,
-    "title": "42 Years of Measuring the Sun, the Earth and the Energy in Between",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/galleries/images/erbe.jpg",
-    "news_site": "NASA",
-    "summary": "By Denise Lineberry On Jan. 31, 1958, Explorer 1 became the first satellite launched by the United States. Its primary science instrument, a cosmic ray detector, was designed to measure the radiation environment in Earth orbit. Though its final transmission was in May 1958, it continued to revolve around Earth more than 58,000 times. As […]",
-    "published_at": "2026-02-18T19:23:36Z",
-    "updated_at": "2026-02-18T20:10:10.409895Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36327,
-    "title": "The Sky Belongs to All of Us",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/explorer/the-sky-belongs-to-all-of-us/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/jwst_concept.jpg",
-    "news_site": "NASA",
-    "summary": "By Hashima Hasan How did a little girl born in India soon after its independence from the British Empire, become a program scientist for NASA’s Hubble Space Telescope, and the first female program scientist for the James Webb Space Telescope, Stratospheric Observatory for Infrared Astronomy (SOFIA), Gravity Probe B, and other astrophysics flight missions? The […]",
-    "published_at": "2026-02-18T19:23:12Z",
-    "updated_at": "2026-02-18T20:10:10.423482Z",
     "featured": false,
     "launches": [],
     "events": [],
