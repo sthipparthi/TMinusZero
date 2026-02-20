@@ -1,5 +1,65 @@
 [
   {
+    "id": 36377,
+    "title": "Winds Whip Up Fires and Dust on the Southern Plains",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/winds-whip-up-fires-and-dust-on-the-southern-plains/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winds-whip-up-fires-and-dust-on-the-southern-plains/oklakansasfires_amo_20260217.jpg",
+    "news_site": "NASA",
+    "summary": "Dry, gusty conditions spurred fast-growing fires in Oklahoma and Kansas, along with dangerous dust storms across the region.",
+    "published_at": "2026-02-20T05:01:00Z",
+    "updated_at": "2026-02-20T05:10:09.169087Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36376,
+    "title": "Moon mission fueling test concludes with no major problems",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/02/20/moon-mission-fueling-test-concludes-with-no-major-problems/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260219_Artemis-II_WDR-2_clock.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The practice countdown began Tuesday night, kicking off a carefully choreographed series of steps to ready the world's most powerful operational rocket for what amounted to a simulated launch Thursday at 8:42 p.m. EST. Controllers then carried out additional tests to make sure the team can recycle, hold and restart an actual launch countdown as needed to handle unexpected problems. ",
+    "published_at": "2026-02-20T04:11:56Z",
+    "updated_at": "2026-02-20T04:20:24.701142Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36375,
+    "title": "Artemis II Could Launch As Soon as March Following Successful WDR",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/artemis-ii-could-launch-as-soon-as-march-following-successful-wdr/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Artemis-II-smiling-Apr-2023-NASA-261x300.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Today’s successful Artemis II Wet Dress Rehearsal (WDR) positions NASA to launch astronauts around the Moon  for the first time in over 50 yearsa s soon as next month. This […]",
+    "published_at": "2026-02-20T04:09:36Z",
+    "updated_at": "2026-02-20T04:10:20.937425Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36374,
     "title": "Independent report sharply criticizes NASA management, Boeing for troubled Starliner flight",
     "authors": [
@@ -292,6 +352,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36361,
+    "title": "ESA’s 5G laboratory on wheels",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/ESA_s_5G_laboratory_on_wheels",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/esa_s_5g_laboratory_on_wheels/27118578-1-eng-GB/ESA_s_5G_laboratory_on_wheels_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-02-19T14:00:00Z",
+    "updated_at": "2026-02-19T14:20:22.759053Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36356,
     "title": "Webb maps Uranus's mysterious upper atmosphere",
     "authors": [
@@ -313,26 +393,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36361,
-    "title": "ESA’s 5G laboratory on wheels",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/ESA_s_5G_laboratory_on_wheels",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/esa_s_5g_laboratory_on_wheels/27118578-1-eng-GB/ESA_s_5G_laboratory_on_wheels_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-02-19T14:00:00Z",
-    "updated_at": "2026-02-19T14:20:22.759053Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -377,20 +437,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36341,
-    "title": "Hypersonica completes milestone hypersonic missile flight test in Norway",
+    "id": 36351,
+    "title": "NRO expands commercial multi-phenomenology surveillance awards",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Hypersonica_completes_milestone_hypersonic_missile_flight_test_in_Norway_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/hypersonica-nose-cone-nick-frank-bg.jpg",
+    "url": "https://www.spacewar.com/reports/NRO_expands_commercial_multi_phenomenology_surveillance_awards_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satvu-thermal-imaging-marker-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nHypersonica has completed its first hypersonic test flight at Andoya Space in Norway, marking what the company describes as a major step toward a European sovereign hypersonic strike capability by 2029. \n\nThe Anglo-German defense and aerospace company reported that its missile prototype accelerated to speeds above Mach 6 and flew more than 300 kilometers during the mission. All systems perfo",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nThe National Reconnaissance Office has issued the first three awards under its Strategic Commercial Enhancements Commercial Solutions Opening, advancing the agency's shift toward multi-phenomenology commercial remote sensing capabilities that combine several sensing modalities to support intelligence missions. \n\nUnder this initial tranche, HEO will provide non-Earth imagery, SatVu will deliv",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:19.952349Z",
+    "updated_at": "2026-02-19T11:00:20.194386Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -437,6 +497,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36346,
+    "title": "Pale Blue opens Tsukuba site to scale satellite propulsion production",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Pale_Blue_opens_Tsukuba_site_to_scale_satellite_propulsion_production_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/pale-blue-tsukuba-production-engineering-base-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Feb 18, 2026\n\n\nPale Blue has begun operating its new Tsukuba Production Engineering Base to support mass production of satellite propulsion systems and shorten delivery lead times. \n\nThe Tsukuba Production Engineering Base in Tsukuba, Ibaraki Prefecture, centralizes the full product lifecycle from technical development for mass production through manufacturing, final inspection, and global shipping. By bri",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.066396Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36352,
     "title": "UK backs in orbit production of high value materials",
     "authors": [
@@ -477,26 +557,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36344,
-    "title": "Curiosity Blog, Sols 4798-4803: Back for More Science",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4798_4803_Back_for_More_Science_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/curiosity-mars-lab-rover-nevado-sajama-drill-holes-sol-4795-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (JPL) Feb 17, 2026\n\n\nThe results from our first visit to the \"Nevado Sajama\" drill location were intriguing enough to motivate our return to do a deeper dive into the minerals and compounds locked in this rock with SAM (the Sample Analysis at Mars instrument suite). \n\nAs explained in the last blog, that deeper dive involves using the second of two vials of a chemical reagent, tetramethylammonium hydroxide (TMAH)",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.031762Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36347,
     "title": "ST Engineering iDirect and G&S SatCom align network and service management on Intuition",
     "authors": [
@@ -511,26 +571,6 @@
     "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nST Engineering iDirect has formed a strategic technology partnership with G and S SatCom to create a unified approach to satellite network and service management for operators and service providers. The agreement centers on integrating the widely deployed G and S SatConnect module into ST Engineering iDirect's next generation ground system, Intuition, to extend service orchestration and operatio",
     "published_at": "2026-02-19T12:07:23Z",
     "updated_at": "2026-02-19T11:00:20.093836Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36346,
-    "title": "Pale Blue opens Tsukuba site to scale satellite propulsion production",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Pale_Blue_opens_Tsukuba_site_to_scale_satellite_propulsion_production_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/pale-blue-tsukuba-production-engineering-base-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 18, 2026\n\n\nPale Blue has begun operating its new Tsukuba Production Engineering Base to support mass production of satellite propulsion systems and shorten delivery lead times. \n\nThe Tsukuba Production Engineering Base in Tsukuba, Ibaraki Prefecture, centralizes the full product lifecycle from technical development for mass production through manufacturing, final inspection, and global shipping. By bri",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.066396Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -577,26 +617,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36351,
-    "title": "NRO expands commercial multi-phenomenology surveillance awards",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/NRO_expands_commercial_multi_phenomenology_surveillance_awards_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satvu-thermal-imaging-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nThe National Reconnaissance Office has issued the first three awards under its Strategic Commercial Enhancements Commercial Solutions Opening, advancing the agency's shift toward multi-phenomenology commercial remote sensing capabilities that combine several sensing modalities to support intelligence missions. \n\nUnder this initial tranche, HEO will provide non-Earth imagery, SatVu will deliv",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.194386Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36349,
     "title": "Airbus taps Synspective SAR radar network for expanded Earth imaging",
     "authors": [
@@ -617,6 +637,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36344,
+    "title": "Curiosity Blog, Sols 4798-4803: Back for More Science",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4798_4803_Back_for_More_Science_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/curiosity-mars-lab-rover-nevado-sajama-drill-holes-sol-4795-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Pasadena CA (JPL) Feb 17, 2026\n\n\nThe results from our first visit to the \"Nevado Sajama\" drill location were intriguing enough to motivate our return to do a deeper dive into the minerals and compounds locked in this rock with SAM (the Sample Analysis at Mars instrument suite). \n\nAs explained in the last blog, that deeper dive involves using the second of two vials of a chemical reagent, tetramethylammonium hydroxide (TMAH)",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.031762Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36350,
     "title": "BlackSky expands Gen-3 assured access for international defense customer",
     "authors": [
@@ -631,6 +671,26 @@
     "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nBlackSky Technology Inc. has secured a new seven figure Assured contract that deepens its relationship with an international defense customer seeking guaranteed access to Gen 2 and Gen 3 satellite capabilities. The agreement extends uncontested tasking priority and real time delivery of imagery and AI enabled analytics over the country's key areas of interest. \n\nThe Assured model gives the c",
     "published_at": "2026-02-19T12:07:23Z",
     "updated_at": "2026-02-19T11:00:20.160901Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36341,
+    "title": "Hypersonica completes milestone hypersonic missile flight test in Norway",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hypersonica_completes_milestone_hypersonic_missile_flight_test_in_Norway_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/hypersonica-nose-cone-nick-frank-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nHypersonica has completed its first hypersonic test flight at Andoya Space in Norway, marking what the company describes as a major step toward a European sovereign hypersonic strike capability by 2029. \n\nThe Anglo-German defense and aerospace company reported that its missile prototype accelerated to speeds above Mach 6 and flew more than 300 kilometers during the mission. All systems perfo",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:19.952349Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -923,66 +983,6 @@
     "summary": "By Hashima Hasan How did a little girl born in India soon after its independence from the British Empire, become a program scientist for NASA’s Hubble Space Telescope, and the first female program scientist for the James Webb Space Telescope, Stratospheric Observatory for Infrared Astronomy (SOFIA), Gravity Probe B, and other astrophysics flight missions? The […]",
     "published_at": "2026-02-18T19:23:12Z",
     "updated_at": "2026-02-18T20:10:10.423482Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36328,
-    "title": "Measuring the Big Bang with the COBE satellite",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/explorer/measuring-the-big-bang-with-the-cobe-satellite/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/cobe.jpg",
-    "news_site": "NASA",
-    "summary": "By John Mather The Cosmic Background Explorer satellite (COBE) went up on a Delta rocket on Nov. 18, 1989, into a polar sun-synchronous orbit 900 km up. Our team at NASA Goddard Space Flight Center (GSFC), Ball Aerospace, the Jet Propulsion Laboratory (JPL) and universities built it to look at the cosmic microwave and infrared […]",
-    "published_at": "2026-02-18T19:22:41Z",
-    "updated_at": "2026-02-18T20:10:10.435712Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36329,
-    "title": "Peering Homeward, 1972",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/explorer/peering-homeward-1972/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/galleries/images/landsat1.jpg",
-    "news_site": "NASA",
-    "summary": "By Laura Rocchio On July 23, 1972 the first civilian satellite designed to image Earth’s land surfaces was launched from Vandenberg Air Force Base in California. On board the satellite, originally named the Earth Resources Technology Satellite (ERTS), but later known as Landsat 1, were two sensors. The primary sensor, called the Return Beam Vidicon […]",
-    "published_at": "2026-02-18T19:21:22Z",
-    "updated_at": "2026-02-18T20:10:10.449627Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36330,
-    "title": "My NASA Experience",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/explorer/my-nasa-experience/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/engineering/nircam1.jpg",
-    "news_site": "NASA",
-    "summary": "By Marcia J. Rieke The development of infrared detector arrays is intertwined with my experiences working on NASA projects. As an astronomer at a university, my interactions with NASA all start with a proposal in response to an opportunity. In 1983, near-infrared detector arrays were beginning to attract the attention of astronomers. At the suggestion […]",
-    "published_at": "2026-02-18T19:20:47Z",
-    "updated_at": "2026-02-18T20:10:10.462689Z",
     "featured": false,
     "launches": [],
     "events": [],
