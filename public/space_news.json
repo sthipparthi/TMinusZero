@@ -1,5 +1,152 @@
 [
   {
+    "id": 36374,
+    "title": "Independent report sharply criticizes NASA management, Boeing for troubled Starliner flight",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/02/19/independent-report-sharply-criticizes-nasa-management-boeing-for-troubled-starliner-flight/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260219_starliner_nile_horizontal.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "NASA Administrator Jared Isaacman said NASA will continue working with Boeing to make the Starliner a viable crew transport vehicle, adding that \"sustained crew and cargo access to low Earth orbit will remain essential, and America benefits from competition and redundancy.\" ",
+    "published_at": "2026-02-19T23:24:05Z",
+    "updated_at": "2026-02-19T23:30:25.471846Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36372,
+    "title": "NASA Classifies Starliner CFT as Type-A Mishap, Leadership Changes Coming",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-classifies-starliner-cft-as-type-a-mishap-leadership-changes-coming/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/isaacman-Amit-Feb-19-26-Starliner-300x169.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "At a quickly announced news conference today, NASA Administrator Jared Isaacman released NASA’s investigation into the 2024 Boeing Starliner Crew Flight Test incident. Acknowledging that the Starliner spacecraft itself has […]",
+    "published_at": "2026-02-19T23:12:01Z",
+    "updated_at": "2026-02-19T23:20:19.891664Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36373,
+    "title": "Live coverage: SpaceX to launch second Falcon 9 rocket to return to a landing in The Bahamas",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/02/19/live-coverage-spacex-to-launch-second-falcon-9-rocket-with-booster-landing-adjacent-to-the-bahamas/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260219_F9_Bahamas_landing.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 10-34 mission will be SpaceX’s 20th Falcon 9 launch of the year so far. Liftoff from pad 40 is set for 8:41:40 p.m. EST (0141:40). ",
+    "published_at": "2026-02-19T23:11:26Z",
+    "updated_at": "2026-02-19T23:20:27.458822Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36371,
+    "title": "NASA chief classifies Starliner flight as \"Type A\" mishap, says agency made mistakes",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/02/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2156180680.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"The most troubling failure revealed by this investigation is not hardware.\"",
+    "published_at": "2026-02-19T21:59:10Z",
+    "updated_at": "2026-02-19T22:10:10.762997Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36370,
+    "title": "Starliner investigation identifies flawed NASA decision making",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/starliner-investigation-identifies-flawed-nasa-decision-making/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/starliner-cft-20240613.jpg?fit=1024%2C897&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA has classified the flawed Starliner crewed test flight in 2024 as its most serious level of mishap, with the agency’s leadership citing shortfalls in how officials oversaw the program.\nThe post Starliner investigation identifies flawed NASA decision making appeared first on SpaceNews.",
+    "published_at": "2026-02-19T21:47:28Z",
+    "updated_at": "2026-02-19T21:50:28.132616Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36369,
+    "title": "NASA Investigates How People Respond to Air Taxi Noise",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasa-investigates-how-people-respond-to-air-taxi-noise/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/aam-conceptart-vangardtest-20260218.jpg",
+    "news_site": "NASA",
+    "summary": "New kinds of aircraft taking to the skies could mean unfamiliar sounds overhead — and where you’re hearing them might matter, according to new NASA research. NASA aeronautics has worked for years to enable new air transportation options for people and goods, and to find ways to make sure they can be safely and effectively […]",
+    "published_at": "2026-02-19T20:54:07Z",
+    "updated_at": "2026-02-19T21:00:17.749454Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36368,
+    "title": "NASA Releases Report on Starliner Crewed Flight Test Investigation",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2024/08/iss071e265103orig.jpg",
+    "news_site": "NASA",
+    "summary": "At a news conference on Thursday, NASA released a report of findings from the Program Investigation Team examining the Boeing CST-100 Starliner Crewed Flight Test as part of the agency’s Commercial Crew Program.   “The Boeing Starliner spacecraft has faced challenges throughout its uncrewed and most recent crewed missions. While Boeing built Starliner, NASA accepted it and launched two astronauts to space. […]",
+    "published_at": "2026-02-19T19:06:45Z",
+    "updated_at": "2026-02-19T19:10:15.253269Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36367,
     "title": "NASA to Provide Starliner Crew Flight Test Review Findings Today",
     "authors": [
@@ -145,26 +292,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36360,
-    "title": "Golden Dome will fail without software-defined warfare",
-    "authors": [
-      {
-        "name": "Ryan Frigm",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Golden-Dome-scaled.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIf the United States wants to defend the homeland against the next generation of missile and aerial threats, hardware alone will not save us. Sensors, radars and interceptors are necessary but no longer sufficient. The decisive advantage for Golden Dome for America will come from software and the ability to integrate, test, adapt and fight […]\nThe post Golden Dome will fail without software-defined warfare appeared first on SpaceNews.",
-    "published_at": "2026-02-19T14:00:00Z",
-    "updated_at": "2026-02-19T14:10:36.966769Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36356,
     "title": "Webb maps Uranus's mysterious upper atmosphere",
     "authors": [
@@ -210,6 +337,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36360,
+    "title": "Golden Dome will fail without software-defined warfare",
+    "authors": [
+      {
+        "name": "Ryan Frigm",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Golden-Dome-scaled.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIf the United States wants to defend the homeland against the next generation of missile and aerial threats, hardware alone will not save us. Sensors, radars and interceptors are necessary but no longer sufficient. The decisive advantage for Golden Dome for America will come from software and the ability to integrate, test, adapt and fight […]\nThe post Golden Dome will fail without software-defined warfare appeared first on SpaceNews.",
+    "published_at": "2026-02-19T14:00:00Z",
+    "updated_at": "2026-02-19T14:10:36.966769Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36357,
     "title": "Small But Mighty Lab Device Could Transform NASA Research",
     "authors": [
@@ -224,26 +371,6 @@
     "summary": "A small but mighty piece of lab equipment, about the size of a cellphone, has arrived at the International Space Station after launching with NASA’s SpaceX Crew-12 mission. NASA aims to use the off-the-shelf device, called a microplate reader, to conduct vital biological research in space and get real-time access to data.",
     "published_at": "2026-02-19T13:34:35Z",
     "updated_at": "2026-02-19T14:10:15.204651Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36347,
-    "title": "ST Engineering iDirect and G&S SatCom align network and service management on Intuition",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/ST_Engineering_iDirect_and_GS_SatCom_align_network_and_service_management_on_Intuition_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/iris-programme-satellite-communications-air-traffic-management-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nST Engineering iDirect has formed a strategic technology partnership with G and S SatCom to create a unified approach to satellite network and service management for operators and service providers. The agreement centers on integrating the widely deployed G and S SatConnect module into ST Engineering iDirect's next generation ground system, Intuition, to extend service orchestration and operatio",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.093836Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -270,20 +397,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36348,
-    "title": "Slow mantle flow built Antarctica gravity low over tens of millions of years",
+    "id": 36340,
+    "title": "Study revisits chances of detecting alien technosignatures",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Slow_mantle_flow_built_Antarctica_gravity_low_over_tens_of_millions_of_years_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/cenozoic-evolution-antarctica-present-day-geoid-anomalies-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Study_revisits_chances_of_detecting_alien_technosignatures_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/seti-radio-technosignatures-artwork-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 18, 2026\n\n\nGravity feels stable in everyday life, but its strength varies across the surface of the planet, and it is weakest beneath Antarctica after accounting for Earth rotation. These subtle variations arise from differences in rock density deep inside the planet, and around Antarctica they create a pronounced gravity low that also affects regional sea level by allowing the nearby ocean surface to sit",
+    "summary": "Sydney, Australia (SPX) Feb 19, 2026\n\n\nFor more than sixty years, astronomers have searched the sky for signs of advanced extraterrestrial technology, scanning the Milky Way for artificial radio transmissions, optical flashes and excess infrared heat. \n\nDespite these efforts, no technosignature has been confirmed so far, a silence often attributed to the fact that only a tiny fraction of the cosmic search space has been explored.",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.109700Z",
+    "updated_at": "2026-02-19T11:00:19.917398Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -310,20 +437,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36349,
-    "title": "Airbus taps Synspective SAR radar network for expanded Earth imaging",
+    "id": 36352,
+    "title": "UK backs in orbit production of high value materials",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/Airbus_taps_Synspective_SAR_radar_network_for_expanded_Earth_imaging_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/airbus-synspective-splash-bg.jpg",
+    "url": "https://www.spacewar.com/reports/UK_backs_in_orbit_production_of_high_value_materials_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/period-demonstrator-iss-for-in-orbit-manufacture-and-assembly-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Paris, France (SPX) Feb 17, 2026\n\n\nAirbus Defence and Space has signed a new radar satellite data framework agreement with Japanese Synthetic Aperture Radar (SAR) specialist Synspective Inc. to broaden its space-based radar coverage for Earth observation customers worldwide. \n\nUnder the agreement, Airbus gains access to Synspective's growing constellation of SAR satellites, which will operate alongside Airbus's existing radar",
+    "summary": "London, UK (SPX) Feb 17, 2026\n\n\nThe UK Space Agency has placed three new study contracts with British companies to assess how advanced materials could be manufactured in Low Earth Orbit for use back on Earth. The projects focus on life-saving medicines, high performance optical fibre and next generation semiconductor materials, all produced using the unique environment of space. \n\nIn orbit manufacturing can exploit microgr",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.141471Z",
+    "updated_at": "2026-02-19T11:00:20.218677Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -350,20 +477,140 @@
     "detailed_news": ""
   },
   {
-    "id": 36352,
-    "title": "UK backs in orbit production of high value materials",
+    "id": 36344,
+    "title": "Curiosity Blog, Sols 4798-4803: Back for More Science",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/UK_backs_in_orbit_production_of_high_value_materials_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/period-demonstrator-iss-for-in-orbit-manufacture-and-assembly-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4798_4803_Back_for_More_Science_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/curiosity-mars-lab-rover-nevado-sajama-drill-holes-sol-4795-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Feb 17, 2026\n\n\nThe UK Space Agency has placed three new study contracts with British companies to assess how advanced materials could be manufactured in Low Earth Orbit for use back on Earth. The projects focus on life-saving medicines, high performance optical fibre and next generation semiconductor materials, all produced using the unique environment of space. \n\nIn orbit manufacturing can exploit microgr",
+    "summary": "Pasadena CA (JPL) Feb 17, 2026\n\n\nThe results from our first visit to the \"Nevado Sajama\" drill location were intriguing enough to motivate our return to do a deeper dive into the minerals and compounds locked in this rock with SAM (the Sample Analysis at Mars instrument suite). \n\nAs explained in the last blog, that deeper dive involves using the second of two vials of a chemical reagent, tetramethylammonium hydroxide (TMAH)",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.218677Z",
+    "updated_at": "2026-02-19T11:00:20.031762Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36347,
+    "title": "ST Engineering iDirect and G&S SatCom align network and service management on Intuition",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/ST_Engineering_iDirect_and_GS_SatCom_align_network_and_service_management_on_Intuition_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/iris-programme-satellite-communications-air-traffic-management-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nST Engineering iDirect has formed a strategic technology partnership with G and S SatCom to create a unified approach to satellite network and service management for operators and service providers. The agreement centers on integrating the widely deployed G and S SatConnect module into ST Engineering iDirect's next generation ground system, Intuition, to extend service orchestration and operatio",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.093836Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36346,
+    "title": "Pale Blue opens Tsukuba site to scale satellite propulsion production",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Pale_Blue_opens_Tsukuba_site_to_scale_satellite_propulsion_production_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/pale-blue-tsukuba-production-engineering-base-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Feb 18, 2026\n\n\nPale Blue has begun operating its new Tsukuba Production Engineering Base to support mass production of satellite propulsion systems and shorten delivery lead times. \n\nThe Tsukuba Production Engineering Base in Tsukuba, Ibaraki Prefecture, centralizes the full product lifecycle from technical development for mass production through manufacturing, final inspection, and global shipping. By bri",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.066396Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36348,
+    "title": "Slow mantle flow built Antarctica gravity low over tens of millions of years",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Slow_mantle_flow_built_Antarctica_gravity_low_over_tens_of_millions_of_years_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/cenozoic-evolution-antarctica-present-day-geoid-anomalies-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 18, 2026\n\n\nGravity feels stable in everyday life, but its strength varies across the surface of the planet, and it is weakest beneath Antarctica after accounting for Earth rotation. These subtle variations arise from differences in rock density deep inside the planet, and around Antarctica they create a pronounced gravity low that also affects regional sea level by allowing the nearby ocean surface to sit",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.109700Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36353,
+    "title": "AALTO plans Zephyr stratospheric hub in northern Australia and seeks local payload partners",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/AALTO_plans_Zephyr_stratospheric_hub_in_northern_Australia_and_seeks_local_payload_partners_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/uav-zephyr-s-haps-drone-airbus-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nAALTO HAPS Ltd, an Airbus subsidiary that develops and operates the Zephyr solar-powered Stratocraft, plans to establish its second launch and landing site in northern Australia as it expands stratospheric operations and services. The proposed AALTOPORT in Australia would complement the company's existing launch and landing base in Kenya, which opened in 2024, and is aimed at supporting a nation",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.232885Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36351,
+    "title": "NRO expands commercial multi-phenomenology surveillance awards",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/NRO_expands_commercial_multi_phenomenology_surveillance_awards_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/satvu-thermal-imaging-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nThe National Reconnaissance Office has issued the first three awards under its Strategic Commercial Enhancements Commercial Solutions Opening, advancing the agency's shift toward multi-phenomenology commercial remote sensing capabilities that combine several sensing modalities to support intelligence missions. \n\nUnder this initial tranche, HEO will provide non-Earth imagery, SatVu will deliv",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.194386Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36349,
+    "title": "Airbus taps Synspective SAR radar network for expanded Earth imaging",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/Airbus_taps_Synspective_SAR_radar_network_for_expanded_Earth_imaging_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/airbus-synspective-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Paris, France (SPX) Feb 17, 2026\n\n\nAirbus Defence and Space has signed a new radar satellite data framework agreement with Japanese Synthetic Aperture Radar (SAR) specialist Synspective Inc. to broaden its space-based radar coverage for Earth observation customers worldwide. \n\nUnder the agreement, Airbus gains access to Synspective's growing constellation of SAR satellites, which will operate alongside Airbus's existing radar",
+    "published_at": "2026-02-19T12:07:23Z",
+    "updated_at": "2026-02-19T11:00:20.141471Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -410,66 +657,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36340,
-    "title": "Study revisits chances of detecting alien technosignatures",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Study_revisits_chances_of_detecting_alien_technosignatures_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/seti-radio-technosignatures-artwork-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 19, 2026\n\n\nFor more than sixty years, astronomers have searched the sky for signs of advanced extraterrestrial technology, scanning the Milky Way for artificial radio transmissions, optical flashes and excess infrared heat. \n\nDespite these efforts, no technosignature has been confirmed so far, a silence often attributed to the fact that only a tiny fraction of the cosmic search space has been explored.",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:19.917398Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36351,
-    "title": "NRO expands commercial multi-phenomenology surveillance awards",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/NRO_expands_commercial_multi_phenomenology_surveillance_awards_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/satvu-thermal-imaging-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nThe National Reconnaissance Office has issued the first three awards under its Strategic Commercial Enhancements Commercial Solutions Opening, advancing the agency's shift toward multi-phenomenology commercial remote sensing capabilities that combine several sensing modalities to support intelligence missions. \n\nUnder this initial tranche, HEO will provide non-Earth imagery, SatVu will deliv",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.194386Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36344,
-    "title": "Curiosity Blog, Sols 4798-4803: Back for More Science",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4798_4803_Back_for_More_Science_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/curiosity-mars-lab-rover-nevado-sajama-drill-holes-sol-4795-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (JPL) Feb 17, 2026\n\n\nThe results from our first visit to the \"Nevado Sajama\" drill location were intriguing enough to motivate our return to do a deeper dive into the minerals and compounds locked in this rock with SAM (the Sample Analysis at Mars instrument suite). \n\nAs explained in the last blog, that deeper dive involves using the second of two vials of a chemical reagent, tetramethylammonium hydroxide (TMAH)",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.031762Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36342,
     "title": "NASA teams set for second Artemis II wet dress rehearsal",
     "authors": [
@@ -484,46 +671,6 @@
     "summary": "Sydney, Australia (SPX) Feb 17, 2026\n\n\nNASA is preparing for the second wet dress rehearsal of the Space Launch System rocket and Orion spacecraft ahead of the Artemis II test flight, targeting Thursday, Feb. 19, as the day to load propellants into the vehicle at Kennedy Space Center in Florida. \n\nTeams spent the weekend replacing a filter in ground support equipment that was suspected of restricting liquid hydrogen flow during a",
     "published_at": "2026-02-19T12:07:23Z",
     "updated_at": "2026-02-19T11:00:19.995858Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36346,
-    "title": "Pale Blue opens Tsukuba site to scale satellite propulsion production",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Pale_Blue_opens_Tsukuba_site_to_scale_satellite_propulsion_production_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/pale-blue-tsukuba-production-engineering-base-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Feb 18, 2026\n\n\nPale Blue has begun operating its new Tsukuba Production Engineering Base to support mass production of satellite propulsion systems and shorten delivery lead times. \n\nThe Tsukuba Production Engineering Base in Tsukuba, Ibaraki Prefecture, centralizes the full product lifecycle from technical development for mass production through manufacturing, final inspection, and global shipping. By bri",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.066396Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36353,
-    "title": "AALTO plans Zephyr stratospheric hub in northern Australia and seeks local payload partners",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/AALTO_plans_Zephyr_stratospheric_hub_in_northern_Australia_and_seeks_local_payload_partners_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/uav-zephyr-s-haps-drone-airbus-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nAALTO HAPS Ltd, an Airbus subsidiary that develops and operates the Zephyr solar-powered Stratocraft, plans to establish its second launch and landing site in northern Australia as it expands stratospheric operations and services. The proposed AALTOPORT in Australia would complement the company's existing launch and landing base in Kenya, which opened in 2024, and is aimed at supporting a nation",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.232885Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -838,151 +985,6 @@
     "updated_at": "2026-02-18T20:10:10.462689Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36331,
-    "title": "The Gestation of the Hubble",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/explorer/the-gestation-of-the-hubble/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/hubble.jpg",
-    "news_site": "NASA",
-    "summary": "By Nancy Grace Roman Looking through the atmosphere is like looking through a piece of old stained glass. The glass has defects that distort the image. The atmosphere also has defects that distort the image, but the defects in the atmosphere move, thus blurring the image as well. The glass is colored, so only some […]",
-    "published_at": "2026-02-18T19:19:57Z",
-    "updated_at": "2026-02-18T20:10:10.482585Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36320,
-    "title": "NASA to Provide Coverage of Artemis II Wet Dress Rehearsal",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-artemis-ii-wet-dress-rehearsal/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/55081705156-0055a0332d-k.jpg",
-    "news_site": "NASA",
-    "summary": "As NASA continues preparations for the Artemis II test flight, the agency will provide coverage Thursday, Feb. 19, of its next wet dress rehearsal, a fueling test of the SLS (Space Launch System) rocket, and hold a news conference on Friday, Feb. 20. Teams are counting down to the opening of a simulated launch window at 8:30 p.m. EST on Feb. […]",
-    "published_at": "2026-02-18T18:07:29Z",
-    "updated_at": "2026-02-18T18:10:09.699321Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36321,
-    "title": "Commodity Classic 2026 Hyperwall Schedule",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/commodity-classic-2026-hyperwall-schedule/",
-    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "news_site": "NASA",
-    "summary": "Commodity Classic, February 25 – 27, 2026 Join NASA in the Exhibit Hall (Booth #3481) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. WEDNESDAY, FEBRUARY 25 4:30 – 4:50 PMNASA: Your Space and Science AgencyKaren St Germain THURSDAY, FEBRUARY 26 11:00 – 11:20 AMInforming Water and Agricultural Management Apps with NASA Modeling and […]",
-    "published_at": "2026-02-18T17:55:56Z",
-    "updated_at": "2026-02-18T18:10:09.736084Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36319,
-    "title": "Fishing Boats and City Lights",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/fishing-boats-and-city-lights/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/55045264883-165c405a2d-o.jpg",
-    "news_site": "NASA",
-    "summary": "Fishing boats illuminate the Arabian Sea along India’s west coast with green lights designed to attract squid, shrimp, sardines, and mackerel in this nighttime photograph from the International Space Station, orbiting 259 miles above Earth on Dec. 25, 2025. Studying nighttime light offers a unique perspective for investigations into human behaviors, such as tracking the […]",
-    "published_at": "2026-02-18T17:25:24Z",
-    "updated_at": "2026-02-18T17:30:10.418747Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36322,
-    "title": "Mars Global Localization Pinpoints Perseverance’s Location",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/photojournal/mars-global-localization-pinpoints-perseverances-location/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26705/PIA26705.png",
-    "news_site": "NASA",
-    "summary": "Description These images were part of the first successful use of a new technology called Mars Global Localization, developed at NASA’s Jet Propulsion Laboratory. Using its navigation cameras, NASA’s Perseverance captured a 360-degree view of the surrounding terrain that was matched to orbital imagery, enabling the rover to pinpoint its location on Mars on Feb. 2, […]",
-    "published_at": "2026-02-18T17:21:08Z",
-    "updated_at": "2026-02-18T18:10:09.753199Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36323,
-    "title": "Perseverance Pinpoints Its Location at ‘Mala Mala’",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/photojournal/perseverance-pinpoints-its-location-at-mala-mala/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26704/PIA26704.png",
-    "news_site": "NASA",
-    "summary": "Description Using its navigation cameras, NASA’s Perseverance Mars rover captured the five stereo pairs of images that make up this panorama on Feb. 2, 2026, the 1,762nd day, or sol, of the mission. A new technology called Mars Global Localization matched this 360-degree view to onboard orbital imagery from the agency’s Mars Reconnaissance Orbiter (MRO), […]",
-    "published_at": "2026-02-18T17:14:53Z",
-    "updated_at": "2026-02-18T18:10:09.771181Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36318,
-    "title": "NASA’s Perseverance Now Autonomously Pinpoints Its Location on Mars",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-now-autonomously-pinpoints-its-location-on-mars/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/e1-pia26704-sol1762-nav-pano.png",
-    "news_site": "NASA",
-    "summary": "There is no GPS at the Red Planet, but a new technology called Mars Global Localization lets Perseverance determine precisely where it is — without human help.  Imagine you’re all alone, driving along in a rocky, unforgiving desert with no roads, no map, no GPS, and no more than one phone call a day for someone to inform you exactly where you are. That’s what NASA’s Perseverance rover has been experiencing since landing on Mars five years ago. Though it carries time-tested tools for determining its general location, the rover has needed operators on Earth to tell it precisely where it is — until now.   A new […]",
-    "published_at": "2026-02-18T17:05:42Z",
-    "updated_at": "2026-02-18T17:20:22.262408Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "c4db6995-f25f-4608-8eb9-ce95d5226af2",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
