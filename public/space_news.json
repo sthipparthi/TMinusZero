@@ -1,5 +1,45 @@
 [
   {
+    "id": 36402,
+    "title": "Juno data provides insight into thickness of Europa’s surface ice sheet",
+    "authors": [
+      {
+        "name": "Haygen Warren",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/02/juno-europa-ice-sheet/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2021/06/Europa.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Using recent data from NASA’s Juno orbiter, scientists have uncovered new details on the thickness…\nThe post Juno data provides insight into thickness of Europa’s surface ice sheet appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-02-23T00:50:12Z",
+    "updated_at": "2026-02-23T00:50:14.968743Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36401,
+    "title": "What’s Happening in Space Policy February 22-28, 2026",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-22-28-2026/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/01/Artemis-2-rolling-out-best-Jan-17-26-200x300.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of February 22-28, 2026 and any insight we can offer about them. The Senate is scheduled to be in […]",
+    "published_at": "2026-02-23T00:23:52Z",
+    "updated_at": "2026-02-23T00:30:27.757356Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36400,
     "title": "German defense firm said to be weighing bid for Mynaric",
     "authors": [
@@ -966,85 +1006,40 @@
     "detailed_news": ""
   },
   {
-    "id": 36347,
-    "title": "ST Engineering iDirect and G&S SatCom align network and service management on Intuition",
+    "id": 36341,
+    "title": "Hypersonica completes milestone hypersonic missile flight test in Norway",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/ST_Engineering_iDirect_and_GS_SatCom_align_network_and_service_management_on_Intuition_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/iris-programme-satellite-communications-air-traffic-management-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Hypersonica_completes_milestone_hypersonic_missile_flight_test_in_Norway_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/hypersonica-nose-cone-nick-frank-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nST Engineering iDirect has formed a strategic technology partnership with G and S SatCom to create a unified approach to satellite network and service management for operators and service providers. The agreement centers on integrating the widely deployed G and S SatConnect module into ST Engineering iDirect's next generation ground system, Intuition, to extend service orchestration and operatio",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nHypersonica has completed its first hypersonic test flight at Andoya Space in Norway, marking what the company describes as a major step toward a European sovereign hypersonic strike capability by 2029. \n\nThe Anglo-German defense and aerospace company reported that its missile prototype accelerated to speeds above Mach 6 and flew more than 300 kilometers during the mission. All systems perfo",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.093836Z",
+    "updated_at": "2026-02-19T11:00:19.952349Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 36344,
-    "title": "Curiosity Blog, Sols 4798-4803: Back for More Science",
+    "id": 36345,
+    "title": "KSAT prepares Hyperion in orbit relay test for satellite data",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4798_4803_Back_for_More_Science_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/curiosity-mars-lab-rover-nevado-sajama-drill-holes-sol-4795-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/KSAT_prepares_Hyperion_in_orbit_relay_test_for_satellite_data_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ksat-hyperion-hyper-dome-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Pasadena CA (JPL) Feb 17, 2026\r\n\r\n\r\nThe results from our first visit to the \"Nevado Sajama\" drill location were intriguing enough to motivate our return to do a deeper dive into the minerals and compounds locked in this rock with SAM (the Sample Analysis at Mars instrument suite). \r\n\r\nAs explained in the last blog, that deeper dive involves using the second of two vials of a chemical reagent, tetramethylammonium hydroxide (TMAH)",
+    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nHyperion will move KSATs HYPER concept from design into on orbit demonstration, using relay satellites to act as ground stations in space and shorten the time it takes operators to receive satellite data when speed is critical. \n\nAnnounced at the SmallSat Symposium in Silicon Valley, the Hyperion mission will extend KSATs global ground network into low Earth orbit and test how an in orbit re",
     "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T12:22:51.814402Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36340,
-    "title": "Study revisits chances of detecting alien technosignatures",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Study_revisits_chances_of_detecting_alien_technosignatures_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/seti-radio-technosignatures-artwork-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Sydney, Australia (SPX) Feb 19, 2026\n\n\nFor more than sixty years, astronomers have searched the sky for signs of advanced extraterrestrial technology, scanning the Milky Way for artificial radio transmissions, optical flashes and excess infrared heat. \n\nDespite these efforts, no technosignature has been confirmed so far, a silence often attributed to the fact that only a tiny fraction of the cosmic search space has been explored.",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:19.917398Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36352,
-    "title": "UK backs in orbit production of high value materials",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/UK_backs_in_orbit_production_of_high_value_materials_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/period-demonstrator-iss-for-in-orbit-manufacture-and-assembly-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Feb 17, 2026\n\n\nThe UK Space Agency has placed three new study contracts with British companies to assess how advanced materials could be manufactured in Low Earth Orbit for use back on Earth. The projects focus on life-saving medicines, high performance optical fibre and next generation semiconductor materials, all produced using the unique environment of space. \n\nIn orbit manufacturing can exploit microgr",
-    "published_at": "2026-02-19T12:07:23Z",
-    "updated_at": "2026-02-19T11:00:20.218677Z",
+    "updated_at": "2026-02-19T11:00:20.051876Z",
     "featured": false,
     "launches": [],
     "events": [],
