@@ -1,5 +1,65 @@
 [
   {
+    "id": 36439,
+    "title": "Showy Swirls Around Jeju Island",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/showy-swirls-around-jeju-island/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/showy-spirals-around-jeju-island/cloudvortices_tmo_20260219.jpg",
+    "news_site": "NASA",
+    "summary": "Winds blowing past the volcanic landmass near the Korean Peninsula created a trail of spiraling clouds, while murky water churned nearby.",
+    "published_at": "2026-02-24T05:01:00Z",
+    "updated_at": "2026-02-24T05:10:20.264843Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36438,
+    "title": "Boeing demonstrates large language model for space-grade hardware",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_2img_1113.jpg?fit=879%2C659&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Before uploading a large language model to space-grade hardware, Boeing Space Mission Systems engineers sought guidance from the hardware manufacturer. “They told us it wasn’t possible, but we are skilled engineers who were going to figure out a pathway to make it happen,” Arvel Chappell III, Boeing Space Mission Systems AI Lab […]\nThe post Boeing demonstrates large language model for space-grade hardware appeared first on SpaceNews.",
+    "published_at": "2026-02-24T01:47:12Z",
+    "updated_at": "2026-02-24T01:50:27.606395Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36437,
+    "title": "Meink, Saltzman make case for Space Force expansion",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/meink-saltzman-make-case-for-space-force-expansion/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/55112820571_c66bb7ac48_6k-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nMeink: How the future force is designed ‘will be critical as the Space Force expands even faster in the next few years’\nThe post Meink, Saltzman make case for Space Force expansion  appeared first on SpaceNews.",
+    "published_at": "2026-02-24T00:42:02Z",
+    "updated_at": "2026-02-24T00:50:27.259681Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36436,
     "title": "Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha",
     "authors": [
@@ -337,6 +397,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36410,
+    "title": "Study questions assumptions about hidden alien technosignals",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Study_questions_assumptions_about_hidden_alien_technosignals_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/epfl-large-antenna-dish-farm-earth-station-europe-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nFor more than sixty years, astronomers have conducted systematic searches for technosignatures, looking for artificial radio emissions, laser flashes, or excess heat that could reveal advanced civilizations in the Milky Way. \n\nDespite decades of monitoring across radio, optical, and infrared bands, no technosignature has been confirmed, a result often attributed to the fact that only a small",
+    "published_at": "2026-02-23T14:45:10Z",
+    "updated_at": "2026-02-23T13:40:20.748855Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36416,
     "title": "Warming drives growth of Arctic peatlands",
     "authors": [
@@ -377,20 +457,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36410,
-    "title": "Study questions assumptions about hidden alien technosignals",
+    "id": 36418,
+    "title": "Texas AM partners with Aegis to orbit TAMU SPIRIT research hub on ISS",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Study_questions_assumptions_about_hidden_alien_technosignals_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/epfl-large-antenna-dish-farm-earth-station-europe-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Texas_AM_partners_with_Aegis_to_orbit_TAMU_SPIRIT_research_hub_on_ISS_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/aegis-aerospace-tamu-spirit-orbital-research-platform-iss-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nFor more than sixty years, astronomers have conducted systematic searches for technosignatures, looking for artificial radio emissions, laser flashes, or excess heat that could reveal advanced civilizations in the Milky Way. \n\nDespite decades of monitoring across radio, optical, and infrared bands, no technosignature has been confirmed, a result often attributed to the fact that only a small",
+    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nTexas A and M University has developed TAMU SPIRIT, a dedicated orbital research platform that will be deployed on the International Space Station in partnership with Aegis Aerospace. The platform will mount on the station's Express Logistics Carrier 3 and give Texas A and M System faculty, researchers and students sustained access to the conditions of low Earth orbit for a wide range of experim",
     "published_at": "2026-02-23T14:45:10Z",
-    "updated_at": "2026-02-23T13:40:20.748855Z",
+    "updated_at": "2026-02-23T13:40:21.079315Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -411,26 +491,6 @@
     "summary": "Washington, United States (AFP) Feb 16, 2026\n\n\n OpenAI has hired the Austrian creator of OpenClaw, an artificial intelligence tool able to execute real-world tasks, the US startup's head Sam Altman said on Sunday. \n\nAI agent tool OpenClaw has fascinated - and spooked - the tech world since researcher Peter Steinberger built it in November to help organise his digital life. \n\nA Reddit-like pseudo social network for OpenClaw agents called",
     "published_at": "2026-02-23T14:45:10Z",
     "updated_at": "2026-02-23T13:40:21.154863Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36417,
-    "title": "EU brings secure GOVSATCOM hub online under GMV leadership",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacewar.com/reports/EU_brings_secure_GOVSATCOM_hub_online_under_GMV_leadership_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gmv-euspa-govsatcom-hub-splash-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Madrid, Spain (SPX) Feb 18, 2026\n\n\nThe European Union has begun operational use of its 'Governmental Satellite Communications Programme', known as 'GOVSATCOM', opening secure encrypted satellite communications services to EU member states under European control. The move marks a significant step in the bloc's efforts to secure strategic autonomy in space-based communications for government and security users. \n\nAt the core of",
-    "published_at": "2026-02-23T14:45:10Z",
-    "updated_at": "2026-02-23T13:40:21.062600Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -471,6 +531,26 @@
     "summary": "Los Angeles CA (SPX) Feb 18, 2026\n\n\nA team of 48 astronomers from 14 countries, led by the University of Massachusetts Amherst, has identified a previously unseen population of dusty, star-forming galaxies located at the far reaches of the observable universe and dating to only about one billion years after the Big Bang, which is estimated to have occurred 13.7 billion years ago. \n\nThese galaxies appear to provide a missing ev",
     "published_at": "2026-02-23T14:45:10Z",
     "updated_at": "2026-02-23T13:40:20.779175Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36417,
+    "title": "EU brings secure GOVSATCOM hub online under GMV leadership",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/EU_brings_secure_GOVSATCOM_hub_online_under_GMV_leadership_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gmv-euspa-govsatcom-hub-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Madrid, Spain (SPX) Feb 18, 2026\n\n\nThe European Union has begun operational use of its 'Governmental Satellite Communications Programme', known as 'GOVSATCOM', opening secure encrypted satellite communications services to EU member states under European control. The move marks a significant step in the bloc's efforts to secure strategic autonomy in space-based communications for government and security users. \n\nAt the core of",
+    "published_at": "2026-02-23T14:45:10Z",
+    "updated_at": "2026-02-23T13:40:21.062600Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -519,26 +599,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "detailed_news": ""
-  },
-  {
-    "id": 36418,
-    "title": "Texas AM partners with Aegis to orbit TAMU SPIRIT research hub on ISS",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Texas_AM_partners_with_Aegis_to_orbit_TAMU_SPIRIT_research_hub_on_ISS_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/aegis-aerospace-tamu-spirit-orbital-research-platform-iss-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nTexas A and M University has developed TAMU SPIRIT, a dedicated orbital research platform that will be deployed on the International Space Station in partnership with Aegis Aerospace. The platform will mount on the station's Express Logistics Carrier 3 and give Texas A and M System faculty, researchers and students sustained access to the conditions of low Earth orbit for a wide range of experim",
-    "published_at": "2026-02-23T14:45:10Z",
-    "updated_at": "2026-02-23T13:40:21.079315Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
     "detailed_news": ""
   },
   {
@@ -962,73 +1022,6 @@
     "summary": "SpaceX is counting down to the launch of a Falcon 9 rocket carrying 25 Starlink satellites from California, after days of delay. Liftoff from Space Launch Complex 4 East at Vandenberg Space Force Base is scheduled for 1 a.m. PST (4 a.m. EST / 0900 UTC). ",
     "published_at": "2026-02-20T22:46:55Z",
     "updated_at": "2026-02-20T22:50:28.405832Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36391,
-    "title": "Aalto plots Australia base to boost planned high-altitude pseudo satellite service",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/aalto-plots-australia-base-to-boost-planned-high-altitude-pseudo-satellite-service/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Zephyr_Take-off.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAalto is turning to Australia as a key operating base to bolster the business case for initial commercial services of its stratospheric pseudo-satellite over Japan, now pushed to 2027 amid regulatory hurdles and ongoing system-integration work.\nThe post Aalto plots Australia base to boost planned high-altitude pseudo satellite service appeared first on SpaceNews.",
-    "published_at": "2026-02-20T22:04:17Z",
-    "updated_at": "2026-02-20T22:10:40.057143Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36390,
-    "title": "Boeing insists NASA criticism will reinforce efforts on Starliner",
-    "authors": [
-      {
-        "name": "Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/02/boeing-nasa-criticism-reinforce-starliner/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/NSF-2026-02-20-20-50-40-184-wmarked.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Following NASA Administrator Jared Isaacman’s stark assessment of the Boeing CST-100 Starliner program’s troubled history—pinning…\nThe post Boeing insists NASA criticism will reinforce efforts on Starliner appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-02-20T21:08:38Z",
-    "updated_at": "2026-02-20T21:10:16.005920Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36389,
-    "title": "NASA Is Helping Bring Giant Tortoises Back to the Galápagos",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/nasa-is-helping-bring-giant-tortoises-back-to-the-galapagos/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/tort.jpg",
-    "news_site": "NASA",
-    "summary": "Giant tortoises are returning to Floreana Island after more than 150 years, guided by NASA data that shows suitable areas for release.",
-    "published_at": "2026-02-20T20:00:00Z",
-    "updated_at": "2026-02-20T20:10:15.651911Z",
     "featured": false,
     "launches": [],
     "events": [],
