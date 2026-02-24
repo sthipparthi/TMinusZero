@@ -1,5 +1,150 @@
 [
   {
+    "id": 36436,
+    "title": "Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha",
+    "authors": [
+      {
+        "name": "Haygen Warren",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/02/launch-preview-022326/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-2.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "Seven missions are on this week’s launch manifest, with SpaceX’s Falcon 9 dominating the schedule.…\nThe post Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-02-23T23:31:22Z",
+    "updated_at": "2026-02-23T23:32:41.723964Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36434,
+    "title": "Young ‘Sun’ Caught Blowing Bubbles by NASA’s Chandra",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/chandra/young-sun-caught-blowing-bubbles-by-nasas-chandra/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/astrosphere-xray-infrared.jpg",
+    "news_site": "NASA",
+    "summary": "For the first time, a much younger version of the Sun has been caught red-handed blowing bubbles in the galaxy, by astronomers using NASA’s Chandra X-ray Observatory. The bubble – called an “astrosphere” – completely surrounds the juvenile star. Winds from the star’s surface are blowing up the bubble and filling it with hot gas […]",
+    "published_at": "2026-02-23T20:07:28Z",
+    "updated_at": "2026-02-23T20:15:05.400218Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "0a5d89b0-aa14-4140-b72d-fbcc8340b222",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36435,
+    "title": "Astronomy Activation Ambassadors: Embracing Multiple Perspectives",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/learning-resources/science-activation/astronomy-activation-ambassadors-embracing-multiple-perspectives/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/sciact/AAA25_Fig1_group-at-VLBA_Dana_Backman.jpeg",
+    "news_site": "NASA",
+    "summary": "The Astronomy Activation Ambassadors (AAA) project, part of the NASA Science Activation program, aims to measurably enhance student STEM (Science, Technology, Engineering, & Mathematics) engagement via middle school, high school, and community college science teacher professional development.",
+    "published_at": "2026-02-23T20:03:22Z",
+    "updated_at": "2026-02-23T20:10:21.029211Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36433,
+    "title": "Flawless Second Artemis II Launch Rehearsal Shows Readiness, Despite Setbacks",
+    "authors": [
+      {
+        "name": "Emily B",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2026/02/flawless-second-artemis-ii-launch-rehearsal-shows-readiness-despite-setbacks/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/02/wolf-green-scaled.jpg",
+    "news_site": "Space Scout",
+    "summary": "The second launch rehearsal for Artemis II was a massive success and a showcase of the propellant loading process and systems working as designed.",
+    "published_at": "2026-02-23T19:16:51Z",
+    "updated_at": "2026-02-23T19:58:20.640209Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1332,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 36432,
+    "title": "Space Force seeks market answers on in-orbit refueling",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-force-seeks-market-answers-on-in-orbit-refueling/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Provisioner_Astroscale-U.S._Goddard-Testing.jpg.jpeg?fit=960%2C640&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA new RFI poses questions to industry on future refueling architecture\nThe post Space Force seeks market answers on in-orbit refueling appeared first on SpaceNews.",
+    "published_at": "2026-02-23T19:00:00Z",
+    "updated_at": "2026-02-23T19:02:25.648557Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36431,
+    "title": "NASA to Cover 33rd SpaceX Resupply Mission Station Departure",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-to-cover-33rd-spacex-resupply-mission-station-departure/",
+    "image_url": "https://images-assets.nasa.gov/image/iss073e0545540/iss073e0545540~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA and its international partners will receive scientific research samples and hardware when a SpaceX Dragon spacecraft departs the International Space Station on Thursday, Feb. 26, and returns to Earth. Watch NASA’s live coverage of the undocking and departure of the agency’s 33rd SpaceX Commercial Resupply Services mission starting at 11:45 a.m. EST on NASA+, […]",
+    "published_at": "2026-02-23T18:47:50Z",
+    "updated_at": "2026-02-23T19:59:53.212280Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "e8e93778-657c-401c-9c88-3cd4c7c45c9d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1310,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
     "id": 36430,
     "title": "AST SpaceMobile wins $30 million contract for military  broadband demo",
     "authors": [
@@ -172,20 +317,40 @@
     "detailed_news": ""
   },
   {
-    "id": 36417,
-    "title": "EU brings secure GOVSATCOM hub online under GMV leadership",
+    "id": 36413,
+    "title": "Researchers probe dark matter stars that resemble black holes",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacewar.com/reports/EU_brings_secure_GOVSATCOM_hub_online_under_GMV_leadership_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gmv-euspa-govsatcom-hub-splash-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Researchers_probe_dark_matter_stars_that_resemble_black_holes_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/hypothetical-dark-matter-boson-stars-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Madrid, Spain (SPX) Feb 18, 2026\n\n\nThe European Union has begun operational use of its 'Governmental Satellite Communications Programme', known as 'GOVSATCOM', opening secure encrypted satellite communications services to EU member states under European control. The move marks a significant step in the bloc's efforts to secure strategic autonomy in space-based communications for government and security users. \n\nAt the core of",
+    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nIn 2019, an unusual gravitational wave event labelled GW190521 rippled across the universe and into detectors on Earth, initially interpreted as the merger of two black holes each tens of times more massive than the Sun. A European-led team now argues that some signals of this kind might instead come from exotic dark matter objects that closely mimic black holes while lacking their defining feat",
     "published_at": "2026-02-23T14:45:10Z",
-    "updated_at": "2026-02-23T13:40:21.062600Z",
+    "updated_at": "2026-02-23T13:40:20.868722Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36416,
+    "title": "Warming drives growth of Arctic peatlands",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Warming_drives_growth_of_Arctic_peatlands_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/canada-northwest-territories-forest-boreal-peatlands-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London, UK (SPX) Feb 16, 2026\n\n\nNew analysis shows that Arctic peatlands have expanded in recent decades as the region has warmed far faster than the global average. Average temperatures in the Arctic have risen by about 4 C over the last forty years, and the study links this rapid warming to the outward growth of peat-forming ecosystems. \n\nLed by the University of Exeter, the research team examined peatland cores taken fr",
+    "published_at": "2026-02-23T14:45:10Z",
+    "updated_at": "2026-02-23T13:40:20.985075Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -206,6 +371,86 @@
     "summary": "Sydney, Australia (SPX) Feb 18, 2026\n\n\nThousands of satellites are launched every year to support navigation, telecommunications, weather forecasting and emergency warning services, and most rely on onboard propulsion systems to manoeuvre once in orbit. \n\nThese propulsion systems are essential to change orbits, perform end of life de-orbiting, carry out collision avoidance with space debris or other satellites, maintain or adjust",
     "published_at": "2026-02-23T14:45:10Z",
     "updated_at": "2026-02-23T13:40:20.957013Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36410,
+    "title": "Study questions assumptions about hidden alien technosignals",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Study_questions_assumptions_about_hidden_alien_technosignals_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/epfl-large-antenna-dish-farm-earth-station-europe-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nFor more than sixty years, astronomers have conducted systematic searches for technosignatures, looking for artificial radio emissions, laser flashes, or excess heat that could reveal advanced civilizations in the Milky Way. \n\nDespite decades of monitoring across radio, optical, and infrared bands, no technosignature has been confirmed, a result often attributed to the fact that only a small",
+    "published_at": "2026-02-23T14:45:10Z",
+    "updated_at": "2026-02-23T13:40:20.748855Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36419,
+    "title": "OpenAI hires creator of 'OpenClaw' AI agent tool",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/OpenAI_hires_creator_of_OpenClaw_AI_agent_tool_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/openai-chatgpt-robot-speech-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington, United States (AFP) Feb 16, 2026\n\n\n OpenAI has hired the Austrian creator of OpenClaw, an artificial intelligence tool able to execute real-world tasks, the US startup's head Sam Altman said on Sunday. \n\nAI agent tool OpenClaw has fascinated - and spooked - the tech world since researcher Peter Steinberger built it in November to help organise his digital life. \n\nA Reddit-like pseudo social network for OpenClaw agents called",
+    "published_at": "2026-02-23T14:45:10Z",
+    "updated_at": "2026-02-23T13:40:21.154863Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36417,
+    "title": "EU brings secure GOVSATCOM hub online under GMV leadership",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacewar.com/reports/EU_brings_secure_GOVSATCOM_hub_online_under_GMV_leadership_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gmv-euspa-govsatcom-hub-splash-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Madrid, Spain (SPX) Feb 18, 2026\n\n\nThe European Union has begun operational use of its 'Governmental Satellite Communications Programme', known as 'GOVSATCOM', opening secure encrypted satellite communications services to EU member states under European control. The move marks a significant step in the bloc's efforts to secure strategic autonomy in space-based communications for government and security users. \n\nAt the core of",
+    "published_at": "2026-02-23T14:45:10Z",
+    "updated_at": "2026-02-23T13:40:21.062600Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36414,
+    "title": "Dynamic terrain model boosts airborne gamma ray survey accuracy",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Dynamic_terrain_model_boosts_airborne_gamma_ray_survey_accuracy_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/airborne-gamma-ray-accuracy-overlap-dynamic-variation-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 18, 2026\n\n\nA research team led by Professor Hexi Wu and Dr Weicheng Li has developed a dynamic three dimensional terrain correction method that significantly improves the quantitative inversion accuracy of airborne gamma ray spectrometer surveys. The approach combines a novel sourceless efficiency calibration technique with a flight path based terrain model to tackle long standing challenges caused by over",
+    "published_at": "2026-02-23T14:45:10Z",
+    "updated_at": "2026-02-23T13:40:20.883392Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -252,46 +497,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36416,
-    "title": "Warming drives growth of Arctic peatlands",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Warming_drives_growth_of_Arctic_peatlands_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/canada-northwest-territories-forest-boreal-peatlands-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Feb 16, 2026\n\n\nNew analysis shows that Arctic peatlands have expanded in recent decades as the region has warmed far faster than the global average. Average temperatures in the Arctic have risen by about 4 C over the last forty years, and the study links this rapid warming to the outward growth of peat-forming ecosystems. \n\nLed by the University of Exeter, the research team examined peatland cores taken fr",
-    "published_at": "2026-02-23T14:45:10Z",
-    "updated_at": "2026-02-23T13:40:20.985075Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36413,
-    "title": "Researchers probe dark matter stars that resemble black holes",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Researchers_probe_dark_matter_stars_that_resemble_black_holes_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/hypothetical-dark-matter-boson-stars-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nIn 2019, an unusual gravitational wave event labelled GW190521 rippled across the universe and into detectors on Earth, initially interpreted as the merger of two black holes each tens of times more massive than the Sun. A European-led team now argues that some signals of this kind might instead come from exotic dark matter objects that closely mimic black holes while lacking their defining feat",
-    "published_at": "2026-02-23T14:45:10Z",
-    "updated_at": "2026-02-23T13:40:20.868722Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36412,
     "title": "New Wenchang lunar pad completes first Long March 10 test",
     "authors": [
@@ -317,46 +522,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36414,
-    "title": "Dynamic terrain model boosts airborne gamma ray survey accuracy",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Dynamic_terrain_model_boosts_airborne_gamma_ray_survey_accuracy_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/airborne-gamma-ray-accuracy-overlap-dynamic-variation-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 18, 2026\n\n\nA research team led by Professor Hexi Wu and Dr Weicheng Li has developed a dynamic three dimensional terrain correction method that significantly improves the quantitative inversion accuracy of airborne gamma ray spectrometer surveys. The approach combines a novel sourceless efficiency calibration technique with a flight path based terrain model to tackle long standing challenges caused by over",
-    "published_at": "2026-02-23T14:45:10Z",
-    "updated_at": "2026-02-23T13:40:20.883392Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36419,
-    "title": "OpenAI hires creator of 'OpenClaw' AI agent tool",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/OpenAI_hires_creator_of_OpenClaw_AI_agent_tool_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/openai-chatgpt-robot-speech-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Feb 16, 2026\n\n\n OpenAI has hired the Austrian creator of OpenClaw, an artificial intelligence tool able to execute real-world tasks, the US startup's head Sam Altman said on Sunday. \n\nAI agent tool OpenClaw has fascinated - and spooked - the tech world since researcher Peter Steinberger built it in November to help organise his digital life. \n\nA Reddit-like pseudo social network for OpenClaw agents called",
-    "published_at": "2026-02-23T14:45:10Z",
-    "updated_at": "2026-02-23T13:40:21.154863Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36418,
     "title": "Texas AM partners with Aegis to orbit TAMU SPIRIT research hub on ISS",
     "authors": [
@@ -371,26 +536,6 @@
     "summary": "Los Angeles CA (SPX) Feb 17, 2026\n\n\nTexas A and M University has developed TAMU SPIRIT, a dedicated orbital research platform that will be deployed on the International Space Station in partnership with Aegis Aerospace. The platform will mount on the station's Express Logistics Carrier 3 and give Texas A and M System faculty, researchers and students sustained access to the conditions of low Earth orbit for a wide range of experim",
     "published_at": "2026-02-23T14:45:10Z",
     "updated_at": "2026-02-23T13:40:21.079315Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36410,
-    "title": "Study questions assumptions about hidden alien technosignals",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Study_questions_assumptions_about_hidden_alien_technosignals_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/epfl-large-antenna-dish-farm-earth-station-europe-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Feb 18, 2026\n\n\nFor more than sixty years, astronomers have conducted systematic searches for technosignatures, looking for artificial radio emissions, laser flashes, or excess heat that could reveal advanced civilizations in the Milky Way. \n\nDespite decades of monitoring across radio, optical, and infrared bands, no technosignature has been confirmed, a result often attributed to the fact that only a small",
-    "published_at": "2026-02-23T14:45:10Z",
-    "updated_at": "2026-02-23T13:40:20.748855Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -884,138 +1029,6 @@
     "summary": "Giant tortoises are returning to Floreana Island after more than 150 years, guided by NASA data that shows suitable areas for release.",
     "published_at": "2026-02-20T20:00:00Z",
     "updated_at": "2026-02-20T20:10:15.651911Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36388,
-    "title": "NASA Confirms March 6 as Target Date for Astronaut Moon Mission",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/nasa-confirms-march-6-as-target-date-for-astronaut-moon-mission/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Lori-Glaze-Feb-20-26-presser-300x155.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "NASA confirmed today that March 6 is their target for sending astronauts around the Moon for the first time in more than 50 years on the Artemis II mission. The […]",
-    "published_at": "2026-02-20T19:28:13Z",
-    "updated_at": "2026-02-20T19:30:12.841037Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36386,
-    "title": "NASA targeting March 6 for Artemis 2 launch",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-targeting-march-6-for-artemis-2-launch/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/art2-260129.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA is targeting a March 6 launch for Artemis 2 after completing a countdown test with few problems.\nThe post NASA targeting March 6 for Artemis 2 launch appeared first on SpaceNews.",
-    "published_at": "2026-02-20T18:40:05Z",
-    "updated_at": "2026-02-20T18:40:55.660698Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36387,
-    "title": "The UK Amends Launch Liability Rules as RFA Prepares for Inaugural Flight",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/the-uk-amends-launch-liability-rules-as-rfa-prepares-for-inaugural-flight/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/The-UK-Amends-Launch-Liability-Rules-as-RFA-Prepares-for-Inaugural-Flight.webp",
-    "news_site": "European Spaceflight",
-    "summary": "An amendment to the United Kingdom’s Space Industry Act will mandate that limits are set on how much launch operators are financially liable for if something goes wrong. The government has framed the change as a necessary step to strengthen the country’s position as a competitive launch location. The concept of states being liable for […]\nThe post The UK Amends Launch Liability Rules as RFA Prepares for Inaugural Flight appeared first on European Spaceflight.",
-    "published_at": "2026-02-20T15:01:00Z",
-    "updated_at": "2026-02-20T19:30:09.481915Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36385,
-    "title": "Artemis II Crew Trains on T-38",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-trains-on-t-38/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/jsc2026e007422orig.jpg",
-    "news_site": "NASA",
-    "summary": "NASA astronaut Christina Koch and Canadian Space Agency astronaut Jeremy Hansen take off on a T-38 training flight from Ellington Field on Feb. 11, 2026, as a waning crescent Moon hovers above. Koch and Hansen, along with NASA astronauts Reid Wiseman and Victor Glover, are part of NASA’s Artemis II mission, the first crewed flight […]",
-    "published_at": "2026-02-20T14:50:53Z",
-    "updated_at": "2026-02-20T17:36:45.374692Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36384,
-    "title": "Week in images: 16-20 February 2026",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_February_2026",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/annular_solar_eclipse_seen_from_space/27119314-1-eng-GB/Annular_solar_eclipse_seen_from_space_card_full.png",
-    "news_site": "ESA",
-    "summary": "Week in images: 16-20 February 2026",
-    "published_at": "2026-02-20T14:10:00Z",
-    "updated_at": "2026-02-20T14:10:35.626731Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36383,
-    "title": "Boeing to boost production of missile-tracking sensors for military satellites",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/EOIR-Production-Space.jpg-scaled.jpeg?fit=1024%2C381&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe company opened a new facility in El Segundo to support Millennium’s missile-warning satellite backlog\nThe post Boeing to boost production of missile-tracking sensors for military satellites appeared first on SpaceNews.",
-    "published_at": "2026-02-20T13:00:00Z",
-    "updated_at": "2026-02-20T13:02:06.870745Z",
     "featured": false,
     "launches": [],
     "events": [],
