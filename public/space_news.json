@@ -1,5 +1,239 @@
 [
   {
+    "id": 36511,
+    "title": "Landsat 9: More Than Just A Picture",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/landsat/landsat-9-more-than-just-a-picture/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/l9mission-thumbnail.png",
+    "news_site": "NASA",
+    "summary": "For over 50 years, the Landsat program has provided the longest continuous satellite record of Earth’s land surface from space. Landsat 9, launched in 2021, is the latest mission in this remarkable legacy.",
+    "published_at": "2026-02-26T17:47:04Z",
+    "updated_at": "2026-02-26T18:10:15.433346Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36510,
+    "title": "Inside Project Hail Mary",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/inside-project-hail-mary/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/06-dg01304.jpg",
+    "news_site": "NASA",
+    "summary": "NASA astronaut and deputy director of the Flight Operations Directorate Kjell Lindgren takes a selfie with panelists and the audience at the agency’s Jet Propulsion Laboratory on Feb. 25, 2026. Actors Ryan Gosling and Sandra Huller, screenwriter Drew Goddard, directors Phil Lord and Christopher Miller, and producer and writer of the “Project Hail Mary” novel […]",
+    "published_at": "2026-02-26T17:19:03Z",
+    "updated_at": "2026-02-26T17:20:16.980692Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36509,
+    "title": "Airbus and Leonardo report increased space revenues for 2025",
+    "authors": [
+      {
+        "name": "Emma Gatti",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/brancati-smallsat2026.jpeg?fit=1024%2C685&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nMILAN – Two of Europe’s largest primes, Airbus and Leonardo, reported increased revenues in their respective space businesses from last year. The results, which were announced earlier this week in separate earnings reports, come as the two companies are in discussions with Thales on a joint venture named Project Bromo. Neither discussed the topic on […]\nThe post Airbus and Leonardo report increased space revenues for 2025 appeared first on SpaceNews.",
+    "published_at": "2026-02-26T16:20:31Z",
+    "updated_at": "2026-02-26T16:20:55.775425Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36507,
+    "title": "NASA Invites Media to Discuss Next Steps for Artemis Campaign",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-next-steps-for-artemis-campaign/",
+    "image_url": "https://images-assets.nasa.gov/image/KSC-20260225-PH-CSH01-0076/KSC-20260225-PH-CSH01-0076~large.jpg",
+    "news_site": "NASA",
+    "summary": "With rollback of NASA’s Artemis II SLS (Space Launch System) rocket and Orion spacecraft to the Vehicle Assembly Building complete, the agency will host a news conference at 10 a.m. on Friday, Feb. 27. Live from NASA’s Kennedy Space Center in Florida, leadership will discuss the work ahead for the test flight, as well as […]",
+    "published_at": "2026-02-26T16:07:56Z",
+    "updated_at": "2026-02-26T16:10:15.262993Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36508,
+    "title": "NASA’s ESCAPADE Ready to Study Space Weather from Earth to Mars",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-ready-to-study-space-weather-from-earth-to-mars/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/r/rl-escapade-beauty-shot001-0000239.jpg",
+    "news_site": "NASA",
+    "summary": "Mars is not what it used to be. Once warm, watery, and blanketed by a thick atmosphere, today the Red Planet is cold, dry, and draped by a thin atmospheric veil. The main culprit is a relentless stream of particles from the Sun, known as the solar wind. Over billions of years, the solar wind has stripped away […]",
+    "published_at": "2026-02-26T15:24:23Z",
+    "updated_at": "2026-02-26T16:10:15.308289Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36506,
+    "title": "NASA Names Acting Leaders for Two Key Human Spaceflight Roles",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-names-acting-leaders-for-two-key-human-spaceflight-roles/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2020/06/jsc2018e049983.jpg",
+    "news_site": "NASA",
+    "summary": "On Thursday, NASA announced Joel Montalbano will serve as the acting associate administrator for the Space Operations Mission Directorate (SOMD) at NASA Headquarters in Washington, and Dana Hutcherson will serve as the acting program manager of the Commercial Crew Program.  SOMD’s programs and activities include the Commercial Crew Program, the Commercial Low Earth Orbit Program, the Human Research Program, […]",
+    "published_at": "2026-02-26T15:08:57Z",
+    "updated_at": "2026-02-26T15:10:05.562337Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36505,
+    "title": "A non-public document reveals that science may not be prioritized on next Mars mission",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/mars-telecom.jpg",
+    "news_site": "Arstechnica",
+    "summary": "For some reason, NASA chose not to publicly release its Mars orbiter objectives.",
+    "published_at": "2026-02-26T14:44:25Z",
+    "updated_at": "2026-02-26T14:50:09.847152Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36504,
+    "title": "NordSpace founder backs Wyvern with new Canada-focused venture arm",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Rahul-Goel.png?fit=780%2C439&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe founder and sole investor behind Canadian launch startup NordSpace has invested in Earth observation operator Wyvern with a new venture arm focused on advancing Canada’s sovereign space capabilities.\nThe post NordSpace founder backs Wyvern with new Canada-focused venture arm appeared first on SpaceNews.",
+    "published_at": "2026-02-26T13:59:09Z",
+    "updated_at": "2026-02-26T14:00:37.462403Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36503,
+    "title": "Phantom Space reclaims former Vector launch technology",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/11/Phantom_Space___Hot_Fire_Test.jpg?fit=1024%2C747&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nRemnants of Vector Launch have made it back to one of its original architects after Phantom Space bought launch assets that were sold off in 2020 during the small rocket developer’s bankruptcy.\nThe post Phantom Space reclaims former Vector launch technology appeared first on SpaceNews.",
+    "published_at": "2026-02-26T13:00:00Z",
+    "updated_at": "2026-02-26T13:00:42.166716Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36502,
+    "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_2element_graphic_ca.png?fit=879%2C494&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – CesiumAstro announced the acquisition Feb. 26 of Vidrovr, a startup that specializes in artificial intelligence for multimodal signals analysis. Terms of the transaction, which closed in late 2025, were not disclosed. CesiumAstro acquired Vidrovr to accelerate its campaign to embed AI in space telecommunications and intelligence, surveillance and reconnaissance infrastructure, enabling radio-frequency […]\nThe post CesiumAstro acquires Vidrovr to embed AI in communications systems appeared first on SpaceNews.",
+    "published_at": "2026-02-26T13:00:00Z",
+    "updated_at": "2026-02-26T13:00:42.141635Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36501,
+    "title": "Sierra Space names Dan Jablonsky CEO",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/sierra-space-names-dan-jablonsky-ceo/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/04/PJ5A0045-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFounder Fatih Ozmen, who was interim CEO, remains board chair \nThe post Sierra Space names Dan Jablonsky CEO appeared first on SpaceNews.",
+    "published_at": "2026-02-26T13:00:00Z",
+    "updated_at": "2026-02-26T13:00:42.052703Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36500,
     "title": "NASA astronaut says his medical issue led to early return from the ISS",
     "authors": [
@@ -457,6 +691,66 @@
     "detailed_news": ""
   },
   {
+    "id": 36478,
+    "title": "Infleqtion lists shares on NYSE as neutral atom quantum firm",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/infleqtion-neutral-atom-quantum-company-ipo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nInfleqtion, a provider of neutral atom based quantum computing and sensing systems, has completed its business combination with Churchill Capital Corp X and is now listed on the New York Stock Exchange under the ticker symbol INFQ. The company describes itself as well capitalized, reporting more than 550 million dollars in gross proceeds from the transaction, including nearly all of the cash hel",
+    "published_at": "2026-02-25T10:14:21Z",
+    "updated_at": "2026-02-25T10:20:27.269311Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36474,
+    "title": "Ganymede aurora study links moon and Earth space weather",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/juno-ganymede-ultraviolet-aurorae-artist-views-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London (SDX) Feb 25, 2026\n\n\nNew observations of Jupiter's largest moon, Ganymede, reveal that its auroras share detailed structural similarities with auroras on Earth, suggesting that the physical processes that generate these lights may be universal across different types of celestial bodies. \n\nA team from the Laboratory of Atmospheric and Planetary Physics (LPAP) at the University of Liege has used NASA's Juno spacec",
+    "published_at": "2026-02-25T10:14:21Z",
+    "updated_at": "2026-02-25T10:20:27.069654Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36477,
+    "title": "Superconducting thruster cuts power and mass for space propulsion",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-high-temperature-superconducting-applied-field-mpd-thruster-schematic-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Singapore (SDX) Feb 25, 2026\n\n\nSmall satellites have become attractive for space missions because they offer low cost and flexibility, but their growth has been limited by the lack of compact, efficient propulsion systems that work well in the vacuum of space. In orbit, spacecraft can only change their motion through reaction force, and traditional chemical rockets produce thrust by burning fuel to generate high temperature g",
+    "published_at": "2026-02-25T10:14:21Z",
+    "updated_at": "2026-02-25T10:20:27.178139Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36479,
     "title": "Brain learns faster from rare rewards than from repetition",
     "authors": [
@@ -497,26 +791,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36475,
-    "title": "AST SpaceMobile wins SDA HALO Europa contract for direct to device tactical links",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AST_SpaceMobile_wins_SDA_HALO_Europa_contract_for_direct_to_device_tactical_links_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-prime-sda-halo-europa-program-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (SDX) Feb 23, 2026\n\n\nAST SpaceMobile has secured a prime contract worth about 30 million dollars with the United States Space Development Agency for the Europa Track 2 Commercial Solutions program under the Hybrid Acquisition for proliferated Low Earth Orbit, or HALO, initiative. \n\nThe agreement calls for AST SpaceMobile to use its BlueBird low Earth orbit satellite constellation to demonstrate resilient, low la",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.085587Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36476,
     "title": "Seafloor weathering may explain ancient global glaciation puzzle",
     "authors": [
@@ -537,60 +811,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36474,
-    "title": "Ganymede aurora study links moon and Earth space weather",
+    "id": 36475,
+    "title": "AST SpaceMobile wins SDA HALO Europa contract for direct to device tactical links",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/juno-ganymede-ultraviolet-aurorae-artist-views-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/AST_SpaceMobile_wins_SDA_HALO_Europa_contract_for_direct_to_device_tactical_links_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-prime-sda-halo-europa-program-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "London (SDX) Feb 25, 2026\n\n\nNew observations of Jupiter's largest moon, Ganymede, reveal that its auroras share detailed structural similarities with auroras on Earth, suggesting that the physical processes that generate these lights may be universal across different types of celestial bodies. \n\nA team from the Laboratory of Atmospheric and Planetary Physics (LPAP) at the University of Liege has used NASA's Juno spacec",
+    "summary": "New York (SDX) Feb 23, 2026\n\n\nAST SpaceMobile has secured a prime contract worth about 30 million dollars with the United States Space Development Agency for the Europa Track 2 Commercial Solutions program under the Hybrid Acquisition for proliferated Low Earth Orbit, or HALO, initiative. \n\nThe agreement calls for AST SpaceMobile to use its BlueBird low Earth orbit satellite constellation to demonstrate resilient, low la",
     "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.069654Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36478,
-    "title": "Infleqtion lists shares on NYSE as neutral atom quantum firm",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/infleqtion-neutral-atom-quantum-company-ipo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nInfleqtion, a provider of neutral atom based quantum computing and sensing systems, has completed its business combination with Churchill Capital Corp X and is now listed on the New York Stock Exchange under the ticker symbol INFQ. The company describes itself as well capitalized, reporting more than 550 million dollars in gross proceeds from the transaction, including nearly all of the cash hel",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.269311Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36477,
-    "title": "Superconducting thruster cuts power and mass for space propulsion",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-high-temperature-superconducting-applied-field-mpd-thruster-schematic-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Singapore (SDX) Feb 25, 2026\n\n\nSmall satellites have become attractive for space missions because they offer low cost and flexibility, but their growth has been limited by the lack of compact, efficient propulsion systems that work well in the vacuum of space. In orbit, spacecraft can only change their motion through reaction force, and traditional chemical rockets produce thrust by burning fuel to generate high temperature g",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.178139Z",
+    "updated_at": "2026-02-25T10:20:27.085587Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -796,233 +1030,6 @@
     "summary": "The Starlink 6-110 mission will be the 18th flight this years supporting SpaceX’s broadband internet constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:04:10 p.m. EST (2304:10 UTC). ",
     "published_at": "2026-02-24T17:56:08Z",
     "updated_at": "2026-02-24T18:00:50.816426Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36462,
-    "title": "Lockheed Martin presses case that GPS upgrade will counter jamming threats",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/lockheed-martin-presses-case-that-gps-upgrade-will-counter-jamming-threats/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/55065978704_d5b79852f0_k.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGPS IIIF features, including regional spot beams, will ‘change the calculus’ for adversaries\nThe post Lockheed Martin presses case that GPS upgrade will counter jamming threats appeared first on SpaceNews.",
-    "published_at": "2026-02-24T15:30:00Z",
-    "updated_at": "2026-02-24T15:40:43.783138Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36460,
-    "title": "Webb Maps Uranus’ Upper Atmosphere",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/webb-maps-uranus-upper-atmosphere/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/55104944969-3bc3cb0506-o.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s James Webb Space Telescope provided the first vertical view of Uranus’s ionosphere in this image released on Feb. 19, 2026, revealing auroras shaped by its tilted magnetic field. Getting a look at the structure of the region where the atmosphere interacts strongly with the planet’s magnetic field is giving us the most detailed portrait […]",
-    "published_at": "2026-02-24T15:00:39Z",
-    "updated_at": "2026-02-24T15:10:11.807685Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36461,
-    "title": "Technology Originally Developed for Space Missions Now Integral to Everyday Life",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/technology-originally-developed-for-space-missions-now-integral-to-everyday-life/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/2_eric-fossum-at-jet-propulsion-laboratory_53515159858_o.webp",
-    "news_site": "NASA",
-    "summary": "Groundbreaking “camera-on-a-chip” technology that was originally developed at NASA’s Jet Propulsion Laboratory (JPL) for use in space missions is currently employed in billions of devices like cell phones that are used daily by people worldwide.",
-    "published_at": "2026-02-24T14:29:00Z",
-    "updated_at": "2026-02-24T15:10:11.846632Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36459,
-    "title": "The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships”",
-    "authors": [
-      {
-        "name": "Commercial Space Federation",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-commercial-space-federation-releases-new-white-paper-perfecting-public-private-partnerships/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/commercial-space-federation-csf-square.png?fit=900%2C901&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFebruary 24, 2026 – Washington, DC – The Commercial Space Federation (CSF) is proud to announce the release of a new paper titled “Perfecting Public-Private Partnerships: The Future of Government […]\nThe post The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships” appeared first on SpaceNews.",
-    "published_at": "2026-02-24T14:00:00Z",
-    "updated_at": "2026-02-24T14:10:25.187433Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36458,
-    "title": "At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Screenshot-2026-02-24-at-7.54.53-AM.png?fit=1024%2C507&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nHegseth contrasts “builders” with Beltway primes as administration leans into procurement overhaul\nThe post At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy appeared first on SpaceNews.",
-    "published_at": "2026-02-24T13:00:43Z",
-    "updated_at": "2026-02-24T13:40:31.570789Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36457,
-    "title": "LambdaVision books space on Starlab commercial space station",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/microgravity-amplified.jpg?fit=1024%2C898&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLambdaVision, a company that has used microgravity experiments on the International Space Station to develop an artificial retina, has booked space on a planned commercial successor.\nThe post LambdaVision books space on Starlab commercial space station appeared first on SpaceNews.",
-    "published_at": "2026-02-24T12:32:19Z",
-    "updated_at": "2026-02-24T12:40:27.491556Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36456,
-    "title": "Sophia Space claims $10 million in seed round",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/sophia-space-claims-10-million-in-seed-round/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/rsz_sophia-tcs40.jpg?fit=879%2C495&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Sophia Space raised $10 million in seed funding to accelerate development of space-based edge computers and orbital data centers. “The $10 million round is a validation that we are progressing from slideware to hardware,” Rob DeMillo, Sophia Space CEO and co-founder, told SpaceNews. “And it’s evidence that capital is shifting towards orbital-compute […]\nThe post Sophia Space claims $10 million in seed round appeared first on SpaceNews.",
-    "published_at": "2026-02-24T12:00:00Z",
-    "updated_at": "2026-02-24T12:10:53.188146Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36455,
-    "title": "TotalEnergies in high-stakes French trial over climate change",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/TotalEnergies_in_high-stakes_French_trial_over_climate_change_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/totalenergies-oil-logo-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Paris, France (AFP) Feb 20, 2026\n\n\n TotalEnergies faces cutting back oil and gas production if NGOs prevail in a trial that began Thursday over accusations the French energy giant failed to properly consider environmental risks. \n\nThe case, brought by several NGOs and the city of Paris, is based upon a 2017 law that imposed a \"duty of vigilance\" on large companies. \n\nThe law seeks to counter companies offloading responsibility",
-    "published_at": "2026-02-24T11:35:37Z",
-    "updated_at": "2026-02-24T11:40:20.739750Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36454,
-    "title": "India chases 'DeepSeek moment' with homegrown AI models",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/India_chases_DeepSeek_moment_with_homegrown_AI_models_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/data-spix-1-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New Delhi (AFP) Feb 20, 2026\n\n\n Fledgling Indian artificial intelligence companies showcased homegrown technologies this week at a major summit in New Delhi, underpinning big dreams of becoming a global AI power. \n\nBut analysts said the country was unlikely to have a \"DeepSeek moment\" - the sort of boom China had last year with a high-performance, low-cost chatbot - any time soon. \n\nStill, building custom AI tools could",
-    "published_at": "2026-02-24T11:35:37Z",
-    "updated_at": "2026-02-24T11:40:20.702141Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36453,
-    "title": "Galileo vs. spoofing: ESA tests in real-world environments",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo_vs._spoofing_ESA_tests_in_real-world_environments",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/07/galileo_satellite_in_orbit/14632177-1-eng-GB/Galileo_satellite_in_orbit_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From adding timestamps to banking transactions to mapping the best route to a destination, satellite navigation plays a significant role in daily life. At the same time, attempts to interfere with and fake navigation signals are increasing. For the last seven months, a new verification service for Galileo has mitigated the threat of spoofing in the Open Service by confirming that the satellite navigation data used for positioning originated in the Galileo system.",
-    "published_at": "2026-02-24T10:24:00Z",
-    "updated_at": "2026-02-24T10:30:20.052512Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36465,
-    "title": "Telespazio Awarded €20 Million Contract for Canary Islands Constellation",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/telespazio-awarded-e20-million-contract-for-canary-islands-constellation/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/Telespazio-Awarded-E20-Million-Contract-for-Canary-Islands-Constellation.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Telespazio Ibérica, the Spanish subsidiary of the Italian space technology company Telespazio, has been awarded a €20 million contract to develop an Earth observation constellation for the Canary Islands. In September 2025, the Tenerife Island Council, the largest and most populous island of the Canary Islands, an autonomous community of Spain, announced that it had […]\nThe post Telespazio Awarded €20 Million Contract for Canary Islands Constellation appeared first on European Spaceflight.",
-    "published_at": "2026-02-24T10:19:40Z",
-    "updated_at": "2026-02-24T19:50:15.379072Z",
     "featured": false,
     "launches": [],
     "events": [],
