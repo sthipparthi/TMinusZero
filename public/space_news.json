@@ -1,5 +1,109 @@
 [
   {
+    "id": 36500,
+    "title": "NASA astronaut says his medical issue led to early return from the ISS",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-astronaut-says-his-medical-issue-led-to-early-return-from-the-iss/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/fincke-crew11.jpeg?fit=1024%2C635&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "NASA astronaut Mike Fincke said he was the crew member whose medical issue prompted the early return of the Crew-11 mission from the International Space Station last month.\r\nThe post NASA astronaut says his medical issue led to early return from the ISS appeared first on SpaceNews.",
+    "published_at": "2026-02-26T11:44:08Z",
+    "updated_at": "2026-02-26T12:03:13.305225Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "88b4b179-c4ed-4bd1-868d-ced568a2342a",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36499,
+    "title": "China’s Tianwen-2 probe operating normally on approach to asteroid",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Tianwen2-spacecraft-earth-oct2025release-CNSA.jpg?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChina’s Tianwen-2 spacecraft is operating normally on its way to a near-Earth asteroid ahead of sampling later this year, according to a rare official update.\nThe post China’s Tianwen-2 probe operating normally on approach to asteroid appeared first on SpaceNews.",
+    "published_at": "2026-02-26T11:08:55Z",
+    "updated_at": "2026-02-26T11:10:32.506096Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36498,
+    "title": "Bowersox to retire from NASA",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/bowersox-to-retire-from-nasa/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/bowersox-ascendx.jpeg?fit=1024%2C579&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nKen Bowersox, NASA’s associate administrator for space operations, is retiring from the agency after the release of a report critical of NASA’s handling of the Starliner crewed test flight.\nThe post Bowersox to retire from NASA appeared first on SpaceNews.",
+    "published_at": "2026-02-26T09:55:31Z",
+    "updated_at": "2026-02-26T10:00:23.479546Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36497,
+    "title": "Space Force halts Vulcan missions pending investigation into solid rocket Issue",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/55091188472_c01b4e3cdc_k.jpg?fit=1024%2C732&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Delay complicates ULA’s push to accelerate launch cadence\r\nThe post Space Force halts Vulcan missions pending investigation into solid rocket Issue appeared first on SpaceNews.",
+    "published_at": "2026-02-26T07:14:56Z",
+    "updated_at": "2026-02-26T08:23:01.719399Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "550f778d-6c2d-41fc-b182-6f0cd8feda93",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36496,
     "title": "Dry-Season Floods Drench Northern Colombia",
     "authors": [
@@ -353,26 +457,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36474,
-    "title": "Ganymede aurora study links moon and Earth space weather",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/juno-ganymede-ultraviolet-aurorae-artist-views-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London (SDX) Feb 25, 2026\n\n\nNew observations of Jupiter's largest moon, Ganymede, reveal that its auroras share detailed structural similarities with auroras on Earth, suggesting that the physical processes that generate these lights may be universal across different types of celestial bodies. \n\nA team from the Laboratory of Atmospheric and Planetary Physics (LPAP) at the University of Liege has used NASA's Juno spacec",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.069654Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36479,
     "title": "Brain learns faster from rare rewards than from repetition",
     "authors": [
@@ -387,46 +471,6 @@
     "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nMore than a century after Pavlov trained dogs to link a bell with food, neuroscientists at the University of California, San Francisco report that the brain may rely more on the timing of rewards than on sheer repetition when forming associative memories of cues and outcomes. Their work suggests that what matters for learning is how far apart cue-reward experiences are spaced in time, rather tha",
     "published_at": "2026-02-25T10:14:21Z",
     "updated_at": "2026-02-25T10:20:27.380872Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36478,
-    "title": "Infleqtion lists shares on NYSE as neutral atom quantum firm",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/infleqtion-neutral-atom-quantum-company-ipo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nInfleqtion, a provider of neutral atom based quantum computing and sensing systems, has completed its business combination with Churchill Capital Corp X and is now listed on the New York Stock Exchange under the ticker symbol INFQ. The company describes itself as well capitalized, reporting more than 550 million dollars in gross proceeds from the transaction, including nearly all of the cash hel",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.269311Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36475,
-    "title": "AST SpaceMobile wins SDA HALO Europa contract for direct to device tactical links",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AST_SpaceMobile_wins_SDA_HALO_Europa_contract_for_direct_to_device_tactical_links_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-prime-sda-halo-europa-program-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (SDX) Feb 23, 2026\n\n\nAST SpaceMobile has secured a prime contract worth about 30 million dollars with the United States Space Development Agency for the Europa Track 2 Commercial Solutions program under the Hybrid Acquisition for proliferated Low Earth Orbit, or HALO, initiative. \n\nThe agreement calls for AST SpaceMobile to use its BlueBird low Earth orbit satellite constellation to demonstrate resilient, low la",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.085587Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -453,20 +497,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36477,
-    "title": "Superconducting thruster cuts power and mass for space propulsion",
+    "id": 36475,
+    "title": "AST SpaceMobile wins SDA HALO Europa contract for direct to device tactical links",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-high-temperature-superconducting-applied-field-mpd-thruster-schematic-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/AST_SpaceMobile_wins_SDA_HALO_Europa_contract_for_direct_to_device_tactical_links_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-prime-sda-halo-europa-program-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Singapore (SDX) Feb 25, 2026\n\n\nSmall satellites have become attractive for space missions because they offer low cost and flexibility, but their growth has been limited by the lack of compact, efficient propulsion systems that work well in the vacuum of space. In orbit, spacecraft can only change their motion through reaction force, and traditional chemical rockets produce thrust by burning fuel to generate high temperature g",
+    "summary": "New York (SDX) Feb 23, 2026\n\n\nAST SpaceMobile has secured a prime contract worth about 30 million dollars with the United States Space Development Agency for the Europa Track 2 Commercial Solutions program under the Hybrid Acquisition for proliferated Low Earth Orbit, or HALO, initiative. \n\nThe agreement calls for AST SpaceMobile to use its BlueBird low Earth orbit satellite constellation to demonstrate resilient, low la",
     "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.178139Z",
+    "updated_at": "2026-02-25T10:20:27.085587Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -487,6 +531,66 @@
     "summary": "New York (SDX) Feb 25, 2026\n\n\nIn Earth history, a few episodes stand out for their extreme cold, when geologic evidence indicates that ice covered the planet from pole to pole during so-called Snowball Earth events. These episodes represent some of the coldest conditions the planet has ever experienced, with the entire surface essentially below the freezing point of water. Scientists link the onset and end of these global gl",
     "published_at": "2026-02-25T10:14:21Z",
     "updated_at": "2026-02-25T10:20:27.167701Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36474,
+    "title": "Ganymede aurora study links moon and Earth space weather",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/juno-ganymede-ultraviolet-aurorae-artist-views-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "London (SDX) Feb 25, 2026\n\n\nNew observations of Jupiter's largest moon, Ganymede, reveal that its auroras share detailed structural similarities with auroras on Earth, suggesting that the physical processes that generate these lights may be universal across different types of celestial bodies. \n\nA team from the Laboratory of Atmospheric and Planetary Physics (LPAP) at the University of Liege has used NASA's Juno spacec",
+    "published_at": "2026-02-25T10:14:21Z",
+    "updated_at": "2026-02-25T10:20:27.069654Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36478,
+    "title": "Infleqtion lists shares on NYSE as neutral atom quantum firm",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/infleqtion-neutral-atom-quantum-company-ipo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nInfleqtion, a provider of neutral atom based quantum computing and sensing systems, has completed its business combination with Churchill Capital Corp X and is now listed on the New York Stock Exchange under the ticker symbol INFQ. The company describes itself as well capitalized, reporting more than 550 million dollars in gross proceeds from the transaction, including nearly all of the cash hel",
+    "published_at": "2026-02-25T10:14:21Z",
+    "updated_at": "2026-02-25T10:20:27.269311Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36477,
+    "title": "Superconducting thruster cuts power and mass for space propulsion",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-high-temperature-superconducting-applied-field-mpd-thruster-schematic-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Singapore (SDX) Feb 25, 2026\n\n\nSmall satellites have become attractive for space missions because they offer low cost and flexibility, but their growth has been limited by the lack of compact, efficient propulsion systems that work well in the vacuum of space. In orbit, spacecraft can only change their motion through reaction force, and traditional chemical rockets produce thrust by burning fuel to generate high temperature g",
+    "published_at": "2026-02-25T10:14:21Z",
+    "updated_at": "2026-02-25T10:20:27.178139Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -845,26 +949,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36454,
-    "title": "India chases 'DeepSeek moment' with homegrown AI models",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/India_chases_DeepSeek_moment_with_homegrown_AI_models_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/data-spix-1-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New Delhi (AFP) Feb 20, 2026\n\n\n Fledgling Indian artificial intelligence companies showcased homegrown technologies this week at a major summit in New Delhi, underpinning big dreams of becoming a global AI power. \n\nBut analysts said the country was unlikely to have a \"DeepSeek moment\" - the sort of boom China had last year with a high-performance, low-cost chatbot - any time soon. \n\nStill, building custom AI tools could",
-    "published_at": "2026-02-24T11:35:37Z",
-    "updated_at": "2026-02-24T11:40:20.702141Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36455,
     "title": "TotalEnergies in high-stakes French trial over climate change",
     "authors": [
@@ -879,6 +963,26 @@
     "summary": "Paris, France (AFP) Feb 20, 2026\n\n\n TotalEnergies faces cutting back oil and gas production if NGOs prevail in a trial that began Thursday over accusations the French energy giant failed to properly consider environmental risks. \n\nThe case, brought by several NGOs and the city of Paris, is based upon a 2017 law that imposed a \"duty of vigilance\" on large companies. \n\nThe law seeks to counter companies offloading responsibility",
     "published_at": "2026-02-24T11:35:37Z",
     "updated_at": "2026-02-24T11:40:20.739750Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36454,
+    "title": "India chases 'DeepSeek moment' with homegrown AI models",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/India_chases_DeepSeek_moment_with_homegrown_AI_models_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/data-spix-1-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "New Delhi (AFP) Feb 20, 2026\n\n\n Fledgling Indian artificial intelligence companies showcased homegrown technologies this week at a major summit in New Delhi, underpinning big dreams of becoming a global AI power. \n\nBut analysts said the country was unlikely to have a \"DeepSeek moment\" - the sort of boom China had last year with a high-performance, low-cost chatbot - any time soon. \n\nStill, building custom AI tools could",
+    "published_at": "2026-02-24T11:35:37Z",
+    "updated_at": "2026-02-24T11:40:20.702141Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -919,86 +1023,6 @@
     "summary": "Telespazio Ibérica, the Spanish subsidiary of the Italian space technology company Telespazio, has been awarded a €20 million contract to develop an Earth observation constellation for the Canary Islands. In September 2025, the Tenerife Island Council, the largest and most populous island of the Canary Islands, an autonomous community of Spain, announced that it had […]\nThe post Telespazio Awarded €20 Million Contract for Canary Islands Constellation appeared first on European Spaceflight.",
     "published_at": "2026-02-24T10:19:40Z",
     "updated_at": "2026-02-24T19:50:15.379072Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36443,
-    "title": "Record LOFAR Radio Sky Map Charts Millions Of Growing Black Holes",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Record_LOFAR_Radio_Sky_Map_Charts_Millions_Of_Growing_Black_Holes_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lofar-surveys-supermassive-black-holes-radio-lobes-maya-horton-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London (SDX) Feb 23, 2026\n\n\nAn international team using the Low Frequency Array has released the most detailed low frequency radio map of the sky so far, revealing 13.7 million cosmic radio sources and delivering an unprecedented census of actively growing supermassive black holes across the universe. The new LOFAR Two-metre Sky Survey Data Release 3 also showcases a remarkable variety of systems powered by these black hol",
-    "published_at": "2026-02-24T08:42:37Z",
-    "updated_at": "2026-02-24T08:50:33.848721Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36451,
-    "title": "AI-driven solar model aims to extend space weather warnings",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AI_driven_solar_model_aims_to_extend_space_weather_warnings_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/pinnbards-physics-informed-neural-network-solar-active-magnetic-toroid-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (SDX) Feb 23, 2026\n\n\nNew research by Southwest Research Institute and the National Science Foundation's National Center for Atmospheric Research has produced a new tool that could eventually extend space weather forecasts from hours to weeks. The approach aims to provide earlier warnings of solar activity that can disrupt GPS, power grids, satellites and astronaut operations. \n\nThe work targets a longstanding he",
-    "published_at": "2026-02-24T08:42:37Z",
-    "updated_at": "2026-02-24T08:50:34.070247Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36449,
-    "title": "Open source microscope enables low cost live cell imaging in zero gravity",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Open_source_microscope_enables_low_cost_live_cell_imaging_in_zero_gravity_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/tom-wareing-zero-gravity-parabolic-flight-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (SDX) Feb 23, 2026\n\n\nAs space agencies advance plans for human missions to the Moon and Mars, researchers are working to understand how the absence of gravity affects living cells over time. A team led by Newcastle University in the United Kingdom has now developed a rugged, low cost microscope platform that can monitor living cells in real time during zero gravity, and they are making the system openly available to",
-    "published_at": "2026-02-24T08:42:37Z",
-    "updated_at": "2026-02-24T08:50:33.982611Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36447,
-    "title": "Prometheus starts work on new Indiana solid rocket motor campus",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Prometheus_starts_work_on_new_Indiana_solid_rocket_motor_campus_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/aerojet-rocketdyne-kratos-zeus-1-solid-rocket-motor-test-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (SDX) Feb 23, 2026\n\n\nPrometheus Energetics LLC has begun construction of a new solid rocket motor manufacturing campus in Bloomfield, Indiana, marking a key step in the companys plan to expand domestic energetics production capacity. The groundbreaking ceremony, hosted with the American Center for Manufacturing and Innovation, brought together senior government representatives, state and local officials, industry pa",
-    "published_at": "2026-02-24T08:42:37Z",
-    "updated_at": "2026-02-24T08:50:33.958320Z",
     "featured": false,
     "launches": [],
     "events": [],
