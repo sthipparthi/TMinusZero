@@ -1,5 +1,65 @@
 [
   {
+    "id": 36525,
+    "title": "China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-set-for-its-first-one-year-human-spaceflight-mission-confirms-pakistani-astronaut-flight/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Shenzhou21-EVA1-9dec2025-CMSEO.jpg?fit=1024%2C574&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChina will begin its first one-year duration astronaut mission this year, while the first international astronaut will make a short visit to Tiangong space station.\nThe post China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight appeared first on SpaceNews.",
+    "published_at": "2026-02-27T10:09:46Z",
+    "updated_at": "2026-02-27T10:10:28.688625Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36524,
+    "title": "Earth from Space: Terra Nova Bay, Antarctica",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Terra_Nova_Bay_Antarctica",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/earth_from_space_terra_nova_bay_antarctica/27128521-1-eng-GB/Earth_from_Space_Terra_Nova_Bay_Antarctica_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-02-27T09:00:00Z",
+    "updated_at": "2026-02-27T09:30:38.648277Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36522,
+    "title": "ArianeGroup Test Fires Greta Engine and Secures New ESA Contract",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/arianegroup-test-fires-greta-engine-and-secures-new-esa-contract/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/ArianeGroup-Test-Fires-Greta-Engine-and-Secures-New-ESA-Contract.webp",
+    "news_site": "European Spaceflight",
+    "summary": "ArianeGroup announced on 25 February that it had successfully completed a months-long test campaign of its Greta rocket engine and secured a European Space Agency contract to continue its development. Greta is an evolution of the Berta rocket engine, which was also developed by ArianeGroup under an ESA Future Launchers Preparatory Programme contract and first […]\nThe post ArianeGroup Test Fires Greta Engine and Secures New ESA Contract appeared first on European Spaceflight.",
+    "published_at": "2026-02-27T07:02:22Z",
+    "updated_at": "2026-02-27T08:30:14.737455Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36520,
     "title": "Chesapeake Bay Locked in Ice",
     "authors": [
@@ -307,6 +367,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36521,
+    "title": "Navigation Training Course now open for application",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Education/ESA_Academy/Navigation_Training_Course_now_open_for_application3",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/group_picture_on_the_last_day_of_the_second_edition_of_the_navigation_training_course/27129276-1-eng-GB/Group_picture_on_the_last_day_of_the_second_edition_of_the_Navigation_Training_Course_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "ESA Academy is inviting university students to apply for the Navigation Training Course, taking place from 22 to 26 June 2026 at ESA Academy’s Training and Learning Facility in ESA ESEC, Belgium. Organized in collaboration with ESA Education and ESA’s Directorate of Navigation, this course is perfect for those curious about the future of satellite navigation",
+    "published_at": "2026-02-26T14:41:00Z",
+    "updated_at": "2026-02-27T08:10:19.660790Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36504,
     "title": "NordSpace founder backs Wyvern with new Canada-focused venture arm",
     "authors": [
@@ -397,6 +477,31 @@
     "updated_at": "2026-02-26T13:00:42.141635Z",
     "featured": false,
     "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36523,
+    "title": "First glimpse of comet 3I/ATLAS from Juice science camera",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/First_glimpse_of_comet_3I_ATLAS_from_Juice_science_camera",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/first_glimpse_of_comet_3i_atlas_from_juice_science_camera/27129229-1-eng-GB/First_glimpse_of_comet_3I_ATLAS_from_Juice_science_camera_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-02-26T12:54:00Z",
+    "updated_at": "2026-02-27T10:08:19.231982Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "4066e51e-93ce-46f7-9806-9d2d712107a6",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -878,100 +983,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36477,
-    "title": "Superconducting thruster cuts power and mass for space propulsion",
+    "id": 36478,
+    "title": "Infleqtion lists shares on NYSE as neutral atom quantum firm",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-high-temperature-superconducting-applied-field-mpd-thruster-schematic-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/infleqtion-neutral-atom-quantum-company-ipo-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Singapore (SDX) Feb 25, 2026\n\n\nSmall satellites have become attractive for space missions because they offer low cost and flexibility, but their growth has been limited by the lack of compact, efficient propulsion systems that work well in the vacuum of space. In orbit, spacecraft can only change their motion through reaction force, and traditional chemical rockets produce thrust by burning fuel to generate high temperature g",
+    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nInfleqtion, a provider of neutral atom based quantum computing and sensing systems, has completed its business combination with Churchill Capital Corp X and is now listed on the New York Stock Exchange under the ticker symbol INFQ. The company describes itself as well capitalized, reporting more than 550 million dollars in gross proceeds from the transaction, including nearly all of the cash hel",
     "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.178139Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36475,
-    "title": "AST SpaceMobile wins SDA HALO Europa contract for direct to device tactical links",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AST_SpaceMobile_wins_SDA_HALO_Europa_contract_for_direct_to_device_tactical_links_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/ast-spacemobile-prime-sda-halo-europa-program-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (SDX) Feb 23, 2026\n\n\nAST SpaceMobile has secured a prime contract worth about 30 million dollars with the United States Space Development Agency for the Europa Track 2 Commercial Solutions program under the Hybrid Acquisition for proliferated Low Earth Orbit, or HALO, initiative. \n\nThe agreement calls for AST SpaceMobile to use its BlueBird low Earth orbit satellite constellation to demonstrate resilient, low la",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.085587Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36473,
-    "title": "Rare lensed supernova offers new route to measure cosmic expansion",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Rare_lensed_supernova_offers_new_route_to_measure_cosmic_expansion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gravity-lense-lbt--two-lens-galaxies-plus-five-copies-of-sn-winny-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London (SDX) Feb 25, 2026\n\n\nThat the universe is expanding has been known for almost a century, but its exact rate of expansion remains one of cosmology's most hotly debated questions. A team from the Technical University of Munich (TUM), Ludwig Maximilians University (LMU) and the Max Planck Institutes for Astrophysics (MPA) and for Extraterrestrial Physics (MPE) has now imaged and modelled an exceptionally rare supernova",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:26.967105Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36474,
-    "title": "Ganymede aurora study links moon and Earth space weather",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/juno-ganymede-ultraviolet-aurorae-artist-views-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London (SDX) Feb 25, 2026\n\n\nNew observations of Jupiter's largest moon, Ganymede, reveal that its auroras share detailed structural similarities with auroras on Earth, suggesting that the physical processes that generate these lights may be universal across different types of celestial bodies. \n\nA team from the Laboratory of Atmospheric and Planetary Physics (LPAP) at the University of Liege has used NASA's Juno spacec",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.069654Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36479,
-    "title": "Brain learns faster from rare rewards than from repetition",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Brain_learns_faster_from_rare_rewards_than_from_repetition_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/machine-brain-ai-robot-cyborg-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nMore than a century after Pavlov trained dogs to link a bell with food, neuroscientists at the University of California, San Francisco report that the brain may rely more on the timing of rewards than on sheer repetition when forming associative memories of cues and outcomes. Their work suggests that what matters for learning is how far apart cue-reward experiences are spaced in time, rather tha",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.380872Z",
+    "updated_at": "2026-02-25T10:20:27.269311Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -998,40 +1023,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36478,
-    "title": "Infleqtion lists shares on NYSE as neutral atom quantum firm",
+    "id": 36474,
+    "title": "Ganymede aurora study links moon and Earth space weather",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/infleqtion-neutral-atom-quantum-company-ipo-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/juno-ganymede-ultraviolet-aurorae-artist-views-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nInfleqtion, a provider of neutral atom based quantum computing and sensing systems, has completed its business combination with Churchill Capital Corp X and is now listed on the New York Stock Exchange under the ticker symbol INFQ. The company describes itself as well capitalized, reporting more than 550 million dollars in gross proceeds from the transaction, including nearly all of the cash hel",
+    "summary": "London (SDX) Feb 25, 2026\n\n\nNew observations of Jupiter's largest moon, Ganymede, reveal that its auroras share detailed structural similarities with auroras on Earth, suggesting that the physical processes that generate these lights may be universal across different types of celestial bodies. \n\nA team from the Laboratory of Atmospheric and Planetary Physics (LPAP) at the University of Liege has used NASA's Juno spacec",
     "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.269311Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36472,
-    "title": "Students kick off experiments on ESA’s flat floor",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/02/Students_kick_off_experiments_on_ESA_s_flat_floor",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/students_kick_off_experiments_on_esa_s_flat_floor/27126045-1-eng-GB/Students_kick_off_experiments_on_ESA_s_flat_floor_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-02-25T09:27:00Z",
-    "updated_at": "2026-02-25T09:30:26.139141Z",
+    "updated_at": "2026-02-25T10:20:27.069654Z",
     "featured": false,
     "launches": [],
     "events": [],
