@@ -1,5 +1,85 @@
 [
   {
+    "id": 36520,
+    "title": "Chesapeake Bay Locked in Ice",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/chesapeake-bay-locked-in-ice/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/chesapeake-bay-locked-in-ice/chesapeake_mss_19770208.jpg",
+    "news_site": "NASA",
+    "summary": "Nearly 50 years ago, the first Landsat satellite captured the rare sight of Mid-Atlantic waterways frozen over.",
+    "published_at": "2026-02-27T05:00:00Z",
+    "updated_at": "2026-02-27T05:10:10.029841Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36519,
+    "title": "NASA Safety Panel Warns of “High Risk” for Artemis III",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-safety-panel-warns-of-high-risk-for-artemis-iii/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2024/07/Susan-Helms-Aerospace-website.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "As NASA prepares to launch the Artemis II crew around the Moon in the very near future, the Aerospace Safety Advisory Panel (ASAP) is raising warning flags about the next […]",
+    "published_at": "2026-02-27T03:49:47Z",
+    "updated_at": "2026-02-27T03:50:19.962973Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36518,
+    "title": "Live coverage: SpaceX planning pre-dawn Falcon 9 launch from Cape Canaveral of 29 Starlink satellites",
+    "authors": [
+      {
+        "name": "Spaceflight Now",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/02/27/live-coverage-spacex-planning-pre-dawn-falcon-9-launch-from-cape-canaveral-of-29-starlink-satellites/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff from pad 40 at Cape Canaveral Space Force Station in Florida with 29 Starlink satellites is scheduled for 5:20:50 a.m. EST (1020:50 UTC). ",
+    "published_at": "2026-02-27T01:14:27Z",
+    "updated_at": "2026-02-27T01:21:01.548938Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36517,
+    "title": "Two Top NASA Spaceflight Leaders Replaced",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/two-top-nasa-spaceflight-leaders-replaced/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Montalbano-240x300.webp",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "One week after promising leadership changes stemming from the 2024 Boeing Starliner Crew Flight Test incident, NASA Administrator Jared Isaacman has replaced the heads of the Space Operations Mission Directorate […]",
+    "published_at": "2026-02-27T00:43:25Z",
+    "updated_at": "2026-02-27T00:50:41.371459Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36516,
     "title": "Space Force keeps door open to future human presence in orbit",
     "authors": [
@@ -254,26 +334,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36502,
-    "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_2element_graphic_ca.png?fit=879%2C494&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – CesiumAstro announced the acquisition Feb. 26 of Vidrovr, a startup that specializes in artificial intelligence for multimodal signals analysis. Terms of the transaction, which closed in late 2025, were not disclosed. CesiumAstro acquired Vidrovr to accelerate its campaign to embed AI in space telecommunications and intelligence, surveillance and reconnaissance infrastructure, enabling radio-frequency […]\nThe post CesiumAstro acquires Vidrovr to embed AI in communications systems appeared first on SpaceNews.",
-    "published_at": "2026-02-26T13:00:00Z",
-    "updated_at": "2026-02-26T13:00:42.141635Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36503,
     "title": "Phantom Space reclaims former Vector launch technology",
     "authors": [
@@ -315,6 +375,26 @@
     "summary": "\nFounder Fatih Ozmen, who was interim CEO, remains board chair \nThe post Sierra Space names Dan Jablonsky CEO appeared first on SpaceNews.",
     "published_at": "2026-02-26T13:00:00Z",
     "updated_at": "2026-02-26T13:00:42.052703Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36502,
+    "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_2element_graphic_ca.png?fit=879%2C494&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – CesiumAstro announced the acquisition Feb. 26 of Vidrovr, a startup that specializes in artificial intelligence for multimodal signals analysis. Terms of the transaction, which closed in late 2025, were not disclosed. CesiumAstro acquired Vidrovr to accelerate its campaign to embed AI in space telecommunications and intelligence, surveillance and reconnaissance infrastructure, enabling radio-frequency […]\nThe post CesiumAstro acquires Vidrovr to embed AI in communications systems appeared first on SpaceNews.",
+    "published_at": "2026-02-26T13:00:00Z",
+    "updated_at": "2026-02-26T13:00:42.141635Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -798,40 +878,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36479,
-    "title": "Brain learns faster from rare rewards than from repetition",
+    "id": 36477,
+    "title": "Superconducting thruster cuts power and mass for space propulsion",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Brain_learns_faster_from_rare_rewards_than_from_repetition_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/machine-brain-ai-robot-cyborg-marker-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-high-temperature-superconducting-applied-field-mpd-thruster-schematic-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nMore than a century after Pavlov trained dogs to link a bell with food, neuroscientists at the University of California, San Francisco report that the brain may rely more on the timing of rewards than on sheer repetition when forming associative memories of cues and outcomes. Their work suggests that what matters for learning is how far apart cue-reward experiences are spaced in time, rather tha",
+    "summary": "Singapore (SDX) Feb 25, 2026\n\n\nSmall satellites have become attractive for space missions because they offer low cost and flexibility, but their growth has been limited by the lack of compact, efficient propulsion systems that work well in the vacuum of space. In orbit, spacecraft can only change their motion through reaction force, and traditional chemical rockets produce thrust by burning fuel to generate high temperature g",
     "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.380872Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36473,
-    "title": "Rare lensed supernova offers new route to measure cosmic expansion",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Rare_lensed_supernova_offers_new_route_to_measure_cosmic_expansion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/gravity-lense-lbt--two-lens-galaxies-plus-five-copies-of-sn-winny-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London (SDX) Feb 25, 2026\n\n\nThat the universe is expanding has been known for almost a century, but its exact rate of expansion remains one of cosmology's most hotly debated questions. A team from the Technical University of Munich (TUM), Ludwig Maximilians University (LMU) and the Max Planck Institutes for Astrophysics (MPA) and for Extraterrestrial Physics (MPE) has now imaged and modelled an exceptionally rare supernova",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:26.967105Z",
+    "updated_at": "2026-02-25T10:20:27.178139Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -858,40 +918,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36477,
-    "title": "Superconducting thruster cuts power and mass for space propulsion",
+    "id": 36473,
+    "title": "Rare lensed supernova offers new route to measure cosmic expansion",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-high-temperature-superconducting-applied-field-mpd-thruster-schematic-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Rare_lensed_supernova_offers_new_route_to_measure_cosmic_expansion_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/gravity-lense-lbt--two-lens-galaxies-plus-five-copies-of-sn-winny-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Singapore (SDX) Feb 25, 2026\n\n\nSmall satellites have become attractive for space missions because they offer low cost and flexibility, but their growth has been limited by the lack of compact, efficient propulsion systems that work well in the vacuum of space. In orbit, spacecraft can only change their motion through reaction force, and traditional chemical rockets produce thrust by burning fuel to generate high temperature g",
+    "summary": "London (SDX) Feb 25, 2026\n\n\nThat the universe is expanding has been known for almost a century, but its exact rate of expansion remains one of cosmology's most hotly debated questions. A team from the Technical University of Munich (TUM), Ludwig Maximilians University (LMU) and the Max Planck Institutes for Astrophysics (MPA) and for Extraterrestrial Physics (MPE) has now imaged and modelled an exceptionally rare supernova",
     "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.178139Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36478,
-    "title": "Infleqtion lists shares on NYSE as neutral atom quantum firm",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/infleqtion-neutral-atom-quantum-company-ipo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nInfleqtion, a provider of neutral atom based quantum computing and sensing systems, has completed its business combination with Churchill Capital Corp X and is now listed on the New York Stock Exchange under the ticker symbol INFQ. The company describes itself as well capitalized, reporting more than 550 million dollars in gross proceeds from the transaction, including nearly all of the cash hel",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.269311Z",
+    "updated_at": "2026-02-25T10:20:26.967105Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -918,6 +958,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36479,
+    "title": "Brain learns faster from rare rewards than from repetition",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Brain_learns_faster_from_rare_rewards_than_from_repetition_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/machine-brain-ai-robot-cyborg-marker-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nMore than a century after Pavlov trained dogs to link a bell with food, neuroscientists at the University of California, San Francisco report that the brain may rely more on the timing of rewards than on sheer repetition when forming associative memories of cues and outcomes. Their work suggests that what matters for learning is how far apart cue-reward experiences are spaced in time, rather tha",
+    "published_at": "2026-02-25T10:14:21Z",
+    "updated_at": "2026-02-25T10:20:27.380872Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36476,
     "title": "Seafloor weathering may explain ancient global glaciation puzzle",
     "authors": [
@@ -938,6 +998,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36478,
+    "title": "Infleqtion lists shares on NYSE as neutral atom quantum firm",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/infleqtion-neutral-atom-quantum-company-ipo-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nInfleqtion, a provider of neutral atom based quantum computing and sensing systems, has completed its business combination with Churchill Capital Corp X and is now listed on the New York Stock Exchange under the ticker symbol INFQ. The company describes itself as well capitalized, reporting more than 550 million dollars in gross proceeds from the transaction, including nearly all of the cash hel",
+    "published_at": "2026-02-25T10:14:21Z",
+    "updated_at": "2026-02-25T10:20:27.269311Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36472,
     "title": "Students kick off experiments on ESA’s flat floor",
     "authors": [
@@ -952,91 +1032,6 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-02-25T09:27:00Z",
     "updated_at": "2026-02-25T09:30:26.139141Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36484,
-    "title": "First MetOp Second Generation-B satellite spreads its wing",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp_Second_Generation-B_satellite_spreads_its_wing",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/metop-sg-b1_opens_wing/27122552-2-eng-GB/MetOp-SG-B1_opens_wing_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "With launch planned for later this year, testing is well underway to ensure the MetOp Second Generation-B1 weather satellite is ready for its life in orbit around Earth. These checks include verifying that its spectacular four-panel, 11-metre-long, solar wing will deploy correctly.",
-    "published_at": "2026-02-25T09:20:00Z",
-    "updated_at": "2026-02-25T13:28:43.321874Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "22e117bf-041c-49d5-9d09-7b180036e143",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36471,
-    "title": "Greta rocket engine completes first test campaign",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Greta_rocket_engine_completes_first_test_campaign",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/greta_fires_up/27125368-1-eng-GB/Greta_fires_up_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-02-25T07:30:00Z",
-    "updated_at": "2026-02-25T09:20:44.699532Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36470,
-    "title": "No Mention of Artemis in SOTU, But Trump Briefly References Rockets to the Stars",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/no-mention-of-artemis-in-sotu-but-trump-briefly-references-rockets-to-the-stars/",
-    "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "In a nearly two-hour State of the Union address Tuesday evening, President Trump briefly mentioned launching humans “into the stars” as part of a review of America’s history, but not […]",
-    "published_at": "2026-02-25T05:06:32Z",
-    "updated_at": "2026-02-25T05:10:20.068671Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36469,
-    "title": "Landslide and Avalanche Debris Litter Hubbard Glacier",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/landslide-and-avalanche-debris-litter-hubbard-glacier/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/landslide-and-avalanche-debris-litter-hubbard-glacier/hubbardearthquakewide_nisar_20251126.jpg",
-    "news_site": "NASA",
-    "summary": "Satellite-based radar images show where a powerful earthquake in the Yukon, Canada, sent rock, snow, and ice spilling across the frozen landscapes of the St. Elias Mountains.",
-    "published_at": "2026-02-25T05:00:00Z",
-    "updated_at": "2026-02-25T05:10:11.201455Z",
     "featured": false,
     "launches": [],
     "events": [],
