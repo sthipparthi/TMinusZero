@@ -1,5 +1,219 @@
 [
   {
+    "id": 36536,
+    "title": "NASA announces major overhaul of Artemis moon program:  “We’ve got to get back to basics”",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/02/27/nasa-announces-major-overhaul-of-artemis-moon-program/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260227-hls_surface_elevator_down.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "New NASA Administrator Jared Isaacman announced a major overhaul of the agency's Artemis moon program Friday, acknowledging that the agency's plan to land astronauts on the moon in 2028 was not realistic without another preparatory mission first to lay the groundwork.  ",
+    "published_at": "2026-02-27T17:31:13Z",
+    "updated_at": "2026-02-27T17:41:12.632383Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36535,
+    "title": "NASA’s Home for Experimental Flight Advances Aeronautics Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-home-for-experimental-flight-advances-aeronautics-mission/",
+    "image_url": "https://images-assets.nasa.gov/image/AFRC2025-0071-386/AFRC2025-0071-386~large.jpg",
+    "news_site": "NASA",
+    "summary": "Nestled in the Mojave Desert, NASA’s Armstrong Flight Research Center in Edwards, California, pushes the boundaries of flight to advance the agency’s aeronautics mission. This is where Chuck Yeager broke the sound barrier and engineers are now pioneering the future of high-speed, autonomous, and electrified aircraft. Armstrong contributes to NASA’s broader mission of innovation and […]",
+    "published_at": "2026-02-27T16:46:41Z",
+    "updated_at": "2026-02-27T16:50:11.131615Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36534,
+    "title": "Flight 12: Ship 39 rolls out to Masseys to begin testing",
+    "authors": [
+      {
+        "name": "Ryan Weber",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/02/ship-39-masseys-testing/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/Ship-39-preparing-for-rollout-to-Masseys-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "After spending a few months in Mega Bay 2 fully stacked, Ship 39 – the…\nThe post Flight 12: Ship 39 rolls out to Masseys to begin testing appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-02-27T16:12:08Z",
+    "updated_at": "2026-02-27T16:20:18.879806Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36532,
+    "title": "NASA Adds Mission to Artemis Lunar Program, Updates Architecture",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/ksc-20260225-ph-csh01-0077large.jpg",
+    "news_site": "NASA",
+    "summary": "As part of a Golden Age of exploration and discovery, NASA announced Friday the agency is increasing its cadence of missions under the Artemis program to achieve the national objective of returning American astronauts to the Moon and establishing an enduring presence. This includes standardizing vehicle configuration, adding an additional mission in 2027, and undertaking at least one surface […]",
+    "published_at": "2026-02-27T15:37:07Z",
+    "updated_at": "2026-02-27T15:40:34.670614Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36530,
+    "title": "NASA revises plans for future Artemis missions, cancels upgrades to SLS",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-revises-plans-for-future-artemis-missions-cancels-upgrades-to-sls/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/art2-20260202.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA announced major changes to its Artemis lunar architecture, adding a test flight of lunar landers in low Earth orbit while canceling planned upgrades to the Space Launch System.\nThe post NASA revises plans for future Artemis missions, cancels upgrades to SLS appeared first on SpaceNews.",
+    "published_at": "2026-02-27T15:09:48Z",
+    "updated_at": "2026-02-27T15:10:32.400474Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36531,
+    "title": "NASA shakes up its Artemis program to speed up lunar return",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-1753395940.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"Launching SLS every three and a half years or so is not a recipe for success.\"",
+    "published_at": "2026-02-27T15:08:08Z",
+    "updated_at": "2026-02-27T15:20:19.049967Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36533,
+    "title": "In-flight call with ESA astronaut Sophie Adenot",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/02/In-flight_call_with_ESA_astronaut_Sophie_Adenot",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/02/in-flight_call_with_esa_astronaut_sophie_adenot/27131833-1-eng-GB/In-flight_call_with_ESA_astronaut_Sophie_Adenot_card_full.png",
+    "news_site": "ESA",
+    "summary": "On 26 February, ESA astronaut Sophie Adenot conducted her first in-flight call with selected French media.",
+    "published_at": "2026-02-27T15:00:00Z",
+    "updated_at": "2026-02-27T16:01:25.005356Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36528,
+    "title": "Week in images: 23-27 February 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_February_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/webb_examines_cranium_nebula/27127912-1-eng-GB/Webb_Examines_Cranium_Nebula_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Week in images: 23-27 February 2026",
+    "published_at": "2026-02-27T14:15:00Z",
+    "updated_at": "2026-02-27T14:10:47.981846Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36527,
+    "title": "Rocket Lab delays Neutron debut to late 2026",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/Screenshot-2024-11-03-at-4.57.16%E2%80%AFPM.png?fit=1024%2C666&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe failure of a propellant tank during testing in January will delay the first launch of Rocket Lab’s Neutron rocket to at least the fourth quarter of this year.\nThe post Rocket Lab delays Neutron debut to late 2026 appeared first on SpaceNews.",
+    "published_at": "2026-02-27T12:53:07Z",
+    "updated_at": "2026-02-27T13:02:31.226677Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36526,
+    "title": "Rocket Report: Neutron launch date is delayed again; Vector Launch is back—sort of",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Neutron-Hungry-Hippo.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"As the original architect of Vector’s vision, it’s deeply meaningful to bring these assets home.\"",
+    "published_at": "2026-02-27T12:00:13Z",
+    "updated_at": "2026-02-27T12:10:09.076507Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36525,
     "title": "China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight",
     "authors": [
@@ -414,27 +628,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36503,
-    "title": "Phantom Space reclaims former Vector launch technology",
+    "id": 36502,
+    "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
     "authors": [
       {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
+        "name": "Debra Werner",
+        "socials": null
       }
     ],
-    "url": "https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/11/Phantom_Space___Hot_Fire_Test.jpg?fit=1024%2C747&ssl=1",
+    "url": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_2element_graphic_ca.png?fit=879%2C494&ssl=1",
     "news_site": "SpaceNews",
-    "summary": "\nRemnants of Vector Launch have made it back to one of its original architects after Phantom Space bought launch assets that were sold off in 2020 during the small rocket developer’s bankruptcy.\nThe post Phantom Space reclaims former Vector launch technology appeared first on SpaceNews.",
+    "summary": "\nSAN FRANCISCO – CesiumAstro announced the acquisition Feb. 26 of Vidrovr, a startup that specializes in artificial intelligence for multimodal signals analysis. Terms of the transaction, which closed in late 2025, were not disclosed. CesiumAstro acquired Vidrovr to accelerate its campaign to embed AI in space telecommunications and intelligence, surveillance and reconnaissance infrastructure, enabling radio-frequency […]\nThe post CesiumAstro acquires Vidrovr to embed AI in communications systems appeared first on SpaceNews.",
     "published_at": "2026-02-26T13:00:00Z",
-    "updated_at": "2026-02-26T13:00:42.166716Z",
+    "updated_at": "2026-02-26T13:00:42.141635Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -461,20 +668,27 @@
     "detailed_news": ""
   },
   {
-    "id": 36502,
-    "title": "CesiumAstro acquires Vidrovr to embed AI in communications systems",
+    "id": 36503,
+    "title": "Phantom Space reclaims former Vector launch technology",
     "authors": [
       {
-        "name": "Debra Werner",
-        "socials": null
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
       }
     ],
-    "url": "https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_2element_graphic_ca.png?fit=879%2C494&ssl=1",
+    "url": "https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/11/Phantom_Space___Hot_Fire_Test.jpg?fit=1024%2C747&ssl=1",
     "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – CesiumAstro announced the acquisition Feb. 26 of Vidrovr, a startup that specializes in artificial intelligence for multimodal signals analysis. Terms of the transaction, which closed in late 2025, were not disclosed. CesiumAstro acquired Vidrovr to accelerate its campaign to embed AI in space telecommunications and intelligence, surveillance and reconnaissance infrastructure, enabling radio-frequency […]\nThe post CesiumAstro acquires Vidrovr to embed AI in communications systems appeared first on SpaceNews.",
+    "summary": "\nRemnants of Vector Launch have made it back to one of its original architects after Phantom Space bought launch assets that were sold off in 2020 during the small rocket developer’s bankruptcy.\nThe post Phantom Space reclaims former Vector launch technology appeared first on SpaceNews.",
     "published_at": "2026-02-26T13:00:00Z",
-    "updated_at": "2026-02-26T13:00:42.141635Z",
+    "updated_at": "2026-02-26T13:00:42.166716Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -579,6 +793,26 @@
     "summary": "\nKen Bowersox, NASA’s associate administrator for space operations, is retiring from the agency after the release of a report critical of NASA’s handling of the Starliner crewed test flight.\nThe post Bowersox to retire from NASA appeared first on SpaceNews.",
     "published_at": "2026-02-26T09:55:31Z",
     "updated_at": "2026-02-26T10:00:23.479546Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36529,
+    "title": "World-first gigabit-per-second laser link between aircraft and geostationary satellite",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/aircraft_ready_to_test_airbus_ultraair_laser_terminal/27121761-2-eng-GB/Aircraft_ready_to_test_Airbus_UltraAir_laser_terminal_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Faster, more secure connections from space could one day make broadband on planes, ships and even remote roads as easy as turning on a light. The European Space Agency (ESA), Airbus Defence and Space, the Netherlands Organisation for Applied Scientific Research (TNO) and German payload manufacturer TESAT (as subcontractor) successfully connected an aircraft to a geostationary satellite using laser communications, bringing people closer to seamless, high‑speed connections in daily life.",
+    "published_at": "2026-02-26T09:44:00Z",
+    "updated_at": "2026-02-27T14:20:40.654752Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -798,245 +1032,6 @@
     "summary": "In late February, people in the Northern Hemisphere can look up for a special sight : Six planets will all be visible from clear and dark night skies. New sonifications from NASA’s Chandra X-ray Observatory released [day of week] will help commemorate this latest “planetary parade.” Because the planets in our solar system travel around […]",
     "published_at": "2026-02-25T17:26:51Z",
     "updated_at": "2026-02-25T17:30:34.741020Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36487,
-    "title": "NASA Study to Analyze Fermented Food Samples from Space",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/nasa-study-to-analyze-fermented-food-samples-from-space/",
-    "image_url": "https://images-assets.nasa.gov/image/iss073e0818445/iss073e0818445~large.jpg",
-    "news_site": "NASA",
-    "summary": "Certain nutrients critical for human health lack the shelf life needed to span multi-year missions to the Moon, Mars, and beyond. NASA’s BioNutrients-3 is part of an experiment series testing ways to use microorganisms to produce these nutrients in space and on demand. The on-demand nature of this experiment is similar to making nutrient-dense fermented […]",
-    "published_at": "2026-02-25T15:58:57Z",
-    "updated_at": "2026-02-25T16:00:32.167181Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36486,
-    "title": "NASA’s Webb Examines Cranium Nebula",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-examines-cranium-nebula/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/02/STScI-01K843KG664WG1FD061J0AFCSH.jpg",
-    "news_site": "NASA",
-    "summary": "Two heads are better than one in the latest images from NASA’s James Webb Space Telescope, which reveal new detail in a mysterious, little-studied nebula surrounding a dying star.  Nebula PMR 1 is a cloud of gas and dust that bears an uncanny resemblance to a brain in a transparent skull, inspiring its nickname, the […]",
-    "published_at": "2026-02-25T15:00:00Z",
-    "updated_at": "2026-02-25T15:10:11.451797Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36485,
-    "title": "The future of astronomy is both on Earth and in space",
-    "authors": [
-      {
-        "name": "Dara Norman and Kelsey Johnson",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-future-of-astronomy-is-both-on-earth-and-in-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/lasilla_aerial_1-scaled.jpg?fit=1024%2C608&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA recent SpaceNews opinion article argued that it is time to “take astronomy off Earth.” The suggestion is straightforward: If satellite constellations and commercial space activity threaten ground-based astronomy, perhaps astronomers should simply move their work into space. As current, incoming and past presidents of the American Astronomical Society, we feel impelled to respond. As […]\nThe post The future of astronomy is both on Earth and in space appeared first on SpaceNews.",
-    "published_at": "2026-02-25T14:00:00Z",
-    "updated_at": "2026-02-25T14:10:27.693705Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36483,
-    "title": "Live coverage: SpaceX to launch 500th Starlink satellite in 2026 during Wednesday Falcon 9 flight",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/02/25/live-coverage-spacex-to-launch-500th-starlink-satellite-in-2026-during-wednesday-falcon-9-flight/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250818_Starlink_G17_5_Vertical.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 17-26 mission will also be the 540th launch of a previously flown Falcon booster. Liftoff from pad 4 East at Vandenberg Space Force Base is scheduled for 6:17:49 a.m. PST (9:17:49 a.m. EST / 1417:49 UTC).",
-    "published_at": "2026-02-25T12:21:36Z",
-    "updated_at": "2026-02-25T13:28:32.515243Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "742daf86-0810-4df5-8a7d-1ff72a14e261",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36482,
-    "title": "In space traffic coordination, the biggest challenge may be coordination",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/in-space-traffic-coordination-the-biggest-challenge-may-be-coordination/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/DALL%C2%B7E-2024-10-07-14.05.10-A-high-resolution-banner-image-of-Earth-from-space-with-many-realistic-satellites-in-orbit.-The-satellites-should-vary-in-size-and-design-resembling-.webp?fit=1024%2C585&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAs the number of satellites in orbit grows, one emerging challenge is the difficulty some satellite operators have contacting counterparts to avoid potential collisions.\nThe post In space traffic coordination, the biggest challenge may be coordination appeared first on SpaceNews.",
-    "published_at": "2026-02-25T11:28:26Z",
-    "updated_at": "2026-02-25T11:30:30.746904Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36481,
-    "title": "OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/EIB-Press-Signing-Ceremony-scaled.jpeg?fit=1024%2C681&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEurope’s investment arm is lending Luxembourg-based OQ Technology 25 million euros ($30 million) to expand its direct-to-device constellation, bolstering the continent’s push to compete with U.S.-led efforts to connect smartphones from space.\nThe post OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion appeared first on SpaceNews.",
-    "published_at": "2026-02-25T11:00:00Z",
-    "updated_at": "2026-02-25T11:00:21.660755Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36492,
-    "title": "Eutelsat to Raise €1.5 Billion to Refinance its Debt",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/eutelsat-to-raise-e1-5-billion-to-refinance-its-debt/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/Eutelsat-to-Raise-E1.5-Billion-to-Refinance-its-Debt.webp",
-    "news_site": "European Spaceflight",
-    "summary": "European satellite operator Eutelsat has announced that it will raise €1.5 billion to refinance existing debt and add cash to the company’s balance sheet. In June 2025, Eutelsat reported net debt of just over €2.6 billion, up €82.2 million year-on-year, with a net debt-to-EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortisation) ratio of 3.88×. At […]\nThe post Eutelsat to Raise €1.5 Billion to Refinance its Debt appeared first on European Spaceflight.",
-    "published_at": "2026-02-25T10:34:20Z",
-    "updated_at": "2026-02-25T20:10:21.512925Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36480,
-    "title": "AAC Clyde Space adds Sedna satellites to boost maritime data services",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/AAC_Clyde_Space_adds_Sedna_satellites_to_boost_maritime_data_services_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/aac-clyde-space-epiclink-satellite-marker-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London, UK (SPX) Feb 20, 2026\n\nAAC Clyde Space has started building two additional maritime data satellites, Sedna-3 and Sedna-4, to expand capacity in its established space-based maritime data services. The company has placed orders for key components and assigned the build to its U.S. subsidiary AAC SpaceQuest, aiming to support continuity of service and improve performance as its fleet renews",
-    "published_at": "2026-02-25T10:20:48Z",
-    "updated_at": "2026-02-25T10:30:46.317653Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36478,
-    "title": "Infleqtion lists shares on NYSE as neutral atom quantum firm",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/infleqtion-neutral-atom-quantum-company-ipo-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Feb 20, 2026\n\n\nInfleqtion, a provider of neutral atom based quantum computing and sensing systems, has completed its business combination with Churchill Capital Corp X and is now listed on the New York Stock Exchange under the ticker symbol INFQ. The company describes itself as well capitalized, reporting more than 550 million dollars in gross proceeds from the transaction, including nearly all of the cash hel",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.269311Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36476,
-    "title": "Seafloor weathering may explain ancient global glaciation puzzle",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Seafloor_weathering_may_explain_ancient_global_glaciation_puzzle_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/700-million-years-ago-glaciers-covered-planet-snowball-earth-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (SDX) Feb 25, 2026\n\n\nIn Earth history, a few episodes stand out for their extreme cold, when geologic evidence indicates that ice covered the planet from pole to pole during so-called Snowball Earth events. These episodes represent some of the coldest conditions the planet has ever experienced, with the entire surface essentially below the freezing point of water. Scientists link the onset and end of these global gl",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.167701Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36474,
-    "title": "Ganymede aurora study links moon and Earth space weather",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/juno-ganymede-ultraviolet-aurorae-artist-views-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "London (SDX) Feb 25, 2026\n\n\nNew observations of Jupiter's largest moon, Ganymede, reveal that its auroras share detailed structural similarities with auroras on Earth, suggesting that the physical processes that generate these lights may be universal across different types of celestial bodies. \n\nA team from the Laboratory of Atmospheric and Planetary Physics (LPAP) at the University of Liege has used NASA's Juno spacec",
-    "published_at": "2026-02-25T10:14:21Z",
-    "updated_at": "2026-02-25T10:20:27.069654Z",
     "featured": false,
     "launches": [],
     "events": [],
