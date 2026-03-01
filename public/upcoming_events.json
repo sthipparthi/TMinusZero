@@ -1,6 +1,6 @@
 {
-  "count": 10,
-  "last_updated": "2026-03-01T00:05:46.650750Z",
+  "count": 9,
+  "last_updated": "2026-03-01T06:10:25.494118Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (10 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "cd4bb934-0652-4425-9a5c-bbe5e467ade4",
-      "name": "KAIROS | Flight 3",
-      "status": "Go",
-      "net": "2026-03-01T02:00:00Z",
-      "window_start": "2026-03-01T02:00:00Z",
-      "window_end": "2026-03-01T02:20:00Z",
-      "lsp_name": "Space One",
-      "lsp_description": "Space One is a private launch service provider founded in 2018 by Canon Electronics, IHI Aerospace, construction company Shimizu and the government-backed Development Bank of Japan. Their KAIROS launch vehicle is planned for use to launch small satellites",
-      "lsp_type": "Commercial",
-      "lsp_country": "JPN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/space2520one_logo_20240216144545.png",
-      "mission_name": "Flight 3",
-      "mission_description": "Third flight of the KAIROS launch vehicle. \r\n\r\n4 satellites will be on board:\r\n\r\n* TATARA-1R\r\n* SC-Sat1a\r\n* HErO\r\n* AETS-1",
-      "mission_type": "Test Flight",
-      "orbit": "Sun-Synchronous Orbit",
-      "launch_site": "Space One Launch Pad, Spaceport Kii, Japan",
-      "pad": "Space One Launch Pad",
-      "location": "Spaceport Kii, Japan",
-      "rocket": "Kii-based Advanced & Instant ROcket System",
-      "rocket_config_description": "4-stage all solid fuel small satellite launch vehicle from the Japanese company Space One, founded in 2018 by Canon Electronics, IHI Aerospace, construction company Shimizu and the government-backed Development Bank of Japan.",
-      "rocket_config_family": "",
-      "rocket_config_full_name": "Kii-based Advanced & Instant ROcket System",
-      "rocket_config_total_launch_count": 2,
-      "rocket_config_successful_launches": 0,
-      "rocket_config_failed_launches": 2,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "Space One",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space One is a private launch service provider founded in 2018 by Canon Electronics, IHI Aerospace, construction company Shimizu and the government-backed Development Bank of Japan. Their KAIROS launch vehicle is planned for use to launch small satellites",
-      "rocket_manufacturer_total_launch_count": 2,
-      "rocket_manufacturer_successful_launches": 0,
-      "rocket_manufacturer_failed_launches": 2,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kairos_image_20240216144656.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/cd4bb934-0652-4425-9a5c-bbe5e467ade4/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "887eb3dc-ead1-4fef-87a1-b490e780f43a",
       "name": "Falcon 9 Block 5 | Starlink Group 17-23",
@@ -492,7 +451,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 10,
-    "total_launches": 10
+    "empty_summaries": 9,
+    "total_launches": 9
   }
 }
