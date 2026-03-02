@@ -1,5 +1,172 @@
 [
   {
+    "id": 36565,
+    "title": "Sunglint on Atlantic Ocean",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/sunglint-on-atlantic-ocean/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/iss072e695136orig.jpg",
+    "news_site": "NASA",
+    "summary": "Sunlight beams off a partly cloudy Atlantic Ocean just after sunrise as the International Space Station orbited 263 miles above on March 5, 2025. This is an example of sunglint, an optical phenomenon that occurs when sunlight reflects off the surface of water at the same angle that a satellite sensor views it. The result is […]",
+    "published_at": "2026-03-02T16:54:04Z",
+    "updated_at": "2026-03-02T17:01:26.943031Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36566,
+    "title": "NASA, JAXA to Cover HTV-X1 Spacecraft Departure from Space Station",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-jaxa-to-cover-htv-x1-spacecraft-departure-from-space-station/",
+    "image_url": "https://images-assets.nasa.gov/image/iss073e0988452/iss073e0988452~large.jpg",
+    "news_site": "NASA",
+    "summary": "After delivering about 12,000 pounds of supplies, scientific investigations, hardware, and other cargo to the International Space Station for NASA and its international partners, JAXA’s (Japan Aerospace Exploration Agency’s) uncrewed HTV‑X1 cargo spacecraft is scheduled to depart Friday, March 6. Watch NASA’s live coverage beginning at 11:45 a.m. EST on NASA+, Amazon Prime, and the […]",
+    "published_at": "2026-03-02T16:50:30Z",
+    "updated_at": "2026-03-02T17:01:27.039910Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36564,
+    "title": "Stargazing into the future of SSA",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/stargazing-into-the-future-of-ssa/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/stargaze.jpeg?fit=1024%2C501&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX has disrupted the launch business with the Falcon 9 and the satellite communications business with Starlink. Now it may be taking aim at the emerging space situational awareness (SSA) field. In late January, SpaceX announced Stargaze, a new SSA service. Stargaze uses data from star tracker cameras on its Starlink satellites to track satellites […]\nThe post Stargazing into the future of SSA appeared first on SpaceNews.",
+    "published_at": "2026-03-02T16:00:00Z",
+    "updated_at": "2026-03-02T16:00:58.725195Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36562,
+    "title": "Pentagon details cyber, space ‘first mover’ role in Iran operations",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/pentagon-details-cyber-space-first-mover-role-in-iran-operations/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-02-at-8.42.35-AM-e1772462677648.png?fit=1024%2C467&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nU.S. Cyber Command and U.S. Space Command have ‘continuously layered effects to disrupt, disorient and confuse the enemy’\nThe post Pentagon details cyber, space ‘first mover’ role in Iran operations appeared first on SpaceNews.",
+    "published_at": "2026-03-02T14:50:04Z",
+    "updated_at": "2026-03-02T14:50:30.029690Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36561,
+    "title": "Hardware is no longer the problem holding back space-based data centers — the supply chain is",
+    "authors": [
+      {
+        "name": "John David Callison and Joseph Minafra",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/hardware-is-no-longer-the-problem-holding-back-space-based-data-centers-the-supply-chain-is/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_spacebilt-scaled.webp?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nOrbital and lunar data centers are often framed as engineering challenges or launch economics problems. Those matter, but they are not the limiting factor. The real bottleneck is the absence of a procurement and logistics architecture capable of sourcing, qualifying, transporting, assembling and sustaining the technologies these systems require. If companies are going to realize […]\nThe post Hardware is no longer the problem holding back space-based data centers — the supply chain is appeared first on SpaceNews.",
+    "published_at": "2026-03-02T14:00:00Z",
+    "updated_at": "2026-03-02T14:10:27.823853Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36560,
+    "title": "Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/03/former-nasa-chief-turned-ula-lobbyist-seeks-law-to-limit-spacex-funding/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-20200119-PH-KLS01_0182medium.jpg",
+    "news_site": "Arstechnica",
+    "summary": "America succeeds in space when American companies compete.",
+    "published_at": "2026-03-02T13:58:30Z",
+    "updated_at": "2026-03-02T14:00:10.908159Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36559,
+    "title": "World Space Week 2025 Set Record With 50,000 Events in 102 Countries",
+    "authors": [
+      {
+        "name": "World Space Week Association",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/world-space-week-2025-set-record-with-50000-events-in-102-countries/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Copy-of-Copy-of-World-Space-Week-Association-01-1-scaled.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nMarch 2, 2026 Houston, Texas – World Space Week 2025 recorded nearly 50,000 activities across 102 nations, marking the highest global participation in its history, World Space Week Association announced […]\nThe post World Space Week 2025 Set Record With 50,000 Events in 102 Countries appeared first on SpaceNews.",
+    "published_at": "2026-03-02T13:00:00Z",
+    "updated_at": "2026-03-02T13:00:37.445368Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36558,
+    "title": "Space Force rethinks satellite ground station strategy",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-force-rethinks-satellite-ground-station-strategy/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/7084913-scaled.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nInstead of customized development, Space Force will seek commercially derived ground stations\nThe post Space Force rethinks satellite ground station strategy appeared first on SpaceNews.",
+    "published_at": "2026-03-02T12:00:00Z",
+    "updated_at": "2026-03-02T12:10:25.483477Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36557,
     "title": "Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity",
     "authors": [
@@ -48,6 +215,26 @@
     "summary": "\nThe European Space Agency announced up to $118 million in funding March 2 for projects promising to accelerate the convergence of satellite and terrestrial communications.\nThe post ESA announces 100 million euro satellite-mobile convergence initiative appeared first on SpaceNews.",
     "published_at": "2026-03-02T08:00:00Z",
     "updated_at": "2026-03-02T08:00:34.514643Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36563,
+    "title": "Scoria Cones on Earth and Mars",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/scoria-cones-on-earth-and-mars/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scoria-cones-on-earth-and-mars/scoriaconespansharpdem_oli_20250619.jpg",
+    "news_site": "NASA",
+    "summary": "The hill-shaped features are a sign of explosive volcanic activity—a rarity on the Red Planet.",
+    "published_at": "2026-03-02T05:01:00Z",
+    "updated_at": "2026-03-02T15:10:11.501277Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -161,26 +348,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36549,
-    "title": "NASA astronaut who required evacuation from ISS 'doing very well'",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_astronaut_who_required_evacuation_from_ISS_doing_very_well_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/mike-fincke-boeing-starliner-testing-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "New York (AFP) Feb 25, 2026\n\n\n The astronaut who faced a health issue prompting the first-ever medical evacuation in International Space Station history is \"doing very well,\" he said in a statement issued by NASA on Wednesday. \n\nMike Fincke, 58, said he's \"doing very well and continuing standard post-flight reconditioning\" at NASA's center in Houston. \n\nNASA had previously declined to identify which astronaut experienced",
-    "published_at": "2026-03-01T10:13:48Z",
-    "updated_at": "2026-03-01T10:20:09.989596Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36547,
     "title": "NASA announces overhaul of Artemis lunar program amid technical delays",
     "authors": [
@@ -215,6 +382,26 @@
     "summary": "Washington, United States (AFP) Feb 25, 2026\n\n\n NASA on Wednesday was rolling its towering Moon rocket back to its hangar for repairs, after windows for liftoff were pushed back over technical issues. \n\nThe US space agency said it would roll its 322-foot (98-meter) SLS rocket off the launchpad in Cape Canaveral, Florida after teams detected issues with helium flow. \n\nThe decision means further delays for the highly anticipated Artemis 2 m",
     "published_at": "2026-03-01T10:13:48Z",
     "updated_at": "2026-03-01T10:20:09.953776Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36549,
+    "title": "NASA astronaut who required evacuation from ISS 'doing very well'",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_astronaut_who_required_evacuation_from_ISS_doing_very_well_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/mike-fincke-boeing-starliner-testing-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "New York (AFP) Feb 25, 2026\n\n\n The astronaut who faced a health issue prompting the first-ever medical evacuation in International Space Station history is \"doing very well,\" he said in a statement issued by NASA on Wednesday. \n\nMike Fincke, 58, said he's \"doing very well and continuing standard post-flight reconditioning\" at NASA's center in Houston. \n\nNASA had previously declined to identify which astronaut experienced",
+    "published_at": "2026-03-01T10:13:48Z",
+    "updated_at": "2026-03-01T10:20:09.989596Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -828,193 +1015,6 @@
     "summary": "\nOfficials insist there are no plans to deploy troops in orbit, but commercial infrastructure and cislunar ambitions are reshaping the debate\nThe post Space Force keeps door open to future human presence in orbit appeared first on SpaceNews.",
     "published_at": "2026-02-26T23:14:49Z",
     "updated_at": "2026-02-26T23:20:40.471574Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36515,
-    "title": "Virgin Media O2 launches Europe’s first Starlink direct-to-smartphone service",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/virgin-media-o2-launches-europes-first-starlink-direct-to-smartphone-service/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Starlink-D2C-pic-scaled.jpeg?fit=1024%2C609&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBritish mobile operator Virgin Media O2 said it started offering satellite-to-smartphone connectivity in the United Kingdom Feb. 26, marking the first commercial deployment of Starlink’s Direct-to-Cell service in Europe.\nThe post Virgin Media O2 launches Europe’s first Starlink direct-to-smartphone service appeared first on SpaceNews.",
-    "published_at": "2026-02-26T21:14:26Z",
-    "updated_at": "2026-02-26T21:20:55.570115Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36514,
-    "title": "JPL 3D-Printed Part Springs Forward",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/photojournal/jpl-3d-printed-part-springs-forward/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26706/PIA26706.png",
-    "news_site": "NASA",
-    "summary": "Description With a simple motion, a jack-in-the-box-like spring designed at NASA’s Jet Propulsion Laboratory showed the potential of additive manufacturing, also known as 3D printing, to cut costs and complexity for futuristic space antennas. Called JPL Additive Compliant Canister (JACC), the spring deployed on the small commercial spacecraft Proteus Space’s Mercury One on Feb. 3, 2026. […]",
-    "published_at": "2026-02-26T20:23:05Z",
-    "updated_at": "2026-02-26T21:10:17.248986Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36512,
-    "title": "Vast and Axiom awarded new private missions to ISS, continue work on commercial space stations",
-    "authors": [
-      {
-        "name": "Eleanor Day",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/02/vast-axiom-2026-pam/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/54676240636_58d831e349_o-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "With NASA awarding back-to-back Private Astronaut Missions to aerospace companies Vast Space and Axiom Space…\nThe post Vast and Axiom awarded new private missions to ISS, continue work on commercial space stations appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-02-26T19:17:45Z",
-    "updated_at": "2026-02-26T19:20:17.932739Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36511,
-    "title": "Landsat 9: More Than Just A Picture",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/landsat/landsat-9-more-than-just-a-picture/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/l9mission-thumbnail.png",
-    "news_site": "NASA",
-    "summary": "For over 50 years, the Landsat program has provided the longest continuous satellite record of Earth’s land surface from space. Landsat 9, launched in 2021, is the latest mission in this remarkable legacy.",
-    "published_at": "2026-02-26T17:47:04Z",
-    "updated_at": "2026-02-26T18:10:15.433346Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36510,
-    "title": "Inside Project Hail Mary",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/inside-project-hail-mary/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/06-dg01304.jpg",
-    "news_site": "NASA",
-    "summary": "NASA astronaut and deputy director of the Flight Operations Directorate Kjell Lindgren takes a selfie with panelists and the audience at the agency’s Jet Propulsion Laboratory on Feb. 25, 2026. Actors Ryan Gosling and Sandra Huller, screenwriter Drew Goddard, directors Phil Lord and Christopher Miller, and producer and writer of the “Project Hail Mary” novel […]",
-    "published_at": "2026-02-26T17:19:03Z",
-    "updated_at": "2026-02-26T17:20:16.980692Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36509,
-    "title": "Airbus and Leonardo report increased space revenues for 2025",
-    "authors": [
-      {
-        "name": "Emma Gatti",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/brancati-smallsat2026.jpeg?fit=1024%2C685&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nMILAN – Two of Europe’s largest primes, Airbus and Leonardo, reported increased revenues in their respective space businesses from last year. The results, which were announced earlier this week in separate earnings reports, come as the two companies are in discussions with Thales on a joint venture named Project Bromo. Neither discussed the topic on […]\nThe post Airbus and Leonardo report increased space revenues for 2025 appeared first on SpaceNews.",
-    "published_at": "2026-02-26T16:20:31Z",
-    "updated_at": "2026-02-26T16:20:55.775425Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36507,
-    "title": "NASA Invites Media to Discuss Next Steps for Artemis Campaign",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-next-steps-for-artemis-campaign/",
-    "image_url": "https://images-assets.nasa.gov/image/KSC-20260225-PH-CSH01-0076/KSC-20260225-PH-CSH01-0076~large.jpg",
-    "news_site": "NASA",
-    "summary": "With rollback of NASA’s Artemis II SLS (Space Launch System) rocket and Orion spacecraft to the Vehicle Assembly Building complete, the agency will host a news conference at 10 a.m. on Friday, Feb. 27. Live from NASA’s Kennedy Space Center in Florida, leadership will discuss the work ahead for the test flight, as well as […]",
-    "published_at": "2026-02-26T16:07:56Z",
-    "updated_at": "2026-02-26T16:10:15.262993Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36508,
-    "title": "NASA’s ESCAPADE Ready to Study Space Weather from Earth to Mars",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-ready-to-study-space-weather-from-earth-to-mars/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/r/rl-escapade-beauty-shot001-0000239.jpg",
-    "news_site": "NASA",
-    "summary": "Mars is not what it used to be. Once warm, watery, and blanketed by a thick atmosphere, today the Red Planet is cold, dry, and draped by a thin atmospheric veil. The main culprit is a relentless stream of particles from the Sun, known as the solar wind. Over billions of years, the solar wind has stripped away […]",
-    "published_at": "2026-02-26T15:24:23Z",
-    "updated_at": "2026-02-26T16:10:15.308289Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36506,
-    "title": "NASA Names Acting Leaders for Two Key Human Spaceflight Roles",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-names-acting-leaders-for-two-key-human-spaceflight-roles/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2020/06/jsc2018e049983.jpg",
-    "news_site": "NASA",
-    "summary": "On Thursday, NASA announced Joel Montalbano will serve as the acting associate administrator for the Space Operations Mission Directorate (SOMD) at NASA Headquarters in Washington, and Dana Hutcherson will serve as the acting program manager of the Commercial Crew Program.  SOMD’s programs and activities include the Commercial Crew Program, the Commercial Low Earth Orbit Program, the Human Research Program, […]",
-    "published_at": "2026-02-26T15:08:57Z",
-    "updated_at": "2026-02-26T15:10:05.562337Z",
     "featured": false,
     "launches": [],
     "events": [],
