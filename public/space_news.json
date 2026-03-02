@@ -1,5 +1,59 @@
 [
   {
+    "id": 36557,
+    "title": "Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/open-cosmos-unveils-vision-for-imagery-linked-sovereign-satellite-connectivity/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/ConnectedCosmos-scaled.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nOpen Cosmos shed more light on its proposed sovereign broadband constellation for Europe March 2, branding the Ka-band network ConnectedCosmos while leaving how it will meet mid-2026 deployment deadlines in the dark.\nThe post Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity appeared first on SpaceNews.",
+    "published_at": "2026-03-02T08:10:00Z",
+    "updated_at": "2026-03-02T08:10:29.340307Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36556,
+    "title": "ESA announces 100 million euro satellite-mobile convergence initiative",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/esa-announces-100-million-euro-satellite-mobile-convergence-initiative/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/5G-Skytower-LEO-satellite-copyright-Thales-Alenia-Space-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe European Space Agency announced up to $118 million in funding March 2 for projects promising to accelerate the convergence of satellite and terrestrial communications.\nThe post ESA announces 100 million euro satellite-mobile convergence initiative appeared first on SpaceNews.",
+    "published_at": "2026-03-02T08:00:00Z",
+    "updated_at": "2026-03-02T08:00:34.514643Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36555,
     "title": "NASA outlines objectives for Mars communications orbiter",
     "authors": [
@@ -493,26 +547,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36552,
-    "title": "NASA shakes up its Artemis program to speed up lunar return",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-1753395940.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"Launching SLS every three and a half years or so is not a recipe for success.\"",
-    "published_at": "2026-02-27T15:08:08Z",
-    "updated_at": "2026-03-01T19:50:03.711603Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36531,
     "title": "NASA shakes up its Artemis program to speed up lunar return",
     "authors": [
@@ -527,6 +561,26 @@
     "summary": "\"Launching SLS every three and a half years or so is not a recipe for success.\"",
     "published_at": "2026-02-27T15:08:08Z",
     "updated_at": "2026-02-27T15:20:19.049967Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36552,
+    "title": "NASA shakes up its Artemis program to speed up lunar return",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-1753395940.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"Launching SLS every three and a half years or so is not a recipe for success.\"",
+    "published_at": "2026-02-27T15:08:08Z",
+    "updated_at": "2026-03-01T19:50:03.711603Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -961,46 +1015,6 @@
     "summary": "On Thursday, NASA announced Joel Montalbano will serve as the acting associate administrator for the Space Operations Mission Directorate (SOMD) at NASA Headquarters in Washington, and Dana Hutcherson will serve as the acting program manager of the Commercial Crew Program.  SOMD’s programs and activities include the Commercial Crew Program, the Commercial Low Earth Orbit Program, the Human Research Program, […]",
     "published_at": "2026-02-26T15:08:57Z",
     "updated_at": "2026-02-26T15:10:05.562337Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36505,
-    "title": "A non-public document reveals that science may not be prioritized on next Mars mission",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/mars-telecom.jpg",
-    "news_site": "Arstechnica",
-    "summary": "For some reason, NASA chose not to publicly release its Mars orbiter objectives.",
-    "published_at": "2026-02-26T14:44:25Z",
-    "updated_at": "2026-02-26T14:50:09.847152Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36521,
-    "title": "Navigation Training Course now open for application",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Education/ESA_Academy/Navigation_Training_Course_now_open_for_application3",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/group_picture_on_the_last_day_of_the_second_edition_of_the_navigation_training_course/27129276-1-eng-GB/Group_picture_on_the_last_day_of_the_second_edition_of_the_Navigation_Training_Course_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA Academy is inviting university students to apply for the Navigation Training Course, taking place from 22 to 26 June 2026 at ESA Academy’s Training and Learning Facility in ESA ESEC, Belgium. Organized in collaboration with ESA Education and ESA’s Directorate of Navigation, this course is perfect for those curious about the future of satellite navigation",
-    "published_at": "2026-02-26T14:41:00Z",
-    "updated_at": "2026-02-27T08:10:19.660790Z",
     "featured": false,
     "launches": [],
     "events": [],
