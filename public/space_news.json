@@ -1,5 +1,32 @@
 [
   {
+    "id": 36555,
+    "title": "NASA outlines objectives for Mars communications orbiter",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rocketlab-mtn.jpeg?fit=1024%2C606&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA has provided new details about its plans to procure a Mars communications orbiter funded under last year’s budget reconciliation bill as companies continue positioning themselves to bid on it.\nThe post NASA outlines objectives for Mars communications orbiter appeared first on SpaceNews.",
+    "published_at": "2026-03-02T00:26:37Z",
+    "updated_at": "2026-03-02T00:30:36.713428Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36554,
     "title": "What’s Happening in Space Policy March 1-7, 2026",
     "authors": [
@@ -100,26 +127,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36548,
-    "title": "NASA rolls Moon rocket off launchpad for repairs",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/NASA_rolls_Moon_rocket_off_launchpad_for_repairs_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-full-stack-crawler-dawn-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington, United States (AFP) Feb 25, 2026\n\n\n NASA on Wednesday was rolling its towering Moon rocket back to its hangar for repairs, after windows for liftoff were pushed back over technical issues. \n\nThe US space agency said it would roll its 322-foot (98-meter) SLS rocket off the launchpad in Cape Canaveral, Florida after teams detected issues with helium flow. \n\nThe decision means further delays for the highly anticipated Artemis 2 m",
-    "published_at": "2026-03-01T10:13:48Z",
-    "updated_at": "2026-03-01T10:20:09.953776Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36547,
     "title": "NASA announces overhaul of Artemis lunar program amid technical delays",
     "authors": [
@@ -134,6 +141,26 @@
     "summary": "Cape Canaveral (AFP) Feb 27, 2026\n\n\n NASA on Friday abruptly said it was shaking up its Artemis lunar program that has suffered multiple delays in recent years, a bid to ensure Americans can return to the Moon's surface by 2028. \n\nThat goal remains unchanged, but the US space agency is shifting its flight lineup to include a test mission before an eventual lunar landing to improve launch \"muscle memory,\" NASA administrator Jared",
     "published_at": "2026-03-01T10:13:48Z",
     "updated_at": "2026-03-01T10:20:09.927625Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36548,
+    "title": "NASA rolls Moon rocket off launchpad for repairs",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/NASA_rolls_Moon_rocket_off_launchpad_for_repairs_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-full-stack-crawler-dawn-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington, United States (AFP) Feb 25, 2026\n\n\n NASA on Wednesday was rolling its towering Moon rocket back to its hangar for repairs, after windows for liftoff were pushed back over technical issues. \n\nThe US space agency said it would roll its 322-foot (98-meter) SLS rocket off the launchpad in Cape Canaveral, Florida after teams detected issues with helium flow. \n\nThe decision means further delays for the highly anticipated Artemis 2 m",
+    "published_at": "2026-03-01T10:13:48Z",
+    "updated_at": "2026-03-01T10:20:09.953776Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -466,26 +493,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36531,
-    "title": "NASA shakes up its Artemis program to speed up lunar return",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-1753395940.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"Launching SLS every three and a half years or so is not a recipe for success.\"",
-    "published_at": "2026-02-27T15:08:08Z",
-    "updated_at": "2026-02-27T15:20:19.049967Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36552,
     "title": "NASA shakes up its Artemis program to speed up lunar return",
     "authors": [
@@ -500,6 +507,26 @@
     "summary": "\"Launching SLS every three and a half years or so is not a recipe for success.\"",
     "published_at": "2026-02-27T15:08:08Z",
     "updated_at": "2026-03-01T19:50:03.711603Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36531,
+    "title": "NASA shakes up its Artemis program to speed up lunar return",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-1753395940.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"Launching SLS every three and a half years or so is not a recipe for success.\"",
+    "published_at": "2026-02-27T15:08:08Z",
+    "updated_at": "2026-02-27T15:20:19.049967Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -974,33 +1001,6 @@
     "summary": "ESA Academy is inviting university students to apply for the Navigation Training Course, taking place from 22 to 26 June 2026 at ESA Academy’s Training and Learning Facility in ESA ESEC, Belgium. Organized in collaboration with ESA Education and ESA’s Directorate of Navigation, this course is perfect for those curious about the future of satellite navigation",
     "published_at": "2026-02-26T14:41:00Z",
     "updated_at": "2026-02-27T08:10:19.660790Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36504,
-    "title": "NordSpace founder backs Wyvern with new Canada-focused venture arm",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Rahul-Goel.png?fit=780%2C439&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe founder and sole investor behind Canadian launch startup NordSpace has invested in Earth observation operator Wyvern with a new venture arm focused on advancing Canada’s sovereign space capabilities.\nThe post NordSpace founder backs Wyvern with new Canada-focused venture arm appeared first on SpaceNews.",
-    "published_at": "2026-02-26T13:59:09Z",
-    "updated_at": "2026-02-26T14:00:37.462403Z",
     "featured": false,
     "launches": [],
     "events": [],
