@@ -1,5 +1,139 @@
 [
   {
+    "id": 36620,
+    "title": "A Little Town with a Long Name",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-little-town-with-a-long-name/welshtownzm_oli_20250409.jpg",
+    "news_site": "NASA",
+    "summary": "A NASA luminary from the Apollo era grew up in Wales near Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
+    "published_at": "2026-03-05T05:01:00Z",
+    "updated_at": "2026-03-05T05:10:12.874794Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36619,
+    "title": "Senate Committee Clears New NASA Authorization Bill, Calls for Moon Base",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/senate-committee-clears-new-nasa-authorization-bill-calls-for-moon-base/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Cruz-Cantwell-NASA-auth-300x183.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The Senate Commerce, Science, and Transportation Committee approved a new NASA authorization bill today. Among its many provisions, the bill supports recent changes to the Artemis program, directs NASA to […]",
+    "published_at": "2026-03-05T04:47:14Z",
+    "updated_at": "2026-03-05T04:50:26.353075Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36618,
+    "title": "Third Kairos launch fails",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/third-kairos-launch-fails/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/kairos-flight3.jpeg?fit=1024%2C558&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe third launch of a small launch vehicle developed by a Japanese company failed shortly after liftoff March 4, raising questions about the rocket’s future.\nThe post Third Kairos launch fails appeared first on SpaceNews.",
+    "published_at": "2026-03-05T03:26:48Z",
+    "updated_at": "2026-03-05T03:30:31.347560Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36617,
+    "title": "Spanish launch startup PLD Space raises $209 million to scale its rocket production",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/03/05/spanish-launch-startup-pld-space-raises-209-million-to-scale-its-rocket-production/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260304_Miura-5_manufacturing.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "This Series C funding was led by Mitsubishi Electric Corporation, which invested €50 million ($58 million). To date, PLD Space raised more than €350 million ($407 million). ",
+    "published_at": "2026-03-05T01:07:07Z",
+    "updated_at": "2026-03-05T01:10:57.224447Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36616,
+    "title": "High-Speed Flight Project Overview",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/06/high-speed-aircraft.png",
+    "news_site": "NASA",
+    "summary": "What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today’s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing […]",
+    "published_at": "2026-03-05T01:05:42Z",
+    "updated_at": "2026-03-05T01:10:23.687371Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36615,
+    "title": "Senate committee advances NASA authorization bill that changes Artemis and extends ISS",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/slseus.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Senate Commerce Committee advanced a revised NASA authorization bill that implements some of the changes to Artemis sought by the agency while also extending the life of the ISS\nThe post Senate committee advances NASA authorization bill that changes Artemis and extends ISS appeared first on SpaceNews.",
+    "published_at": "2026-03-05T00:20:44Z",
+    "updated_at": "2026-03-05T00:31:19.327296Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36614,
     "title": "Telus invests in AST SpaceMobile to expand D2D coverage in Canada",
     "authors": [
@@ -929,133 +1063,6 @@
     "summary": "Five missions are expected to launch this week, with Falcon 9 scheduled to launch four…\nThe post Launch Preview: Japan to launch Kairos as Falcon 9 launches Starlink missions appeared first on NASASpaceFlight.com.",
     "published_at": "2026-03-02T22:20:29Z",
     "updated_at": "2026-03-02T22:30:56.881628Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36570,
-    "title": "What’s Up: March 2026 Skywatching Tips from NASA",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/solar-system/whats-up-march-2026-skywatching-tips-from-nasa/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/march/Blood%20Moon_Trevor%20Dobson%20via%20Flick_CC%20BY-NC-ND%202.0.jpg",
-    "news_site": "NASA",
-    "summary": "What are some skywatching highlights in March 2026? A total lunar eclipse blood moon takes centre stage, Venus and Saturn cozy up for a conjunction, and we celebrate the vernal equinox.",
-    "published_at": "2026-03-02T20:45:51Z",
-    "updated_at": "2026-03-02T21:10:21.065118Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36568,
-    "title": "Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement",
-    "authors": [
-      {
-        "name": "Commercial Space Federation",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/kelli-kedis-ogborn-joining-commercial-space-federation-as-strategic-advisor-for-global-markets-and-industry-engagement/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/commercial-space-federation-square.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nMarch 2, 2026 – Washington, D.C.— The Commercial Space Federation (CSF) today announced that Kelli Kedis Ogborn will join the organization as a Strategic Advisor for Global Markets and Industry […]\nThe post Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement appeared first on SpaceNews.",
-    "published_at": "2026-03-02T20:00:00Z",
-    "updated_at": "2026-03-02T20:02:35.738988Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36567,
-    "title": "Collaborating Through Data: Inside the PSI Users Group",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/biological-physical-sciences/collaborating-through-data-inside-the-psi-users-group/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/bps-general/bps-data_osdr_psi/PSI_Patch_Logo_111x128.png",
-    "news_site": "NASA",
-    "summary": "About the PSI Users Group The Physical Sciences Informatics (PSI) Users Group is a recurring Webex forum that brings together researchers, open-science practitioners, and collaborators from across the physical sciences community. Designed to foster collaboration, knowledge-sharing, and data-driven discovery, each meeting provides participants with a platform to directly engage with leading researchers and PIs. Each […]",
-    "published_at": "2026-03-02T17:30:01Z",
-    "updated_at": "2026-03-02T19:10:18.847499Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36565,
-    "title": "Sunglint on Atlantic Ocean",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/sunglint-on-atlantic-ocean/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/iss072e695136orig.jpg",
-    "news_site": "NASA",
-    "summary": "Sunlight beams off a partly cloudy Atlantic Ocean just after sunrise as the International Space Station orbited 263 miles above on March 5, 2025. This is an example of sunglint, an optical phenomenon that occurs when sunlight reflects off the surface of water at the same angle that a satellite sensor views it. The result is […]",
-    "published_at": "2026-03-02T16:54:04Z",
-    "updated_at": "2026-03-02T17:01:26.943031Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36566,
-    "title": "NASA, JAXA to Cover HTV-X1 Spacecraft Departure from Space Station",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-jaxa-to-cover-htv-x1-spacecraft-departure-from-space-station/",
-    "image_url": "https://images-assets.nasa.gov/image/iss073e0988452/iss073e0988452~large.jpg",
-    "news_site": "NASA",
-    "summary": "After delivering about 12,000 pounds of supplies, scientific investigations, hardware, and other cargo to the International Space Station for NASA and its international partners, JAXA’s (Japan Aerospace Exploration Agency’s) uncrewed HTV‑X1 cargo spacecraft is scheduled to depart Friday, March 6. Watch NASA’s live coverage beginning at 11:45 a.m. EST on NASA+, Amazon Prime, and the […]",
-    "published_at": "2026-03-02T16:50:30Z",
-    "updated_at": "2026-03-02T17:01:27.039910Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36564,
-    "title": "Stargazing into the future of SSA",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/stargazing-into-the-future-of-ssa/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/stargaze.jpeg?fit=1024%2C501&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpaceX has disrupted the launch business with the Falcon 9 and the satellite communications business with Starlink. Now it may be taking aim at the emerging space situational awareness (SSA) field. In late January, SpaceX announced Stargaze, a new SSA service. Stargaze uses data from star tracker cameras on its Starlink satellites to track satellites […]\nThe post Stargazing into the future of SSA appeared first on SpaceNews.",
-    "published_at": "2026-03-02T16:00:00Z",
-    "updated_at": "2026-03-02T16:00:58.725195Z",
     "featured": false,
     "launches": [],
     "events": [],
