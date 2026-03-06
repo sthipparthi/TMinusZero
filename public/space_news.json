@@ -1,5 +1,110 @@
 [
   {
+    "id": 36664,
+    "title": "From space to your plate",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/From_space_to_your_plate",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/from_space_to_your_plate/27143616-1-eng-GB/From_space_to_your_plate_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-03-06T11:22:00Z",
+    "updated_at": "2026-03-06T11:50:18.052698Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36663,
+    "title": "China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-designates-space-sector-an-emerging-pillar-industry-sets-deep-space-ambitions-in-new-economic-blueprint/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/lanyue-landing-takeoff-test-hebei-6aug2025-CMSEO-1.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChina has designated aerospace to be an “emerging pillar industry” in a draft national economic plan, also setting major objectives for the five years ahead.\nThe post China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint appeared first on SpaceNews.",
+    "published_at": "2026-03-06T10:20:31Z",
+    "updated_at": "2026-03-06T10:30:19.008318Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36662,
+    "title": "Work ongoing to restore contact with Proba-3's Coronagraph",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Work_ongoing_to_restore_contact_with_Proba-3_s_Coronagraph",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/11/proba-3_spacecraft_aligned_above_earth/26469453-1-eng-GB/Proba-3_spacecraft_aligned_above_Earth_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "An anomaly onboard the Proba-3 mission’s Coronagraph spacecraft led to loss of contact between the spacecraft and ground control. The root cause of the anomaly is under investigation and mission teams are working hard to recover the situation.",
+    "published_at": "2026-03-06T10:00:00Z",
+    "updated_at": "2026-03-06T10:04:05.202336Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "2a780cb9-9bf9-4537-927e-389f1659a709",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36661,
+    "title": "Earth from Space: Dhaka, Bangladesh",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Dhaka_Bangladesh",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/earth_from_space_dhaka_bangladesh/27131132-1-eng-GB/Earth_from_Space_Dhaka_Bangladesh_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-03-06T09:00:00Z",
+    "updated_at": "2026-03-06T09:00:35.331900Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36660,
+    "title": "New AI Hub to empower space-enabled connectivity",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_in_Member_States/United_Kingdom/New_AI_Hub_to_empower_space-enabled_connectivity",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/ai_hub_to_empower_space-enabled_connectivity/27141851-1-eng-GB/AI_Hub_to_empower_space-enabled_connectivity_card_full.png",
+    "news_site": "ESA",
+    "summary": "New AI Hub to empower space-enabled connectivity",
+    "published_at": "2026-03-06T08:25:00Z",
+    "updated_at": "2026-03-06T08:40:16.226691Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36658,
     "title": "Ailing “Megaberg” Sparks Surge of Microscopic Life",
     "authors": [
@@ -561,46 +666,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36628,
-    "title": "Chinese astronauts hone extreme cave survival skills",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/china-astronaut-cave-training-first-analog-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nTwenty-eight astronauts and trainees have completed China's first cave-survival training program, a nearly monthlong exercise run by the Astronaut Center of China in Chongqing's Wulong district. \n\nThe course included more than 10 core activities such as environmental monitoring, cave mapping, simulated communication with ground control, and a series of psychological and behavioral drills in",
-    "published_at": "2026-03-05T09:54:43Z",
-    "updated_at": "2026-03-05T10:00:59.948622Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36625,
-    "title": "Danish Mani mission to chart lunar terrain in 3D",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/denmark-mani-satellite-lunar-mapper-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Berlin, Germany (SPX) Mar 05, 2026\n\n\nThe University of Copenhagen will lead Denmark's first lunar mission, a European Space Agency project that will map the Moon's surface in three dimensions to support future landings and base construction. \n\nThe Mani satellite will orbit the Moon's north and south polar regions, acquiring high-resolution images that can be combined into detailed elevation models. \n\nBy imaging the same are",
-    "published_at": "2026-03-05T09:54:43Z",
-    "updated_at": "2026-03-05T10:00:58.355996Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36631,
     "title": "NASA and DOE plan fission power plant on Moon by 2030",
     "authors": [
@@ -621,60 +686,20 @@
     "detailed_news": ""
   },
   {
-    "id": 36624,
-    "title": "Lunar dust model maps how charged grains stick to spacecraft",
+    "id": 36629,
+    "title": "Networks ready to keep Artemis II crew connected around the Moon",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lunar-surface-charged-dust-particles-spacecraft-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Networks_ready_to_keep_Artemis_II_crew_connected_around_the_Moon_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/artemis-orion-full-moon-flyby-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nResearchers from Beijing Institute of Technology, China Academy of Space Technology, and the Chinese Academy of Sciences have developed a theoretical model that links electrostatic forces and contact mechanics to describe how low-velocity charged lunar dust particles either adhere to or escape from spacecraft surfaces within a surrounding plasma sheath. The work aims to clarify mechanisms that d",
+    "summary": "Los Angeles CA (SPX) Jan 30, 2026\n\n\nNASA is preparing a pair of global communications networks to keep the four-person Artemis II crew connected with Earth as they travel from low Earth orbit to a loop around the Moon and back. The mission will fly astronauts aboard the Orion spacecraft and Space Launch System rocket as part of the agency's broader effort to build a sustained human presence in deep space and eventually send crews",
     "published_at": "2026-03-05T09:54:43Z",
-    "updated_at": "2026-03-05T10:00:57.588588Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36621,
-    "title": "Lunar impacts limit late delivery of Earth ocean water",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Lunar_impacts_limit_late_delivery_of_Earth_ocean_water_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/moon-apollo-17-jack-schmitt-station-6-north-massif-ridge-taurus-littrow-valley-lunar-rover-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Washington DC (SPX) Mar 05, 2026\n\n\nA long-standing idea in planetary science proposes that water rich meteorites arriving late in Earth history delivered a major share of the planet's water inventory. A new study led by researchers at Universities Space Research Association and the University of New Mexico uses the Moon's surface record to impose strict limits on that scenario, concluding that impacts over the last 4 billion year",
-    "published_at": "2026-03-05T09:54:43Z",
-    "updated_at": "2026-03-05T10:00:56.311512Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36626,
-    "title": "Origami style lunar rover wheel expands to climb steep caves",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Origami_style_lunar_rover_wheel_expands_to_climb_steep_caves_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/kaist-uel-origami-airless-wheel-lunar-cave-robot-rover-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nA joint team from the Korea Advanced Institute of Science and Technology KAIST and the Unmanned Exploration Laboratory UEL has developed a transformable airless wheel designed to help small rovers access steep lunar pits and lava tubes. The wheel targets subsurface sites considered promising for future human habitats because they shield against cosmic radiation and extreme temperature swings.",
-    "published_at": "2026-03-05T09:54:43Z",
-    "updated_at": "2026-03-05T10:00:58.888586Z",
+    "updated_at": "2026-03-05T10:01:00.581931Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -721,6 +746,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36630,
+    "title": "Northrop Grumman Boosters Set For First Crewed Lunar Voyage Of Artemis Era",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Northrop_Grumman_Boosters_Set_For_First_Crewed_Lunar_Voyage_Of_Artemis_Era_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-full-stack-crawler-dawn-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nTwo Northrop Grumman five segment solid rocket boosters are taking their place on the launch pad as NASA prepares for the first crewed flight of the Space Launch System rocket under the Artemis II mission from Pad 39B at Kennedy Space Center in Florida, targeted for early February 2026. \n\nThe twin solid rocket boosters stand 177 feet tall and each produces 3.6 million pounds of thrust at lif",
+    "published_at": "2026-03-05T09:54:43Z",
+    "updated_at": "2026-03-05T10:01:00.625872Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36622,
     "title": "Ancient impact may explain moons contrasting sides",
     "authors": [
@@ -741,40 +786,100 @@
     "detailed_news": ""
   },
   {
-    "id": 36629,
-    "title": "Networks ready to keep Artemis II crew connected around the Moon",
+    "id": 36625,
+    "title": "Danish Mani mission to chart lunar terrain in 3D",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Networks_ready_to_keep_Artemis_II_crew_connected_around_the_Moon_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-orion-full-moon-flyby-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/denmark-mani-satellite-lunar-mapper-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 30, 2026\n\n\nNASA is preparing a pair of global communications networks to keep the four-person Artemis II crew connected with Earth as they travel from low Earth orbit to a loop around the Moon and back. The mission will fly astronauts aboard the Orion spacecraft and Space Launch System rocket as part of the agency's broader effort to build a sustained human presence in deep space and eventually send crews",
+    "summary": "Berlin, Germany (SPX) Mar 05, 2026\n\n\nThe University of Copenhagen will lead Denmark's first lunar mission, a European Space Agency project that will map the Moon's surface in three dimensions to support future landings and base construction. \n\nThe Mani satellite will orbit the Moon's north and south polar regions, acquiring high-resolution images that can be combined into detailed elevation models. \n\nBy imaging the same are",
     "published_at": "2026-03-05T09:54:43Z",
-    "updated_at": "2026-03-05T10:01:00.581931Z",
+    "updated_at": "2026-03-05T10:00:58.355996Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 36630,
-    "title": "Northrop Grumman Boosters Set For First Crewed Lunar Voyage Of Artemis Era",
+    "id": 36624,
+    "title": "Lunar dust model maps how charged grains stick to spacecraft",
     "authors": [
       {
         "name": "SpaceDaily",
         "socials": null
       }
     ],
-    "url": "https://www.spacedaily.com/reports/Northrop_Grumman_Boosters_Set_For_First_Crewed_Lunar_Voyage_Of_Artemis_Era_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-full-stack-crawler-dawn-bg.jpg",
+    "url": "https://www.spacedaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/lunar-surface-charged-dust-particles-spacecraft-bg.jpg",
     "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 29, 2026\n\n\nTwo Northrop Grumman five segment solid rocket boosters are taking their place on the launch pad as NASA prepares for the first crewed flight of the Space Launch System rocket under the Artemis II mission from Pad 39B at Kennedy Space Center in Florida, targeted for early February 2026. \n\nThe twin solid rocket boosters stand 177 feet tall and each produces 3.6 million pounds of thrust at lif",
+    "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nResearchers from Beijing Institute of Technology, China Academy of Space Technology, and the Chinese Academy of Sciences have developed a theoretical model that links electrostatic forces and contact mechanics to describe how low-velocity charged lunar dust particles either adhere to or escape from spacecraft surfaces within a surrounding plasma sheath. The work aims to clarify mechanisms that d",
     "published_at": "2026-03-05T09:54:43Z",
-    "updated_at": "2026-03-05T10:01:00.625872Z",
+    "updated_at": "2026-03-05T10:00:57.588588Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36626,
+    "title": "Origami style lunar rover wheel expands to climb steep caves",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Origami_style_lunar_rover_wheel_expands_to_climb_steep_caves_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/kaist-uel-origami-airless-wheel-lunar-cave-robot-rover-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nA joint team from the Korea Advanced Institute of Science and Technology KAIST and the Unmanned Exploration Laboratory UEL has developed a transformable airless wheel designed to help small rovers access steep lunar pits and lava tubes. The wheel targets subsurface sites considered promising for future human habitats because they shield against cosmic radiation and extreme temperature swings.",
+    "published_at": "2026-03-05T09:54:43Z",
+    "updated_at": "2026-03-05T10:00:58.888586Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36621,
+    "title": "Lunar impacts limit late delivery of Earth ocean water",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Lunar_impacts_limit_late_delivery_of_Earth_ocean_water_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/moon-apollo-17-jack-schmitt-station-6-north-massif-ridge-taurus-littrow-valley-lunar-rover-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Washington DC (SPX) Mar 05, 2026\n\n\nA long-standing idea in planetary science proposes that water rich meteorites arriving late in Earth history delivered a major share of the planet's water inventory. A new study led by researchers at Universities Space Research Association and the University of New Mexico uses the Moon's surface record to impose strict limits on that scenario, concluding that impacts over the last 4 billion year",
+    "published_at": "2026-03-05T09:54:43Z",
+    "updated_at": "2026-03-05T10:00:56.311512Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36628,
+    "title": "Chinese astronauts hone extreme cave survival skills",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/china-astronaut-cave-training-first-analog-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nTwenty-eight astronauts and trainees have completed China's first cave-survival training program, a nearly monthlong exercise run by the Astronaut Center of China in Chongqing's Wulong district. \n\nThe course included more than 10 core activities such as environmental monitoring, cave mapping, simulated communication with ground control, and a series of psychological and behavioral drills in",
+    "published_at": "2026-03-05T09:54:43Z",
+    "updated_at": "2026-03-05T10:00:59.948622Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -882,120 +987,6 @@
     "summary": "This Series C funding was led by Mitsubishi Electric Corporation, which invested €50 million ($58 million). To date, PLD Space raised more than €350 million ($407 million). ",
     "published_at": "2026-03-05T01:07:07Z",
     "updated_at": "2026-03-05T01:10:57.224447Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36616,
-    "title": "High-Speed Flight Project Overview",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/06/high-speed-aircraft.png",
-    "news_site": "NASA",
-    "summary": "What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today’s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing […]",
-    "published_at": "2026-03-05T01:05:42Z",
-    "updated_at": "2026-03-05T01:10:23.687371Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36615,
-    "title": "Senate committee advances NASA authorization bill that changes Artemis and extends ISS",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/slseus.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Senate Commerce Committee advanced a revised NASA authorization bill that implements some of the changes to Artemis sought by the agency while also extending the life of the ISS\nThe post Senate committee advances NASA authorization bill that changes Artemis and extends ISS appeared first on SpaceNews.",
-    "published_at": "2026-03-05T00:20:44Z",
-    "updated_at": "2026-03-05T00:31:19.327296Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36614,
-    "title": "Telus invests in AST SpaceMobile to expand D2D coverage in Canada",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/telus-invests-in-ast-spacemobile-to-expand-d2d-coverage-in-canada/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/BB7.jpeg?fit=768%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nCanadian telco Telus has agreed to take a stake in AST SpaceMobile and invest in ground infrastructure needed to connect subscribers to the operator’s planned direct-to-smartphone constellation.\nThe post Telus invests in AST SpaceMobile to expand D2D coverage in Canada appeared first on SpaceNews.",
-    "published_at": "2026-03-04T23:18:20Z",
-    "updated_at": "2026-03-04T23:20:25.589532Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36613,
-    "title": "Space Force presses case for more personnel and training",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-04-at-4.14.25-PM.png?fit=1024%2C581&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAt Senate Armed Services subcommittee hearing, Vice Chief Bratton said Space Force ‘must aggressively increase its end strength and infrastructure’\nThe post Space Force presses case for more personnel and training appeared first on SpaceNews.",
-    "published_at": "2026-03-04T23:06:12Z",
-    "updated_at": "2026-03-04T23:10:29.887026Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36611,
-    "title": "China to test capsule further, attempt booster recoveries on land and sea",
-    "authors": [
-      {
-        "name": "Martin Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/03/china-roundup-202603/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/Nanhaijiu-118-ship-approaches-the-Mengzhou-capsule-for-recovery-Xinhua-.png",
-    "news_site": "NASASpaceflight",
-    "summary": "China is set to perform additional testing of its Mengzhou crew capsule following a successful…\nThe post China to test capsule further, attempt booster recoveries on land and sea appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-03-04T20:44:14Z",
-    "updated_at": "2026-03-04T20:50:18.916485Z",
     "featured": false,
     "launches": [],
     "events": [],
