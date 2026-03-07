@@ -1,5 +1,112 @@
 [
   {
+    "id": 36684,
+    "title": "NASA selects Centaur for new SLS upper stage",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-selects-centaur-for-new-sls-upper-stage/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/54091767752_006ce7503a_k.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA has selected the Centaur upper stage currently used on United Launch Alliance’s Vulcan rocket for future flights of the Space Launch System.\nThe post NASA selects Centaur for new SLS upper stage appeared first on SpaceNews.",
+    "published_at": "2026-03-06T23:42:43Z",
+    "updated_at": "2026-03-06T23:50:37.248638Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36683,
+    "title": "Ding-dong! The Exploration Upper Stage is dead",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/upper-exploration-witch-hat.jpg",
+    "news_site": "Arstechnica",
+    "summary": "The Exploration Upper Stage did not in any way get NASA closer to landing on the Moon.",
+    "published_at": "2026-03-06T23:40:35Z",
+    "updated_at": "2026-03-06T23:50:12.236753Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36682,
+    "title": "NASA Invites Media to Northrop Grumman CRS-24 Station Resupply Launch",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-24-station-resupply-launch/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/crs-24-resupply-launch-advisory-march-6.jpg",
+    "news_site": "NASA",
+    "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in April to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 24 […]",
+    "published_at": "2026-03-06T21:36:22Z",
+    "updated_at": "2026-03-06T21:40:15.191162Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36680,
+    "title": "NASA’s Artemis ‘Course Correction’ Boosts Moonward Momentum: Key Details Still Maturing",
+    "authors": [
+      {
+        "name": "Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/03/artemis-course-correction-moonward-details/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-06-18-57-48-225.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "NASA Administrator Jared Isaacman unveiled sweeping changes to the Artemis program, aimed at restoring momentum,…\nThe post NASA’s Artemis ‘Course Correction’ Boosts Moonward Momentum: Key Details Still Maturing appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-03-06T21:02:09Z",
+    "updated_at": "2026-03-06T21:10:17.146577Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36679,
+    "title": "NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/dart/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/1-licia-cube-nasa.jpg",
+    "news_site": "NASA",
+    "summary": "New research reveals that when NASA’s DART (Double Asteroid Redirection Test) spacecraft intentionally impacted the asteroid moonlet Dimorphos in September 2022, it didn’t just change the motion of Dimorphos around its larger companion, Didymos; the crash also shifted the orbit of both asteroids around the Sun. Linked together by gravity, Didymos and Dimorphos orbit each […]",
+    "published_at": "2026-03-06T19:00:36Z",
+    "updated_at": "2026-03-06T19:10:13.888759Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36678,
     "title": "Eutelsat completes $5.8 billion refinancing plan",
     "authors": [
@@ -255,6 +362,26 @@
         "provider": "Launch Library 2"
       }
     ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36681,
+    "title": "ESA Has Lost Contact With One of Its PROBA-3 Spacecraft",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-has-lost-contact-with-one-of-its-proba-3-spacecraft/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/03/ESA-Has-Lost-Contact-With-One-of-Its-PROBA-3-Spacecraft.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency announced on 6 March that it had lost contact with one of the two spacecraft that make up its PROBA-3 mission. Both PROBA-3 spacecraft were launched aboard an ISRO PSLV-XL rocket in December 2024. The mission’s Coronagraph and Occulter spacecraft work in tandem, flying in precise formation to create and observe […]\nThe post ESA Has Lost Contact With One of Its PROBA-3 Spacecraft appeared first on European Spaceflight.",
+    "published_at": "2026-03-06T12:15:37Z",
+    "updated_at": "2026-03-06T21:30:21.627988Z",
+    "featured": false,
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -872,133 +999,6 @@
     "summary": "\nInvestment comes as company shifts toward national security programs\nThe post Sierra Space raises $550 million in Series C funding appeared first on SpaceNews.",
     "published_at": "2026-03-05T13:00:00Z",
     "updated_at": "2026-03-05T13:01:45.716848Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36634,
-    "title": "Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/jared-isaacman-on-rebuilding-artemis-and-what-hes-learned-during-his-first-months-as-nasa-administrator/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/54994400611_22a997c7bb_o-scaled.jpg?fit=1024%2C680&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWhen Jared Isaacman was sworn in as NASA administrator Dec. 18, he hit the ground running — or, perhaps more accurately, hit the air flying. At a town hall the next day, he said he would visit all the agency’s field centers, a task he completed by late January. In some cases he showed up […]\nThe post Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator appeared first on SpaceNews.",
-    "published_at": "2026-03-05T12:00:00Z",
-    "updated_at": "2026-03-05T12:00:28.857342Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36637,
-    "title": "Training for the εpsilon mission",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Training_for_the_epsilon_mission",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/training_for_the_epsilon_mission/27139185-1-eng-GB/Training_for_the_epsilon_mission_card_full.png",
-    "news_site": "ESA",
-    "summary": "ESA astronaut Sophie Adenot began her training at the European Astronaut Centre in Cologne, Germany, where she studied spacecraft systems and crew operations — learning to think and act as an astronaut. Alongside this, she conditioned her body for spaceflight and prepared for the physical and operational demands of her mission.",
-    "published_at": "2026-03-05T12:00:00Z",
-    "updated_at": "2026-03-05T13:10:18.124245Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36633,
-    "title": "Lunar Link antennas complete testing",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Lunar_Link_antennas_complete_testing",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/lunar_link_antennas_complete_testing/27141710-1-eng-GB/Lunar_Link_antennas_complete_testing_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-03-05T10:12:00Z",
-    "updated_at": "2026-03-05T10:30:27.984949Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36632,
-    "title": "ESA’s Mars orbiters watch solar superstorm hit the Red Planet",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/ESA_s_Mars_orbiters_watch_solar_superstorm_hit_the_Red_Planet",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/coronal_mass_ejection_on_27_may_20242/26171283-1-eng-GB/Coronal_mass_ejection_on_27_May_2024_card_full.gif",
-    "news_site": "ESA",
-    "summary": "What happens when a solar superstorm hits Mars? Thanks to the European Space Agency’s Mars orbiters, we now know: glitching spacecraft and a supercharged upper atmosphere.",
-    "published_at": "2026-03-05T10:00:00Z",
-    "updated_at": "2026-03-05T10:10:29.211366Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36626,
-    "title": "Origami style lunar rover wheel expands to climb steep caves",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Origami_style_lunar_rover_wheel_expands_to_climb_steep_caves_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/kaist-uel-origami-airless-wheel-lunar-cave-robot-rover-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nA joint team from the Korea Advanced Institute of Science and Technology KAIST and the Unmanned Exploration Laboratory UEL has developed a transformable airless wheel designed to help small rovers access steep lunar pits and lava tubes. The wheel targets subsurface sites considered promising for future human habitats because they shield against cosmic radiation and extreme temperature swings.",
-    "published_at": "2026-03-05T09:54:43Z",
-    "updated_at": "2026-03-05T10:00:58.888586Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36629,
-    "title": "Networks ready to keep Artemis II crew connected around the Moon",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Networks_ready_to_keep_Artemis_II_crew_connected_around_the_Moon_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/artemis-orion-full-moon-flyby-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Jan 30, 2026\n\n\nNASA is preparing a pair of global communications networks to keep the four-person Artemis II crew connected with Earth as they travel from low Earth orbit to a loop around the Moon and back. The mission will fly astronauts aboard the Orion spacecraft and Space Launch System rocket as part of the agency's broader effort to build a sustained human presence in deep space and eventually send crews",
-    "published_at": "2026-03-05T09:54:43Z",
-    "updated_at": "2026-03-05T10:01:00.581931Z",
     "featured": false,
     "launches": [],
     "events": [],
