@@ -1,5 +1,110 @@
 [
   {
+    "id": 36698,
+    "title": "From Cabbages to Countdowns: NASA Marks 100 Years of Modern Rocketry",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/goddard/from-cabbages-to-craters-nasa-marks-one-century-of-modern-rocketry/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/devliquidpropellantrocket-fig126.jpg",
+    "news_site": "NASA",
+    "summary": "Snow covered the ground that Tuesday morning 100 years ago, when a college professor and his wife took a morning drive to the family farm a few miles south in Auburn, Massachusetts. Along for the ride, the couple brought two work colleagues — and “Nell.” They may not have known it at the time, but […]",
+    "published_at": "2026-03-09T12:00:00Z",
+    "updated_at": "2026-03-09T12:02:08.180868Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36697,
+    "title": "Chinese official calls for prioritizing Neptune orbiter mission",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/chinese-official-calls-for-prioritizing-neptune-orbiter-mission/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/08/Neptune-aug1989-NASA-JPL-1.jpg?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA senior Chinese space scientist and delegate to the country’s national congress is proposing the prioritization of an unprecedented orbiter mission to ice giant Neptune.\nThe post Chinese official calls for prioritizing Neptune orbiter mission appeared first on SpaceNews.",
+    "published_at": "2026-03-09T11:28:40Z",
+    "updated_at": "2026-03-09T11:34:13.012147Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36695,
+    "title": "Smile arrives at Europe’s Spaceport",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_arrives_at_Europe_s_Spaceport",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/smile_arrives_at_europe_s_spaceport/27144349-1-eng-GB/Smile_arrives_at_Europe_s_Spaceport_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The Smile spacecraft has arrived at Europe’s Spaceport in French Guiana. During the coming weeks, the spacecraft will go through final preparations for its launch on a Vega-C rocket between 8 April and 7 May.",
+    "published_at": "2026-03-09T11:00:00Z",
+    "updated_at": "2026-03-09T12:05:01.836001Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36696,
+    "title": "ESA analysing fireball over Europe on 8 March 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/fireball_over_europe_8_march_2026/27145451-1-eng-GB/Fireball_over_Europe_8_March_2026_card_full.png",
+    "news_site": "ESA",
+    "summary": "At approximately 18:55 CET (17:55 UTC) on Sunday 8 March 2026, a very bright fireball moving from the southwest to the northeast was observed by many people in Belgium, France, Germany, Luxembourg, and the Netherlands.",
+    "published_at": "2026-03-09T10:40:00Z",
+    "updated_at": "2026-03-09T12:04:53.030822Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36694,
+    "title": "\"She flies satellites. One day, I can too.\"",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Operations/She_flies_satellites._One_day_I_can_too.",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/women_flying_spacecraft_at_esa_mission_control/27143501-1-eng-GB/Women_flying_spacecraft_at_ESA_mission_control_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "At ESA’s European Space Operations Centre (ESOC), teams work around the clock to fly spacecraft across the Solar System and monitor Earth from orbit. Among them are women leading spacecraft operations, managing teams and helping shape the culture of ESA’s mission control.",
+    "published_at": "2026-03-09T07:30:00Z",
+    "updated_at": "2026-03-09T07:50:18.959409Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36691,
     "title": "Hostage to the Moon - How Artemis Became Industrial Welfare in a Space Suit - Part 2",
     "authors": [
@@ -899,106 +1004,6 @@
     "summary": "The Airspace Operations and Safety Program (AOSP) accelerates the transformation of the National Airspace System (NAS) to meet the variety, density, and complexity of future airspace users. Our mission is to ensure that U.S. skies remain safe, innovative, and globally competitive while enabling Advanced Air Mobility and next-generation aviation technologies.   AOSP partners with the FAA, industry, academia, and other government agencies to ensure seamless integration of […]",
     "published_at": "2026-03-05T20:30:00Z",
     "updated_at": "2026-03-06T05:20:15.820122Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36650,
-    "title": "ENPULSION Secures €22.5 Million to Expand US Market Presence",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/enpulsion-secures-e22-5-million-to-expand-us-market-presence/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/03/ENPULSION-Secures-E22.5-Million-to-Expand-US-Market-Presence.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Austrian space propulsion company ENPULSION has secured €22.5 million in new growth funding to expand its footprint in the US. Founded in 2016, ENPULSION provides electric propulsion systems for micro, nano, and small satellites. According to the company, it has delivered more than 320 propulsion systems using its modular Field-Emission Electric Propulsion (FEEP) technology. FEEP […]\nThe post ENPULSION Secures €22.5 Million to Expand US Market Presence appeared first on European Spaceflight.",
-    "published_at": "2026-03-05T19:25:13Z",
-    "updated_at": "2026-03-05T21:00:30.891675Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36648,
-    "title": "Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities",
-    "authors": [
-      {
-        "name": "Emma Gatti",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/infinite-orbits-acquires-uk-startup-lunasa-to-expand-satellite-servicing-capabilities/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Endurance-IO_LUNASA.png?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLONDON – In-orbit services provider Infinite Orbits announced plans March 3 to acquireLondon-based in-orbit servicing and manufacturing startup Lunasa, marking a step in the company’s expansion into the United Kingdom.  The acquisition, the value of which the companies didn’t disclose, will bring together the Infinite Orbits’ and Lunasa’s investments into complementary spacecraft rendezvous and life […]\nThe post Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities appeared first on SpaceNews.",
-    "published_at": "2026-03-05T19:19:48Z",
-    "updated_at": "2026-03-05T19:20:31.316373Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36647,
-    "title": "Congress steps up pressure on NASA to support private space stations",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/03/congress-steps-up-pressure-on-nasa-to-support-private-space-stations/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/3-Module1.png",
-    "news_site": "Arstechnica",
-    "summary": "\"We were happy to see the renewed commitment to transition from the ISS.\"",
-    "published_at": "2026-03-05T17:45:18Z",
-    "updated_at": "2026-03-05T17:50:09.097663Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36646,
-    "title": "NASA Wallops Supports First Rocket Lab HASTE Launch of 2026",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasa-wallops-supports-first-rocket-lab-haste-launch-of-2026/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/rocket-lab-launch-pad-image-feb-2026.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Wallops Flight Facility supported a Rocket Lab HASTE suborbital launch from the company’s Launch Complex 2 in Virginia on Feb. 27, 2026. The mission, called Cassowary Vex, supported a flight of a hypersonic test platform for the Department of War’s Defense Innovation Unit.  The NASA Wallops launch range supported by providing services such as tracking, telemetry, and range safety […]",
-    "published_at": "2026-03-05T17:13:49Z",
-    "updated_at": "2026-03-05T17:20:22.212942Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36645,
-    "title": "Major Artemis Shift Leaves Questions About SLS, Gateway Future",
-    "authors": [
-      {
-        "name": "Alejandro Turnbull",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacescout.info/2026/03/major-artemis-shift-leaves-questions-about-sls-gateway-future/",
-    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/03/wolf-fullstack-scaled.jpg",
-    "news_site": "Space Scout",
-    "summary": "In a major announcement Friday, 27 February, NASA announced a revision of the Artemis Program architecture. To accommodate the change, the design of the SLS rocket will be significantly reworked.",
-    "published_at": "2026-03-05T16:39:46Z",
-    "updated_at": "2026-03-05T16:40:25.664626Z",
     "featured": false,
     "launches": [],
     "events": [],
