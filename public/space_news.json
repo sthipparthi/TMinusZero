@@ -1,5 +1,301 @@
 [
   {
+    "id": 36768,
+    "title": "NASA and SpaceX disagree about manual controls for lunar lander",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/03/nasa-and-spacex-disagree-about-manual-controls-for-lunar-lander/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/07_24_25_HLS_on_surface_elevator_down_4d48994673.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"NASA’s tracking of SpaceX’s manual control risk indicates a worsening trend.\"",
+    "published_at": "2026-03-10T17:48:59Z",
+    "updated_at": "2026-03-10T17:50:10.378936Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36766,
+    "title": "Expanding the Human Factors Toolbox:  An Approach to Balancing Crew and Mission Design Parameters",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/expanding-the-human-factors-toolbox-an-approach-to-balancing-crew-and-mission-design-parameters/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/figure1.png",
+    "news_site": "NASA",
+    "summary": "This article is from the 2025 Technical Update. The human factors TDT looks for and creates opportunities to influence design to leverage human strengths and to protect people and missions. The human factors team has experts with knowledge of human performance in all aspects of NASA missions as well as from other safety-critical industries. The […]",
+    "published_at": "2026-03-10T16:47:09Z",
+    "updated_at": "2026-03-10T16:50:11.243320Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36765,
+    "title": "Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control",
+    "authors": [
+      {
+        "name": "Heraeus Precious Metals",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/precision-in-orbit-heraeus-catalysts-safeguard-satellite-control/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-at-7.59.30-AM.png?fit=1024%2C754&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWhen a satellite travels through orbit at up to 17,500 mph, a fraction of a second can determine whether a course correction is successful, as even minor trajectory deviations can […]\nThe post Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control appeared first on SpaceNews.",
+    "published_at": "2026-03-10T16:30:38Z",
+    "updated_at": "2026-03-10T16:40:32.314548Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36767,
+    "title": "Webinar 3/25: NASA CSDA Vendor Focus – Satellogic",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/earth-science/webinar-3-25-nasa-csda-vendor-focus-satellogic/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/03/satellogic-webinar-banner-1200x675-1.jpg",
+    "news_site": "NASA",
+    "summary": "Join us March 25 at 2:00 p.m. EDT to learn more about the data offered by CSDA program vendor Satellogic.",
+    "published_at": "2026-03-10T16:21:25Z",
+    "updated_at": "2026-03-10T17:10:11.932874Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36762,
+    "title": "COPV Damage Tolerance Life Demonstration Guidelines",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/copv-damage-tolerance-life-demonstration-guidelines/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/copv-diagram.png",
+    "news_site": "NASA",
+    "summary": "The NESC has invested significant time and resources to better understand composite overwrapped pressure vessels (COPV) performance and more importantly, how these complex, high-pressure storage systems can fail. These vessels, which store high pressure propulsion and life-support system fluids on launch vehicles and spacecraft, are ubiquitous at NASA, and failures have the potential to be catastrophic.  This year the […]",
+    "published_at": "2026-03-10T16:19:10Z",
+    "updated_at": "2026-03-10T16:20:19.821179Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36763,
+    "title": "A Technical Resource for the Agency",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/a-technical-resource-for-the-agency/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/photo1.png",
+    "news_site": "NASA",
+    "summary": "The NESC’s Thermal Control & Protection Technical Discipline Team (TDT) is a resource providing subject matter expertise in active and passive thermal control as well as ascent and entry thermal protection across the spectrum of agency needs. TDT members led or supported a variety of key activities including the ongoing Artemis I heat shield char […]",
+    "published_at": "2026-03-10T16:14:18Z",
+    "updated_at": "2026-03-10T16:20:19.869095Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36764,
+    "title": "Celebrating NASA’s Mars Reconnaissance Orbiter’s 20th Anniversary: Crater Near Sirenum Fossae",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/celebrating-nasas-mars-reconnaissance-orbiters-20th-anniversary-crater-near-sirenum-fossae/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/pia11777orig.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Mars Reconnaissance Orbiter (MRO) captures a detailed view of a relatively fresh crater in this image released on June 3, 2015. The crater has a sharp rim and well-preserved ejecta. The steep inner slopes are carved by gullies and include possible recurring slope lineae on the equator-facing slopes. This crater is monitored for changes […]",
+    "published_at": "2026-03-10T16:10:58Z",
+    "updated_at": "2026-03-10T16:21:07.524632Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d23062f3-86d7-4b99-80f1-4c31cb07fcc0",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36761,
+    "title": "Impulse Space expands Colorado presence",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/impulse-space-expands-colorado-presence/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/thumbnail.webp?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpace mobility company Impulse Space has opened a Colorado facility to support development of its spacecraft.\nThe post Impulse Space expands Colorado presence appeared first on SpaceNews.",
+    "published_at": "2026-03-10T16:00:00Z",
+    "updated_at": "2026-03-10T16:00:58.947416Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36760,
+    "title": "NASA Discovers Crash of Extreme Stars in Unexpected Site",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/chandra/nasa-discovers-crash-of-extreme-stars-in-unexpected-site/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger.jpg",
+    "news_site": "NASA",
+    "summary": "A fleet of NASA missions has likely uncovered a collision between two ultradense stars in a tiny galaxy buried in a huge stream of gas. Astronomers have never seen this type of explosive event in an environment like this before — and it may help solve two outstanding cosmic mysteries. A paper describing these results […]",
+    "published_at": "2026-03-10T15:40:14Z",
+    "updated_at": "2026-03-10T16:20:45.390127Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "0a5d89b0-aa14-4140-b72d-fbcc8340b222",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "db02116f-17ba-429a-b6c1-8e7f13b5e787",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "6f67b2bf-6d5b-4911-9bf9-2c76e5aada22",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36769,
+    "title": "Developing Robust Electronics That Can Withstand Harsh Conditions on Cold Planetary Bodies",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/developing-robust-electronics-that-can-withstand-harsh-conditions-on-cold-planetary-bodies/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/CresslerFig1_2.jpg",
+    "news_site": "NASA",
+    "summary": "A NASA-sponsored team has developed electronics that can operate reliably in the harsh radiation and temperature conditions found on distant planetary bodies like Europa, an ocean world orbiting Jupiter. Not only could this new technology enable autonomous sensors and robotic exploration of distant ocean worlds, it could also support NASA’s goal to establish human outposts on the Moon and Mars by enabling electronic systems to function in those cold regions with reduced heating requirements.",
+    "published_at": "2026-03-10T14:11:15Z",
+    "updated_at": "2026-03-10T18:10:13.112202Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36759,
+    "title": "Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/reusability-demo.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nDenver-based Lux Aeterna has secured $10 million in seed funding to develop a reusable satellite designed to survive atmospheric reentry and fly again with new payloads, starting with a demonstration flight slated for early 2027.\nThe post Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo appeared first on SpaceNews.",
+    "published_at": "2026-03-10T13:00:00Z",
+    "updated_at": "2026-03-10T13:00:54.846612Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36758,
+    "title": "Starliner and Artemis: commercial label vs. commercial discipline",
+    "authors": [
+      {
+        "name": "Dan Garretson",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/f9-20260207.jpeg?fit=1024%2C541&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA’s Commercial Crew Program was supposed to be the template: services-based procurement, private ownership of hardware and competition between providers. Yet NASA has now formally designated Boeing’s 2024 Starliner crewed test flight as a Type A mishap — its most serious category — and leadership has been explicit that the most troubling failure was not […]\nThe post Starliner and Artemis: commercial label vs. commercial discipline appeared first on SpaceNews.",
+    "published_at": "2026-03-10T13:00:00Z",
+    "updated_at": "2026-03-10T13:00:54.815255Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36757,
+    "title": "NASA Invites Media to 63rd Annual Goddard Space Science Symposium",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-63rd-annual-goddard-space-science-symposium/",
+    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "news_site": "NASA",
+    "summary": "Media are invited to attend the 63rd annual Goddard Space Science Symposium, taking place Thursday, March 12, and Friday, March 13, at the National Housing Center in Washington. The event also will be streamed online. Organized by the American Astronautical Society (AAS) in conjunction with NASA’s Goddard Space Flight Center in Greenbelt, Maryland, the symposium […]",
+    "published_at": "2026-03-10T12:00:00Z",
+    "updated_at": "2026-03-10T12:20:12.865176Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36756,
     "title": "Landspace tests 220-ton methane engine for future heavy-lift launchers",
     "authors": [
@@ -641,26 +937,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36692,
-    "title": "Apollo Cosplay on a 21st-Century Clock - Why Artemis Keeps Slipping Toward 2029 - Part 3",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Apollo_Cosplay_on_a_21st_Century_Clock_Why_Artemis_Keeps_Slipping_Toward_2029_Part_3_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lunar-apollo-15-landing-site-lander-buggy-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA's latest reboot of the Artemis Moon program comes with familiar language: 'back to basics,' 'muscle memory,' 'step-by-step,' and an explicit nod to the Mercury-Gemini-Apollo playbook. The agency wants to fly more often, change hardware less, and build up capability incrementally, just like the 1960s. The problem is that Artemis is trying to cosplay Apollo in a world with very different politics, partners and rivals - and the gaps are showing.",
-    "published_at": "2026-03-09T05:07:26Z",
-    "updated_at": "2026-03-09T05:21:20.782359Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36693,
     "title": "Changing the Rules Mid-Race - How Artemis Lets Washington Redefine \"Winning\" at the Moon - Part 4",
     "authors": [
@@ -675,26 +951,6 @@
     "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nIn classic Washington style, the United States has found a way to keep 'winning' the new Moon race even as its flagship program slips, bloats and mutates. With the latest Artemis overhaul, NASA isn't just re-planning a mission sequence - it's helping Trump's America quietly rewrite the rules of the game so that almost any outcome can be spun as victory.",
     "published_at": "2026-03-09T05:07:26Z",
     "updated_at": "2026-03-09T05:21:20.886685Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36691,
-    "title": "Hostage to the Moon - How Artemis Became Industrial Welfare in a Space Suit - Part 2",
-    "authors": [
-      {
-        "name": "SpaceDaily",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacedaily.com/reports/Hostage_to_the_Moon_How_Artemis_Became_Industrial_Welfare_in_a_Space_Suit_Part_2_999.html",
-    "image_url": "https://www.spxdaily.com/images-bg/lunar-spix-2-bg.jpg",
-    "news_site": "SpaceDaily",
-    "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA says it has finally found the \"back to basics\" recipe to get Americans back on the Moon by 2028. A new intermediate mission, standardized hardware, a faster launch cadence: on paper, the Artemis overhaul looks like a sober course correction after years of drift.",
-    "published_at": "2026-03-09T05:07:26Z",
-    "updated_at": "2026-03-09T05:21:20.664558Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -721,6 +977,46 @@
     "detailed_news": ""
   },
   {
+    "id": 36691,
+    "title": "Hostage to the Moon - How Artemis Became Industrial Welfare in a Space Suit - Part 2",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Hostage_to_the_Moon_How_Artemis_Became_Industrial_Welfare_in_a_Space_Suit_Part_2_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/lunar-spix-2-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA says it has finally found the \"back to basics\" recipe to get Americans back on the Moon by 2028. A new intermediate mission, standardized hardware, a faster launch cadence: on paper, the Artemis overhaul looks like a sober course correction after years of drift.",
+    "published_at": "2026-03-09T05:07:26Z",
+    "updated_at": "2026-03-09T05:21:20.664558Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36692,
+    "title": "Apollo Cosplay on a 21st-Century Clock - Why Artemis Keeps Slipping Toward 2029 - Part 3",
+    "authors": [
+      {
+        "name": "SpaceDaily",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacedaily.com/reports/Apollo_Cosplay_on_a_21st_Century_Clock_Why_Artemis_Keeps_Slipping_Toward_2029_Part_3_999.html",
+    "image_url": "https://www.spxdaily.com/images-bg/lunar-apollo-15-landing-site-lander-buggy-bg.jpg",
+    "news_site": "SpaceDaily",
+    "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA's latest reboot of the Artemis Moon program comes with familiar language: 'back to basics,' 'muscle memory,' 'step-by-step,' and an explicit nod to the Mercury-Gemini-Apollo playbook. The agency wants to fly more often, change hardware less, and build up capability incrementally, just like the 1960s. The problem is that Artemis is trying to cosplay Apollo in a world with very different politics, partners and rivals - and the gaps are showing.",
+    "published_at": "2026-03-09T05:07:26Z",
+    "updated_at": "2026-03-09T05:21:20.782359Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36702,
     "title": "Lake Coatepeque",
     "authors": [
@@ -735,287 +1031,6 @@
     "summary": "Set amid El Salvador’s modern, active volcanic landscape, tranquil blue waters fill a caldera formed by ancient eruptions.",
     "published_at": "2026-03-09T04:00:00Z",
     "updated_at": "2026-03-09T13:10:40.480296Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36689,
-    "title": "What’s Happening in Space Policy March 8-14, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-8-14-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Matt-Anderson-hrg-4-Ingalls-1-300x228.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of March 8-14, 2026 and any insight we can offer about them. The Senate is in session this week. […]",
-    "published_at": "2026-03-08T20:17:38Z",
-    "updated_at": "2026-03-08T20:21:41.369004Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36688,
-    "title": "RFA plans first launch this summer",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/rfa-plans-first-launch-this-summer/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rfaone-march2026.jpeg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGerman launch startup Rocket Factory Augsburg (RFA) says it is planning its first launch for this summer after delivering two of its stages to the launch site.\nThe post RFA plans first launch this summer appeared first on SpaceNews.",
-    "published_at": "2026-03-08T01:31:17Z",
-    "updated_at": "2026-03-08T01:40:29.268428Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36687,
-    "title": "Baikonur Launch Pad restored, clearing path for Progress MS-33 ISS Mission",
-    "authors": [
-      {
-        "name": "Martijn Luinstra and Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/03/baikonur-launch-pad-restored-progress-ms-33/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-07-19-07-16-386.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Russia’s crucial launch infrastructure at Baikonur Cosmodrome’s Site 31/6 has been fully repaired following a…\nThe post Baikonur Launch Pad restored, clearing path for Progress MS-33 ISS Mission appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-03-07T19:49:38Z",
-    "updated_at": "2026-03-07T19:50:19.511069Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36686,
-    "title": "Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/air-force-lab-awards-blacksky-contract-worth-up-to-99-million-for-large-optical-satellite-payload/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-07-at-5.17.18-AM.png?fit=1024%2C666&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nProgram will test large segmented optical system for future surveillance satellites\nThe post Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload appeared first on SpaceNews.",
-    "published_at": "2026-03-07T11:41:26Z",
-    "updated_at": "2026-03-07T11:50:59.660760Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36685,
-    "title": "NASA contract confirms selection of ULA’s Centaur 5 as new upper stage for the SLS rocket",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/03/07/nasa-contract-confirms-selection-of-ulas-centaur-5-as-new-upper-stage-for-the-sls-rocket/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260306_Centuar-V_Cert-1_pressure_testing.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The upper stage of United launch Alliance’s Vulcan rockets performed successfully across the first four flights of the rocket since 2024. The first launch of a Centaur 5 as part of a Space Launch System rocket would be on the Artemis 4 mission. ",
-    "published_at": "2026-03-07T00:40:15Z",
-    "updated_at": "2026-03-07T00:50:47.907601Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36684,
-    "title": "NASA selects Centaur for new SLS upper stage",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-selects-centaur-for-new-sls-upper-stage/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/54091767752_006ce7503a_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA has selected the Centaur upper stage currently used on United Launch Alliance’s Vulcan rocket for future flights of the Space Launch System.\nThe post NASA selects Centaur for new SLS upper stage appeared first on SpaceNews.",
-    "published_at": "2026-03-06T23:42:43Z",
-    "updated_at": "2026-03-06T23:50:37.248638Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36683,
-    "title": "Ding-dong! The Exploration Upper Stage is dead",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/upper-exploration-witch-hat.jpg",
-    "news_site": "Arstechnica",
-    "summary": "The Exploration Upper Stage did not in any way get NASA closer to landing on the Moon.",
-    "published_at": "2026-03-06T23:40:35Z",
-    "updated_at": "2026-03-06T23:50:12.236753Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36682,
-    "title": "NASA Invites Media to Northrop Grumman CRS-24 Station Resupply Launch",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-24-station-resupply-launch/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/crs-24-resupply-launch-advisory-march-6.jpg",
-    "news_site": "NASA",
-    "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in April to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 24 […]",
-    "published_at": "2026-03-06T21:36:22Z",
-    "updated_at": "2026-03-06T21:40:15.191162Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36680,
-    "title": "NASA’s Artemis ‘Course Correction’ Boosts Moonward Momentum: Key Details Still Maturing",
-    "authors": [
-      {
-        "name": "Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/03/artemis-course-correction-moonward-details/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-06-18-57-48-225.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "NASA Administrator Jared Isaacman unveiled sweeping changes to the Artemis program, aimed at restoring momentum,…\nThe post NASA’s Artemis ‘Course Correction’ Boosts Moonward Momentum: Key Details Still Maturing appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-03-06T21:02:09Z",
-    "updated_at": "2026-03-06T21:10:17.146577Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36679,
-    "title": "NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/dart/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/1-licia-cube-nasa.jpg",
-    "news_site": "NASA",
-    "summary": "New research reveals that when NASA’s DART (Double Asteroid Redirection Test) spacecraft intentionally impacted the asteroid moonlet Dimorphos in September 2022, it didn’t just change the motion of Dimorphos around its larger companion, Didymos; the crash also shifted the orbit of both asteroids around the Sun. Linked together by gravity, Didymos and Dimorphos orbit each […]",
-    "published_at": "2026-03-06T19:00:36Z",
-    "updated_at": "2026-03-06T19:10:13.888759Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36678,
-    "title": "Eutelsat completes $5.8 billion refinancing plan",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/eutelsat-completes-5-8-billion-refinancing-plan/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/Intelsat-PR_EutelsatGroup-scaled-1.webp?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEutelsat has completed the last step in a 5 billion euro ($5.8 billion) refinancing plan to refresh its OneWeb constellation and support Europe’s IRIS² sovereign connectivity program, the French satellite operator announced March 6.\nThe post Eutelsat completes $5.8 billion refinancing plan appeared first on SpaceNews.",
-    "published_at": "2026-03-06T17:16:18Z",
-    "updated_at": "2026-03-06T17:20:52.366330Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36677,
-    "title": "Live coverage: SpaceX plans mid-afternoon Falcon 9 rocket launch from Vandenberg SFB",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/03/06/live-coverage-spacex-plans-mid-afternoon-falcon-9-rocket-launch-from-vandenberg-sfb/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/01/20240118-Starlink-File-Photo-Feature-Image.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 17-18 mission will add 25 more satellites to SpaceX’s low Earth orbit megaconstellation. Liftoff from pad 4E is scheduled during a launch window that opens at 1 p.m. PST (4 p.m. EST / 2100 UTC). ",
-    "published_at": "2026-03-06T17:13:23Z",
-    "updated_at": "2026-03-06T17:20:52.082759Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36676,
-    "title": "UK domestic launch milestone as RFA ONE rocket arrives in Scotland",
-    "authors": [
-      {
-        "name": "Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/03/uk-milestone-domestic-launch-rfa-one-scotland/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-06-16-34-54-519.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "German aerospace company Rocket Factory Augsburg (RFA) has achieved a significant milestone in its quest…\nThe post UK domestic launch milestone as RFA ONE rocket arrives in Scotland appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-03-06T16:46:04Z",
-    "updated_at": "2026-03-06T16:50:17.809360Z",
     "featured": false,
     "launches": [],
     "events": [],
