@@ -1,6 +1,6 @@
 {
-  "count": 10,
-  "last_updated": "2026-03-09T18:11:21.823191Z",
+  "count": 9,
+  "last_updated": "2026-03-10T00:04:55.856144Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,58 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (10 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "3f6de963-7197-48aa-a49f-6c944cbf85e9",
-      "name": "Firefly Alpha | Stairway to Seven",
-      "status": "Go",
-      "net": "2026-03-10T00:50:00Z",
-      "window_start": "2026-03-10T00:50:00Z",
-      "window_end": "2026-03-10T02:50:00Z",
-      "lsp_name": "Firefly Aerospace",
-      "lsp_description": "Firefly Aerospace is an American private aerospace firm based in Austin, Texas, that develops small and medium-sized launch vehicles for commercial launches to orbit.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly2520aerospace_logo_20220826094423.jpg",
-      "mission_name": "Stairway to Seven",
-      "mission_description": "Firefly Alpha's Flight 7 will be a test flight and return-To-Flight for the launch vehicle after its April 2025 launch failure. It will test and validate key systems ahead of Firefly’s Block II configuration upgrade on Flight 8 that’s designed to enhance reliability and manufacturability across the vehicle.\r\n\r\nFlight 7 will be the last flown in Alpha’s current configuration and will test multiple Block II subsystems, including the in-house avionics and thermal improvements, to gain flight heritage and validate lessons learned ahead of the full configuration upgrade on Flight 8.",
-      "mission_type": "Test Flight",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Space Launch Complex 2W, Vandenberg SFB, CA, USA",
-      "pad": "Space Launch Complex 2W",
-      "location": "Vandenberg SFB, CA, USA",
-      "rocket": "Firefly Alpha",
-      "rocket_config_description": "Firefly Alpha (Firefly α) is a two-stage orbital expendable launch vehicle developed by the American aerospace company Firefly Aerospace to cover the commercial small satellite launch market. Alpha is intended to provide launch options for both full vehicle and ride share customers.",
-      "rocket_config_family": "Firefly Alpha",
-      "rocket_config_full_name": "Firefly Alpha",
-      "rocket_config_total_launch_count": 6,
-      "rocket_config_successful_launches": 3,
-      "rocket_config_failed_launches": 3,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "Firefly Aerospace",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Firefly Aerospace is an American private aerospace firm based in Austin, Texas, that develops small and medium-sized launch vehicles for commercial launches to orbit.",
-      "rocket_manufacturer_total_launch_count": 6,
-      "rocket_manufacturer_successful_launches": 3,
-      "rocket_manufacturer_failed_launches": 3,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/3f6de963-7197-48aa-a49f-6c944cbf85e9/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 10,
-          "title": "Alpha Flight 7 \"Stairway To Seven\"",
-          "description": "Alpha Flight 7 is the last flown in the rocket’s current configuration and serves as a test flight with the primary goal to achieve nominal first and second stage performance.\n\nFlight 7 will test and validate key systems ahead of Firefly’s Block II configuration upgrade on Flight 8 that’s designed to enhance reliability and manufacturability across the vehicle. The Block II configuration includes a 7-foot increase to Alpha’s length, consolidated batteries and avionics built in house, an enhanced thermal protection system, and stronger carbon composite structures built with automated machinery.\n\nThe subsystems tested on Flight 7, including the in-house avionics and thermal improvements, will allow Firefly to gain flight heritage and validate lessons learned ahead of the full configurat...",
-          "feature_image": "https://i.ytimg.com/vi/nyVbmoRXcvc/maxresdefault_live.jpg",
-          "url": "https://www.youtube.com/watch?v=nyVbmoRXcvc"
-        }
-      ],
-      "ai_summary": ""
-    },
     {
       "id": "8701f102-a33e-450b-87b1-660679aab736",
       "name": "Falcon 9 Block 5 | EchoStar 25",
@@ -492,7 +443,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 10,
-    "total_launches": 10
+    "empty_summaries": 9,
+    "total_launches": 9
   }
 }
