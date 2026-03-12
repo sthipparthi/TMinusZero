@@ -1,5 +1,45 @@
 [
   {
+    "id": 36804,
+    "title": "Former NASA astronaut Jeanette Epps visits ESTEC",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Former_NASA_astronaut_Jeanette_Epps_visits_ESTEC",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/former_nasa_astronaut_jeanette_epps_visits_estec/27150191-1-eng-GB/Former_NASA_astronaut_Jeanette_Epps_visits_ESTEC_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-03-12T08:30:00Z",
+    "updated_at": "2026-03-12T09:01:12.286873Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36803,
+    "title": "Thales Alenia Space Selects US Provider to Develop Lunar Habitat Wheels",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/thales-alenia-space-selects-us-provider-to-develop-lunar-habitat-wheels/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/03/Thales-Alenia-Space-Selects-US-Provider-to-Develop-Lunar-Habitat-Wheels.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Thales Alenia Space has awarded a contract to US-based Astrobotic to develop the wheels for the Multi-Purpose Habitation module, a mobile lunar habitat under development for the Italian Space Agency (ASI). In 2020, ASI and NASA signed a joint statement of intent to cooperate on the development of a lunar habitat that could support crewed […]\nThe post Thales Alenia Space Selects US Provider to Develop Lunar Habitat Wheels appeared first on European Spaceflight.",
+    "published_at": "2026-03-12T08:08:13Z",
+    "updated_at": "2026-03-12T08:50:14.162034Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36802,
     "title": "Firefly Alpha returns to flight",
     "authors": [
@@ -242,6 +282,26 @@
     "summary": "This March 3, 2026, image combines views from ESA’s (European Space Agency) Euclid and NASA’s Hubble Space Telescope to feature one of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543. This extraordinary planetary nebula lies 4,400 light-years away in the constellation Draco and has captivated astronomers for decades […]",
     "published_at": "2026-03-11T15:53:43Z",
     "updated_at": "2026-03-11T16:00:24.912237Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36805,
+    "title": "ESA rolls out new costing software for its suppliers",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_rolls_out_new_costing_software_for_its_suppliers",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/esa_costing_software_ecos_6/27145531-5-eng-GB/ESA_costing_software_ECOS_6_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency (ESA) will release new software called ECOS version 6 on 30 March 2026 when all companies doing business with ESA will be required to use this version for use in their financial proposals for ESA Tender Actions.",
+    "published_at": "2026-03-11T15:50:00Z",
+    "updated_at": "2026-03-12T10:00:24.433393Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -925,6 +985,26 @@
     "detailed_news": ""
   },
   {
+    "id": 36758,
+    "title": "Starliner and Artemis: commercial label vs. commercial discipline",
+    "authors": [
+      {
+        "name": "Dan Garretson",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/f9-20260207.jpeg?fit=1024%2C541&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA’s Commercial Crew Program was supposed to be the template: services-based procurement, private ownership of hardware and competition between providers. Yet NASA has now formally designated Boeing’s 2024 Starliner crewed test flight as a Type A mishap — its most serious category — and leadership has been explicit that the most troubling failure was not […]\nThe post Starliner and Artemis: commercial label vs. commercial discipline appeared first on SpaceNews.",
+    "published_at": "2026-03-10T13:00:00Z",
+    "updated_at": "2026-03-10T13:00:54.815255Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36759,
     "title": "Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo",
     "authors": [
@@ -952,26 +1032,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36758,
-    "title": "Starliner and Artemis: commercial label vs. commercial discipline",
-    "authors": [
-      {
-        "name": "Dan Garretson",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/f9-20260207.jpeg?fit=1024%2C541&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA’s Commercial Crew Program was supposed to be the template: services-based procurement, private ownership of hardware and competition between providers. Yet NASA has now formally designated Boeing’s 2024 Starliner crewed test flight as a Type A mishap — its most serious category — and leadership has been explicit that the most troubling failure was not […]\nThe post Starliner and Artemis: commercial label vs. commercial discipline appeared first on SpaceNews.",
-    "published_at": "2026-03-10T13:00:00Z",
-    "updated_at": "2026-03-10T13:00:54.815255Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36757,
     "title": "NASA Invites Media to 63rd Annual Goddard Space Science Symposium",
     "authors": [
@@ -986,66 +1046,6 @@
     "summary": "Media are invited to attend the 63rd annual Goddard Space Science Symposium, taking place Thursday, March 12, and Friday, March 13, at the National Housing Center in Washington. The event also will be streamed online. Organized by the American Astronautical Society (AAS) in conjunction with NASA’s Goddard Space Flight Center in Greenbelt, Maryland, the symposium […]",
     "published_at": "2026-03-10T12:00:00Z",
     "updated_at": "2026-03-10T12:20:12.865176Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36756,
-    "title": "Landspace tests 220-ton methane engine for future heavy-lift launchers",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/landspace-tests-220-ton-methane-engine-for-future-heavy-lift-launchers/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/BF-FFSC-engine-hot-fire-March2026-Landspace.jpg?fit=1024%2C574&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nChinese launch startup Landspace says it has completed a long-duration full-system hot-fire test of its new 220-ton-class methane rocket engine for new-generation launchers.\nThe post Landspace tests 220-ton methane engine for future heavy-lift launchers appeared first on SpaceNews.",
-    "published_at": "2026-03-10T11:30:54Z",
-    "updated_at": "2026-03-10T11:40:29.688793Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36775,
-    "title": "ESA Calls on European Startups to Design Spaceplane",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-calls-on-european-startups-to-design-spaceplane/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/03/ESA-Calls-on-European-Startups-to-Design-Spaceplane.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency (ESA) has published a call for the design of a fully reusable, responsive launch system that employs spaceplanes. The call is restricted to non-prime contractors, limiting eligibility to small- and medium-sized enterprises (SMEs). ESA published the call on 27 February, noting that while current reusable launch systems are primarily based on […]\nThe post ESA Calls on European Startups to Design Spaceplane appeared first on European Spaceflight.",
-    "published_at": "2026-03-10T11:09:30Z",
-    "updated_at": "2026-03-10T21:20:14.531486Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36754,
-    "title": "Shades of a Lunar Eclipse",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shades-of-a-lunar-eclipse/alaskalunar_vir2_20260303.jpg",
-    "news_site": "NASA",
-    "summary": "A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse.",
-    "published_at": "2026-03-10T04:01:00Z",
-    "updated_at": "2026-03-10T04:10:19.322246Z",
     "featured": false,
     "launches": [],
     "events": [],
