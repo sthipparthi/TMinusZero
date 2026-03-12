@@ -1,5 +1,99 @@
 [
   {
+    "id": 36802,
+    "title": "Firefly Alpha returns to flight",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/firefly-alpha-returns-to-flight/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFirefly Aerospace’s Alpha rocket successfully returned to flight March 11, launching a technology demonstration mission more than 10 months after the rocket’s previous launch failed.\nThe post Firefly Alpha returns to flight appeared first on SpaceNews.",
+    "published_at": "2026-03-12T04:09:13Z",
+    "updated_at": "2026-03-12T04:10:27.095844Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36801,
+    "title": "Dust Outbreak Reaches Europe",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154772/tarimbasindust_vir2_20250901.jpg",
+    "news_site": "NASA",
+    "summary": "Clouds of dust lofted from the Sahara Desert brought hazy skies and muddy rain to Western Europe.",
+    "published_at": "2026-03-12T04:01:00Z",
+    "updated_at": "2026-03-12T04:10:10.459750Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36800,
+    "title": "The Post-Capacity Era of Satellite Connectivity",
+    "authors": [
+      {
+        "name": "Novaspace",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nParis, February 2026 — Novaspace’s Capacity Pricing Trends, 8th Edition finds the satellite connectivity market has entered a Post‑Capacity Era, where bandwidth is no longer the basis of differentiation. Starlink’s vertical integration and cost […]\nThe post The Post-Capacity Era of Satellite Connectivity appeared first on SpaceNews.",
+    "published_at": "2026-03-12T01:10:51Z",
+    "updated_at": "2026-03-12T01:20:31.521856Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36799,
+    "title": "Enpulsion raises $26 million",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/enpulsion-raises-26-million/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/enpulsion.jpeg?fit=1024%2C733&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEnpulsion, an Austrian company that produces satellite electric propulsion systems, has raised its first significant outside funding to increase production and potentially acquire other companies.\nThe post Enpulsion raises $26 million appeared first on SpaceNews.",
+    "published_at": "2026-03-12T00:21:11Z",
+    "updated_at": "2026-03-12T00:30:37.758067Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36798,
     "title": "Report criticizes delays in Artemis lunar lander development",
     "authors": [
@@ -831,26 +925,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36758,
-    "title": "Starliner and Artemis: commercial label vs. commercial discipline",
-    "authors": [
-      {
-        "name": "Dan Garretson",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/f9-20260207.jpeg?fit=1024%2C541&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA’s Commercial Crew Program was supposed to be the template: services-based procurement, private ownership of hardware and competition between providers. Yet NASA has now formally designated Boeing’s 2024 Starliner crewed test flight as a Type A mishap — its most serious category — and leadership has been explicit that the most troubling failure was not […]\nThe post Starliner and Artemis: commercial label vs. commercial discipline appeared first on SpaceNews.",
-    "published_at": "2026-03-10T13:00:00Z",
-    "updated_at": "2026-03-10T13:00:54.815255Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36759,
     "title": "Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo",
     "authors": [
@@ -872,6 +946,26 @@
     "summary": "\nDenver-based Lux Aeterna has secured $10 million in seed funding to develop a reusable satellite designed to survive atmospheric reentry and fly again with new payloads, starting with a demonstration flight slated for early 2027.\nThe post Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo appeared first on SpaceNews.",
     "published_at": "2026-03-10T13:00:00Z",
     "updated_at": "2026-03-10T13:00:54.846612Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36758,
+    "title": "Starliner and Artemis: commercial label vs. commercial discipline",
+    "authors": [
+      {
+        "name": "Dan Garretson",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/f9-20260207.jpeg?fit=1024%2C541&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA’s Commercial Crew Program was supposed to be the template: services-based procurement, private ownership of hardware and competition between providers. Yet NASA has now formally designated Boeing’s 2024 Starliner crewed test flight as a Type A mishap — its most serious category — and leadership has been explicit that the most troubling failure was not […]\nThe post Starliner and Artemis: commercial label vs. commercial discipline appeared first on SpaceNews.",
+    "published_at": "2026-03-10T13:00:00Z",
+    "updated_at": "2026-03-10T13:00:54.815255Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -952,93 +1046,6 @@
     "summary": "A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse.",
     "published_at": "2026-03-10T04:01:00Z",
     "updated_at": "2026-03-10T04:10:19.322246Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36753,
-    "title": "After years of missteps, Blue Origin to finally offer meaningful stock options",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1036093724.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"It's a big fat middle finger for those that thought they had something.\"",
-    "published_at": "2026-03-09T23:00:18Z",
-    "updated_at": "2026-03-09T23:10:10.448223Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36751,
-    "title": "Live coverage: SpaceX to launch direct television satellite for EchoStar",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/03/09/live-coverage-spacex-to-launch-direct-television-satellite-for-echostar/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260309_Echostar_XXV_vertical.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The launch of the EchoStar 25 satellite is SpaceX’s first launch to a geosynchronous transfer orbit so far this year. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 11:19 p.m. EDT (0319 UTC). ",
-    "published_at": "2026-03-09T21:58:19Z",
-    "updated_at": "2026-03-09T22:00:34.104316Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36752,
-    "title": "Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26",
-    "authors": [
-      {
-        "name": "Meridian",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/meridian-space-diplomacy-forum-executive-space-training-march-25-26/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/PrimaryLogo-2.png?fit=371%2C361&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWashington, D.C. — Meridian International Center today announced the return of its Space Diplomacy Forum: Shared Horizons (https://diplomacyforum.meridian.org/space), a half-day forum dedicated to advancing cooperation in outer space at a […]\nThe post Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26 appeared first on SpaceNews.",
-    "published_at": "2026-03-09T21:52:59Z",
-    "updated_at": "2026-03-09T22:00:34.795391Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36750,
-    "title": "SSTL to build spacecraft for private space telescope",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/sstl-to-build-spacecraft-for-private-space-telescope/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/lazuli.jpeg?fit=900%2C840&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSurrey Satellite Technology Ltd. (SSTL), a British company best known for developing small satellites, will help build a large, privately funded space telescope.\nThe post SSTL to build spacecraft for private space telescope appeared first on SpaceNews.",
-    "published_at": "2026-03-09T21:48:28Z",
-    "updated_at": "2026-03-09T21:50:26.495078Z",
     "featured": false,
     "launches": [],
     "events": [],
