@@ -1,6 +1,6 @@
 {
-  "count": 12,
-  "last_updated": "2026-03-16T00:07:52.718992Z",
+  "count": 11,
+  "last_updated": "2026-03-16T06:25:42.642622Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (12 failed/unavailable)"
+    "Empty AI summaries (11 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "9819a575-468b-41a3-b254-fe2db68889a4",
-      "name": "Kuaizhou 1A | Unknown Payload",
-      "status": "Go",
-      "net": "2026-03-16T04:10:00Z",
-      "window_start": "2026-03-16T04:04:00Z",
-      "window_end": "2026-03-16T04:42:00Z",
-      "lsp_name": "ExPace",
-      "lsp_description": "ExPace is a Chinese space rocket company based in Wuhan, Hubei, China. It is a wholly owned subsidiary of missileer China Aerospace Science and Industry Corporation (CASIC), a Chinese state-owned company, and serves as its commercial rocket division. ExPace is focused on small satellite launchers to low Earth orbit.",
-      "lsp_type": "Commercial",
-      "lsp_country": "CHN",
-      "lsp_logo": null,
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Launch Area 95A, Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 95A",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Kuaizhou 1A",
-      "rocket_config_description": "Kuaizhou is a family of Chinese \"quick-reaction\" orbital launch vehicles. Flying since 2013, Kuaizhou 1 and 1A consist of three solid-fueled rocket stages, with a liquid-fueled fourth stage as part of the satellite system.",
-      "rocket_config_family": "Kuaizhou",
-      "rocket_config_full_name": "Kuaizhou 1A",
-      "rocket_config_total_launch_count": 31,
-      "rocket_config_successful_launches": 28,
-      "rocket_config_failed_launches": 3,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "ExPace",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "ExPace is a Chinese space rocket company based in Wuhan, Hubei, China. It is a wholly owned subsidiary of missileer China Aerospace Science and Industry Corporation (CASIC), a Chinese state-owned company, and serves as its commercial rocket division. ExPace is focused on small satellite launchers to low Earth orbit.",
-      "rocket_manufacturer_total_launch_count": 32,
-      "rocket_manufacturer_successful_launches": 28,
-      "rocket_manufacturer_failed_launches": 4,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_1a_lau_image_20251206092920.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/9819a575-468b-41a3-b254-fe2db68889a4/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "42e15d83-d3b0-469d-9d58-580d242f364f",
       "name": "Falcon 9 Block 5 | Starlink Group 17-24",
@@ -558,7 +517,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 12,
-    "total_launches": 12
+    "empty_summaries": 11,
+    "total_launches": 11
   }
 }
