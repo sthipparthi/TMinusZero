@@ -1,5 +1,189 @@
 [
   {
+    "id": 36920,
+    "title": "Lava Flows Down Mayon",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/lava-flows-down-mayon/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/mayonvolcano-oli-20260226-lrg.jpg",
+    "news_site": "NASA",
+    "summary": "The OLI (Operational Land Imager) on Landsat 8 acquired this rare, relatively clear image of  Mayon, the most active volcano in the Philippines, on Feb. 26, 2026. The natural-color scene is overlaid with infrared observations to highlight the lava’s heat signature. On that day, the Philippine Institute of Volcanology and Seismology (PHIVOLCS) reported volcanic earthquakes, rockfalls, and hot clouds of ash […]",
+    "published_at": "2026-03-18T15:19:59Z",
+    "updated_at": "2026-03-18T15:20:06.564349Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36919,
+    "title": "From Service to Space Systems: A Pathways Journey to NASA",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/general/from-service-to-space-systems-a-pathways-journey-to-nasa/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/img-1086-rotated.jpeg",
+    "news_site": "NASA",
+    "summary": "For Corey Elmore, the path to NASA’s Kennedy Space Center did not begin in engineering. It began in service. Today he serves as a NASA Pathways engineering intern in the Technical Processes and Tools Branch (KSC-NE-TA) at Kennedy Space Center. Through the Pathways program, he is gaining hands-on experience supporting the engineering environments, technical tools […]",
+    "published_at": "2026-03-18T15:06:08Z",
+    "updated_at": "2026-03-18T15:10:18.859859Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36918,
+    "title": "Solar array deal sheds more light on South Korea’s defense constellation",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/solar-array-deal-sheds-more-light-on-south-koreas-defense-constellation/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Taehun-Tim-Ahn-Founder-CEO-of-Flexell-left-Atle-Woello-CEO-of-Kongsberg-NanoAvionics-right.-Credits-Kongsberg-NanoAvionics.jpg?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSouth Korea’s plans for a national security constellation are coming into sharper focus after a March 18 solar array supply deal set the stage for a first demonstrator as early as the second half of 2027.\nThe post Solar array deal sheds more light on South Korea’s defense constellation appeared first on SpaceNews.",
+    "published_at": "2026-03-18T14:57:51Z",
+    "updated_at": "2026-03-18T15:00:50.123965Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36917,
+    "title": "NASA’s Hubble Unexpectedly Catches Comet Breaking Up",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-unexpectedly-catches-comet-breaking-up/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/03/STScI-01KJ67XN05F6FZKR1NR53F4YKJ.jpg",
+    "news_site": "NASA",
+    "summary": "In a happy twist of fate, NASA’s Hubble Space Telescope just witnessed a comet in the act of breaking apart. The chance of that happening while Hubble watched is extraordinarily minuscule. The findings published Wednesday in the journal Icarus. The comet K1, whose full name is C/2025 K1 (ATLAS)—not to be confused with interstellar comet […]",
+    "published_at": "2026-03-18T14:00:36Z",
+    "updated_at": "2026-03-18T16:11:25.958970Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36916,
+    "title": "Hubble unexpectedly catches comet breaking up",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_unexpectedly_catches_comet_breaking_up",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/comet_c_2025_k1_atlas_november_2025/27155959-1-eng-GB/Comet_C_2025_K1_ATLAS_November_2025_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Comet K1, whose full name is Comet C/2025 K1 (ATLAS), had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. The odds of that happening while Hubble viewed the comet are extraordinarily miniscule.",
+    "published_at": "2026-03-18T14:00:00Z",
+    "updated_at": "2026-03-18T16:11:21.126472Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36915,
+    "title": "Frontier justice: navigating the future legal landscape for private actors in space law",
+    "authors": [
+      {
+        "name": "Tatiana Sainati, Christina Lucas and Natalia Szlarb",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/frontier-justice-navigating-the-future-legal-landscape-for-private-actors-in-space-law/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAt the dawn of the Space Age, then President-elect John F. Kennedy spoke to the American people of “a new frontier” of unknown opportunities and perils, unfulfilled hopes and unfilled threats, uncharted science and unsolved problems. Six years later, Star Trek expanded on President Kennedy’s new frontier premise with tales of the starship Enterprise boldly […]\nThe post Frontier justice: navigating the future legal landscape for private actors in space law appeared first on SpaceNews.",
+    "published_at": "2026-03-18T13:00:00Z",
+    "updated_at": "2026-03-18T13:02:55.946636Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36914,
+    "title": "China signals new target for 2027 asteroid deflection test",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-signals-new-target-for-2027-asteroid-deflection-test/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/dart-art.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChina has identified a new target near-Earth asteroid for its first planetary defense kinetic test mission, which is scheduled to launch in December 2027. \nThe post China signals new target for 2027 asteroid deflection test appeared first on SpaceNews.",
+    "published_at": "2026-03-18T12:45:19Z",
+    "updated_at": "2026-03-18T12:50:18.056038Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36912,
+    "title": "NASA grappling with planetary science funding shortfall",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-grappling-with-planetary-science-funding-shortfall/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/maven.jpeg?fit=1024%2C622&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA’s planetary science program, while spared steep cuts proposed last year, is still facing a funding shortfall that requires “strategic choices” about which missions to continue.\nThe post NASA grappling with planetary science funding shortfall appeared first on SpaceNews.",
+    "published_at": "2026-03-18T12:09:38Z",
+    "updated_at": "2026-03-18T12:10:36.064641Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36911,
     "title": "ESA Impact: our story so far this year",
     "authors": [
@@ -14,6 +198,26 @@
     "summary": "ESA Impact: our story so far this year",
     "published_at": "2026-03-18T09:57:00Z",
     "updated_at": "2026-03-18T10:10:21.252946Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36913,
+    "title": "OHB Sweden to build Sterna weather constellation",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/OHB_Sweden_to_build_Sterna_weather_constellation",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/07/arctic_weather_satellite_like_a_bird/26215897-1-eng-GB/Arctic_Weather_Satellite_like_a_bird_card_full.png",
+    "news_site": "ESA",
+    "summary": "Thanks to the success of the Arctic Weather Satellite prototype and Eumetsat’s recent greenlight to develop a full constellation of similar satellites called Sterna, the European Space Agency has awarded OHB Sweden with the contract to build 20 satellites.",
+    "published_at": "2026-03-18T09:00:00Z",
+    "updated_at": "2026-03-18T12:30:37.864668Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -829,200 +1033,6 @@
     "summary": "\nEast Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems will highlight its […]\nThe post New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference appeared first on SpaceNews.",
     "published_at": "2026-03-16T12:00:00Z",
     "updated_at": "2026-03-16T12:00:45.217589Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36870,
-    "title": "A century after the first rocket launch, Ars staffers pick their favorites",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-480542603.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"I realized that if something went wrong up there, things might go very badly down here.\"",
-    "published_at": "2026-03-16T11:00:56Z",
-    "updated_at": "2026-03-16T11:10:15.676980Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36869,
-    "title": "China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/china-launches-new-highly-retrograde-yaogan-satellite-kz-11-rideshare-deploys-8-satellites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Yaogan50-02-CZ6A-TSLC-15march2026-CASC.jpg?fit=1024%2C603&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nChina conducted a pair of launches Sunday, sending a second Yaogan-50 satellite into a highly retrograde orbit and completing a Kuaizhou-11 solid rocket rideshare mission.\nThe post China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites appeared first on SpaceNews.",
-    "published_at": "2026-03-16T10:59:46Z",
-    "updated_at": "2026-03-16T11:00:27.077503Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36868,
-    "title": "How does an ice satellite detect a geomagnetic storm?",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/How_does_an_ice_satellite_detect_a_geomagnetic_storm",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/cryosat_views_a_geomagnetic_storm/27151867-1-eng-GB/CryoSat_views_a_geomagnetic_storm_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "It seems improbable that a satellite designed to monitor polar ice sheets and floating sea ice could accurately measure a disturbance in Earth’s magnetic field. But that is just what ESA’s CryoSat mission did earlier this year.",
-    "published_at": "2026-03-16T08:00:00Z",
-    "updated_at": "2026-03-16T08:50:29.179973Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36874,
-    "title": "Cañon Fiord’s Whirling Waters",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/canon-fiords-whirling-waters/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ca%C3%B1on-fiord%E2%80%99s-whirling-waters/ellesmereislandwide_oli_20220809.jpg",
-    "news_site": "NASA",
-    "summary": "During the 2022 summer melt season, sediment plumes and fractured sea ice traced swirling eddies in a branch of the Nansen Sound fjord system in the Canadian Arctic.",
-    "published_at": "2026-03-16T04:00:00Z",
-    "updated_at": "2026-03-16T13:10:12.537741Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36867,
-    "title": "Starcloud files plans for 88,000-satellite constellation",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg?fit=1024%2C566&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAn orbital data center startup is seeking approval from the Federal Communications Commission for a constellation of as many as 88,000 satellites.\nThe post Starcloud files plans for 88,000-satellite constellation appeared first on SpaceNews.",
-    "published_at": "2026-03-15T22:32:15Z",
-    "updated_at": "2026-03-15T22:40:45.176713Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36866,
-    "title": "What’s Happening in Space Policy March 15-22, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-15-22-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-II-back-to-VAB-Feb-25-26-300x200.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of March 15-22, 2026 and any insight we can offer about them. The House and Senate […]",
-    "published_at": "2026-03-15T20:38:34Z",
-    "updated_at": "2026-03-15T20:40:24.880212Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36865,
-    "title": "OSTP taking on space policy coordination work in place of National Space Council",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/NSC_meeting-scaled.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn the absence of the National Space Council, the White House Office of Science and Technology Policy (OSTP) has taken on a lead role in coordinating national space policy.\nThe post OSTP taking on space policy coordination work in place of National Space Council appeared first on SpaceNews.",
-    "published_at": "2026-03-15T16:04:52Z",
-    "updated_at": "2026-03-15T16:10:28.884546Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36864,
-    "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-15-at-10.59.03-AM.png?fit=1024%2C526&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAnalysts are relying on tools that fuse satellite imagery, ship data and open-source reporting into real-time insight\nThe post Strait of Hormuz crisis drives demand for commercial geospatial intelligence appeared first on SpaceNews.",
-    "published_at": "2026-03-15T15:06:01Z",
-    "updated_at": "2026-03-15T15:10:37.057658Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36863,
-    "title": "Raytheon contract for protected satellite communications terminals raised by $2 billion",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/9335717-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe contract supports communications terminals used in the U.S. nuclear command-and-control architecture\nThe post Raytheon contract for protected satellite communications terminals raised by $2 billion appeared first on SpaceNews.",
-    "published_at": "2026-03-15T13:14:06Z",
-    "updated_at": "2026-03-15T13:20:24.137730Z",
     "featured": false,
     "launches": [],
     "events": [],
