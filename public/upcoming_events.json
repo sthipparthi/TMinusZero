@@ -1,6 +1,6 @@
 {
-  "count": 12,
-  "last_updated": "2026-03-19T18:12:03.393198Z",
+  "count": 11,
+  "last_updated": "2026-03-20T00:06:54.405849Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (12 failed/unavailable)"
+    "Empty AI summaries (11 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "1477dff4-27be-4fad-9120-a18f4eacbd57",
-      "name": "Soyuz 2.1b/Fregat-M | 16 x Rassvet-3",
-      "status": "Go",
-      "net": "2026-03-19T11:00:00Z",
-      "window_start": "2026-03-19T11:00:00Z",
-      "window_end": "2026-03-19T21:00:00Z",
-      "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-      "lsp_description": "The Roscosmos State Corporation for Space Activities, commonly known as Roscosmos, is the governmental body responsible for the space science program of the Russian Federation and general aerospace research. Soyuz has many launch locations the Russian sites are Baikonur, Plesetsk and Vostochny however Ariane also purchases the vehicle and launches it from French Guiana.",
-      "lsp_type": "Government",
-      "lsp_country": "RUS",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/russian2520federal2520space2520agency25202528roscosmos2529_logo_20190207032459.png",
-      "mission_name": "16 x Rassvet-3",
-      "mission_description": "Note: Payload identities uncertain.\r\n\r\nBatch of 16 Rassvet-3 Low Earth Orbit communication satellites for the Russian Byuro-1440 (Bureau 1440) constellation for broadband high-speed internet access in Russia.",
-      "mission_type": "Communications",
-      "orbit": "Polar Orbit",
-      "launch_site": "Unknown Pad, Plesetsk Cosmodrome, Russian Federation",
-      "pad": "Unknown Pad",
-      "location": "Plesetsk Cosmodrome, Russian Federation",
-      "rocket": "Soyuz 2.1b Fregat-M",
-      "rocket_config_description": "Soyuz-2, GRAU index 14A14, is the collective designation for the 21st-century version of the Russian Soyuz rocket. In its basic form, it is a three-stage carrier rocket for placing payloads into low Earth orbit. The first-stage boosters and two core stages feature uprated engines with improved injection systems, compared to the previous versions of the Soyuz. Digital flight control and telemetry systems allow the rocket to be launched from a fixed launch platform, whereas the launch platforms for earlier Soyuz rockets had to be rotated as the rocket could not perform a roll to change its heading in flight.",
-      "rocket_config_family": "Soyuz",
-      "rocket_config_full_name": "Soyuz 2.1b Fregat-M",
-      "rocket_config_total_launch_count": 35,
-      "rocket_config_successful_launches": 35,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 3,
-      "rocket_manufacturer_name": "Progress Rocket Space Center",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Progress Rocket Space Centre, formerly known as TsSKB-Progress, is a space science and aerospace research company which is known for manufacturing launch vehicles and satellites. Most notably, Progress Rocket Space Centre is the manufacturer of Soyuz launch vehicles.",
-      "rocket_manufacturer_total_launch_count": 45,
-      "rocket_manufacturer_successful_launches": 44,
-      "rocket_manufacturer_failed_launches": 1,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/1477dff4-27be-4fad-9120-a18f4eacbd57/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "36dd2ab6-b454-40c5-8707-7d38c69cf226",
       "name": "Electron | StriX Launch 8",
@@ -550,7 +509,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 12,
-    "total_launches": 12
+    "empty_summaries": 11,
+    "total_launches": 11
   }
 }
