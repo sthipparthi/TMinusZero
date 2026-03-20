@@ -1,5 +1,262 @@
 [
   {
+    "id": 36967,
+    "title": "NASA Exploration, Science Inspire “Project Hail Mary” Film",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/general/nasa-exploration-science-inspire-project-hail-mary-film/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/06-dg01304.jpg",
+    "news_site": "NASA",
+    "summary": "Real-life space exploration and big-screen science fiction will converge on Friday. As NASA prepares to launch Artemis II, the first crewed mission under the agency’s Artemis program and another step toward sending the first astronauts – Americans – to Mars, the fictional film “Project Hail Mary” premiere will take audiences on a journey into deep […]",
+    "published_at": "2026-03-20T17:22:28Z",
+    "updated_at": "2026-03-20T17:30:18.197786Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36962,
+    "title": "Jeff Bezos throws his hat in the ring for an orbital data center megaconstellation, too",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/getty-bezos.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"Space-based data centers will be a complement to terrestrial infrastructure.\"",
+    "published_at": "2026-03-20T14:46:39Z",
+    "updated_at": "2026-03-20T15:00:28.099719Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36965,
+    "title": "Artemis II rolls again",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_rolls_again",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/artemis_ii_rolls_again/27164107-1-eng-GB/Artemis_II_rolls_again_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-03-20T14:30:00Z",
+    "updated_at": "2026-03-20T15:50:27.283254Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36966,
+    "title": "Week in images: 16-20 March 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_March_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/first_picture_from_cupola_by_esa_astronaut_sophie_adenot/27160926-1-eng-GB/First_picture_from_Cupola_by_ESA_astronaut_Sophie_Adenot_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Week in images: 16-20 March 2026",
+    "published_at": "2026-03-20T14:10:00Z",
+    "updated_at": "2026-03-20T15:50:28.654661Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36959,
+    "title": "NASA Simulations Improve Artemis II Launch Environment",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/afrc2026-0048-20.jpg",
+    "news_site": "NASA",
+    "summary": "Airflow around rockets as they travel from Earth into space can have a dramatic impact on a mission, which is why NASA used advanced simulations to provide the best possible launch conditions for the Artemis II test flight around the Moon.  To better understand the Artemis Space Launch System (SLS) rocket’s flight environment, engineers turned to a NASA-developed tool called the Launch, Ascent, and Vehicle Aerodynamics […]",
+    "published_at": "2026-03-20T14:00:00Z",
+    "updated_at": "2026-03-20T14:31:54.988547Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36960,
+    "title": "Seven scientific benefits of ESA’s Genesis mission",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Seven_scientific_benefits_of_ESA_s_Genesis_mission",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/esa_s_genesis_satellite/27163736-1-eng-GB/ESA_s_Genesis_satellite_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Genesis is the European Space Agency’s (ESA) navigation mission to measure Earth down to the millimetre. This precise measurement of Earth will have wide-ranging benefits, from satellite navigation to orbit determination to Earth science.",
+    "published_at": "2026-03-20T13:55:00Z",
+    "updated_at": "2026-03-20T14:33:15.923326Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36961,
+    "title": "Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/03/20/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251007_Falcon-9_sunset.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 17-30 mission will be SpaceX’s 30th mission supporting its broadband internet satellites megaconstellation so far this year. Liftoff from pad 4 East at Vandenberg Space Force Base is scheduled for a launch window that opens at 2:48 p.m. PDT (5:48 p.m. EDT / 2148 UTC).",
+    "published_at": "2026-03-20T13:54:00Z",
+    "updated_at": "2026-03-20T14:32:09.617998Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "18292387-fbeb-43ac-97a0-1ade50bd68f1",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36958,
+    "title": "Holistic space observation: the shift from SSA to SDA",
+    "authors": [
+      {
+        "name": "Paul Maguire",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nRecent reporting on SpaceX’s proposal to deploy up to one million satellites in low Earth orbit — paired with a vision of AI-enabled, autonomous orbital infrastructure — marks a decisive moment for the space community. Regardless of whether these numbers ultimately materialize, the direction is unmistakable: space is moving toward unprecedented scale, autonomy and strategic […]\nThe post Holistic space observation: the shift from SSA to SDA appeared first on SpaceNews.",
+    "published_at": "2026-03-20T13:00:00Z",
+    "updated_at": "2026-03-20T13:02:01.382690Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36957,
+    "title": "NASA Glenn Opens Applications for Free Summer Engineering Institute",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/grc-2025-c-05567.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Glenn Research Center in Cleveland is hosting the 2026 NASA Glenn High School Engineering Institute this July. The hands-on learning experience is designed to help high school students prepare for a future in the aerospace workforce.   Rising high school juniors and seniors can submit applications for this summer program beginning Friday, March 20, through Friday, May 1.  The institute will immerse students in NASA’s work while providing essential career readiness tools to help them in future science, […]",
+    "published_at": "2026-03-20T13:00:00Z",
+    "updated_at": "2026-03-20T13:00:29.891427Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36956,
+    "title": "ESA to fly dedicated Crew Dragon mission to ISS",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/esa-to-fly-dedicated-crew-dragon-mission-to-iss/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/54676240636_a38e83ea8a_k1.jpg?fit=1024%2C575&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe European Space Agency plans to charter a SpaceX Crew Dragon mission to the International Space Station to give more flight opportunities for its astronauts.\nThe post ESA to fly dedicated Crew Dragon mission to ISS appeared first on SpaceNews.",
+    "published_at": "2026-03-20T12:18:38Z",
+    "updated_at": "2026-03-20T12:21:35.406968Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36963,
+    "title": "3 weeks and 3 cargo departures for Epsilon",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/3_weeks_and_3_cargo_departures_for_Epsilon",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/3_weeks_and_3_cargo_departures_for_epsilon/27163418-1-eng-GB/3_weeks_and_3_cargo_departures_for_Epsilon_card_full.png",
+    "news_site": "ESA",
+    "summary": "This video was published on social media by ESA astronaut Sophie Adenot with the following caption:",
+    "published_at": "2026-03-20T11:57:00Z",
+    "updated_at": "2026-03-20T15:20:26.246925Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36964,
+    "title": "3 weeks and 3 cargo departures for εpsilon",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/3_weeks_and_3_cargo_departures_for_epsilon",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/3_weeks_and_3_cargo_departures_for_epsilon/27163418-1-eng-GB/3_weeks_and_3_cargo_departures_for_Epsilon_card_full.png",
+    "news_site": "ESA",
+    "summary": "This video was published on social media by ESA astronaut Sophie Adenot with the following caption:",
+    "published_at": "2026-03-20T11:57:00Z",
+    "updated_at": "2026-03-20T15:40:29.154344Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36955,
     "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
     "authors": [
@@ -763,275 +1020,6 @@
     "summary": "\nSouth Korea’s plans for a national security constellation are coming into sharper focus after a March 18 solar array supply deal set the stage for a first demonstrator as early as the second half of 2027.\nThe post Solar array deal sheds more light on South Korea’s defense constellation appeared first on SpaceNews.",
     "published_at": "2026-03-18T14:57:51Z",
     "updated_at": "2026-03-18T15:00:50.123965Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36927,
-    "title": "ESA to Incentivise the Use of European Launchers for LEO Cargo Return Initiative",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-to-incentivise-the-use-of-european-launchers-for-leo-cargo-return-initiative/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/03/ESA-to-Incentivise-the-Use-of-European-Launchers-for-LEO-Cargo-Return-Initiative.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency (ESA) plans to provide a financial incentive to companies awarded Phase 2 contracts under its LEO Cargo Return Services initiative to use European launch services for their demonstration missions. Initially announced in May 2023, the LEO Cargo Return Service initiative aims to foster the development of a sovereign European space cargo […]\nThe post ESA to Incentivise the Use of European Launchers for LEO Cargo Return Initiative appeared first on European Spaceflight.",
-    "published_at": "2026-03-18T14:08:47Z",
-    "updated_at": "2026-03-18T22:00:28.254633Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36917,
-    "title": "NASA’s Hubble Unexpectedly Catches Comet Breaking Up",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-unexpectedly-catches-comet-breaking-up/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/03/STScI-01KJ67XN05F6FZKR1NR53F4YKJ.jpg",
-    "news_site": "NASA",
-    "summary": "In a happy twist of fate, NASA’s Hubble Space Telescope just witnessed a comet in the act of breaking apart. The chance of that happening while Hubble watched is extraordinarily minuscule. The findings published Wednesday in the journal Icarus. The comet K1, whose full name is C/2025 K1 (ATLAS)—not to be confused with interstellar comet […]",
-    "published_at": "2026-03-18T14:00:36Z",
-    "updated_at": "2026-03-18T16:11:25.958970Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36916,
-    "title": "Hubble unexpectedly catches comet breaking up",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_unexpectedly_catches_comet_breaking_up",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/comet_c_2025_k1_atlas_november_2025/27155959-1-eng-GB/Comet_C_2025_K1_ATLAS_November_2025_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Comet K1, whose full name is Comet C/2025 K1 (ATLAS), had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. The odds of that happening while Hubble viewed the comet are extraordinarily miniscule.",
-    "published_at": "2026-03-18T14:00:00Z",
-    "updated_at": "2026-03-18T16:11:21.126472Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36915,
-    "title": "Frontier justice: navigating the future legal landscape for private actors in space law",
-    "authors": [
-      {
-        "name": "Tatiana Sainati, Christina Lucas and Natalia Szlarb",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/frontier-justice-navigating-the-future-legal-landscape-for-private-actors-in-space-law/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAt the dawn of the Space Age, then President-elect John F. Kennedy spoke to the American people of “a new frontier” of unknown opportunities and perils, unfulfilled hopes and unfilled threats, uncharted science and unsolved problems. Six years later, Star Trek expanded on President Kennedy’s new frontier premise with tales of the starship Enterprise boldly […]\nThe post Frontier justice: navigating the future legal landscape for private actors in space law appeared first on SpaceNews.",
-    "published_at": "2026-03-18T13:00:00Z",
-    "updated_at": "2026-03-18T13:02:55.946636Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36914,
-    "title": "China signals new target for 2027 asteroid deflection test",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/china-signals-new-target-for-2027-asteroid-deflection-test/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/dart-art.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nChina has identified a new target near-Earth asteroid for its first planetary defense kinetic test mission, which is scheduled to launch in December 2027. \nThe post China signals new target for 2027 asteroid deflection test appeared first on SpaceNews.",
-    "published_at": "2026-03-18T12:45:19Z",
-    "updated_at": "2026-03-18T12:50:18.056038Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36912,
-    "title": "NASA grappling with planetary science funding shortfall",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-grappling-with-planetary-science-funding-shortfall/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/maven.jpeg?fit=1024%2C622&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA’s planetary science program, while spared steep cuts proposed last year, is still facing a funding shortfall that requires “strategic choices” about which missions to continue.\nThe post NASA grappling with planetary science funding shortfall appeared first on SpaceNews.",
-    "published_at": "2026-03-18T12:09:38Z",
-    "updated_at": "2026-03-18T12:10:36.064641Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36911,
-    "title": "ESA Impact: our story so far this year",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_January-March",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/esa_impact_2026_q1_cover/27156542-2-eng-GB/ESA_Impact_2026_Q1_cover_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA Impact: our story so far this year",
-    "published_at": "2026-03-18T09:57:00Z",
-    "updated_at": "2026-03-18T10:10:21.252946Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36913,
-    "title": "OHB Sweden to build Sterna weather constellation",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/OHB_Sweden_to_build_Sterna_weather_constellation",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/07/arctic_weather_satellite_like_a_bird/26215897-1-eng-GB/Arctic_Weather_Satellite_like_a_bird_card_full.png",
-    "news_site": "ESA",
-    "summary": "Thanks to the success of the Arctic Weather Satellite prototype and Eumetsat’s recent greenlight to develop a full constellation of similar satellites called Sterna, the European Space Agency has awarded OHB Sweden with the contract to build 20 satellites.",
-    "published_at": "2026-03-18T09:00:00Z",
-    "updated_at": "2026-03-18T12:30:37.864668Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36953,
-    "title": "T-20 days: Smile to launch on 9 April",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/T-20_days_Smile_to_launch_on_9_April",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_delivered_to_space_artist_impression_gif/27126681-1-eng-GB/Smile_delivered_to_space_artist_impression_GIF_card_full.gif",
-    "news_site": "ESA",
-    "summary": "The Smile mission is set to launch on a Vega-C rocket from Europe’s Spaceport in French Guiana on Thursday 9 April at 08:29 CEST/07:29 BST/03:29 local time. Follow along as we communicate on the final preparations for launch. Journalists are invited to join online media briefings in English, French, Spanish, Italian and German.",
-    "published_at": "2026-03-18T09:00:00Z",
-    "updated_at": "2026-03-20T10:05:08.638350Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36910,
-    "title": "Wave of Dust Rolls Through Texas",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/wave-of-dust-rolls-through-texas/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/wave-of-dust-rolls-through-texas/texasdust_amo_20260315.jpg",
-    "news_site": "NASA",
-    "summary": "An advancing cold front kicked up a sharp line of sand and other small particles that swept over the high plains.",
-    "published_at": "2026-03-18T04:01:00Z",
-    "updated_at": "2026-03-18T04:10:16.463757Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36909,
-    "title": "Space Force overhauls buying structure with new mission portfolios",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-force-overhauls-buying-structure-with-new-mission-portfolios/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/250910-X-X0813-1003-scaled.jpg?fit=1024%2C682&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNew structure gives ‘Portfolio Acquisition Executives’ authority over funding, requirements and integration across major space missions\nThe post Space Force overhauls buying structure with new mission portfolios appeared first on SpaceNews.",
-    "published_at": "2026-03-17T22:44:40Z",
-    "updated_at": "2026-03-17T22:50:44.152108Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36908,
-    "title": "Telesat pivots Lightspeed toward defense as delays push global service to 2028",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/telesat-pivots-lightspeed-toward-defense-as-delays-push-global-service-to-2028/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/UPDATED-Telesat-Lightspeed-Satellite-Rendering.webp?fit=856%2C600&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nTelesat plans to carve out 25% of its Lightspeed broadband constellation for military Ka-band as the program’s latest delay pushes global service into early 2028, creating more room to align the design with shifting geopolitical priorities.\nThe post Telesat pivots Lightspeed toward defense as delays push global service to 2028 appeared first on SpaceNews.",
-    "published_at": "2026-03-17T21:22:08Z",
-    "updated_at": "2026-03-17T21:30:39.103794Z",
     "featured": false,
     "launches": [],
     "events": [],
