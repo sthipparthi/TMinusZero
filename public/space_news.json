@@ -1,5 +1,72 @@
 [
   {
+    "id": 36955,
+    "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/spectrum-rocket.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"Our security, our prosperity, and our sovereignty will increasingly extend beyond our atmosphere.\"",
+    "published_at": "2026-03-20T11:45:25Z",
+    "updated_at": "2026-03-20T11:50:17.117883Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36954,
+    "title": "Kayhan targets investors, insurers with expanded orbital intelligence platform",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Global-Kayhan.jpg?fit=1024%2C655&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nTAMPA, Fla. — Kayhan Space is branching out from providing orbital intelligence used to coordinate satellite fleets with a new software platform that turns that data into business insights for investors and insurers. The Colorado-based venture unveiled its Satcat Terminal March 20, akin to the Bloomberg Terminal widely used by finance professionals for real-time market […]\nThe post Kayhan targets investors, insurers with expanded orbital intelligence platform appeared first on SpaceNews.",
+    "published_at": "2026-03-20T11:00:00Z",
+    "updated_at": "2026-03-20T11:00:41.816269Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36952,
+    "title": "Earth from Space: Jostedalsbreen, Norway",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Jostedalsbreen_Norway",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/earth_from_space_jostedalsbreen_norway/27162989-1-eng-GB/Earth_from_Space_Jostedalsbreen_Norway_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-03-20T09:00:00Z",
+    "updated_at": "2026-03-20T09:31:26.605081Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36951,
     "title": "Restless Kīlauea Launches Lava and Ash",
     "authors": [
@@ -879,6 +946,31 @@
     "detailed_news": ""
   },
   {
+    "id": 36953,
+    "title": "T-20 days: Smile to launch on 9 April",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/T-20_days_Smile_to_launch_on_9_April",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_delivered_to_space_artist_impression_gif/27126681-1-eng-GB/Smile_delivered_to_space_artist_impression_GIF_card_full.gif",
+    "news_site": "ESA",
+    "summary": "The Smile mission is set to launch on a Vega-C rocket from Europe’s Spaceport in French Guiana on Thursday 9 April at 08:29 CEST/07:29 BST/03:29 local time. Follow along as we communicate on the final preparations for launch. Journalists are invited to join online media briefings in English, French, Spanish, Italian and German.",
+    "published_at": "2026-03-18T09:00:00Z",
+    "updated_at": "2026-03-20T10:05:08.638350Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36910,
     "title": "Wave of Dust Rolls Through Texas",
     "authors": [
@@ -940,93 +1032,6 @@
     "summary": "\nTelesat plans to carve out 25% of its Lightspeed broadband constellation for military Ka-band as the program’s latest delay pushes global service into early 2028, creating more room to align the design with shifting geopolitical priorities.\nThe post Telesat pivots Lightspeed toward defense as delays push global service to 2028 appeared first on SpaceNews.",
     "published_at": "2026-03-17T21:22:08Z",
     "updated_at": "2026-03-17T21:30:39.103794Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36907,
-    "title": "NASA’s X-59 Prepares for Second Flight",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-second-flight/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/afrc2026-0048-20.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s X-59 experimental aircraft is preparing for its second flight, a step that will set the pace for more flight testing in 2026.  Over the coming months, NASA will take the quiet supersonic jet faster and higher, while validating safety and performance, a process known as envelope expansion.  NASA test pilot Jim “Clue” Less will be at the X-59’s […]",
-    "published_at": "2026-03-17T20:55:48Z",
-    "updated_at": "2026-03-17T21:00:18.652461Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36906,
-    "title": "Office of Space Commerce weighing options for TraCSS user fees",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/office-of-space-commerce-weighing-options-for-tracss-user-fees/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/cropped-TraCSS_16x9-1024x683-1.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Trump administration has not yet decided whether to charge for space safety data despite a change in space policy enabling the government to do so.\nThe post Office of Space Commerce weighing options for TraCSS user fees appeared first on SpaceNews.",
-    "published_at": "2026-03-17T20:48:46Z",
-    "updated_at": "2026-03-17T20:50:36.268313Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36905,
-    "title": "Dim Delights in Cancer",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/dim-delights-in-cancer/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2024/02/m44-wfc3-ok-flat-final.jpg",
-    "news_site": "NASA",
-    "summary": "Cancer the Crab is a dim constellation, yet it contains one of the most beautiful and easy-to-spot star clusters in our sky: the Beehive Cluster. Cancer also possesses one of the most studied exoplanets: the superhot super-Earth, 55 Cancri e. Find Cancer’s dim stars by looking in between the brighter neighboring constellations of Gemini and […]",
-    "published_at": "2026-03-17T19:41:48Z",
-    "updated_at": "2026-03-17T20:10:14.408854Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36904,
-    "title": "Space boom strains supply chain, industry report warns",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/Solar-Array-Assembly-Amazon-Image-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe industry’s supply network, built for smaller volumes and slower production cycles, is struggling to keep pace.\nThe post Space boom strains supply chain, industry report warns appeared first on SpaceNews.",
-    "published_at": "2026-03-17T19:08:32Z",
-    "updated_at": "2026-03-17T19:11:50.062491Z",
     "featured": false,
     "launches": [],
     "events": [],
