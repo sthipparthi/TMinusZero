@@ -1,5 +1,72 @@
 [
   {
+    "id": 36987,
+    "title": "What’s Happening in Space Policy March 22-28, 2026",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-22-28-2026/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/progress-ms33-300x168.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of March 22-28, 2026 and any insight we can offer about them. The House and Senate are in session […]",
+    "published_at": "2026-03-22T21:20:33Z",
+    "updated_at": "2026-03-22T21:30:13.184778Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36986,
+    "title": "Transformational Tools and Technologies Resources",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/lrc-2025-ocio-p-03625-mod-a-0c4750.jpg",
+    "news_site": "NASA",
+    "summary": "Vision Studies, Analysis of Alternatives (AoA) Studies, and White Papers",
+    "published_at": "2026-03-22T18:59:32Z",
+    "updated_at": "2026-03-22T19:01:55.431359Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36985,
+    "title": "SpaceX offers details on orbital data center satellites",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-offers-details-on-orbital-data-center-satellites/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starship-aisatmini.jpeg?fit=1024%2C572&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX Chief Executive Elon Musk revealed more technical, but not financial, details about his company’s plans to deploy an orbital data center constellation.\nThe post SpaceX offers details on orbital data center satellites appeared first on SpaceNews.",
+    "published_at": "2026-03-22T18:08:55Z",
+    "updated_at": "2026-03-22T18:30:25.043136Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 36984,
     "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
     "authors": [
@@ -953,66 +1020,6 @@
     "summary": "German space technology company OHB has been awarded a €248 million contract by the European Space Agency to develop and build 20 small satellites for EUMETSAT’s EPS-Sterna weather satellite constellation. The EPS-Sterna constellation is an expansion of the capabilities successfully demonstrated by the Arctic Weather Satellite, which was launched aboard a SpaceX Falcon 9 in […]\nThe post ESA Awards OHB a €248 Million Contract to Build Weather Satellite Constellation appeared first on European Spaceflight.",
     "published_at": "2026-03-19T14:02:26Z",
     "updated_at": "2026-03-19T14:20:14.397517Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36939,
-    "title": "Proba-3’s Coronagraph is alive!",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3_s_Coronagraph_is_alive",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/proba-3_s_coronagraph_captured_by_the_occulter/27162569-1-eng-GB/Proba-3_s_Coronagraph_captured_by_the_Occulter_card_full.png",
-    "news_site": "ESA",
-    "summary": "A month after an anomaly onboard the Proba-3 mission caused ground control to lose contact with the Coronagraph spacecraft, the mission team shares great news: the spacecraft has phoned home, re-establishing the lost connection. ",
-    "published_at": "2026-03-19T14:00:00Z",
-    "updated_at": "2026-03-19T14:30:14.658666Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36940,
-    "title": "345th ESA Council: Media information session",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/345th_ESA_Council_Media_information_session",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/345th_esa_council_media_information_session/27162489-1-eng-GB/345th_ESA_Council_Media_information_session_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Watch the replay of the media information session where ESA Director General Josef Aschbacher and ESA Council Chair Renato Krpoun outline the key decisions and main outcomes of the Council meeting held in Interlaken, Switzerland, on 18 and 19 March 2026.",
-    "published_at": "2026-03-19T14:00:00Z",
-    "updated_at": "2026-03-19T14:52:23.545079Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36934,
-    "title": "Meet the Platypi: NASA’s Newest Astronaut Candidate Class",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/meet-the-platypi-nasas-newest-astronaut-candidate-class/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/jsc2025e091025.jpg",
-    "news_site": "NASA",
-    "summary": "Ten explorers are currently training at NASA’s Johnson Space Center in Houston to become flight-eligible astronauts.  Selected in 2025, the astronaut candidates are building the technical and operational skills needed for future missions to the International Space Station, the Moon, and eventually Mars. Now, NASA’s newest astronaut candidates have a class name: the Platypi.  The name was selected […]",
-    "published_at": "2026-03-19T13:00:00Z",
-    "updated_at": "2026-03-19T13:04:03.639291Z",
     "featured": false,
     "launches": [],
     "events": [],
