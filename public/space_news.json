@@ -1,21 +1,78 @@
 [
   {
-    "id": 36988,
-    "title": "A Fault Line in Full Bloom",
+    "id": 36992,
+    "title": "Watch live: First Celeste launch",
     "authors": [
       {
-        "name": "NASA",
+        "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-fault-line-in-full-bloom/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-fault-line-in-full-bloom/carrizobloomwide_oli_20260305.jpg",
-    "news_site": "NASA",
-    "summary": "Plains around the San Andreas Fault and across Carrizo Plain National Monument are awash with yellow as wildflowers bloom.",
-    "published_at": "2026-03-23T04:01:00Z",
-    "updated_at": "2026-03-23T04:10:39.915099Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Watch_live_First_Celeste_launch",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/celeste_iod-1_and_2_on_electron_s_kick_stage_artist_impression/27150517-1-eng-GB/Celeste_IOD-1_and_2_on_Electron_s_kick_stage_artist_impression_card_full.png",
+    "news_site": "ESA",
+    "summary": "On 25 March, the first two satellites of the Celeste LEO-PNT in-orbit demonstration mission will lift off aboard Rocket Lab’s Electron rocket from the company’s Māhia Launch Complex in New Zealand.",
+    "published_at": "2026-03-23T10:06:00Z",
+    "updated_at": "2026-03-23T11:08:52.927948Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "b0ca3e7a-650e-4af6-bdf9-658e6e114763",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36991,
+    "title": "Lunar lander developers say they are ready to meet anticipated increased NASA demand",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/lunar-lander-developers-say-they-are-ready-to-meet-anticipated-increased-nasa-demand/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/novac-im4.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nTwo lunar lander companies say they’re ready to meet NASA’s plans for a major increase in the cadence of landings but offered few details about how they would do so.\nThe post Lunar lander developers say they are ready to meet anticipated increased NASA demand appeared first on SpaceNews.",
+    "published_at": "2026-03-23T09:40:29Z",
+    "updated_at": "2026-03-23T09:41:02.957070Z",
     "featured": false,
     "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36990,
+    "title": "A rare encounter: How Juice came to observe 3I/ATLAS",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Operations/A_rare_encounter_How_Juice_came_to_observe_3I_ATLAS",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/juice_s_navcam_video_of_3i_atlas_cruising_through_space/27162890-1-eng-GB/Juice_s_NavCam_video_of_3I_ATLAS_cruising_through_space_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "No matter how much planning goes into space missions, one must always expect the unexpected. But luck favours the prepared. In July 2025, an unexpected visitor entered our Solar System, interstellar object 3I/ATLAS. ESA’s Jupiter Icy Moons Explorer – Juice – happened to be in the right place, with the right equipment, at the right time to see it.",
+    "published_at": "2026-03-23T07:30:00Z",
+    "updated_at": "2026-03-23T07:34:58.933175Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "4066e51e-93ce-46f7-9806-9d2d712107a6",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -41,6 +98,26 @@
     "summary": "\nSwissto12, the Switzerland-based small geostationary satellite specialist, has signed a contract to build the first optical relay spacecraft using its washing machine-sized HummingSat platform.\nThe post Swissto12 to build small optical relay GEO satellite for Space Compass appeared first on SpaceNews.",
     "published_at": "2026-03-23T04:01:00Z",
     "updated_at": "2026-03-23T04:11:11.556514Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 36988,
+    "title": "A Fault Line in Full Bloom",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-fault-line-in-full-bloom/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-fault-line-in-full-bloom/carrizobloomwide_oli_20260305.jpg",
+    "news_site": "NASA",
+    "summary": "Plains around the San Andreas Fault and across Carrizo Plain National Monument are awash with yellow as wildflowers bloom.",
+    "published_at": "2026-03-23T04:01:00Z",
+    "updated_at": "2026-03-23T04:10:39.915099Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -672,26 +749,6 @@
     "detailed_news": ""
   },
   {
-    "id": 36963,
-    "title": "3 weeks and 3 cargo departures for Epsilon",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/3_weeks_and_3_cargo_departures_for_Epsilon",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/3_weeks_and_3_cargo_departures_for_epsilon/27163418-1-eng-GB/3_weeks_and_3_cargo_departures_for_Epsilon_card_full.png",
-    "news_site": "ESA",
-    "summary": "This video was published on social media by ESA astronaut Sophie Adenot with the following caption:",
-    "published_at": "2026-03-20T11:57:00Z",
-    "updated_at": "2026-03-20T15:20:26.246925Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 36964,
     "title": "3 weeks and 3 cargo departures for εpsilon",
     "authors": [
@@ -987,46 +1044,6 @@
     "summary": "An American bald eagle flies away from its nest and tree at NASA’s Kennedy Space Center in Florida on Friday, March 13, 2026. Bald eagle nesting surveys across NASA Kennedy, Merritt Island National Wildlife Refuge, and Canaveral National Seashore are conducted annually to document the number of bald eagle active and inactive nests in support […]",
     "published_at": "2026-03-19T15:16:25Z",
     "updated_at": "2026-03-19T15:20:13.149608Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36943,
-    "title": "How NASA is Collecting Explosion Data for Next Generation Rockets",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/stennis/collecting-explosion-data-for-next-generation-rockets/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/joe-schuyler-4x3-1.jpg",
-    "news_site": "NASA",
-    "summary": "Commercial launch providers continue to advance propulsion technology with a renewed focus on liquid oxygen and methane propelled rockets and spacecraft. As systems grow in scale, carrying millions of pounds of propellant, so too does the responsibility to fully understand the safety profile. Engineers at NASA, with decades of cryogenic and test operations expertise, are […]",
-    "published_at": "2026-03-19T15:13:24Z",
-    "updated_at": "2026-03-19T15:20:13.207462Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36941,
-    "title": "NASA Laser Reflecting Instrument Makes GPS Satellite More Accurate",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instrument-makes-gps-satellite-more-accurate/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/260128-X-X0813-1001.png",
-    "news_site": "NASA",
-    "summary": "A NASA laser reflecting technology that will aid Global Positioning System (GPS) accuracy is now operational as of March 9. The instrument, known as a laser retroreflector array, or LRA, launched aboard GPS III SV-09, the ninth of U.S. Space Force’s Block III Global Positioning System satellites, on Jan. 27. LRAs are sets of mirrors […]",
-    "published_at": "2026-03-19T15:00:00Z",
-    "updated_at": "2026-03-19T15:10:18.030007Z",
     "featured": false,
     "launches": [],
     "events": [],
