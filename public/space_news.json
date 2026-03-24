@@ -1,5 +1,120 @@
 [
   {
+    "id": 37016,
+    "title": "Orbital data centers, part 1: There’s no way this is economically viable, right?",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/space-datacenter-analysis-two.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"This is not physically impossible; it’s only a question of whether this is a rational thing.\"",
+    "published_at": "2026-03-24T11:00:59Z",
+    "updated_at": "2026-03-24T11:10:12.734045Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37015,
+    "title": "Fusion engine for missile warning lacks a government dataset",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/fusion-engine-for-missile-warning-lacks-a-government-dataset/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_screenshot_2026-03-23_at_42429-pm.png?fit=879%2C585&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWASHINGTON – National missile warning and tracking could be improved if all government agencies shared the raw data they gather. “There are agencies that have sensors that can provide data that would be very supplemental to the missile-defense mission, but they designed it for a completely different purpose,” Devin Elder, Northrop Grumman Strategic Space Systems […]\nThe post Fusion engine for missile warning lacks a government dataset appeared first on SpaceNews.",
+    "published_at": "2026-03-24T10:30:00Z",
+    "updated_at": "2026-03-24T10:30:32.626450Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37014,
+    "title": "Smile fuelled for launch",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Smile_fuelled_for_launch",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/smile_fuelled_for_launch/27167641-1-eng-GB/Smile_fuelled_for_launch_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-03-24T10:00:00Z",
+    "updated_at": "2026-03-24T10:22:21.119606Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37012,
+    "title": "XRISM solves famous star’s 50-year mystery",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/XRISM_solves_famous_star_s_50-year_mystery",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/gamma-cas_and_its_hungry_white_dwarf_companion/27166121-1-eng-GB/Gamma-Cas_and_its_hungry_white_dwarf_companion_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "An invisible companion consuming material from the naked-eye star gamma-Cas has been revealed as the culprit for curious X-rays coming from the stellar system. This closes the case on a mystery that has puzzled astronomers for more than fifty years.",
+    "published_at": "2026-03-24T08:00:00Z",
+    "updated_at": "2026-03-24T09:29:50.377892Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "2ba0b63c-e5f6-4899-b588-387c7c8e71ca",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37013,
+    "title": "US-Based Katalyst Selects Ariane 6 to Launch Satellite Servicing Spacecraft",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/us-based-katalyst-selects-ariane-6-to-launch-satellite-servicing-spacecraft/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/03/US-Based-Katalyst-Selects-Ariane-6-to-Launch-Satellite-Servicing-Spacecraft.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Arizona-headquartered space operations company Katalyst Space Technologies has signed a contract with Arianespace to launch its NEXUS-1 satellite servicing spacecraft aboard an Ariane 6 in 2027. The NEXUS-1 spacecraft is designed to operate in geostationary orbit (GEO), docking with satellites to perform a range of in-orbit servicing duties, including installing new hardware, repositioning satellites, and […]\r\nThe post US-Based Katalyst Selects Ariane 6 to Launch Satellite Servicing Spacecraft appeared first on European Spaceflight.",
+    "published_at": "2026-03-24T07:05:02Z",
+    "updated_at": "2026-03-24T09:27:40.850368Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "86d2e053-fb3d-4884-8f47-62527e104d4c",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37011,
     "title": "Tropical Cyclone Narelle Crosses Australia",
     "authors": [
@@ -929,111 +1044,6 @@
     "updated_at": "2026-03-20T18:30:17.703344Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36967,
-    "title": "NASA Exploration, Science Inspire “Project Hail Mary” Film",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/nasa-exploration-science-inspire-project-hail-mary-film/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/06-dg01304.jpg",
-    "news_site": "NASA",
-    "summary": "Real-life space exploration and big-screen science fiction will converge on Friday. As NASA prepares to launch Artemis II, the first crewed mission under the agency’s Artemis program and another step toward sending the first astronauts – Americans – to Mars, the fictional film “Project Hail Mary” premiere will take audiences on a journey into deep […]",
-    "published_at": "2026-03-20T17:22:28Z",
-    "updated_at": "2026-03-20T17:30:18.197786Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36962,
-    "title": "Jeff Bezos throws his hat in the ring for an orbital data center megaconstellation, too",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/getty-bezos.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"Space-based data centers will be a complement to terrestrial infrastructure.\"",
-    "published_at": "2026-03-20T14:46:39Z",
-    "updated_at": "2026-03-20T15:00:28.099719Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36965,
-    "title": "Artemis II rolls again",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_rolls_again",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/artemis_ii_rolls_again/27164107-1-eng-GB/Artemis_II_rolls_again_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-03-20T14:30:00Z",
-    "updated_at": "2026-03-20T15:50:27.283254Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36966,
-    "title": "Week in images: 16-20 March 2026",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_March_2026",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/first_picture_from_cupola_by_esa_astronaut_sophie_adenot/27160926-1-eng-GB/First_picture_from_Cupola_by_ESA_astronaut_Sophie_Adenot_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 16-20 March 2026",
-    "published_at": "2026-03-20T14:10:00Z",
-    "updated_at": "2026-03-20T15:50:28.654661Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36959,
-    "title": "NASA Simulations Improve Artemis II Launch Environment",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/afrc2026-0048-20.jpg",
-    "news_site": "NASA",
-    "summary": "Airflow around rockets as they travel from Earth into space can have a dramatic impact on a mission, which is why NASA used advanced simulations to provide the best possible launch conditions for the Artemis II test flight around the Moon.  To better understand the Artemis Space Launch System (SLS) rocket’s flight environment, engineers turned to a NASA-developed tool called the Launch, Ascent, and Vehicle Aerodynamics […]",
-    "published_at": "2026-03-20T14:00:00Z",
-    "updated_at": "2026-03-20T14:31:54.988547Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
