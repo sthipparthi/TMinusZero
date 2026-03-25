@@ -1,5 +1,45 @@
 [
   {
+    "id": 37040,
+    "title": "Kona Storms Flood Oʻahu",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/kona-storms-flood-o'ahu/oahu_oli2_20260125.jpg",
+    "news_site": "NASA",
+    "summary": "Back-to-back subtropical cyclones in March fueled destructive flash flooding on several of the Hawaiian Islands.",
+    "published_at": "2026-03-25T04:01:00Z",
+    "updated_at": "2026-03-25T04:10:31.960127Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37039,
+    "title": "NASA outlines ambitious $20 billion plan for moon base",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/03/25/nasa-outlines-ambitious-20-billion-plan-for-moon-base/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260324_Isaacman_Ignition.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "Along with plans for a moon base, senior NASA managers also outlined work to develop nuclear power systems for use on the moon and Mars to keep astronauts, habitats and other equipment warm while providing the electricity needed for research, construction and daily operations. ",
+    "published_at": "2026-03-25T00:56:20Z",
+    "updated_at": "2026-03-25T01:03:30.575266Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37038,
     "title": "NASA PC-12 Aircraft Makes Move to Support Flight Research Across Agency",
     "authors": [
@@ -981,58 +1021,6 @@
     "summary": "\nWhen we talk about national space infrastructure, we talk about rockets, launch pads and ground stations. We invest billions in the vehicles that carry astronauts to the moon and the telescopes that peer to the edge of the universe. But we rarely talk about the software that makes all of it work. That is a […]\nThe post The software behind Artemis, Gateway and America’s defense in space deserves its own strategy appeared first on SpaceNews.",
     "published_at": "2026-03-23T13:00:00Z",
     "updated_at": "2026-03-23T13:03:25.989507Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36992,
-    "title": "Watch live: First Celeste launch",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Watch_live_First_Celeste_launch",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/celeste_iod-1_and_2_on_electron_s_kick_stage_artist_impression/27150517-1-eng-GB/Celeste_IOD-1_and_2_on_Electron_s_kick_stage_artist_impression_card_full.png",
-    "news_site": "ESA",
-    "summary": "On 25 March, the first two satellites of the Celeste LEO-PNT in-orbit demonstration mission will lift off aboard Rocket Lab’s Electron rocket from the company’s Māhia Launch Complex in New Zealand.",
-    "published_at": "2026-03-23T10:06:00Z",
-    "updated_at": "2026-03-23T11:08:52.927948Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "b0ca3e7a-650e-4af6-bdf9-658e6e114763",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 36991,
-    "title": "Lunar lander developers say they are ready to meet anticipated increased NASA demand",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/lunar-lander-developers-say-they-are-ready-to-meet-anticipated-increased-nasa-demand/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/novac-im4.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nTwo lunar lander companies say they’re ready to meet NASA’s plans for a major increase in the cadence of landings but offered few details about how they would do so.\nThe post Lunar lander developers say they are ready to meet anticipated increased NASA demand appeared first on SpaceNews.",
-    "published_at": "2026-03-23T09:40:29Z",
-    "updated_at": "2026-03-23T09:41:02.957070Z",
     "featured": false,
     "launches": [],
     "events": [],
