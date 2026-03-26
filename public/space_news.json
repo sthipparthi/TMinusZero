@@ -1,5 +1,32 @@
 [
   {
+    "id": 37073,
+    "title": "NASA to test nuclear electric propulsion with 2028 mission to Mars",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-to-test-nuclear-electric-propulsion-with-2028-mission-to-mars/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/sr-1-freedom.jpeg?fit=1024%2C552&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA’s new exploration strategy includes the rapid development of a nuclear-powered mission to Mars in 2028, leveraging hardware originally built for the lunar Gateway.\nThe post NASA to test nuclear electric propulsion with 2028 mission to Mars appeared first on SpaceNews.",
+    "published_at": "2026-03-26T11:24:09Z",
+    "updated_at": "2026-03-26T11:31:19.916516Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37071,
     "title": "A Hot Start to Spring in the Southwest",
     "authors": [
@@ -34,26 +61,6 @@
     "summary": "NASA continues to plan for the launch of the first crewed mission around the Moon in more than 50 years one week from today. Weather or technical issues could still […]",
     "published_at": "2026-03-26T02:10:54Z",
     "updated_at": "2026-03-26T02:20:36.286351Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37069,
-    "title": "La NASA anuncia la cobertura de la misión lunar Artemis II",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/es/la-nasa-anuncia-la-cobertura-de-la-mision-lunar-artemis-ii/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/a2crew-7ff19d.jpg",
-    "news_site": "NASA",
-    "summary": "Nota del editor: La NASA actualizará continuamente esta página de sesiones informativas y eventos de la misión Artemis II a lo largo de las actividades previas al lanzamiento, el lanzamiento y las operaciones de la misión. La NASA ofrecerá cobertura en vivo de los eventos previos al lanzamiento, el lanzamiento y las actividades de la […]",
-    "published_at": "2026-03-25T23:48:10Z",
-    "updated_at": "2026-03-25T23:50:05.958194Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -321,6 +328,26 @@
     "summary": "NASA’s James Webb Space Telescope and Hubble Space Telescope have teamed up to capture new views of Saturn, revealing the planet in strikingly different ways. Observing in complementary wavelengths of light, the two space observatories provide scientists with a richer, more layered understanding of the gas giant’s atmosphere. Both sense sunlight reflected from Saturn’s banded […]",
     "published_at": "2026-03-25T18:00:00Z",
     "updated_at": "2026-03-25T18:10:17.981169Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37072,
+    "title": "Webb & Hubble capture new views of Saturn",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_capture_new_views_of_Saturn",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/saturn_2024_webb_and_hubble_images/27170885-1-eng-GB/Saturn_2024_Webb_and_Hubble_images_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The NASA/ESA/CSA James Webb Space Telescope and the NASA/ESA Hubble Space Telescope have joined forces to capture new views of Saturn, revealing the planet in strikingly different ways. Infrared and visible observations show layers and storms in the ringed planet’s atmosphere.",
+    "published_at": "2026-03-25T18:00:00Z",
+    "updated_at": "2026-03-26T08:31:39.991082Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -976,26 +1003,6 @@
     "summary": "\nWASHINGTON – Electronic warfare is a growing threat to U.S. space systems, according to a March 23 unclassified briefing by U.S. Space Force Chief Master Sergeant Ron Lerch, senior enlisted advisor to the Deputy Chief of Space Operations for Intelligence. During the Satellite 2026 presentation, Lerch discussed technologies designed to disrupt proliferated low-Earth orbit (PLEO) […]\nThe post Space Force officer shares intelligence on threats to space systems appeared first on SpaceNews.",
     "published_at": "2026-03-24T15:48:00Z",
     "updated_at": "2026-03-24T15:50:29.018125Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37021,
-    "title": "NASA Research Proposes Technology to Seek Earth-Like Exoplanets",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/stmd/nasa-research-proposes-technology-to-seek-earth-like-exoplanets/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/fullkissteam-photo1.jpg",
-    "news_site": "NASA",
-    "summary": "As NASA seeks to understand the mysteries of the universe, the agency is advancing technologies to locate and explore Earth-like planets far beyond our solar system. A key element of this research involves observing reflected light from exoplanets, which can reveal indicators of Earth-like features such as water and oxygen. However, detecting this faint reflected […]",
-    "published_at": "2026-03-24T14:18:59Z",
-    "updated_at": "2026-03-24T14:20:15.370348Z",
     "featured": false,
     "launches": [],
     "events": [],
