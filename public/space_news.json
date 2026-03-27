@@ -1,5 +1,112 @@
 [
   {
+    "id": 37104,
+    "title": "How Europe will power the journey to the Moon and back",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/How_Europe_will_power_the_journey_to_the_Moon_and_back",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/how_europe_will_power_the_journey_to_the_moon_and_back/27171533-2-eng-GB/How_Europe_will_power_the_journey_to_the_Moon_and_back_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Artemis II will send astronauts around the Moon and safely home. At the core of the mission is the European Service Module: providing propulsion, power and life support for their journey into deep space.",
+    "published_at": "2026-03-27T09:15:00Z",
+    "updated_at": "2026-03-27T09:30:45.497758Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37101,
+    "title": "SBQuantum and Spire to send quantum diamond magnetometer into orbit",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/sbquantum-and-spire-to-send-quantum-diamond-magnetometer-into-orbit/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_diamant_glow.jpg?fit=879%2C496&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Canadian startup SBQuantum plans to send a quantum diamond magnetometer into low-Earth orbit March 30 on a Spire Global satellite flying on a SpaceX Falcon 9 rideshare. Spire is providing the satellite, ground stations and data processing for SBQuantum’s magnetometer, which is roughly the size of a quart of milk. SBQuantum and […]\nThe post SBQuantum and Spire to send quantum diamond magnetometer into orbit appeared first on SpaceNews.",
+    "published_at": "2026-03-27T09:00:00Z",
+    "updated_at": "2026-03-27T09:11:46.187646Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37100,
+    "title": "Where spiral arms and star formation meet",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Where_spiral_arms_and_star_formation_meet",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/where_spiral_arms_and_star_formation_meet/27171324-1-eng-GB/Where_spiral_arms_and_star_formation_meet_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-03-27T09:00:00Z",
+    "updated_at": "2026-03-27T09:11:08.025770Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37103,
+    "title": "Earth from Space: Kimberley, Australia",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Kimberley_Australia",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/earth_from_space_kimberley_australia/27171371-1-eng-GB/Earth_from_Space_Kimberley_Australia_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-03-27T09:00:00Z",
+    "updated_at": "2026-03-27T09:20:55.407604Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37102,
+    "title": "ispace redesigns lunar lander, introduces lunar communications service",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/ispace-redesigns-lunar-lander-introduces-lunar-communications-service/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/ispace-ultra.jpeg?fit=1000%2C562&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nJapanese company ispace is revising its lunar lander design and further delaying the first mission by its American subsidiary while also unveiling plans for a lunar satellite constellation.\nThe post ispace redesigns lunar lander, introduces lunar communications service appeared first on SpaceNews.",
+    "published_at": "2026-03-27T08:50:57Z",
+    "updated_at": "2026-03-27T09:11:46.285761Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37099,
     "title": "Satellite Spots a Spawn",
     "authors": [
@@ -254,26 +361,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37087,
-    "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154112/antarctic_nsidc_20250301.jpg",
-    "news_site": "NASA",
-    "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
-    "published_at": "2026-03-26T17:00:55Z",
-    "updated_at": "2026-03-26T18:10:40.733410Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37085,
     "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
     "authors": [
@@ -288,6 +375,26 @@
     "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
     "published_at": "2026-03-26T17:00:55Z",
     "updated_at": "2026-03-26T17:10:09.129366Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37087,
+    "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154112/antarctic_nsidc_20250301.jpg",
+    "news_site": "NASA",
+    "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
+    "published_at": "2026-03-26T17:00:55Z",
+    "updated_at": "2026-03-26T18:10:40.733410Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -882,106 +989,6 @@
     "summary": "NASA’s James Webb Space Telescope and Hubble Space Telescope have teamed up to capture new views of Saturn, revealing the planet in strikingly different ways. Observing in complementary wavelengths of light, the two space observatories provide scientists with a richer, more layered understanding of the gas giant’s atmosphere. Both sense sunlight reflected from Saturn’s banded […]",
     "published_at": "2026-03-25T18:00:00Z",
     "updated_at": "2026-03-25T18:10:17.981169Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37054,
-    "title": "Isar Aerospace set for second launch of Spectrum rocket",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/03/isar-onward-and-upward/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/IMG_6221-scaled.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is planning to…\nThe post Isar Aerospace set for second launch of Spectrum rocket appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-03-25T17:41:57Z",
-    "updated_at": "2026-03-25T17:50:14.013710Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37053,
-    "title": "NASA-JAXA’s XRISM Telescope Clocks Hot Wind of Galaxy M82",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/xrism/nasa-jaxas-xrism-telescope-clocks-hot-wind-of-galaxy-m82/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2026/m82/M82%20with%20Inset%20mkVI%20Fix.jpg",
-    "news_site": "NASA",
-    "summary": "For the first time, astronomers have directly measured the speed of superheated gas billowing from a cauldron of stellar activity at the heart of M82.",
-    "published_at": "2026-03-25T16:10:32Z",
-    "updated_at": "2026-03-25T17:10:42.497443Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37050,
-    "title": "NASA Awards Astrophysics Postdoctoral Fellowships for 2026",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2026/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/03/for-display-STScI-01KMGTBFRVFJ2D7MJ0RQED2WRV.jpg",
-    "news_site": "NASA",
-    "summary": "The highly competitive NASA Hubble Fellowship Program (NHFP) recently named 24 new fellows to its 2026 class. The NHFP enables outstanding postdoctoral scientists to pursue independent research in any area of NASA Astrophysics, using theory, observations, simulations, experimentation, or instrument development. Over 650 applicants vied for the 2026 fellowships, representing an oversubscription rate of 27 […]",
-    "published_at": "2026-03-25T16:00:08Z",
-    "updated_at": "2026-03-25T16:10:51.020283Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37049,
-    "title": "NASA-ISRO Satellite Captures Pacific Northwest Through Clouds",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/nisar/nasa-isro-satellite-captures-pacific-northwest-through-clouds/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/1-pia26670-nisar-views-seattle.jpg",
-    "news_site": "NASA",
-    "summary": "Seattle and Portland, Oregon, are among the cloudiest cities in the United States. But that infamous cloud cover is no match for the U.S.-Indian Earth satellite NISAR (NASA-ISRO Synthetic Aperture Radar), which is designed to peer straight through clouds. Doing so allows scientists to study the Pacific Northwest’s natural landmarks and bustling port cities like […]",
-    "published_at": "2026-03-25T15:51:39Z",
-    "updated_at": "2026-03-25T16:00:13.962225Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37052,
-    "title": "2026 European Space for Sustainability Award is now open for bold ideas",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Climate_and_Sustainability/2026_European_Space_for_Sustainability_Award_is_now_open_for_bold_ideas",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/sentinel-6b_release_into_orbit/26966071-1-eng-GB/Sentinel-6B_release_into_orbit_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-03-25T15:50:00Z",
-    "updated_at": "2026-03-25T16:40:32.411404Z",
     "featured": false,
     "launches": [],
     "events": [],
