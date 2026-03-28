@@ -1,6 +1,6 @@
 {
-  "count": 12,
-  "last_updated": "2026-03-28T06:16:17.337887Z",
+  "count": 11,
+  "last_updated": "2026-03-28T12:04:06.572125Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,65 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (12 failed/unavailable)"
+    "Empty AI summaries (11 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "b0ca3e7a-650e-4af6-bdf9-658e6e114763",
-      "name": "Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)",
-      "status": "Go",
-      "net": "2026-03-28T09:14:00Z",
-      "window_start": "2026-03-28T09:14:00Z",
-      "window_end": "2026-03-28T09:14:00Z",
-      "lsp_name": "Rocket Lab",
-      "lsp_description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
-      "mission_name": "Daughter Of The Stars (LEO-PNT Pathfinder A)",
-      "mission_description": "The European Space Agency (ESA)'s LEO-PNT (Low Earth Orbit Positioning, Navigation and Timing) demonstrator mission will feature a 10-satellite constellation demonstration mission that will assess how a low Earth orbit fleet of satellites can work in combination with the Galileo and EGNOS constellations in higher orbits that provide Europe’s own global navigation system.\r\n\r\nThis launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Space and GMV to a 510 km altitude Low Earth Orbit.",
-      "mission_type": "Navigation",
-      "orbit": "Polar Orbit",
-      "launch_site": "Rocket Lab Launch Complex 1A, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Rocket Lab Launch Complex 1A",
-      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "rocket": "Electron",
-      "rocket_config_description": "Electron is a two-stage orbital expendable launch vehicle (with an optional third stage) developed by the American aerospace company Rocket Lab. Electron is a small-lift launch vehicle designed to launch small satellites and cubesats to sun-synchronous orbit and low earth orbit. The Electron is the first orbital class rocket to use electric-pump-fed engines, powered by the 9 Rutherford engines on the first stage. It is also used as a suborbital testbed (called HASTE) for hypersonics research.",
-      "rocket_config_family": "",
-      "rocket_config_full_name": "Electron",
-      "rocket_config_total_launch_count": 84,
-      "rocket_config_successful_launches": 80,
-      "rocket_config_failed_launches": 4,
-      "rocket_config_pending_launches": 40,
-      "rocket_manufacturer_name": "Rocket Lab",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
-      "rocket_manufacturer_total_launch_count": 84,
-      "rocket_manufacturer_successful_launches": 80,
-      "rocket_manufacturer_failed_launches": 4,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/b0ca3e7a-650e-4af6-bdf9-658e6e114763/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 10,
-          "title": "Rocket Lab - 'Daughter Of The Stars' Launch",
-          "description": "",
-          "feature_image": "https://i.ytimg.com/vi/bR1en0oGPRs/maxresdefault_live.jpg",
-          "url": "https://www.youtube.com/watch?v=bR1en0oGPRs"
-        },
-        {
-          "priority": 11,
-          "title": "ESA’s Celeste mission launch 1",
-          "description": "On 25 March, the first two satellites of the Celeste LEO-PNT in-orbit demonstration mission will lift off aboard Rocket Lab’s Electron rocket from the company’s Māhia Launch Complex in New Zealand.\n \nCeleste will play a pioneering role in elevating the future of Europe’s satellite navigation capabilities. As Europe’s first initiative for satellite navigation in low Earth orbit (LEO), the mission will be testing next-generation technologies and add new frequency bands for satellite navigation.\n \nCeleste will demonstrate how a complementary layer flying closer to Earth can enhance Europe’s current Galileo system in medium Earth orbit (MEO), boosting the overall resilience, enhancing its performance and opening opportunities for new service capabilities directly from LEO.\n \nFor more info...",
-          "feature_image": "https://i.ytimg.com/vi/jJxRic-a4SU/maxresdefault_live.jpg",
-          "url": "https://www.youtube.com/watch?v=jJxRic-a4SU"
-        }
-      ],
-      "ai_summary": ""
-    },
     {
       "id": "8a9f7ce9-4ab5-4227-95f1-9f328def8828",
       "name": "Atlas V 551 | Amazon Leo (LA-05)",
@@ -565,7 +509,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 12,
-    "total_launches": 12
+    "empty_summaries": 11,
+    "total_launches": 11
   }
 }

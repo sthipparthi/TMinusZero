@@ -1,5 +1,45 @@
 [
   {
+    "id": 37131,
+    "title": "Celeste’s first satellites launched to explore LEO-based satellite navigation",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Celeste/Celeste_s_first_satellites_launched_to_explore_LEO-based_satellite_navigation",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/liftoff_for_celeste_on_rocket_lab_s_electron_rocket/27169919-2-eng-GB/Liftoff_for_Celeste_on_Rocket_Lab_s_Electron_rocket_card_full.png",
+    "news_site": "ESA",
+    "summary": "On 28 March, the European Space Agency (ESA) took a major step forward in strengthening Europe's ambition for more resilient satellite navigation, as the first two satellites of the Celeste in-orbit demonstration mission lifted off from New Zealand aboard Rocket Lab’s Electron. Their mission is to begin testing a complementary low Earth orbit layer for Galileo.",
+    "published_at": "2026-03-28T11:07:00Z",
+    "updated_at": "2026-03-28T11:20:21.998671Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37130,
+    "title": "Celeste liftoff",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Celeste_liftoff",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/celeste_liftoff/27176624-1-eng-GB/Celeste_liftoff_card_full.png",
+    "news_site": "ESA",
+    "summary": "At 10:14 CET on 28 March, the first two satellites of ESA’s Celeste LEO-PNT in-orbit demonstration mission lifted off aboard a Rocket Lab Electron rocket from Māhia, New Zealand.",
+    "published_at": "2026-03-28T10:20:00Z",
+    "updated_at": "2026-03-28T10:30:14.281571Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37129,
     "title": "Artemis 2 astronauts arrive at KSC",
     "authors": [
@@ -541,6 +581,26 @@
     "detailed_news": ""
   },
   {
+    "id": 37103,
+    "title": "Earth from Space: Kimberley, Australia",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Kimberley_Australia",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/earth_from_space_kimberley_australia/27171371-1-eng-GB/Earth_from_Space_Kimberley_Australia_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-03-27T09:00:00Z",
+    "updated_at": "2026-03-27T09:20:55.407604Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37100,
     "title": "Where spiral arms and star formation meet",
     "authors": [
@@ -575,26 +635,6 @@
     "summary": "\nSAN FRANCISCO – Canadian startup SBQuantum plans to send a quantum diamond magnetometer into low-Earth orbit March 30 on a Spire Global satellite flying on a SpaceX Falcon 9 rideshare. Spire is providing the satellite, ground stations and data processing for SBQuantum’s magnetometer, which is roughly the size of a quart of milk. SBQuantum and […]\nThe post SBQuantum and Spire to send quantum diamond magnetometer into orbit appeared first on SpaceNews.",
     "published_at": "2026-03-27T09:00:00Z",
     "updated_at": "2026-03-27T09:11:46.187646Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37103,
-    "title": "Earth from Space: Kimberley, Australia",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Kimberley_Australia",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/earth_from_space_kimberley_australia/27171371-1-eng-GB/Earth_from_Space_Kimberley_Australia_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-03-27T09:00:00Z",
-    "updated_at": "2026-03-27T09:20:55.407604Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -702,26 +742,6 @@
     "summary": "Mercury shines at its brightest for the year, the Lyrid meteor shower peaks, and a bright new comet makes an appearance in April’s night sky.",
     "published_at": "2026-03-26T20:54:54Z",
     "updated_at": "2026-03-26T21:10:33.094246Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37093,
-    "title": "La NASA presentará el telescopio Roman completo y ofrecerá una conferencia de prensa",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/la-nasa-presentara-el-telescopio-roman-completo-y-ofrecera-una-conferencia-de-prensa/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/54963580015-cdcb4657c5-k.jpg",
-    "news_site": "NASA",
-    "summary": "Se invita a los medios de comunicación el martes 21 de abril al Centro de Vuelo Espacial Goddard de la NASA en Greenbelt, Maryland, para conocer el telescopio espacial Nancy Grace Roman de la agencia, cuya construcción terminó recientemente y el cual se encuentra ultimando las pruebas previas a su lanzamiento. Esta será una de […]",
-    "published_at": "2026-03-26T20:53:17Z",
-    "updated_at": "2026-03-26T21:00:08.552623Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -976,26 +996,6 @@
     "summary": "\nWASHINGTON – Satlantis reported revenues of 47.8 million euros ($56.4 million) in 2025, with more than 50% of the Spanish company’s income derived from small-satellite sales and operations. Audited earnings before interest, taxes, depreciation and amortization were 14.4 million euros. The results show remarkable evolution of a company focused primarily on developing and manufacturing high-resolution […]\nThe post Satlantis earnings grow alongside demand for Earth-observation satellites appeared first on SpaceNews.",
     "published_at": "2026-03-26T16:05:00Z",
     "updated_at": "2026-03-26T16:22:16.478763Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37079,
-    "title": "HTS Market Set to Reach $76B as Industry Enters Terabit Era",
-    "authors": [
-      {
-        "name": "Novaspace",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/hts-market-set-to-reach-76b-as-industry-enters-terabit-era/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nParis, France – March, 2026 – Novaspace’s latest High Throughput Satellites (HTS) report shows global demand reaching 218 Tbps by 2034, while service revenues are set to more than double to $76 billion over the same period. The findings […]\nThe post HTS Market Set to Reach $76B as Industry Enters Terabit Era appeared first on SpaceNews.",
-    "published_at": "2026-03-26T15:46:21Z",
-    "updated_at": "2026-03-26T15:51:06.316521Z",
     "featured": false,
     "launches": [],
     "events": [],
