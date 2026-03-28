@@ -1,5 +1,32 @@
 [
   {
+    "id": 37129,
+    "title": "Artemis 2 astronauts arrive at KSC",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/artemis-2-astronauts-arrive-at-ksc/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/art2-ksc-20260327.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe four Artemis 2 astronauts arrived in Florida March 27 for final preparations ahead of a launch still scheduled as soon as April 1.\nThe post Artemis 2 astronauts arrive at KSC appeared first on SpaceNews.",
+    "published_at": "2026-03-28T00:45:26Z",
+    "updated_at": "2026-03-28T00:50:18.419389Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37127,
     "title": "U.S.-Canadian Astronaut Crew Ready for Flight Around the Moon",
     "authors": [
@@ -855,26 +882,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37087,
-    "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154112/antarctic_nsidc_20250301.jpg",
-    "news_site": "NASA",
-    "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
-    "published_at": "2026-03-26T17:00:55Z",
-    "updated_at": "2026-03-26T18:10:40.733410Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37085,
     "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
     "authors": [
@@ -889,6 +896,26 @@
     "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
     "published_at": "2026-03-26T17:00:55Z",
     "updated_at": "2026-03-26T17:10:09.129366Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37087,
+    "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154112/antarctic_nsidc_20250301.jpg",
+    "news_site": "NASA",
+    "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
+    "published_at": "2026-03-26T17:00:55Z",
+    "updated_at": "2026-03-26T18:10:40.733410Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -969,26 +996,6 @@
     "summary": "\nParis, France – March, 2026 – Novaspace’s latest High Throughput Satellites (HTS) report shows global demand reaching 218 Tbps by 2034, while service revenues are set to more than double to $76 billion over the same period. The findings […]\nThe post HTS Market Set to Reach $76B as Industry Enters Terabit Era appeared first on SpaceNews.",
     "published_at": "2026-03-26T15:46:21Z",
     "updated_at": "2026-03-26T15:51:06.316521Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37080,
-    "title": "Curiosity Blog, Sols 4838-4844: Wrapping Up the Boxwork Terrain",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4838-4844-wrapping-up-the-boxwork-terrain/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/march/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04841_soas_rdr_ccam_CR0_827243569PRC_F1210396CCAM05840L1.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, March 20, 2026 Curiosity has just concluded a very intense week of science observations and engineering activities, as it wraps up its monthslong investigation of the Martian boxwork terrain. Three days of planning this week […]",
-    "published_at": "2026-03-26T15:26:13Z",
-    "updated_at": "2026-03-26T16:10:56.215098Z",
     "featured": false,
     "launches": [],
     "events": [],
