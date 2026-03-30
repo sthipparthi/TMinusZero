@@ -1,6 +1,6 @@
 {
-  "count": 10,
-  "last_updated": "2026-03-30T00:08:51.445955Z",
+  "count": 11,
+  "last_updated": "2026-03-30T06:30:42.849996Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (10 failed/unavailable)"
+    "Empty AI summaries (11 failed/unavailable)"
   ],
   "launches": [
     {
@@ -229,6 +229,47 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/space_launch_sy_image_20220331082429.jpeg",
       "infographic": null,
       "url": "https://ll.thespacedevs.com/2.0.0/launch/41699701-2ef4-4b0c-ac9d-6757820cde87/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
+      "id": "98451321-cd10-4ca7-a0d1-4076db5fa73d",
+      "name": "Tianlong-3 | Demo Flight",
+      "status": "Go",
+      "net": "2026-04-02T04:00:00Z",
+      "window_start": "2026-04-02T03:52:00Z",
+      "window_end": "2026-04-02T06:09:00Z",
+      "lsp_name": "Space Pioneer",
+      "lsp_description": "Space Pioneer is a Chinese private space launch company based in Beijing. It was founded in 2015 by Kang Yonglai.",
+      "lsp_type": "Commercial",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/space_pioneer_l_image_20260330045334.png",
+      "mission_name": "Demo Flight",
+      "mission_description": "First test launch of Space Pioneer’s Tianlong-3 rocket. Reports indicate this launch may carry a batch of satellites for the SpaceSail/G60/Qianfan LEO communication satellites constellation.",
+      "mission_type": "Test Flight",
+      "orbit": "Polar Orbit",
+      "launch_site": "Tianlong-3 Launch Pad, Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Tianlong-3 Launch Pad",
+      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "rocket": "Tianlong-3",
+      "rocket_config_description": "",
+      "rocket_config_family": "",
+      "rocket_config_full_name": "Tianlong-3",
+      "rocket_config_total_launch_count": 0,
+      "rocket_config_successful_launches": 0,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Space Pioneer",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Pioneer is a Chinese private space launch company based in Beijing. It was founded in 2015 by Kang Yonglai.",
+      "rocket_manufacturer_total_launch_count": 1,
+      "rocket_manufacturer_successful_launches": 1,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/tianlong-3_full_image_20260330045730.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/98451321-cd10-4ca7-a0d1-4076db5fa73d/",
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
@@ -468,7 +509,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 10,
-    "total_launches": 10
+    "empty_summaries": 11,
+    "total_launches": 11
   }
 }
