@@ -1,5 +1,59 @@
 [
   {
+    "id": 37143,
+    "title": "Starcloud achieves unicorn status with $170 million raise for orbital data centers",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/starcloud-achieves-unicorn-status-with-170-million-raise-for-orbital-data-centers/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Starcloud-concept-4.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nStarcloud has raised $170 million to accelerate development of its next-generation spacecraft, reaching a $1.1 billion valuation as it awaits permission to deploy an 88,000-strong orbital data center network.\nThe post Starcloud achieves unicorn status with $170 million raise for orbital data centers appeared first on SpaceNews.",
+    "published_at": "2026-03-30T11:00:43Z",
+    "updated_at": "2026-03-30T11:10:30.741002Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37142,
+    "title": "Science finds a place on Artemis 2",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/science-finds-a-place-on-artemis-2/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/jsc2023e028366-large.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWhile the Artemis 2 mission is primarily a test flight, the four astronauts on board will conduct some science during the nearly 10-day mission.\nThe post Science finds a place on Artemis 2 appeared first on SpaceNews.",
+    "published_at": "2026-03-30T10:03:11Z",
+    "updated_at": "2026-03-30T10:10:23.841031Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37140,
     "title": "Live coverage: SpaceX to launch 119 payloads on smallsat rideshare mission from California",
     "authors": [
@@ -230,6 +284,31 @@
     "updated_at": "2026-03-28T10:30:14.281571Z",
     "featured": false,
     "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37141,
+    "title": "Launch of ESA’s Celeste mission 1",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Launch_of_ESA_s_Celeste_mission_1",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/launch_of_esa_s_celeste_mission_1/27176624-1-eng-GB/Launch_of_ESA_s_Celeste_mission_1_card_full.png",
+    "news_site": "ESA",
+    "summary": "At 10:14 CET on 28 March, the first two satellites of ESA’s Celeste LEO-PNT in-orbit demonstration mission lifted off aboard a Rocket Lab Electron rocket from Māhia, New Zealand.",
+    "published_at": "2026-03-28T10:20:00Z",
+    "updated_at": "2026-03-30T09:35:20.637761Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "b0ca3e7a-650e-4af6-bdf9-658e6e114763",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -936,73 +1015,6 @@
     "summary": "Mercury shines at its brightest for the year, the Lyrid meteor shower peaks, and a bright new comet makes an appearance in April’s night sky.",
     "published_at": "2026-03-26T20:54:54Z",
     "updated_at": "2026-03-26T21:10:33.094246Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37096,
-    "title": "Government use of commercial procurement models has limitations in space",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/government-use-of-commercial-procurement-models-has-limitations-in-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_vigoride_7_at_launch_base.jpg?fit=879%2C457&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWhile government agencies are increasingly turning to commercial contracting mechanisms for space capabilities, that does not necessarily translate to additional business opportunities for the companies offering them.\nThe post Government use of commercial procurement models has limitations in space appeared first on SpaceNews.",
-    "published_at": "2026-03-26T20:36:34Z",
-    "updated_at": "2026-03-26T21:30:25.568520Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37091,
-    "title": "NASA to Unveil Complete Roman Telescope, Host Media Briefing",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-to-unveil-complete-roman-telescope-host-media-briefing/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/54963580015-cdcb4657c5-k.jpg",
-    "news_site": "NASA",
-    "summary": "Media are invited Tuesday, April 21, to NASA’s Goddard Space Flight Center in Greenbelt, Maryland, for a look at the agency’s Nancy Grace Roman Space Telescope, which recently completed construction and is wrapping up prelaunch testing. This will be one of the last opportunities to view the fully integrated flagship telescope before it ships to […]",
-    "published_at": "2026-03-26T20:18:47Z",
-    "updated_at": "2026-03-26T20:20:08.705110Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37092,
-    "title": "NASA Releases Artemis II Moon Mission Launch Countdown",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/countdown.jpg",
-    "news_site": "NASA",
-    "summary": "Before NASA sends its astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen on their Artemis II mission around the Moon, the launch team at NASA’s Kennedy Space Center in Florida and teams across the country will begin counting down about two days before liftoff.  A launch countdown contains […]",
-    "published_at": "2026-03-26T20:12:30Z",
-    "updated_at": "2026-03-26T20:20:08.742677Z",
     "featured": false,
     "launches": [],
     "events": [],
