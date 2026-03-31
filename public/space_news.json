@@ -1,5 +1,147 @@
 [
   {
+    "id": 37168,
+    "title": "Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions",
+    "authors": [
+      {
+        "name": "Antaris",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/antaris-raises-28-million-series-a-to-accelerate-ai-driven-space-missions/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Antaris-Logo.png?fit=400%2C400&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nLos Altos, California — Antaris™, creator of the AI-powered Antaris Intelligence™ platform that simplifies satellite design, simulation, manufacturing, and operations for ISR and communications satellite missions, today announced the first close […]\nThe post Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions appeared first on SpaceNews.",
+    "published_at": "2026-03-31T12:00:00Z",
+    "updated_at": "2026-03-31T12:01:20.806471Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37167,
+    "title": "China targets 140 launches in 2026 amid commercial space surge",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-targets-140-launches-in-2026-amid-commercial-space-surge/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Kinetica2-Y1-Qingzhou1-prototype-JSLC-prelaunch-CASSpace.jpg?fit=1024%2C575&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChina plans to conduct around 140 orbital launches this year, according to a commercial launch executive, marking a sharp acceleration in the country’s launch cadence.\nThe post China targets 140 launches in 2026 amid commercial space surge appeared first on SpaceNews.",
+    "published_at": "2026-03-31T10:29:59Z",
+    "updated_at": "2026-03-31T10:30:18.447778Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37165,
+    "title": "Europe’s space sector faces power shift as funding grows",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/europes-space-sector-faces-power-shift-as-funding-grows/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/iss070e075895_lrg-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNew report from Aerospace Corp. highlights rising EU funding and defense focus \nThe post Europe’s space sector faces power shift as funding grows appeared first on SpaceNews.",
+    "published_at": "2026-03-31T09:00:00Z",
+    "updated_at": "2026-03-31T09:01:05.201182Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37166,
+    "title": "Seven missions launched to test optimised data transfer from space",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Seven_missions_launched_to_test_optimised_data_transfer_from_space",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/transporter-16_launch_orbit_view/27179261-1-eng-GB/Transporter-16_launch_orbit_view_card_full.png",
+    "news_site": "ESA",
+    "summary": "Eight CubeSats and one payload supported by the European Space Agency (ESA) reached orbit, where they will demonstrate various applications aimed at improving how data is sent around and processed. Thanks to these demonstrations, practical and – sometimes – even life-saving data enabled from space will move more efficiently and reach the right actors on time in the future.",
+    "published_at": "2026-03-31T08:05:00Z",
+    "updated_at": "2026-03-31T11:33:58.628093Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37163,
+    "title": "Eight more satellites added to IRIDE space programme",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Eight_more_satellites_added_to_IRIDE_space_programme",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/italy_s_iride_space_programme_adds_eight_satellites/27178038-4-eng-GB/Italy_s_IRIDE_space_programme_adds_eight_satellites_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Eight satellites have been added to Italy’s IRIDE Earth observation programme, following launch on board a Falcon-9 rocket. The successful launch brings the total number of satellites in orbit for the Italian programme to 24.",
+    "published_at": "2026-03-31T07:00:00Z",
+    "updated_at": "2026-03-31T07:59:49.627667Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37162,
+    "title": "Artemis 2 countdown underway",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/artemis-2-countdown-underway/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/NHQ202603270006-large.jpg?fit=1024%2C709&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "The two-day countdown for the Artemis 2 mission around the moon started March 30 with NASA officials reporting no major issues for the launch.\r\nThe post Artemis 2 countdown underway appeared first on SpaceNews.",
+    "published_at": "2026-03-31T06:23:08Z",
+    "updated_at": "2026-03-31T07:56:47.642783Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37161,
     "title": "Fires Tear Through Nebraska Grasslands",
     "authors": [
@@ -107,26 +249,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37156,
-    "title": "Live coverage: Falcon 9 booster to fly for record 34th time on Starlink delivery mission",
-    "authors": [
-      {
-        "name": "Spaceflight Now",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/03/30/falcon-9-booster-to-fly-for-record-34th-time-on-starlink-delivery-mission/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260103_Starlink_6-88_prelaunch_JP-1.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "Liftoff from pad 40 at Cape Canaveral Space Force Station in Florida is scheduled for the opening of the launch window at 5:15 p.m. EDT (2115 UTC). ",
-    "published_at": "2026-03-30T19:58:17Z",
-    "updated_at": "2026-03-30T20:10:27.381882Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37155,
     "title": "Falcon 9 booster to fly for 34th time on Starlink delivery mission",
     "authors": [
@@ -141,6 +263,26 @@
     "summary": "Liftoff from pad 40 at Cape Canaveral Space Force Station in Florida is scheduled for the opening of the launch window at 5:15 p.m. EDT (2115 UTC).  ",
     "published_at": "2026-03-30T19:58:17Z",
     "updated_at": "2026-03-30T20:00:39.879324Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37156,
+    "title": "Live coverage: Falcon 9 booster to fly for record 34th time on Starlink delivery mission",
+    "authors": [
+      {
+        "name": "Spaceflight Now",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/03/30/falcon-9-booster-to-fly-for-record-34th-time-on-starlink-delivery-mission/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260103_Starlink_6-88_prelaunch_JP-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff from pad 40 at Cape Canaveral Space Force Station in Florida is scheduled for the opening of the launch window at 5:15 p.m. EDT (2115 UTC). ",
+    "published_at": "2026-03-30T19:58:17Z",
+    "updated_at": "2026-03-30T20:10:27.381882Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -274,6 +416,26 @@
     "detailed_news": ""
   },
   {
+    "id": 37164,
+    "title": "ESA Seeks Commercial Provider to Transport Payload to the Moon",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-seeks-commercial-provider-to-transport-payload-to-the-moon/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/03/ESA-Seeks-Commercial-Provider-to-Transport-Payload-to-the-Moon.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency is seeking a commercial provider to deliver its NILS2 instrument to the Moon to measure negative ions on the lunar surface. On 1 June 2024, ESA’s original Negative Ions at the Lunar Surface (NILS) instrument touched down on the surface of the Moon aboard China’s Chang’e 6 lunar lander. The instrument […]\nThe post ESA Seeks Commercial Provider to Transport Payload to the Moon appeared first on European Spaceflight.",
+    "published_at": "2026-03-30T14:22:24Z",
+    "updated_at": "2026-03-31T07:50:13.150298Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37147,
     "title": "What is Smile about to discover?",
     "authors": [
@@ -319,26 +481,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37145,
-    "title": "With Voyager’s help, Icarus Robotics to test free-flyer on ISS",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_image_3-27-26_at_1148-am_1.jpg?fit=879%2C462&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Voyager Technologies announced plans March 30 to help Icarus Robotics test a free-flying platform, called Joyride, on the International Space Station. Under the agreement, Voyager will handle payload integration, safety certification, coordination of a 2027 launch, on-orbit operations planning and execution for Joyride-1, a technology demonstration. Icarus Robotics was founded in Brooklyn, […]\nThe post With Voyager’s help, Icarus Robotics to test free-flyer on ISS appeared first on SpaceNews.",
-    "published_at": "2026-03-30T13:00:00Z",
-    "updated_at": "2026-03-30T13:01:20.788897Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37144,
     "title": "The race to build orbital data centers is missing its biggest variable: power",
     "authors": [
@@ -353,6 +495,26 @@
     "summary": "\nHere’s the version of the orbital data center story you keep reading: Elon Musk says space will be the cheapest place to run AI within 36 months. LoneStar announces plans for a lunar data center. NVIDIA’s Vera Rubin Space-1 makes headlines. These are real announcements, and they all have one thing in common. Nobody talks about the source of electricity. While […]\nThe post The race to build orbital data centers is missing its biggest variable: power appeared first on SpaceNews.",
     "published_at": "2026-03-30T13:00:00Z",
     "updated_at": "2026-03-30T13:01:20.761342Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37145,
+    "title": "With Voyager’s help, Icarus Robotics to test free-flyer on ISS",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_image_3-27-26_at_1148-am_1.jpg?fit=879%2C462&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Voyager Technologies announced plans March 30 to help Icarus Robotics test a free-flying platform, called Joyride, on the International Space Station. Under the agreement, Voyager will handle payload integration, safety certification, coordination of a 2027 launch, on-orbit operations planning and execution for Joyride-1, a technology demonstration. Icarus Robotics was founded in Brooklyn, […]\nThe post With Voyager’s help, Icarus Robotics to test free-flyer on ISS appeared first on SpaceNews.",
+    "published_at": "2026-03-30T13:00:00Z",
+    "updated_at": "2026-03-30T13:01:20.788897Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -873,153 +1035,6 @@
     "summary": "Description This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington’s Mount St. Helens. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR’s L-band SAR instrument is able to peer through the clouds at the surface below. In Pacific Northwest imagery from […]",
     "published_at": "2026-03-27T18:29:54Z",
     "updated_at": "2026-03-27T19:10:38.501901Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37118,
-    "title": "NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
-    "news_site": "NASA",
-    "summary": "Technology and science demonstrations, supported by various NASA industry collaborations and agency developments, are set to launch to low Earth orbit aboard a SpaceX Falcon 9 rocket as part of the company’s Transporter-16 commercial rideshare mission. These demonstrations will test thermal protection systems, advance in-space communications, deepen our understanding of Earth’s atmosphere, and foster capabilities […]",
-    "published_at": "2026-03-27T18:00:08Z",
-    "updated_at": "2026-03-27T18:00:15.785276Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37119,
-    "title": "NASA Names Scientists to Support Lunar South Pole Science",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/artemis/nasa-names-scientists-to-support-lunar-south-pole-science/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/A3GT_VR_Sim_jsc2025e082977.jpg",
-    "news_site": "NASA",
-    "summary": "NASA has selected 10 participating scientists to help shape a science plan for astronauts to complete on the lunar surface under the Artemis program – including deploying scientific instruments, making critical observations of the landing site, and collecting Moon rocks. “Congratulations to the scientists selected to participate in this important Artemis lunar surface science team,” […]",
-    "published_at": "2026-03-27T17:50:06Z",
-    "updated_at": "2026-03-27T18:10:14.291458Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37117,
-    "title": "I Am Artemis: Michael Guzman",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-michael-guzman/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/ksc-20251030-ph-csh01-mike-guzman.jpg",
-    "news_site": "NASA",
-    "summary": "Listen to this audio excerpt from Michael Guzman, Artemis II main propulsion systems engineer: A clue to what Mike Guzman, main propulsion systems engineer at NASA’s Kennedy Space Center in Florida, loves most can be found in the signature of his work email: a complex string of equations for rocket thrust, specific impulse, and the […]",
-    "published_at": "2026-03-27T17:40:08Z",
-    "updated_at": "2026-03-27T17:50:05.416166Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37116,
-    "title": "India’s Bellatrix raises $20 million following overseas expansion drive",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/indias-bellatrix-raises-20-million-following-overseas-expansion-drive/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/image1.jpeg?fit=640%2C579&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIndia-based Bellatrix Aerospace announced March 27 it has raised $20 million to ramp up production of its satellite propulsion systems after securing its first large commercial customer outside the country.\nThe post India’s Bellatrix raises $20 million following overseas expansion drive appeared first on SpaceNews.",
-    "published_at": "2026-03-27T17:20:24Z",
-    "updated_at": "2026-03-27T17:32:31.714782Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37115,
-    "title": "NextSTEP-3 E: Network Extension for User Continuity and Sustainability (NEXUS) Ka-Band Backward-Compatible Relay Broad",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/nextstep-3-e-network-extension-for-user-continuity-and-sustainability-nexus-ka-band-backward-compatible-relay-broad/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/nextstep-3-e.png",
-    "news_site": "NASA",
-    "summary": "Synopsis | 03/23/26 https://sam.gov/workspace/contract/opp/e33cd0cc61064a6497a55fca8e9b30c6/view NASA intends to release a BAA under Next Space Technologies for Exploration Partnerships (NextSTEP-3), Appendix E, for Project NEXUS, Ka-band Backward- Compatible Relay. As the aging Tracking and Data Relay Satellite System (TDRS) declines, NASA’s objective is to acquire an end-to-end Ka-band relay service, including space, ground, launch, integration, and operations […]",
-    "published_at": "2026-03-27T17:04:03Z",
-    "updated_at": "2026-03-27T17:10:06.339455Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37114,
-    "title": "What happens next with NASA's plan to replace the ISS? Source: \"It could get ugly\"",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/core-module-1774626080.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"It reminds me of sort of Lucy and Charlie Brown with the football.\"",
-    "published_at": "2026-03-27T15:42:35Z",
-    "updated_at": "2026-03-27T15:50:04.427554Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37113,
-    "title": "Artemis II Crew’s Suits",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/artemis-ii-crews-suits/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/nhq202601170114orig.jpg",
-    "news_site": "NASA",
-    "summary": "The Orion Crew Survival System suits that Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, and Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency) will wear on the Artemis II test flight are seen in the suit-up room of the Neil A. Armstrong Operations and Checkout Building, Saturday, […]",
-    "published_at": "2026-03-27T15:21:21Z",
-    "updated_at": "2026-03-27T15:30:10.752172Z",
     "featured": false,
     "launches": [],
     "events": [],
