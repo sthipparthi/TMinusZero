@@ -1,5 +1,72 @@
 [
   {
+    "id": 37184,
+    "title": "March of the Harmattan",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/march-of-the-harmattan/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/march-of-the-harmattan/haboob_tmo_20260330.jpg",
+    "news_site": "NASA",
+    "summary": "Strong winds in March 2026 carried Saharan dust across northwestern Africa and toward the Canary Islands, reducing visibility and prompting alerts.",
+    "published_at": "2026-04-01T04:00:00Z",
+    "updated_at": "2026-04-01T04:10:32.916409Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37183,
+    "title": "Live coverage: NASA to launch Artemis 2, its first Moon-bound mission with astronauts since 1972",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/04/01/live-coverage-nasa-to-launch-artemis-2-its-first-moon-bound-mission-with-astronauts-since-1972/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260331_Artemis-2_pad.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The four astronauts will spend more than nine days onboard their Orion spacecraft and is poised to pass the distance record set by Apollo 13 in 1970. Liftoff from Launch Complex 39B is scheduled for Wednesday, April 1, at 6:24 p.m. EDT (2224 UTC). ",
+    "published_at": "2026-04-01T01:16:07Z",
+    "updated_at": "2026-04-01T01:20:24.821913Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37182,
+    "title": "Virgin Galactic expects commercial suborbital flights to resume late this year",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/virgin-galactic-expects-commercial-suborbital-flights-to-resume-late-this-year/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/vg-spaceship-march26.jpeg?fit=1024%2C512&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nVirgin Galactic still expects to resume commercial suborbital flights by the end of the year as its first next-generation spaceplane nears completion.\nThe post Virgin Galactic expects commercial suborbital flights to resume late this year appeared first on SpaceNews.",
+    "published_at": "2026-04-01T01:10:16Z",
+    "updated_at": "2026-04-01T01:10:25.425238Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37181,
     "title": "Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium",
     "authors": [
@@ -14,6 +81,26 @@
     "summary": "\nVoting ends April 14. Resistance is futile – you must comply.\nThe post Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium appeared first on SpaceNews.",
     "published_at": "2026-03-31T22:49:02Z",
     "updated_at": "2026-03-31T22:50:18.039178Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37185,
+    "title": "Christine Klein takes up duty as acting Director of Controlling, Finance and Operational Procurement",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Corporate_news/Christine_Klein_takes_up_duty_as_acting_Director_of_Controlling_Finance_and_Operational_Procurement",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/christine_klein/27182332-2-eng-GB/Christine_Klein_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Christine Klein took up duty as acting Director of Controlling, Finance and Operational Procurement (D/CFO) at the European Space Agency on 1 April 2026. She will lead the newly established directorate during its consolidation.",
+    "published_at": "2026-03-31T21:38:00Z",
+    "updated_at": "2026-04-01T05:32:10.678362Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -60,26 +147,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37178,
-    "title": "This is my third Orion launch, but it feels totally different",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/55165944221_60d35d49b5_k.jpg",
-    "news_site": "Arstechnica",
-    "summary": "The first two launches of Orion felt hollow, but NASA is finally on a better course.",
-    "published_at": "2026-03-31T17:09:31Z",
-    "updated_at": "2026-03-31T17:40:08.546605Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37177,
     "title": "This is my third Orion launch, but it feels totally different",
     "authors": [
@@ -94,6 +161,26 @@
     "summary": "The first two launches of Orion felt hollow, but NASA is finally on a better course.",
     "published_at": "2026-03-31T17:09:31Z",
     "updated_at": "2026-03-31T17:20:09.813001Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37178,
+    "title": "This is my third Orion launch, but it feels totally different",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/55165944221_60d35d49b5_k.jpg",
+    "news_site": "Arstechnica",
+    "summary": "The first two launches of Orion felt hollow, but NASA is finally on a better course.",
+    "published_at": "2026-03-31T17:09:31Z",
+    "updated_at": "2026-03-31T17:40:08.546605Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -174,6 +261,26 @@
     "summary": "NASA is preparing for the launch of Artemis II, the first mission to send humans to the moon since Apollo 17 in 1972. With launch now mere hours away, NASA and the astronauts are moving into final preparations for flight.",
     "published_at": "2026-03-31T15:15:06Z",
     "updated_at": "2026-03-31T15:20:22.195282Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37186,
+    "title": "Géraldine Naja takes up duty as Director of Space Transportation",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Corporate_news/Geraldine_Naja_takes_up_duty_as_Director_of_Space_Transportation",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/geraldine_naja/27181754-2-eng-GB/Geraldine_Naja_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Géraldine Naja took up duty as Director of Space Transportation (D/STS) at the European Space Agency on 1 April 2026. She will continue to serve as head of her former directorate, now called the Commercialisation and Industry Partnership directorate (D/CIP), as acting director.",
+    "published_at": "2026-03-31T15:03:00Z",
+    "updated_at": "2026-04-01T05:32:10.999410Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -469,26 +576,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37156,
-    "title": "Live coverage: Falcon 9 booster to fly for record 34th time on Starlink delivery mission",
-    "authors": [
-      {
-        "name": "Spaceflight Now",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/03/30/falcon-9-booster-to-fly-for-record-34th-time-on-starlink-delivery-mission/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260103_Starlink_6-88_prelaunch_JP-1.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "Liftoff from pad 40 at Cape Canaveral Space Force Station in Florida is scheduled for the opening of the launch window at 5:15 p.m. EDT (2115 UTC). ",
-    "published_at": "2026-03-30T19:58:17Z",
-    "updated_at": "2026-03-30T20:10:27.381882Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37155,
     "title": "Falcon 9 booster to fly for 34th time on Starlink delivery mission",
     "authors": [
@@ -503,6 +590,26 @@
     "summary": "Liftoff from pad 40 at Cape Canaveral Space Force Station in Florida is scheduled for the opening of the launch window at 5:15 p.m. EDT (2115 UTC).  ",
     "published_at": "2026-03-30T19:58:17Z",
     "updated_at": "2026-03-30T20:00:39.879324Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37156,
+    "title": "Live coverage: Falcon 9 booster to fly for record 34th time on Starlink delivery mission",
+    "authors": [
+      {
+        "name": "Spaceflight Now",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/03/30/falcon-9-booster-to-fly-for-record-34th-time-on-starlink-delivery-mission/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260103_Starlink_6-88_prelaunch_JP-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff from pad 40 at Cape Canaveral Space Force Station in Florida is scheduled for the opening of the launch window at 5:15 p.m. EDT (2115 UTC). ",
+    "published_at": "2026-03-30T19:58:17Z",
+    "updated_at": "2026-03-30T20:10:27.381882Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -701,26 +808,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37145,
-    "title": "With Voyager’s help, Icarus Robotics to test free-flyer on ISS",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_image_3-27-26_at_1148-am_1.jpg?fit=879%2C462&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Voyager Technologies announced plans March 30 to help Icarus Robotics test a free-flying platform, called Joyride, on the International Space Station. Under the agreement, Voyager will handle payload integration, safety certification, coordination of a 2027 launch, on-orbit operations planning and execution for Joyride-1, a technology demonstration. Icarus Robotics was founded in Brooklyn, […]\nThe post With Voyager’s help, Icarus Robotics to test free-flyer on ISS appeared first on SpaceNews.",
-    "published_at": "2026-03-30T13:00:00Z",
-    "updated_at": "2026-03-30T13:01:20.788897Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37144,
     "title": "The race to build orbital data centers is missing its biggest variable: power",
     "authors": [
@@ -735,6 +822,26 @@
     "summary": "\nHere’s the version of the orbital data center story you keep reading: Elon Musk says space will be the cheapest place to run AI within 36 months. LoneStar announces plans for a lunar data center. NVIDIA’s Vera Rubin Space-1 makes headlines. These are real announcements, and they all have one thing in common. Nobody talks about the source of electricity. While […]\nThe post The race to build orbital data centers is missing its biggest variable: power appeared first on SpaceNews.",
     "published_at": "2026-03-30T13:00:00Z",
     "updated_at": "2026-03-30T13:01:20.761342Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37145,
+    "title": "With Voyager’s help, Icarus Robotics to test free-flyer on ISS",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_image_3-27-26_at_1148-am_1.jpg?fit=879%2C462&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Voyager Technologies announced plans March 30 to help Icarus Robotics test a free-flying platform, called Joyride, on the International Space Station. Under the agreement, Voyager will handle payload integration, safety certification, coordination of a 2027 launch, on-orbit operations planning and execution for Joyride-1, a technology demonstration. Icarus Robotics was founded in Brooklyn, […]\nThe post With Voyager’s help, Icarus Robotics to test free-flyer on ISS appeared first on SpaceNews.",
+    "published_at": "2026-03-30T13:00:00Z",
+    "updated_at": "2026-03-30T13:01:20.788897Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -909,120 +1016,6 @@
     "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of March 29-April 4, 2026 and any insight we can offer about them. The House and Senate are in […]",
     "published_at": "2026-03-29T15:16:40Z",
     "updated_at": "2026-03-29T15:20:24.599717Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37136,
-    "title": "‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/shots-on-goal-and-win-the-game-nasas-effort-to-accelerate-lunar-landings/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/im-5.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWhile NASA outlined plans to increase the cadence of robotic lunar lander missions at a recent event, it said little about accelerating work on crewed lunar landers.\nThe post ‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings appeared first on SpaceNews.",
-    "published_at": "2026-03-29T09:37:26Z",
-    "updated_at": "2026-03-29T09:40:17.291391Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37135,
-    "title": "SpaceX to deliver 119 payloads to Sun-synchronous orbit on Transporter 16",
-    "authors": [
-      {
-        "name": "Eleanor Day",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/03/transporter-16/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/20251126_transporter15_hill_00001_98222ff37a-scaled-e1764176839143.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "SpaceX is set to launch 119 payloads to Sun-synchronous orbit from California for the Transporter…\nThe post SpaceX to deliver 119 payloads to Sun-synchronous orbit on Transporter 16 appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-03-28T23:48:46Z",
-    "updated_at": "2026-03-28T23:50:25.355348Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37134,
-    "title": "Starfish Space finds a new partner for docking demonstration mission",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/starfish-space-finds-a-new-partner-for-docking-demonstration-mission/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/otterpup2-docking.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nStarfish Space has changed plans for a docking demonstration mission after its original partner backed out.\nThe post Starfish Space finds a new partner for docking demonstration mission appeared first on SpaceNews.",
-    "published_at": "2026-03-28T20:28:54Z",
-    "updated_at": "2026-03-28T20:30:21.478400Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37133,
-    "title": "Mike Fincke Shares More About His Medical Event",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/mike-fincke-shares-more-about-his-medical-event/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/07/Crew-11-prelaunch-300x184.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "NASA astronaut Mike Fincke is sharing more about the medical event that caused an early end to the Crew-11 mission aboard the International Space Station. In an interview with the […]",
-    "published_at": "2026-03-28T19:04:25Z",
-    "updated_at": "2026-03-28T19:10:21.041959Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37131,
-    "title": "Celeste’s first satellites launched to explore LEO-based satellite navigation",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Celeste/Celeste_s_first_satellites_launched_to_explore_LEO-based_satellite_navigation",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/liftoff_for_celeste_on_rocket_lab_s_electron_rocket/27169919-2-eng-GB/Liftoff_for_Celeste_on_Rocket_Lab_s_Electron_rocket_card_full.png",
-    "news_site": "ESA",
-    "summary": "On 28 March, the European Space Agency (ESA) took a major step forward in strengthening Europe's ambition for more resilient satellite navigation, as the first two satellites of the Celeste in-orbit demonstration mission lifted off from New Zealand aboard Rocket Lab’s Electron. Their mission is to begin testing a complementary low Earth orbit layer for Galileo.",
-    "published_at": "2026-03-28T11:07:00Z",
-    "updated_at": "2026-03-28T11:20:21.998671Z",
     "featured": false,
     "launches": [],
     "events": [],
