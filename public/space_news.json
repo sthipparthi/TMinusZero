@@ -1,5 +1,30 @@
 [
   {
+    "id": 37211,
+    "title": "Artemis II: Journey to the Moon begins",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Artemis_II_Journey_to_the_Moon_begins",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/04/artemis_ii_journey_to_the_moon_begins/27185308-1-eng-GB/Artemis_II_Journey_to_the_Moon_begins_card_full.png",
+    "news_site": "ESA",
+    "summary": "Artemis II launched on 2 April at 00:35 CEST, (18:35 local time on 1 April), sending astronauts around the Moon for the first time in over 50 years. At the heart of the mission is ESA's European Service Module, which powers, propels and sustains the Orion spacecraft and its crew on their journey around the Moon and safely back to Earth.",
+    "published_at": "2026-04-02T07:00:00Z",
+    "updated_at": "2026-04-02T07:20:06.304177Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37210,
     "title": "Réunion Island Lava Reaches the Sea",
     "authors": [
@@ -1017,26 +1042,6 @@
     "summary": "\nDecision clears path for April closing after months of scrutiny over keeping key space technology in domestic hands\nThe post Rocket Lab wins German approval for Mynaric deal appeared first on SpaceNews.",
     "published_at": "2026-03-30T21:19:55Z",
     "updated_at": "2026-03-30T21:20:19.667243Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37157,
-    "title": "Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/03/launch-preview-033026/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/HEhZt6FWgAAtH1I.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "Nine launches are scheduled this week, with rockets expected to liftoff from Florida, California, Russia,…\nThe post Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-03-30T21:07:43Z",
-    "updated_at": "2026-03-30T21:10:19.599614Z",
     "featured": false,
     "launches": [],
     "events": [],
