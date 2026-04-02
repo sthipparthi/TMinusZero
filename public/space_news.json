@@ -1,5 +1,99 @@
 [
   {
+    "id": 37208,
+    "title": "Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/launch.jpg",
+    "news_site": "NASA",
+    "summary": "Spurred by American ingenuity, astronauts on NASA’s Artemis II mission are in flight, preparing for the first crewed lunar flyby in more than 50 years. NASA’s SLS (Space Launch System) rocket lifted off from Launch Pad 39B at the agency’s Kennedy Space Center in Florida at 6:35 p.m. EDT Wednesday, sending four astronauts aboard the […]",
+    "published_at": "2026-04-01T23:44:57Z",
+    "updated_at": "2026-04-01T23:50:06.185814Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37206,
+    "title": "Artemis 2 launches on first human mission to the moon in more than 50 years",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/artemis-2-launches-on-first-mission-to-the-moon-in-more-than-50-years/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-liftoff1.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe first human mission beyond Earth orbit in more than 50 years is underway with an April 1 launch of four astronauts on a flight around the moon.\nThe post Artemis 2 launches on first human mission to the moon in more than 50 years appeared first on SpaceNews.",
+    "published_at": "2026-04-01T22:50:15Z",
+    "updated_at": "2026-04-01T22:51:13.293302Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37207,
+    "title": "Artemis II mission begins",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/artemis_ii_launch/27185038-2-eng-GB/Artemis_II_launch_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "At 00:35 CEST today (18:35 local time on 1 April), NASA's Space Launch System rocket lifted off from the Kennedy Space Center in Florida, carrying four astronauts aboard the Orion spacecraft on Artemis II. At the heart of the mission is ESA's European Service Module, which powers, propels and sustains the Orion spacecraft and its crew on their journey around the Moon and safely back to Earth.",
+    "published_at": "2026-04-01T22:00:00Z",
+    "updated_at": "2026-04-01T23:20:20.601656Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37205,
+    "title": "SpaceX quietly files for big bang IPO",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-quietly-files-for-big-bang-ipo/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/SpaceX-T16-scaled.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX has taken a key step toward going public after confidentially filing for a potentially record-breaking initial public offering, according to multiple reports citing people familiar with the matter, in what space leaders hope is a watershed moment for the industry.\nThe post SpaceX quietly files for big bang IPO appeared first on SpaceNews.",
+    "published_at": "2026-04-01T20:04:32Z",
+    "updated_at": "2026-04-01T20:10:21.636422Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37203,
     "title": "Teledyne forms dedicated space unit to capture rising demand",
     "authors": [
@@ -247,6 +341,26 @@
     "summary": "\nUnder NGA’s Luno program, the company will provide ‘insights on priority objects in low Earth orbit’\nThe post Vantor wins intelligence agency contract to monitor space objects appeared first on SpaceNews.",
     "published_at": "2026-04-01T09:30:00Z",
     "updated_at": "2026-04-01T09:30:17.957006Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37204,
+    "title": "Spain Approves €325 Million ESCA+ Expansion of Atlantic Constellation",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/spain-approves-e325-million-esca-expansion-of-atlantic-constellation/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/Spain-Approves-E325-Million-ESCA-Expansion-of-Atlantic-Constellation.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Spain’s Council of Ministers has approved the allocation of €325 million for the development of three Earth observation satellites that will expand the 16-satellite Atlantic Constellation. The Constelación Atlántica (Atlantic Constellation) is a joint initiative between Spain and Portugal to develop an Earth observation constellation for environmental monitoring, coastal surveillance, and disaster management. The two […]\nThe post Spain Approves €325 Million ESCA+ Expansion of Atlantic Constellation appeared first on European Spaceflight.",
+    "published_at": "2026-04-01T09:20:03Z",
+    "updated_at": "2026-04-01T19:10:52.938960Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -923,113 +1037,6 @@
     "summary": "Liftoff from pad 40 at Cape Canaveral Space Force Station in Florida is scheduled for the opening of the launch window at 5:15 p.m. EDT (2115 UTC).  ",
     "published_at": "2026-03-30T19:58:17Z",
     "updated_at": "2026-03-30T20:00:39.879324Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37153,
-    "title": "Varda flies navigation payload, heat shield tests on sixth reentry mission",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/varda-flies-navigation-payload-heat-shield-tests-on-sixth-reentry-mission/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/HEqIYKza0AAsvOq-scaled.jpeg?fit=1024%2C989&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nRhea Space, Sandia and NASA hardware to gather data during high-speed descent\nThe post Varda flies navigation payload, heat shield tests on sixth reentry mission appeared first on SpaceNews.",
-    "published_at": "2026-03-30T18:48:36Z",
-    "updated_at": "2026-03-30T18:50:24.827288Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37152,
-    "title": "Sendoff for Artemis II Crew",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/sendoff-for-artemis-ii-crew/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/jsc2026e017251.jpg",
-    "news_site": "NASA",
-    "summary": "From left to right, NASA astronauts Andre Douglas, Victor Glover, and Christina Koch, CSA (Canadian Space Agency) astronauts Jenni Gibbons, NASA astronaut Reid Wiseman, and CSA astronaut Jeremy Hansen pose for a photo before the Artemis II crew proceed to a media event on March 27, 2026. Douglas and Gibbons are the backup crew members […]",
-    "published_at": "2026-03-30T18:18:27Z",
-    "updated_at": "2026-03-30T18:20:09.854115Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37151,
-    "title": "ESA launches first Celeste satellites to test complementary LEO navigation layer",
-    "authors": [
-      {
-        "name": "Emma Gatti",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/esa-launches-first-celeste-satellites-to-test-complementary-leo-navigation-layer/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Celeste_ready_for_liftoff_on_Rocket_Lab_s_Electron_rocket-scaled.jpg?fit=683%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nMILAN — The European Space Agency has launched the first two satellites of the Celeste in-orbit demonstration mission from New Zealand aboard a Rocket Lab Electron launcher on March 28. The two satellites were launched at 10:14 CET and separated from the launcher about an hour later into a quasi-polar low Earth orbit at 510 […]\nThe post ESA launches first Celeste satellites to test complementary LEO navigation layer appeared first on SpaceNews.",
-    "published_at": "2026-03-30T16:44:46Z",
-    "updated_at": "2026-03-30T16:50:24.677994Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37150,
-    "title": "SpaceX launches Transporter-16 rideshare mission",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/spacex-launches-transporter-16-rideshare-mission/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/transporter16.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpaceX launched the latest in its series of dedicated rideshare missions March 30, delivering more than 100 payloads to sun-synchronous orbit.\nThe post SpaceX launches Transporter-16 rideshare mission appeared first on SpaceNews.",
-    "published_at": "2026-03-30T16:31:19Z",
-    "updated_at": "2026-03-30T16:40:37.923095Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37149,
-    "title": "China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/chinas-kinetica-2-rocket-debuts-successfully-sending-prototype-cargo-spacecraft-to-orbit/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Kinetica2-Y1-Qingzhou1-prototype-JSLC-30march2026-CASSpace1.jpg?fit=1024%2C572&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nChinese firm CAS Space successfully reached orbit with the first launch of its Kinetica-2 launch vehicle Monday, with a prototype cargo spacecraft among the payloads.\nThe post China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit appeared first on SpaceNews.",
-    "published_at": "2026-03-30T15:39:07Z",
-    "updated_at": "2026-03-30T15:40:28.590438Z",
     "featured": false,
     "launches": [],
     "events": [],
