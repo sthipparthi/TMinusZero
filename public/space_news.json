@@ -1,5 +1,132 @@
 [
   {
+    "id": 37234,
+    "title": "Barents Sea Tied to Low Arctic Sea Ice",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/barents-sea-tied-to-low-arctic-sea-ice/barentsice_tmo_20260317.jpg",
+    "news_site": "NASA",
+    "summary": "Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which tied with the lowest maximum observed in the satellite record.",
+    "published_at": "2026-04-03T04:00:00Z",
+    "updated_at": "2026-04-03T04:10:13.215491Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37233,
+    "title": "Artemis II Orion performs TLI Burn — Now headed to the Moon",
+    "authors": [
+      {
+        "name": "Ryan Caton and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-03-04-28-53-534.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "In a historic milestone more than 50 years in the making, NASA’s Orion spacecraft Integrity…\nThe post Artemis II Orion performs TLI Burn — Now headed to the Moon appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-04-03T03:46:22Z",
+    "updated_at": "2026-04-03T03:50:26.394280Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37232,
+    "title": "NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/tli.jpg",
+    "news_site": "NASA",
+    "summary": "For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s main engine. With the approximately six-minute firing of the spacecraft’s service module engine on Thursday, known as the translunar injection burn, Orion and its crew of […]",
+    "published_at": "2026-04-03T02:48:08Z",
+    "updated_at": "2026-04-03T02:50:09.834596Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37231,
+    "title": "Artemis 2 heads to the moon",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/artemis-2-heads-to-the-moon/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-cresentearth.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA’s Artemis 2 mission is on its way to the moon after a successful maneuver April 2.\nThe post Artemis 2 heads to the moon appeared first on SpaceNews.",
+    "published_at": "2026-04-03T02:30:13Z",
+    "updated_at": "2026-04-03T02:30:37.805315Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37230,
+    "title": "Four astronauts are now inexorably bound for the Moon",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-SLS_03302026_Artemis-II-Launch-wide_1medium.jpg",
+    "news_site": "Arstechnica",
+    "summary": "“I don’t think we could be more pleased.\"",
+    "published_at": "2026-04-03T02:17:37Z",
+    "updated_at": "2026-04-03T02:30:09.839430Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37229,
+    "title": "Four Astronauts Headed to Moon After Successful TLI Burn",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/four-astronauts-headed-to-moon-after-successful-tli-burn/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-liftoff-Kowsky-Apr-1-26-300x154.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "After a day in earth orbit checking out systems on the Orion capsule, the Artemis II crew is headed to the Moon.  Earlier today the Mission Management Team gave them […]",
+    "published_at": "2026-04-03T02:03:08Z",
+    "updated_at": "2026-04-03T02:10:21.977407Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37228,
     "title": "Swift spacecraft reorientation buys time for reboost mission",
     "authors": [
@@ -269,22 +396,27 @@
     "detailed_news": ""
   },
   {
-    "id": 37216,
-    "title": "A silicon chip that can do it all",
+    "id": 37221,
+    "title": "Smile: A global answer to a global mystery",
     "authors": [
       {
         "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/a_silicon_chip_that_can_do_it_all/27186499-1-eng-GB/A_silicon_chip_that_can_do_it_all_card_full.jpg",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_A_global_answer_to_a_global_mystery",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/04/smile_a_global_answer_to_a_global_mystery/27187195-1-eng-GB/Smile_A_global_answer_to_a_global_mystery_card_full.png",
     "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
+    "summary": "The European Space Agency and the Chinese Academy of Sciences are joining hands to uncover how Earth defends itself against dangerous particles and radiation from the Sun.",
     "published_at": "2026-04-02T13:00:00Z",
-    "updated_at": "2026-04-02T13:20:17.395928Z",
+    "updated_at": "2026-04-02T15:33:54.326027Z",
     "featured": false,
-    "launches": [],
+    "launches": [
+      {
+        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -303,31 +435,6 @@
     "summary": "‘Extreme but not exotic,’ – a glimpse at Comet 3I/ATLAS through the eyes of the European Space Agency’s Jupiter Icy Moons Explorer (Juice).",
     "published_at": "2026-04-02T13:00:00Z",
     "updated_at": "2026-04-02T14:42:44.788785Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "4066e51e-93ce-46f7-9806-9d2d712107a6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37215,
-    "title": "Five things Juice has revealed about Comet 3I/ATLAS",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/comet_3i_atlas_seen_by_juice_s_science_camera_janus/27186903-1-eng-GB/Comet_3I_ATLAS_seen_by_Juice_s_science_camera_JANUS_card_full.gif",
-    "news_site": "ESA",
-    "summary": "‘Extreme but not exotic,’ – a glimpse at Comet 3I/ATLAS through the eyes of the European Space Agency’s Jupiter Icy Moons Explorer (Juice).",
-    "published_at": "2026-04-02T13:00:00Z",
-    "updated_at": "2026-04-02T14:42:41.986221Z",
     "featured": false,
     "launches": [
       {
@@ -359,24 +466,44 @@
     "detailed_news": ""
   },
   {
-    "id": 37221,
-    "title": "Smile: A global answer to a global mystery",
+    "id": 37216,
+    "title": "A silicon chip that can do it all",
     "authors": [
       {
         "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_A_global_answer_to_a_global_mystery",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/04/smile_a_global_answer_to_a_global_mystery/27187195-1-eng-GB/Smile_A_global_answer_to_a_global_mystery_card_full.png",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/a_silicon_chip_that_can_do_it_all/27186499-1-eng-GB/A_silicon_chip_that_can_do_it_all_card_full.jpg",
     "news_site": "ESA",
-    "summary": "The European Space Agency and the Chinese Academy of Sciences are joining hands to uncover how Earth defends itself against dangerous particles and radiation from the Sun.",
+    "summary": "From the ESA Blogs.",
     "published_at": "2026-04-02T13:00:00Z",
-    "updated_at": "2026-04-02T15:33:54.326027Z",
+    "updated_at": "2026-04-02T13:20:17.395928Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37215,
+    "title": "Five things Juice has revealed about Comet 3I/ATLAS",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/comet_3i_atlas_seen_by_juice_s_science_camera_janus/27186903-1-eng-GB/Comet_3I_ATLAS_seen_by_Juice_s_science_camera_JANUS_card_full.gif",
+    "news_site": "ESA",
+    "summary": "‘Extreme but not exotic,’ – a glimpse at Comet 3I/ATLAS through the eyes of the European Space Agency’s Jupiter Icy Moons Explorer (Juice).",
+    "published_at": "2026-04-02T13:00:00Z",
+    "updated_at": "2026-04-02T14:42:41.986221Z",
     "featured": false,
     "launches": [
       {
-        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+        "launch_id": "4066e51e-93ce-46f7-9806-9d2d712107a6",
         "provider": "Launch Library 2"
       }
     ],
@@ -937,126 +1064,6 @@
     "summary": "Christine Klein took up duty as acting Director of Controlling, Finance and Operational Procurement (D/CFO) at the European Space Agency on 1 April 2026. She will lead the newly established directorate during its consolidation.",
     "published_at": "2026-03-31T21:38:00Z",
     "updated_at": "2026-04-01T05:32:10.678362Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37180,
-    "title": "Artemis II set to return humanity to the Moon with launch on Wednesday evening",
-    "authors": [
-      {
-        "name": "Haygen Warren",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/03/artemis-ii-launch/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/2Q5A0448-wmarked-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "At 23:35 UTC on Dec. 16, 1972, the Apollo 17 command module, America, successfully completed…\nThe post Artemis II set to return humanity to the Moon with launch on Wednesday evening appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-03-31T20:36:05Z",
-    "updated_at": "2026-03-31T20:40:15.211757Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37179,
-    "title": "Everything Still on Track for Artemis II Launch to the Moon on April 1",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/everything-still-on-track-for-artemis-ii-launch-to-the-moon-on-april-1/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/A2-wx-Mar-31-26-300x219.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Just over a day from now, four astronauts may well be on their way to the Moon. Weather continues to be 80 percent favorable for launch at 6:24 pm ET […]",
-    "published_at": "2026-03-31T19:05:10Z",
-    "updated_at": "2026-03-31T19:10:19.357190Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37178,
-    "title": "This is my third Orion launch, but it feels totally different",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/55165944221_60d35d49b5_k.jpg",
-    "news_site": "Arstechnica",
-    "summary": "The first two launches of Orion felt hollow, but NASA is finally on a better course.",
-    "published_at": "2026-03-31T17:09:31Z",
-    "updated_at": "2026-03-31T17:40:08.546605Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37177,
-    "title": "This is my third Orion launch, but it feels totally different",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/55165944221_60d35d49b5_k.jpg",
-    "news_site": "Arstechnica",
-    "summary": "The first two launches of Orion felt hollow, but NASA is finally on a better course.",
-    "published_at": "2026-03-31T17:09:31Z",
-    "updated_at": "2026-03-31T17:20:09.813001Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37176,
-    "title": "Watch live: Artemis II launch",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Artemis_II_launch",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/artemis_ii_let_s_go/27181954-1-eng-GB/Artemis_II_let_s_go_card_full.png",
-    "news_site": "ESA",
-    "summary": "The first launch opportunity for Artemis II, the first mission to bring astronauts towards the Moon in over 50 years, is set for 1 April at 18:24 local time (2 April at 00:24 CEST). Tune in from one hour before launch at 22:24 BST / 23:24 CEST on ESA Web TV to watch the launch.",
-    "published_at": "2026-03-31T16:07:00Z",
-    "updated_at": "2026-03-31T16:20:17.535218Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37175,
-    "title": "Artemis II: let's go",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_let_s_go",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/artemis_ii_let_s_go/27181954-1-eng-GB/Artemis_II_let_s_go_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-03-31T16:03:00Z",
-    "updated_at": "2026-03-31T16:10:16.408562Z",
     "featured": false,
     "launches": [],
     "events": [],
