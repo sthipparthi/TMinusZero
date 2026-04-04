@@ -1,6 +1,6 @@
 {
-  "count": 10,
-  "last_updated": "2026-04-03T18:07:42.762084Z",
+  "count": 11,
+  "last_updated": "2026-04-04T00:08:00.483501Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (10 failed/unavailable)"
+    "Empty AI summaries (11 failed/unavailable)"
   ],
   "launches": [
     {
@@ -150,6 +150,47 @@
           "url": "https://x.com/i/broadcasts/1lKQRvlyyOaGE"
         }
       ],
+      "ai_summary": ""
+    },
+    {
+      "id": "ca4fc7a6-fa84-47f7-89f7-dcf299665817",
+      "name": "Minotaur IV | STP-S29A",
+      "status": "Go",
+      "net": "2026-04-07T11:30:00Z",
+      "window_start": "2026-04-07T11:30:00Z",
+      "window_end": "2026-04-07T16:30:00Z",
+      "lsp_name": "Northrop Grumman Space Systems",
+      "lsp_description": "Northrup Grumman Space Systems designs, builds and delivers space, defence and aviation-related systems to customers around the world. They aquired Orbital ATK in 2018 along with its launchers and ongoing missions.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/northrop2520grumman2520innovation2520systems_logo_20190207032451.png",
+      "mission_name": "STP-S29A",
+      "mission_description": "STP-S29A is a mission under the U.S. Department of Defense's Space Test Program (STP) that will deliver technology demonstrations to orbit and contribute to future space system development, with this launch delivering up to 200 kg of STP cubesats to Low Earth Orbit.\r\n\r\nThe main payload will be STPSat-7, an ESPA class satellite based on the Aegis Aerospace M-1 satellite bus used on the STPSat-4 mission for hosting research and technology demonstration payloads for the Department of Defense (DoD). One of the payload is U.S. Naval Research Laboratory's (NRL) Lightsheet Anomaly Resolution and Debris Observation (LARADO) instrument, used to detect and characterize lethal non-trackable orbital debris with lasers in orbit.",
+      "mission_type": "Technology",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Space Launch Complex 8, Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 8",
+      "location": "Vandenberg SFB, CA, USA",
+      "rocket": "Minotaur IV",
+      "rocket_config_description": "The Minotaur IV launch system is derived from the Peacekeeper ICBM. The first three stages are taken directly from decommissioned Peacekeeper missiles. A fourth stage, the Orion-38, is taken from the Pegasus family of air-launched rockets.",
+      "rocket_config_family": "Minotaur",
+      "rocket_config_full_name": "Minotaur IV",
+      "rocket_config_total_launch_count": 4,
+      "rocket_config_successful_launches": 4,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 2,
+      "rocket_manufacturer_name": "Orbital ATK",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Orbital ATK Inc. was an American aerospace manufacturer and defense industry company. It was formed in 2015 from the merger of Orbital Sciences Corporation and parts of Alliant Techsystems. Orbital ATK was purchased by Northrop Grumman in 2018.",
+      "rocket_manufacturer_total_launch_count": 6,
+      "rocket_manufacturer_successful_launches": 6,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/minotaur_iv_lau_image_20240307170209.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/ca4fc7a6-fa84-47f7-89f7-dcf299665817/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
       "ai_summary": ""
     },
     {
@@ -468,7 +509,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 10,
-    "total_launches": 10
+    "empty_summaries": 11,
+    "total_launches": 11
   }
 }

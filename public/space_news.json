@@ -1,5 +1,85 @@
 [
   {
+    "id": 37252,
+    "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/earth1.jpg",
+    "news_site": "Arstechnica",
+    "summary": "The cabin was colder on Thursday, but the crew has been able to adjust the temperature.",
+    "published_at": "2026-04-03T22:20:19Z",
+    "updated_at": "2026-04-03T22:30:10.985128Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37251,
+    "title": "Live coverage: ULA’s Atlas 5 rocket to launch its heaviest payload ever with next Amazon Leo mission",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/04/03/live-coverage-ulas-atlas-5-rocket-to-launch-its-heaviest-payload-ever-with-next-amazon-leo-mission/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260338_Leo_Atlas_05_preview.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff from pad 41 at Cape Canaveral Space Force Station is scheduled for Saturday at 1:45 a.m. EDT (0545 UTC), weather permitting. ",
+    "published_at": "2026-04-03T22:10:24Z",
+    "updated_at": "2026-04-03T22:20:33.533671Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37250,
+    "title": "NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-crs-24-resupply-launch/",
+    "image_url": "https://images-assets.nasa.gov/image/iss073e0816153/iss073e0816153~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 8:49 a.m. EDT on Wednesday, April 8, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space […]",
+    "published_at": "2026-04-03T22:01:31Z",
+    "updated_at": "2026-04-03T22:10:15.418476Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37249,
+    "title": "Meet NASA’s New Artemis II Science Officers",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e006229.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s first Artemis II science officers—Kelsey Young, Trevor Graff, and Angela Garcia—are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future Artemis crews observe, analyze, and deepen our understanding of the Moon.",
+    "published_at": "2026-04-03T17:35:44Z",
+    "updated_at": "2026-04-03T18:10:12.307437Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37248,
     "title": "Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand",
     "authors": [
@@ -677,26 +757,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37212,
-    "title": "Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_josh_jetter_headshot_2.png?fit=879%2C586&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Los Angeles startup Fortastra has hired veterans from Relativity Space, Hermeus, Astrion and Divergent Technologies to design and operate maneuverable spacecraft for on-orbit security. Josh Jetter, former Relativity senior director of avionics engineering and manufacturing, will be Fortastra’s chief technology officer. Sahil Desai, Fortastra’s vice president of product, was Divergent Technologies’ vice president […]\nThe post Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite appeared first on SpaceNews.",
-    "published_at": "2026-04-02T13:00:00Z",
-    "updated_at": "2026-04-02T13:01:29.442668Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37216,
     "title": "A silicon chip that can do it all",
     "authors": [
@@ -788,6 +848,26 @@
         "provider": "Launch Library 2"
       }
     ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37212,
+    "title": "Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_josh_jetter_headshot_2.png?fit=879%2C586&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Los Angeles startup Fortastra has hired veterans from Relativity Space, Hermeus, Astrion and Divergent Technologies to design and operate maneuverable spacecraft for on-orbit security. Josh Jetter, former Relativity senior director of avionics engineering and manufacturing, will be Fortastra’s chief technology officer. Sahil Desai, Fortastra’s vice president of product, was Divergent Technologies’ vice president […]\nThe post Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite appeared first on SpaceNews.",
+    "published_at": "2026-04-02T13:00:00Z",
+    "updated_at": "2026-04-02T13:01:29.442668Z",
+    "featured": false,
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -965,93 +1045,6 @@
     "summary": "\nSpaceX has taken a key step toward going public after confidentially filing for a potentially record-breaking initial public offering, according to multiple reports citing people familiar with the matter, in what space leaders hope is a watershed moment for the industry.\nThe post SpaceX quietly files for big bang IPO appeared first on SpaceNews.",
     "published_at": "2026-04-01T20:04:32Z",
     "updated_at": "2026-04-01T20:10:21.636422Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37203,
-    "title": "Teledyne forms dedicated space unit to capture rising demand",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/news-generic-tdy-office-2-2782x1855-50-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe aerospace supplier is combining imaging, electronics and component lines under Teledyne Space\nThe post Teledyne forms dedicated space unit to capture rising demand appeared first on SpaceNews.",
-    "published_at": "2026-04-01T17:29:14Z",
-    "updated_at": "2026-04-01T17:30:21.476615Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37202,
-    "title": "Artemis 2’s (nearly) 10-day flight around the moon",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55182234935_8250c5813c_k.jpg?fit=1024%2C595&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Artemis 2 mission will send humans to the vicinity of the moon for the first time in more than 50 years on a mission lasting almost 10 days.\nThe post Artemis 2’s (nearly) 10-day flight around the moon appeared first on SpaceNews.",
-    "published_at": "2026-04-01T16:25:57Z",
-    "updated_at": "2026-04-01T16:30:24.093424Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37201,
-    "title": "Today Still Looking Good for Artemis II — No Fooling!",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/today-still-looking-good-for-artemis-ii-no-fooling/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/SLS-11-45-am-et-300x170.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "It may be April Fool’s Day to some, but to NASA it’s launch day to send humans around the Moon for the first time in more than 50 years. As […]",
-    "published_at": "2026-04-01T16:04:06Z",
-    "updated_at": "2026-04-01T16:11:07.751173Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37200,
-    "title": "Saltzman: Space ‘baked into’ modern combat operations",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/saltzman-space-baked-into-modern-combat-operations/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/250923-F-JJ904-8800.jpg?fit=1024%2C823&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpace Force personnel supporting operations under U.S. Central Command are positioned in the Middle East, at headquarters in Tampa, Florida, and at Shaw Air Force Base in South Carolina\nThe post Saltzman: Space ‘baked into’ modern combat operations appeared first on SpaceNews.",
-    "published_at": "2026-04-01T15:49:47Z",
-    "updated_at": "2026-04-01T15:50:16.281285Z",
     "featured": false,
     "launches": [],
     "events": [],
