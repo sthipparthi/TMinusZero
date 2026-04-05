@@ -1,5 +1,72 @@
 [
   {
+    "id": 37291,
+    "title": "Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission",
+    "authors": [
+      {
+        "name": "Chris Bergin and Martijn Luinstra",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-04-22-29-14-828.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "As NASA’s Artemis II mission enters its critical mid-flight phase, the Orion spacecraft—carrying the first…\nThe post Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-04-04T21:57:48Z",
+    "updated_at": "2026-04-04T22:00:27.633022Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37290,
+    "title": "Atlas 5 launches Amazon Leo satellites",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/atlas-5-launches-amazon-leo-satellites/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55186765921_b24845973c_k.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAn Atlas 5 launched the latest set of satellites for Amazon’s broadband constellation April 4 as the company seeks to accelerate deployment of its spacecraft.\nThe post Atlas 5 launches Amazon Leo satellites appeared first on SpaceNews.",
+    "published_at": "2026-04-04T20:27:36Z",
+    "updated_at": "2026-04-04T20:30:29.683790Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37289,
+    "title": "NASA Answers Your Most Pressing Artemis II Questions",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/",
+    "image_url": "https://images-assets.nasa.gov/image/art002e008487/art002e008487~large.jpg",
+    "news_site": "NASA",
+    "summary": "The first crewed test flight under NASA’s Artemis program is underway. Four Artemis II astronauts are flying aboard NASA’s Orion spacecraft around the Moon and back, as they test how the spacecraft’s systems operate in a deep space environment. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy […]",
+    "published_at": "2026-04-04T19:44:31Z",
+    "updated_at": "2026-04-04T19:50:22.099187Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37288,
     "title": "Space Force budget would more than double in Trump’s $1.5 trillion defense plan",
     "authors": [
@@ -973,71 +1040,6 @@
     "summary": "The Italian government and NASA have signed an agreement to cooperate on the development of a U.S.-led lunar surface base. The move is the latest in a series of bilateral efforts between the two nations, including a June 2022 cooperation agreement that tasked Italy with leading the design of a multi-purpose lunar habitation module, currently […]\nThe post Italy Signs Agreement with NASA to Cooperate on Moon Base appeared first on European Spaceflight.",
     "published_at": "2026-04-02T09:01:33Z",
     "updated_at": "2026-04-03T08:30:17.628762Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37211,
-    "title": "Artemis II: Journey to the Moon begins",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Artemis_II_Journey_to_the_Moon_begins",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/04/artemis_ii_journey_to_the_moon_begins/27185308-1-eng-GB/Artemis_II_Journey_to_the_Moon_begins_card_full.png",
-    "news_site": "ESA",
-    "summary": "Artemis II launched on 2 April at 00:35 CEST, (18:35 local time on 1 April), sending astronauts around the Moon for the first time in over 50 years. At the heart of the mission is ESA's European Service Module, which powers, propels and sustains the Orion spacecraft and its crew on their journey around the Moon and safely back to Earth.",
-    "published_at": "2026-04-02T07:00:00Z",
-    "updated_at": "2026-04-02T07:20:06.304177Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37210,
-    "title": "Réunion Island Lava Reaches the Sea",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/reunion-island-lava-reaches-the-sea/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/r%C3%A9union-island-lava-reaches-the-sea/reunioneruption_oli2_20260328.jpg",
-    "news_site": "NASA",
-    "summary": "The February 2026 eruption at Piton de la Fournaise has lasted longer and produced a larger volume of lava than recent eruptions from this frequently active volcano.",
-    "published_at": "2026-04-02T04:01:00Z",
-    "updated_at": "2026-04-02T04:10:29.500994Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37209,
-    "title": "First Time is the Charm! Four Astronauts Headed to the Moon",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/first-time-is-the-charm-four-astronauts-headed-to-the-moon/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/A2-crew-Mar-30-26-300x233.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "All the hard work to get the Space Launch System rocket and Orion spacecraft ready to send four people around the Moon for the first time in 53 years paid […]",
-    "published_at": "2026-04-02T03:23:01Z",
-    "updated_at": "2026-04-02T03:30:15.211997Z",
     "featured": false,
     "launches": [],
     "events": [],
