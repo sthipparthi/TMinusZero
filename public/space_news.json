@@ -1,5 +1,52 @@
 [
   {
+    "id": 37293,
+    "title": "NASA finalizes science plans for Artemis 2 lunar flyby",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art002e004357-large.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWASHINGTON — As Artemis 2 approaches the moon, a NASA science team is finalizing plans for the observations they want the astronauts to perform during their flyby. At an April 4 briefing, a representative of the mission’s science team said they were working to complete a plan of observations by the astronauts on April 6, […]\nThe post NASA finalizes science plans for Artemis 2 lunar flyby appeared first on SpaceNews.",
+    "published_at": "2026-04-05T03:29:58Z",
+    "updated_at": "2026-04-05T03:30:28.471744Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37292,
+    "title": "Artemis II is going so well that we're left to talk about frozen urine",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e004357large.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"I think the fixation on the toilet is kind of human nature.\"",
+    "published_at": "2026-04-05T00:12:45Z",
+    "updated_at": "2026-04-05T00:20:08.806812Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37291,
     "title": "Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission",
     "authors": [
@@ -911,26 +958,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37216,
-    "title": "A silicon chip that can do it all",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/a_silicon_chip_that_can_do_it_all/27186499-1-eng-GB/A_silicon_chip_that_can_do_it_all_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-04-02T13:00:00Z",
-    "updated_at": "2026-04-02T13:20:17.395928Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37213,
     "title": "Five things Juice has revealed about Comet 3I/ATLAS already",
     "authors": [
@@ -945,31 +972,6 @@
     "summary": "‘Extreme but not exotic,’ – a glimpse at Comet 3I/ATLAS through the eyes of the European Space Agency’s Jupiter Icy Moons Explorer (Juice).",
     "published_at": "2026-04-02T13:00:00Z",
     "updated_at": "2026-04-02T14:42:44.788785Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "4066e51e-93ce-46f7-9806-9d2d712107a6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37215,
-    "title": "Five things Juice has revealed about Comet 3I/ATLAS",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/comet_3i_atlas_seen_by_juice_s_science_camera_janus/27186903-1-eng-GB/Comet_3I_ATLAS_seen_by_Juice_s_science_camera_JANUS_card_full.gif",
-    "news_site": "ESA",
-    "summary": "‘Extreme but not exotic,’ – a glimpse at Comet 3I/ATLAS through the eyes of the European Space Agency’s Jupiter Icy Moons Explorer (Juice).",
-    "published_at": "2026-04-02T13:00:00Z",
-    "updated_at": "2026-04-02T14:42:41.986221Z",
     "featured": false,
     "launches": [
       {
@@ -1006,6 +1008,31 @@
     "detailed_news": ""
   },
   {
+    "id": 37215,
+    "title": "Five things Juice has revealed about Comet 3I/ATLAS",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/comet_3i_atlas_seen_by_juice_s_science_camera_janus/27186903-1-eng-GB/Comet_3I_ATLAS_seen_by_Juice_s_science_camera_JANUS_card_full.gif",
+    "news_site": "ESA",
+    "summary": "‘Extreme but not exotic,’ – a glimpse at Comet 3I/ATLAS through the eyes of the European Space Agency’s Jupiter Icy Moons Explorer (Juice).",
+    "published_at": "2026-04-02T13:00:00Z",
+    "updated_at": "2026-04-02T14:42:41.986221Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "4066e51e-93ce-46f7-9806-9d2d712107a6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37212,
     "title": "Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite",
     "authors": [
@@ -1020,26 +1047,6 @@
     "summary": "\nSAN FRANCISCO – Los Angeles startup Fortastra has hired veterans from Relativity Space, Hermeus, Astrion and Divergent Technologies to design and operate maneuverable spacecraft for on-orbit security. Josh Jetter, former Relativity senior director of avionics engineering and manufacturing, will be Fortastra’s chief technology officer. Sahil Desai, Fortastra’s vice president of product, was Divergent Technologies’ vice president […]\nThe post Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite appeared first on SpaceNews.",
     "published_at": "2026-04-02T13:00:00Z",
     "updated_at": "2026-04-02T13:01:29.442668Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37238,
-    "title": "Italy Signs Agreement with NASA to Cooperate on Moon Base",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/italy-signs-agreement-with-nasa-to-cooperate-on-moon-base/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/Italy-Signs-Agreement-with-NASA-to-Cooperate-on-Moon-Base.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The Italian government and NASA have signed an agreement to cooperate on the development of a U.S.-led lunar surface base. The move is the latest in a series of bilateral efforts between the two nations, including a June 2022 cooperation agreement that tasked Italy with leading the design of a multi-purpose lunar habitation module, currently […]\nThe post Italy Signs Agreement with NASA to Cooperate on Moon Base appeared first on European Spaceflight.",
-    "published_at": "2026-04-02T09:01:33Z",
-    "updated_at": "2026-04-03T08:30:17.628762Z",
     "featured": false,
     "launches": [],
     "events": [],
