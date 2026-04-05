@@ -1,5 +1,25 @@
 [
   {
+    "id": 37294,
+    "title": "Thinking of You, Earth",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e008486orig.jpg",
+    "news_site": "NASA",
+    "summary": "On April 4, 2026, NASA astronaut and Artemis II Commander Reid Wiseman peers out of one of the Orion spacecraft’s main cabin windows, looking back at Earth, as the crew travels towards the Moon. The Artemis II astronauts – Wiseman and fellow NASA astronauts Christina Koch and Victor Glover, and CSA (Canadian Space Agency) astronaut […]",
+    "published_at": "2026-04-05T14:04:33Z",
+    "updated_at": "2026-04-05T14:10:08.352004Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37293,
     "title": "NASA finalizes science plans for Artemis 2 lunar flyby",
     "authors": [
@@ -1029,26 +1049,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37212,
-    "title": "Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_josh_jetter_headshot_2.png?fit=879%2C586&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Los Angeles startup Fortastra has hired veterans from Relativity Space, Hermeus, Astrion and Divergent Technologies to design and operate maneuverable spacecraft for on-orbit security. Josh Jetter, former Relativity senior director of avionics engineering and manufacturing, will be Fortastra’s chief technology officer. Sahil Desai, Fortastra’s vice president of product, was Divergent Technologies’ vice president […]\nThe post Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite appeared first on SpaceNews.",
-    "published_at": "2026-04-02T13:00:00Z",
-    "updated_at": "2026-04-02T13:01:29.442668Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
