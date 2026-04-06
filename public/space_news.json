@@ -1,5 +1,92 @@
 [
   {
+    "id": 37302,
+    "title": "Today’s the Day! Artemis II Crew Ready for Lunar Flyby",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/todays-the-day-artemis-ii-crew-ready-for-lunar-flyby/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2023/03/Artemis-II-trajectory-2023-300x166.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Today four astronauts will fly around the Moon for the first time since 1972. The crew of Artemis II is closing in on the Moon and around lunchtime will surpass […]",
+    "published_at": "2026-04-06T12:01:50Z",
+    "updated_at": "2026-04-06T12:10:15.863107Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37299,
+    "title": "Military space programs confront hidden supply constraints",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/military-space-confronts-hidden-supplier-constraints/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/T-0_Pics-4-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIndustry report warns components – from optical links to valves – may become chokepoints\nThe post Military space programs confront hidden supply constraints appeared first on SpaceNews.",
+    "published_at": "2026-04-06T11:30:00Z",
+    "updated_at": "2026-04-06T11:30:28.192881Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37300,
+    "title": "Artemis 2 ready to fly around the moon",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-moonwindow.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Artemis 2 mission will swing around the moon April 6, setting a distance record as astronauts study part of the lunar farside.\nThe post Artemis 2 ready to fly around the moon appeared first on SpaceNews.",
+    "published_at": "2026-04-06T11:21:26Z",
+    "updated_at": "2026-04-06T11:30:28.219443Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37301,
+    "title": "Avio Delays SMILE Launch After Component Production Issue Identified",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/avio-delays-smile-launch-after-component-production-issue-identified/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/Avio-Delays-SMILE-Launch-After-Component-Production-Issue-Identified.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The Italian launch services provider Avio has postponed the launch of the European Space Agency’s (ESA) SMILE mission aboard a Vega C rocket after an issue was identified on the production line of a subsystem component. Avio began preparations for the launch of SMILE in mid-February with the transfer of the P120C first stage from […]\nThe post Avio Delays SMILE Launch After Component Production Issue Identified appeared first on European Spaceflight.",
+    "published_at": "2026-04-06T08:21:49Z",
+    "updated_at": "2026-04-06T12:10:12.214763Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37298,
     "title": "Artemis astronauts send down Easter message, prep for lunar fly around Monday",
     "authors": [
@@ -944,101 +1031,6 @@
     "summary": "Artemis II took to the skies at 6:35 PM EDT on Wednesday afternoon, paying off years of hard work and planning by NASA and its partners.",
     "published_at": "2026-04-02T15:31:38Z",
     "updated_at": "2026-04-02T15:40:40.506768Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37220,
-    "title": "How to follow the Smile launch live",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_lifts_off_into_space_artist_impression/27126092-1-eng-GB/Smile_lifts_off_into_space_artist_impression_card_full.png",
-    "news_site": "ESA",
-    "summary": "ESA will be broadcasting live as the European-Chinese Smile mission launches at 07:29 BST/08:29 CEST (03:29 local time) on 9 April 2026.",
-    "published_at": "2026-04-02T15:00:00Z",
-    "updated_at": "2026-04-02T15:33:46.890475Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37219,
-    "title": "Moog Technology Successfully Steers Artemis II Launch",
-    "authors": [
-      {
-        "name": "Moog Inc.",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer, and systems integrator of high-performance precision motion and fluid controls and control systems, provided the critical […]\r\nThe post Moog Technology Successfully Steers Artemis II Launch appeared first on SpaceNews.",
-    "published_at": "2026-04-02T14:55:23Z",
-    "updated_at": "2026-04-02T15:33:51.504318Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37217,
-    "title": "Artemis II is unlikely to be the cultural touchstone Apollo 8 was, and that's OK",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55182918876_4bbdf92613_k.jpg",
-    "news_site": "Arstechnica",
-    "summary": "NASA has struggled to deal with the widespread sentiment that NASA has “been there, done that.\"",
-    "published_at": "2026-04-02T14:46:36Z",
-    "updated_at": "2026-04-02T15:33:58.492701Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37218,
-    "title": "Carmel Ortiz on the evolving landscape of satellite communications",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/carmel-ortiz-on-the-evolving-landscape-of-satellite-communications/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/space-minds-podcast-SES-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this week’s episode of Space Minds, host Mike Gruss interviews Carmel Ortiz, senior vice president of medium-Earth-orbit constellation programs at SES. They discuss new technology to help satellites communicate […]\nThe post Carmel Ortiz on the evolving landscape of satellite communications appeared first on SpaceNews.",
-    "published_at": "2026-04-02T14:42:23Z",
-    "updated_at": "2026-04-02T14:50:31.799960Z",
     "featured": false,
     "launches": [],
     "events": [],

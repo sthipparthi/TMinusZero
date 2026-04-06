@@ -1,6 +1,6 @@
 {
-  "count": 9,
-  "last_updated": "2026-04-06T06:30:37.409100Z",
+  "count": 8,
+  "last_updated": "2026-04-06T12:11:13.304169Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (9 failed/unavailable)"
+    "Empty AI summaries (8 failed/unavailable)"
   ],
   "launches": [
     {
@@ -227,47 +227,6 @@
       "ai_summary": ""
     },
     {
-      "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
-      "name": "Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
-      "status": "Go",
-      "net": "2026-04-09T06:29:00Z",
-      "window_start": "2026-04-09T06:29:00Z",
-      "window_end": "2026-04-09T06:29:00Z",
-      "lsp_name": "Avio S.p.A",
-      "lsp_description": "Avio S.p.A. is an Italian company operating in the aerospace sector with its head office in Colleferro near Rome, Italy. Founded in 1908, it is present in Italy and abroad with different commercial offices and 10 production sites.",
-      "lsp_type": "Commercial",
-      "lsp_country": "ITA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/avio2520s.p.a_logo_20221130103121.png",
-      "mission_name": "Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
-      "mission_description": "Joint mission between the European Space Agency and the Chinese Academy of Sciences to investigate the interaction between Earth’s protective shield – the magnetosphere – and the supersonic solar wind.",
-      "mission_type": "Astrophysics",
-      "orbit": "Elliptical Orbit",
-      "launch_site": "Ariane Launch Area 1 (ELV), Guiana Space Centre, French Guiana",
-      "pad": "Ariane Launch Area 1 (ELV)",
-      "location": "Guiana Space Centre, French Guiana",
-      "rocket": "Vega-C",
-      "rocket_config_description": "Vega-C is a single-body rocket nearly 35 m high with that weighs 210 tonnes on the launch pad. As with Vega, its main elements are three solid-propellant stages, an upper stage powered by a reignitable liquid-propellant engine and a payload fairing. Vega-C's P120C first stage replaces Vega’s smaller P80 to provide a significant increase in thrust at liftoff. It is also used as boosters (2 or 4) for the Ariane 6 rocket.",
-      "rocket_config_family": "Vega",
-      "rocket_config_full_name": "Vega-C",
-      "rocket_config_total_launch_count": 6,
-      "rocket_config_successful_launches": 5,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 23,
-      "rocket_manufacturer_name": "Avio S.p.A",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Avio S.p.A. is an Italian company operating in the aerospace sector with its head office in Colleferro near Rome, Italy. Founded in 1908, it is present in Italy and abroad with different commercial offices and 10 production sites.",
-      "rocket_manufacturer_total_launch_count": 0,
-      "rocket_manufacturer_successful_launches": 0,
-      "rocket_manufacturer_failed_launches": 0,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/b31313da-ee5d-42b2-9a27-20cc18105276/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
-    {
       "id": "f6c9396f-5f02-49e6-a847-83e4c774e0e9",
       "name": "Falcon 9 Block 5 | Starlink Group 17-21",
       "status": "Go",
@@ -419,7 +378,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 9,
-    "total_launches": 9
+    "empty_summaries": 8,
+    "total_launches": 8
   }
 }
