@@ -1,5 +1,122 @@
 [
   {
+    "id": 37317,
+    "title": "Drought Parches Florida",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-dry-winter-for-florida/flordrought_grc_20260330.jpg",
+    "news_site": "NASA",
+    "summary": "The state was unusually dry for much of 2025, but the intensity of the drought has ratcheted up since January 2026.",
+    "published_at": "2026-04-07T04:01:00Z",
+    "updated_at": "2026-04-07T04:10:10.556744Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37316,
+    "title": "Artemis II Swings Around the Moon, Begins Trip Home with White House Congratulations",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/artemis-ii-swings-around-the-moon-begins-trip-home-with-white-house-congratulations/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-craters-300x300.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The four Artemis II astronauts set a new record today for the furthest any humans have traveled from Earth, swinging around the Moon and then heading back towards Earth. Their […]",
+    "published_at": "2026-04-07T03:49:33Z",
+    "updated_at": "2026-04-07T05:39:49.323833Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1408,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 37315,
+    "title": "Artemis II breaks record, conducts lunar flyby",
+    "authors": [
+      {
+        "name": "Ryan Caton and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/04/artemis-ii-breaks-record-lunar-flyby/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-07-04-21-54-715.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Orion spacecraft Integrity, carrying astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen, successfully…\r\nThe post Artemis II breaks record, conducts lunar flyby appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-04-07T03:35:08Z",
+    "updated_at": "2026-04-07T05:39:43.399311Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1408,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 37314,
+    "title": "Artemis 2 swings around the moon",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/artemis-2-swings-around-the-moon/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-moonapproach.jpeg?fit=1000%2C564&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Four astronauts from the United States and Canada became the humans to travel the furthest from the Earth April 6 as they went around the moon on the Artemis 2 mission.\r\nThe post Artemis 2 swings around the moon appeared first on SpaceNews.",
+    "published_at": "2026-04-07T01:51:44Z",
+    "updated_at": "2026-04-07T05:39:37.360531Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1408,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
     "id": 37313,
     "title": "Up Close with the Orion Crew Survival System",
     "authors": [
@@ -944,86 +1061,6 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-04-03T08:00:00Z",
     "updated_at": "2026-04-03T08:00:37.613117Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37236,
-    "title": "Earth from Space: Eyes on our Moon",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Eyes_on_our_Moon",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earth_from_space_eyes_on_our_moon/27186197-1-eng-GB/Earth_from_Space_Eyes_on_our_Moon_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-04-03T08:00:00Z",
-    "updated_at": "2026-04-03T08:20:16.827355Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37237,
-    "title": "SpaceX Files FCC Complaint Over Ariane 64 Amazon LEO Launch",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/spacex-files-fcc-complaint-over-ariane-64-amazon-leo-launch/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/SpaceX-Files-FCC-Complaint-Over-Ariane-64-Amazon-LEO-Launch.webp",
-    "news_site": "European Spaceflight",
-    "summary": "In a complaint filed with the FCC on 1 April, US launch services provider SpaceX accused Amazon and its launch partner, Arianespace, of deploying 32 satellites into a higher orbit than authorised during a February Ariane 64 launch. In response, Amazon has issued a statement expressing surprise that SpaceX did not raise any objections when […]\nThe post SpaceX Files FCC Complaint Over Ariane 64 Amazon LEO Launch appeared first on European Spaceflight.",
-    "published_at": "2026-04-03T06:00:01Z",
-    "updated_at": "2026-04-03T08:30:17.534915Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37234,
-    "title": "Barents Sea Tied to Low Arctic Sea Ice",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/barents-sea-tied-to-low-arctic-sea-ice/barentsice_tmo_20260317.jpg",
-    "news_site": "NASA",
-    "summary": "Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which tied with the lowest maximum observed in the satellite record.",
-    "published_at": "2026-04-03T04:00:00Z",
-    "updated_at": "2026-04-03T04:10:13.215491Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37233,
-    "title": "Artemis II Orion performs TLI Burn — Now headed to the Moon",
-    "authors": [
-      {
-        "name": "Ryan Caton and Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-03-04-28-53-534.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "In a historic milestone more than 50 years in the making, NASA’s Orion spacecraft Integrity…\nThe post Artemis II Orion performs TLI Burn — Now headed to the Moon appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-04-03T03:46:22Z",
-    "updated_at": "2026-04-03T03:50:26.394280Z",
     "featured": false,
     "launches": [],
     "events": [],
