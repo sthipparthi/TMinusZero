@@ -1,5 +1,178 @@
 [
   {
+    "id": 37344,
+    "title": "Industry navigates NASA’s start-and-stop approach to commercial space stations",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/orbitalreef.jpg?fit=1024%2C636&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA signaled last summer it planned to accelerate efforts to replace the aging International Space Station. Nearly nine months later, that push appears to have slowed.In a directive signed at the end of July, the agency’s acting administrator, Sean Duffy sought changes to the Commercial Low Earth Orbit Destinations, or CLD, program, aimed at speeding […]\nThe post Industry navigates NASA’s start-and-stop approach to commercial space stations appeared first on SpaceNews.",
+    "published_at": "2026-04-08T11:00:00Z",
+    "updated_at": "2026-04-08T11:10:25.283249Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37342,
+    "title": "Artemis 2 science gets underway as Orion begins its return trip",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art002e009288-large.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "As Artemis 2 begins its return to Earth, scientists are just starting to review the images and observations taken by the crew as they flew around the moon.\r\nThe post Artemis 2 science gets underway as Orion begins its return trip appeared first on SpaceNews.",
+    "published_at": "2026-04-08T10:23:16Z",
+    "updated_at": "2026-04-08T11:16:23.584121Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37343,
+    "title": "Capella Space wins $49 million contract for military communications satellite demo",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-6.14.58-AM.png?fit=1024%2C779&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe contract was awarded by the Space Development Agency for 2027 demonstrations\nThe post Capella Space wins $49 million contract for military communications satellite demo appeared first on SpaceNews.",
+    "published_at": "2026-04-08T10:21:52Z",
+    "updated_at": "2026-04-08T10:30:21.477430Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37341,
+    "title": "Space security moves to forefront as threats to satellites spread",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/moore-law-banner-1.jpg?fit=1024%2C593&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSecure World Foundation report highlights growing reliance on orbiting systems and spread of interference technologies\nThe post Space security moves to forefront as threats to satellites spread appeared first on SpaceNews.",
+    "published_at": "2026-04-08T10:00:00Z",
+    "updated_at": "2026-04-08T10:10:31.851084Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37338,
+    "title": "Inspection cubesat demo planned as first step toward orbital defense mothership",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/SpaceNews_EnduroSat-Shield-Space-_-Project-Nexus-MotherShip-2-scaled.jpg?fit=1024%2C568&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nBulgarian satellite maker EnduroSat and British defense tech startup Shield Space aim to deploy a cubesat next year capable of maneuvering near other satellites for inspection, ahead of plans to develop a mothership that could house dozens of them for on-demand missions.\nThe post Inspection cubesat demo planned as first step toward orbital defense mothership appeared first on SpaceNews.",
+    "published_at": "2026-04-08T08:00:00Z",
+    "updated_at": "2026-04-08T08:01:24.567129Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37337,
+    "title": "Astroscale passes key design milestone for UK military space-tracking cubesats",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Orpheus_satellites_graphic_Apr26-scaled.png?fit=1024%2C690&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAstroscale has completed the critical design review for two cubesats slated to launch next year to help the British military monitor space weather and track objects in LEO.\nThe post Astroscale passes key design milestone for UK military space-tracking cubesats appeared first on SpaceNews.",
+    "published_at": "2026-04-08T07:00:00Z",
+    "updated_at": "2026-04-08T07:10:31.962224Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37340,
+    "title": "PLD Space Secures €30 Million European Investment Bank Loan",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/pld-space-secures-e30-million-european-investment-bank-loan/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/PLD-Space-Secures-E30-Million-European-Investment-Bank-Loan.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Spanish launch services provider PLD Space has secured a €30 million loan from the European Investment Bank (EIB), a month after closing a €180 million Series C funding round. The company is currently preparing for the inaugural flight of its MIURA 5 rocket, scheduled for later this year. PLD Space made the announcement on 7 […]\nThe post PLD Space Secures €30 Million European Investment Bank Loan appeared first on European Spaceflight.",
+    "published_at": "2026-04-08T06:00:27Z",
+    "updated_at": "2026-04-08T09:10:11.326629Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37336,
     "title": "A Volcanic Medley Near Mammoth Lakes",
     "authors": [
@@ -200,26 +373,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37325,
-    "title": "NASA’s new moon base project requires operational technology systems in space, but they are vulnerable.",
-    "authors": [
-      {
-        "name": "Nick Reese",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/art2-20260201.jpeg?fit=1024%2C716&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNewly anointed NASA Administrator Jared Isaacman made a $20 billion announcement on March 24, 2026. To the delight of space enthusiasts everywhere, Isaacman said NASA was cancelling its project to deploy a space station in lunar orbit and would reorient to building a $20 billion base on the surface of the moon. The new base, […]\nThe post NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. appeared first on SpaceNews.",
-    "published_at": "2026-04-07T13:00:00Z",
-    "updated_at": "2026-04-07T13:00:30.210242Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37324,
     "title": "Starfish Space raises more than $100 million",
     "authors": [
@@ -241,6 +394,26 @@
     "summary": "\nWASHINGTON — Starfish Space has raised more than $100 million to scale up production of its satellite servicing spacecraft. Seattle-based Starfish announced April 7 it closed a Series B round led by Point72 Ventures, raising more than $100 million. Activate Capital and Shield Capital co-led the round, with major participation from Industrious Ventures and NightDragon. […]\nThe post Starfish Space raises more than $100 million appeared first on SpaceNews.",
     "published_at": "2026-04-07T13:00:00Z",
     "updated_at": "2026-04-07T13:00:30.112041Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37325,
+    "title": "NASA’s new moon base project requires operational technology systems in space, but they are vulnerable.",
+    "authors": [
+      {
+        "name": "Nick Reese",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/art2-20260201.jpeg?fit=1024%2C716&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNewly anointed NASA Administrator Jared Isaacman made a $20 billion announcement on March 24, 2026. To the delight of space enthusiasts everywhere, Isaacman said NASA was cancelling its project to deploy a space station in lunar orbit and would reorient to building a $20 billion base on the surface of the moon. The new base, […]\nThe post NASA’s new moon base project requires operational technology systems in space, but they are vulnerable. appeared first on SpaceNews.",
+    "published_at": "2026-04-07T13:00:00Z",
+    "updated_at": "2026-04-07T13:00:30.210242Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -281,6 +454,26 @@
     "summary": "\nVantor employees were gathered for a sales kickoff in January, when an executive announced that a WorldView Legion satellite passing overhead would snap a photo of the California venue. Later, a buzzer sounded to alert the audience that the 30-centimeter-resolution image was available on the Vantor Hub portal. It had been 13 minutes. The demonstration […]\nThe post Earth observation operators push to deliver satellite images within minutes appeared first on SpaceNews.",
     "published_at": "2026-04-07T11:00:00Z",
     "updated_at": "2026-04-07T11:01:12.869724Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37339,
+    "title": "Walk in the footsteps of Artemis",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Education/Teach_with_the_Moon/Walk_in_the_footsteps_of_Artemis",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/esa_education_s_moon_camp_and_mission_x_school_projects/27190666-5-eng-GB/ESA_Education_s_Moon_Camp_and_Mission_X_School_Projects_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "On 6 April 2026, NASA’s Artemis II Mission, powered by ESA’s European Service Module (ESM), launched humans further than ever before. ",
+    "published_at": "2026-04-07T10:02:00Z",
+    "updated_at": "2026-04-08T08:40:13.203181Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -864,187 +1057,6 @@
     "summary": "\nNASA Administrator Jared Isaacman defended a fiscal year 2027 budget proposal that would cut the agency’s budget by nearly 25%.\nThe post Isaacman defends NASA budget proposal despite steep cuts appeared first on SpaceNews.",
     "published_at": "2026-04-05T22:20:09Z",
     "updated_at": "2026-04-05T22:20:24.376397Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37296,
-    "title": "NASA stops work on SLS Mobile Launcher 2",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ml2-march2026.jpeg?fit=1024%2C682&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA has stopped work on a second mobile launch platform intended for an upgraded version of the Space Launch System the agency no longer plans to develop.\nThe post NASA stops work on SLS Mobile Launcher 2 appeared first on SpaceNews.",
-    "published_at": "2026-04-05T20:29:48Z",
-    "updated_at": "2026-04-05T20:30:25.771738Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37295,
-    "title": "What’s Happening in Space Policy April 5-11, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-5-11-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Earth-after-TLI-Apr-2-26-300x200.webp",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of April 5-11, 2026 and any insight we can offer about them.  The House and Senate are in recess […]",
-    "published_at": "2026-04-05T19:34:43Z",
-    "updated_at": "2026-04-05T19:40:16.748141Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37294,
-    "title": "Thinking of You, Earth",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e008486orig.jpg",
-    "news_site": "NASA",
-    "summary": "On April 4, 2026, NASA astronaut and Artemis II Commander Reid Wiseman peers out of one of the Orion spacecraft’s main cabin windows, looking back at Earth, as the crew travels towards the Moon. The Artemis II astronauts – Wiseman and fellow NASA astronauts Christina Koch and Victor Glover, and CSA (Canadian Space Agency) astronaut […]",
-    "published_at": "2026-04-05T14:04:33Z",
-    "updated_at": "2026-04-05T14:10:08.352004Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37293,
-    "title": "NASA finalizes science plans for Artemis 2 lunar flyby",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art002e004357-large.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWASHINGTON — As Artemis 2 approaches the moon, a NASA science team is finalizing plans for the observations they want the astronauts to perform during their flyby. At an April 4 briefing, a representative of the mission’s science team said they were working to complete a plan of observations by the astronauts on April 6, […]\nThe post NASA finalizes science plans for Artemis 2 lunar flyby appeared first on SpaceNews.",
-    "published_at": "2026-04-05T03:29:58Z",
-    "updated_at": "2026-04-05T03:30:28.471744Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37292,
-    "title": "Artemis II is going so well that we're left to talk about frozen urine",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e004357large.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"I think the fixation on the toilet is kind of human nature.\"",
-    "published_at": "2026-04-05T00:12:45Z",
-    "updated_at": "2026-04-05T00:20:08.806812Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37291,
-    "title": "Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission",
-    "authors": [
-      {
-        "name": "Chris Bergin and Martijn Luinstra",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-04-22-29-14-828.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "As NASA’s Artemis II mission enters its critical mid-flight phase, the Orion spacecraft—carrying the first…\nThe post Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-04-04T21:57:48Z",
-    "updated_at": "2026-04-04T22:00:27.633022Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37290,
-    "title": "Atlas 5 launches Amazon Leo satellites",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/atlas-5-launches-amazon-leo-satellites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55186765921_b24845973c_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAn Atlas 5 launched the latest set of satellites for Amazon’s broadband constellation April 4 as the company seeks to accelerate deployment of its spacecraft.\nThe post Atlas 5 launches Amazon Leo satellites appeared first on SpaceNews.",
-    "published_at": "2026-04-04T20:27:36Z",
-    "updated_at": "2026-04-04T20:30:29.683790Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37289,
-    "title": "NASA Answers Your Most Pressing Artemis II Questions",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/",
-    "image_url": "https://images-assets.nasa.gov/image/art002e008487/art002e008487~large.jpg",
-    "news_site": "NASA",
-    "summary": "The first crewed test flight under NASA’s Artemis program is underway. Four Artemis II astronauts are flying aboard NASA’s Orion spacecraft around the Moon and back, as they test how the spacecraft’s systems operate in a deep space environment. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy […]",
-    "published_at": "2026-04-04T19:44:31Z",
-    "updated_at": "2026-04-04T19:50:22.099187Z",
     "featured": false,
     "launches": [],
     "events": [],
