@@ -1,5 +1,32 @@
 [
   {
+    "id": 37355,
+    "title": "Improved thresholds and SSA accuracy can reduce most satellite collision risk",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nImproving the accuracy of space situational awareness data and using tighter thresholds for potential conjunctions can help retire most satellite collision risk in LEO, a new study concludes.\nThe post Improved thresholds and SSA accuracy can reduce most satellite collision risk appeared first on SpaceNews.",
+    "published_at": "2026-04-08T20:15:46Z",
+    "updated_at": "2026-04-08T20:20:19.501748Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37354,
     "title": "Twin NASA Control Rooms Support Artemis Safety, Success",
     "authors": [
@@ -100,33 +127,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37348,
-    "title": "Tracking the next SDA challenge",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/tracking-the-next-sda-challenge/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/leidos.jpg?fit=752%2C423&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA flurry of commercial innovation has left the U.S. government with no shortage of sensors and AI-driven insights to monitor the increasingly packed and contested space environment. The challenge is […]\nThe post Tracking the next SDA challenge appeared first on SpaceNews.",
-    "published_at": "2026-04-08T14:00:00Z",
-    "updated_at": "2026-04-08T14:00:37.792884Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37349,
     "title": "Preparing for the next NASA budget battle",
     "authors": [
@@ -148,6 +148,33 @@
     "summary": "\nWhen Congress passed a fiscal year 2026 “minibus” appropriations bill in January, much of the space community breathed a sigh of relief. Congress had rejected the steep cuts proposed by the Trump administration, including a nearly 25% reduction in the agency’s overall budget and nearly 50% to science. The agency ended up with funding close […]\nThe post Preparing for the next NASA budget battle appeared first on SpaceNews.",
     "published_at": "2026-04-08T14:00:00Z",
     "updated_at": "2026-04-08T14:00:37.950183Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37348,
+    "title": "Tracking the next SDA challenge",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/tracking-the-next-sda-challenge/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/leidos.jpg?fit=752%2C423&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA flurry of commercial innovation has left the U.S. government with no shortage of sensors and AI-driven insights to monitor the increasingly packed and contested space environment. The challenge is […]\nThe post Tracking the next SDA challenge appeared first on SpaceNews.",
+    "published_at": "2026-04-08T14:00:00Z",
+    "updated_at": "2026-04-08T14:00:37.792884Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -1042,26 +1069,6 @@
     "summary": "\nSpanish startup FOSSA Systems is pushing into Japan’s defense market after securing a local partner to expand its reach, building on a shift beyond tiny picosatellites used to connect low-power monitoring devices toward more capable spacecraft for broader government applications.\nThe post FOSSA targets Japan’s defense market as larger smallsats expand capabilities appeared first on SpaceNews.",
     "published_at": "2026-04-06T18:57:46Z",
     "updated_at": "2026-04-06T19:00:33.724851Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37307,
-    "title": "NASA's Moon ship and rocket seem to be working well, so what about the landers?",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/NHQ202603240060medium.jpg",
-    "news_site": "Arstechnica",
-    "summary": "Lori Glaze: \"We have seen real commitment to try and do that... from both Blue and from SpaceX.\"",
-    "published_at": "2026-04-06T18:19:07Z",
-    "updated_at": "2026-04-06T18:30:12.460061Z",
     "featured": false,
     "launches": [],
     "events": [],
