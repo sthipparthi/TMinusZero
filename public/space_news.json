@@ -1,5 +1,80 @@
 [
   {
+    "id": 37386,
+    "title": "Artemis II closing in on Earth return",
+    "authors": [
+      {
+        "name": "Ryan Caton and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/04/artemis-ii-closing-earth-return/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-10-05-12-49-784.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "After a groundbreaking 10-day mission that carried humans farther from Earth than ever before, the…\r\nThe post Artemis II closing in on Earth return appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-04-10T04:20:42Z",
+    "updated_at": "2026-04-10T05:55:41.251549Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37385,
+    "title": "Earthset From the Lunar Far Side",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg",
+    "news_site": "NASA",
+    "summary": "The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon.",
+    "published_at": "2026-04-10T04:00:00Z",
+    "updated_at": "2026-04-10T05:55:36.698969Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37384,
+    "title": "Artemis II Getting Ready For Splashdown Tomorrow",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/artemis-ii-getting-ready-for-splashdown-tomorrow/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2024/05/Orion-char-OIG-300x135.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The crew of Artemis II is busy configuring the Orion capsule for reentry tomorrow, with splashdown off the coast of San Diego at 8:07 pm ET.  NASA Associate Administrator Amit […]",
+    "published_at": "2026-04-10T02:18:16Z",
+    "updated_at": "2026-04-10T05:55:31.436770Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37383,
     "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
     "authors": [
@@ -975,66 +1050,6 @@
     "summary": "\nAstroscale has completed the critical design review for two cubesats slated to launch next year to help the British military monitor space weather and track objects in LEO.\nThe post Astroscale passes key design milestone for UK military space-tracking cubesats appeared first on SpaceNews.",
     "published_at": "2026-04-08T07:00:00Z",
     "updated_at": "2026-04-08T07:10:31.962224Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37340,
-    "title": "PLD Space Secures €30 Million European Investment Bank Loan",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/pld-space-secures-e30-million-european-investment-bank-loan/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/PLD-Space-Secures-E30-Million-European-Investment-Bank-Loan.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Spanish launch services provider PLD Space has secured a €30 million loan from the European Investment Bank (EIB), a month after closing a €180 million Series C funding round. The company is currently preparing for the inaugural flight of its MIURA 5 rocket, scheduled for later this year. PLD Space made the announcement on 7 […]\nThe post PLD Space Secures €30 Million European Investment Bank Loan appeared first on European Spaceflight.",
-    "published_at": "2026-04-08T06:00:27Z",
-    "updated_at": "2026-04-08T09:10:11.326629Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37336,
-    "title": "A Volcanic Medley Near Mammoth Lakes",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-volcanic-medley-near-mammoth-lakes-/mammothlakes_oli2_20260329.jpg",
-    "news_site": "NASA",
-    "summary": "A massive, old caldera and more recently formed craters shape the landscape in the eastern Sierra Nevada.",
-    "published_at": "2026-04-08T04:01:00Z",
-    "updated_at": "2026-04-08T04:10:16.747264Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37335,
-    "title": "Celestial Wonders in Leo",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2023/04/heic1006a-jpg.webp",
-    "news_site": "NASA",
-    "summary": "Leo is a prominent sight for stargazers in April. Its famous sickle, punctuated by the bright star Regulus, draws many a beginning stargazer’s eyes, inviting deeper looks into some of Leo’s celestial delights, including a great double star and a famous galactic trio. Leo’s distinctive forward sickle, or “reverse question mark,” is easy to spot […]",
-    "published_at": "2026-04-08T03:01:24Z",
-    "updated_at": "2026-04-08T05:44:41.982793Z",
     "featured": false,
     "launches": [],
     "events": [],
