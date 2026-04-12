@@ -1,5 +1,25 @@
 [
   {
+    "id": 37447,
+    "title": "Artemis II Crew Joyously Back Home in Houston",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/artemis-ii-crew-joyously-back-home-in-houston/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-w-Orion-on-Murtha-300x279.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The four astronauts who flew around the Moon and splashed down in the Pacific Ocean yesterday are now back in Houston. The USS John P. Murtha recovery ship returned to […]",
+    "published_at": "2026-04-12T01:37:49Z",
+    "updated_at": "2026-04-12T01:40:18.757972Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37446,
     "title": "Falcon 9 launches Cygnus cargo spacecraft to the ISS",
     "authors": [
@@ -1079,33 +1099,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37365,
-    "title": "Portal Space Systems raises $50 million to accelerate spacecraft development",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/portal-supernova-starburst.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpace mobility company Portal Space Systems has raised $50 million to scale up development of its highly maneuverable spacecraft.\nThe post Portal Space Systems raises $50 million to accelerate spacecraft development appeared first on SpaceNews.",
-    "published_at": "2026-04-09T13:00:00Z",
-    "updated_at": "2026-04-09T13:10:27.333434Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
