@@ -1,5 +1,32 @@
 [
   {
+    "id": 37448,
+    "title": "Rocket Lab wins contract for three more iQPS launches",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/electron-f79.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nRocket Lab has won a contract from Japanese radar satellite company iQPS for three additional Electron launches.\nThe post Rocket Lab wins contract for three more iQPS launches appeared first on SpaceNews.",
+    "published_at": "2026-04-12T11:43:00Z",
+    "updated_at": "2026-04-12T11:50:22.187532Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37447,
     "title": "Artemis II Crew Joyously Back Home in Houston",
     "authors": [
@@ -1074,31 +1101,6 @@
     "updated_at": "2026-04-09T14:10:19.596912Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37366,
-    "title": "Moon joy, Earth love",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Moon_joy_Earth_love",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/moon_joy_earth_love/27197038-1-eng-GB/Moon_joy_Earth_love_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-04-09T13:32:00Z",
-    "updated_at": "2026-04-09T14:10:58.128185Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
