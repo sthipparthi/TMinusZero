@@ -20,6 +20,46 @@
     "detailed_news": ""
   },
   {
+    "id": 37483,
+    "title": "Super Typhoon Sinlaku",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-sinlaku/typhoonsinlaku_vir_20260413.jpg",
+    "news_site": "NASA",
+    "summary": "The violent storm aimed at the U.S. Northern Mariana Islands and Guam in mid-April 2026.",
+    "published_at": "2026-04-14T04:00:00Z",
+    "updated_at": "2026-04-14T04:10:09.997869Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37482,
+    "title": "President Trump signs legislation reauthorizing SBIR",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/K2_Space_FLIGHT.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nCOLORADO SPRINGS – President Donald Trump signed the Small Business Innovation and Economic Security Act April 13, reestablishing key sources of funding for early-stage space companies. The legislation reauthorizes the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs through Sept. 30, 2031, and enhances screening of applicants to ensure they do […]\nThe post President Trump signs legislation reauthorizing SBIR appeared first on SpaceNews.",
+    "published_at": "2026-04-14T03:01:47Z",
+    "updated_at": "2026-04-14T03:10:28.708549Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37481,
     "title": "Washington agrees on space urgency, but not on how to deliver",
     "authors": [
@@ -494,26 +534,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37458,
-    "title": "Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.",
-    "authors": [
-      {
-        "name": "Harry Readhead",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-9.53.41%E2%80%AFAM.png?fit=1024%2C556&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEarth’s orbit is “on track for a catastrophe.” That was the rather alarming prediction of the authors of a recent piece published in The Conversation. As the argument goes, orbit is filling up fast, and both nation-states and private companies plan to add tens of thousands of spacecraft to the thousands already there. This has […]\nThe post Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. appeared first on SpaceNews.",
-    "published_at": "2026-04-13T13:00:00Z",
-    "updated_at": "2026-04-13T13:10:25.667917Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37457,
     "title": "Atomic-6 unveils online marketplace for orbital data centers",
     "authors": [
@@ -528,6 +548,26 @@
     "summary": "\nODC.space aims to streamline procurement of satellites for on-orbit computing\nThe post Atomic-6 unveils online marketplace for orbital data centers appeared first on SpaceNews.",
     "published_at": "2026-04-13T13:00:00Z",
     "updated_at": "2026-04-13T13:10:25.634625Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37458,
+    "title": "Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.",
+    "authors": [
+      {
+        "name": "Harry Readhead",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-9.53.41%E2%80%AFAM.png?fit=1024%2C556&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEarth’s orbit is “on track for a catastrophe.” That was the rather alarming prediction of the authors of a recent piece published in The Conversation. As the argument goes, orbit is filling up fast, and both nation-states and private companies plan to add tens of thousands of spacecraft to the thousands already there. This has […]\nThe post Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. appeared first on SpaceNews.",
+    "published_at": "2026-04-13T13:00:00Z",
+    "updated_at": "2026-04-13T13:10:25.667917Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -1026,46 +1066,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "detailed_news": ""
-  },
-  {
-    "id": 37434,
-    "title": "NASA confident Artemis 2 heat shield will protect crew during re-entry",
-    "authors": [
-      {
-        "name": "William Harwood",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/04/10/nasa-confident-artemis-ii-heat-shield-will-protect-crew-during-re-entry/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260410-heat_shield_assembly.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "When the Artemis 2 Orion crew capsule returns to Earth after flying around the moon, it will hit the discernible atmosphere some 75 miles above the Pacific Ocean at a blistering 24,000 mph, fast enough to fly from New York to London in less than 10 minutes. ",
-    "published_at": "2026-04-10T17:42:33Z",
-    "updated_at": "2026-04-10T17:50:24.589612Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37433,
-    "title": "HawkEye 360 files to go public",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/hawkeye-360-files-to-go-public/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/HFUl9phWsAAkEJ7-scaled-e1775842311485.jpeg?fit=1024%2C766&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBased in Herndon, Virginia, the company specializes in space-based radio-frequency signals intelligence for government agencies\nThe post HawkEye 360 files to go public appeared first on SpaceNews.",
-    "published_at": "2026-04-10T17:36:54Z",
-    "updated_at": "2026-04-10T17:40:27.685447Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
     "detailed_news": ""
   }
 ]
