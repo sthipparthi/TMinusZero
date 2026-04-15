@@ -1,5 +1,85 @@
 [
   {
+    "id": 37524,
+    "title": "Contours of the James Bay Lowlands",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/contours-of-the-james-bay-lowlands/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/contours-of-the-james-bay-lowlands/ISS074-E-417243.jpg",
+    "news_site": "NASA",
+    "summary": "After the Laurentide Ice Sheet retreated from present-day Hudson Bay, rebounding land has revealed striking nearshore topography.",
+    "published_at": "2026-04-15T04:01:00Z",
+    "updated_at": "2026-04-15T05:10:07.452598Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37523,
+    "title": "White House Releases Space Nuclear Initiative",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/white-house-releases-space-nuclear-initiative/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/SR1-Ignition-event-300x173.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The White House Office of Science and Technology Policy issued the National Initiative for American Space Nuclear Power today. Attempts to develop space nuclear power and propulsion date back to […]",
+    "published_at": "2026-04-15T03:45:31Z",
+    "updated_at": "2026-04-15T03:50:19.302661Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37522,
+    "title": "Live Coverage: West Coast SpaceX Falcon 9 mission to launch 25 Starlink satellites",
+    "authors": [
+      {
+        "name": "Spaceflight Now",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/04/15/west-coast-spacex-falcon-9-mission-to-launch-25-starlink-satellites/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff of the Starlink 17-27 mission from Space Launch Complex 4 East is scheduled for 9:29:49 p.m. PDT (12:29:49 a.m. EDT / 0429:49 UTC). ",
+    "published_at": "2026-04-15T01:40:12Z",
+    "updated_at": "2026-04-15T01:50:29.090615Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37521,
+    "title": "Curiosity Blog, Sols 4859-4866: One Small Crater and Thousands of Polygons",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4859-4866-one-small-crater-and-thousands-of-polygons/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/april/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04861_opgs_edr_ncam_NLB_829029179EDR_F1212490NCAM00291M_.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Abigail Fraeman, Deputy Project Scientist at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, April 10, 2026 Curiosity spent the past week driving towards a small crater, about 10 meters (32 feet) in diameter. Today the team informally named this crater “Antofagasta,” after a region and major city in Chile next to the […]",
+    "published_at": "2026-04-15T00:07:09Z",
+    "updated_at": "2026-04-15T01:10:08.356493Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37520,
     "title": "Kepler to lead interoperability tests for ESA’s HydRON optical relay network",
     "authors": [
@@ -942,86 +1022,6 @@
     "summary": "NASA has selected Development Seed of Washington to provide research and development services to the Office of Data Science and Informatics (ODSI) at the agency’s Marshall Space Flight Center in Huntsville, Alabama. The award is a performance-based, indefinite-delivery/indefinite-quantity contract with a maximum potential value of $76 million. A phase-in period begins on May 15, 2026, […]",
     "published_at": "2026-04-13T20:58:37Z",
     "updated_at": "2026-04-13T21:00:15.361640Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37476,
-    "title": "Launch Preview: Falcon 9 to launch Starlink satellites, New Glenn to launch with flown booster",
-    "authors": [
-      {
-        "name": "John Sharp",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/04/launch-preview-041326/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/GhZbCaqWYAAqKKj-scaled-e1762893585278.png",
-    "news_site": "NASASpaceflight",
-    "summary": "Six launches are scheduled worldwide this week, with the third launch of Blue Origin’s New…\nThe post Launch Preview: Falcon 9 to launch Starlink satellites, New Glenn to launch with flown booster appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-04-13T20:29:52Z",
-    "updated_at": "2026-04-13T20:30:19.073421Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37474,
-    "title": "Curiosity Blog, Sols 4852–4858: When Data Take Their Time…",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4852-4858-when-data-take-their-time/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/april/https___mars.nasa.gov_msl-raw-images_msss_04855_mcam_4855MR1090850082500817C00_DXXX.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, April 3, 2026 I was the geology science team lead on Monday for planning Sols 4852-4853, when our data did not arrive on time for planning. Thus, we got creative as a team thinking what we could […]",
-    "published_at": "2026-04-13T20:04:25Z",
-    "updated_at": "2026-04-13T20:10:19.206669Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37475,
-    "title": "Curiosity Blog, Sols 4845-4851: Bye-Bye Boxwork, Bye-Bye",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4845-4851-bye-bye-boxwork-bye-bye/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/march/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04848_opgs_edr_ncam_NLB_827876004EDR_F1211446NCAM00354M_.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Lucy Thompson, APXS Strategic Planner and Planetary Geologist at the University of New Brunswick, Canada Earth planning date: Friday, March 27, 2026 Last weekend’s drive took us just over the southernmost contact of the boxwork terrain with the surrounding layered sulfate unit. This was our third time crossing this contact, providing an excellent […]",
-    "published_at": "2026-04-13T19:37:17Z",
-    "updated_at": "2026-04-13T20:10:19.247453Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37471,
-    "title": "NASA to Host Artemis II Crew Postflight News Conference",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
-    "image_url": "https://images-assets.nasa.gov/image/jsc2026e022310/jsc2026e022310~large.jpg",
-    "news_site": "NASA",
-    "summary": "Fresh off their return to Earth, the Artemis II astronauts will hold a news conference at 2:30 p.m. EDT Thursday, April 16, at NASA’s Johnson Space Center in Houston to discuss their historic mission around the Moon. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) Jeremy Hansen, will […]",
-    "published_at": "2026-04-13T18:16:30Z",
-    "updated_at": "2026-04-13T18:20:06.035430Z",
     "featured": false,
     "launches": [],
     "events": [],
