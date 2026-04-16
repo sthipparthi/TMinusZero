@@ -1,5 +1,65 @@
 [
   {
+    "id": 37556,
+    "title": "Eyeing the Richat Structure",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eyeing-the-richat-structure/richatstructure_oli_20260306.jpg",
+    "news_site": "NASA",
+    "summary": "The circular geologic feature in northwestern Africa can be hard to recognize from the ground, but it is obvious when viewed from space.",
+    "published_at": "2026-04-16T04:00:00Z",
+    "updated_at": "2026-04-16T04:10:11.598238Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37555,
+    "title": "Two New Documents Outline Future Evolution of the U.S. Space Force",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/two-new-documents-outline-future-evolution-of-the-u-s-space-force/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/Saltzman-Space-Symp-Apr-15-26-AF-photo-300x231.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Gen. Chance Saltzman released two new documents today that outline what he sees as the evolution of the nation’s youngest military service over the next 15 years. Speaking at the […]",
+    "published_at": "2026-04-16T03:03:59Z",
+    "updated_at": "2026-04-16T03:10:23.459347Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37554,
+    "title": "Space Force reorg signals end of SDA as standalone agency",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/SDAT3_LHX-2026.jpg-scaled.jpeg?fit=1024%2C573&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nOfficials say the Space Development Agency’s ‘go fast’ model will live on under new portfolio-based organization\nThe post Space Force reorg signals end of SDA as standalone agency appeared first on SpaceNews.",
+    "published_at": "2026-04-16T02:57:01Z",
+    "updated_at": "2026-04-16T03:00:29.451952Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37553,
     "title": "Seraphim forms space advisory council",
     "authors": [
@@ -963,66 +1023,6 @@
     "summary": "\nThe White House released a policy April 14 directing NASA, the Pentagon and the Department of Energy to develop space nuclear power systems that could launch as soon as 2028.\nThe post White House releases space nuclear policy appeared first on SpaceNews.",
     "published_at": "2026-04-14T18:22:45Z",
     "updated_at": "2026-04-14T18:30:27.705289Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37507,
-    "title": "Defense firms unveil new satellite designs for orbital warfare",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/defense-firms-unveil-new-satellite-designs-for-orbital-warfare/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Ascent-rendering-image-4-26-Final.jpg-scaled.jpeg?fit=1024%2C819&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBAE Systems, Lockheed Martin are developing maneuvering satellites that can be refueled\nThe post Defense firms unveil new satellite designs for orbital warfare appeared first on SpaceNews.",
-    "published_at": "2026-04-14T18:08:42Z",
-    "updated_at": "2026-04-14T18:10:34.374353Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37508,
-    "title": "Q&A: Aerospace Corp flexes its data advantage",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/qa-aerospace-corp-flexes-its-data-advantage/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Bio-Pic-Tanya-Pemberton-20260227-Past-1404D-scaled.jpg?fit=1024%2C800&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAerospace Corp. is swimming in data. After testing spacecraft and components for more than 65 years, the Federally Funded Research and Development Center (FFRDC) is training artificial intelligence models to inform spacecraft designs and speed up anomaly diagnosis, Tanya Pemberton, Aerospace CEO and president since September, said in a recent interview. United States government agencies […]\nThe post Q&A: Aerospace Corp flexes its data advantage appeared first on SpaceNews.",
-    "published_at": "2026-04-14T18:03:03Z",
-    "updated_at": "2026-04-14T18:10:34.398396Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37506,
-    "title": "Space Command pushes new warfighting model built on moving satellites",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-command-pushes-new-warfighting-model-built-on-moving-satellites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/7P6A6658-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGen. Stephen Whiting calls for a shift from fixed spacecraft to maneuverable assets, with wargames planned to test the concept\nThe post Space Command pushes new warfighting model built on moving satellites appeared first on SpaceNews.",
-    "published_at": "2026-04-14T17:50:47Z",
-    "updated_at": "2026-04-14T18:00:40.677802Z",
     "featured": false,
     "launches": [],
     "events": [],
