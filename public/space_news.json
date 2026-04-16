@@ -1,5 +1,104 @@
 [
   {
+    "id": 37561,
+    "title": "Voyager to fly private astronaut mission to ISS",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/International-Space-Station-in-2021-scaled.webp?fit=1024%2C569&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nVoyager Technologies will be the third company to fly a private astronaut mission to the International Space Station, gaining experience for its commercial station.\nThe post Voyager to fly private astronaut mission to ISS appeared first on SpaceNews.",
+    "published_at": "2026-04-16T11:54:32Z",
+    "updated_at": "2026-04-16T12:10:33.622490Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37560,
+    "title": "Aethero orders Titan satellite to advance space-based data center ambitions",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/image-1-1.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAethero is preparing to deploy its most powerful computing payload yet this fall, aiming to bring data center-style processing to orbit and expand the scale of AI workloads that can be handled in space.\nThe post Aethero orders Titan satellite to advance space-based data center ambitions appeared first on SpaceNews.",
+    "published_at": "2026-04-16T11:00:00Z",
+    "updated_at": "2026-04-16T11:00:57.120639Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37559,
+    "title": "PlanetiQ secures $15 million Air Force STRATFI contract",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/planetiq-secures-15-million-air-force-stratfi-contract/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_1chatgpt_image-planetiq.png?fit=879%2C586&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nCOLORADO SPRINGS – Commercial satellite operator PlanetiQ will develop and launch spacecraft equipped with next-generation instruments to gather terrestrial and space weather data with a $15 million U.S. Air Force Strategic Funding Increase (STRATFI) contract announced April 16. The STRATFI agreement is “a big indication from the U.S. government that our technology matters and they […]\nThe post PlanetiQ secures $15 million Air Force STRATFI contract appeared first on SpaceNews.",
+    "published_at": "2026-04-16T10:00:00Z",
+    "updated_at": "2026-04-16T10:00:53.231768Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37557,
+    "title": "Just opened: five tonnes of science and supplies",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Just_opened_five_tonnes_of_science_and_supplies",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/just_opened_five_tonnes_of_science_and_supplies/27206495-1-eng-GB/Just_opened_five_tonnes_of_science_and_supplies_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "ESA astronaut Sophie Adenot and NASA astronauts Jack Hathaway, Jessica Meir and Chris Williams take a moment to capture the occasion as they first open the Cygnus NG‑24 cargo spacecraft after its installation on the International Space Station.",
+    "published_at": "2026-04-16T07:34:00Z",
+    "updated_at": "2026-04-16T09:48:11.975889Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "5ed6ab75-8c5b-4013-93e1-1deb56b14f1d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37556,
     "title": "Eyeing the Richat Structure",
     "authors": [
@@ -536,26 +635,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37531,
-    "title": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
-    "authors": [
-      {
-        "name": "Hayley Blyth and Roxane Olivier",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Europe_at_night_-_44164039574-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSatellite operators seeking EU market access may face a fundamental shift in how spectrum is authorized, how services are delivered across borders, and what operational obligations apply. The Digital Networks Act (DNA) is the European Commission’s proposed regulation on digital networks. It would repeal and consolidate the EU’s existing electronic communications framework, including the European […]\nThe post The Digital Networks Act: a reform that requires strategic attention for satellite operators appeared first on SpaceNews.",
-    "published_at": "2026-04-15T13:00:00Z",
-    "updated_at": "2026-04-15T13:00:51.325469Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37530,
     "title": "Vast offers new docking adapter for large space stations",
     "authors": [
@@ -583,6 +662,26 @@
     "detailed_news": ""
   },
   {
+    "id": 37531,
+    "title": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
+    "authors": [
+      {
+        "name": "Hayley Blyth and Roxane Olivier",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Europe_at_night_-_44164039574-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSatellite operators seeking EU market access may face a fundamental shift in how spectrum is authorized, how services are delivered across borders, and what operational obligations apply. The Digital Networks Act (DNA) is the European Commission’s proposed regulation on digital networks. It would repeal and consolidate the EU’s existing electronic communications framework, including the European […]\nThe post The Digital Networks Act: a reform that requires strategic attention for satellite operators appeared first on SpaceNews.",
+    "published_at": "2026-04-15T13:00:00Z",
+    "updated_at": "2026-04-15T13:00:51.325469Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37529,
     "title": "New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family",
     "authors": [
@@ -597,6 +696,26 @@
     "summary": "\nColorado Springs, Colorado, April 15, 2026 — Ecliptic Enterprises, a long‑standing leader in space avionics and imaging systems with more than 220 missions flown over 25 years, announced a major […]\nThe post New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family appeared first on SpaceNews.",
     "published_at": "2026-04-15T12:00:00Z",
     "updated_at": "2026-04-15T12:00:37.159009Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37558,
+    "title": "Swedish Space Agency Signs Agreement with FAA on Launch Licensing",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/swedish-space-agency-signs-agreement-with-faa-on-launch-licensing/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/Swedish-Space-Agency-Signs-Agreement-with-FAA-on-Launch-Licensing.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The Swedish National Space Agency has signed an agreement with the US Federal Aviation Administration (FAA) to cooperate on the licensing of US rocket launches from Sweden’s Esrange Space Centre. While the Esrange Space Centre has been in operation since the 1960s, it has strictly been used for suborbital flights. In 2023, SSC Space, the […]\nThe post Swedish Space Agency Signs Agreement with FAA on Launch Licensing appeared first on European Spaceflight.",
+    "published_at": "2026-04-15T11:03:07Z",
+    "updated_at": "2026-04-16T08:20:10.263944Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -916,113 +1035,6 @@
     "summary": "Since it began in 1958, NASA has been charged by law with spreading the word about its work to the widest extent practicable. From typewritten press releases to analog photos and film, the agency has effectively moved into social media and other online communications. NASA’s broad reach across digital platforms has been recognized by the […]",
     "published_at": "2026-04-14T20:26:17Z",
     "updated_at": "2026-04-14T20:30:14.643662Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37513,
-    "title": "Seagate Space and Oceaneering Join Forces to Build the Future of Offshore Launch Infrastructure",
-    "authors": [
-      {
-        "name": "Seagate Space",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/seagate-space-and-oceaneering-join-forces-to-build-the-future-of-offshore-launch-infrastructure/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/seagate-1.png?fit=414%2C414&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nOceaneering International, Inc. and Seagate Space Corporation today announced a strategic relationship to advance the development of Seagate Space’s offshore launch platform design. The two companies signed a memorandum of understanding (MOU) to establish a long-term […]\nThe post Seagate Space and Oceaneering Join Forces to Build the Future of Offshore Launch Infrastructure appeared first on SpaceNews.",
-    "published_at": "2026-04-14T19:56:49Z",
-    "updated_at": "2026-04-14T20:00:37.769674Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37512,
-    "title": "Put science back in the driver’s seat",
-    "authors": [
-      {
-        "name": "Casey Dreier",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/put-science-back-in-the-drivers-seat/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/PHOTO-1-EUROPA-CLIPPER-.jpg?fit=1024%2C575&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nScience at NASA is becoming a hitchhiker. After decades in the driver’s seat, where dedicated science missions made historic discoveries such as alien oceans, the accelerating universe and potential biosignatures on Mars, the agency now asks science to stand with its thumb out, waiting for rides on spacecraft designed for other purposes. This is not […]\nThe post Put science back in the driver’s seat appeared first on SpaceNews.",
-    "published_at": "2026-04-14T19:07:48Z",
-    "updated_at": "2026-04-14T19:10:27.226429Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37511,
-    "title": "2025-2026 Dream with Us Design Challenge Winners",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2025-2026-dwu-winners/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/dream-with-us-1f.jpg",
-    "news_site": "NASA",
-    "summary": "2025-2026 Dream with Us Winners Congratulation to our 2025-2026 Dream with Us Design Challenge Winners! We are pleased to share this year’s winning projects:  Middle School 1st Place: Scout Farm (Varenya D., Aashritha P., and Alvitha P., NJ) 2nd Place: AgriTech (Charlotte W. and Richard F., CA) 3rd Place: AgriDrone (Hasini B. and Kanishka A, TX and […]",
-    "published_at": "2026-04-14T18:44:49Z",
-    "updated_at": "2026-04-14T18:50:07.227313Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37510,
-    "title": "The future of GPS satellites with Fang Qian of Lockheed Martin",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-future-of-gps-satellites-with-fang-qian-of-lockheed-martin/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/space-minds-podcast-lockheed-GPS-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this episode of Space Minds, Mike Gruss sits down with Fang Qian to discuss the future of GPS satellites. They chat about the need for jam-resistant signals, what comes […]\nThe post The future of GPS satellites with Fang Qian of Lockheed Martin appeared first on SpaceNews.",
-    "published_at": "2026-04-14T18:36:26Z",
-    "updated_at": "2026-04-14T18:40:31.368106Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37509,
-    "title": "White House releases space nuclear policy",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/white-house-releases-space-nuclear-policy/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/sr-1-freedom.jpeg?fit=1024%2C552&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe White House released a policy April 14 directing NASA, the Pentagon and the Department of Energy to develop space nuclear power systems that could launch as soon as 2028.\nThe post White House releases space nuclear policy appeared first on SpaceNews.",
-    "published_at": "2026-04-14T18:22:45Z",
-    "updated_at": "2026-04-14T18:30:27.705289Z",
     "featured": false,
     "launches": [],
     "events": [],
