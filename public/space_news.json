@@ -1,5 +1,97 @@
 [
   {
+    "id": 37583,
+    "title": "New EU Space Act draft seen as a step backward",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/new-eu-space-act-draft-seen-as-a-step-backward/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/P067364-774808-scaled.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA revised draft of a proposed European Union space regulation is a step backward, creating uncertainty about how the law would be applied outside the EU, critics argue.\nThe post New EU Space Act draft seen as a step backward appeared first on SpaceNews.",
+    "published_at": "2026-04-17T12:03:55Z",
+    "updated_at": "2026-04-17T12:10:27.812292Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37582,
+    "title": "D2D services are at risk of becoming too complicated and siloed",
+    "authors": [
+      {
+        "name": "Enrico Ottolini",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/echostar-mdaspace.jpeg?fit=824%2C460&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAt the recent Mobile World Conference 2026 in Barcelona, the strong presence of Direct-to-Device (D2D) satellite services and the avalanche of press releases related to contracts signed between D2D satellite service providers and Mobile Network Operators (MNOs) gave the impression that large scale implementation of D2D services by MNOs is imminent. However, the truth is […]\nThe post D2D services are at risk of becoming too complicated and siloed appeared first on SpaceNews.",
+    "published_at": "2026-04-17T11:00:00Z",
+    "updated_at": "2026-04-17T11:10:24.714470Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37581,
+    "title": "Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Kinetica2-Y1-Qingzhou1-prototype-JSLC-30march2026-CASSpace1.jpg?fit=1024%2C572&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "China has conducted rendezvous and proximity operations tests involving a prototype cargo spacecraft and a satellite in a step towards low-cost orbital infrastructure.\r\nThe post Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit  appeared first on SpaceNews.",
+    "published_at": "2026-04-17T09:27:52Z",
+    "updated_at": "2026-04-17T09:33:40.495254Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "e3b45caa-2ccc-4937-931b-780edbe58db9",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37580,
+    "title": "Earth from Space: Land of rainforests",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Land_of_rainforests",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earth_from_space_land_of_rainforests/27206990-1-eng-GB/Earth_from_Space_Land_of_rainforests_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-04-17T08:00:00Z",
+    "updated_at": "2026-04-17T08:20:24.046262Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37579,
     "title": "Spring Rains Saturate Michigan",
     "authors": [
@@ -981,86 +1073,6 @@
     "summary": "Dr. Alex Goetz, who passed away in 2025, was a member of the Landsat 7 Science Team and a key figure in the history of Landsat science.",
     "published_at": "2026-04-15T14:00:00Z",
     "updated_at": "2026-04-15T15:10:10.454230Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37539,
-    "title": "Antarctica’s vanishing sea ice transforms marine life",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Antarctica_s_vanishing_sea_ice_transforms_marine_life",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/salps/27205147-1-eng-GB/Salps_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Shrinking ice is arguably one of the most visible indicators of climate change – particularly in the Arctic. However, a European Space Agency-funded study used information from satellites to show that Antarctica is now experiencing similar dramatic changes, with profound consequences for key plankton species that underpin the region’s marine food web.",
-    "published_at": "2026-04-15T13:43:00Z",
-    "updated_at": "2026-04-15T15:30:30.049634Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37533,
-    "title": "Blue Origin has a new employee stock plan, but not everyone is happy",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/04/blue-origin-has-a-new-employee-stock-plan-but-not-everyone-is-happy/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/HFqh0p3WsAEFUNs.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"We are being intentional about creating liquidity events.\"",
-    "published_at": "2026-04-15T13:38:19Z",
-    "updated_at": "2026-04-15T13:40:11.470719Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37532,
-    "title": "Novaspace and OGC Unveil the China Space Industry Intelligence Catalog",
-    "authors": [
-      {
-        "name": "Novaspace",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/novaspace-and-ogc-unveil-the-china-space-industry-intelligence-catalog/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nParis, France [April 2026] – Novaspace, in partnership with Orbital Gateway Consulting (OGC), launches the China Space Industry Intelligence Catalog, providing global stakeholders clear, data‑driven insight into China’s rapidly expanding space market. The catalog draws on […]\nThe post Novaspace and OGC Unveil the China Space Industry Intelligence Catalog appeared first on SpaceNews.",
-    "published_at": "2026-04-15T13:22:05Z",
-    "updated_at": "2026-04-15T13:30:25.303594Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37531,
-    "title": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
-    "authors": [
-      {
-        "name": "Hayley Blyth and Roxane Olivier",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Europe_at_night_-_44164039574-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSatellite operators seeking EU market access may face a fundamental shift in how spectrum is authorized, how services are delivered across borders, and what operational obligations apply. The Digital Networks Act (DNA) is the European Commission’s proposed regulation on digital networks. It would repeal and consolidate the EU’s existing electronic communications framework, including the European […]\nThe post The Digital Networks Act: a reform that requires strategic attention for satellite operators appeared first on SpaceNews.",
-    "published_at": "2026-04-15T13:00:00Z",
-    "updated_at": "2026-04-15T13:00:51.325469Z",
     "featured": false,
     "launches": [],
     "events": [],
