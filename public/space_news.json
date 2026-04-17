@@ -1,5 +1,45 @@
 [
   {
+    "id": 37579,
+    "title": "Spring Rains Saturate Michigan",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/spring-rains-saturate-michigan/michiganflooding764_oli_20250416.jpg",
+    "news_site": "NASA",
+    "summary": "Above-normal precipitation has swollen rivers and damaged infrastructure statewide.",
+    "published_at": "2026-04-17T04:01:00Z",
+    "updated_at": "2026-04-17T04:10:12.019354Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37578,
+    "title": "Artemis II Crew Says Lunar Landing Doable Soon",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/artemis-ii-crew-says-lunar-landing-doable-soon/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-post-mission-presser-Apr-16-26-300x184.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The crew of the first mission to fly around the Moon since the Apollo era told reporters today they are still absorbing the experience and what it means to them […]",
+    "published_at": "2026-04-17T01:51:32Z",
+    "updated_at": "2026-04-17T02:00:24.146131Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37577,
     "title": "India’s TakeMe2Space sets sights on 50-kilowatt data center",
     "authors": [
@@ -1007,33 +1047,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37530,
-    "title": "Vast offers new docking adapter for large space stations",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/vast-offers-new-docking-adapter-for-large-space-stations/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/vast-lda.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nCommercial space station developer Vast unveiled a new docking interface the company is offering to the broader industry for future large stations and spacecraft.\nThe post Vast offers new docking adapter for large space stations appeared first on SpaceNews.",
-    "published_at": "2026-04-15T13:00:00Z",
-    "updated_at": "2026-04-15T13:00:51.215743Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37531,
     "title": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
     "authors": [
@@ -1048,26 +1061,6 @@
     "summary": "\nSatellite operators seeking EU market access may face a fundamental shift in how spectrum is authorized, how services are delivered across borders, and what operational obligations apply. The Digital Networks Act (DNA) is the European Commission’s proposed regulation on digital networks. It would repeal and consolidate the EU’s existing electronic communications framework, including the European […]\nThe post The Digital Networks Act: a reform that requires strategic attention for satellite operators appeared first on SpaceNews.",
     "published_at": "2026-04-15T13:00:00Z",
     "updated_at": "2026-04-15T13:00:51.325469Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37529,
-    "title": "New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family",
-    "authors": [
-      {
-        "name": "Ecliptic Enterprises",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/new-wireless-access-point-camera-and-remote-interface-unit-join-nasa-human-rated-class-1-layer-3-ethernet-switch-family/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ecliptic.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nColorado Springs, Colorado, April 15, 2026 — Ecliptic Enterprises, a long‑standing leader in space avionics and imaging systems with more than 220 missions flown over 25 years, announced a major […]\nThe post New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family appeared first on SpaceNews.",
-    "published_at": "2026-04-15T12:00:00Z",
-    "updated_at": "2026-04-15T12:00:37.159009Z",
     "featured": false,
     "launches": [],
     "events": [],
