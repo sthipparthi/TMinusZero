@@ -1,5 +1,25 @@
 [
   {
+    "id": 37593,
+    "title": "Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 17-22 will see SpaceX launch 25 broadband internet satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:33:40 a.m. PDT (10:33:40 a.m. EDT / 1433:40 UTC). ",
+    "published_at": "2026-04-18T06:45:49Z",
+    "updated_at": "2026-04-18T06:50:23.317896Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37592,
     "title": "CSDA Quality Assessment Report Evaluates Satellogic NewSat Data",
     "authors": [
@@ -221,6 +241,26 @@
     "summary": "\nAt the recent Mobile World Conference 2026 in Barcelona, the strong presence of Direct-to-Device (D2D) satellite services and the avalanche of press releases related to contracts signed between D2D satellite service providers and Mobile Network Operators (MNOs) gave the impression that large scale implementation of D2D services by MNOs is imminent. However, the truth is […]\nThe post D2D services are at risk of becoming too complicated and siloed appeared first on SpaceNews.",
     "published_at": "2026-04-17T11:00:00Z",
     "updated_at": "2026-04-17T11:10:24.714470Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37594,
+    "title": "ESA’s Mars Rover to Launch Aboard SpaceX Falcon Heavy in 2028",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esas-mars-rover-to-launch-aboard-spacex-falcon-heavy-in-2028/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/ESAs-Mars-Rover-to-Launch-Aboard-SpaceX-Falcon-Heavy-in-2028.webp",
+    "news_site": "European Spaceflight",
+    "summary": "NASA has selected a SpaceX Falcon Heavy to launch the European Space Agency’s Rosalind Franklin Mars rover no earlier than late 2028. The US space agency’s responsibility to procure launch services for the rover stems from a May 2024 partnership agreement that tasked NASA with this element of the mission as part of its contributions. […]\nThe post ESA’s Mars Rover to Launch Aboard SpaceX Falcon Heavy in 2028 appeared first on European Spaceflight.",
+    "published_at": "2026-04-17T10:23:56Z",
+    "updated_at": "2026-04-18T08:20:14.002512Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -1011,46 +1051,6 @@
     "summary": "\nNASA plans to seek proposals for commercial communications services that can be backward compatible with the agency’s aging fleet of relay satellites. NASA issued April 10 a draft solicitation for Project NEXUS, a part of the broader Commercial Services Project. That is an effort by the agency to move from traditional government owned and operated […]\nThe post NASA seeks proposals for commercial TDRSS replacement appeared first on SpaceNews.",
     "published_at": "2026-04-15T20:34:56Z",
     "updated_at": "2026-04-15T20:40:39.068561Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37545,
-    "title": "NASA Launches Six CubeSats to International Space Station",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasa-launches-six-cubesats-to-international-space-station/",
-    "image_url": "https://images-assets.nasa.gov/image/KSC-20260411-PH-FMX001_0003_NCommercial%20Resupply%20Mission%20NG-24%20Launch-/KSC-20260411-PH-FMX001_0003_NCommercial%20Resupply%20Mission%20NG-24%20Launch-~large.jpg",
-    "news_site": "NASA",
-    "summary": "Experiments and supplies bound for the International Space Station launched on April 11 as part of the agency’s Northrop Grumman Commercial Resupply Services 24 mission. As part of the approximately 11,000 pounds cargo that lifted off inside the company’s Cygnus XL spacecraft, NASA’s CubeSat Launch Initiative (CSLI) launched six CubeSats built by U.S. educational institutions […]",
-    "published_at": "2026-04-15T20:27:22Z",
-    "updated_at": "2026-04-15T20:30:10.947812Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37543,
-    "title": "Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing",
-    "authors": [
-      {
-        "name": "Emerson",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/RGB_TEMPORARY_EMR_NI_Horizontal_Lockup_Color-scaled.jpeg?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAUSTIN, Texas (April 13, 2026) – Emerson announced the NI Channel Emulator System Software (CHESS) platform today at the 2026 Space Symposium conference in Colorado, introducing a new software-defined approach that enables aerospace and defense teams to validate mission-critical radio frequency […]\nThe post Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing appeared first on SpaceNews.",
-    "published_at": "2026-04-15T19:08:24Z",
-    "updated_at": "2026-04-15T19:10:32.448486Z",
     "featured": false,
     "launches": [],
     "events": [],
