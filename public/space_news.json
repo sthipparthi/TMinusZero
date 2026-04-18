@@ -1,5 +1,65 @@
 [
   {
+    "id": 37592,
+    "title": "CSDA Quality Assessment Report Evaluates Satellogic NewSat Data",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/04/satellogic-cover.jpg",
+    "news_site": "NASA",
+    "summary": "The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.",
+    "published_at": "2026-04-17T21:21:02Z",
+    "updated_at": "2026-04-17T22:10:08.649144Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37591,
+    "title": "Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/04/csda-banner-rs2.jpg",
+    "news_site": "NASA",
+    "summary": "Join us April 29 at 2:00 p.m. EDT to learn more about CSDA program vendor MDA Space.",
+    "published_at": "2026-04-17T20:33:51Z",
+    "updated_at": "2026-04-17T21:10:10.344713Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37590,
+    "title": "NASA Artemis II Human Research Data Methodology Challenge",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
+    "image_url": "https://images-assets.nasa.gov/image/art002e013365/art002e013365~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to monitor human health in deep space.  NASA’s Artemis II mission was the first […]",
+    "published_at": "2026-04-17T18:41:35Z",
+    "updated_at": "2026-04-17T18:50:09.668151Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37589,
     "title": "NASA, OPM Announce New NASA Force Website, Open Job Applications",
     "authors": [
@@ -991,73 +1051,6 @@
     "summary": "\nAUSTIN, Texas (April 13, 2026) – Emerson announced the NI Channel Emulator System Software (CHESS) platform today at the 2026 Space Symposium conference in Colorado, introducing a new software-defined approach that enables aerospace and defense teams to validate mission-critical radio frequency […]\nThe post Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing appeared first on SpaceNews.",
     "published_at": "2026-04-15T19:08:24Z",
     "updated_at": "2026-04-15T19:10:32.448486Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37542,
-    "title": "Saltzman unveils blueprint for Space Force’s future",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/saltzman-unveils-blueprint-for-space-forces-future/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/7P6A7881-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\n‘Future Operating Environment’ and ‘Objective Force’ documents outline a contested space domain and call for a combat-ready force\nThe post Saltzman unveils blueprint for Space Force’s future appeared first on SpaceNews.",
-    "published_at": "2026-04-15T18:26:19Z",
-    "updated_at": "2026-04-15T18:31:06.287475Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37541,
-    "title": "Senators seek increased funding for NASA Mars missions",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/06/msr-illustration.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSeveral senators are asking appropriators to increase funding for NASA’s robotic Mars exploration efforts, fearing “severe and irreversible harm” if funding is not restored.\nThe post Senators seek increased funding for NASA Mars missions appeared first on SpaceNews.",
-    "published_at": "2026-04-15T18:00:00Z",
-    "updated_at": "2026-04-15T18:20:19.669019Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37544,
-    "title": "The Infrastructure Layer U.S. Space Superiority Has Been Missing",
-    "authors": [
-      {
-        "name": "Turion Space Corp.",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-infrastructure-layer-u-s-space-superiority-has-been-missing/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/04/Max-Header-2000-x-500-DROID-2.jpg?fit=1024%2C256&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpace domain awareness has a data problem. Not a shortage of data, but a shortage of the right data, delivered at the right time, with enough autonomy to act on […]\nThe post The Infrastructure Layer U.S. Space Superiority Has Been Missing appeared first on SpaceNews.",
-    "published_at": "2026-04-15T17:34:00Z",
-    "updated_at": "2026-04-15T19:50:27.660465Z",
     "featured": false,
     "launches": [],
     "events": [],
