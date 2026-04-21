@@ -1,5 +1,65 @@
 [
   {
+    "id": 37611,
+    "title": "NASA on Track for Future Missions with Initial Artemis II Assessments",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/launch-11a3a5.jpg",
+    "news_site": "NASA",
+    "summary": "Following NASA’s Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency’s Kennedy Space Center in Florida performed. The Artemis II test flight successfully […]",
+    "published_at": "2026-04-20T22:10:38Z",
+    "updated_at": "2026-04-20T22:20:09.480569Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Following NASA’s Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency’s Kennedy Space Center in Florida performed. The Artemis II test flight successfully […]"
+  },
+  {
+    "id": 37610,
+    "title": "Launch Preview: GPS, Progress, and Starlink missions to launch during busy week",
+    "authors": [
+      {
+        "name": "Sean Yoder",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/04/launch-preview-042026/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Seven missions, four countries, and five launch vehicles make the week of April 20 one…\nThe post Launch Preview: GPS, Progress, and Starlink missions to launch during busy week appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-04-20T21:15:09Z",
+    "updated_at": "2026-04-20T21:20:15.409578Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37609,
+    "title": "NASA Rolls Out Artemis III Moon Rocket Core Stage",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/corestage1.jpg",
+    "news_site": "NASA",
+    "summary": "Following the recent successful test flight of NASA’s Artemis II mission around the Moon, NASA rolled out the core stage, or the largest section, of the agency’s SLS (Space Launch System) rocket that will launch the crewed Artemis III mission in 2027. The stage departed from the agency’s Michoud Assembly Facility in New Orleans on […]",
+    "published_at": "2026-04-20T20:31:57Z",
+    "updated_at": "2026-04-20T20:40:06.514952Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37608,
     "title": "NASA Invites Media to SpaceX’s 34th Resupply Launch to Space Station",
     "authors": [
@@ -946,87 +1006,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37563,
-    "title": "Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding",
-    "authors": [
-      {
-        "name": "Bruce Jakosky",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/artemis-2-is-a-benchmark-in-our-space-exploration-program-and-it-depends-on-steady-nasa-funding/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-splashdown.jpeg?fit=1024%2C639&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "Now that the Artemis 2 mission has been successfully completed, it’s worth taking a look at where NASA stands on the role of humans in exploring space and what its path forward should be. Doing this is especially important today, with some people questioning on line whether we can afford the cost of sending humans […]\r\nThe post Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding appeared first on SpaceNews.",
-    "published_at": "2026-04-16T13:00:00Z",
-    "updated_at": "2026-04-16T15:48:32.820293Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37562,
-    "title": "Three ESA-built satellites on show in France",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Three_ESA-built_satellites_on_show_in_France",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/flex_sentinel-3c_and_mtg-i2_on_show_at_tas_cleanrooms/27207480-1-eng-GB/FLEX_Sentinel-3C_and_MTG-I2_on_show_at_TAS_cleanrooms_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Three Earth observation satellites, developed by the European Space Agency (ESA) with European partners, and due to launch later this year, have completed their functional and environmental tests and are ready to travel to the European spaceport in French Guiana. But first, journalists were invited to have one last look.",
-    "published_at": "2026-04-16T12:00:00Z",
-    "updated_at": "2026-04-16T12:36:43.782288Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37561,
-    "title": "Voyager to fly private astronaut mission to ISS",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/International-Space-Station-in-2021-scaled.webp?fit=1024%2C569&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nVoyager Technologies will be the third company to fly a private astronaut mission to the International Space Station, gaining experience for its commercial station.\nThe post Voyager to fly private astronaut mission to ISS appeared first on SpaceNews.",
-    "published_at": "2026-04-16T11:54:32Z",
-    "updated_at": "2026-04-16T12:10:33.622490Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
