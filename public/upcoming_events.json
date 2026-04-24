@@ -1,6 +1,6 @@
 {
-  "count": 11,
-  "last_updated": "2026-04-24T12:14:42.763232Z",
+  "count": 12,
+  "last_updated": "2026-04-24T18:10:32.757586Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (11 failed/unavailable)"
+    "Empty AI summaries (12 failed/unavailable)"
   ],
   "launches": [
     {
@@ -374,6 +374,55 @@
       "ai_summary": ""
     },
     {
+      "id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
+      "name": "Falcon 9 Block 5 | CAS500-2 & Others",
+      "status": "Go",
+      "net": "2026-05-03T06:59:00Z",
+      "window_start": "2026-05-03T06:59:00Z",
+      "window_end": "2026-05-03T07:36:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "CAS500-2 & Others",
+      "mission_description": "Ride-share of multiple satellites including:\r\n\r\n* CAS500-2 (KASA, South Korea)\r\nThe South Korean CAS500-1 and -2 satellites will image the Earth in pan-chromatic and multi-spectral modes using the AEISS-C (Advanced Earth Imaging Sensor System) payload, with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.\r\n\r\n* Pelican-7, 8 & 9 (Planet Labs)\r\nPelican is a constellation of very high resolution imaging satellites, designed and manufactured by Planet Labs. The commercial constellation will consist of 32 SmallSats with potential for further expansion, and aims to provide improved spatial resolution and response times over Planet’s existing SkySat and Dove constellations.",
+      "mission_type": "Earth Science",
+      "orbit": "Sun-Synchronous Orbit",
+      "launch_site": "Space Launch Complex 4E, Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 575,
+      "rocket_config_successful_launches": 574,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 102,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 668,
+      "rocket_manufacturer_successful_launches": 653,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/05530ccb-7184-41e7-b2e5-c090b61e0e3a/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "CAS500-2 Mission",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/HGrNY8QW0AA0ZKx.jpg",
+          "url": "https://x.com/i/broadcasts/1AKEmODRWpZKL"
+        }
+      ],
+      "ai_summary": ""
+    },
+    {
       "id": "dd82ccd7-9ab2-410a-ac41-306218015c05",
       "name": "Falcon 9 Block 5 | Starlink Group 17-29",
       "status": "Go",
@@ -517,7 +566,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 11,
-    "total_launches": 11
+    "empty_summaries": 12,
+    "total_launches": 12
   }
 }
