@@ -1,5 +1,45 @@
 [
   {
+    "id": 37695,
+    "title": "Fiery Fall Color in Southern Chile",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fiery-fall-color-in-southern-chile/fallinpatagoniawide_oli2_20260412.jpg",
+    "news_site": "NASA",
+    "summary": "The beech forests of southern Patagonia put on vibrant autumn displays.",
+    "published_at": "2026-04-28T04:01:00Z",
+    "updated_at": "2026-04-28T04:10:17.826588Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37694,
+    "title": "Top House NASA Appropriator Calls Budget Request “Disappointing”",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/top-house-nasa-appropriator-calls-budget-request-disappointing/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2023/01/Hal-Rogers-Facebook-300x257.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Rep. Hal Rogers (R-KY) told NASA Administrator Jared Isaacman today that he finds the agency’s FY2027 budget request “disappointing.” He and other members of the House Appropriations Commerce-Justice-Science subcommittee on […]",
+    "published_at": "2026-04-28T03:49:42Z",
+    "updated_at": "2026-04-28T03:50:17.090125Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37693,
     "title": "Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites",
     "authors": [
@@ -928,45 +968,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "https://www.nasa.gov/sbir_sttr/nasa-sbir-sttr-program-program-year-2026-information-hub"
-  },
-  {
-    "id": 37645,
-    "title": "NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/stmd/small-spacecraft-technology-program/s3vi/nasa-sbir-sttr-phase-i-and-ii/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/iss043e093710large.jpg",
-    "news_site": "NASA",
-    "summary": "https://www.nasa.gov/sbir_sttr/nasa-sbir-sttr-program-program-year-2026-information-hub",
-    "published_at": "2026-04-22T22:19:18Z",
-    "updated_at": "2026-04-22T22:20:06.665032Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "https://www.nasa.gov/sbir_sttr/nasa-sbir-sttr-program-program-year-2026-information-hub"
-  },
-  {
-    "id": 37644,
-    "title": "House Science Committee Opposes Cuts in NASA’s FY2027 Budget Request",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/house-science-committee-opposes-cuts-in-nasas-fy2027-budget-request/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/Babin-NASA-hrg-Apr-22-26-300x169.png",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "On a bipartisan basis, members of the House Science, Space, and Technology Committee left no doubt today that they oppose the dramatic cuts to NASA included in the Trump Administration’s […]",
-    "published_at": "2026-04-22T21:37:18Z",
-    "updated_at": "2026-04-22T21:40:20.067784Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
