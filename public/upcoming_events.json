@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-04-29T06:43:41.230847Z",
+  "count": 9,
+  "last_updated": "2026-04-29T12:25:05.172822Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,9 +10,50 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
+    {
+      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
+      "name": "Soyuz-5 | Demo Flight",
+      "status": "Go",
+      "net": "2026-04-29T13:00:00Z",
+      "window_start": "2026-04-29T11:00:00Z",
+      "window_end": "2026-04-29T13:00:00Z",
+      "lsp_name": "RKK Energiya",
+      "lsp_description": "",
+      "lsp_type": "Commercial",
+      "lsp_country": "RUS",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rkk_energiya_lo_image_20250921093034.png",
+      "mission_name": "Demo Flight",
+      "mission_description": "Demonstration Flight for Russia's new Soyuz-5 launch vehicle, with a mass simulator on board. Details TBD.",
+      "mission_type": "Test Flight",
+      "orbit": "Suborbital",
+      "launch_site": "45/1, Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "45/1",
+      "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "rocket": "Soyuz-5",
+      "rocket_config_description": "Soyuz-5, also named Irtysh is a planned Russian rocket that is being developed by JSC SRC Progress, formerly within \"Project Feniks.\" It will replace the capability of Zenit-2 and Proton Medium. It will initially be a two-stage rocket, but Soyuz 5 can be enhanced with an optional Blok DM-03 upper stage for geostationary missions.\r\n\r\nThe rocket is loosely based on the Zenit launch vehicle with a RD-171MV engine on the 1st stage, enlarged to 4.1 m in diameter, while the 2nd stage is powered by 2 RD-0124MS engines derived from engines used on the 3rd stage of the Soyuz-2.1b. The Soyuz-5 can lift 17 tonnes to a Low Earth orbit.",
+      "rocket_config_family": "Soyuz-5",
+      "rocket_config_full_name": "Soyuz-5",
+      "rocket_config_total_launch_count": 0,
+      "rocket_config_successful_launches": 0,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "RKK Energiya",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "",
+      "rocket_manufacturer_total_launch_count": 0,
+      "rocket_manufacturer_successful_launches": 0,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz-5_assembl_image_20260327210910.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
     {
       "id": "4cc237b2-c61a-491e-9532-466cce81f524",
       "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
@@ -394,7 +435,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 9,
+    "total_launches": 9
   }
 }
