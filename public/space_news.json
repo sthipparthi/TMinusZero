@@ -1,5 +1,45 @@
 [
   {
+    "id": 37708,
+    "title": "Fires Rage in Georgia",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-rage-in-georgia/georgiafirehwy82_oli_20260423.jpg",
+    "news_site": "NASA",
+    "summary": "Firefighters are battling two destructive blazes in the southern part of the state as drought grips the U.S. Southeast.",
+    "published_at": "2026-04-29T04:01:00Z",
+    "updated_at": "2026-04-29T04:10:12.626929Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37707,
+    "title": "Key Senators Agree NASA FY2027 Budget Request Inadequate",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/key-senators-agree-nasa-fy2027-budget-request-inadequate/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/S-Apps-2-Apr-28-26-300x153.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Senate appropriators from both sides of the aisle are joining their House counterparts in opposing President Trump’s proposed 23 percent cut to NASA for FY2027. NASA Administrator Jared Isaacman once […]",
+    "published_at": "2026-04-29T01:10:05Z",
+    "updated_at": "2026-04-29T01:12:27.086672Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37706,
     "title": "Live coverage: SpaceX seeks second attempt at Falcon Heavy launch following weather scrub on Monday",
     "authors": [
@@ -924,46 +964,6 @@
     "summary": "On every crewed mission, NASA packs pouches of a potentially life-saving liquid in its cargo, known as IV (or intravenous) fluid. A simple mix of sodium chloride and purified water, it can treat up to 30% of medical conditions in flight, resolving things like dehydration, burns, and more. Crewed missions beyond low Earth orbit into […]",
     "published_at": "2026-04-23T16:30:00Z",
     "updated_at": "2026-04-23T16:30:09.045437Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37655,
-    "title": "NASA Releases Powerful LAVA Software to US Aerospace Industry",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/aeronautics/nasa-releases-powerful-lava-software-to-us-aerospace-industry/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/iss043e093710large.jpg",
-    "news_site": "NASA",
-    "summary": "For years, NASA engineers have turned to a tool called the Launch, Ascent, and Vehicle Aerodynamics (LAVA) framework to solve airflow challenges that could mean the difference between mission success or failure. When engineers need to know how a spacecraft will navigate re-entry or whether a new aircraft wing design will create enough lift, they […]",
-    "published_at": "2026-04-23T16:07:30Z",
-    "updated_at": "2026-04-23T16:10:09.522009Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37652,
-    "title": "NASA’s Chandra Finds Young Stars Dim Quickly",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-young-stars-dim-quickly/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/dimming-lg.jpg",
-    "news_site": "NASA",
-    "summary": "These images, released on April 14, 2026, show two open star clusters, Trumpler 3 (left) and NGC 2353 (right). They represent a recent study from NASA’s Chandra X-ray Observatory that shows how young Sun-like stars are dimmer in X-rays than previously thought. This latest study looked at eight clusters of stars between the ages of […]",
-    "published_at": "2026-04-23T15:01:38Z",
-    "updated_at": "2026-04-23T15:10:12.260788Z",
     "featured": false,
     "launches": [],
     "events": [],
