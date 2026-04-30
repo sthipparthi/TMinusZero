@@ -1,5 +1,75 @@
 [
   {
+    "id": 37729,
+    "title": "The great parachute bake-out",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/The_great_parachute_bake-out",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/the_great_parachute_bake-out/27249602-1-eng-GB/The_great_parachute_bake-out_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-04-30T11:30:00Z",
+    "updated_at": "2026-04-30T11:40:20.338121Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37728,
+    "title": "Baking a parachute for Mars",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Baking_a_parachute_for_Mars",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/04/baking_a_parachute_for_mars/27249904-2-eng-GB/Baking_a_parachute_for_Mars_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Watch ESA’s Mars chief engineer Albert Haldemann explains the sterilisation process of one of the parachutes of the ExoMars Rosalind Franklin rover mission and why it matters.",
+    "published_at": "2026-04-30T09:29:00Z",
+    "updated_at": "2026-04-30T10:57:25.697962Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37727,
+    "title": "Starry spiral in a familiar neighbourhood",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Starry_spiral_in_a_familiar_neighbourhood",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/starry_spiral_in_a_familiar_neighbourhood/27244123-2-eng-GB/Starry_spiral_in_a_familiar_neighbourhood_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-04-30T08:00:00Z",
+    "updated_at": "2026-04-30T08:27:54.732081Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37726,
     "title": "Winter’s End Is Written in the Clouds",
     "authors": [
@@ -899,66 +969,6 @@
     "summary": "Liftoff of the Starlink 17-16 mission from Space Launch Complex 4 East is scheduled for 7:37 a.m. PDT (10:37 am EDT / 1437 UTC). ",
     "published_at": "2026-04-26T13:38:21Z",
     "updated_at": "2026-04-26T13:40:24.894477Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37675,
-    "title": "Progress MS-34 to launch from Baikonur for ISS cargo delivery",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/04/progress-ms34/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490.png",
-    "news_site": "NASASpaceflight",
-    "summary": "Two weeks after the CRS NG-24 mission launched cargo to the International Space Station (ISS),…\nThe post Progress MS-34 to launch from Baikonur for ISS cargo delivery appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-04-25T16:30:36Z",
-    "updated_at": "2026-04-25T16:40:23.337924Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37682,
-    "title": "​​Rheinmetall Signs Agreement for New Satellite Testing Facility in Norway",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/rheinmetall-signs-agreement-for-new-satellite-testing-facility-in-norway/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/%E2%80%8B%E2%80%8BRheinmetall-Signs-Agreement-for-New-Satellite-Testing-Facility-in-Norway.webp",
-    "news_site": "European Spaceflight",
-    "summary": "German aerospace and defence manufacturer Rheinmetall has signed a Letter of Intent with the municipality of Andøy for the establishment of a new satellite test facility in Norway. Signed through its subsidiary Rheinmetall Nordic on 17 April, the agreement outlines both parties’ intent to move forward with leasing a suitable plot of land, securing zoning […]\nThe post ​​Rheinmetall Signs Agreement for New Satellite Testing Facility in Norway appeared first on European Spaceflight.",
-    "published_at": "2026-04-25T11:16:55Z",
-    "updated_at": "2026-04-27T08:30:13.037773Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37674,
-    "title": "I Am Artemis: Peter Rossoni",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/img-0068-edited-1.jpg",
-    "news_site": "NASA",
-    "summary": "Listen to this audio excerpt from Peter Rossoni, Orion Artemis II Optical Communications System flight manager: As a child, Peter Rossoni watched the Apollo missions launch with his family. In April 2026, he became a part of NASA’s Artemis II mission, helping enable communications as astronauts journeyed around the Moon. Rossoni’s path to NASA began […]",
-    "published_at": "2026-04-24T16:33:35Z",
-    "updated_at": "2026-04-24T16:40:07.253419Z",
     "featured": false,
     "launches": [],
     "events": [],
