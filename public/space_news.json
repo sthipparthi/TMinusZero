@@ -1,5 +1,30 @@
 [
   {
+    "id": 37763,
+    "title": "Launch boosts European Earth monitoring and connectivity",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Launch_boosts_European_Earth_monitoring_and_connectivity",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/launch_boosts_european_earth_monitoring_and_connectivity/27254257-3-eng-GB/Launch_boosts_European_Earth_monitoring_and_connectivity_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Thirteen European satellites on the same rideshare launcher have successfully reached orbit, bringing capabilities to Italian and Greek monitoring programmes as well as CubeSats that will test satellite connectivity.",
+    "published_at": "2026-05-04T07:30:00Z",
+    "updated_at": "2026-05-04T08:20:01.032937Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37762,
     "title": "What’s Happening in Space Policy May 3-9, 2026",
     "authors": [
@@ -336,6 +361,31 @@
     "updated_at": "2026-05-01T08:00:27.676255Z",
     "featured": false,
     "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37764,
+    "title": "ESA Completes Sterilisation of ExoMars Parachute",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-completes-sterilisation-of-exomars-parachute/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/ESA-Completes-Sterilisation-of-ExoMars-Parachute.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency (ESA) has completed a more than 79-hour sterilisation of the parachute that will slow the descent of its Rosalind Franklin rover for a gentle touchdown on the surface of Mars. Scheduled for launch in 2028 aboard a SpaceX Falcon Heavy, the Rosalind Franklin rover will be tasked with drilling beneath the […]\r\nThe post ESA Completes Sterilisation of ExoMars Parachute appeared first on European Spaceflight.",
+    "published_at": "2026-05-01T06:00:45Z",
+    "updated_at": "2026-05-04T08:48:31.612824Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -924,46 +974,6 @@
     "summary": "UK-based space domain awareness startup Spaceflux has extended its seed round with an additional £3.5 million, bringing total funding to £9 million (approximately €10.4 million). According to the company, the new capital will be used to accelerate its expansion into new markets. Founded in 2022, Spaceflux provides optical space surveillance and tracking services across multiple […]\nThe post Spaceflux Extends Funding Round, Bringing Total to £9 Million appeared first on European Spaceflight.",
     "published_at": "2026-04-29T14:40:42Z",
     "updated_at": "2026-04-30T13:10:21.633997Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37715,
-    "title": "NASA Demonstrates New Prescribed Burn Capability for Spaceport",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-demonstrates-new-prescribed-burn-capability-for-spaceport/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/kennedy-prescribed-burn-january-2026.jpg",
-    "news_site": "NASA",
-    "summary": "Anyone who has seen a launch at NASA’s Kennedy Space Center in Florida knows the agency’s pursuit of the stars involves some smoke and fire. Sometimes, however, the smoke doesn’t come from the rockets that propel astronauts beyond Earth’s bounds. That was the case during the second weekend of January 2026, when NASA teamed up […]",
-    "published_at": "2026-04-29T14:27:04Z",
-    "updated_at": "2026-04-29T14:30:13.832797Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37713,
-    "title": "CEQ Permitting Innovators Program Call for Solutions",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ceq-permitting-innovators/",
-    "image_url": "https://images-assets.nasa.gov/image/LRC-2026-OCIO_P-00762/LRC-2026-OCIO_P-00762~large.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Council on Environmental Quality (CEQ), within the Executive Office of the President established by the National […]",
-    "published_at": "2026-04-29T14:02:30Z",
-    "updated_at": "2026-04-29T14:10:19.291118Z",
     "featured": false,
     "launches": [],
     "events": [],
