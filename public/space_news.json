@@ -1,5 +1,85 @@
 [
   {
+    "id": 37777,
+    "title": "Lockheed Martin announces collaboration with Firefly Aerospace and Seagate for off-shore launches",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/05/04/lockheed-martin-announces-collaboration-with-firefly-aerospace-and-seagate-for-off-shore-launches/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260504_Seagate-Space-Platform-Firefly-Alpha-Rocket-Render.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The announcement comes ahead of Firefly Aerospace’s first quarter earnings call for investors. A timeline for the first ocean-based Alpha rocket launches wasn't announced. ",
+    "published_at": "2026-05-04T21:52:31Z",
+    "updated_at": "2026-05-04T22:00:49.304614Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37776,
+    "title": "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/55249468219-fc774342a0-k.jpg",
+    "news_site": "NASA",
+    "summary": "Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity. Ireland, a longstanding member of ESA (European Space Agency) and a valued international partner for NASA, now joins all 23 ESA member states as a signatory of […]",
+    "published_at": "2026-05-04T21:09:23Z",
+    "updated_at": "2026-05-04T21:10:11.086717Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity. Ireland, a longstanding member of ESA (European Space Agency) and a valued international partner for NASA, now joins all 23 ESA member states as a signatory of […]"
+  },
+  {
+    "id": 37775,
+    "title": "NASA Fosters Development of Lunar Resource-Seeking Technologies",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/",
+    "image_url": "https://images-assets.nasa.gov/image/art002e009287/art002e009287~large.jpg",
+    "news_site": "NASA",
+    "summary": "To support long-duration missions to the Moon and Mars, NASA and industry are developing technologies that can extract resources such as hydrogen and helium-3 from lunar soil, known as regolith. This capability, known as in-situ resource utilization (ISRU), allows explorers to use what is already available on other planetary bodies, from water ice to minerals. […]",
+    "published_at": "2026-05-04T20:32:47Z",
+    "updated_at": "2026-05-04T20:40:09.442233Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37774,
+    "title": "Launch Preview: three launches — a calm before the storm?",
+    "authors": [
+      {
+        "name": "John Sharp",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/05/launch-preview-050426/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_0610.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "Two Falcon 9 launches and a Chang Zheng 7 make up the launch roster for…\nThe post Launch Preview: three launches — a calm before the storm? appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-05-04T18:45:36Z",
+    "updated_at": "2026-05-04T18:50:18.167409Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37773,
     "title": "NASA Welcomes Malta as Newest Artemis Accords Signatory",
     "authors": [
@@ -911,91 +991,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37727,
-    "title": "Starry spiral in a familiar neighbourhood",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Starry_spiral_in_a_familiar_neighbourhood",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/starry_spiral_in_a_familiar_neighbourhood/27244123-2-eng-GB/Starry_spiral_in_a_familiar_neighbourhood_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-04-30T08:00:00Z",
-    "updated_at": "2026-04-30T08:27:54.732081Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37726,
-    "title": "Winter’s End Is Written in the Clouds",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/winters-end-is-written-in-the-clouds/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winter's-end-is-written-in-the-clouds/akclouds_tmo_20260319.jpg",
-    "news_site": "NASA",
-    "summary": "As winter turned to spring, the skies over the Gulf of Alaska displayed textbook examples of numerous cloud formations.",
-    "published_at": "2026-04-30T04:00:00Z",
-    "updated_at": "2026-04-30T04:10:09.283596Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37725,
-    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/04/29/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/11/20251122-Vandy-File-Falcon-9-Feature-Image.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 17-36 mission will be SpaceX’s 51st Falcon 9 launch of 2026. Liftoff from pad 4E is scheduled for 7:37 pm PDT (10:37 pm EDT / 0237 UTC). ",
-    "published_at": "2026-04-29T23:28:46Z",
-    "updated_at": "2026-04-29T23:30:29.250249Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37723,
-    "title": "I Am Artemis: Ryan Schulte",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/ryanschulte.jpg",
-    "news_site": "NASA",
-    "summary": "Listen to this audio excerpt from Ryan Schulte, Orion flywheel project manager: As the four Artemis II astronauts traveled on a 694,481-mile journey around the Moon and back, the Orion spacecraft provided them with all the essentials for deep space life, including daily exercise. The crew used an exercise device called the flywheel throughout their mission to maintain their physical and mental health, and Ryan Schulte, Orion […]",
-    "published_at": "2026-04-29T21:45:16Z",
-    "updated_at": "2026-04-29T21:50:08.440407Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
