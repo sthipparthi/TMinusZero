@@ -140,26 +140,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37772,
-    "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
-    "news_site": "NASA",
-    "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will demonstrate […]",
-    "published_at": "2026-05-04T16:31:01Z",
-    "updated_at": "2026-05-04T17:10:11.364549Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37770,
     "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
     "authors": [
@@ -181,6 +161,26 @@
         "provider": "Launch Library 2"
       }
     ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37772,
+    "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
+    "news_site": "NASA",
+    "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will demonstrate […]",
+    "published_at": "2026-05-04T16:31:01Z",
+    "updated_at": "2026-05-04T17:10:11.364549Z",
+    "featured": false,
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
