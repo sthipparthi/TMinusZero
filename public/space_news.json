@@ -1,5 +1,54 @@
 [
   {
+    "id": 37794,
+    "title": "Webb & Hubble find massive star clusters emerge faster",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_regions_in_m51/27255538-1-eng-GB/Star-forming_regions_in_M51_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of evolution. Their findings show that more massive star clusters emerge more quickly from the clouds they are born in, clearing away gas and filling the galaxy with ultraviolet light. The result gives us a more detailed understanding of star formation in galaxies, as well as how and where planets can form.",
+    "published_at": "2026-05-06T10:00:00Z",
+    "updated_at": "2026-05-06T11:02:45.078484Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37793,
+    "title": "ESA and DON’T NOD team up on a journey to the planet Persephone in Aphelion",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_DON_T_NOD_team_up_on_a_journey_to_the_planet_Persephone_in_Aphelion",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/in-game_image_from_aphelion_by_don_t_nod/27261970-1-eng-GB/In-game_image_from_Aphelion_by_DON_T_NOD_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency (ESA) has partnered with French video game studio DON’T NOD Entertainment on the development of Aphelion, a narrative science‑fiction game inspired by space exploration and scientic expertise.",
+    "published_at": "2026-05-06T08:00:00Z",
+    "updated_at": "2026-05-06T08:10:17.853293Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37792,
     "title": "Melting Snow Off Shivelyuch",
     "authors": [
@@ -944,51 +993,6 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-05-01T08:00:00Z",
     "updated_at": "2026-05-01T08:00:27.676255Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37764,
-    "title": "ESA Completes Sterilisation of ExoMars Parachute",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-completes-sterilisation-of-exomars-parachute/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/ESA-Completes-Sterilisation-of-ExoMars-Parachute.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency (ESA) has completed a more than 79-hour sterilisation of the parachute that will slow the descent of its Rosalind Franklin rover for a gentle touchdown on the surface of Mars. Scheduled for launch in 2028 aboard a SpaceX Falcon Heavy, the Rosalind Franklin rover will be tasked with drilling beneath the […]\r\nThe post ESA Completes Sterilisation of ExoMars Parachute appeared first on European Spaceflight.",
-    "published_at": "2026-05-01T06:00:45Z",
-    "updated_at": "2026-05-04T08:48:31.612824Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37745,
-    "title": "Cyclone Rains Spur Papua New Guinea Landslides",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cyclone-rains-spur-papua-new-guinea-landslides/papuanewguinea_landslide_oli2_20250924.jpg",
-    "news_site": "NASA",
-    "summary": "Heavy rains from Tropical Cyclone Maila triggered a deadly landslide in the mountains of East New Britain.",
-    "published_at": "2026-05-01T04:01:00Z",
-    "updated_at": "2026-05-01T04:10:08.363691Z",
     "featured": false,
     "launches": [],
     "events": [],
