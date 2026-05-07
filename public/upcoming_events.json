@@ -1,6 +1,6 @@
 {
-  "count": 9,
-  "last_updated": "2026-05-07T12:30:31.972388Z",
+  "count": 11,
+  "last_updated": "2026-05-07T18:29:06.053141Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (9 failed/unavailable)"
+    "Empty AI summaries (11 failed/unavailable)"
   ],
   "launches": [
     {
@@ -60,6 +60,47 @@
           "url": "https://x.com/i/broadcasts/1rGmqoeWkBkGy"
         }
       ],
+      "ai_summary": ""
+    },
+    {
+      "id": "a5872822-76df-404b-93d0-9ecd7ba80a70",
+      "name": "Long March 7 | Tianzhou-10",
+      "status": "Go",
+      "net": "2026-05-11T00:14:00Z",
+      "window_start": "2026-05-11T00:05:00Z",
+      "window_end": "2026-05-11T00:29:00Z",
+      "lsp_name": "China Aerospace Science and Technology Corporation",
+      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "lsp_type": "Government",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
+      "mission_name": "Tianzhou-10",
+      "mission_description": "Ninth cargo delivery mission to the Chinese space station.",
+      "mission_type": "Resupply",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "201, Wenchang Space Launch Site, People's Republic of China",
+      "pad": "201",
+      "location": "Wenchang Space Launch Site, People's Republic of China",
+      "rocket": "Long March 7",
+      "rocket_config_description": "The Long March 7 is a Chinese liquid-fuelled launch vehicle of the Long March family, developed by the China Aerospace Science and Technology Corporation (CAST). It made its inaugural flight on 25 June 2016 and is used to launch Tianzhou resupply spacecraft to the Chinese Space Station.",
+      "rocket_config_family": "Long March",
+      "rocket_config_full_name": "Long March 7",
+      "rocket_config_total_launch_count": 9,
+      "rocket_config_successful_launches": 9,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
+      "rocket_manufacturer_type": "Government",
+      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
+      "rocket_manufacturer_total_launch_count": 587,
+      "rocket_manufacturer_successful_launches": 572,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7_image_20210513083007.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/a5872822-76df-404b-93d0-9ecd7ba80a70/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
       "ai_summary": ""
     },
     {
@@ -139,6 +180,47 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
       "infographic": null,
       "url": "https://ll.thespacedevs.com/2.0.0/launch/e60aa241-1f2c-4459-ba94-2f576c3e5632/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
+      "id": "4aa02420-1bcb-4dd9-afa8-06d5ff89d248",
+      "name": "Zhuque-2E | Unknown Payload",
+      "status": "Go",
+      "net": "2026-05-13T03:00:00Z",
+      "window_start": "2026-05-13T02:52:00Z",
+      "window_end": "2026-05-13T05:08:00Z",
+      "lsp_name": "LandSpace",
+      "lsp_description": "LandSpace is a Chinese private space launch company based in Beijing. It was founded in 2015 by Tsinghua University alumni Zhang Changwu.",
+      "lsp_type": "Commercial",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/landspace_logo_20220822100731.png",
+      "mission_name": "Unknown Payload",
+      "mission_description": "Details TBD.",
+      "mission_type": "Unknown",
+      "orbit": "Unknown",
+      "launch_site": "Launch Area 96A, Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Area 96A",
+      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "rocket": "Zhuque-2E",
+      "rocket_config_description": "Zhuque-2E (E stands for “enhanced”) is a medium-sized rocket powered by liquid oxygen and methane capable of lifting 6,000 kg of payload into a 200 km low Earth orbit, or 4,000 kg of payload into a 500 km Sun-synchronous orbit. It differs from the baseline Zhuque-2 in using enhanced TQ-12A engines on the 1st stage with higher thrust and specific impulse than the original TQ-12, and a new TQ-15A engine on the 2nd stage that has a moveable nozzle.",
+      "rocket_config_family": "Zhuque",
+      "rocket_config_full_name": "Zhuque-2E",
+      "rocket_config_total_launch_count": 3,
+      "rocket_config_successful_launches": 2,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "LandSpace",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "LandSpace is a Chinese private space launch company based in Beijing. It was founded in 2015 by Tsinghua University alumni Zhang Changwu.",
+      "rocket_manufacturer_total_launch_count": 8,
+      "rocket_manufacturer_successful_launches": 5,
+      "rocket_manufacturer_failed_launches": 3,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhunque_2e_on_t_image_20241216101643.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/4aa02420-1bcb-4dd9-afa8-06d5ff89d248/",
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
@@ -427,7 +509,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 9,
-    "total_launches": 9
+    "empty_summaries": 11,
+    "total_launches": 11
   }
 }

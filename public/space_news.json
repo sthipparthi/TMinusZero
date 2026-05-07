@@ -1,5 +1,85 @@
 [
   {
+    "id": 37814,
+    "title": "A Light in the Dark",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/a-light-in-the-dark/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/art002e023710orig.jpg",
+    "news_site": "NASA",
+    "summary": "A thin sliver of Earth’s edge is brightly illuminated against the vast darkness of space in this April 3, 2026, image taken during the Artemis II mission. Artemis II was the first crewed flight in a series of missions to test NASA’s human deep space capabilities, paving the way for future lunar surface missions. See […]",
+    "published_at": "2026-05-07T15:25:37Z",
+    "updated_at": "2026-05-07T15:30:12.761102Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37812,
+    "title": "NASA-Supported Small Spacecraft Launches to Study Solar Particles",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/spacex-cas500-2-1.jpg",
+    "news_site": "NASA",
+    "summary": "Through NASA, a university-designed small spacecraft is paving the way to studying particles, known as neutrinos, that move through the universe at near-light speeds. The Solar Neutrino Astro-Particle PhYsics CubeSat, known as SNAPPY, launched at 12 a.m. PDT on Sunday aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space […]",
+    "published_at": "2026-05-07T14:44:59Z",
+    "updated_at": "2026-05-07T14:50:08.882221Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37813,
+    "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/145000/145308/iss058e028096_lrg.jpg",
+    "news_site": "NASA",
+    "summary": "A team of researchers demonstrated NASA and IBM’s open-source Prithvi Geospatial artificial intelligence foundation model aboard two in-orbit platforms.",
+    "published_at": "2026-05-07T14:23:35Z",
+    "updated_at": "2026-05-07T15:10:11.196756Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37811,
+    "title": "NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/chapea200-1.png",
+    "news_site": "NASA",
+    "summary": "The four crew members of NASA’s Mars simulation recently marked 200 days into their 378-day Red Planet mission on May 7. Currently, the crew is in a simulated two‑week loss‑of‑signal period that mimics a Mars-Earth communications blackout when Mars moves behind the Sun. During this blackout, the crew works without contact with mission control, using […]",
+    "published_at": "2026-05-07T14:07:53Z",
+    "updated_at": "2026-05-07T14:10:13.319288Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37810,
     "title": "Former NASA chief takes helm of national security space firm",
     "authors": [
@@ -905,96 +985,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37765,
-    "title": "LAGEOS: An Earth Science Mission Built for Enduring Precision",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/lageos/lageos-an-earth-science-mission-built-for-enduring-precision/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2016/05/lageos_1.jpg",
-    "news_site": "NASA",
-    "summary": "On May 4, 1976, a spacecraft resembling a disco ball entered orbit almost 3,700 miles (6,000 kilometers) above Earth. This shiny, two‑foot‑wide (60‑centimeter) sphere called the Laser Geodynamics Satellite, or LAGEOS, is covered with 426 retroreflectors—small mirrored prisms designed to bounce laser light directly back to where it came from. Beneath its aluminum exterior sits […]",
-    "published_at": "2026-05-04T13:15:00Z",
-    "updated_at": "2026-05-04T16:53:06.397884Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "817cc772-bf09-4c52-b703-ed20f7eb4654",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37763,
-    "title": "Launch boosts European Earth monitoring and connectivity",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Launch_boosts_European_Earth_monitoring_and_connectivity",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/launch_boosts_european_earth_monitoring_and_connectivity/27254257-3-eng-GB/Launch_boosts_European_Earth_monitoring_and_connectivity_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Thirteen European satellites on the same rideshare launcher have successfully reached orbit, bringing capabilities to Italian and Greek monitoring programmes as well as CubeSats that will test satellite connectivity.",
-    "published_at": "2026-05-04T07:30:00Z",
-    "updated_at": "2026-05-04T08:20:01.032937Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37767,
-    "title": "Record-Setting Retreat of Hektoria Glacier",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/record-setting-retreat-of-hektoria-glacier/hektoria_oli_20221030.jpg",
-    "news_site": "NASA",
-    "summary": "Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly.",
-    "published_at": "2026-05-04T04:01:00Z",
-    "updated_at": "2026-05-04T14:10:09.174984Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37762,
-    "title": "What’s Happening in Space Policy May 3-9, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-3-9-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Alan-Shepard-NASA-Freedom-7-300x171.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of May 3-9, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
-    "published_at": "2026-05-03T20:27:49Z",
-    "updated_at": "2026-05-03T20:30:20.262901Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
