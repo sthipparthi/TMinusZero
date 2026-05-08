@@ -1,5 +1,45 @@
 [
   {
+    "id": 37826,
+    "title": "Rocket Report: Flying past peak Falcon 9; Rocket Lab revenue soars",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/starship-full.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"The deciding factor was what we felt like was the team’s impact to humanity.\"",
+    "published_at": "2026-05-08T11:00:55Z",
+    "updated_at": "2026-05-08T11:10:07.438971Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37825,
+    "title": "Earth from Space: Greenland's changing ice",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Greenland_s_changing_ice",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/earth_from_space_greenland_s_changing_ice/27266229-1-eng-GB/Earth_from_Space_Greenland_s_changing_ice_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-05-08T09:00:00Z",
+    "updated_at": "2026-05-08T09:20:16.923514Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37823,
     "title": "Tracy Arm’s Post-Tsunami Landscape",
     "authors": [
@@ -174,6 +214,26 @@
     "summary": "A full-scale mock-up of a crew cabin for a future industry lunar lander for NASA’s Artemis program now is operational for training and testing. The agency and its industry partners will use Blue Origin’s Blue Moon Mark 2 crew cabin for mission simulations as the agency prepares to dock with landers in Earth orbit in […]",
     "published_at": "2026-05-07T18:28:43Z",
     "updated_at": "2026-05-07T18:30:11.717410Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37824,
+    "title": "ESA and JAXA team up on planetary defence, Ramses mission to asteroid Apophis",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_team_up_on_planetary_defence_Ramses_mission_to_asteroid_Apophis",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/10/ramses_esa_s_mission_to_rendezvous_with_asteroid_apophis/26908615-3-eng-GB/Ramses_ESA_s_mission_to_rendezvous_with_asteroid_Apophis_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) have signed a Memorandum of Cooperation to deepen collaboration in planetary defence, alongside a dedicated agreement for collaboration on the Rapid Apophis Mission for Space Safety (Ramses) to the near-Earth asteroid Apophis.",
+    "published_at": "2026-05-07T16:00:00Z",
+    "updated_at": "2026-05-08T07:20:17.277169Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -912,65 +972,5 @@
     ],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 37778,
-    "title": "Ahuachapán and Its Restive Neighbors",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ahuachap%C3%A1n-and-its-restive-neighbors/ahuachapan_oli_20241125.jpg",
-    "news_site": "NASA",
-    "summary": "From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the heat is on beneath the volcanic landscape of western El Salvador.",
-    "published_at": "2026-05-05T04:01:00Z",
-    "updated_at": "2026-05-05T04:10:08.735257Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37777,
-    "title": "Lockheed Martin announces collaboration with Firefly Aerospace and Seagate for off-shore launches",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/05/04/lockheed-martin-announces-collaboration-with-firefly-aerospace-and-seagate-for-off-shore-launches/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260504_Seagate-Space-Platform-Firefly-Alpha-Rocket-Render.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The announcement comes ahead of Firefly Aerospace’s first quarter earnings call for investors. A timeline for the first ocean-based Alpha rocket launches wasn't announced. ",
-    "published_at": "2026-05-04T21:52:31Z",
-    "updated_at": "2026-05-04T22:00:49.304614Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37776,
-    "title": "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/55249468219-fc774342a0-k.jpg",
-    "news_site": "NASA",
-    "summary": "Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity. Ireland, a longstanding member of ESA (European Space Agency) and a valued international partner for NASA, now joins all 23 ESA member states as a signatory of […]",
-    "published_at": "2026-05-04T21:09:23Z",
-    "updated_at": "2026-05-04T21:10:11.086717Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity. Ireland, a longstanding member of ESA (European Space Agency) and a valued international partner for NASA, now joins all 23 ESA member states as a signatory of […]"
   }
 ]
