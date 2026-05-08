@@ -1,5 +1,25 @@
 [
   {
+    "id": 37823,
+    "title": "Tracy Arm’s Post-Tsunami Landscape",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tracy-arm%E2%80%99s-post-tsunami-landscape/alaskalandslide_oli_20250726.jpg",
+    "news_site": "NASA",
+    "summary": "A landslide-triggered tsunami stripped vegetation from the shore of the glacial fjord in summer 2025.",
+    "published_at": "2026-05-08T04:00:00Z",
+    "updated_at": "2026-05-08T04:10:11.443340Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37822,
     "title": "Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research",
     "authors": [
@@ -952,25 +972,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity. Ireland, a longstanding member of ESA (European Space Agency) and a valued international partner for NASA, now joins all 23 ESA member states as a signatory of […]"
-  },
-  {
-    "id": 37775,
-    "title": "NASA Fosters Development of Lunar Resource-Seeking Technologies",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/",
-    "image_url": "https://images-assets.nasa.gov/image/art002e009287/art002e009287~large.jpg",
-    "news_site": "NASA",
-    "summary": "To support long-duration missions to the Moon and Mars, NASA and industry are developing technologies that can extract resources such as hydrogen and helium-3 from lunar soil, known as regolith. This capability, known as in-situ resource utilization (ISRU), allows explorers to use what is already available on other planetary bodies, from water ice to minerals. […]",
-    "published_at": "2026-05-04T20:32:47Z",
-    "updated_at": "2026-05-04T20:40:09.442233Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
