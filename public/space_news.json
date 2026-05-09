@@ -720,26 +720,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37802,
-    "title": "test article",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/pandora-missions/test-article-2/",
-    "image_url": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/article-hero-header/article-c-example-01.jpg",
-    "news_site": "NASA",
-    "summary": "this is a test page",
-    "published_at": "2026-05-06T19:25:26Z",
-    "updated_at": "2026-05-06T19:30:14.894903Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37801,
     "title": "NASA Wallops to Host Public Information Session May 13",
     "authors": [
@@ -820,24 +800,24 @@
     "detailed_news": "A new “X-ray dot” found by NASA’s Chandra X-ray Observatory – which could look like this artist’s illustration released on April 28, 2026 – could explain what the hundreds or potentially thousands of these objects are. Shortly after NASA’s James Webb Space Telescope started its science observations, reports of a new class of mysterious objects […]"
   },
   {
-    "id": 37797,
-    "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night",
+    "id": 37839,
+    "title": "LiveEO Secures €28 Million to Accelerate Push into Defence Applications",
     "authors": [
       {
-        "name": "NASA",
+        "name": "European Spaceflight",
         "socials": null
       }
     ],
-    "url": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/grc-2025-c-05348-1.jpg",
-    "news_site": "NASA",
-    "summary": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.  Gaining a deeper understanding of how […]",
-    "published_at": "2026-05-06T14:00:00Z",
-    "updated_at": "2026-05-06T14:00:20.337051Z",
+    "url": "https://europeanspaceflight.com/liveeo-secures-e28-million-to-accelerate-push-into-defence-applications/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/LiveEO-Secures-E28-Million-to-Accelerate-Push-into-Defence-Applications.webp",
+    "news_site": "European Spaceflight",
+    "summary": "German Earth observation data provider LiveEO has closed a €28 million funding round. The company plans to use the funding to accelerate its expansion into dual-use defence and security services, as it positions itself to compete for a share of Germany’s planned €35 billion in spending on space-related defence projects. Founded in 2018, the Berlin-based […]\nThe post LiveEO Secures €28 Million to Accelerate Push into Defence Applications appeared first on European Spaceflight.",
+    "published_at": "2026-05-06T14:33:29Z",
+    "updated_at": "2026-05-09T02:50:19.695656Z",
     "featured": false,
     "launches": [],
     "events": [],
-    "detailed_news": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.  Gaining a deeper understanding of how […]"
+    "detailed_news": ""
   },
   {
     "id": 37796,
@@ -858,6 +838,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy and Astrophysics suggests NASA’s upcoming Nancy Grace Roman Space Telescope could spot them anyway. Using detailed simulations of […]"
+  },
+  {
+    "id": 37797,
+    "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/08/grc-2025-c-05348-1.jpg",
+    "news_site": "NASA",
+    "summary": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.  Gaining a deeper understanding of how […]",
+    "published_at": "2026-05-06T14:00:00Z",
+    "updated_at": "2026-05-06T14:00:20.337051Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.  Gaining a deeper understanding of how […]"
   },
   {
     "id": 37795,
