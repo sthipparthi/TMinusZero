@@ -1,6 +1,6 @@
 {
-  "count": 14,
-  "last_updated": "2026-05-10T18:14:33.304871Z",
+  "count": 13,
+  "last_updated": "2026-05-11T00:18:37.774142Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (14 failed/unavailable)"
+    "Empty AI summaries (13 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "a5872822-76df-404b-93d0-9ecd7ba80a70",
-      "name": "Long March 7 | Tianzhou-10",
-      "status": "Go",
-      "net": "2026-05-11T00:14:00Z",
-      "window_start": "2026-05-11T00:05:00Z",
-      "window_end": "2026-05-11T00:29:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Tianzhou-10",
-      "mission_description": "Ninth cargo delivery mission to the Chinese space station.",
-      "mission_type": "Resupply",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "201, Wenchang Space Launch Site, People's Republic of China",
-      "pad": "201",
-      "location": "Wenchang Space Launch Site, People's Republic of China",
-      "rocket": "Long March 7",
-      "rocket_config_description": "The Long March 7 is a Chinese liquid-fuelled launch vehicle of the Long March family, developed by the China Aerospace Science and Technology Corporation (CAST). It made its inaugural flight on 25 June 2016 and is used to launch Tianzhou resupply spacecraft to the Chinese Space Station.",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 7",
-      "rocket_config_total_launch_count": 9,
-      "rocket_config_successful_launches": 9,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 587,
-      "rocket_manufacturer_successful_launches": 572,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7_image_20210513083007.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/a5872822-76df-404b-93d0-9ecd7ba80a70/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "24f0b5b1-f573-4cc9-8898-1eb7fd5cc0f2",
       "name": "Falcon 9 Block 5 | NROL-172",
@@ -640,7 +599,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 14,
-    "total_launches": 14
+    "empty_summaries": 13,
+    "total_launches": 13
   }
 }
