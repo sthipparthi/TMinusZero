@@ -280,6 +280,31 @@
     "detailed_news": ""
   },
   {
+    "id": 37843,
+    "title": "ESA Begins Developing Replacements for NASA’s Contributions to LISA",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-begins-developing-replacements-for-nasas-contributions-to-lisa/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/ESA-Begins-Developing-Replacements-for-NASAs-Contributions-to-LISA.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency has begun mitigation efforts for key elements of its LISA mission after a White House budget proposal sought, for the second year running, to eliminate most of NASA’s planned support. One of these mitigation efforts was formalised on 5 May, when ESA awarded a €26.1 million contract to Thales Alenia Space […]\r\nThe post ESA Begins Developing Replacements for NASA’s Contributions to LISA appeared first on European Spaceflight.",
+    "published_at": "2026-05-08T09:55:35Z",
+    "updated_at": "2026-05-11T08:26:01.139165Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "7bc92e2c-0faa-4b4f-ad11-c18252a1332c",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37825,
     "title": "Earth from Space: Greenland's changing ice",
     "authors": [
@@ -534,6 +559,26 @@
     "summary": "Through NASA, a university-designed small spacecraft is paving the way to studying particles, known as neutrinos, that move through the universe at near-light speeds. The Solar Neutrino Astro-Particle PhYsics CubeSat, known as SNAPPY, launched at 12 a.m. PDT on Sunday aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space […]",
     "published_at": "2026-05-07T14:44:59Z",
     "updated_at": "2026-05-07T14:50:08.882221Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37844,
+    "title": "The Exploration Company Fires Up Rocket Engine for Moon Lander",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/the-exploration-company-fires-up-rocket-engine-for-moon-lander/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/The-Exploration-Company-Fires-Up-Rocket-Engine-for-Moon-Lander.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The Exploration Company has successfully test fired a prototype of its 15 kN Huracan rocket engine. The engine is designed to enable the company’s future lunar vehicles to land on the surface of the Moon and to be restarted for ascent and orbital rendezvous. While The Exploration Company is currently focused on delivering its Nyx […]\r\nThe post The Exploration Company Fires Up Rocket Engine for Moon Lander appeared first on European Spaceflight.",
+    "published_at": "2026-05-07T14:28:46Z",
+    "updated_at": "2026-05-11T08:26:08.724104Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -925,46 +970,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37793,
-    "title": "ESA and DON’T NOD team up on a journey to the planet Persephone in Aphelion",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_DON_T_NOD_team_up_on_a_journey_to_the_planet_Persephone_in_Aphelion",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/in-game_image_from_aphelion_by_don_t_nod/27261970-1-eng-GB/In-game_image_from_Aphelion_by_DON_T_NOD_card_full.png",
-    "news_site": "ESA",
-    "summary": "The European Space Agency (ESA) has partnered with French video game studio DON’T NOD Entertainment on the development of Aphelion, a narrative science‑fiction game inspired by space exploration and scientic expertise.",
-    "published_at": "2026-05-06T08:00:00Z",
-    "updated_at": "2026-05-06T08:10:17.853293Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37792,
-    "title": "Melting Snow Off Shivelyuch",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/melting-snow-off-shivelyuch/shiveluchwide_oli2_20260423.jpg",
-    "news_site": "NASA",
-    "summary": "Near-constant activity continues on the volcano in Russia.",
-    "published_at": "2026-05-06T04:01:00Z",
-    "updated_at": "2026-05-06T04:10:16.661122Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
