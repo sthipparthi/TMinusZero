@@ -1,5 +1,50 @@
 [
   {
+    "id": 37858,
+    "title": "Live coverage: NASA, SpaceX to launch 34th Cargo Dragon mission to the space station",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/05/12/live-coverage-nasa-spacex-to-launch-34th-cargo-dragon-mission-to-the-space-station/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260511_CRS-34_pad-2.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "SpaceX’s 34th mission as part of the Commercial Resupply Services 2 contract with NASA will deliver 6,500 pounds of science and supplies to the International Space Station. Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 7:16 p.m. EDT (2316 UTC). ",
+    "published_at": "2026-05-12T12:20:19Z",
+    "updated_at": "2026-05-12T12:30:26.674350Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37857,
+    "title": "Smile's journey from launch to orbit",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_s_journey_from_launch_to_orbit",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/04/smile_s_journey_from_launch_to_orbit/27167788-1-eng-GB/Smile_s_journey_from_launch_to_orbit_card_full.png",
+    "news_site": "ESA",
+    "summary": "Our next space science mission is about to begin its space adventure.",
+    "published_at": "2026-05-12T08:00:00Z",
+    "updated_at": "2026-05-12T11:40:46.147296Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37856,
     "title": "Australia’s Cloudy Beauty",
     "authors": [
@@ -933,46 +978,6 @@
     "summary": "The European Space Agency (ESA) is using Extended Reality (XR) to support training, enhance operations, improve simulation environments, and to bring the wonders of space to the public.",
     "published_at": "2026-05-07T08:45:00Z",
     "updated_at": "2026-05-07T09:00:29.113780Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37806,
-    "title": "A beacon of light in swirls of dust",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/A_beacon_of_light_in_swirls_of_dust",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/a_beacon_of_light_in_swirls_of_dust/27263088-1-eng-GB/A_beacon_of_light_in_swirls_of_dust_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77 (M77), a barred spiral galaxy famous among astronomers for its combination of relative proximity and spectacular features to study. It is located 45 million light-years away in the constellation Cetus (The Whale). This new image from Webb’s Mid-Infrared Instrument (MIRI) highlights its swirling spiral arms, the dust in its disc and its piercingly bright core like never before.",
-    "published_at": "2026-05-07T08:00:00Z",
-    "updated_at": "2026-05-07T08:10:18.494972Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37807,
-    "title": "Sensitive and sturdy",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Sensitive_and_sturdy",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/sensitive_and_sturdy/27265853-1-eng-GB/Sensitive_and_sturdy_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-05-07T07:43:00Z",
-    "updated_at": "2026-05-07T08:20:17.691776Z",
     "featured": false,
     "launches": [],
     "events": [],
