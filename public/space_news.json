@@ -1,5 +1,45 @@
 [
   {
+    "id": 37870,
+    "title": "America’s Emerald Isle",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/america%E2%80%99s-emerald-isle/beaverisland_oli2_20240802.jpg",
+    "news_site": "NASA",
+    "summary": "Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.",
+    "published_at": "2026-05-13T04:00:00Z",
+    "updated_at": "2026-05-13T04:10:13.054599Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37869,
+    "title": "CBO Estimates Golden Dome at $1.2 Trillion, Space-Based Interceptors Biggest Cost",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/cbo-estimates-golden-dome-at-1-2-trillion-space-based-interceptors-biggest-cost/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/CBO-Golden-Dome-cost-table-May-2026-300x172.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The Congressional Budget Office issued an updated estimate today of the cost of President Trump’s Golden Dome missile defense system. Lacking detailed data from the Administration, CBO based its analysis […]",
+    "published_at": "2026-05-13T01:40:15Z",
+    "updated_at": "2026-05-13T01:40:21.513003Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37868,
     "title": "SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2",
     "authors": [
@@ -938,46 +978,6 @@
     "summary": "Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds inside the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. Data from the tests indicate that the rotors could surpass the sound barrier without breaking apart. The […]",
     "published_at": "2026-05-07T18:33:32Z",
     "updated_at": "2026-05-07T19:10:13.259742Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37818,
-    "title": "NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26648/PIA26648.jpg",
-    "news_site": "NASA",
-    "summary": "Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025. The three-bladed rotor hanging horizontally in the foreground is the next-gen rotor being tested. The vertically aligned two-bladed rotor provided a “headwind,” enabling […]",
-    "published_at": "2026-05-07T18:32:37Z",
-    "updated_at": "2026-05-07T19:10:13.359055Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37815,
-    "title": "NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/1-pia26648-superrotor2-crop.jpg",
-    "news_site": "NASA",
-    "summary": "The rotor blades that will carry NASA’s next-generation helicopters to new Martian heights broke the sound barrier during March tests at NASA’s Jet Propulsion Laboratory in Southern California. Data from the tests, which took place in a special chamber that can simulate environmental conditions on the Red Planet, indicate that the fastest traveling part of […]",
-    "published_at": "2026-05-07T18:28:59Z",
-    "updated_at": "2026-05-07T18:30:11.672127Z",
     "featured": false,
     "launches": [],
     "events": [],
