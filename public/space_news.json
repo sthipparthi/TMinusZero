@@ -1,5 +1,65 @@
 [
   {
+    "id": 37880,
+    "title": "NASA-Supported Space Tech Advances Earthly Construction",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/lunar-habitat-e1778695522319.png",
+    "news_site": "NASA",
+    "summary": "An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.  Instead of building structures layer by layer, Branch Technology Inc. of Chattanooga, Tennessee, has developed a process the company calls Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture […]",
+    "published_at": "2026-05-13T19:47:08Z",
+    "updated_at": "2026-05-13T19:50:14.036141Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37879,
+    "title": "Rise Goes to Washington",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/rise-goes-to-washington/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg",
+    "news_site": "NASA",
+    "summary": "“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day […]",
+    "published_at": "2026-05-13T19:17:12Z",
+    "updated_at": "2026-05-13T19:20:06.321915Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37878,
+    "title": "NASA provides some details about Artemis III, but hard decisions remain",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55193180468_5de0cf977a_o.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"NASA also is defining the concept of operations for the mission.\"",
+    "published_at": "2026-05-13T18:37:29Z",
+    "updated_at": "2026-05-13T18:50:09.710415Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37877,
     "title": "SpaceX’s new Starship pad readies for first launch",
     "authors": [
@@ -54,6 +114,26 @@
     "summary": "Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases. In space, bacteria […]",
     "published_at": "2026-05-13T14:45:00Z",
     "updated_at": "2026-05-13T14:50:15.355289Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37881,
+    "title": "Thales Alenia Space Ship ExoMars Structural Models to France for Testing",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/thales-alenia-space-ship-exomars-structural-models-to-france-for-testing/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/ExoMars-Structural-Models-Shipped-to-France-for-Testing.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Thales Alenia Space has shipped the structural models for ESA’s ExoMars mission to its facility in Cannes for vibration and acoustic testing. In April 2024, ESA awarded a Thales Alenia Space-led consortium a €522 million contract for the revised ExoMars mission. The company is working towards a 2028 launch window, with the mission slated to […]\nThe post Thales Alenia Space Ship ExoMars Structural Models to France for Testing appeared first on European Spaceflight.",
+    "published_at": "2026-05-13T14:16:22Z",
+    "updated_at": "2026-05-13T20:50:10.562073Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -430,6 +510,26 @@
     "detailed_news": ""
   },
   {
+    "id": 37882,
+    "title": "OHB Joins Dassault Aviation’s VORTEX Spaceplane Initiative",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/ohb-joins-dassault-aviations-vortex-spaceplane-initiative/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/OHB-Joins-Dassault-Aviations-VORTEX-Spaceplane-Initiative.webp",
+    "news_site": "European Spaceflight",
+    "summary": "German space technology company OHB has agreed to develop the service module for Dassault Aviation’s VORTEX-S spaceplane, which the companies plan to pitch to the European Space Agency (ESA). During the Paris Air Show in June 2025, Dassault Aviation revealed plans for its VORTEX spaceplane, short for Véhicule Orbital Réutilisable de Transport et d’Exploration (Reusable […]\nThe post OHB Joins Dassault Aviation’s VORTEX Spaceplane Initiative appeared first on European Spaceflight.",
+    "published_at": "2026-05-12T07:01:29Z",
+    "updated_at": "2026-05-13T20:50:10.574669Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37856,
     "title": "Australia’s Cloudy Beauty",
     "authors": [
@@ -684,6 +784,26 @@
     "detailed_news": ""
   },
   {
+    "id": 37883,
+    "title": "Italy Completes Air-Launched Rocket Demonstrator Test",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/italy-completes-air-launched-rocket-demonstrator-test/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/Italy-Completes-Air-Launched-Rocket-Demonstrator-Test.webp",
+    "news_site": "European Spaceflight",
+    "summary": "An Italian consortium has successfully completed a suborbital demonstration of an air-launched rocket system. The project, which utilised a Dornier Alpha Jet aircraft and T4i’s HAX25 sounding rocket equipped with avionics supplied by GMV, was initiated to support Italy’s push to develop a more responsive launch capability. The Aviolancio programme, which translates roughly to “air […]\nThe post Italy Completes Air-Launched Rocket Demonstrator Test appeared first on European Spaceflight.",
+    "published_at": "2026-05-11T10:23:27Z",
+    "updated_at": "2026-05-13T20:50:10.586777Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37842,
     "title": "What’s Happening in Space Policy May 9-16, 2026",
     "authors": [
@@ -860,131 +980,6 @@
     "updated_at": "2026-05-08T15:30:10.457234Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37830,
-    "title": "NASA Names Brian Hughes to Launch Operations Role",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202506250014.jpg",
-    "news_site": "NASA",
-    "summary": "NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center in Florida. In this role, Hughes will provide enterprise-level leadership, strategic direction, and operational oversight for NASA’s launch infrastructure. Reporting to NASA Headquarters in Washington, Hughes will have direct responsibility for […]",
-    "published_at": "2026-05-08T14:00:15Z",
-    "updated_at": "2026-05-08T14:10:11.518602Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37828,
-    "title": "NASA Fuel Cell Tests Pave Way for Energy Storage on Moon",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/grc-2026-c-00617.jpg",
-    "news_site": "NASA",
-    "summary": "With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 […]",
-    "published_at": "2026-05-08T14:00:00Z",
-    "updated_at": "2026-05-08T14:00:17.589886Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37829,
-    "title": "The US military just released a bunch of UAP files, but there's no there there",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/05/the-us-military-just-released-a-bunch-of-uap-files-but-theres-no-there-there/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/2024-04-30-composite-sketch.jpg",
-    "news_site": "Arstechnica",
-    "summary": "Here at Ars Technica, we do not preclude the possibility that aliens have visited Earth.",
-    "published_at": "2026-05-08T13:59:54Z",
-    "updated_at": "2026-05-08T14:10:09.712545Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37827,
-    "title": "Week in images: 04-08 May 2026",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_May_2026",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/new_dawn_new_possibilities_16_times_a_day/27260617-1-eng-GB/New_dawn_new_possibilities_16_times_a_day_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 04-08 May 2026",
-    "published_at": "2026-05-08T13:07:00Z",
-    "updated_at": "2026-05-08T13:20:12.196784Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37826,
-    "title": "Rocket Report: Flying past peak Falcon 9; Rocket Lab revenue soars",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/starship-full.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"The deciding factor was what we felt like was the team’s impact to humanity.\"",
-    "published_at": "2026-05-08T11:00:55Z",
-    "updated_at": "2026-05-08T11:10:07.438971Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37843,
-    "title": "ESA Begins Developing Replacements for NASA’s Contributions to LISA",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-begins-developing-replacements-for-nasas-contributions-to-lisa/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/ESA-Begins-Developing-Replacements-for-NASAs-Contributions-to-LISA.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency has begun mitigation efforts for key elements of its LISA mission after a White House budget proposal sought, for the second year running, to eliminate most of NASA’s planned support. One of these mitigation efforts was formalised on 5 May, when ESA awarded a €26.1 million contract to Thales Alenia Space […]\r\nThe post ESA Begins Developing Replacements for NASA’s Contributions to LISA appeared first on European Spaceflight.",
-    "published_at": "2026-05-08T09:55:35Z",
-    "updated_at": "2026-05-11T08:26:01.139165Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "7bc92e2c-0faa-4b4f-ad11-c18252a1332c",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
