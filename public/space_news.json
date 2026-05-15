@@ -1,5 +1,105 @@
 [
   {
+    "id": 37902,
+    "title": "Live Coverage: SpaceX makes another attempt to launch space station cargo mission",
+    "authors": [
+      {
+        "name": "Spaceflight Now",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260511_CRS-34_pad-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff of the resupply mission, atop a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station is scheduled for 6:05 p.m. EDT (2205 UTC). The Cargo Dragon is loaded with 6,500 pounds of science and supplies for the space station. ",
+    "published_at": "2026-05-15T17:36:05Z",
+    "updated_at": "2026-05-15T17:40:19.397528Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37899,
+    "title": "Flight 12 readies for the debut SpaceX’s next Ship evolution",
+    "authors": [
+      {
+        "name": "Ryan Weber",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/2Q5A8534-wmarked-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Starship’s second stage has evolved through numerous iterations since the early test flights of SN8…\nThe post Flight 12 readies for the debut SpaceX’s next Ship evolution appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-05-15T16:53:49Z",
+    "updated_at": "2026-05-15T17:00:31.463123Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37898,
+    "title": "Curiosity Shakes Loose a Pesky Rock",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/pia26724.png",
+    "news_site": "NASA",
+    "summary": "After NASA’s Curiosity Mars rover drilled a sample from this rock on April 25, 2026, it withdrew its robotic arm and pulled the entire rock off the surface with it. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose. When it finally detached on May 1, […]",
+    "published_at": "2026-05-15T14:45:52Z",
+    "updated_at": "2026-05-15T14:50:15.753708Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37897,
+    "title": "Preparing Smile for space",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/Preparing_Smile_for_space",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/05/preparing_smile_for_space/27276878-1-eng-GB/Preparing_Smile_for_space_card_full.png",
+    "news_site": "ESA",
+    "summary": "Before Smile can begin studying how Earth responds to the streams of particles and bursts of radiation from the Sun, the spacecraft had to complete an extraordinary journey here on Earth.",
+    "published_at": "2026-05-15T14:00:00Z",
+    "updated_at": "2026-05-15T14:10:22.675011Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37896,
+    "title": "Week in images: 11-15 May 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_May_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/earth_from_space_quito_s_volcanic_landscape/27276804-1-eng-GB/Earth_from_Space_Quito_s_volcanic_landscape_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Week in images: 11-15 May 2026",
+    "published_at": "2026-05-15T13:10:00Z",
+    "updated_at": "2026-05-15T13:50:19.536364Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37895,
     "title": "Hubble Sights Galaxy in Transition",
     "authors": [
@@ -34,6 +134,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-05-15T08:00:00Z",
     "updated_at": "2026-05-15T08:30:21.682633Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37900,
+    "title": "OHB Space UK to Begin Work on ESA EnVision Venus Explorer Mission",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/ohb-space-uk-to-begin-work-on-esa-envision-venus-explorer-mission/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/OHB-Space-UK-to-Begin-Work-on-ESA-EnVision-Venus-Explorer-Mission.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Germany’s OHB has signed an agreement with Thales Alenia Space for the assembly, integration, and testing of the European Space Agency’s EnVision spacecraft. The development of the EnVision mission is being led by Thales Alenia Space under a €367 million contract awarded to the company in February 2025. With EnVision, ESA hopes to capture a […]\nThe post OHB Space UK to Begin Work on ESA EnVision Venus Explorer Mission appeared first on European Spaceflight.",
+    "published_at": "2026-05-15T07:55:28Z",
+    "updated_at": "2026-05-15T17:40:11.431662Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -194,6 +314,26 @@
     "summary": "NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo. Northrop Grumman’s Cygnus XL cargo spacecraft delivered a shipment of fresh food, including oranges, apples, onions, and […]",
     "published_at": "2026-05-14T14:55:08Z",
     "updated_at": "2026-05-14T15:00:16.584377Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37901,
+    "title": "ESA Opens €16 Million Call for Suborbital Launch Campaign",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-opens-e16-million-call-for-suborbital-launch-campaign/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/ESA-Opens-E16-Million-Call-for-Suborbital-Launch-Campaign.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency has opened a call for the design, development, manufacture, launch, and recovery of five scientific experiments aboard one or more sounding rockets in 2027 or 2028. The call has a maximum budget of €16 million. Initially announced in March and opened for proposals on 13 May, the call covers five experiments […]\nThe post ESA Opens €16 Million Call for Suborbital Launch Campaign appeared first on European Spaceflight.",
+    "published_at": "2026-05-14T09:23:10Z",
+    "updated_at": "2026-05-15T17:40:11.450921Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -826,155 +966,6 @@
     "updated_at": "2026-05-12T01:10:09.773742Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37853,
-    "title": "May 2026 Satellite Puzzler",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg",
-    "news_site": "NASA",
-    "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-    "published_at": "2026-05-11T22:11:35Z",
-    "updated_at": "2026-05-11T23:10:12.283092Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37852,
-    "title": "Launch Preview: SpaceX and Chinese missions fill busy launch manifest",
-    "authors": [
-      {
-        "name": "Haygen Warren",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/05/launch-preview-051126/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/IMG_2706.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "The week of May 11 brings nine launches across the United States and China, spanning…\nThe post Launch Preview: SpaceX and Chinese missions fill busy launch manifest appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-05-11T22:05:00Z",
-    "updated_at": "2026-05-11T22:10:16.234343Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37851,
-    "title": "Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-4.jpg",
-    "news_site": "NASA",
-    "summary": "Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) […]",
-    "published_at": "2026-05-11T20:51:53Z",
-    "updated_at": "2026-05-11T21:00:23.815663Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37850,
-    "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The NROL-72 mission will be the 13th to date supporting what the NRO calls its “proliferated architecture” satellite constellation. Liftoff of SpaceX’s Falcon 9 rocket from pad 4E at Vandenberg Space Force Base is scheduled for 7:13:50 p.m. PDT (10:13:50 p.m. EDT / 0213:50 UTC). ",
-    "published_at": "2026-05-11T19:50:46Z",
-    "updated_at": "2026-05-11T20:00:44.532456Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37849,
-    "title": "NASA Invites Media to Annual Lunabotics Robotics Competition",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/",
-    "image_url": "https://images-assets.nasa.gov/image/KSC-20220524-PH-KLS01_0086/KSC-20220524-PH-KLS01_0086~large.jpg",
-    "news_site": "NASA",
-    "summary": "NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center Visitor Complex in Florida.   Links to view the Lunabotics competition live can be found on the agency’s Lunabotics page. The competition is slated to run between 8 a.m. and 6 p.m. each day.    Media are invited to attend the […]",
-    "published_at": "2026-05-11T19:11:57Z",
-    "updated_at": "2026-05-11T19:20:17.616882Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37848,
-    "title": "Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/05/optical-guidelines-cover.jpg",
-    "news_site": "NASA",
-    "summary": "The Optical Guidelines document provides standardized, transparent, and repeatable process for assessing the quality of optical data from commercial Earth Observation missions.",
-    "published_at": "2026-05-11T18:34:33Z",
-    "updated_at": "2026-05-11T19:10:06.259259Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37847,
-    "title": "Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/05/STScI-01KQZBQ6A6G5BMNZAYZ8CZ6TYB.png",
-    "news_site": "NASA",
-    "summary": "The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and space-based telescopes, including NASA’s Hubble and James Webb space telescopes. Soon, NASA’s Nancy Grace Roman Space Telescope will be the […]",
-    "published_at": "2026-05-11T14:00:39Z",
-    "updated_at": "2026-05-11T14:31:10.580346Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "521f3a1c-f977-4306-9b7f-495858719adf",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
