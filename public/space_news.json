@@ -1,5 +1,65 @@
 [
   {
+    "id": 37895,
+    "title": "Hubble Sights Galaxy in Transition",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/lenticular/Hubble_NGC1266_2_4F_flat_FINAL_crop2.tif",
+    "news_site": "NASA",
+    "summary": "This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer […]",
+    "published_at": "2026-05-15T12:01:37Z",
+    "updated_at": "2026-05-15T12:10:17.096616Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37894,
+    "title": "Earth from Space: Quito’s volcanic landscape",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Quito_s_volcanic_landscape",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/earth_from_space_quito_s_volcanic_landscape/27276804-1-eng-GB/Earth_from_Space_Quito_s_volcanic_landscape_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-05-15T08:00:00Z",
+    "updated_at": "2026-05-15T08:30:21.682633Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37893,
+    "title": "A Lyrid meteor from orbit",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/A_Lyrid_meteor_from_orbit",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/a_lyrid_meteor_from_orbit/27277162-1-eng-GB/A_Lyrid_meteor_from_orbit_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The Expedition 74 crew on the International Space Station turned into meteor chasers as Earth passed through a cloud of dust and small debris left behind by comet Thatcher in 1861.  ",
+    "published_at": "2026-05-15T07:06:00Z",
+    "updated_at": "2026-05-15T07:20:10.286554Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37892,
     "title": "Picturing Earth in a New Light",
     "authors": [
@@ -915,71 +975,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37846,
-    "title": "NASA Astronaut Jessica Meir",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/jsc2025e078652-altorig.jpg",
-    "news_site": "NASA",
-    "summary": "NASA Astronaut Jessica Meir sits for a portrait at NASA’s Johnson Space Center in Houston on Sept. 23, 2025. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists. Meir launched on NASA’s SpaceX Crew-12 mission to the International Space Station in February 2026 with fellow NASA astronaut Jack Hathaway, […]",
-    "published_at": "2026-05-11T13:58:09Z",
-    "updated_at": "2026-05-11T14:02:33.123289Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37845,
-    "title": "With Skyroot at the head of the class, India's private space industry seeks to take off",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1449559103.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"We wanted to get to an orbital launch vehicle in a few years.\"",
-    "published_at": "2026-05-11T13:53:24Z",
-    "updated_at": "2026-05-11T14:03:08.645424Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "10fa7952-f00b-4292-80a2-4207e208844e",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37883,
-    "title": "Italy Completes Air-Launched Rocket Demonstrator Test",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/italy-completes-air-launched-rocket-demonstrator-test/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/Italy-Completes-Air-Launched-Rocket-Demonstrator-Test.webp",
-    "news_site": "European Spaceflight",
-    "summary": "An Italian consortium has successfully completed a suborbital demonstration of an air-launched rocket system. The project, which utilised a Dornier Alpha Jet aircraft and T4i’s HAX25 sounding rocket equipped with avionics supplied by GMV, was initiated to support Italy’s push to develop a more responsive launch capability. The Aviolancio programme, which translates roughly to “air […]\nThe post Italy Completes Air-Launched Rocket Demonstrator Test appeared first on European Spaceflight.",
-    "published_at": "2026-05-11T10:23:27Z",
-    "updated_at": "2026-05-13T20:50:10.586777Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
