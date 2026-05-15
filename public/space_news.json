@@ -1,5 +1,45 @@
 [
   {
+    "id": 37892,
+    "title": "Picturing Earth in a New Light",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/picturing-earth-in-a-new-light/nightlights_global_20142022.jpg",
+    "news_site": "NASA",
+    "summary": "A recent analysis revealed where artificial light at night has intensified, as well as where it has diminished.",
+    "published_at": "2026-05-15T04:00:00Z",
+    "updated_at": "2026-05-15T04:10:11.767799Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37891,
+    "title": "Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026",
+    "authors": [
+      {
+        "name": "Sean Yoder",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/05/rocket-lab-q1-2026/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/07/HASTE-electron.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Rocket Lab opened 2026 by breaking every record it set in 2025. The company signed…\nThe post Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026 appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-05-15T00:24:31Z",
+    "updated_at": "2026-05-15T00:30:16.708272Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37890,
     "title": "ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues",
     "authors": [
@@ -938,46 +978,6 @@
     "summary": "An Italian consortium has successfully completed a suborbital demonstration of an air-launched rocket system. The project, which utilised a Dornier Alpha Jet aircraft and T4i’s HAX25 sounding rocket equipped with avionics supplied by GMV, was initiated to support Italy’s push to develop a more responsive launch capability. The Aviolancio programme, which translates roughly to “air […]\nThe post Italy Completes Air-Launched Rocket Demonstrator Test appeared first on European Spaceflight.",
     "published_at": "2026-05-11T10:23:27Z",
     "updated_at": "2026-05-13T20:50:10.586777Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37842,
-    "title": "What’s Happening in Space Policy May 9-16, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-9-16-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Cargo-Dragon-dock-Aug-25-25-Mali-300x200.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of May 9-16, 2026 and any insight we can offer about them. The House and Senate are in session […]",
-    "published_at": "2026-05-10T19:39:24Z",
-    "updated_at": "2026-05-10T19:40:19.354682Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37838,
-    "title": "Rescue mission for NASA’s $500 million space telescope passes key testing milestone",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260508-Testing-Link-Vibration-tests-2.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "Katalyst Space Technologies’ Link spacecraft is set to head to orbit in June 2026 onboard Northrop Grumman’s Pegasus XL air-launched rocket. NASA awarded Katalyst a $30 million contract for the mission in September 2025. ",
-    "published_at": "2026-05-08T23:19:34Z",
-    "updated_at": "2026-05-08T23:20:29.798903Z",
     "featured": false,
     "launches": [],
     "events": [],
