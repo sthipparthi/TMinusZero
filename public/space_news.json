@@ -1,5 +1,50 @@
 [
   {
+    "id": 37908,
+    "title": "The US space enterprise is desperately waiting for Starship—will it finally deliver?",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/starship-v3.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"This is such a wild ride. The highs are high. The lows are low.\"",
+    "published_at": "2026-05-18T11:00:20Z",
+    "updated_at": "2026-05-18T11:10:07.761355Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37907,
+    "title": "Landing sideways",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/Landing_sideways",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/05/landing_sideways/27277002-1-eng-GB/Landing_sideways_card_full.png",
+    "news_site": "ESA",
+    "summary": "A large boulder, a treacherous crater or a gust of wind could jeopardise a smooth landing on Mars. Before the ExoMars Rosalind Franklin rover mission launches for the Red Planet in 2028, a replica of the landing platform went through worst-case touchdown conditions – and survived.",
+    "published_at": "2026-05-18T07:30:00Z",
+    "updated_at": "2026-05-18T08:12:16.796413Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37906,
     "title": "What’s Happening in Space Policy May 17-23, 2026",
     "authors": [
@@ -921,51 +966,6 @@
     "updated_at": "2026-05-12T12:30:26.674350Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37861,
-    "title": "New Ultra-Black Coating Could Enable the Search for Life on Exoplanets",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-ultra-black-coating-could-enable-the-search-for-life-on-exoplanets/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/starshade.jpg",
-    "news_site": "NASA",
-    "summary": "A recently developed ultra-black coating not only efficiently absorbs light, but is also extremely thin and durable, enabling its potential use on starshades that could someday support the imaging of exoplanets and potentially facilitate the detection of life beyond our solar system.",
-    "published_at": "2026-05-12T12:00:00Z",
-    "updated_at": "2026-05-12T15:10:17.226395Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37857,
-    "title": "Smile's journey from launch to orbit",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_s_journey_from_launch_to_orbit",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/04/smile_s_journey_from_launch_to_orbit/27167788-1-eng-GB/Smile_s_journey_from_launch_to_orbit_card_full.png",
-    "news_site": "ESA",
-    "summary": "Our next space science mission is about to begin its space adventure.",
-    "published_at": "2026-05-12T08:00:00Z",
-    "updated_at": "2026-05-12T11:40:46.147296Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
