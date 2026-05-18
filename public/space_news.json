@@ -1,5 +1,45 @@
 [
   {
+    "id": 37906,
+    "title": "What’s Happening in Space Policy May 17-23, 2026",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-17-23-2026/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/starship-may-20-300x144.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacepolicyOnline.com’s list of space policy events for the week of May 17-23, 2026 and any insight we can offer about them. The House and Senate are in session […]",
+    "published_at": "2026-05-17T22:05:31Z",
+    "updated_at": "2026-05-17T22:10:20.187930Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37905,
+    "title": "CRS-34 Takes Flight",
+    "authors": [
+      {
+        "name": "Beverly Casillas",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2026/05/crs-34-takes-flight/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/05/launch-cameron.jpg",
+    "news_site": "Space Scout",
+    "summary": "SpaceX’s 34th cargo resupply mission to the International Space Station for NASA is underway, carrying 6,500 pounds of cargo to support the Expedition 74 crew.",
+    "published_at": "2026-05-17T18:49:15Z",
+    "updated_at": "2026-05-17T18:50:16.298837Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37904,
     "title": "Artemis III deep into processing and planning for key HLS test",
     "authors": [
@@ -926,46 +966,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37882,
-    "title": "OHB Joins Dassault Aviation’s VORTEX Spaceplane Initiative",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/ohb-joins-dassault-aviations-vortex-spaceplane-initiative/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/OHB-Joins-Dassault-Aviations-VORTEX-Spaceplane-Initiative.webp",
-    "news_site": "European Spaceflight",
-    "summary": "German space technology company OHB has agreed to develop the service module for Dassault Aviation’s VORTEX-S spaceplane, which the companies plan to pitch to the European Space Agency (ESA). During the Paris Air Show in June 2025, Dassault Aviation revealed plans for its VORTEX spaceplane, short for Véhicule Orbital Réutilisable de Transport et d’Exploration (Reusable […]\nThe post OHB Joins Dassault Aviation’s VORTEX Spaceplane Initiative appeared first on European Spaceflight.",
-    "published_at": "2026-05-12T07:01:29Z",
-    "updated_at": "2026-05-13T20:50:10.574669Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37856,
-    "title": "Australia’s Cloudy Beauty",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511.jpg",
-    "news_site": "NASA",
-    "summary": "Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.",
-    "published_at": "2026-05-12T04:01:00Z",
-    "updated_at": "2026-05-12T04:10:11.594803Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
