@@ -1,5 +1,30 @@
 [
   {
+    "id": 37923,
+    "title": "Smile launch highlights",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/Smile_launch_highlights",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/05/smile_launch_highlights/27281512-1-eng-GB/Smile_launch_highlights_card_full.png",
+    "news_site": "ESA",
+    "summary": "ESA’s Smile satellite launched aboard a Vega-C rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on at 04:52 BST / 05:52 CEST (00:52 local time) on 19 May 2026.",
+    "published_at": "2026-05-19T08:00:00Z",
+    "updated_at": "2026-05-19T08:29:08.880956Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37922,
     "title": "Smile lifts off on quest to reveal Earth’s invisible shield against the solar wind",
     "authors": [
@@ -939,26 +964,6 @@
     "summary": "NASA’s TESS has released its most complete view of the starry sky to date",
     "published_at": "2026-05-13T14:15:23Z",
     "updated_at": "2026-05-13T15:10:17.080640Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37872,
-    "title": "Varda signs deal with major US pharma firm to develop drugs in space",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Varda_W3_Capsule.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"I do think it's a really good historical moment for the space industry.\"",
-    "published_at": "2026-05-13T10:00:28Z",
-    "updated_at": "2026-05-13T10:10:09.160224Z",
     "featured": false,
     "launches": [],
     "events": [],
