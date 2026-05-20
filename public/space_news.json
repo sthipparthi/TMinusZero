@@ -1,5 +1,75 @@
 [
   {
+    "id": 37962,
+    "title": "Fire Chars Santa Rosa Island",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-chars-santa-rosa-island/channelislandsfire653_oli2_20260516.jpg",
+    "news_site": "NASA",
+    "summary": "The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park.",
+    "published_at": "2026-05-20T04:00:00Z",
+    "updated_at": "2026-05-20T06:34:27.703399Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "f8a96988-9ba4-4480-84c4-496492e67e23",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37961,
+    "title": "Isaacman: Chinese Taikonauts Likely to Fly Around Moon in 2027",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/isaacman-chinese-taikonauts-likely-to-fly-around-moon-in-2027/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Earth-from-A2-Apr-2-2026-300x215.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "NASA Administrator Jared Isaacman asserted today that next year Chinese taikonauts “likely” will fly around the Moon and the United States no longer will hold the distinction as the only […]",
+    "published_at": "2026-05-20T01:41:37Z",
+    "updated_at": "2026-05-20T01:50:20.459635Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37960,
+    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-launch-from-vandenberg-sfb/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260110_Starlink_G9_10_Vertical_Sunset-1.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "SpaceX’s 45th Starlink mission of the year will see the company add another 24 broadband internet satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base at 7:46 p.m. PDT (10:46 p.m. EDT / 0246 UTC).",
+    "published_at": "2026-05-20T00:28:12Z",
+    "updated_at": "2026-05-20T06:32:47.503146Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "7ba18bcb-c711-4329-9fc1-7ac017fadfff",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37959,
     "title": "Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12",
     "authors": [
@@ -946,73 +1016,6 @@
     "summary": "SpaceX’s 34th cargo resupply mission to the International Space Station for NASA is underway, carrying 6,500 pounds of cargo to support the Expedition 74 crew.",
     "published_at": "2026-05-17T18:49:15Z",
     "updated_at": "2026-05-17T18:50:16.298837Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37904,
-    "title": "Artemis III deep into processing and planning for key HLS test",
-    "authors": [
-      {
-        "name": "Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-16-22-49-40-467.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "NASA is deep into planning for Artemis III, a pivotal crewed mission in low Earth…\nThe post Artemis III deep into processing and planning for key HLS test appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-05-17T17:29:54Z",
-    "updated_at": "2026-05-17T17:30:11.001674Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA is deep into planning for Artemis III, a pivotal crewed mission in low Earth…\nThe post Artemis III deep into processing and planning for key HLS test appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 37941,
-    "title": "NASA releases final RFP for Mars communications orbiter",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/BlueOrigin_MarsTelecommunicationsOrbiter.jpg?fit=1024%2C682&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA has released the final request for proposals for a Mars telecommunications system, confirming requirements that limit the companies that can bid on it.\nThe post NASA releases final RFP for Mars communications orbiter appeared first on SpaceNews.",
-    "published_at": "2026-05-16T22:33:24Z",
-    "updated_at": "2026-05-19T15:40:23.691486Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37942,
-    "title": "York Space defends growth strategy as SDA programs are reshaped",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/HHAXm6XWAAALLhe.jpeg?fit=1024%2C592&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nCompany executives acknowledge ‘investor confusion’ as Space Force reorganizes York’s primary customer, the Space Development Agency\nThe post York Space defends growth strategy as SDA programs are reshaped appeared first on SpaceNews.",
-    "published_at": "2026-05-16T21:55:25Z",
-    "updated_at": "2026-05-19T15:40:23.711327Z",
     "featured": false,
     "launches": [],
     "events": [],
