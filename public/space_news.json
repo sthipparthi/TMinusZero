@@ -1,5 +1,32 @@
 [
   {
+    "id": 37963,
+    "title": "Isaacman expects Chinese crewed mission around the moon in 2027",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/55281606816_df7a2c16e9_k.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe head of NASA says he expects China to perform a crewed flight around the moon in 2027, ratcheting up perceptions of a space race between China and the U.S.\nThe post Isaacman expects Chinese crewed mission around the moon in 2027 appeared first on SpaceNews.",
+    "published_at": "2026-05-20T09:26:12Z",
+    "updated_at": "2026-05-20T09:30:46.996814Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37962,
     "title": "Fire Chars Santa Rosa Island",
     "authors": [
@@ -250,26 +277,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37926,
-    "title": "Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/dscn0407-evans.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Artemis II crew had many technical and operational responsibilities during their historic mission to the Moon, but they also served an important role as scientific ambassadors to Earth’s nearest neighbor. On their 10-day journey, the crew flew by the far side of the Moon, analyzing and photographing geologic features such as impact craters and […]",
-    "published_at": "2026-05-19T15:00:00Z",
-    "updated_at": "2026-05-19T15:00:22.396124Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37927,
     "title": "Startup challenging satellite industry’s multi-orbit playbook",
     "authors": [
@@ -284,6 +291,26 @@
     "summary": "\nContrivian argues that stitching together GEO, MEO and LEO satellites creates networking problems, and that LEO constellations alone can provide both resilience and speed\nThe post Startup challenging satellite industry’s multi-orbit playbook appeared first on SpaceNews.",
     "published_at": "2026-05-19T15:00:00Z",
     "updated_at": "2026-05-19T15:40:23.440841Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37926,
+    "title": "Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/dscn0407-evans.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Artemis II crew had many technical and operational responsibilities during their historic mission to the Moon, but they also served an important role as scientific ambassadors to Earth’s nearest neighbor. On their 10-day journey, the crew flew by the far side of the Moon, analyzing and photographing geologic features such as impact craters and […]",
+    "published_at": "2026-05-19T15:00:00Z",
+    "updated_at": "2026-05-19T15:00:22.396124Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -996,26 +1023,6 @@
     "summary": "Here is SpacepolicyOnline.com’s list of space policy events for the week of May 17-23, 2026 and any insight we can offer about them. The House and Senate are in session […]",
     "published_at": "2026-05-17T22:05:31Z",
     "updated_at": "2026-05-17T22:10:20.187930Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37905,
-    "title": "CRS-34 Takes Flight",
-    "authors": [
-      {
-        "name": "Beverly Casillas",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacescout.info/2026/05/crs-34-takes-flight/",
-    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/05/launch-cameron.jpg",
-    "news_site": "Space Scout",
-    "summary": "SpaceX’s 34th cargo resupply mission to the International Space Station for NASA is underway, carrying 6,500 pounds of cargo to support the Expedition 74 crew.",
-    "published_at": "2026-05-17T18:49:15Z",
-    "updated_at": "2026-05-17T18:50:16.298837Z",
     "featured": false,
     "launches": [],
     "events": [],
