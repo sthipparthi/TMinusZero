@@ -1,5 +1,202 @@
 [
   {
+    "id": 38000,
+    "title": "NASA Wins Four Telly Awards for Artemis Moon Coverage, More",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/msd/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/",
+    "image_url": "https://images-assets.nasa.gov/image/NHQ202604010226/NHQ202604010226~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. The agency’s continuous, 24/7 livestream of the Artemis II mission, which functioned as both a live event […]",
+    "published_at": "2026-05-21T18:06:52Z",
+    "updated_at": "2026-05-21T18:10:10.683003Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. The agency’s continuous, 24/7 livestream of the Artemis II mission, which functioned as both a live event […]"
+  },
+  {
+    "id": 37999,
+    "title": "Hubble Sights Galaxy in Transition",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/hubble-ngc1266-2-4f-flat-final-crop2.jpg",
+    "news_site": "NASA",
+    "summary": "This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer regions and […]",
+    "published_at": "2026-05-21T17:32:03Z",
+    "updated_at": "2026-05-21T17:40:10.354603Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37998,
+    "title": "Uh-oh, the International Space Station is leaking again",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/International_Space_Station_after_undocking_of_STS-132.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"This further confirms the wisdom of the current policy of retiring the ISS in 2030.\"",
+    "published_at": "2026-05-21T16:07:17Z",
+    "updated_at": "2026-05-21T16:20:07.578042Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37996,
+    "title": "NASA Welcomes 16th Deputy Administrator Matt Anderson",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/deputy-administrator-announcement-may-21.jpg",
+    "news_site": "NASA",
+    "summary": "Matt Anderson was sworn in Thursday as NASA’s 16th deputy administrator by NASA Administrator Jared Isaacman. The oath was taken during a ceremony held at the Eisenhower Executive Office Building in Washington. As NASA deputy administrator, Anderson will help lead the agency’s efforts to execute the President’s national space policy, strengthen America’s leadership in space, […]",
+    "published_at": "2026-05-21T14:08:50Z",
+    "updated_at": "2026-05-21T14:10:13.801937Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37997,
+    "title": "NASA Highlights 2025 International Space Station Science Results",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/iss072e279980.jpg",
+    "news_site": "NASA",
+    "summary": "To dive deeper into the International Space Station research achievements from the past year, browse the 2025 Annual Highlights of Results, which NASA released in May 2026. In 2025, researchers using the orbital laboratory conducted more than 750 investigations that advanced understanding of life in space, drove innovations to benefit people on Earth, and supported […]",
+    "published_at": "2026-05-21T14:00:00Z",
+    "updated_at": "2026-05-21T14:10:13.823479Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "To dive deeper into the International Space Station research achievements from the past year, browse the 2025 Annual Highlights of Results, which NASA released in May 2026. In 2025, researchers using the orbital laboratory conducted more than 750 investigations that advanced understanding of life in space, drove innovations to benefit people on Earth, and supported […]"
+  },
+  {
+    "id": 37995,
+    "title": "Live coverage: SpaceX to launch first Starship Version 3 rocket",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260520_Flight_12_WDR.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The mission will see the debut of several upgrades to the launch vehicle, including redesigned engines. Liftoff from Pad 2 at Starbase, Texas, is scheduled during a window that opens at 5:30 p.m. CDT (6:30 p.m. EDT / 2230 UTC).",
+    "published_at": "2026-05-21T13:13:17Z",
+    "updated_at": "2026-05-21T13:35:33.159634Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ed83366c-872c-4484-97c1-bc74832304fc",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37992,
+    "title": "Starship underpins SpaceX’s growth ambitions",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/starship-underpins-spacexs-growth-ambitions/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starship-flt12-wdr.jpeg?fit=1024%2C767&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "As SpaceX prepares for its next Starship test flight, the company’s prospectus underlines how critical that vehicle is to its ambitions.\r\nThe post Starship underpins SpaceX’s growth ambitions appeared first on SpaceNews.",
+    "published_at": "2026-05-21T13:00:12Z",
+    "updated_at": "2026-05-21T13:35:27.489472Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ed83366c-872c-4484-97c1-bc74832304fc",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37993,
+    "title": "The internet was ‘too expensive’ too",
+    "authors": [
+      {
+        "name": "Brian Monnin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-internet-was-too-expensive-too/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Tile-Sat-Constellation-scaled.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEvery new infrastructure platform can look uneconomic at first. Early systems are often bespoke, supply chains immature and scaling doesn’t yet exist. The result: cost structures can appear daunting, if […]\nThe post The internet was ‘too expensive’ too appeared first on SpaceNews.",
+    "published_at": "2026-05-21T13:00:00Z",
+    "updated_at": "2026-05-21T13:00:50.069514Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37994,
+    "title": "Join ESA for a total solar eclipse on 12 August 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
+    "news_site": "ESA",
+    "summary": "Follow the total solar eclipse with the European Space Agency (ESA), in person or online. ",
+    "published_at": "2026-05-21T13:00:00Z",
+    "updated_at": "2026-05-21T13:10:12.597625Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37990,
     "title": "Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition",
     "authors": [
@@ -822,207 +1019,6 @@
     "summary": "NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. This flyby used a gravity assist from Mars to provide a critical boost in speed and to adjust the spacecraft’s orbital plane without using any onboard propellant, sending it on its way toward […]",
     "published_at": "2026-05-19T19:49:33Z",
     "updated_at": "2026-05-19T19:50:11.868556Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37951,
-    "title": "Moon-Venus Conjunction",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/moon-venus-conjunction/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605180004orig.jpg",
-    "news_site": "NASA",
-    "summary": "The Moon and Venus, center, are seen in conjunction above the Washington Monument, Monday, May 18, 2026, as viewed from the Mary W. Jackson NASA Headquarters Building in Washington. The Moon and Venus look close together because they line up from our point of view on Earth. In reality, they are separated by millions of […]",
-    "published_at": "2026-05-19T17:07:23Z",
-    "updated_at": "2026-05-19T17:10:09.313628Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37926,
-    "title": "Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/dscn0407-evans.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Artemis II crew had many technical and operational responsibilities during their historic mission to the Moon, but they also served an important role as scientific ambassadors to Earth’s nearest neighbor. On their 10-day journey, the crew flew by the far side of the Moon, analyzing and photographing geologic features such as impact craters and […]",
-    "published_at": "2026-05-19T15:00:00Z",
-    "updated_at": "2026-05-19T15:00:22.396124Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37927,
-    "title": "Startup challenging satellite industry’s multi-orbit playbook",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/startup-challenging-satellite-industrys-multi-orbit-playbook/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/CON_Constellation_Kit.jpg.jpeg?fit=1024%2C608&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nContrivian argues that stitching together GEO, MEO and LEO satellites creates networking problems, and that LEO constellations alone can provide both resilience and speed\nThe post Startup challenging satellite industry’s multi-orbit playbook appeared first on SpaceNews.",
-    "published_at": "2026-05-19T15:00:00Z",
-    "updated_at": "2026-05-19T15:40:23.440841Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37928,
-    "title": "Portal Space taps Quindar for ground mission support of its maneuvering spacecraft",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/portal-space-taps-quindar-for-ground-mission-support-of-its-maneuvering-spacecraft/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/portal-supernova-starburst.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nPortal is preparing to launch maneuverable spacecraft aimed at the military market\nThe post Portal Space taps Quindar for ground mission support of its maneuvering spacecraft appeared first on SpaceNews.",
-    "published_at": "2026-05-19T14:00:00Z",
-    "updated_at": "2026-05-19T15:40:23.455845Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37925,
-    "title": "NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/earth_magnetosphere_solar_wind.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Magnetospheric Multiscale (MMS) mission has collected more than ten years of data from this zone – more than scientists can analyze alone. As Shock Detectives, you’ll help sort the chaotic from peaceful regions of the data, giving researchers a crucial set of clues.",
-    "published_at": "2026-05-19T13:05:00Z",
-    "updated_at": "2026-05-19T13:10:16.950530Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37924,
-    "title": "Vast Space seeks to diversify by building satellites as well as space stations",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/VAST-Satellite_watermark.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"Every single successful space company is diversified in its products.\"",
-    "published_at": "2026-05-19T13:00:45Z",
-    "updated_at": "2026-05-19T13:10:14.076117Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37929,
-    "title": "Vast announces line of high-power satellite buses",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/vast-announces-line-of-high-power-satellite-buses/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/vast-satbus.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nCommercial space station developer Vast is moving into satellite manufacturing with a line of high-power satellite buses.\nThe post Vast announces line of high-power satellite buses appeared first on SpaceNews.",
-    "published_at": "2026-05-19T13:00:00Z",
-    "updated_at": "2026-05-19T15:40:23.471970Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37930,
-    "title": "Lynk and Anterix get FCC nod to test satellite D2D for private utility networks",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/In_Lab_Group_Shot_2.jpg?fit=1000%2C562&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLynk Global has secured regulatory approval to test how its direct-to-device satellites could extend private utility networks using terrestrial spectrum from Anterix in the United States.\nThe post Lynk and Anterix get FCC nod to test satellite D2D for private utility networks appeared first on SpaceNews.",
-    "published_at": "2026-05-19T12:54:04Z",
-    "updated_at": "2026-05-19T15:40:23.490377Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37931,
-    "title": "Anderson confirmed as NASA deputy administrator",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/NHQ202603050016-large.jpg?fit=1024%2C731&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe U.S. Senate confirmed Matt Anderson on May 18 as NASA’s deputy administrator, the second-in-command of the space agency.\nThe post Anderson confirmed as NASA deputy administrator appeared first on SpaceNews.",
-    "published_at": "2026-05-19T09:09:53Z",
-    "updated_at": "2026-05-19T15:40:23.506065Z",
     "featured": false,
     "launches": [],
     "events": [],
