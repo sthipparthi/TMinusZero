@@ -1,5 +1,50 @@
 [
   {
+    "id": 37987,
+    "title": "LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation",
+    "authors": [
+      {
+        "name": "LatConnect 60",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/latconnect-60-announces-accelerated-growth-investment-round-to-build-aukus-aligned-highest-resolution-swir-satellite-constellation/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/lc60.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nPerth, Western Australia — 21 May 2026 — LatConnect 60 (LC60), an Australian Earth observation and AI company, announced its growth investment round that is in-progress to accelerate development plans […]\nThe post LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation appeared first on SpaceNews.",
+    "published_at": "2026-05-21T06:00:00Z",
+    "updated_at": "2026-05-21T06:00:34.503817Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37986,
+    "title": "New Eruption in the Bismarck Sea",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-eruption-in-the-bismarck-sea/bismarckeruption_oli2_20260511.jpg",
+    "news_site": "NASA",
+    "summary": "Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea.",
+    "published_at": "2026-05-21T04:01:00Z",
+    "updated_at": "2026-05-21T06:47:27.899019Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "f8a96988-9ba4-4480-84c4-496492e67e23",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37985,
     "title": "Starship Flight 12: Welcome to the Show Block 3 and Pad 2",
     "authors": [
@@ -105,26 +150,6 @@
     "launches": [],
     "events": [],
     "detailed_news": "The South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance. This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could  advance commercial aircraft […]"
-  },
-  {
-    "id": 37978,
-    "title": "La NASA informará sobre su estrategia y misiones para la Base Lunar",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/moon-base-advisory-may-20-1.jpg",
-    "news_site": "NASA",
-    "summary": "Read this news release in English here. La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para compartir los planes para la Base Lunar y destacar los avances hacia una presencia sostenida en la superficie lunar. La sesión informativa para los medios tendrá lugar […]",
-    "published_at": "2026-05-20T19:08:50Z",
-    "updated_at": "2026-05-20T19:10:12.401689Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Read this news release in English here. La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para compartir los planes para la Base Lunar y destacar los avances hacia una presencia sostenida en la superficie lunar. La sesión informativa para los medios tendrá lugar […]"
   },
   {
     "id": 37980,
@@ -401,26 +426,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37966,
-    "title": "The cardinality wall: The hidden data bottleneck for LEO constellations",
-    "authors": [
-      {
-        "name": "Ian Clark",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/04/megaconstellation-coverage-ESA-science-office.jpg?fit=1024%2C761&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe satellite industry is entering an era defined by scale. Thousands of spacecraft are operating simultaneously in low Earth orbit (LEO), powering everything from global broadband networks to national security […]\nThe post The cardinality wall: The hidden data bottleneck for LEO constellations appeared first on SpaceNews.",
-    "published_at": "2026-05-20T13:00:00Z",
-    "updated_at": "2026-05-20T13:10:31.488200Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37964,
     "title": "Greenlight for next two ESA Scout missions",
     "authors": [
@@ -435,6 +440,26 @@
     "summary": "The European Space Agency is expanding its growing fleet of Earth-observing science Scout missions with the selection of two new satellites: Hibidis and SOVA-S.",
     "published_at": "2026-05-20T13:00:00Z",
     "updated_at": "2026-05-20T12:51:30.561068Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37966,
+    "title": "The cardinality wall: The hidden data bottleneck for LEO constellations",
+    "authors": [
+      {
+        "name": "Ian Clark",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/04/megaconstellation-coverage-ESA-science-office.jpg?fit=1024%2C761&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe satellite industry is entering an era defined by scale. Thousands of spacecraft are operating simultaneously in low Earth orbit (LEO), powering everything from global broadband networks to national security […]\nThe post The cardinality wall: The hidden data bottleneck for LEO constellations appeared first on SpaceNews.",
+    "published_at": "2026-05-20T13:00:00Z",
+    "updated_at": "2026-05-20T13:10:31.488200Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -1003,26 +1028,6 @@
     "summary": "The glacial lake left a layer of silt and clay in southeastern Manitoba, creating fertile farmland that was divided during 19th-century land surveys and is still farmed today.",
     "published_at": "2026-05-19T04:01:00Z",
     "updated_at": "2026-05-19T04:10:17.076070Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37920,
-    "title": "Anderson Confirmed as Deputy NASA Administrator",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/anderson-confirmed-as-deputy-nasa-administrator/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Matt-Anderson-hrg-4-Ingalls-1-300x228.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "This evening the Senate confirmed Matthew “Matt” Anderson to be NASA Deputy Administrator. His nomination was one of 49 considered together under Senate rules that were revised last year to […]",
-    "published_at": "2026-05-19T03:08:42Z",
-    "updated_at": "2026-05-19T03:10:22.497719Z",
     "featured": false,
     "launches": [],
     "events": [],
