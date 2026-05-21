@@ -1,5 +1,65 @@
 [
   {
+    "id": 37990,
+    "title": "Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/2m2a1740-1.jpg",
+    "news_site": "NASA",
+    "summary": "Robotics will play a critical role in NASA’s ambitious plan to establish a long-term presence on the Moon, presenting opportunities for the next generation of engineers, technologists, and innovators to contribute to a bold vision for the future. That was the agency’s message to students, partners, and industry leaders at the 2026 FIRST Robotics World […]",
+    "published_at": "2026-05-21T09:00:00Z",
+    "updated_at": "2026-05-21T09:00:15.442675Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37991,
+    "title": "CEO Series: Open Cosmos’ Rafel Jorda Siquier on finding a niche in space.",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/ceo-series-open-cosmos-rafel-jorda-siquier-on-finding-a-niche-in-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/space-minds-podcast-open-cosmos-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIn this episode of Space Minds, Mike Gruss talks with Open Cosmos’ CEO Rafel Jorda Siquier about combining Earth observation, connectivity and IoT into a single platform. They also discuss […]\nThe post CEO Series: Open Cosmos’ Rafel Jorda Siquier on finding a niche in space. appeared first on SpaceNews.",
+    "published_at": "2026-05-21T08:57:42Z",
+    "updated_at": "2026-05-21T09:00:34.708601Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37989,
+    "title": "Stay space chemical compliant in the EU",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Business_with_ESA/Stay_space_chemical_compliant_in_the_EU",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/reach_for_space_chemical_compliance/27285624-2-eng-GB/REACH_for_space_chemical_compliance_card_full.png",
+    "news_site": "ESA",
+    "summary": "On 2 June, the European Space Agency (ESA) will hold its free REACH workshop on chemical compliance in the space sector. This all-day event will be held at ESA’s technical centre in the Netherlands, with an option to join online.",
+    "published_at": "2026-05-21T08:10:00Z",
+    "updated_at": "2026-05-21T08:30:23.041226Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37987,
     "title": "LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation",
     "authors": [
@@ -299,6 +359,26 @@
     "detailed_news": ""
   },
   {
+    "id": 37988,
+    "title": "Inflight call with ESA astronaut Sophie Adenot",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/Inflight_call_with_ESA_astronaut_Sophie_Adenot",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/05/inflight_call_with_esa_astronaut_sophie_adenot/27284952-2-eng-GB/Inflight_call_with_ESA_astronaut_Sophie_Adenot_card_full.png",
+    "news_site": "ESA",
+    "summary": "On 20 May, ESA astronaut Sophie Adenot conducted an in-flight call with selected media representatives live aboard the International Space Station. During the discussion, Sophie shared insights into life and research in orbit, including scientific experiments supporting human health, climate science and future space exploration.",
+    "published_at": "2026-05-20T15:30:00Z",
+    "updated_at": "2026-05-21T07:30:23.823866Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 37972,
     "title": "Hyguane: towards low-carbon hydrogen for Europe’s Spaceport",
     "authors": [
@@ -426,26 +506,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37964,
-    "title": "Greenlight for next two ESA Scout missions",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenlight_for_next_two_ESA_Scout_missions",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/06/scout_missions/24329139-1-eng-GB/Scout_missions_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The European Space Agency is expanding its growing fleet of Earth-observing science Scout missions with the selection of two new satellites: Hibidis and SOVA-S.",
-    "published_at": "2026-05-20T13:00:00Z",
-    "updated_at": "2026-05-20T12:51:30.561068Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 37966,
     "title": "The cardinality wall: The hidden data bottleneck for LEO constellations",
     "authors": [
@@ -460,6 +520,26 @@
     "summary": "\nThe satellite industry is entering an era defined by scale. Thousands of spacecraft are operating simultaneously in low Earth orbit (LEO), powering everything from global broadband networks to national security […]\nThe post The cardinality wall: The hidden data bottleneck for LEO constellations appeared first on SpaceNews.",
     "published_at": "2026-05-20T13:00:00Z",
     "updated_at": "2026-05-20T13:10:31.488200Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 37964,
+    "title": "Greenlight for next two ESA Scout missions",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenlight_for_next_two_ESA_Scout_missions",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/06/scout_missions/24329139-1-eng-GB/Scout_missions_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The European Space Agency is expanding its growing fleet of Earth-observing science Scout missions with the selection of two new satellites: Hibidis and SOVA-S.",
+    "published_at": "2026-05-20T13:00:00Z",
+    "updated_at": "2026-05-20T12:51:30.561068Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -943,91 +1023,6 @@
     "summary": "\nThe U.S. Senate confirmed Matt Anderson on May 18 as NASA’s deputy administrator, the second-in-command of the space agency.\nThe post Anderson confirmed as NASA deputy administrator appeared first on SpaceNews.",
     "published_at": "2026-05-19T09:09:53Z",
     "updated_at": "2026-05-19T15:40:23.506065Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37923,
-    "title": "Smile launch highlights",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/Smile_launch_highlights",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/05/smile_launch_highlights/27281512-1-eng-GB/Smile_launch_highlights_card_full.png",
-    "news_site": "ESA",
-    "summary": "ESA’s Smile satellite launched aboard a Vega-C rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on at 04:52 BST / 05:52 CEST (00:52 local time) on 19 May 2026.",
-    "published_at": "2026-05-19T08:00:00Z",
-    "updated_at": "2026-05-19T08:29:08.880956Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37932,
-    "title": "ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/SMILE-liftoff-VEGA-C-19may2026-ESA-SCorvaja.jpg?fit=1024%2C682&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe SMILE mission developed jointly by the European Space Agency and China has reached orbit after more than a decade of preparations and cooperation.\nThe post ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere appeared first on SpaceNews.",
-    "published_at": "2026-05-19T05:13:28Z",
-    "updated_at": "2026-05-19T15:40:23.525939Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37922,
-    "title": "Smile lifts off on quest to reveal Earth’s invisible shield against the solar wind",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/vega-c_liftoff_with_smile/27281000-2-eng-GB/Vega-C_liftoff_with_Smile_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The Smile spacecraft lifted off on a Vega-C rocket from Europe’s Spaceport in French Guiana at 04:52 BST / 05:52 CEST (00:52 local time) on 19 May 2026. The launch marks the beginning of an ambitious mission to better understand solar storms, geomagnetic storms, and the science of space weather.",
-    "published_at": "2026-05-19T05:00:00Z",
-    "updated_at": "2026-05-19T05:00:28.302083Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37921,
-    "title": "Farming in Ancient Lake Agassiz",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/farming-in-ancient-lake-agassiz/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/farming-in-ancient-lake-agassiz/ISS074-E-494130.jpg",
-    "news_site": "NASA",
-    "summary": "The glacial lake left a layer of silt and clay in southeastern Manitoba, creating fertile farmland that was divided during 19th-century land surveys and is still farmed today.",
-    "published_at": "2026-05-19T04:01:00Z",
-    "updated_at": "2026-05-19T04:10:17.076070Z",
     "featured": false,
     "launches": [],
     "events": [],
