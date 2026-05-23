@@ -1,6 +1,6 @@
 {
-  "count": 12,
-  "last_updated": "2026-05-22T18:31:41.483734Z",
+  "count": 11,
+  "last_updated": "2026-05-23T00:22:12.395772Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,86 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (12 failed/unavailable)"
+    "Empty AI summaries (11 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "ed83366c-872c-4484-97c1-bc74832304fc",
-      "name": "Starship | Flight 12",
-      "status": "Go",
-      "net": "2026-05-22T22:30:00Z",
-      "window_start": "2026-05-22T22:30:00Z",
-      "window_end": "2026-05-23T00:00:00Z",
-      "lsp_name": "SpaceX",
-      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
-      "mission_name": "Flight 12",
-      "mission_description": "12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3.\r\n\r\nThe flight test’s primary goal will be to demonstrate each of these new pieces in the flight environment for the first time, with each element of the Starship architecture featuring significant redesigns to enable full and rapid reuse that incorporate learnings from years of development and test.\r\n\r\nThe Starship upper stage will target multiple in-space and reentry objectives, including a payload deployment of 20 Starlink simulators, similar in size to next-generation Starlink V3 satellites, and two specially modified Starlink satellites. The two modified satellites will test hardware planned for Starlink V3 and will attempt to scan Starship’s heat shield and transmit imagery down to operators to test methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test. The Starlink simulators will be on the same suborbital trajectory as Starship. A relight of a single Raptor engine while in space is also planned.\r\n\r\nFor Starship entry, a single heat shield tile has been intentionally removed to measure the aerodynamic load differences on adjacent tiles when there is a tile missing. Finally, the ship will perform experimental actions tested on previous flight tests, including a maneuver to intentionally stress the structural limits of the vehicle’s rear flaps and a dynamic banking maneuver to mimic the trajectory that future missions returning to Starbase will fly.",
-      "mission_type": "Test Flight",
-      "orbit": "Suborbital",
-      "launch_site": "Orbital Launch Pad 2, SpaceX Starbase, TX, USA",
-      "pad": "Orbital Launch Pad 2",
-      "location": "SpaceX Starbase, TX, USA",
-      "rocket": "Starship V3",
-      "rocket_config_description": "Third development version of the Starship reusable two-stage super heavy-lift launch vehicle.",
-      "rocket_config_family": "Starship",
-      "rocket_config_full_name": "Starship V3",
-      "rocket_config_total_launch_count": 0,
-      "rocket_config_successful_launches": 0,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 2,
-      "rocket_manufacturer_name": "SpaceX",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
-      "rocket_manufacturer_total_launch_count": 678,
-      "rocket_manufacturer_successful_launches": 663,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/ed83366c-872c-4484-97c1-bc74832304fc/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [
-        {
-          "priority": 7,
-          "title": "SCRUBBED SpaceX - Starship - Starship Test Flight 12 - Pad 2 - Starbase, Texas - May 21, 2026",
-          "description": "Launch Date:  May 21, 2026 (CDT)\nLaunch Time: 6:30 p.m. CDT, 7:30 p.m. EDT, 2330 UTC (May 22, 01:30 CEST)\nLaunch Window: Open until 7:00 p.m. CDT\nStatus: The launch was scrubbed 40 seconds before T-Zero.  \n\nLaunch Provider: SpaceX\nLauncher System: Starship-Super Heavy (Prototype) - (Vehicles: Starship 39  & Booster 19)\nMission: Starship Test Flight 12 - Maybe one orbit, otherwise suborbital\nFlight: 1st flight for Super Heavy Booster 19 - 1st flight for Starship 39\nLaunch Location: Pad 2, Starbase, Texas, USA\n\nA documentary by SpaceX \"Test like you Fly\" about the Starship you will find on our channel: https://www.youtube.com/watch?v=qq3kHVxCejM&t=5s\n\nThe twelfth flight test of Starship is preparing to launch as soon as May 21 (CDT). The launch window will open at 5:30 p.m. CDT, 6:30 p....",
-          "feature_image": "https://i.ytimg.com/vi/ou6rUKyNmUQ/maxresdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ou6rUKyNmUQ"
-        },
-        {
-          "priority": 8,
-          "title": "Watch Live: SpaceX Starship launches on 12th test flight",
-          "description": "Watch live as SpaceX debuts the latest version of its revolutionary Starship launcher on the 12th test flight for the program. Liftoff of the Version 3 integrated Starship vehicle from a new launch pad at Starbase in Texas is scheduled during a launch window that opens at 5:30 p.m. CDT / 6:30 p.m. EDT / 2230 UTC on Thursday, May 21.\n\nThe mission will see splashdowns of the Super Heavy booster (Booster 19) in the Gulf of Mexico and the Starship upper stage (Ship 39) in the Indian Ocean.\n\nThe Starship upper stage will deploy 20 Starlink simulators, similar in size to next-generation Starlink V3 satellites, and two specially modified Starlink satellites that will attempt to beam back imagery of Starship's thermal tiles.\n\nOur live coverage, hosted by Will Robinson-Smith, will begin two ho...",
-          "feature_image": "https://i.ytimg.com/vi/JcNsHf607hU/maxresdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JcNsHf607hU"
-        },
-        {
-          "priority": 9,
-          "title": "(SCRUB) SpaceX Starship Flight 12 - LAUNCH STREAM",
-          "description": "SpaceX launch of the 12th flight of Starship from Starbase, Texas. \n\nLaunch Window: May 19th from 5:30PM to 7PM CDT (22:30-00:00 UTC)\nCurrent T0: May 19th at 5:30PM CDT (22:30 UTC).\n\nMission: Starship's twelfth integrated flight test. Debut mission for Starship version 3\nLaunch Location: Pad 2, Starbase, Earth\nTarget orbit: Transatmospheric\nBooster: B19-1\nShip: S39-1\nBooster recovery: Expended - Water splashdown on the Gulf\nShip recovery: Expended - Water splashdown on the Indian Ocean\nRocket trajectory: Southeast, passing in between Cuba and the Yucatan Peninsula\nPayload onboard: 22 Starlink simulators, including 2 fitted with cameras\nPayload mass: 28 to 44 metric tons, depending on the exact mass of each satellite. \nStats:\n  - SpaceX's 670th launch overall\n  - SpaceX's 61st launch o...",
-          "feature_image": "https://i.ytimg.com/vi/TBu6JFjt0tk/maxresdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=TBu6JFjt0tk"
-        },
-        {
-          "priority": 10,
-          "title": "Starship's Twelfth Flight Test",
-          "description": "Livestream on X",
-          "feature_image": "https://pbs.twimg.com/media/HIzrGvYbwAA4Td1.jpg",
-          "url": "https://x.com/i/broadcasts/1YxNrZwwomNxw"
-        },
-        {
-          "priority": 11,
-          "title": "[SCRUBBED] Watch the first Starship V3 launch for Flight 12!",
-          "description": "SpaceX is about to launch their first V3 Starship and it’s by far the biggest and most radical change to the program to date!\n\nWant to support what I do? Consider becoming a Patreon supporter for access to exclusive livestreams, our discord channel! - http://patreon.com/everydayastronaut\n\nOr become a YouTube member for some bonus perks as well! - https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q/join\n\nThe best place for all your space merch needs!\nhttps://everydayastronaut.com/shop/\n\nAll music is original! Check it out anywhere you listen to music (Spotify, iTunes, Google Play, Amazon, etc) by searching Everyday Astronaut",
-          "feature_image": "https://i.ytimg.com/vi/MH3VyLa2eJ0/maxresdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=MH3VyLa2eJ0"
-        }
-      ],
-      "ai_summary": ""
-    },
     {
       "id": "75a35be5-b3bd-4591-b978-9a876da9fa96",
       "name": "Falcon 9 Block 5 | Starlink Group 17-37",
@@ -602,7 +525,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 12,
-    "total_launches": 12
+    "empty_summaries": 11,
+    "total_launches": 11
   }
 }
