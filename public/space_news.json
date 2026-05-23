@@ -1,5 +1,99 @@
 [
   {
+    "id": 38043,
+    "title": "SpaceX Launches New Starship V3 For First Time",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/spacex-launches-new-starship-v3-for-first-time/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Huot-Isaacman-IFT-12-300x169.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "After a scrub yesterday, SpaceX successfully launched the new version of Starship today. It was the 12th launch in the series, but the first of Version 3, or V3, with […]",
+    "published_at": "2026-05-23T03:20:52Z",
+    "updated_at": "2026-05-23T03:30:20.609194Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38042,
+    "title": "Musk praises “epic” Super Heavy-Starship launch",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/05/23/musk-praises-epic-super-heavy-starship-launch/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260522_Starship_Flight_12-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starship upper stage was equipped with six third-generation Raptor engines and one of three optimized for operating in vacuum shut down early during the climb to space. The flight computer kept the other five engines running longer than originally planned to make up for the shortfall, putting the craft on an acceptable sub-orbital trajectory. ",
+    "published_at": "2026-05-23T02:47:56Z",
+    "updated_at": "2026-05-23T02:50:23.465924Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38041,
+    "title": "Blue Origin completes investigation into New Glenn launch failure",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Gallery-NG3-liftoff3-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nBlue Origin has completed the investigation into the failure on the third flight of its New Glenn rocket, clearing launches of the vehicle to resume.\nThe post Blue Origin completes investigation into New Glenn launch failure appeared first on SpaceNews.",
+    "published_at": "2026-05-23T02:32:12Z",
+    "updated_at": "2026-05-23T02:40:19.603535Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38040,
+    "title": "SpaceX launches first Starship V3",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-launches-first-starship-v3/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starship-flt12-liftoff.jpeg?fit=1024%2C505&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX launched the newest version of its Starship vehicle for the first time May 22, completing most of the test objectives planned for the suborbital flight.\nThe post SpaceX launches first Starship V3 appeared first on SpaceNews.",
+    "published_at": "2026-05-23T00:35:12Z",
+    "updated_at": "2026-05-23T00:40:18.809833Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38039,
     "title": "Space Force awards Viasat, SES $437 million for military satellite network",
     "authors": [
@@ -670,26 +764,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38003,
-    "title": "NASA Wins Four Telly Awards for Artemis Moon Coverage, More",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/",
-    "image_url": "https://images-assets.nasa.gov/image/NHQ202604010226/NHQ202604010226~large.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. “President Trump’s leadership in establishing the Artemis program reignited America’s bold vision for space exploration and set […]",
-    "published_at": "2026-05-21T18:06:52Z",
-    "updated_at": "2026-05-21T20:20:06.028992Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38000,
     "title": "NASA Wins Four Telly Awards for Artemis Moon Coverage, More",
     "authors": [
@@ -708,6 +782,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. The agency’s continuous, 24/7 livestream of the Artemis II mission, which functioned as both a live event […]"
+  },
+  {
+    "id": 38003,
+    "title": "NASA Wins Four Telly Awards for Artemis Moon Coverage, More",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/",
+    "image_url": "https://images-assets.nasa.gov/image/NHQ202604010226/NHQ202604010226~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. “President Trump’s leadership in establishing the Artemis program reignited America’s bold vision for space exploration and set […]",
+    "published_at": "2026-05-21T18:06:52Z",
+    "updated_at": "2026-05-21T20:20:06.028992Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
   },
   {
     "id": 37999,
@@ -847,6 +941,26 @@
     "detailed_news": ""
   },
   {
+    "id": 37993,
+    "title": "The internet was ‘too expensive’ too",
+    "authors": [
+      {
+        "name": "Brian Monnin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-internet-was-too-expensive-too/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Tile-Sat-Constellation-scaled.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEvery new infrastructure platform can look uneconomic at first. Early systems are often bespoke, supply chains immature and scaling doesn’t yet exist. The result: cost structures can appear daunting, if […]\nThe post The internet was ‘too expensive’ too appeared first on SpaceNews.",
+    "published_at": "2026-05-21T13:00:00Z",
+    "updated_at": "2026-05-21T13:00:50.069514Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38011,
     "title": "Insights into Earth’s molten outer core from space",
     "authors": [
@@ -904,26 +1018,6 @@
     "detailed_news": ""
   },
   {
-    "id": 37993,
-    "title": "The internet was ‘too expensive’ too",
-    "authors": [
-      {
-        "name": "Brian Monnin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-internet-was-too-expensive-too/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Tile-Sat-Constellation-scaled.png?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEvery new infrastructure platform can look uneconomic at first. Early systems are often bespoke, supply chains immature and scaling doesn’t yet exist. The result: cost structures can appear daunting, if […]\nThe post The internet was ‘too expensive’ too appeared first on SpaceNews.",
-    "published_at": "2026-05-21T13:00:00Z",
-    "updated_at": "2026-05-21T13:00:50.069514Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38012,
     "title": "Group photo of ESA’s astronaut reserve",
     "authors": [
@@ -958,86 +1052,6 @@
     "summary": "ESA’s astronaut reserve members have completed their Astronaut Reserve Training (ART) programme, marking a key milestone in Europe’s human spaceflight ambitions.",
     "published_at": "2026-05-21T12:54:00Z",
     "updated_at": "2026-05-22T08:30:16.577692Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37990,
-    "title": "Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/2m2a1740-1.jpg",
-    "news_site": "NASA",
-    "summary": "Robotics will play a critical role in NASA’s ambitious plan to establish a long-term presence on the Moon, presenting opportunities for the next generation of engineers, technologists, and innovators to contribute to a bold vision for the future. That was the agency’s message to students, partners, and industry leaders at the 2026 FIRST Robotics World […]",
-    "published_at": "2026-05-21T09:00:00Z",
-    "updated_at": "2026-05-21T09:00:15.442675Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37991,
-    "title": "CEO Series: Open Cosmos’ Rafel Jorda Siquier on finding a niche in space.",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/ceo-series-open-cosmos-rafel-jorda-siquier-on-finding-a-niche-in-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/space-minds-podcast-open-cosmos-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this episode of Space Minds, Mike Gruss talks with Open Cosmos’ CEO Rafel Jorda Siquier about combining Earth observation, connectivity and IoT into a single platform. They also discuss […]\nThe post CEO Series: Open Cosmos’ Rafel Jorda Siquier on finding a niche in space. appeared first on SpaceNews.",
-    "published_at": "2026-05-21T08:57:42Z",
-    "updated_at": "2026-05-21T09:00:34.708601Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 37989,
-    "title": "Stay space chemical compliant in the EU",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Business_with_ESA/Stay_space_chemical_compliant_in_the_EU",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/reach_for_space_chemical_compliance/27285624-2-eng-GB/REACH_for_space_chemical_compliance_card_full.png",
-    "news_site": "ESA",
-    "summary": "On 2 June, the European Space Agency (ESA) will hold its free REACH workshop on chemical compliance in the space sector. This all-day event will be held at ESA’s technical centre in the Netherlands, with an option to join online.",
-    "published_at": "2026-05-21T08:10:00Z",
-    "updated_at": "2026-05-21T08:30:23.041226Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38016,
-    "title": "What Does Isar Aerospace Have to Do With Canadian Submarines?",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/what-does-isar-aerospace-have-to-do-with-canadian-submarines/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/What-Does-Isar-Aerospace-Have-to-Do-With-Canada-Buying-Submarines.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Isar Aerospace announced a partnership with German maritime defence company TKMS to establish a sovereign Canadian launch capability. According to TKMS, the partnership is an “integral contribution” to its bid to supply Canada with 12 new submarines. In 2021, Canada initiated its Canadian Patrol Submarine Project (CPSP), with the goal of acquiring up to 12 […]\r\nThe post What Does Isar Aerospace Have to Do With Canadian Submarines? appeared first on European Spaceflight.",
-    "published_at": "2026-05-21T06:57:37Z",
-    "updated_at": "2026-05-22T12:03:46.224348Z",
     "featured": false,
     "launches": [],
     "events": [],
