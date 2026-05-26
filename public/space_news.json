@@ -1,5 +1,32 @@
 [
   {
+    "id": 38054,
+    "title": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/f9-20260525.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nTwo companies best known for brokering payload space on SpaceX rideshare launches have each purchased Falcon 9 launches to meet the growing demand for such missions.\nThe post Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions appeared first on SpaceNews.",
+    "published_at": "2026-05-26T06:00:00Z",
+    "updated_at": "2026-05-26T06:00:36.316254Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38053,
     "title": "Launch Preview: Starlink and Amazon Leo missions fill manifest",
     "authors": [
@@ -1009,25 +1036,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. The agency’s continuous, 24/7 livestream of the Artemis II mission, which functioned as both a live event […]"
-  },
-  {
-    "id": 37999,
-    "title": "Hubble Sights Galaxy in Transition",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/hubble-ngc1266-2-4f-flat-final-crop2.jpg",
-    "news_site": "NASA",
-    "summary": "This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer regions and […]",
-    "published_at": "2026-05-21T17:32:03Z",
-    "updated_at": "2026-05-21T17:40:10.354603Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
