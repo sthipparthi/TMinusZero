@@ -1,5 +1,85 @@
 [
   {
+    "id": 38079,
+    "title": "Ever Restless Mount Dukono Erupts",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ever-restless-mount-dukono-erupts/dukonovolcano_oli2_20260513.jpg",
+    "news_site": "NASA",
+    "summary": "The volcano on Indonesia’s Halmahera Island routinely ejects ash, volcanic gases, and volcanic bombs.",
+    "published_at": "2026-05-27T04:01:00Z",
+    "updated_at": "2026-05-27T04:10:08.491084Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38078,
+    "title": "NASA Awards Initial Moon Base Rover and Lander Contracts",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-awards-initial-moon-base-rover-and-lander-contracts/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/ignition-3-phases-glaze-300x168.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Pressing forward with plans to build a Moon Base as part of the Artemis program, today NASA announced awards of several service contracts to build and/or deliver landers and rovers […]",
+    "published_at": "2026-05-27T03:55:34Z",
+    "updated_at": "2026-05-27T04:00:23.531204Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38077,
+    "title": "NASA outlines nearly $1 billion investment into initial Moon Base missions",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260526_Blue_Moon_CLV-1.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "NASA’s vision for a sprawling Moon Base will cover “hundreds of square miles” to cover the multitudes of various sites that the agency wants to explore. ",
+    "published_at": "2026-05-27T01:18:19Z",
+    "updated_at": "2026-05-27T01:20:29.490780Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38076,
+    "title": "Following Starship V3 debut, SpaceX prepares for follow up",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-27-02-01-37-688-wmarked.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Starship Version 3 flew for the first time this week in a mission of several…\nThe post Following Starship V3 debut, SpaceX prepares for follow up appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-05-27T01:10:58Z",
+    "updated_at": "2026-05-27T01:20:17.530705Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Starship Version 3 flew for the first time this week in a mission of several…\nThe post Following Starship V3 debut, SpaceX prepares for follow up appeared first on NASASpaceFlight.com."
+  },
+  {
     "id": 38075,
     "title": "SpaceX wins $2.29 billion Space Force contract for military data network",
     "authors": [
@@ -930,86 +1010,6 @@
     "summary": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California, specially trained maintenance crews are essential to keeping the agency’s aircraft flying safely and reliably. This year, NASA added two […]",
     "published_at": "2026-05-22T15:45:38Z",
     "updated_at": "2026-05-22T15:50:08.882861Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38030,
-    "title": "ESA at GLOBSEC 2026",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_GLOBSEC_2026",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/esa_director_general_josef_aschbacher_participating_in_the_21st_edition_of_the_globsec_forum/27293622-1-eng-GB/ESA_Director_General_Josef_Aschbacher_participating_in_the_21st_edition_of_the_GLOBSEC_Forum_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA Director General Josef Aschbacher participated in the 21st edition of the GLOBSEC Forum, held from 21 to 23 May in Prague, Czechia, under the theme ‘The Global Systemic Transformation.’ The high‑level gathering brought together political leaders, industry representatives and experts to discuss how Europe can respond to an increasingly complex and fragmented geopolitical environment.",
-    "published_at": "2026-05-22T15:36:00Z",
-    "updated_at": "2026-05-22T15:40:14.989489Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38029,
-    "title": "NASA to Compete Contract for Jet Propulsion Laboratory Management",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/09/DSC_421543.jpg",
-    "news_site": "NASA",
-    "summary": "NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers. The California Institute of Technology (Caltech) has managed the laboratory since its inception in […]",
-    "published_at": "2026-05-22T14:34:04Z",
-    "updated_at": "2026-05-22T14:40:11.007558Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38028,
-    "title": "To achieve major goals, NASA seeks to streamline its organization",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2218040220.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"It is imperative to concentrate resources towards the highest priority objectives.\"",
-    "published_at": "2026-05-22T14:28:42Z",
-    "updated_at": "2026-05-22T14:40:09.379085Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38036,
-    "title": "ICEYE Secures €300 Million Revolving Credit Facility",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/iceye-secures-e300-million-revolving-credit-facility/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/ICEYE-Secures-E300-Million-Credit-Facility-to-Support-Continued-Growth.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Finnish Earth observation data provider and Synthetic Aperture Radar (SAR) satellite manufacturer ICEYE has secured a €300 million, three-year revolving credit facility (RCF). The company intends to use the facility to issue guarantees for customer contracts, support its continued growth, and provide a liquidity backstop. In December 2025, ICEYE closed a €150 million Series E […]\nThe post ICEYE Secures €300 Million Revolving Credit Facility appeared first on European Spaceflight.",
-    "published_at": "2026-05-22T14:10:30Z",
-    "updated_at": "2026-05-22T21:00:17.954296Z",
     "featured": false,
     "launches": [],
     "events": [],
