@@ -1,5 +1,32 @@
 [
   {
+    "id": 38170,
+    "title": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starfall.jpeg?fit=1024%2C544&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFederal Aviation Administration documents have provided new details about a SpaceX project to develop and test reentry vehicles that could be used to support in-space manufacturing projects.\nThe post FAA documents outline SpaceX plans for Starfall reentry vehicles appeared first on SpaceNews.",
+    "published_at": "2026-05-31T09:26:19Z",
+    "updated_at": "2026-05-31T09:30:20.490638Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38169,
     "title": "Blue Origin gets national security launch task order hours before New Glenn explosion",
     "authors": [
@@ -307,26 +334,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38153,
-    "title": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-2-Ascent-11.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"I hope that it makes it far enough away from the pad that it does not cause pad damage.\"",
-    "published_at": "2026-05-29T12:43:35Z",
-    "updated_at": "2026-05-29T12:50:04.826501Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38154,
     "title": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic",
     "authors": [
@@ -341,6 +348,26 @@
     "summary": "\"I hope that it makes it far enough away from the pad that it does not cause pad damage.\"",
     "published_at": "2026-05-29T12:43:35Z",
     "updated_at": "2026-05-29T13:40:08.592986Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38153,
+    "title": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-2-Ascent-11.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"I hope that it makes it far enough away from the pad that it does not cause pad damage.\"",
+    "published_at": "2026-05-29T12:43:35Z",
+    "updated_at": "2026-05-29T12:50:04.826501Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -990,25 +1017,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "German rocket builder Isar Aerospace has signed an agreement with Maritime Launch Services to conduct launches from the company’s planned spaceport in Nova Scotia. Isar Aerospace is currently working toward the second flight of its Spectrum rocket from Norway after an April attempt was scrubbed due to a leak in a composite overwrapped pressure vessel. […]\nThe post Isar Aerospace Signs Agreement to Launch from Future Canadian Spaceport appeared first on European Spaceflight."
-  },
-  {
-    "id": 38125,
-    "title": "How NASA Uses Light to Detect Waste From Mines",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/how-nasa-uses-light-to-detect-waste-from-mines/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-shift-in-what%E2%80%99s-shaping-u-s--landscapes/usdistconus_oli_2022_th.jpg",
-    "news_site": "NASA",
-    "summary": "Tens of thousands of abandoned mines threaten waterways across the American West, but identifying which sites urgently need cleanup is slow and expensive. Now, NASA’s EMIT instrument can analyze the unique light signatures of mine waste from space to help focus remediation efforts where they’re needed most.",
-    "published_at": "2026-05-28T14:20:54Z",
-    "updated_at": "2026-05-28T15:10:10.124360Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
