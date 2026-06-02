@@ -1,5 +1,72 @@
 [
   {
+    "id": 38195,
+    "title": "Fire’s Footprint on Santa Rosa Island",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire%E2%80%99s-footprint-on-santa-rosa-island/channelislandsfire653_oli2_20260516.jpg",
+    "news_site": "NASA",
+    "summary": "A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands.",
+    "published_at": "2026-06-02T04:01:00Z",
+    "updated_at": "2026-06-02T04:10:08.970796Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38194,
+    "title": "France to fly two astronauts on Vast missions",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/france-to-fly-two-astronauts-on-vast-missions/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/vast-france.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nCommercial space station developer Vast has reached an agreement with the French government to fly two French astronauts on its missions, including the first flight to its Haven-1 space station.\nThe post France to fly two astronauts on Vast missions appeared first on SpaceNews.",
+    "published_at": "2026-06-02T01:05:03Z",
+    "updated_at": "2026-06-02T01:10:19.881000Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38193,
+    "title": "NASA Agrees with Industry, Keep CLD Program As Is",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-agrees-with-industry-keep-cld-program-as-is/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/03/Crew-10-view-of-ISS-Mar-15-25-300x160.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "NASA is backing off its March announcement proposing a significant change to ensuring that at least one commercial space station is ready to replace the International Space Station (ISS) at […]",
+    "published_at": "2026-06-02T00:45:29Z",
+    "updated_at": "2026-06-02T00:50:15.859638Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38192,
     "title": "NASA Awards Modification Contract for Reduced Gravity Test Aircraft",
     "authors": [
@@ -971,73 +1038,6 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-05-29T08:00:00Z",
     "updated_at": "2026-05-29T09:10:17.271946Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38147,
-    "title": "ESA Greenlights Two Budget-Friendly Earth Observation Missions",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-greenlights-two-budget-friendly-earth-observation-missions/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/Isar-Aerospace-Signs-Agreement-to-Launch-from-Future-Canadian-Spaceport.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency has greenlit its HiBiDiS and SOVA-S Scout missions, with development led by SITAEL and OHB Czechspace, respectively. These missions are required to progress from initial approval to launch within three years, with costs capped at €35 million. On 20 May, the agency announced that it had selected its next two Scout […]\r\nThe post ESA Greenlights Two Budget-Friendly Earth Observation Missions appeared first on European Spaceflight.",
-    "published_at": "2026-05-29T07:31:34Z",
-    "updated_at": "2026-05-29T08:20:49.692548Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38146,
-    "title": "New Glenn rocket explodes on Cape Canaveral pad",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/gallery-gallery_ng2-8615.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA Blue Origin New Glenn rocket exploded on its launch pad at Cape Canaveral, Florida, during a May 28 hotfire test, destroying the rocket and causing extensive pad damage.\nThe post New Glenn rocket explodes on Cape Canaveral pad appeared first on SpaceNews.",
-    "published_at": "2026-05-29T06:00:15Z",
-    "updated_at": "2026-05-29T06:00:30.420813Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38145,
-    "title": "Blue Origin’s New Glenn rocket explodes during prelaunch testing at Cape Canaveral",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260529_NG-4_static_fire_explosion.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The explosion happened at 9 p.m. EDT (0100 UTC) during a static fire test of the rocket at Launch Complex 36 at Cape Canaveral Space Force Station. Blue Origin was slated to launch a mission for Amazon Leo as soon as June 4. ",
-    "published_at": "2026-05-29T05:03:45Z",
-    "updated_at": "2026-05-29T05:10:19.445028Z",
     "featured": false,
     "launches": [],
     "events": [],
