@@ -1,5 +1,82 @@
 [
   {
+    "id": 38237,
+    "title": "A Moonlit Earth as Seen From Artemis II",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-moonlit-earth-as-seen-from-artemis-ii/art002e000192~orig_eo.jpg",
+    "news_site": "NASA",
+    "summary": "An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way.",
+    "published_at": "2026-06-04T04:01:00Z",
+    "updated_at": "2026-06-04T06:21:35.896700Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38236,
+    "title": "SpaceX to raise at least $75 billion in IPO",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starship-flt12-liftoffcloseup.jpeg?fit=1024%2C557&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX plans to raise at least $75 billion in its initial public offering, valuing the company at more than $1.75 trillion.\nThe post SpaceX to raise at least $75 billion in IPO appeared first on SpaceNews.",
+    "published_at": "2026-06-04T02:54:32Z",
+    "updated_at": "2026-06-04T03:00:39.965705Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38235,
+    "title": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04908_mhli_4908MH0003260001801155C00_DXXX.jpg",
+    "news_site": "NASA",
+    "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was no exception. The team used the time wisely and on top of the drilling, we also […]",
+    "published_at": "2026-06-04T01:28:11Z",
+    "updated_at": "2026-06-04T06:21:26.042565Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38234,
     "title": "NASA declares end to MAVEN Mars mission",
     "authors": [
@@ -997,66 +1074,6 @@
     "summary": "Registration is open for media to cover the arrival of NASA’s Nancy Grace Roman Space Telescope at the agency’s Kennedy Space Center in Florida in the coming weeks. The observatory will arrive aboard NASA’s Pegasus barge from NASA’s Goddard Space Flight Center in Greenbelt, Maryland, where teams completed its construction, assembly, and testing. Credentialed media […]",
     "published_at": "2026-06-01T21:22:52Z",
     "updated_at": "2026-06-01T21:30:06.909581Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38189,
-    "title": "PLD Space Triples Investment in Launch Facility to €35 Million",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/pld-space-triples-investment-in-launch-facility-to-e35-million/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/PLD-Space-Triples-Investment-in-Launch-Facility-to-E35-Million.webp",
-    "news_site": "European Spaceflight",
-    "summary": "PLD Space has announced that it will invest €35 million in the development of its launch facility at the Guiana Space Centre in French Guiana, more than triple the amount the company initially planned. In June 2024, PLD Space announced that it planned to “make a very efficient 10 million euros investment for the construction […]\nThe post PLD Space Triples Investment in Launch Facility to €35 Million appeared first on European Spaceflight.",
-    "published_at": "2026-06-01T19:06:32Z",
-    "updated_at": "2026-06-01T19:10:16.356673Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38187,
-    "title": "NASA to Conduct Low-Altitude Flights Near Houston",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-near-houston/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/ed07-0027-56large.jpg",
-    "news_site": "NASA",
-    "summary": "Five research aircraft will support a Student Airborne Research Program (SARP) mission out of Ellington Field in Houston. Flights are expected from Wednesday, June 3 to Saturday, June 13. During the mission, select maneuvers will be conducted at low altitudes over the Houston area.  Pilots will fly remote sensing payloads in raster patterns, or parallel back-and-forth lines. The instruments flown could help […]",
-    "published_at": "2026-06-01T18:29:50Z",
-    "updated_at": "2026-06-01T18:30:12.058054Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38188,
-    "title": "What’s Up: June 2026 Skywatching Tips from NASA",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/june/june9.png",
-    "news_site": "NASA",
-    "summary": "Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer begins, and deep-sky treasures rise into view.",
-    "published_at": "2026-06-01T18:13:46Z",
-    "updated_at": "2026-06-01T19:10:10.112893Z",
     "featured": false,
     "launches": [],
     "events": [],
