@@ -1,5 +1,77 @@
 [
   {
+    "id": 38265,
+    "title": "Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/amazonleo-ariane6.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Amazon will fly its largest number of broadband satellites to date later this month on the first Ariane 6 launch to use upgraded boosters.\r\nThe post Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters appeared first on SpaceNews.",
+    "published_at": "2026-06-05T14:02:31Z",
+    "updated_at": "2026-06-05T14:51:24.143628Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38264,
+    "title": "Week in images: 01-05 Jun 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_Jun_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/maupiti_french_polynesia/27308541-2-eng-GB/Maupiti_French_Polynesia_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Week in images: 01-05 Jun 2026",
+    "published_at": "2026-06-05T13:10:00Z",
+    "updated_at": "2026-06-05T13:50:19.736697Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38263,
+    "title": "Let’s build the moon base, but not lose sight of Mars",
+    "authors": [
+      {
+        "name": "Chris Carberry and Jennifer Rochlis",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThese are heady days for NASA and the space industry. The Artemis 2 crew flew around the moon, traveling farther into space than any humans previously had; NASA announced an […]\nThe post Let’s build the moon base, but not lose sight of Mars appeared first on SpaceNews.",
+    "published_at": "2026-06-05T13:00:00Z",
+    "updated_at": "2026-06-05T13:10:34.727050Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38262,
     "title": "Putting the pieces together for Galileo second generation",
     "authors": [
@@ -1013,80 +1085,5 @@
     ],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 38216,
-    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-3/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 17-47 mission will see SpaceX attempt its 200th landing on the drone ship called ‘Of Course I Still Love You.’ Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:36 a.m. PDT (10:36 a.m. EDT / 1436 UTC).",
-    "published_at": "2026-06-03T01:39:54Z",
-    "updated_at": "2026-06-03T06:26:44.223635Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "4936311a-af7c-4b05-8d7b-3eea59fc0f11",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38215,
-    "title": "Blue Origin vows to resume New Glenn flights by year’s end",
-    "authors": [
-      {
-        "name": "William Harwood",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/06/03/blue-origin-vows-to-resume-new-glenn-flights-by-years-end/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260602_LC-36_aftermath.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "Blue Origin CEO Dave Limp, in an overnight post on the social media platform X, said propellant tanks  at launch pad 36 at the Cape Canaveral Space Force Station made it through the blast in good shape, as did a nearby processing hangar. The main support gantry, while damaged, can be repaired in place.",
-    "published_at": "2026-06-03T01:23:32Z",
-    "updated_at": "2026-06-03T06:26:36.905094Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38214,
-    "title": "Blue Origin initiates LC-36 recovery, targets RTF by end of 2026",
-    "authors": [
-      {
-        "name": "Ryan Caton",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/06/blue-lc-36-recovery-rtf-end-2026/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/NSF-2026-06-02-22-58-52-922.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36…\r\nThe post Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-06-03T01:16:06Z",
-    "updated_at": "2026-06-03T06:26:33.223620Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36…\r\nThe post Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 appeared first on NASASpaceFlight.com."
   }
 ]
