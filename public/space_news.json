@@ -1,5 +1,57 @@
 [
   {
+    "id": 38255,
+    "title": "Axiom Space adds more than $175 million to funding round",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/axiom-scaled.jpg?fit=1024%2C513&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAxiom Space announced June 4 that it added more than $175 million to its latest funding round, with Japan’s largest bank joining the company’s investors.\nThe post Axiom Space adds more than $175 million to funding round appeared first on SpaceNews.",
+    "published_at": "2026-06-05T07:03:24Z",
+    "updated_at": "2026-06-05T07:10:25.918731Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38254,
+    "title": "Fighting Fire With Fire",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-fire-with-fire/australiafires_amo_20260528.jpg",
+    "news_site": "NASA",
+    "summary": "In fire-prone ecosystems in Australia’s Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season.",
+    "published_at": "2026-06-05T04:01:00Z",
+    "updated_at": "2026-06-05T06:56:35.712386Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "c70dd943-2b43-416d-9b5e-99543b05cd08",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38253,
     "title": "HASC NDAA markup challenges Space Force on satellite programs",
     "authors": [
@@ -1018,46 +1070,6 @@
     "summary": "\"The propellant farm, oxygen, liquid hydrogen, and LNG tanks are all in good shape.\"",
     "published_at": "2026-06-02T15:16:13Z",
     "updated_at": "2026-06-02T15:20:09.424951Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38208,
-    "title": "Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety",
-    "authors": [
-      {
-        "name": "Novaspace",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nParis, France – May 2026 – The 2nd edition of Novaspace’s Space Situational Awareness (SSA) report points to a pivotal decade ahead, with cumulative global spending projected to reach $61 […]\nThe post Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety appeared first on SpaceNews.",
-    "published_at": "2026-06-02T15:11:48Z",
-    "updated_at": "2026-06-02T15:20:29.821118Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38206,
-    "title": "NASA Testing Wastewater Treatment Facility for Future Moon Base",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "image_url": "https://images-assets.nasa.gov/image/KSC-20260421-PH-KLS01_0041/KSC-20260421-PH-KLS01_0041~large.jpg",
-    "news_site": "NASA",
-    "summary": "A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks. Graduate students at the university will test the technology under conditions designed to closely mimic the […]",
-    "published_at": "2026-06-02T14:31:18Z",
-    "updated_at": "2026-06-02T14:40:10.163887Z",
     "featured": false,
     "launches": [],
     "events": [],
