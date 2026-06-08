@@ -1,5 +1,65 @@
 [
   {
+    "id": 38286,
+    "title": "NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon",
+    "authors": [
+      {
+        "name": "Haygen Warren",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/06/maven-end-of-mission/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/maven_mars_sunrise.png",
+    "news_site": "NASASpaceflight",
+    "summary": "Following a six-month battle to regain communication with its Mars Atmosphere and Volatile Evolution (MAVEN)…\nThe post NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-06-07T20:11:48Z",
+    "updated_at": "2026-06-07T20:20:17.031098Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Following a six-month battle to regain communication with its Mars Atmosphere and Volatile Evolution (MAVEN)…\nThe post NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 38285,
+    "title": "What’s Happening in Space Policy June 7-13, 2026",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-7-13-2026/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Artemis-II-in-walkway-300x200.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of June 7-13, 2026 and any insight we can offer about them.  The House and Senate are in session […]",
+    "published_at": "2026-06-07T19:48:26Z",
+    "updated_at": "2026-06-07T19:50:22.987104Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38284,
+    "title": "Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20250827_Starlink_10_11_30.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 10-35 mission will be the 53rd dedicated launch for the satellite constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a window that opens at 6:07 a.m. EDT (1007 UTC). ",
+    "published_at": "2026-06-07T19:08:47Z",
+    "updated_at": "2026-06-07T19:10:24.282551Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38283,
     "title": "NASA to select new headquarters building by end of year",
     "authors": [
@@ -427,26 +487,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38263,
-    "title": "Let’s build the moon base, but not lose sight of Mars",
-    "authors": [
-      {
-        "name": "Chris Carberry and Jennifer Rochlis",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThese are heady days for NASA and the space industry. The Artemis 2 crew flew around the moon, traveling farther into space than any humans previously had; NASA announced an […]\nThe post Let’s build the moon base, but not lose sight of Mars appeared first on SpaceNews.",
-    "published_at": "2026-06-05T13:00:00Z",
-    "updated_at": "2026-06-05T13:10:34.727050Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38274,
     "title": "How Europe studies the Sun",
     "authors": [
@@ -461,6 +501,26 @@
     "summary": "English",
     "published_at": "2026-06-05T13:00:00Z",
     "updated_at": "2026-06-07T13:03:51.879703Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38263,
+    "title": "Let’s build the moon base, but not lose sight of Mars",
+    "authors": [
+      {
+        "name": "Chris Carberry and Jennifer Rochlis",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThese are heady days for NASA and the space industry. The Artemis 2 crew flew around the moon, traveling farther into space than any humans previously had; NASA announced an […]\nThe post Let’s build the moon base, but not lose sight of Mars appeared first on SpaceNews.",
+    "published_at": "2026-06-05T13:00:00Z",
+    "updated_at": "2026-06-05T13:10:34.727050Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -995,83 +1055,6 @@
     "launches": [
       {
         "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38237,
-    "title": "A Moonlit Earth as Seen From Artemis II",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-moonlit-earth-as-seen-from-artemis-ii/art002e000192~orig_eo.jpg",
-    "news_site": "NASA",
-    "summary": "An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way.",
-    "published_at": "2026-06-04T04:01:00Z",
-    "updated_at": "2026-06-04T06:21:35.896700Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38236,
-    "title": "SpaceX to raise at least $75 billion in IPO",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starship-flt12-liftoffcloseup.jpeg?fit=1024%2C557&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpaceX plans to raise at least $75 billion in its initial public offering, valuing the company at more than $1.75 trillion.\nThe post SpaceX to raise at least $75 billion in IPO appeared first on SpaceNews.",
-    "published_at": "2026-06-04T02:54:32Z",
-    "updated_at": "2026-06-04T03:00:39.965705Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38235,
-    "title": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04908_mhli_4908MH0003260001801155C00_DXXX.jpg",
-    "news_site": "NASA",
-    "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was no exception. The team used the time wisely and on top of the drilling, we also […]",
-    "published_at": "2026-06-04T01:28:11Z",
-    "updated_at": "2026-06-04T06:21:26.042565Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
         "provider": "Launch Library 2"
       }
     ],
