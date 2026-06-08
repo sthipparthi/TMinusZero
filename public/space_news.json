@@ -1,5 +1,72 @@
 [
   {
+    "id": 38289,
+    "title": "UK startup NewOrbit raises $18.5 million in Series A round",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_neo_fromabove.jpg?fit=879%2C494&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – NewOrbit Space, a UK startup developing satellites for very low Earth orbit (VLEO), has raised $18.5 million in a Series A investment round. With the funding, announced […]\nThe post UK startup NewOrbit raises $18.5 million in Series A round appeared first on SpaceNews.",
+    "published_at": "2026-06-08T07:00:00Z",
+    "updated_at": "2026-06-08T07:00:43.631990Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38288,
+    "title": "OQ Technology plans direct-to-smartphone demo with cellular spectrum",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/PR_OQ_Telefonica_logos.png?fit=1024%2C692&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nLuxembourg’s OQ Technology plans to test direct-to-smartphone satellite connectivity next year in Germany using a local telco’s cellular spectrum, setting up a challenge to U.S.-led services in the emerging market.\nThe post OQ Technology plans direct-to-smartphone demo with cellular spectrum appeared first on SpaceNews.",
+    "published_at": "2026-06-08T06:30:00Z",
+    "updated_at": "2026-06-08T06:40:20.889394Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38287,
+    "title": "French Space Electronics Firm EREMS Completes €10 Million Expansion",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/french-space-electronics-firm-erems-completes-e10-million-expansion/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/French-Space-Electronics-Firm-EREMS-Completes-E10-Million-Expansion.webp",
+    "news_site": "European Spaceflight",
+    "summary": "EREMS announced on 5 June the inauguration of its revamped Flourens facility in southwestern France following a three-year, €10 million expansion. Founded in 1979, EREMS specialises in the design and manufacture of electronic equipment used primarily for space applications. Most recently, the company has supplied key elements for Airbus Defence and Space’s CO3D and Pléiades […]\nThe post French Space Electronics Firm EREMS Completes €10 Million Expansion appeared first on European Spaceflight.",
+    "published_at": "2026-06-08T06:10:05Z",
+    "updated_at": "2026-06-08T06:10:11.572521Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38286,
     "title": "NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon",
     "authors": [
@@ -487,26 +554,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38274,
-    "title": "How Europe studies the Sun",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/How_Europe_studies_the_Sun",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/how_europe_studies_the_sun/27309837-2-eng-GB/How_Europe_studies_the_Sun_card_full.png",
-    "news_site": "ESA",
-    "summary": "English",
-    "published_at": "2026-06-05T13:00:00Z",
-    "updated_at": "2026-06-07T13:03:51.879703Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38263,
     "title": "Let’s build the moon base, but not lose sight of Mars",
     "authors": [
@@ -521,6 +568,26 @@
     "summary": "\nThese are heady days for NASA and the space industry. The Artemis 2 crew flew around the moon, traveling farther into space than any humans previously had; NASA announced an […]\nThe post Let’s build the moon base, but not lose sight of Mars appeared first on SpaceNews.",
     "published_at": "2026-06-05T13:00:00Z",
     "updated_at": "2026-06-05T13:10:34.727050Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38274,
+    "title": "How Europe studies the Sun",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/How_Europe_studies_the_Sun",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/how_europe_studies_the_sun/27309837-2-eng-GB/How_Europe_studies_the_Sun_card_full.png",
+    "news_site": "ESA",
+    "summary": "English",
+    "published_at": "2026-06-05T13:00:00Z",
+    "updated_at": "2026-06-07T13:03:51.879703Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -993,71 +1060,6 @@
     "updated_at": "2026-06-04T10:00:31.883312Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38244,
-    "title": "Dry immersion infographic",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2020/03/Dry_immersion_infographic",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/03/dry_immersion_infographic/21900223-5-eng-GB/Dry_immersion_infographic_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-06-04T08:15:00Z",
-    "updated_at": "2026-06-04T11:10:16.805228Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38239,
-    "title": "A new chapter for ESA’s brand",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/A_new_chapter_for_ESA_s_brand",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/flagship_image/27292778-1-eng-GB/Flagship_image_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Last year, the European Space Agency (ESA) unveiled its long-term vision for the decades ahead with ESA Strategy 2040. Framed around five encompassing goals which demonstrate the important role space can play in every aspect of citizens’ lives across Europe. Today, ESA is taking a decisive step forward to bring this vision to life through a comprehensive brand transformation.",
-    "published_at": "2026-06-04T08:00:00Z",
-    "updated_at": "2026-06-04T08:10:16.187065Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38238,
-    "title": "ExoMars rover targets vast bed of clay in search for life",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/mars_vast_clay_region/27305677-1-eng-GB/Mars_vast_clay_region_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. One hypothesis even suggests a vast ocean once covered the landing site.",
-    "published_at": "2026-06-04T06:30:00Z",
-    "updated_at": "2026-06-04T07:45:30.650738Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
