@@ -1,5 +1,25 @@
 [
   {
+    "id": 38366,
+    "title": "Tyndall’s Trail of Bergs",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tyndall%E2%80%99s-trail-of-bergs/ISS074-E-582898.jpg",
+    "news_site": "NASA",
+    "summary": "Ice splintered off the southern Patagonia glacier and drifted across a growing glacial lake.",
+    "published_at": "2026-06-10T04:01:00Z",
+    "updated_at": "2026-06-10T04:10:14.019276Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38365,
     "title": "Three Americans and a European Named Crew of Artemis III",
     "authors": [
@@ -1010,26 +1030,6 @@
     "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of June 7-13, 2026 and any insight we can offer about them.  The House and Senate are in session […]",
     "published_at": "2026-06-07T19:48:26Z",
     "updated_at": "2026-06-07T19:50:22.987104Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38284,
-    "title": "Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20250827_Starlink_10_11_30.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 10-35 mission will be the 53rd dedicated launch for the satellite constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a window that opens at 6:07 a.m. EDT (1007 UTC). ",
-    "published_at": "2026-06-07T19:08:47Z",
-    "updated_at": "2026-06-07T19:10:24.282551Z",
     "featured": false,
     "launches": [],
     "events": [],
