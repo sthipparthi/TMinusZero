@@ -1,5 +1,25 @@
 [
   {
+    "id": 38396,
+    "title": "Air Pollution’s Daily Pulse Over the Northeast",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/nyam_tempo_no2_20260518.jpg",
+    "news_site": "NASA",
+    "summary": "The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.",
+    "published_at": "2026-06-11T04:01:00Z",
+    "updated_at": "2026-06-11T04:10:11.158989Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38395,
     "title": "NASA chief defends selection of all-male Artemis 3 crew",
     "authors": [
@@ -307,26 +327,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38379,
-    "title": "Spire to pursue space-based missile warning in partnership with German defense firm",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/Artist_impression_of_Spire_satellite_constellation_1.jpg?fit=1000%2C536&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nDiehl Defence will explore using Spire’s constellation for detection of ballistic and hypersonic missile threats \nThe post Spire to pursue space-based missile warning in partnership with German defense firm appeared first on SpaceNews.",
-    "published_at": "2026-06-10T15:00:00Z",
-    "updated_at": "2026-06-10T15:00:47.640448Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38380,
     "title": "Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members",
     "authors": [
@@ -341,6 +341,26 @@
     "summary": "\nJune 8, 2026 – Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome Besxar and Charter Space as new space supply chain members, adding expertise in space-based semiconductor manufacturing […]\nThe post Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members appeared first on SpaceNews.",
     "published_at": "2026-06-10T15:00:00Z",
     "updated_at": "2026-06-10T15:10:19.736118Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38379,
+    "title": "Spire to pursue space-based missile warning in partnership with German defense firm",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/Artist_impression_of_Spire_satellite_constellation_1.jpg?fit=1000%2C536&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nDiehl Defence will explore using Spire’s constellation for detection of ballistic and hypersonic missile threats \nThe post Spire to pursue space-based missile warning in partnership with German defense firm appeared first on SpaceNews.",
+    "published_at": "2026-06-10T15:00:00Z",
+    "updated_at": "2026-06-10T15:00:47.640448Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -972,33 +992,6 @@
     "summary": "\nSAN FRANCISCO – The National Reconnaissance Office awarded a contract modification to BlackSky Technology to accelerate development of AROS broad-area-collection satellites. “The effort funds a direct path toward a flight […]\nThe post BlackSky to accelerate broad-area collection work under NRO contract modification appeared first on SpaceNews.",
     "published_at": "2026-06-09T12:30:00Z",
     "updated_at": "2026-06-09T12:30:24.930347Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38345,
-    "title": "New Glenn forced an explosive rewrite for NASA’s plans to build a moon base",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-01-111802-scaled.png?fit=1024%2C559&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA unveiled plans in March to develop a lunar base as part of its “Ignition” event that outlined the agency’s new direction in human spaceflight. The plans, though, were rather […]\nThe post New Glenn forced an explosive rewrite for NASA’s plans to build a moon base appeared first on SpaceNews.",
-    "published_at": "2026-06-09T12:00:00Z",
-    "updated_at": "2026-06-09T12:00:36.898466Z",
     "featured": false,
     "launches": [],
     "events": [],
