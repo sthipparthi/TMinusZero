@@ -1,6 +1,6 @@
 {
-  "count": 13,
-  "last_updated": "2026-06-11T07:31:24.018592Z",
+  "count": 12,
+  "last_updated": "2026-06-11T13:08:26.534051Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (13 failed/unavailable)"
+    "Empty AI summaries (12 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "2670e4f1-d58b-4787-9c3f-f9eb03349513",
-      "name": "Long March 5 | Unknown Payload",
-      "status": "Go",
-      "net": "2026-06-10T07:30:00Z",
-      "window_start": "2026-06-10T07:22:00Z",
-      "window_end": "2026-06-10T08:40:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "101, Wenchang Space Launch Site, People's Republic of China",
-      "pad": "101",
-      "location": "Wenchang Space Launch Site, People's Republic of China",
-      "rocket": "Long March 5",
-      "rocket_config_description": "Long March 5 is a Chinese heavy lift launch system developed by China Academy of Launch Vehicle Technology (CALT). CZ-5 is the first Chinese vehicle designed from the ground up to focus on non-hypergolic liquid rocket propellants. Currently, two CZ-5 vehicle configurations are planned, with maximum payload capacities of ~25,000 kilograms (55,000 lb) to LEO and ~14,000 kilograms (31,000 lb) to GTO. The Long March 5 roughly matches the capabilities of American EELV heavy-class vehicles such as the Delta IV Heavy.",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 5",
-      "rocket_config_total_launch_count": 8,
-      "rocket_config_successful_launches": 8,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 3,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 595,
-      "rocket_manufacturer_successful_launches": 580,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20201119165033.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/2670e4f1-d58b-4787-9c3f-f9eb03349513/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "c7b7e18f-1b42-467e-a8ed-181fb58080e8",
       "name": "Falcon 9 Block 5 | Starlink Group 17-44",
@@ -599,7 +558,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 13,
-    "total_launches": 13
+    "empty_summaries": 12,
+    "total_launches": 12
   }
 }
