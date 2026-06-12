@@ -1,5 +1,70 @@
 [
   {
+    "id": 38431,
+    "title": "Conversations in the sky: Galileo’s intersatellite links tested",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/antenna_pointing_mechanism_for_galileo_second_generation_intersatellite_links_thales_alenia_space/27318988-1-eng-GB/Antenna_pointing_mechanism_for_Galileo_second_generation_intersatellite_links_Thales_Alenia_Space_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The second generation of Galileo, Europe’s satellite navigation constellation, is being built. These satellites will feature reconfigurable payloads, provide more robust and reliable positioning, navigation and timing, enable new services and add new capabilities to the constellation.",
+    "published_at": "2026-06-12T06:45:00Z",
+    "updated_at": "2026-06-12T06:50:17.642636Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38430,
+    "title": "World Cup Fever in Guadalajara",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_tm5_19860413.jpg",
+    "news_site": "NASA",
+    "summary": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
+    "published_at": "2026-06-12T04:01:00Z",
+    "updated_at": "2026-06-12T04:10:05.090470Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38429,
+    "title": "Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The company will debut on the Nasdaq under the ticker symbol “SPCX” and begin trading with a massive valuation of $1.77 trillion. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 8:37 a.m. EDT (1237 UTC).",
+    "published_at": "2026-06-12T02:06:09Z",
+    "updated_at": "2026-06-12T07:24:32.078964Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "229267d8-74ca-4d0b-8711-b2efe621fc6b",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38428,
     "title": "AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation",
     "authors": [
@@ -936,66 +1001,6 @@
     "summary": "The European Space Agency’s (ESA) Science Programme Committee has adopted the Arrakihs mission. Planned for launch by the end of 2030, Arrakihs will capture the faint light from nearby galaxy haloes. By seeing the unseen, Arrakihs will dig up cosmic history and reveal how galaxies like our own form and evolve.  ",
     "published_at": "2026-06-10T16:25:00Z",
     "updated_at": "2026-06-10T16:30:12.872103Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38382,
-    "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/ng-06022026-artemis-iii-booster-segment-shipment-to-ksc-1-31large.jpg",
-    "news_site": "NASA",
-    "summary": "The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne, Utah on June 2. The eight booster motor segments are on their way to NASA’s Kennedy Space Center in Florida where they […]",
-    "published_at": "2026-06-10T16:05:29Z",
-    "updated_at": "2026-06-10T16:10:05.222389Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38398,
-    "title": "ESA science missions get green light for new discoveries",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/inspiring_humankind_with_space_science_at_esa/27322488-1-eng-GB/Inspiring_humankind_with_space_science_at_ESA_card_full.png",
-    "news_site": "ESA",
-    "summary": "On 10–11 June, representatives from European Space Agency (ESA) Member States met in Tenerife to make far-reaching decisions about the future of ESA’s Science Programme. Their decisions to extend current missions and adopt the next ‘fast-class’ mission, Arrakihs, underscores European leadership in, and long-term commitment to, space science.",
-    "published_at": "2026-06-10T16:01:00Z",
-    "updated_at": "2026-06-11T08:10:21.717836Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38381,
-    "title": "ESA Awards Initial €700M Contract for Next-Gen Sentinel-1 Satellites",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-awards-initial-e700m-contract-for-next-gen-sentinel-1-satellites/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/ESA-Awards-Initial-700M-Euro-Contract-for-Next-Gen-Sentinel-1-Satellites.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency has awarded Thales Alenia Space in Italy a contract to build two identical Sentinel-1 Next Generation satellites. The contract represents the first phase of the project and is worth €700 million. A total of four Sentinel-1 first-generation satellites were launched between 2014 and 2025, with three remaining operational after Sentinel-1B was […]\nThe post ESA Awards Initial €700M Contract for Next-Gen Sentinel-1 Satellites appeared first on European Spaceflight.",
-    "published_at": "2026-06-10T15:30:31Z",
-    "updated_at": "2026-06-10T15:40:13.580213Z",
     "featured": false,
     "launches": [],
     "events": [],
