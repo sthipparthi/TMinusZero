@@ -1,5 +1,136 @@
 [
   {
+    "id": 38444,
+    "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/34-resupply-return-coverage-june-12.jpg",
+    "news_site": "NASA",
+    "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
+    "published_at": "2026-06-12T15:32:54Z",
+    "updated_at": "2026-06-12T17:19:36.170539Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1490,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]"
+  },
+  {
+    "id": 38443,
+    "title": "Latitude Ditches the Name Zephyr for Its Two-Stage Rocket",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/latitude-ditches-the-name-zephyr-for-its-two-stage-rocket/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/Latitude-Ditches-the-Name-Zephyr-for-Its-Two-Stage-Rocket.webp",
+    "news_site": "European Spaceflight",
+    "summary": "French launch startup Latitude has removed all mentions of the Zephyr name from its website, now referring to its rocket simply as “Our Launcher”. The rocket, previously known as Zephyr, is a two-stage launch vehicle that will stand 19 metres tall and is designed to deliver up to 200 kilograms to low Earth orbit. The […]\r\nThe post Latitude Ditches the Name Zephyr for Its Two-Stage Rocket appeared first on European Spaceflight.",
+    "published_at": "2026-06-12T14:27:08Z",
+    "updated_at": "2026-06-12T17:19:48.825381Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ed2bf159-ee2d-4b60-bb8e-e964c005c8d9",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "French launch startup Latitude has removed all mentions of the Zephyr name from its website, now referring to its rocket simply as “Our Launcher”. The rocket, previously known as Zephyr, is a two-stage launch vehicle that will stand 19 metres tall and is designed to deliver up to 200 kilograms to low Earth orbit. The […]\r\nThe post Latitude Ditches the Name Zephyr for Its Two-Stage Rocket appeared first on European Spaceflight."
+  },
+  {
+    "id": 38442,
+    "title": "Black Eye Galaxy",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/black-eye-galaxy/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/55158722798-9bb0f41f19-o.jpg",
+    "news_site": "NASA",
+    "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized […]",
+    "published_at": "2026-06-12T13:59:55Z",
+    "updated_at": "2026-06-12T17:20:10.418177Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38441,
+    "title": "Week in images: 08-12 June 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_June_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/proba-3_s_first_artificial_solar_eclipse_after_recovery/27315958-1-eng-GB/Proba-3_s_first_artificial_solar_eclipse_after_recovery_card_full.png",
+    "news_site": "ESA",
+    "summary": "Week in images: 08-12 June 2026",
+    "published_at": "2026-06-12T13:10:00Z",
+    "updated_at": "2026-06-12T13:10:20.149035Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38440,
+    "title": "All in on AI at Astra",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/all-in-on-ai-at-astra/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/09/Kz6QsWdU-scaled.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nChris Kemp thinks he could be the last person left working at Astra — but not for the reason most people might think. His company rode the SPAC boom five […]\nThe post All in on AI at Astra appeared first on SpaceNews.",
+    "published_at": "2026-06-12T13:00:00Z",
+    "updated_at": "2026-06-12T13:00:29.892311Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38439,
     "title": "H3 successfully returns to flight",
     "authors": [
@@ -905,112 +1036,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "On social media today, NASA Administrator Jared Isaacman defended yesterday’s selection of four men for the Artemis III crew even though almost half of the astronaut corps is female. Stressing […]"
-  },
-  {
-    "id": 38394,
-    "title": "Artemis 3 commander confident crew will be ready for 2027 mission",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/art3bresnik.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe astronaut named commander of Artemis 3 is confident that his crew will be ready for what NASA has called one of its most complex missions in just a year.\nThe post Artemis 3 commander confident crew will be ready for 2027 mission appeared first on SpaceNews.",
-    "published_at": "2026-06-10T22:22:07Z",
-    "updated_at": "2026-06-10T22:30:22.713171Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38391,
-    "title": "Stoke Space completes Nova Stage 1 structural verification",
-    "authors": [
-      {
-        "name": "Eleanor Day",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/06/stoke-nova-update/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/IMG_4300.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "Stoke Space completed proto-qualification of the first stage of its Nova rocket at its testing…\nThe post Stoke Space completes Nova Stage 1 structural verification appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-06-10T21:51:42Z",
-    "updated_at": "2026-06-10T22:00:20.585649Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Stoke Space completed proto-qualification of the first stage of its Nova rocket at its testing…\nThe post Stoke Space completes Nova Stage 1 structural verification appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 38392,
-    "title": "Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/june/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04916_opgs_edr_ncam_NLB_833905570EDR_S1221260NCAM00268M_.JPG",
-    "news_site": "NASA",
-    "summary": "Written by Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University of New Brunswick, Canada Earth planning day: Friday, June 5th, 2026 In a very broad sense, Curiosity has two modes of doing science – one centred around a defined science campaign (such as the recent boxwork campaign) and the other as we move […]",
-    "published_at": "2026-06-10T21:23:02Z",
-    "updated_at": "2026-06-10T22:10:05.329291Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38390,
-    "title": "NASA Awards Contract for Construction Services in California",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "news_site": "NASA",
-    "summary": "NASA has selected multiple small businesses for the Western Regional Multiple Award Construction Contract, which supports a broad range of facility enhancement, modernization, and sustainment work at NASA’s Armstrong Flight Research Center in Edwards, California, NASA’s Ames Research Center in California’s Silicon Valley, and other federal agencies in the region. The contract provides general construction, […]",
-    "published_at": "2026-06-10T20:32:25Z",
-    "updated_at": "2026-06-10T20:40:05.365207Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38389,
-    "title": "House appropriators back $55.5 billion Space Force budget, omit reconciliation funds",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/house-appropriators-back-55-5-billion-space-force-budget-omit-reconciliation-funds/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-11.36.17-AM-e1781119677962.png?fit=1024%2C551&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nDraft defense bill funds Pentagon at requested discretionary levels but excludes $350 billion in proposed reconciliation spending, casting doubt on Golden Dome and other space programs\nThe post House appropriators back $55.5 billion Space Force budget, omit reconciliation funds appeared first on SpaceNews.",
-    "published_at": "2026-06-10T19:39:20Z",
-    "updated_at": "2026-06-10T19:40:30.338495Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
