@@ -1,5 +1,126 @@
 [
   {
+    "id": 38449,
+    "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250.jpg",
+    "news_site": "Arstechnica",
+    "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
+    "published_at": "2026-06-12T22:20:06Z",
+    "updated_at": "2026-06-12T22:30:04.381549Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38448,
+    "title": "China successfully debuts tallest rocket, LandSpace prepares for second landing attempt",
+    "authors": [
+      {
+        "name": "Martin Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/06/china-roundup-061226/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/Chang-Zheng-12B-lifts-off-from-Jiuquan-Satellite-Launch-Center-CASC-_-Ren-Changsheng-640.webp",
+    "news_site": "NASASpaceflight",
+    "summary": "China kicked off a busy month with three missions for a single internet constellation in…\nThe post China successfully debuts tallest rocket, LandSpace prepares for second landing attempt appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-06-12T21:12:21Z",
+    "updated_at": "2026-06-12T21:20:12.233094Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "China kicked off a busy month with three missions for a single internet constellation in…\nThe post China successfully debuts tallest rocket, LandSpace prepares for second landing attempt appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 38447,
+    "title": "SpaceX shares rise nearly 20% in historic IPO",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexipo-celebration.jpeg?fit=1024%2C467&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX shares rose on the first day of trading as the company went public in a milestone event for both the company and the broader space industry.\nThe post SpaceX shares rise nearly 20% in historic IPO appeared first on SpaceNews.",
+    "published_at": "2026-06-12T21:06:39Z",
+    "updated_at": "2026-06-12T21:10:18.815456Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38446,
+    "title": "Avanti trims GEO exposure with Hylas-3 sale",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/JSAT-Comms-release.png?fit=1024%2C488&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nTAMPA, Fla. — Avanti Communications is moving to close a chapter on the debt-fueled geostationary expansion that once defined the British satellite operator, with plans to sell the youngest payload […]\nThe post Avanti trims GEO exposure with Hylas-3 sale appeared first on SpaceNews.",
+    "published_at": "2026-06-12T20:43:16Z",
+    "updated_at": "2026-06-12T20:50:18.465067Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38445,
+    "title": "Astronomers fear orbital data centers will interfere with observations",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexai2.jpeg?fit=1024%2C561&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAs SpaceX gears up to start launching orbital data center spacecraft as soon as next year, astronomers warn those satellites could cause serious interference with their observations.\nThe post Astronomers fear orbital data centers will interfere with observations appeared first on SpaceNews.",
+    "published_at": "2026-06-12T19:49:45Z",
+    "updated_at": "2026-06-12T19:50:19.441497Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38444,
     "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
     "authors": [
@@ -198,26 +319,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38435,
-    "title": "In aerospace, AI isn’t replacing workers. It’s filling a shortage",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/apex-aries-assemblyline.jpeg?fit=1024%2C721&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAerospace executives see AI not as a replacement for workers but as a necessary tool for helping an overstretched industrial base\nThe post In aerospace, AI isn’t replacing workers. It’s filling a shortage appeared first on SpaceNews.",
-    "published_at": "2026-06-12T10:00:00Z",
-    "updated_at": "2026-06-12T10:00:44.210448Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38436,
     "title": "Mission Control | Keeping Columbus Running 24/7 | ESA Explores #19",
     "authors": [
@@ -232,6 +333,26 @@
     "summary": "Step inside the Columbus Control Centre near Munich, Germany, and discover what it takes to keep ESA's Columbus laboratory running—24 hours a day, 365 days a year.",
     "published_at": "2026-06-12T10:00:00Z",
     "updated_at": "2026-06-12T10:20:21.015188Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38435,
+    "title": "In aerospace, AI isn’t replacing workers. It’s filling a shortage",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/apex-aries-assemblyline.jpeg?fit=1024%2C721&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAerospace executives see AI not as a replacement for workers but as a necessary tool for helping an overstretched industrial base\nThe post In aerospace, AI isn’t replacing workers. It’s filling a shortage appeared first on SpaceNews.",
+    "published_at": "2026-06-12T10:00:00Z",
+    "updated_at": "2026-06-12T10:00:44.210448Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -936,105 +1057,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 38399,
-    "title": "ILA Berlin 2026: ESA Director General press conference",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/ILA_Berlin_2026_ESA_Director_General_press_conference",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/ila_berlin_2026_esa_director_general_press_conference/27322859-5-eng-GB/ILA_Berlin_2026_ESA_Director_General_press_conference_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA Director General Josef Aschbacher briefed media representatives and discussed Europe's priorities in space, exploration, resilience and the future of the European space sector. ",
-    "published_at": "2026-06-11T08:00:00Z",
-    "updated_at": "2026-06-11T09:00:23.307322Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38397,
-    "title": "Tracking urban expansion in hazard-prone areas",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Tracking_urban_expansion_in_hazard-prone_areas",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/urban_expansion_and_flood_risk_in_hanoi_2016_2026/27316291-1-eng-GB/Urban_expansion_and_flood_risk_in_Hanoi_2016_2026_card_full.gif",
-    "news_site": "ESA",
-    "summary": "The World Settlement Footprint (WSF) Tracker, and its dedicated online platform, have been officially released at an event at the World Bank headquarters in Washington DC.",
-    "published_at": "2026-06-11T07:15:00Z",
-    "updated_at": "2026-06-11T08:10:21.312103Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38396,
-    "title": "Air Pollution’s Daily Pulse Over the Northeast",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/nyam_tempo_no2_20260518.jpg",
-    "news_site": "NASA",
-    "summary": "The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.",
-    "published_at": "2026-06-11T04:01:00Z",
-    "updated_at": "2026-06-11T04:10:11.158989Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38395,
-    "title": "NASA chief defends selection of all-male Artemis 3 crew",
-    "authors": [
-      {
-        "name": "William Harwood",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/06/10/nasa-chief-defends-selection-of-all-male-artemis-iii-crew/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260610_Artemis-3_crew.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "During an event Tuesday at the Johnson Space Center, NASA revealed the astronauts who had been selected for next year's Artemis 3 mission, a flight to test rendezvous and docking procedures in low-Earth orbit with moon landers being built by SpaceX and Blue Origin. ",
-    "published_at": "2026-06-10T23:21:51Z",
-    "updated_at": "2026-06-10T23:30:40.486587Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38393,
-    "title": "Isaacman Responds to Criticism of All-Male Artemis III Crew",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/isaacman-responds-to-criticism-of-all-male-artemis-iii-crew/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Artemis-3-crew-NASA-300x200.webp",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "On social media today, NASA Administrator Jared Isaacman defended yesterday’s selection of four men for the Artemis III crew even though almost half of the astronaut corps is female. Stressing […]",
-    "published_at": "2026-06-10T22:27:40Z",
-    "updated_at": "2026-06-10T22:30:17.346597Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "On social media today, NASA Administrator Jared Isaacman defended yesterday’s selection of four men for the Artemis III crew even though almost half of the astronaut corps is female. Stressing […]"
   }
 ]
