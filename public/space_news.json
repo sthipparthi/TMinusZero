@@ -1,5 +1,97 @@
 [
   {
+    "id": 38481,
+    "title": "A UN agency that works for US space",
+    "authors": [
+      {
+        "name": "Greg Francis",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/a-un-agency-that-works-for-us-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/WRC_opening.jpg?fit=1000%2C667&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIf United States policymakers deride the wider United Nations, they still spend on the International Telecommunication Union (ITU) because it amplifies the commercial reach of U.S. standards. This includes U.S. […]\nThe post A UN agency that works for US space appeared first on SpaceNews.",
+    "published_at": "2026-06-16T13:00:00Z",
+    "updated_at": "2026-06-16T13:10:43.422934Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38479,
+    "title": "Geospatial industry launches maritime initiative",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/geospatial-industry-launches-maritime-initiative/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/HHPvT6EaYAA_T-G-scaled.jpeg?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nGrowing demand from defense agencies and commercial shipping sectors is driving investment in maritime domain awareness technologies\nThe post Geospatial industry launches maritime initiative appeared first on SpaceNews.",
+    "published_at": "2026-06-16T12:00:00Z",
+    "updated_at": "2026-06-16T12:10:19.117236Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38478,
+    "title": "Deep Space Network antenna mishap blamed on poor training and procedures",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/dss14.jpeg?fit=850%2C551&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA NASA investigation blamed millions of dollars in damage to one of its largest Deep Space Network (DSN) antennas on poor training and procedures.\nThe post Deep Space Network antenna mishap blamed on poor training and procedures appeared first on SpaceNews.",
+    "published_at": "2026-06-16T11:25:35Z",
+    "updated_at": "2026-06-16T11:30:18.947408Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38477,
+    "title": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Tianwen2-spacecraft-earth-oct2025release-CNSA.jpg?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "China’s Tianwen-2 spacecraft has carried out a series of small propulsive maneuvers following a main burn June 7, setting up an asteroid rendezvous in July.\r\nThe post Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  appeared first on SpaceNews.",
+    "published_at": "2026-06-16T10:30:08Z",
+    "updated_at": "2026-06-16T13:10:01.024304Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "66be38aa-d9d9-4b71-8522-45e06677b2e0",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38476,
     "title": "Nebraska’s Wide, Rolling Domain",
     "authors": [
@@ -962,91 +1054,6 @@
     "summary": "The second generation of Galileo, Europe’s satellite navigation constellation, is being built. These satellites will feature reconfigurable payloads, provide more robust and reliable positioning, navigation and timing, enable new services and add new capabilities to the constellation.",
     "published_at": "2026-06-12T06:45:00Z",
     "updated_at": "2026-06-12T06:50:17.642636Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38430,
-    "title": "World Cup Fever in Guadalajara",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_tm5_19860413.jpg",
-    "news_site": "NASA",
-    "summary": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
-    "published_at": "2026-06-12T04:01:00Z",
-    "updated_at": "2026-06-12T04:10:05.090470Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38429,
-    "title": "Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The company will debut on the Nasdaq under the ticker symbol “SPCX” and begin trading with a massive valuation of $1.77 trillion. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 8:37 a.m. EDT (1237 UTC).",
-    "published_at": "2026-06-12T02:06:09Z",
-    "updated_at": "2026-06-12T07:24:32.078964Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "229267d8-74ca-4d0b-8711-b2efe621fc6b",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38428,
-    "title": "AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/rsz_global_shipping_abstract_image.jpg?fit=879%2C684&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – The European Space Agency awarded AAC Clyde Space a 10.9 million euro ($12.6 million) contract to complete development and demonstrate VHF Data Exchange System (VDES) satellites for […]\nThe post AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation appeared first on SpaceNews.",
-    "published_at": "2026-06-12T00:06:06Z",
-    "updated_at": "2026-06-12T00:10:36.267763Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38427,
-    "title": "NASA Award Boosts Space Technology Research Capabilities",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/12/calibration-gas-system-cgs.png",
-    "news_site": "NASA",
-    "summary": "NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the […]",
-    "published_at": "2026-06-11T21:14:44Z",
-    "updated_at": "2026-06-11T21:20:06.217998Z",
     "featured": false,
     "launches": [],
     "events": [],
