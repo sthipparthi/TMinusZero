@@ -1,5 +1,45 @@
 [
   {
+    "id": 38501,
+    "title": "Low Water at San Carlos Reservoir",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/low-water-at-san-carlos-reservoir/az_sancarlosres_oli_20230607.jpg",
+    "news_site": "NASA",
+    "summary": "Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths.",
+    "published_at": "2026-06-17T04:01:00Z",
+    "updated_at": "2026-06-17T06:48:01.192083Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38500,
+    "title": "June 25:  Golden Dome: How Could Sensors Protect the United States?",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/golden-dome-sensors-event-june-25/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/2026-06-25-creative-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nJoin us as we explore the technologies behind Golden Dome, what’s necessary to make them operate at a high level and what possibilities could be in the works for the satellites involved.\nThe post June 25:  Golden Dome: How Could Sensors Protect the United States? appeared first on SpaceNews.",
+    "published_at": "2026-06-17T01:10:41Z",
+    "updated_at": "2026-06-17T01:10:51.054089Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38498,
     "title": "Live coverage: SpaceX to launch 3 Block 2 BlueBird satellites for AST SpaceMobile",
     "authors": [
@@ -973,45 +1013,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 38452,
-    "title": "Missile production push runs into solid rocket motor bottleneck",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-13-2026-at-11_55_33-AM.png?fit=1024%2C685&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA new CSIS report says planned 2027 interceptor buys will test a supply chain still recovering from years of consolidation\nThe post Missile production push runs into solid rocket motor bottleneck appeared first on SpaceNews.",
-    "published_at": "2026-06-14T04:00:00Z",
-    "updated_at": "2026-06-14T04:00:24.741584Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38451,
-    "title": "Booster 20 Completes Cryo, As Ship 40 Nears Static Fire",
-    "authors": [
-      {
-        "name": "Ryan Weber",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/COLLEEN-CRL01078-wmarked-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "With the completion of Flight 12 about three weeks ago, all focus is now on…\nThe post Booster 20 Completes Cryo, As Ship 40 Nears Static Fire appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-06-14T00:37:59Z",
-    "updated_at": "2026-06-14T00:40:11.127624Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "With the completion of Flight 12 about three weeks ago, all focus is now on…\nThe post Booster 20 Completes Cryo, As Ship 40 Nears Static Fire appeared first on NASASpaceFlight.com."
   }
 ]
