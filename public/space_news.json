@@ -1,5 +1,112 @@
 [
   {
+    "id": 38498,
+    "title": "Live coverage: SpaceX to launch 3 Block 2 BlueBird satellites for AST SpaceMobile",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/06/16/live-coverage-spacex-to-launch-3-block-2-bluebird-satellites-for-ast-spacemobile/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260615_Bluebird8910_encapsulation-1.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The mission is third time SpaceX will launch satellites for AST SpaceMobile and its first of the Block 2 iteration of the BlueBird satellites. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 2:39 a.m. EDT (0639 UTC). ",
+    "published_at": "2026-06-16T21:45:21Z",
+    "updated_at": "2026-06-16T21:50:33.576132Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38499,
+    "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/06/STScI-01KTQRQV4XDP5XZRVJT8KB2MFA.jpg",
+    "news_site": "NASA",
+    "summary": "One well-done gas giant, coming right up! That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star. The research team is presenting their study and preliminary findings Tuesday at […]",
+    "published_at": "2026-06-16T21:15:00Z",
+    "updated_at": "2026-06-16T22:10:11.983053Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38497,
+    "title": "Amid launch bottleneck, Amazon has \"hundreds\" of satellites waiting to fly",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-leo.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"As for Arianespace, they have definitely stepped up.\"",
+    "published_at": "2026-06-16T21:14:08Z",
+    "updated_at": "2026-06-16T21:20:04.917953Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38495,
+    "title": "Astrobotic unveils Griffin-1 lunar lander",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/griffin1-unveiling.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAstrobotic showed off the lunar lander it plans to launch later this year that will be the vanguard of NASA’s new lunar base ambitions.\nThe post Astrobotic unveils Griffin-1 lunar lander appeared first on SpaceNews.",
+    "published_at": "2026-06-16T20:48:57Z",
+    "updated_at": "2026-06-16T20:50:34.804196Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38496,
+    "title": "Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26725/PIA26725.jpg",
+    "news_site": "NASA",
+    "summary": "Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from Earth, CAL chills atoms to temperatures below minus 459 degrees Fahrenheit (minus 273.15 degrees Celsius), so close […]",
+    "published_at": "2026-06-16T20:41:29Z",
+    "updated_at": "2026-06-16T21:10:05.414467Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38494,
     "title": "Arianespace CEO Says Strike Will Not Affect Ariane 6 Launch",
     "authors": [
@@ -906,126 +1013,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "With the completion of Flight 12 about three weeks ago, all focus is now on…\nThe post Booster 20 Completes Cryo, As Ship 40 Nears Static Fire appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 38450,
-    "title": "Revised Artemis lunar lander plans take shape",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/bluemoon-art3.jpeg?fit=1024%2C575&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA has provided more details about the revised approaches that Blue Origin and SpaceX are taking to accelerate work on Artemis lunar landers.\nThe post Revised Artemis lunar lander plans take shape appeared first on SpaceNews.",
-    "published_at": "2026-06-13T17:19:56Z",
-    "updated_at": "2026-06-13T17:20:19.749400Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38449,
-    "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250.jpg",
-    "news_site": "Arstechnica",
-    "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
-    "published_at": "2026-06-12T22:20:06Z",
-    "updated_at": "2026-06-12T22:30:04.381549Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38448,
-    "title": "China successfully debuts tallest rocket, LandSpace prepares for second landing attempt",
-    "authors": [
-      {
-        "name": "Martin Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/06/china-roundup-061226/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/Chang-Zheng-12B-lifts-off-from-Jiuquan-Satellite-Launch-Center-CASC-_-Ren-Changsheng-640.webp",
-    "news_site": "NASASpaceflight",
-    "summary": "China kicked off a busy month with three missions for a single internet constellation in…\nThe post China successfully debuts tallest rocket, LandSpace prepares for second landing attempt appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-06-12T21:12:21Z",
-    "updated_at": "2026-06-12T21:20:12.233094Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "China kicked off a busy month with three missions for a single internet constellation in…\nThe post China successfully debuts tallest rocket, LandSpace prepares for second landing attempt appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 38447,
-    "title": "SpaceX shares rise nearly 20% in historic IPO",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexipo-celebration.jpeg?fit=1024%2C467&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpaceX shares rose on the first day of trading as the company went public in a milestone event for both the company and the broader space industry.\nThe post SpaceX shares rise nearly 20% in historic IPO appeared first on SpaceNews.",
-    "published_at": "2026-06-12T21:06:39Z",
-    "updated_at": "2026-06-12T21:10:18.815456Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38446,
-    "title": "Avanti trims GEO exposure with Hylas-3 sale",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/JSAT-Comms-release.png?fit=1024%2C488&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nTAMPA, Fla. — Avanti Communications is moving to close a chapter on the debt-fueled geostationary expansion that once defined the British satellite operator, with plans to sell the youngest payload […]\nThe post Avanti trims GEO exposure with Hylas-3 sale appeared first on SpaceNews.",
-    "published_at": "2026-06-12T20:43:16Z",
-    "updated_at": "2026-06-12T20:50:18.465067Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
