@@ -1,5 +1,158 @@
 [
   {
+    "id": 38532,
+    "title": "Boeing demonstrates quantum protocol in payload set for 2027 launch",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_q4s_-_payload_testing_announcement_image.jpg?fit=879%2C494&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "PORTLAND, Ore. – Boeing demonstrated a key quantum networking protocol in ground testing of a compact payload ahead of on-orbit experiment in 2027. “High-fidelity entanglement swapping” was demonstrated earlier this […]\r\nThe post Boeing demonstrates quantum protocol in payload set for 2027 launch appeared first on SpaceNews.",
+    "published_at": "2026-06-18T12:30:00Z",
+    "updated_at": "2026-06-18T12:59:07.200830Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38531,
+    "title": "Swift reboost mission ready for launch",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/swift-reboost-mission-ready-for-launch/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/swift-pegasus.jpeg?fit=1024%2C593&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "A high-risk mission to raise the orbit of a NASA astrophysics spacecraft is set to launch later this month after less than a year of development.\r\nThe post Swift reboost mission ready for launch appeared first on SpaceNews.",
+    "published_at": "2026-06-18T12:04:37Z",
+    "updated_at": "2026-06-18T12:33:02.792173Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "db02116f-17ba-429a-b6c1-8e7f13b5e787",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "f596ad48-881e-47d6-806d-113c6dd97427",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38530,
+    "title": "Hubble Glimpses Merging Galaxy Clusters",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/cl0016-1609/Hubble_CLG-0016+16_1_flat_V2_FINAL.tif",
+    "news_site": "NASA",
+    "summary": "This NASA Hubble Space Telescope image features a galaxy cluster, called CL0016+1609 or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio wavelengths. The X-ray observations of this cluster revealed that it is two clusters merging along our line of sight. Researchers […]",
+    "published_at": "2026-06-18T11:36:55Z",
+    "updated_at": "2026-06-18T12:33:07.655824Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38529,
+    "title": "Sirius Space Selected to Fill Launch Facility Vacancy Left by MaiaSpace",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/sirius-space-selected-to-fill-launch-facility-vacancy-left-by-maiaspace/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/Sirius-Space-Selected-to-Fill-Launch-Facility-Vacancy-Left-by-MaiaSpace.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The French space agency CNES has selected Sirius Space Services to fill a vacancy at the Guiana Space Centre’s new multi-user commercial launch facility. The space became available after MaiaSpace shifted its planned launch operations to the spaceport’s former Soyuz launch facility. In 2021, CNES opened a call for interest in a new commercial launch […]\nThe post Sirius Space Selected to Fill Launch Facility Vacancy Left by MaiaSpace appeared first on European Spaceflight.",
+    "published_at": "2026-06-18T11:19:55Z",
+    "updated_at": "2026-06-18T11:20:10.467275Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38527,
+    "title": "Blue Origin begins rebuilding New Glenn pad",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/isaacman-lc36.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Blue Origin has started rebuilding a launch pad severely damaged in a New Glenn explosion less than three weeks ago as it works to resume launches by year’s end\r\nThe post Blue Origin begins rebuilding New Glenn pad appeared first on SpaceNews.",
+    "published_at": "2026-06-18T11:01:48Z",
+    "updated_at": "2026-06-18T11:43:14.400492Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38528,
+    "title": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-16-at-5.52.29-PM.png?fit=1024%2C596&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe company plans to deliver a fuel-transfer vehicle to the U.S. Space Force by 2028\nThe post Quantum Space wins Pentagon contract to develop orbital refueling spacecraft appeared first on SpaceNews.",
+    "published_at": "2026-06-18T11:00:00Z",
+    "updated_at": "2026-06-18T11:10:17.836377Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38525,
     "title": "El Niño Is Underway",
     "authors": [
@@ -291,6 +444,31 @@
     "updated_at": "2026-06-17T15:20:12.210181Z",
     "featured": false,
     "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38526,
+    "title": "Liftoff: first Ariane 6 liftoff with P160C-based boosters",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Liftoff_first_Ariane_6_liftoff_with_P160C-based_boosters",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/liftoff_first_ariane_6_liftoff_with_p160c-based_boosters/27334547-2-eng-GB/Liftoff_first_Ariane_6_liftoff_with_P160C-based_boosters_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-06-17T13:06:00Z",
+    "updated_at": "2026-06-18T08:08:41.735202Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -921,158 +1099,6 @@
     "updated_at": "2026-06-16T16:10:10.969568Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38484,
-    "title": "Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/05/empower-earth.jpeg",
-    "news_site": "NASA",
-    "summary": "NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. Sponsored by the Administration for Strategic Preparedness and Response (ASPR), a division of the U.S. Department of […]",
-    "published_at": "2026-06-16T14:39:54Z",
-    "updated_at": "2026-06-16T14:40:05.579787Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. Sponsored by the Administration for Strategic Preparedness and Response (ASPR), a division of the U.S. Department of […]"
-  },
-  {
-    "id": 38483,
-    "title": "Aurora Australis",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/aurora-australis-7/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0672727orig.jpg",
-    "news_site": "NASA",
-    "summary": "The aurora australis arcs over Earth during an active solar event in this photograph taken on June 5, 2026, from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia. Auroras are colorful, dynamic, and often visually delicate displays of an intricate dance of particles and magnetism between […]",
-    "published_at": "2026-06-16T14:20:58Z",
-    "updated_at": "2026-06-16T14:30:05.014432Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The aurora australis arcs over Earth during an active solar event in this photograph taken on June 5, 2026, from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia. Auroras are colorful, dynamic, and often visually delicate displays of an intricate dance of particles and magnetism between […]"
-  },
-  {
-    "id": 38482,
-    "title": "PiLogic partners with Air Force lab to test satellite fault-prediction software",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/220705-F-F3963-1014-e1781615300643.jpg?fit=904%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe startup uses probabilistic reasoning to diagnose spacecraft anomalies \nThe post PiLogic partners with Air Force lab to test satellite fault-prediction software appeared first on SpaceNews.",
-    "published_at": "2026-06-16T14:00:00Z",
-    "updated_at": "2026-06-16T14:10:27.586708Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38481,
-    "title": "A UN agency that works for US space",
-    "authors": [
-      {
-        "name": "Greg Francis",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/a-un-agency-that-works-for-us-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/WRC_opening.jpg?fit=1000%2C667&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIf United States policymakers deride the wider United Nations, they still spend on the International Telecommunication Union (ITU) because it amplifies the commercial reach of U.S. standards. This includes U.S. […]\nThe post A UN agency that works for US space appeared first on SpaceNews.",
-    "published_at": "2026-06-16T13:00:00Z",
-    "updated_at": "2026-06-16T13:10:43.422934Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38479,
-    "title": "Geospatial industry launches maritime initiative",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/geospatial-industry-launches-maritime-initiative/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/HHPvT6EaYAA_T-G-scaled.jpeg?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGrowing demand from defense agencies and commercial shipping sectors is driving investment in maritime domain awareness technologies\nThe post Geospatial industry launches maritime initiative appeared first on SpaceNews.",
-    "published_at": "2026-06-16T12:00:00Z",
-    "updated_at": "2026-06-16T12:10:19.117236Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38478,
-    "title": "Deep Space Network antenna mishap blamed on poor training and procedures",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/dss14.jpeg?fit=850%2C551&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA NASA investigation blamed millions of dollars in damage to one of its largest Deep Space Network (DSN) antennas on poor training and procedures.\nThe post Deep Space Network antenna mishap blamed on poor training and procedures appeared first on SpaceNews.",
-    "published_at": "2026-06-16T11:25:35Z",
-    "updated_at": "2026-06-16T11:30:18.947408Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38477,
-    "title": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Tianwen2-spacecraft-earth-oct2025release-CNSA.jpg?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "China’s Tianwen-2 spacecraft has carried out a series of small propulsive maneuvers following a main burn June 7, setting up an asteroid rendezvous in July.\r\nThe post Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking  appeared first on SpaceNews.",
-    "published_at": "2026-06-16T10:30:08Z",
-    "updated_at": "2026-06-16T13:10:01.024304Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "66be38aa-d9d9-4b71-8522-45e06677b2e0",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
