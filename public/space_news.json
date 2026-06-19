@@ -20,6 +20,120 @@
     "detailed_news": ""
   },
   {
+    "id": 38562,
+    "title": "NASA selects mission to study space weather interaction with Earth’s atmosphere",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/daphne.jpeg?fit=1024%2C824&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA has selected for development a space science mission that will study how space weather interacts with Earth’s atmosphere.\nThe post NASA selects mission to study space weather interaction with Earth’s atmosphere appeared first on SpaceNews.",
+    "published_at": "2026-06-19T12:00:38Z",
+    "updated_at": "2026-06-19T12:00:55.847105Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38560,
+    "title": "Chinese university-led mission to study asteroid Apophis during close encounter with Earth",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/START-mission-concept.jpg?fit=1024%2C512&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA spacecraft developed by Tsinghua University is set to join international missions to study the asteroid Apophis during its close approach to Earth in 2029.\nThe post Chinese university-led mission to study asteroid Apophis during close encounter with Earth appeared first on SpaceNews.",
+    "published_at": "2026-06-19T10:32:14Z",
+    "updated_at": "2026-06-19T10:40:34.948355Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38561,
+    "title": "Mu-g Technologies enters the parabolic flight business",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/mug-falcon50.jpeg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA startup has acquired an aircraft to offer commercial parabolic flight services even as NASA seeks to acquire its own aircraft for reduced-gravity research.\nThe post Mu-g Technologies enters the parabolic flight business appeared first on SpaceNews.",
+    "published_at": "2026-06-19T10:30:49Z",
+    "updated_at": "2026-06-19T10:40:34.959334Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38556,
+    "title": "Anomaly Delays Full-Scale Space Rider Drop Test Until October",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/anomaly-delays-full-scale-space-rider-drop-test-until-october/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/Anomaly-Delays-Full-Scale-Space-Rider-Drop-Test-Until-October.webp",
+    "news_site": "European Spaceflight",
+    "summary": "A full-scale drop test of ESA’s Space Rider spaceplane in early May was aborted after an anomaly during the captive ascent phase, the agency told European Spaceflight. In August 2024 and June 2025, ESA completed Space Rider drop test campaigns using a 3,000-kilogram mass simulator. In early 2026, the agency planned to move forward with […]\nThe post Anomaly Delays Full-Scale Space Rider Drop Test Until October appeared first on European Spaceflight.",
+    "published_at": "2026-06-19T09:24:49Z",
+    "updated_at": "2026-06-19T09:30:10.328324Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38555,
+    "title": "Earth from Space celebrates 1000 images",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_celebrates_1000_images",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_celebrates_1000_images/27336814-1-eng-GB/Earth_from_Space_celebrates_1000_images_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-06-19T08:00:00Z",
+    "updated_at": "2026-06-19T08:20:13.251437Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38553,
     "title": "Austrian propulsion startup joins sovereign space funding surge",
     "authors": [
@@ -952,164 +1066,40 @@
     "detailed_news": ""
   },
   {
-    "id": 38513,
-    "title": "First Ariane 6 liftoff with most powerful boosters",
+    "id": 38558,
+    "title": "Seen from above: liftoff of first Ariane 6 with P160C-based boosters",
     "authors": [
       {
         "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/First_Ariane_6_liftoff_with_most_powerful_boosters",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/first_ariane_6_liftoff_with_most_powerful_boosters/27332185-1-eng-GB/First_Ariane_6_liftoff_with_most_powerful_boosters_card_full.png",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Seen_from_above_liftoff_of_first_Ariane_6_with_P160C-based_boosters",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/seen_from_above_liftoff_of_first_ariane_6_with_p160c-based_boosters/27337624-2-eng-GB/Seen_from_above_liftoff_of_first_Ariane_6_with_P160C-based_boosters_card_full.jpg",
     "news_site": "ESA",
-    "summary": "On the 17th of June Ariane 6 flight VA269 soared to orbit from Europe's Spaceport in French Guiana. The latest generation of Europe's largest and most powerful rocket launched 36 satellites for Amazon's Leo constellation.",
-    "published_at": "2026-06-17T13:00:00Z",
-    "updated_at": "2026-06-17T14:15:22.412732Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38511,
-    "title": "America’s next economic frontier is 240,000 miles away",
-    "authors": [
-      {
-        "name": "Jason Kim",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/54359535525_bf7c23eb22_o.png?fit=1024%2C574&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nHumans have always gazed up at the moon in wonder. A generation ago, NASA astronauts did the extraordinary and touched down on its surface, planting an American flag and igniting […]\nThe post America’s next economic frontier is 240,000 miles away appeared first on SpaceNews.",
-    "published_at": "2026-06-17T13:00:00Z",
-    "updated_at": "2026-06-17T13:00:25.878904Z",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-06-17T13:06:00Z",
+    "updated_at": "2026-06-19T10:00:15.922635Z",
     "featured": false,
     "launches": [],
     "events": [],
     "detailed_news": ""
   },
   {
-    "id": 38509,
-    "title": "China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch",
+    "id": 38557,
+    "title": "Liftoff: first Ariane 6 liftoff with P160C-based boosters",
     "authors": [
       {
-        "name": "Andrew Jones",
+        "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/CZ12-Guowang-22-HCLC-17june2026-CASC.jpg?fit=1024%2C578&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nChina continued its accelerated launch pace with a series of missions, but long silence followed liftoff of a Kuaizhou-11 solid rocket Wednesday, suggesting potential issues.\nThe post China conducts 4 launches in 3 days, but silence follows Kuaizhou–11 launch appeared first on SpaceNews.",
-    "published_at": "2026-06-17T12:18:53Z",
-    "updated_at": "2026-06-17T12:20:19.060333Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38507,
-    "title": "Dawn Aerospace raises $25 million",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/dawn-aerospace-raises-25-million/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/auroramk2.jpeg?fit=1024%2C614&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nDawn Aerospace has raised $25 million to scale up its work in both in-space transportation and suborbital spaceplanes.\nThe post Dawn Aerospace raises $25 million appeared first on SpaceNews.",
-    "published_at": "2026-06-17T11:29:32Z",
-    "updated_at": "2026-06-17T11:30:46.579110Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38508,
-    "title": "Look Up and Skynopy partner on automated satellite collision avoidance service",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Look-Up.jpg?fit=1024%2C618&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSpace surveillance venture Look Up plans to use Skynopy’s ground station network to help automate its proposed low Earth orbit collision avoidance service, the French startups announced June 17.\nThe post Look Up and Skynopy partner on automated satellite collision avoidance service appeared first on SpaceNews.",
-    "published_at": "2026-06-17T11:23:13Z",
-    "updated_at": "2026-06-17T11:30:46.607313Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38506,
-    "title": "Live coverage: Arianespace to launch its heaviest payload to date with Amazon Leo flight",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/06/17/live-coverage-arianespace-to-launch-its-heaviest-payload-to-date-with-amazon-leo-flight/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260617_Ariane-64_pad.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Leo Europe 03 mission will see Arianespace send a batch of 36 Amazon Leo satellites into low Earth orbit. Liftoff from Europe’s Spaceport in French Guiana is scheduled during a window that opens up at 8:53 a.m. Kourou time (7:53 a.m. EDT / 1153 UTC).",
-    "published_at": "2026-06-17T11:12:23Z",
-    "updated_at": "2026-06-17T12:58:25.656186Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38505,
-    "title": "France Awards Eutelsat €138 Million Contract to Provide Secure Communications",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/france-awards-eutelsat-e138-million-contract-to-provide-secure-communications/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/France-Awards-Eutelsat-138-Million-Euro-Contract-to-Provide-Secure-Comms.webp",
-    "news_site": "European Spaceflight",
-    "summary": "European satellite operator Eutelsat has secured a €138 million contract from France’s Ministry of the Armed Forces under a €1 billion framework agreement signed in June 2025. The 10-year framework agreement with France’s defence procurement agency, the DGA, covers priority access to capacity on Eutelsat’s OneWeb constellation, a constellation of more than 600 satellites in […]\r\nThe post France Awards Eutelsat €138 Million Contract to Provide Secure Communications appeared first on European Spaceflight.",
-    "published_at": "2026-06-17T11:04:33Z",
-    "updated_at": "2026-06-17T12:58:43.078964Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Liftoff_first_Ariane_6_liftoff_with_P160C-based_boosters2",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/liftoff_first_ariane_6_liftoff_with_p160c-based_boosters2/27334547-2-eng-GB/Liftoff_first_Ariane_6_liftoff_with_P160C-based_boosters_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-06-17T13:06:00Z",
+    "updated_at": "2026-06-19T09:50:20.049677Z",
     "featured": false,
     "launches": [],
     "events": [],
