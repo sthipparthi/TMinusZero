@@ -1,5 +1,102 @@
 [
   {
+    "id": 38554,
+    "title": "Galileo signal updated for internet-of-things use",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/11/how_can_digital_cities_foster_urban_innovation/22302267-1-eng-GB/How_can_digital_cities_foster_urban_innovation_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "In April, Galileo marked a step forward with the deployment of a new signal component, known as E5a Quasi Pilot, on 12 satellites of Europe’s satellite navigation constellation. This upgrade makes Galileo signals easier to access, particularly on emerging mass-market, low-power devices used for Internet of Things and smart city applications.",
+    "published_at": "2026-06-19T13:55:00Z",
+    "updated_at": "2026-06-19T07:30:11.124144Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38553,
+    "title": "Austrian propulsion startup joins sovereign space funding surge",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Test-facility-1-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAustrian satellite propulsion startup Gate Space has won 6.3 million euros in funding from Europe’s government-backed accelerator program, joining a wave of European companies attracting capital for greater space sovereignty.\nThe post Austrian propulsion startup joins sovereign space funding surge appeared first on SpaceNews.",
+    "published_at": "2026-06-19T07:00:00Z",
+    "updated_at": "2026-06-19T07:10:28.734997Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38552,
+    "title": "Tropical Storm Arthur",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tropical-storm-arthur/stormarthur_tmo_20260617.jpg",
+    "news_site": "NASA",
+    "summary": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.",
+    "published_at": "2026-06-19T04:00:00Z",
+    "updated_at": "2026-06-19T06:56:15.866892Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "85841db3-9422-4470-8327-0c42fc258987",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38551,
+    "title": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/june/https___mars.nasa.gov_msl-raw-images_msss_04922_mcam_4922ML1095040021900935C00_DXXX.jpg",
+    "news_site": "NASA",
+    "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]",
+    "published_at": "2026-06-19T00:50:58Z",
+    "updated_at": "2026-06-19T06:56:21.902172Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38550,
     "title": "Canadarm2 repairs planned as CRS-34 departs ISS",
     "authors": [
@@ -1013,91 +1110,6 @@
     "summary": "European satellite operator Eutelsat has secured a €138 million contract from France’s Ministry of the Armed Forces under a €1 billion framework agreement signed in June 2025. The 10-year framework agreement with France’s defence procurement agency, the DGA, covers priority access to capacity on Eutelsat’s OneWeb constellation, a constellation of more than 600 satellites in […]\r\nThe post France Awards Eutelsat €138 Million Contract to Provide Secure Communications appeared first on European Spaceflight.",
     "published_at": "2026-06-17T11:04:33Z",
     "updated_at": "2026-06-17T12:58:43.078964Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38512,
-    "title": "ESA Council appoints two new directors",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_appoints_two_new_directors",
-    "image_url": "https://www.esa.int/extension/pillars/design/pillars/images/nebula.jpg",
-    "news_site": "ESA",
-    "summary": "The European Space Agency Council has approved the appointment of two new directors: Christine Klein as Director of Controlling, Finance and Operational Procurement, and Jean-Luc Trullemans as Director of Strategy, Legal and External Affairs.",
-    "published_at": "2026-06-17T09:44:00Z",
-    "updated_at": "2026-06-17T13:30:13.543458Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38503,
-    "title": "ESA Impact: a look at ESA’s spring milestones",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_April-June",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/esa_impact_q2_highlight/27331237-1-eng-GB/ESA_Impact_Q2_highlight_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA Impact: a look at ESA’s spring milestones",
-    "published_at": "2026-06-17T09:24:00Z",
-    "updated_at": "2026-06-17T09:40:12.148909Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38502,
-    "title": "Dozens of dust devils hidden in plain sight",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/dust_devils_galore_mars_express_visits_mamers_valles_on_mars/27330596-1-eng-GB/Dust_devils_galore_Mars_Express_visits_Mamers_Valles_on_Mars_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils.",
-    "published_at": "2026-06-17T09:00:00Z",
-    "updated_at": "2026-06-17T09:48:59.045305Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "db62cfa1-4d10-41d3-b25f-a58e138ce202",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38504,
-    "title": "One robotic arm to rule them all",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/One_robotic_arm_to_rule_them_all",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/one_robotic_arm_to_rule_them_all/27329262-1-eng-GB/One_robotic_arm_to_rule_them_all_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-06-17T07:12:00Z",
-    "updated_at": "2026-06-17T10:20:11.620690Z",
     "featured": false,
     "launches": [],
     "events": [],

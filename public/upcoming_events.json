@@ -1,6 +1,6 @@
 {
-  "count": 7,
-  "last_updated": "2026-06-19T00:33:52.569093Z",
+  "count": 8,
+  "last_updated": "2026-06-19T07:43:37.208257Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (7 failed/unavailable)"
+    "Empty AI summaries (8 failed/unavailable)"
   ],
   "launches": [
     {
@@ -150,6 +150,55 @@
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
+      "ai_summary": ""
+    },
+    {
+      "id": "74bf8472-9ba1-42d6-9245-b014f8e91de9",
+      "name": "Falcon 9 Block 5 | Project Starfall Demonstration Mission",
+      "status": "Go",
+      "net": "2026-06-23T10:43:00Z",
+      "window_start": "2026-06-23T10:43:00Z",
+      "window_end": "2026-06-23T11:43:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Project Starfall Demonstration Mission",
+      "mission_description": "Note: Mission profile and payload details are TBD.\r\n\r\nDemonstration mission for SpaceX’s Project Starfall, which aims to mass-produce reentry capsules designed to autonomously transport valuable customer experiments and other payloads safely back from space to Earth, including for in-orbit manufacturing. \r\n\r\nStarfall is a cylindrical shaped capsule approximately 0.75 meters tall with a diameter of 3.1 meters, weighing approximately 2100 kilograms, and capable of carrying 1000 kilograms of payload. It is designed to be carried on Starship flights.",
+      "mission_type": "Technology",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Space Launch Complex 40, Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "location": "Cape Canaveral SFS, FL, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 596,
+      "rocket_config_successful_launches": 595,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 116,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 691,
+      "rocket_manufacturer_successful_launches": 676,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20241206131356.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/74bf8472-9ba1-42d6-9245-b014f8e91de9/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "Starfall Demo Mission",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/HLJWsyXaAAAdY9p.jpg",
+          "url": "https://x.com/i/broadcasts/1qGoNNmPYeBKv"
+        }
+      ],
       "ai_summary": ""
     },
     {
@@ -329,7 +378,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 7,
-    "total_launches": 7
+    "empty_summaries": 8,
+    "total_launches": 8
   }
 }
