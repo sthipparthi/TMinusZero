@@ -1,5 +1,112 @@
 [
   {
+    "id": 38570,
+    "title": "NASA Prepares Next Artemis Rocket for Flight",
+    "authors": [
+      {
+        "name": "Beverly Casillas",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2026/06/nasa-prepares-next-artemis-rocket-for-flight/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/06/on-the-roll.jpg",
+    "news_site": "Space Scout",
+    "summary": "As Artemis III kicks off, NASA continues working to streamline SLS production.",
+    "published_at": "2026-06-19T16:22:06Z",
+    "updated_at": "2026-06-19T16:30:18.969994Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38569,
+    "title": "MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2020/07/Blackjack_Space_Image-copy.png?fit=1024%2C601&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nMDA Space is buying smallsat manufacturer Blue Canyon Technologies (BCT) for $620 million, giving the Canadian company greater access to the lucrative U.S. government market.\nThe post MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market appeared first on SpaceNews.",
+    "published_at": "2026-06-19T16:03:50Z",
+    "updated_at": "2026-06-19T16:10:28.127581Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38568,
+    "title": "ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million",
+    "authors": [
+      {
+        "name": "ElevationSpace",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ELS_01_logo_white.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nElevationSpace Inc. (CEO: Ryohei Kobayashi), a company developing Space-to-Earth transportation as well as a Space Environment Utilization and Recovery Platform, has raised a total of US $40 million in its […]\nThe post ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million appeared first on SpaceNews.",
+    "published_at": "2026-06-19T14:52:11Z",
+    "updated_at": "2026-06-19T15:00:21.681475Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38566,
+    "title": "Northrop Grumman says industry ready to scale solid rocket production, with longer contracts",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Accelerating-Tomorrow-How-Northrop-Grumman-Leads-in-Solid-Rocket-Motor-Innovation_1-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nBillions in private investment have created room for growth, but suppliers need predictable demand, says the head of Northrop Grumman’s solid rocket motor business\nThe post Northrop Grumman says industry ready to scale solid rocket production, with longer contracts appeared first on SpaceNews.",
+    "published_at": "2026-06-19T14:00:00Z",
+    "updated_at": "2026-06-19T14:00:34.921968Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38567,
+    "title": "The Voice in Orbit | Talking to Astronauts in Space | ESA Explores #20",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/the_voice_in_orbit_talking_to_astronauts_in_space_esa_explores_20/27337250-2-eng-GB/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20_card_full.png",
+    "news_site": "ESA",
+    "summary": "Meet the voices astronauts hear in space. At ESA’s European Astronaut Centre in Cologne, Germany, the EUROCOM team is the link between crew and ground, guiding astronauts like ESA astronaut Sophie Adenot through their daily work on the International Space Station. Join us as EUROCOM expert Andreas Orth explains how complex operations are translated into clear, real-time communication and what it means to be the one voice connecting Earth and orbit.",
+    "published_at": "2026-06-19T14:00:00Z",
+    "updated_at": "2026-06-19T14:10:26.665394Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38554,
     "title": "Galileo signal updated for internet-of-things use",
     "authors": [
@@ -14,6 +121,66 @@
     "summary": "In April, Galileo marked a step forward with the deployment of a new signal component, known as E5a Quasi Pilot, on 12 satellites of Europe’s satellite navigation constellation. This upgrade makes Galileo signals easier to access, particularly on emerging mass-market, low-power devices used for Internet of Things and smart city applications.",
     "published_at": "2026-06-19T13:55:00Z",
     "updated_at": "2026-06-19T07:30:11.124144Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38565,
+    "title": "Week in images: 15-19 June 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_June_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_celebrates_1000_images/27336814-1-eng-GB/Earth_from_Space_celebrates_1000_images_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Week in images: 15-19 June 2026",
+    "published_at": "2026-06-19T13:10:00Z",
+    "updated_at": "2026-06-19T13:40:16.926785Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38563,
+    "title": "The MEO durability crisis: why LEO hardware will fail the new orbital economy",
+    "authors": [
+      {
+        "name": "Tony Morrin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/RBSP_ArrayDeployment.jpg?fit=1024%2C577&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nTo some, space is the final frontier. But the reality is that once you leave Earth’s atmosphere, you’re not entering a single, uniform void. There are several frontiers up there […]\nThe post The MEO durability crisis: why LEO hardware will fail the new orbital economy  appeared first on SpaceNews.",
+    "published_at": "2026-06-19T13:00:00Z",
+    "updated_at": "2026-06-19T13:10:24.790594Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38564,
+    "title": "Ariane 6 flight VA269: Liftoff captured from the mobile gantry",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Ariane_6_flight_VA269_Liftoff_captured_from_the_mobile_gantry",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/ariane_6_flight_va269_liftoff_captured_from_the_mobile_gantry/27337902-1-eng-GB/Ariane_6_flight_VA269_Liftoff_captured_from_the_mobile_gantry_card_full.png",
+    "news_site": "ESA",
+    "summary": "On 17 June at 09:21 local time (13:21 BST, 14:21 CEST), Ariane 6 flight VA269 soared to orbit from Europe’s Spaceport in French Guiana. 36 satellites for Amazon’s Leo constellation left Earth powered by four P160C-based boosters, the first time these upgraded boosters were used – making this launch the most powerful so far for Europe’s heavy-lift rocket. ",
+    "published_at": "2026-06-19T12:39:00Z",
+    "updated_at": "2026-06-19T13:20:11.503904Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -896,212 +1063,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38518,
-    "title": "Ariane 6 flight VA269 - full replay",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Ariane_6_flight_VA269_-_full_replay",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/ariane_6_flight_va269_-_full_replay/27334099-1-eng-GB/Ariane_6_flight_VA269_-_full_replay_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "On the 17th of June Ariane 6 flight VA269 soared to orbit from Europe's Spaceport in French Guiana. The latest generation of Europe's largest and most powerful rocket launched 36 satellites for Amazon's Leo constellation. ",
-    "published_at": "2026-06-17T16:30:00Z",
-    "updated_at": "2026-06-17T16:50:12.013325Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38517,
-    "title": "347th ESA Council: Media information session",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/347th_ESA_Council_Media_information_session",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/347th_esa_council_media_information_session/27332412-3-eng-GB/347th_ESA_Council_Media_information_session_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Watch the replay of the media information session where ESA Director General Josef Aschbacher and outgoing ESA Council Chair Renato Krpoun provide an update on the main outcomes of the 347th ESA Council meeting, held at ESA Headquarters in Paris on 16–17 June 2026.",
-    "published_at": "2026-06-17T15:00:00Z",
-    "updated_at": "2026-06-17T15:20:12.608965Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38515,
-    "title": "Hubble Sees Swarm of Galaxies",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/macs0329-0211-sky-sreg-flat-final.jpg",
-    "news_site": "NASA",
-    "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of how the structure of the universe evolved, and are the ultimate telescopic lenses, placing gravitationally lensed galaxies from the […]",
-    "published_at": "2026-06-17T14:56:13Z",
-    "updated_at": "2026-06-17T15:00:13.999919Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38514,
-    "title": "Launch Preview: 10 launches scheduled from sites across the world",
-    "authors": [
-      {
-        "name": "Haygen Warren",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/06/launch-preview-061626/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "A very busy launch manifest is expected in the upcoming week, with 10 launches scheduled…\r\nThe post Launch Preview: 10 launches scheduled from sites across the world appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-06-17T14:30:34Z",
-    "updated_at": "2026-06-17T14:47:31.103408Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "bad5ea8c-8b17-4cb3-a063-d427fb092275",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "0ff43072-5407-425b-8c8d-6bca068143b9",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "756a042f-3da8-4a21-bb42-5996fc148050",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "5d4099bf-a0be-4f54-b236-b6ab3aed4146",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "de5fbae3-66b9-4bbf-8938-4d55f3318c07",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "cf655887-1cc5-4ef5-b8be-2821d5af17c9",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "74bf8472-9ba1-42d6-9245-b014f8e91de9",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "A very busy launch manifest is expected in the upcoming week, with 10 launches scheduled…\r\nThe post Launch Preview: 10 launches scheduled from sites across the world appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 38516,
-    "title": "Ariane 6 launches with more powerful boosters: a new record for Europe",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_with_more_powerful_boosters_a_new_record_for_Europe",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/first_ariane_6_liftoff_with_most_powerful_boosters/27332492-2-eng-GB/First_Ariane_6_liftoff_with_most_powerful_boosters_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-06-17T13:50:00Z",
-    "updated_at": "2026-06-17T15:20:12.210181Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38526,
-    "title": "Liftoff: first Ariane 6 liftoff with P160C-based boosters",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Liftoff_first_Ariane_6_liftoff_with_P160C-based_boosters",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/liftoff_first_ariane_6_liftoff_with_p160c-based_boosters/27334547-2-eng-GB/Liftoff_first_Ariane_6_liftoff_with_P160C-based_boosters_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-06-17T13:06:00Z",
-    "updated_at": "2026-06-18T08:08:41.735202Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38558,
-    "title": "Seen from above: liftoff of first Ariane 6 with P160C-based boosters",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Seen_from_above_liftoff_of_first_Ariane_6_with_P160C-based_boosters",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/seen_from_above_liftoff_of_first_ariane_6_with_p160c-based_boosters/27337624-2-eng-GB/Seen_from_above_liftoff_of_first_Ariane_6_with_P160C-based_boosters_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-06-17T13:06:00Z",
-    "updated_at": "2026-06-19T10:00:15.922635Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38557,
-    "title": "Liftoff: first Ariane 6 liftoff with P160C-based boosters",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Liftoff_first_Ariane_6_liftoff_with_P160C-based_boosters2",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/liftoff_first_ariane_6_liftoff_with_p160c-based_boosters2/27334547-2-eng-GB/Liftoff_first_Ariane_6_liftoff_with_P160C-based_boosters_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-06-17T13:06:00Z",
-    "updated_at": "2026-06-19T09:50:20.049677Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
