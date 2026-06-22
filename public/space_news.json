@@ -1,5 +1,25 @@
 [
   {
+    "id": 38575,
+    "title": "NASA’s Nancy Grace Roman Space Telescope arrives in Florida",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260621_nancy_grace_roman_telescope_KSC_VAB_AB.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The $4.3 billion observatory will go through about 70 days of prelaunch processing at NASA's Kennedy Space Center before it launches on a SpaceX Falcon Heavy rocket no earlier than August 30. ",
+    "published_at": "2026-06-22T00:40:47Z",
+    "updated_at": "2026-06-22T00:50:32.144344Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38574,
     "title": "What’s Happening in Space Policy June 21-27, 2026",
     "authors": [
@@ -1040,32 +1060,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Terran R, the heavy-lift vehicle currently being developed by Relativity Space, is reaching significant milestones…\nThe post Terran R second stage heads to Stennis as Relativity advances toward 2026 debut appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 38522,
-    "title": "Relativity Space to privately develop Mars orbiter mission",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/relativity-marsorbiter.jpeg?fit=1024%2C571&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nRelativity Space plans to launch a Mars orbiter in 2028 as part of a new initiative to privately develop planetary missions.\nThe post Relativity Space to privately develop Mars orbiter mission appeared first on SpaceNews.",
-    "published_at": "2026-06-17T20:45:04Z",
-    "updated_at": "2026-06-17T20:50:18.100193Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
