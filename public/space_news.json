@@ -1,5 +1,92 @@
 [
   {
+    "id": 38580,
+    "title": "America is about to cede Africa’s space industry to China, and nobody’s talking about it.",
+    "authors": [
+      {
+        "name": "Philip Dackiw",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/africa-by-discovr.webp?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIf the Trump administration is serious about executing its “America First in Africa” policy and transforming American engagement on the continent, it needs to focus on sectors where it still […]\nThe post America is about to cede Africa’s space industry to China, and nobody’s talking about it. appeared first on SpaceNews.",
+    "published_at": "2026-06-22T13:00:00Z",
+    "updated_at": "2026-06-22T13:10:18.270426Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38578,
+    "title": "Astroscale raises funding to support growth strategy",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/ELSA-M-small-scaled.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSatellite servicing company Astroscale is working to transition from technology demonstrations to a regular series of missions, bolstered by a recent capital infusion.\nThe post Astroscale raises funding to support growth strategy appeared first on SpaceNews.",
+    "published_at": "2026-06-22T12:13:11Z",
+    "updated_at": "2026-06-22T12:20:32.462720Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38576,
+    "title": "ESA Astronaut Tests European Spacesuit Prototype Aboard ISS",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-astronaut-tests-european-spacesuit-prototype-aboard-iss/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/ESA-Sstronaut-Tests-European-Spacesuit-Prototype-Aboard-ISS.webp",
+    "news_site": "European Spaceflight",
+    "summary": "ESA astronaut Sophie Adenot has tested a European intravehicular activity (IVA) spacesuit prototype aboard the International Space Station (ISS). In addition to testing in space, a second prototype has undergone a water survival test campaign in Marseille. The EuroSuit project was initiated by the French space agency CNES in December 2023, with its development led […]\nThe post ESA Astronaut Tests European Spacesuit Prototype Aboard ISS appeared first on European Spaceflight.",
+    "published_at": "2026-06-22T11:08:12Z",
+    "updated_at": "2026-06-22T11:10:10.710941Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38579,
+    "title": "Signs of Thaw in the Bering Sea",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_tmo_20260603.jpg",
+    "news_site": "NASA",
+    "summary": "Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice.",
+    "published_at": "2026-06-22T04:01:00Z",
+    "updated_at": "2026-06-22T13:10:05.669527Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38575,
     "title": "NASA’s Nancy Grace Roman Space Telescope arrives in Florida",
     "authors": [
@@ -699,6 +786,36 @@
     "detailed_news": ""
   },
   {
+    "id": 38577,
+    "title": "NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/lucy/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lucy/Lucy-DJ-QUE97990-Spectra.jpg",
+    "news_site": "NASA",
+    "summary": "Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history. Formed as fragments coalesced after a violent collision 155 million years ago, the asteroid was transformed by the […]",
+    "published_at": "2026-06-18T18:04:41Z",
+    "updated_at": "2026-06-22T13:15:54.490321Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "7e2d0fe7-6156-442d-be4e-cbac85f259e5",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 397,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
     "id": 38540,
     "title": "Space Force’s rapid acquisition office director moves to Air Force Nuclear Weapons Center",
     "authors": [
@@ -948,117 +1065,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 38527,
-    "title": "Blue Origin begins rebuilding New Glenn pad",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/isaacman-lc36.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "Blue Origin has started rebuilding a launch pad severely damaged in a New Glenn explosion less than three weeks ago as it works to resume launches by year’s end\r\nThe post Blue Origin begins rebuilding New Glenn pad appeared first on SpaceNews.",
-    "published_at": "2026-06-18T11:01:48Z",
-    "updated_at": "2026-06-18T11:43:14.400492Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38528,
-    "title": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-16-at-5.52.29-PM.png?fit=1024%2C596&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe company plans to deliver a fuel-transfer vehicle to the U.S. Space Force by 2028\nThe post Quantum Space wins Pentagon contract to develop orbital refueling spacecraft appeared first on SpaceNews.",
-    "published_at": "2026-06-18T11:00:00Z",
-    "updated_at": "2026-06-18T11:10:17.836377Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38525,
-    "title": "El Niño Is Underway",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-is-underway/elnino_sen6_20260608.jpg",
-    "news_site": "NASA",
-    "summary": "Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.",
-    "published_at": "2026-06-18T04:00:00Z",
-    "updated_at": "2026-06-18T04:10:05.825708Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38524,
-    "title": "NASA Announces Public-Private Partnership to Advance Mars Science",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc00375-002.jpeg",
-    "news_site": "NASA",
-    "summary": "NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric‑science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise operations necessary to deliver the instruments to Mars. This partnership reflects NASA’s growing commitment […]",
-    "published_at": "2026-06-17T22:29:09Z",
-    "updated_at": "2026-06-17T22:30:05.188226Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38523,
-    "title": "Terran R second stage heads to Stennis as Relativity advances toward 2026 debut",
-    "authors": [
-      {
-        "name": "Eleanor Day",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/06/relativity-update-0626/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/IMG_4456.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "Terran R, the heavy-lift vehicle currently being developed by Relativity Space, is reaching significant milestones…\nThe post Terran R second stage heads to Stennis as Relativity advances toward 2026 debut appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-06-17T22:12:10Z",
-    "updated_at": "2026-06-17T22:20:11.355350Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Terran R, the heavy-lift vehicle currently being developed by Relativity Space, is reaching significant milestones…\nThe post Terran R second stage heads to Stennis as Relativity advances toward 2026 debut appeared first on NASASpaceFlight.com."
   }
 ]
