@@ -1,6 +1,6 @@
 {
-  "count": 7,
-  "last_updated": "2026-06-23T12:49:43.645561Z",
+  "count": 9,
+  "last_updated": "2026-06-23T18:35:25.007278Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (7 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
     {
@@ -194,6 +194,47 @@
       "ai_summary": ""
     },
     {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
+      "status": "Go",
+      "net": "2026-06-29T05:00:00Z",
+      "window_start": "2026-06-29T05:00:00Z",
+      "window_end": "2026-06-29T09:00:00Z",
+      "lsp_name": "Agency for Defense Development",
+      "lsp_description": "The Agency for Defense Development (ADD) is the South Korean national agency for research and development in defense technology, funded by the Defense Acquisition Program Administration (DAPA). Its purpose is contributing to enforcing the national defence, to improving the national R&D capacity, and to fostering the domestic defense industry.",
+      "lsp_type": "Government",
+      "lsp_country": "KOR",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/agency2520for2520defense2520development_logo_20231204144839.png",
+      "mission_name": "Demo Flight",
+      "mission_description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+      "mission_type": "Test Flight",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "ADD Offshore launch platform, Sea Launch",
+      "pad": "ADD Offshore launch platform",
+      "location": "Sea Launch",
+      "rocket": "South Korean ADD Solid-Fuel SLV",
+      "rocket_config_description": "",
+      "rocket_config_family": "South Korean ADD Solid-Fuel SLV",
+      "rocket_config_full_name": "South Korean ADD Solid-Fuel SLV",
+      "rocket_config_total_launch_count": 0,
+      "rocket_config_successful_launches": 0,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Agency for Defense Development",
+      "rocket_manufacturer_type": "Government",
+      "rocket_manufacturer_description": "The Agency for Defense Development (ADD) is the South Korean national agency for research and development in defense technology, funded by the Defense Acquisition Program Administration (DAPA). Its purpose is contributing to enforcing the national defence, to improving the national R&D capacity, and to fostering the domestic defense industry.",
+      "rocket_manufacturer_total_launch_count": 1,
+      "rocket_manufacturer_successful_launches": 1,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
       "id": "491122a3-3eff-42db-aff3-424b3431fc0b",
       "name": "Falcon 9 Block 5 | Starlink Group 17-46",
       "status": "Go",
@@ -276,6 +317,55 @@
       "ai_summary": ""
     },
     {
+      "id": "1ef27ca1-af91-48bb-b934-3da5abd9f711",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-50",
+      "status": "Go",
+      "net": "2026-07-03T11:20:00Z",
+      "window_start": "2026-07-03T11:20:00Z",
+      "window_end": "2026-07-03T15:20:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Starlink Group 10-50",
+      "mission_description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mission_type": "Communications",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Space Launch Complex 40, Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "location": "Cape Canaveral SFS, FL, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 599,
+      "rocket_config_successful_launches": 597,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 116,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 694,
+      "rocket_manufacturer_successful_launches": 678,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/1ef27ca1-af91-48bb-b934-3da5abd9f711/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "Starlink Mission",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/HLf6aJAXIAAaM5M.jpg",
+          "url": "https://x.com/i/broadcasts/1oKMvvkZZAOGQ"
+        }
+      ],
+      "ai_summary": ""
+    },
+    {
       "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
       "name": "H3-22 | Michibiki 7 (QZS-7)",
       "status": "Go",
@@ -321,7 +411,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 7,
-    "total_launches": 7
+    "empty_summaries": 9,
+    "total_launches": 9
   }
 }
