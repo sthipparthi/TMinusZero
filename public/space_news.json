@@ -1,5 +1,117 @@
 [
   {
+    "id": 38638,
+    "title": "Rocket Factory Augsburg Details RFA ONE Upgrades and RFA TWO Plans",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/rocket-factory-augsburg-details-rfa-one-upgrades-and-rfa-two-plans/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/Rocket-Factory-Augsburg-Details-RFA-ONE-Upgrades-and-RFA-TWO-Plans.webp",
+    "news_site": "European Spaceflight",
+    "summary": "During an OHB Capital Markets Update in May, German launch services provider Rocket Factory Augsburg (RFA) outlined its planned path towards developing a fully reusable heavy-lift rocket called RFA TWO. RFA was founded as a spin-off of OHB, which still holds a 65% stake in the company. It is currently developing its RFA ONE rocket, […]\nThe post Rocket Factory Augsburg Details RFA ONE Upgrades and RFA TWO Plans appeared first on European Spaceflight.",
+    "published_at": "2026-06-24T14:31:52Z",
+    "updated_at": "2026-06-24T14:40:09.313940Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38637,
+    "title": "Vast signs additional partners for commercial space station microgravity research",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/haven1-research.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nCommercial space station company Vast announced June 24 the addition of several companies and organizations to its network of partners for microgravity research and manufacturing.\nThe post Vast signs additional partners for commercial space station microgravity research appeared first on SpaceNews.",
+    "published_at": "2026-06-24T13:42:07Z",
+    "updated_at": "2026-06-24T13:50:17.975950Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38636,
+    "title": "Career Spotlight: Electrician (Ages 14-18)",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/learning-resources/career-spotlight-electrician-ages-14-18/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/05/eap-labs-hyper-4.jpg",
+    "news_site": "NASA",
+    "summary": "What does an electrician do? Electricity powers the world, and electricians are the ones who get it where it needs to go. An electrician is an expert who is trained to make sure electrical systems and equipment are installed safely and working correctly. Electricians are involved in a variety of systems, including power, lighting, communications, […]",
+    "published_at": "2026-06-24T13:37:41Z",
+    "updated_at": "2026-06-24T13:40:05.840263Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38634,
+    "title": "York satellite demonstrates two-way UHF communications from low Earth orbit",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/york-satellite-demonstrates-two-way-uhf-communications-from-low-earth-orbit/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/9362164-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "WASHINGTON — York Space Systems said June 24 that a satellite it built for the U.S. Space Force successfully demonstrated two-way tactical communications using ultra-high-frequency (UHF) links from low Earth […]\r\nThe post York satellite demonstrates two-way UHF communications from low Earth orbit appeared first on SpaceNews.",
+    "published_at": "2026-06-24T13:02:31Z",
+    "updated_at": "2026-06-24T13:24:48.493193Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "0d3c2ff0-3b31-4066-8b33-5759b6866c39",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38635,
+    "title": "How space weather could bust the AI boom",
+    "authors": [
+      {
+        "name": "Scott McIntosh",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/how-space-weather-could-bust-the-ai-boom/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/solar_flare-scaled.jpg?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAmerica’s electric grid is entering a period of unprecedented strain. Utilities across the country are scrambling to keep up as power-hungry AI data centers expand at a staggering pace, often […]\nThe post How space weather could bust the AI boom appeared first on SpaceNews.",
+    "published_at": "2026-06-24T13:00:00Z",
+    "updated_at": "2026-06-24T13:20:18.932493Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38633,
     "title": "Vantor selects BAE Systems to build next-generation imaging satellites",
     "authors": [
@@ -41,33 +153,6 @@
     "summary": "\nSpaceX launched the first test flight of its Starfall reentry capsule June 23, but the mission remained as secretive as the program itself.\nThe post SpaceX launches secretive Starfall reentry demo mission appeared first on SpaceNews.",
     "published_at": "2026-06-24T11:39:59Z",
     "updated_at": "2026-06-24T11:40:35.046921Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38631,
-    "title": "NGSO trade association launches without industry giant SpaceX",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Starlink-Satellite-Trails-over-Brazil-credit-NASA_Egon-Filter.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAmazon and several other non-geostationary satellite operators have formed a trade association to represent their fast-growing market, with SpaceX notably absent despite having by far the largest NGSO constellation.\nThe post NGSO trade association launches without industry giant SpaceX appeared first on SpaceNews.",
-    "published_at": "2026-06-24T10:00:00Z",
-    "updated_at": "2026-06-24T10:00:23.736367Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -120,6 +205,33 @@
         "provider": "Launch Library 2"
       }
     ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38631,
+    "title": "NGSO trade association launches without industry giant SpaceX",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Starlink-Satellite-Trails-over-Brazil-credit-NASA_Egon-Filter.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAmazon and several other non-geostationary satellite operators have formed a trade association to represent their fast-growing market, with SpaceX notably absent despite having by far the largest NGSO constellation.\nThe post NGSO trade association launches without industry giant SpaceX appeared first on SpaceNews.",
+    "published_at": "2026-06-24T10:00:00Z",
+    "updated_at": "2026-06-24T10:00:23.736367Z",
+    "featured": false,
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -923,106 +1035,6 @@
     "summary": "NASA’s Wallops Flight Facility in Virginia is scheduled to launch a sounding rocket carrying student-developed experiments for the agency’s RockSatX and RockOn programs Wednesday, June 24, between 5:30 and 9:30 a.m. EDT, with a backup day on Thursday, June 25. The RockSat and RockOn programs provide technical training and hands-on experiences that prepare and equip […]",
     "published_at": "2026-06-22T20:42:34Z",
     "updated_at": "2026-06-22T20:50:05.767374Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38588,
-    "title": "NASA Invites Media to Botswana Artemis Accords Signing Ceremony",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
-    "news_site": "NASA",
-    "summary": "The Republic of Botswana will sign the Artemis Accords during a ceremony at 9:30 a.m. EDT Thursday, June 25, at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Botswana’s Minister of Communications and Innovation David Tshere and U.S. Department of State Senior Advisor for Space Gregory Autry for the event. This event […]",
-    "published_at": "2026-06-22T19:21:27Z",
-    "updated_at": "2026-06-22T19:30:06.522638Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Republic of Botswana will sign the Artemis Accords during a ceremony at 9:30 a.m. EDT Thursday, June 25, at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Botswana’s Minister of Communications and Innovation David Tshere and U.S. Department of State Senior Advisor for Space Gregory Autry for the event. This event […]"
-  },
-  {
-    "id": 38586,
-    "title": "NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/",
-    "image_url": "https://images-assets.nasa.gov/image/AFRC2023-0033-18/AFRC2023-0033-18~large.jpg",
-    "news_site": "NASA",
-    "summary": "At NASA, innovation begins well before an aircraft takes flight. The Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards, California, transforms engineering concepts into mission‑ready hardware for research aircraft and technology development. This capability helps the agency deliver advancements that benefit the public by improving aviation safety, efficiency, and sustainability. The branch […]",
-    "published_at": "2026-06-22T17:47:00Z",
-    "updated_at": "2026-06-22T17:50:14.705951Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38587,
-    "title": "Chinese spaceplane releases object into orbit, according to commercial space surveillance",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Shenzhou22-launch-CZ2F-JSLC-25nov2025-CASC.jpg?fit=1024%2C681&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nChina’s secretive spaceplane has released an object into orbit during its ongoing fourth mission, according to space surveillance firm LeoLabs.\nThe post Chinese spaceplane releases object into orbit, according to commercial space surveillance appeared first on SpaceNews.",
-    "published_at": "2026-06-22T17:42:59Z",
-    "updated_at": "2026-06-22T17:50:32.897598Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38585,
-    "title": "NASA’s Chandra Finds Possible Supernova Remnant",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/sgrc-lg.jpg",
-    "news_site": "NASA",
-    "summary": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant – seen in this June 11, 2026, image – in an intriguing neighborhood in the middle of the Milky Way galaxy. Supernova remnants are the expanding remains of exploded stars and provide elements like iron, oxygen, and silicon that are critical […]",
-    "published_at": "2026-06-22T17:39:37Z",
-    "updated_at": "2026-06-22T17:40:06.152654Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38584,
-    "title": "NASA to Cover US Spacewalk 95, Host Preview News Conference",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/spacewalk-95-advisory-june-22.jpg",
-    "news_site": "NASA",
-    "summary": "NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic arm. The spacewalk is scheduled to begin at approximately 8 a.m. EDT. Experts from NASA and CSA (Canadian Space Agency) will preview the upcoming spacewalk during a news conference at 2 […]",
-    "published_at": "2026-06-22T16:45:24Z",
-    "updated_at": "2026-06-22T16:50:06.038896Z",
     "featured": false,
     "launches": [],
     "events": [],
