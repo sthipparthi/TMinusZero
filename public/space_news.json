@@ -1,5 +1,125 @@
 [
   {
+    "id": 38664,
+    "title": "ASAP Worries About ISS, GAO Wonders What Comes Next",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/asap-worries-about-iss-gao-wonders-what-comes-next/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/03/Crew-10-view-of-ISS-Mar-15-25-300x160.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "NASA’s Aerospace Safety Advisory Panel and the Government Accountability Office are raising concerns about the future of the International Space Station and the pace of efforts to build commercial space […]",
+    "published_at": "2026-06-25T16:30:29Z",
+    "updated_at": "2026-06-25T16:40:09.083366Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38663,
+    "title": "Millions of Stars in Cigar Galaxy",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/55352876103-02b858152c-o.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA’s Hubble Space Telescope, gives us a more complete picture of this starburst galaxy. Because Webb can see infrared light, it is able to peer through clouds of […]",
+    "published_at": "2026-06-25T16:24:23Z",
+    "updated_at": "2026-06-25T16:30:05.865622Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38662,
+    "title": "Small satellite operators confront a bottleneck to space access",
+    "authors": [
+      {
+        "name": "Debra Werner and Emma Gatti",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/f9-transporter15.jpeg?fit=1024%2C682&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFor years, small satellite manufacturers have built their business plans around the idea that SpaceX could launch their payload to space. Through its Falcon 9 Transporter and Bandwagon rideshare missions, […]\nThe post Small satellite operators confront a bottleneck to space access appeared first on SpaceNews.",
+    "published_at": "2026-06-25T16:01:06Z",
+    "updated_at": "2026-06-25T16:10:12.811581Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38661,
+    "title": "Finding solutions to jamming and spoofing",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/finding-solutions-to-jamming-and-spoofing/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/space-minds-podcast-iridium-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIn this episode of Space Minds, Mike Gruss talks with Iridium’s Tim Last. They discuss competition in the direct-to-device and Internet-of-Things sector as well as solutions to GPS jamming problems […]\nThe post Finding solutions to jamming and spoofing appeared first on SpaceNews.",
+    "published_at": "2026-06-25T14:51:35Z",
+    "updated_at": "2026-06-25T15:00:23.893564Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38660,
+    "title": "Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center",
+    "authors": [
+      {
+        "name": "Sawyer Rosenstein",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/06/endeavour-exhibit-reveal/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/DSC08356-2-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "After 25 flights, Space Shuttle Endeavour is set to complete its next mission of education.…\nThe post Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-06-25T14:07:05Z",
+    "updated_at": "2026-06-25T14:10:18.399799Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38659,
+    "title": "Europe faces the heat",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Europe_faces_the_heat",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/europe_faces_the_heat/27347362-2-eng-GB/Europe_Faces_the_Heat_card_full.png",
+    "news_site": "ESA",
+    "summary": "Europe is facing an intense heatwave, with record temperatures and several cities under red alert. On 23 June, France recorded its hottest June day ever.",
+    "published_at": "2026-06-25T13:00:00Z",
+    "updated_at": "2026-06-25T13:40:11.606004Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38658,
     "title": "House Appropriations Committee approves $55.5 billion for U.S. Space Force",
     "authors": [
@@ -575,27 +695,29 @@
     "detailed_news": ""
   },
   {
-    "id": 38629,
-    "title": "ESA’s Euclid captures the Milky Way’s crowded heart",
+    "id": 38631,
+    "title": "NGSO trade association launches without industry giant SpaceX",
     "authors": [
       {
-        "name": "ESA",
-        "socials": null
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
       }
     ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/esa_s_euclid_captures_the_milky_way_s_crowded_heart/27343452-1-eng-GB/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart_card_full.png",
-    "news_site": "ESA",
-    "summary": "This is the largest high-resolution photo ever made of our Milky Way galaxy’s centre in visible light. It was taken on 23 March 2025 by the European Space Agency’s Euclid space telescope. Packed with more than 60 million stars, this image opens the door for scientists to confirm the existence of any exoplanet found in this region and measure its mass using tiny changes in starlight over time.",
+    "url": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Starlink-Satellite-Trails-over-Brazil-credit-NASA_Egon-Filter.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAmazon and several other non-geostationary satellite operators have formed a trade association to represent their fast-growing market, with SpaceX notably absent despite having by far the largest NGSO constellation.\nThe post NGSO trade association launches without industry giant SpaceX appeared first on SpaceNews.",
     "published_at": "2026-06-24T10:00:00Z",
-    "updated_at": "2026-06-24T11:11:39.916440Z",
+    "updated_at": "2026-06-24T10:00:23.736367Z",
     "featured": false,
-    "launches": [
-      {
-        "launch_id": "49d20d1b-18dd-4da6-a061-eacd0156fcc4",
-        "provider": "Launch Library 2"
-      }
-    ],
+    "launches": [],
     "events": [],
     "detailed_news": ""
   },
@@ -625,29 +747,27 @@
     "detailed_news": ""
   },
   {
-    "id": 38631,
-    "title": "NGSO trade association launches without industry giant SpaceX",
+    "id": 38629,
+    "title": "ESA’s Euclid captures the Milky Way’s crowded heart",
     "authors": [
       {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
+        "name": "ESA",
+        "socials": null
       }
     ],
-    "url": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Starlink-Satellite-Trails-over-Brazil-credit-NASA_Egon-Filter.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAmazon and several other non-geostationary satellite operators have formed a trade association to represent their fast-growing market, with SpaceX notably absent despite having by far the largest NGSO constellation.\nThe post NGSO trade association launches without industry giant SpaceX appeared first on SpaceNews.",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/esa_s_euclid_captures_the_milky_way_s_crowded_heart/27343452-1-eng-GB/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart_card_full.png",
+    "news_site": "ESA",
+    "summary": "This is the largest high-resolution photo ever made of our Milky Way galaxy’s centre in visible light. It was taken on 23 March 2025 by the European Space Agency’s Euclid space telescope. Packed with more than 60 million stars, this image opens the door for scientists to confirm the existence of any exoplanet found in this region and measure its mass using tiny changes in starlight over time.",
     "published_at": "2026-06-24T10:00:00Z",
-    "updated_at": "2026-06-24T10:00:23.736367Z",
+    "updated_at": "2026-06-24T11:11:39.916440Z",
     "featured": false,
-    "launches": [],
+    "launches": [
+      {
+        "launch_id": "49d20d1b-18dd-4da6-a061-eacd0156fcc4",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -930,126 +1050,6 @@
     "summary": "58th Girl Scouts Unite Event, July 23-25, 2026 Join NASA in the Exhibit Hall (Booth #206) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. Thursday, July 23 11:00AM – 11:15 AMFrom Daisy to NASA EngineerBarbara Hilton11:15AM – 11:30 AMExploring Mars, The Planet Next DoorLindsay Hays11:30AM – 11:45 AMGet Ready With Me: Going to […]",
     "published_at": "2026-06-23T18:51:47Z",
     "updated_at": "2026-06-23T19:10:06.124390Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38614,
-    "title": "Ubotica raises $11 million to scale maritime-intelligence platform",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_aubrey_dunne_cto_fintan_buckley_ceo_and_john_bourke_co-founder__cfo_with_a_satellite_model_of_cognisant-6_of_ubotica_picture__fergal_phillips.jpg?fit=879%2C495&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Ubotica Technologies, an Irish company focused on artificial intelligence for spacecraft, has raised $11 million to expand commercial sales of its maritime-intelligence platform. The platform, Live Maritime […]\nThe post Ubotica raises $11 million to scale maritime-intelligence platform appeared first on SpaceNews.",
-    "published_at": "2026-06-23T17:48:22Z",
-    "updated_at": "2026-06-23T17:50:23.913551Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38613,
-    "title": "2026 ALA Hyperwall Schedule",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/2026-ala-hyperwall-schedule/",
-    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "news_site": "NASA",
-    "summary": "American Library Association (ALA) Annual Conference, June 25-29, 2026 Join NASA in the Exhibit Hall (Booth #2243) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. FRIDAY, JUNE 26 SATURDAY, JUNE 27 SUNDAY, JUNE 28 MONDAY, JUNE 29",
-    "published_at": "2026-06-23T16:23:22Z",
-    "updated_at": "2026-06-23T17:10:05.775651Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38611,
-    "title": "This is How NASA Flight Tests New Technology",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/",
-    "image_url": "https://images-assets.nasa.gov/image/AFRC2026-0095-04/AFRC2026-0095-04~large.jpg",
-    "news_site": "NASA",
-    "summary": "Flight tests are a big part of how NASA turns breakthrough ideas into reality. From flying humans faster than the speed of sound to proving designs that helped shape the space shuttle, flight testing transforms bold concepts into safer, more efficient technologies that benefit the public. “Flight tests are a way to safely and effectively […]",
-    "published_at": "2026-06-23T16:00:00Z",
-    "updated_at": "2026-06-23T16:00:17.954277Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38612,
-    "title": "Sophia selects Apex bus for on-orbit computing demonstration",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_odc2.jpg?fit=879%2C494&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Sophia Space announced the selection June 22 of an Apex bus for its first orbital computing node. Pasadena, California-based Sophia plans to demonstrate its Thermal Integrated LEO […]\nThe post Sophia selects Apex bus for on-orbit computing demonstration appeared first on SpaceNews.",
-    "published_at": "2026-06-23T15:56:58Z",
-    "updated_at": "2026-06-23T16:00:45.270111Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38610,
-    "title": "Hanging in the Balance",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/hanging-in-the-balance/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/art002e024603orig.jpg",
-    "news_site": "NASA",
-    "summary": "The Moon appears half-illuminated in this photo captured by the Artemis II crew on flight day 6. The terminator – the difference between light and darkness – provides a stark contrast and even greater perspective of the Moon’s rocky, uneven, and otherworldly surface features. The near side, which is what we can see from Earth, […]",
-    "published_at": "2026-06-23T15:43:54Z",
-    "updated_at": "2026-06-23T15:50:15.674454Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38609,
-    "title": "ESA Details Next Steps for Agency’s Gateway Contributions",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-details-next-steps-for-agencys-gateway-contributions/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/ESA-Details-Next-Steps-for-Agencys-Gateway-Contributions.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency (ESA) has made initial decisions on the future of its contributions to NASA’s Gateway space station after the US space agency “paused” the programme. The agency largely expects to proceed with developing most of its planned Gateway hardware while awaiting the results of studies on how best to repurpose each element. […]\nThe post ESA Details Next Steps for Agency’s Gateway Contributions appeared first on European Spaceflight.",
-    "published_at": "2026-06-23T15:38:33Z",
-    "updated_at": "2026-06-23T15:40:10.476280Z",
     "featured": false,
     "launches": [],
     "events": [],
