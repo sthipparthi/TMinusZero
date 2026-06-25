@@ -1,5 +1,45 @@
 [
   {
+    "id": 38651,
+    "title": "A Turquoise Tint for the Black Sea",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/blackseabloom_pace_20260622.jpg",
+    "news_site": "NASA",
+    "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
+    "published_at": "2026-06-25T04:00:00Z",
+    "updated_at": "2026-06-25T04:10:05.762686Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38650,
+    "title": "NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/06/super-puff-03-v03.jpg",
+    "news_site": "NASA",
+    "summary": "NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the “puffiest” worlds ever found.",
+    "published_at": "2026-06-25T01:04:16Z",
+    "updated_at": "2026-06-25T01:10:05.618160Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38649,
     "title": "Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX’s Starlink network",
     "authors": [
@@ -995,46 +1035,6 @@
     "summary": "\nLoft Orbital is working with NASA’s Jet Propulsion Laboratory to test the use of artificial intelligence on spacecraft to improve Earth science monitoring.\nThe post Loft Orbital to test AI models on spacecraft for Earth observation appeared first on SpaceNews.",
     "published_at": "2026-06-23T13:00:00Z",
     "updated_at": "2026-06-23T13:00:40.002467Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38603,
-    "title": "Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Satellogic_Tabriz.jpg?fit=1024%2C647&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nCompanies are looking to fill demand from defense and intelligence agencies for persistent surveillance rather than one-off imagery purchases.\nThe post Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation appeared first on SpaceNews.",
-    "published_at": "2026-06-23T12:00:00Z",
-    "updated_at": "2026-06-23T12:10:38.555637Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38601,
-    "title": "China appears to be developing 7-meter-diameter reusable rockets",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/CZ12B-debut-sunset-JSLC-1-CASC.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA state-funded tender for tank tooling, a delivered stainless steel forging and launch pad planning suggest that China is developing 7-meter-diameter reusable rockets.\nThe post China appears to be developing 7-meter-diameter reusable rockets appeared first on SpaceNews.",
-    "published_at": "2026-06-23T10:07:57Z",
-    "updated_at": "2026-06-23T10:10:31.805702Z",
     "featured": false,
     "launches": [],
     "events": [],
