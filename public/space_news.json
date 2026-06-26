@@ -1,5 +1,30 @@
 [
   {
+    "id": 38673,
+    "title": "The Battle for Sullivan’s Island",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-battle-for-sullivan's-island/sc_sullivansisland_oli_20260603.jpg",
+    "news_site": "NASA",
+    "summary": "Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.",
+    "published_at": "2026-06-26T04:00:00Z",
+    "updated_at": "2026-06-26T05:59:35.560800Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "f9b109c7-494a-4dd4-a4ef-daca7ddeb763",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38672,
     "title": "Rocket Lab wins NASA award for three Electron launches",
     "authors": [
@@ -1030,33 +1055,6 @@
     "summary": "Apollo astronauts previewed their roles as lunar field geologists in Alaska’s Valley of Ten Thousand Smokes.",
     "published_at": "2026-06-24T04:01:00Z",
     "updated_at": "2026-06-24T04:10:17.480882Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38624,
-    "title": "OHB raises funding for expansion, acquisitions",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ohbhq.jpeg?fit=1024%2C544&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGerman space company OHB will raise about half a billion euros through a stock sale to allow the company to expand facilities and pursue potential acquisitions.\nThe post OHB raises funding for expansion, acquisitions appeared first on SpaceNews.",
-    "published_at": "2026-06-24T03:09:48Z",
-    "updated_at": "2026-06-24T03:10:31.363045Z",
     "featured": false,
     "launches": [],
     "events": [],
