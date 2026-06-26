@@ -1,5 +1,139 @@
 [
   {
+    "id": 38679,
+    "title": "Starlink veterans launch startup to broaden megaconstellation ownership",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Eclipse-Space_1-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFormer SpaceX engineers who helped build and scale Starlink have launched a startup aiming to deliver megaconstellations for governments and companies seeking more control over space-based infrastructure.\nThe post Starlink veterans launch startup to broaden megaconstellation ownership appeared first on SpaceNews.",
+    "published_at": "2026-06-26T12:00:00Z",
+    "updated_at": "2026-06-26T12:10:13.488003Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38678,
+    "title": "ISS repair spacewalk highlights concerns about station health",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/iss-repair-spacewalk-highlights-concerns-about-station-health/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/isseva-march2026.jpeg?fit=1024%2C838&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA astronauts on the International Space Station are preparing for a spacewalk to repair a robotic arm as advisers raise concerns about the long-term health of the station and spacesuits.\nThe post ISS repair spacewalk highlights concerns about station health appeared first on SpaceNews.",
+    "published_at": "2026-06-26T11:57:53Z",
+    "updated_at": "2026-06-26T12:00:56.030245Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38676,
+    "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8646-lowres-1.webp",
+    "news_site": "Arstechnica",
+    "summary": "Is SpaceX planning to end its Transporter program?",
+    "published_at": "2026-06-26T11:00:59Z",
+    "updated_at": "2026-06-26T11:10:04.336692Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38677,
+    "title": "Europe’s next security challenge is in orbit",
+    "authors": [
+      {
+        "name": "Kammy Brun",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/europes-next-security-challenge-is-in-orbit/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAcross the European Union, satellite navigations alone is thought to underpin more than 10% of GDP. Satellite-dependent activity on the whole is responsible for much more. According to INSEE and […]\nThe post Europe’s next security challenge is in orbit appeared first on SpaceNews.",
+    "published_at": "2026-06-26T11:00:00Z",
+    "updated_at": "2026-06-26T11:10:13.250815Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38675,
+    "title": "Cave training lab",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Cave_training_lab",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/cave_training_lab/27347804-1-eng-GB/Cave_training_lab_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-06-26T08:21:00Z",
+    "updated_at": "2026-06-26T08:50:06.436916Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38674,
+    "title": "Earth from Space: Desert cropland",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Desert_cropland",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_desert_cropland/27346937-1-eng-GB/Earth_from_Space_Desert_cropland_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-06-26T08:00:00Z",
+    "updated_at": "2026-06-26T08:30:31.894272Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38673,
     "title": "The Battle for Sullivan’s Island",
     "authors": [
@@ -915,148 +1049,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38631,
-    "title": "NGSO trade association launches without industry giant SpaceX",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Starlink-Satellite-Trails-over-Brazil-credit-NASA_Egon-Filter.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAmazon and several other non-geostationary satellite operators have formed a trade association to represent their fast-growing market, with SpaceX notably absent despite having by far the largest NGSO constellation.\nThe post NGSO trade association launches without industry giant SpaceX appeared first on SpaceNews.",
-    "published_at": "2026-06-24T10:00:00Z",
-    "updated_at": "2026-06-24T10:00:23.736367Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38629,
-    "title": "ESA’s Euclid captures the Milky Way’s crowded heart",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/esa_s_euclid_captures_the_milky_way_s_crowded_heart/27343452-1-eng-GB/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart_card_full.png",
-    "news_site": "ESA",
-    "summary": "This is the largest high-resolution photo ever made of our Milky Way galaxy’s centre in visible light. It was taken on 23 March 2025 by the European Space Agency’s Euclid space telescope. Packed with more than 60 million stars, this image opens the door for scientists to confirm the existence of any exoplanet found in this region and measure its mass using tiny changes in starlight over time.",
-    "published_at": "2026-06-24T10:00:00Z",
-    "updated_at": "2026-06-24T11:11:39.916440Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "49d20d1b-18dd-4da6-a061-eacd0156fcc4",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38628,
-    "title": "End of the blue glow: BepiColombo turns off solar electric propulsion for Mercury arrival",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Operations/End_of_the_blue_glow_BepiColombo_turns_off_solar_electric_propulsion_for_Mercury_arrival",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/end_of_bepicolombo_s_solar_electric_propulsion/27343532-1-eng-GB/End_of_BepiColombo_s_solar_electric_propulsion_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "At 15:24 CEST on 15 June 2026, a faint blue glow in space was switched off for the last time. After powering BepiColombo's eight-year journey across the inner Solar System, the spacecraft's solar electric propulsion (SEP) system completed its final thrust arc, marking the end of BepiColombo’s long cruise phase and the beginning of its arrival at Mercury.",
-    "published_at": "2026-06-24T07:56:00Z",
-    "updated_at": "2026-06-24T08:44:06.623644Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "e81bd43b-6359-4436-911f-01888c3369ef",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [
-      {
-        "event_id": 394,
-        "provider": "Launch Library 2"
-      }
-    ],
-    "detailed_news": ""
-  },
-  {
-    "id": 38627,
-    "title": "The art of hadrons",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/The_art_of_hadrons",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/the_art_of_hadrons/27332265-1-eng-GB/The_art_of_hadrons_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-06-24T07:55:00Z",
-    "updated_at": "2026-06-24T08:00:44.352731Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38626,
-    "title": "Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/june/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04928_opgs_edr_ncam_NLB_834986212EDR_F1222232NCAM00278M_.jpg",
-    "news_site": "NASA",
-    "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Thursday, June 18, 2026 In the area Curiosity is currently exploring, the science team has mapped several areas with different-looking surface texture on the orbital images. If you wanted to have a look yourself at what there is to […]",
-    "published_at": "2026-06-24T04:34:37Z",
-    "updated_at": "2026-06-24T05:10:05.762094Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38625,
-    "title": "Playing the Moon Game",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/playing-the-moon-game-/tenthousandsmokes_oli2_20250929.jpg",
-    "news_site": "NASA",
-    "summary": "Apollo astronauts previewed their roles as lunar field geologists in Alaska’s Valley of Ten Thousand Smokes.",
-    "published_at": "2026-06-24T04:01:00Z",
-    "updated_at": "2026-06-24T04:10:17.480882Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
