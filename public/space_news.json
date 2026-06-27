@@ -1,5 +1,139 @@
 [
   {
+    "id": 38696,
+    "title": "Rocket Lab launches 10th Synspective satellite",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nRocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission.\nThe post Rocket Lab launches 10th Synspective satellite appeared first on SpaceNews.",
+    "published_at": "2026-06-26T22:17:38Z",
+    "updated_at": "2026-06-26T22:20:15.193711Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38695,
+    "title": "Next-gen astronaut Moon rovers aim for deployment ahead of Artemis 4 crew arrival",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260626_CLV-1_Pegasus_combo.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "On May 26, NASA selected two lunar terrain vehicle providers to create iterative versions of their prior LTV designs that can deploy to the Moon in more timely and cost-effective manner. ",
+    "published_at": "2026-06-26T21:01:28Z",
+    "updated_at": "2026-06-26T21:10:13.853663Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38694,
+    "title": "Spain-backed fund joins FOSSA’s sovereign satellite communications push",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/FOSSA-TEAM.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpanish startup FOSSA Systems has raised about $10.5 million to expand its connectivity constellation in a funding round that included a technology investment vehicle backed by Spain’s government.\nThe post Spain-backed fund joins FOSSA’s sovereign satellite communications push appeared first on SpaceNews.",
+    "published_at": "2026-06-26T20:59:57Z",
+    "updated_at": "2026-06-26T21:00:32.217807Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38693,
+    "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/hulc26-concept1-updated.png",
+    "news_site": "NASA",
+    "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the […]",
+    "published_at": "2026-06-26T19:44:48Z",
+    "updated_at": "2026-06-26T19:50:05.199068Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38692,
+    "title": "Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work",
+    "authors": [
+      {
+        "name": "Ryan Weber",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/Ship-40-Single-Engine-Static-Fire-at-Masseys-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX rolled out Ship 40 for engine testing, but after completing only a single engine…\nThe post Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-06-26T19:33:26Z",
+    "updated_at": "2026-06-26T19:40:06.720350Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38691,
+    "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/03/recuperator.png",
+    "news_site": "NASA",
+    "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as […]",
+    "published_at": "2026-06-26T18:44:07Z",
+    "updated_at": "2026-06-26T18:50:09.401203Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38690,
     "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
     "authors": [
@@ -889,133 +1023,6 @@
     "summary": "Liftoff of the Starlink 17-45 mission from Space Launch Complex 4E at Vandenberg Space Force Base in California is scheduled for 8:19 p.m. PDT (11:19 p.m. EDT / 0319 UTC). ",
     "published_at": "2026-06-24T23:10:20Z",
     "updated_at": "2026-06-24T23:20:20.578139Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38648,
-    "title": "Analysis finds the exploration programs NASA recently canceled were running way late",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NASA_MSFC_031224_USA-DTA-install-onto-test-stand-4large.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"Contract values for these efforts ballooned from nearly $2.8 billion to $5.9 billion.\"",
-    "published_at": "2026-06-24T21:41:03Z",
-    "updated_at": "2026-06-24T21:50:04.778532Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38646,
-    "title": "NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc-7169-nef.jpg",
-    "news_site": "NASA",
-    "summary": "Seven weeks after the Orion spacecraft returned four astronauts from humanity’s first crewed journey around the Moon since Apollo, Artemis II Orion Vehicle Manager Branelle Rodriguez reflected on the mission’s achievements and how it is shaping NASA’s return to the lunar surface and future missions to Mars.  Introduced by NASA’s Johnson Space Center Acting Director of Business Development and Technology Integration Monte Goforth, Rodriguez spoke at the Ion in […]",
-    "published_at": "2026-06-24T21:29:16Z",
-    "updated_at": "2026-06-24T21:30:05.449605Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38647,
-    "title": "Space Force seeks fresh bidders for satellite-control antennas",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/XzDvbuJg.jpeg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWASHINGTON — The U.S. Space Force is launching a new competition for mobile satellite-control antennas, formally restarting a program it canceled after abandoning a $1.7 billion contract with AeroVironment and […]\nThe post Space Force seeks fresh bidders for satellite-control antennas appeared first on SpaceNews.",
-    "published_at": "2026-06-24T21:26:29Z",
-    "updated_at": "2026-06-24T21:30:19.800681Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38644,
-    "title": "NASA to Share Latest Moon Base Mission Progress",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/feature-moonbase-img-2f4057.png",
-    "news_site": "NASA",
-    "summary": "NASA Administrator Jared Isaacman will host a virtual conversation at 2:30 p.m. EDT, Tuesday, June 30, to share updates to NASA’s plans to build a Moon Base on the lunar surface. Administrator Isaacman and Carlos García-Galán, Moon Base program manager, will discuss the next set of awards for new lunar lander missions and preview upcoming […]",
-    "published_at": "2026-06-24T21:13:03Z",
-    "updated_at": "2026-06-24T21:20:04.957477Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38645,
-    "title": "Shield Space and ClearSpace partner to defend satellites from orbital threats",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/54598371-A1EF-44D0-8DEB-A9171236B0C3_1_102_o.jpeg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBritish startup Shield Space plans to combine its autonomous satellite operations software with ClearSpace’s in-orbit servicing capabilities to address emerging orbital threats.\nThe post Shield Space and ClearSpace partner to defend satellites from orbital threats appeared first on SpaceNews.",
-    "published_at": "2026-06-24T21:10:40Z",
-    "updated_at": "2026-06-24T21:20:19.443479Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38642,
-    "title": "Roman Telescope Comes to Kennedy",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/ksc-20260621-ph-ajn01-0166orig.jpg",
-    "news_site": "NASA",
-    "summary": "In this June 21, 2026, photo, NASA’s Nancy Grace Roman Space Telescope arrives at the agency’s Kennedy Space Center in Florida aboard NASA’s Pegasus barge. After offloading and transportation to the spaceport’s Payload Hazardous Servicing Facility, Roman will undergo processing ahead of launch, targeted no earlier than Sunday, Aug. 30, 2026. Named for NASA’s first […]",
-    "published_at": "2026-06-24T19:42:34Z",
-    "updated_at": "2026-06-24T19:50:05.377209Z",
     "featured": false,
     "launches": [],
     "events": [],
