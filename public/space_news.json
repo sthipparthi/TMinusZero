@@ -1,5 +1,65 @@
 [
   {
+    "id": 38700,
+    "title": "Euclid studies Milky Way center, supports future Roman observations",
+    "authors": [
+      {
+        "name": "Martijn Luinstra",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/06/euclid-galactic-bulge-survey/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/euclid_galactic_bulge_roman.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "The European Space Agency (ESA) recently released a new picture of the center of the…\nThe post Euclid studies Milky Way center, supports future Roman observations appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-06-28T21:42:13Z",
+    "updated_at": "2026-06-28T21:50:06.828261Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38699,
+    "title": "What’s Happening in Space Policy June 28-July 4, 2026",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-28-july-4-2026/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/America250-logo-300x210.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of June 28-July 4, 2026 and any insight we can offer about them. The House is in session for […]",
+    "published_at": "2026-06-28T21:17:52Z",
+    "updated_at": "2026-06-28T21:20:14.717997Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38698,
+    "title": "Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260628_SXM-11_satellite-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The SXM-11 satellite was built by Intuitive Machines and is more than 230-feet-tall. Liftoff on SpaceX Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled during a window that opens at 10:25 p.m. EDT (0225 UTC). ",
+    "published_at": "2026-06-28T18:37:19Z",
+    "updated_at": "2026-06-28T18:40:22.861156Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38697,
     "title": "Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base",
     "authors": [
@@ -960,71 +1020,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38652,
-    "title": "A first: EarthCARE cloud data sharpen weather forecasts",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_cloud_data_sharpen_weather_forecasts",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earthcare_white_dragon_improves_weather_forecasts/27339799-1-eng-GB/EarthCARE_White_Dragon_improves_weather_forecasts_card_full.gif",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s EarthCARE satellite was developed to make a unique set of simultaneous measurements that shed new light on the role that clouds and aerosols play in regulating Earth’s climate.",
-    "published_at": "2026-06-25T07:00:00Z",
-    "updated_at": "2026-06-25T08:56:44.036559Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "c98dabc0-2391-48bd-aad7-02bfb1795ec3",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38651,
-    "title": "A Turquoise Tint for the Black Sea",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/blackseabloom_pace_20260622.jpg",
-    "news_site": "NASA",
-    "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
-    "published_at": "2026-06-25T04:00:00Z",
-    "updated_at": "2026-06-25T04:10:05.762686Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38650,
-    "title": "NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/06/super-puff-03-v03.jpg",
-    "news_site": "NASA",
-    "summary": "NASA has revealed two new “super-puff” planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the “puffiest” worlds ever found.",
-    "published_at": "2026-06-25T01:04:16Z",
-    "updated_at": "2026-06-25T01:10:05.618160Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
