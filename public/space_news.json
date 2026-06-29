@@ -1,5 +1,124 @@
 [
   {
+    "id": 38705,
+    "title": "Quantum computing is about to become a national security problem in orbit",
+    "authors": [
+      {
+        "name": "Eddy Zervigon",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Quantum_key_distribution_using_SAGA_pillars.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nQuantum computing is advancing fast, and nations are racing to field the first machines powerful enough to break modern encryption. This race has direct consequences for the commercial space industry, […]\nThe post Quantum computing is about to become a national security problem in orbit appeared first on SpaceNews.",
+    "published_at": "2026-06-29T13:00:00Z",
+    "updated_at": "2026-06-29T13:10:13.944457Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38704,
+    "title": "Rocket Lab to acquire Iridium",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/rocket-lab-to-acquire-iridium/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Iridium-Network.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nRocket Lab is acquiring satellite telecommunications company Iridium for $8 billion as part of its effort to become an end-to-end space company.\nThe post Rocket Lab to acquire Iridium appeared first on SpaceNews.",
+    "published_at": "2026-06-29T12:10:49Z",
+    "updated_at": "2026-06-29T12:20:24.612673Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38703,
+    "title": "SatVu restarts commercial operations with HotSat-2",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Secunda-Petrochemical-Plant-South-Africa-1-scaled.png?fit=1024%2C524&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "British thermal imaging startup SatVu announced the start of commercial services June 29 for HotSat-2, marking a return to revenue-generating operations after its debut satellite failed in low Earth orbit in 2023.\r\nThe post SatVu restarts commercial operations with HotSat-2 appeared first on SpaceNews.",
+    "published_at": "2026-06-29T11:11:42Z",
+    "updated_at": "2026-06-29T11:27:25.060573Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38701,
+    "title": "Craft Prospect selected for The Sunday Times Scotland Fast 50",
+    "authors": [
+      {
+        "name": "Craft Prospect",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/SAME-SIZE-scaled.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\n(Glasgow, UK) Glasgow-based space engineering company Craft Prospect has been selected for inclusion in the inaugural edition of The Sunday Times Scotland Fast 50, a new annual list recognising some […]\nThe post Craft Prospect selected for The Sunday Times Scotland Fast 50 appeared first on SpaceNews.",
+    "published_at": "2026-06-29T09:00:00Z",
+    "updated_at": "2026-06-29T09:01:15.444106Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38702,
+    "title": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Kinetica1-Y8-chutian-2-0102-JSLC-9nov2025-OS.jpg?fit=1024%2C588&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nHELSINKI — China has established a national very low Earth orbit industry alliance, as multiple satellites demonstrate sustained operations below 300 kilometers and propulsion startups attract investment. China established a […]\nThe post China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations appeared first on SpaceNews.",
+    "published_at": "2026-06-29T08:53:12Z",
+    "updated_at": "2026-06-29T09:01:15.598929Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38700,
     "title": "Euclid studies Milky Way center, supports future Roman observations",
     "authors": [
@@ -903,123 +1022,6 @@
     "updated_at": "2026-06-25T11:20:19.458224Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38657,
-    "title": "Canceled NASA exploration projects suffered billions of dollars in overruns",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ml2-march2026.jpeg?fit=1024%2C682&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFour NASA exploration projects that the agency stopped earlier this year had suffered overruns that saw their costs more than double, with more than $1 billion in additional increases expected.\nThe post Canceled NASA exploration projects suffered billions of dollars in overruns appeared first on SpaceNews.",
-    "published_at": "2026-06-25T11:02:47Z",
-    "updated_at": "2026-06-25T11:10:19.367568Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38656,
-    "title": "OHB to Raise €510M to Boost Manufacturing Capacity and Invest in Rockets",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/ohb-to-raise-e510m-to-boost-manufacturing-capacity-and-invest-in-rockets/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/OHB-to-Raise-510M-Euros-to-Boost-Manufacturing-Capacity-and-Invest-in-Rockets.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Publicly listed German space technology company OHB has announced plans to raise up to €510.7 million by issuing approximately 1.7 million new shares. The company plans to use the proceeds primarily to bolster its production capacity. However, it will also fund planned acquisitions, investments in launch vehicles, and “future tangible projects.” In addition to its […]\nThe post OHB to Raise €510M to Boost Manufacturing Capacity and Invest in Rockets appeared first on European Spaceflight.",
-    "published_at": "2026-06-25T10:49:20Z",
-    "updated_at": "2026-06-25T10:50:09.040655Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38655,
-    "title": "China schedules Long March 10B rocket launch and recovery attempt",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Mengzhou-in-flight-abort-CZ10-recovery-test-liftoff-11feb2026-casc.jpg?fit=1024%2C643&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "HELSINKI — China is set for a debut flight of its Long March 10B rocket in July and attempt to recover the first stage at sea. Recently issued airspace and […]\r\nThe post China schedules Long March 10B rocket launch and recovery attempt appeared first on SpaceNews.",
-    "published_at": "2026-06-25T09:59:35Z",
-    "updated_at": "2026-06-25T11:27:47.457687Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "1e79a5e9-c02c-470f-882f-884120100fef",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38654,
-    "title": "European Flight Ticket Initiative opens to more launch service providers",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/European_Flight_Ticket_Initiative_opens_to_more_launch_service_providers",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/flight_ticket_initiative/26849504-2-eng-GB/Flight_Ticket_Initiative_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-06-25T08:16:00Z",
-    "updated_at": "2026-06-25T10:00:14.557180Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38653,
-    "title": "Smile reaches science orbit",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Smile_reaches_science_orbit",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/smile_reaches_science_orbit/27346890-1-eng-GB/Smile_reaches_science_orbit_card_full.gif",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-06-25T08:00:00Z",
-    "updated_at": "2026-06-25T08:56:35.382516Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
