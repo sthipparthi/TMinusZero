@@ -1,6 +1,6 @@
 {
-  "count": 13,
-  "last_updated": "2026-06-30T12:34:33.666758Z",
+  "count": 12,
+  "last_updated": "2026-06-30T18:31:10.183306Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (13 failed/unavailable)"
+    "Empty AI summaries (12 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
-      "status": "Go",
-      "net": "2026-06-29T05:00:00Z",
-      "window_start": "2026-06-29T05:00:00Z",
-      "window_end": "2026-06-29T09:00:00Z",
-      "lsp_name": "Agency for Defense Development",
-      "lsp_description": "The Agency for Defense Development (ADD) is the South Korean national agency for research and development in defense technology, funded by the Defense Acquisition Program Administration (DAPA). Its purpose is contributing to enforcing the national defence, to improving the national R&D capacity, and to fostering the domestic defense industry.",
-      "lsp_type": "Government",
-      "lsp_country": "KOR",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/agency2520for2520defense2520development_logo_20231204144839.png",
-      "mission_name": "Demo Flight",
-      "mission_description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-      "mission_type": "Test Flight",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "ADD Offshore launch platform, Sea Launch",
-      "pad": "ADD Offshore launch platform",
-      "location": "Sea Launch",
-      "rocket": "South Korean ADD Solid-Fuel SLV",
-      "rocket_config_description": "",
-      "rocket_config_family": "South Korean ADD Solid-Fuel SLV",
-      "rocket_config_full_name": "South Korean ADD Solid-Fuel SLV",
-      "rocket_config_total_launch_count": 0,
-      "rocket_config_successful_launches": 0,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "Agency for Defense Development",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The Agency for Defense Development (ADD) is the South Korean national agency for research and development in defense technology, funded by the Defense Acquisition Program Administration (DAPA). Its purpose is contributing to enforcing the national defence, to improving the national R&D capacity, and to fostering the domestic defense industry.",
-      "rocket_manufacturer_total_launch_count": 1,
-      "rocket_manufacturer_successful_launches": 1,
-      "rocket_manufacturer_failed_launches": 0,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "f596ad48-881e-47d6-806d-113c6dd97427",
       "name": "Pegasus XL | Swift Boost Mission",
@@ -583,7 +542,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 13,
-    "total_launches": 13
+    "empty_summaries": 12,
+    "total_launches": 12
   }
 }
