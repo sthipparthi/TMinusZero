@@ -1,5 +1,117 @@
 [
   {
+    "id": 38726,
+    "title": "Time to say goodbye to Sentinel-1A",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/01/sentinel-1_radar_vision/13494392-1-eng-GB/Sentinel-1_radar_vision_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "After 12 years of exceptional service, the pioneering Copernicus Sentinel-1A radar satellite has reached the end of its mission. Originally designed for a seven-year life in orbit, the satellite has exceeded expectations, not only by its longevity, but through the extraordinary impact of its data, which have deepened our understanding of our changing planet and supported a wide range of operational services and laid the foundation for scientific discoveries.",
+    "published_at": "2026-06-30T12:30:00Z",
+    "updated_at": "2026-06-30T12:11:50.175654Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "0ea29a26-0aa3-4a6b-9b21-9517b48bf7a0",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38727,
+    "title": "SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/SSC-Space-Firefly-Sund-Kim-Esrange-June2026-SSCSpace-scaled.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nHELSINKI — SSC Space and Firefly have set a 2028 target for the first orbital launch from Esrange, with key infrastructure and regulatory pieces falling into place. The companies announced […]\nThe post SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange appeared first on SpaceNews.",
+    "published_at": "2026-06-30T12:21:56Z",
+    "updated_at": "2026-06-30T12:30:45.053358Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38725,
+    "title": "Orbital files plans for 100,000 orbital data centers",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Orbital.jpg?fit=1024%2C625&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFive-month-old startup Orbital has asked the Federal Communications Commission for permission to deploy up to 100,000 data center satellites, aiming to bring 10 gigawatts of computing power from space to meet rising artificial intelligence demand.\nThe post Orbital files plans for 100,000 orbital data centers appeared first on SpaceNews.",
+    "published_at": "2026-06-30T11:58:27Z",
+    "updated_at": "2026-06-30T12:00:46.932263Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38723,
+    "title": "Asteroid Day & eight other key dates in asteroid history",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_Day_eight_other_key_dates_in_asteroid_history",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/asteroid_heading_towards_earth/27354173-2-eng-GB/Asteroid_heading_towards_Earth_card_full.gif",
+    "news_site": "ESA",
+    "summary": "Happy Asteroid Day! Today is the annual UN-recognised global event to promote public education on asteroids and planetary defence. But why today, of all days? Read on to find out – and find out the other key dates in our current golden age of asteroids!",
+    "published_at": "2026-06-30T09:30:00Z",
+    "updated_at": "2026-06-30T08:00:35.003400Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38724,
+    "title": "Ames Science Stars of the Month July 2026",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/slide1.jpeg",
+    "news_site": "NASA",
+    "summary": "NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Sungshin Choi, Yi-Chun Chen, Emma Yates, Eduardo Bendek. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences […]",
+    "published_at": "2026-06-30T09:12:44Z",
+    "updated_at": "2026-06-30T09:20:10.826557Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38722,
     "title": "Study argues bigger launch vehicles may not always be better",
     "authors": [
@@ -908,113 +1020,6 @@
     "summary": "\nFormer SpaceX engineers who helped build and scale Starlink have launched a startup aiming to deliver megaconstellations for governments and companies seeking more control over space-based infrastructure.\nThe post Starlink veterans launch startup to broaden megaconstellation ownership appeared first on SpaceNews.",
     "published_at": "2026-06-26T12:00:00Z",
     "updated_at": "2026-06-26T12:10:13.488003Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38678,
-    "title": "ISS repair spacewalk highlights concerns about station health",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/iss-repair-spacewalk-highlights-concerns-about-station-health/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/isseva-march2026.jpeg?fit=1024%2C838&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA astronauts on the International Space Station are preparing for a spacewalk to repair a robotic arm as advisers raise concerns about the long-term health of the station and spacesuits.\nThe post ISS repair spacewalk highlights concerns about station health appeared first on SpaceNews.",
-    "published_at": "2026-06-26T11:57:53Z",
-    "updated_at": "2026-06-26T12:00:56.030245Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38676,
-    "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8646-lowres-1.webp",
-    "news_site": "Arstechnica",
-    "summary": "Is SpaceX planning to end its Transporter program?",
-    "published_at": "2026-06-26T11:00:59Z",
-    "updated_at": "2026-06-26T11:10:04.336692Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38677,
-    "title": "Europe’s next security challenge is in orbit",
-    "authors": [
-      {
-        "name": "Kammy Brun",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/europes-next-security-challenge-is-in-orbit/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAcross the European Union, satellite navigations alone is thought to underpin more than 10% of GDP. Satellite-dependent activity on the whole is responsible for much more. According to INSEE and […]\nThe post Europe’s next security challenge is in orbit appeared first on SpaceNews.",
-    "published_at": "2026-06-26T11:00:00Z",
-    "updated_at": "2026-06-26T11:10:13.250815Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38681,
-    "title": "Solar eclipse: myth vs fact",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Solar_eclipse_myth_vs_fact",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/solar_eclipse_myth_vs_fact/27342225-1-eng-GB/Solar_eclipse_myth_vs_fact_card_full.png",
-    "news_site": "ESA",
-    "summary": "What really happens during a solar eclipse? ESA astronaut Pablo Álvarez Fernández separates myth from fact, answering common questions and misconceptions about one of nature's most spectacular phenomena.",
-    "published_at": "2026-06-26T10:00:00Z",
-    "updated_at": "2026-06-26T13:40:16.698621Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38675,
-    "title": "Cave training lab",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Cave_training_lab",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/cave_training_lab/27347804-1-eng-GB/Cave_training_lab_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-06-26T08:21:00Z",
-    "updated_at": "2026-06-26T08:50:06.436916Z",
     "featured": false,
     "launches": [],
     "events": [],
