@@ -207,26 +207,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38735,
-    "title": "La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/moon-base-june-30-2026-updates-press-release-black-borders.jpg",
-    "news_site": "NASA",
-    "summary": "Read this news release in English here. La NASA anunció el martes la selección de tres empresas para llevar a cabo cuatro nuevas misiones a la Luna a finales de 2028 como parte del programa Base Lunar de la agencia. Astrobotic, Firefly Aerospace e Intuitive Machines entregarán cargas útiles científicas de la NASA a la […]",
-    "published_at": "2026-06-30T19:04:43Z",
-    "updated_at": "2026-06-30T19:10:16.753378Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38733,
     "title": "NextSTEP-3 B: Moon Base Demonstrations",
     "authors": [
@@ -1015,6 +995,31 @@
     "updated_at": "2026-06-28T18:40:22.861156Z",
     "featured": false,
     "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38697,
+    "title": "Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-plans-sunday-starlink-launch-from-vandenberg-space-force-base/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 17-40 mission will add another 24 broadband internet satellites to SpaceX’s low Earth orbit constellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled at 7:36 a.m. PDT (10:36 a.m. EDT / 1436 UTC).",
+    "published_at": "2026-06-28T01:17:03Z",
+    "updated_at": "2026-06-29T08:10:58.107475Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "0740c699-9877-4331-8aef-4e29ea6281c0",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   }
