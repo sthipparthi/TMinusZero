@@ -1,5 +1,52 @@
 [
   {
+    "id": 38774,
+    "title": "Surface CubeSat contracted for Ramses asteroid mission",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/don_quijote_cubesat_around_dimorphos_asteroid/27361714-1-eng-GB/Don_Quijote_CubeSat_around_Dimorphos_asteroid_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid. Don Quijote is a shoebox-sized spacecraft that will be deployed onto the Apophis asteroid by ESA’s Ramses mission before the asteroid flies by Earth on 13 April 2029.",
+    "published_at": "2026-07-02T10:16:00Z",
+    "updated_at": "2026-07-02T10:30:16.053226Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38773,
+    "title": "Final Atlas 5 Amazon Leo mission launches",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/ULA_AtlasV_AmazonLeo8_Launch_070226.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAn Atlas 5 lifted off July 2 carrying a set of Amazon Leo satellites in the final launch by that vehicle to carry a satellite payload.\nThe post Final Atlas 5 Amazon Leo mission launches appeared first on SpaceNews.",
+    "published_at": "2026-07-02T09:54:25Z",
+    "updated_at": "2026-07-02T10:00:24.801297Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38772,
     "title": "Authorisation paves the way for Aeolus-2 wind mission",
     "authors": [
@@ -239,31 +286,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38760,
-    "title": "Webb studies how a planet survived the death of its star",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.",
-    "published_at": "2026-07-01T15:00:00Z",
-    "updated_at": "2026-07-01T15:48:55.582102Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38758,
     "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
     "authors": [
@@ -278,6 +300,31 @@
     "summary": "NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. Billions of years ago, a Sun-like star nearing the end of its life swelled tremendously in size to become a […]",
     "published_at": "2026-07-01T15:00:00Z",
     "updated_at": "2026-07-01T15:48:59.254987Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38760,
+    "title": "Webb studies how a planet survived the death of its star",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.",
+    "published_at": "2026-07-01T15:00:00Z",
+    "updated_at": "2026-07-01T15:48:55.582102Z",
     "featured": false,
     "launches": [
       {
@@ -568,6 +615,26 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
+  },
+  {
+    "id": 38775,
+    "title": "Latitude to Launch Inaugural Flight from Oman",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/latitude-to-launch-inaugural-flight-from-oman/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/Latitude-to-Launch-Inaugural-Flight-from-Oman.webp",
+    "news_site": "European Spaceflight",
+    "summary": "French rocket builder Latitude has signed a letter of intent to conduct the planned inaugural flight of its launch vehicle from Oman’s Etlaq Spaceport. The company declined to disclose details of how the project would be funded. Latitude is developing a small two-stage rocket that remains unnamed and will be capable of delivering payloads of […]\nThe post Latitude to Launch Inaugural Flight from Oman appeared first on European Spaceflight.",
+    "published_at": "2026-07-01T10:12:10Z",
+    "updated_at": "2026-07-02T10:40:14.391028Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "French rocket builder Latitude has signed a letter of intent to conduct the planned inaugural flight of its launch vehicle from Oman’s Etlaq Spaceport. The company declined to disclose details of how the project would be funded. Latitude is developing a small two-stage rocket that remains unnamed and will be capable of delivering payloads of […]\nThe post Latitude to Launch Inaugural Flight from Oman appeared first on European Spaceflight."
   },
   {
     "id": 38746,
@@ -942,6 +1009,26 @@
     "detailed_news": ""
   },
   {
+    "id": 38776,
+    "title": "MaiaSpace Plans to Double Its Rocket’s Performance with One Extra Engine",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/maiaspace-plans-to-double-its-rockets-performance-with-one-extra-engine/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/MaiaSpace-Plans-to-Double-Its-Rockets-Performance-with-One-Extra-Engine.webp",
+    "news_site": "European Spaceflight",
+    "summary": "ArianeGroup subsidiary MaiaSpace is examining the possibility of doubling the performance of all variants of its Maia rocket “if market response for such a configuration is favorable.” According to the company, this upgrade would involve the addition of a fourth Prometheus rocket engine powering its first stage and would not increase the average cost per […]\nThe post MaiaSpace Plans to Double Its Rocket’s Performance with One Extra Engine appeared first on European Spaceflight.",
+    "published_at": "2026-06-30T13:26:08Z",
+    "updated_at": "2026-07-02T10:40:14.412235Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "ArianeGroup subsidiary MaiaSpace is examining the possibility of doubling the performance of all variants of its Maia rocket “if market response for such a configuration is favorable.” According to the company, this upgrade would involve the addition of a fourth Prometheus rocket engine powering its first stage and would not increase the average cost per […]\nThe post MaiaSpace Plans to Double Its Rocket’s Performance with One Extra Engine appeared first on European Spaceflight."
+  },
+  {
     "id": 38728,
     "title": "Vast names Isakowitz as a senior adviser",
     "authors": [
@@ -963,98 +1050,6 @@
     "summary": "\nCommercial space station developer Vast named the former president and chief executive of The Aerospace Corp. as an adviser while the company awaits the next phase of a NASA program.\nThe post Vast names Isakowitz as a senior adviser appeared first on SpaceNews.",
     "published_at": "2026-06-30T13:00:00Z",
     "updated_at": "2026-06-30T13:10:24.908159Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38726,
-    "title": "Time to say goodbye to Sentinel-1A",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/01/sentinel-1_radar_vision/13494392-1-eng-GB/Sentinel-1_radar_vision_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "After 12 years of exceptional service, the pioneering Copernicus Sentinel-1A radar satellite has reached the end of its mission. Originally designed for a seven-year life in orbit, the satellite has exceeded expectations, not only by its longevity, but through the extraordinary impact of its data, which have deepened our understanding of our changing planet and supported a wide range of operational services and laid the foundation for scientific discoveries.",
-    "published_at": "2026-06-30T12:30:00Z",
-    "updated_at": "2026-06-30T12:11:50.175654Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "0ea29a26-0aa3-4a6b-9b21-9517b48bf7a0",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38727,
-    "title": "SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/SSC-Space-Firefly-Sund-Kim-Esrange-June2026-SSCSpace-scaled.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nHELSINKI — SSC Space and Firefly have set a 2028 target for the first orbital launch from Esrange, with key infrastructure and regulatory pieces falling into place. The companies announced […]\nThe post SSC Space, Firefly set 2028 target for first orbital launch from Sweden’s Esrange appeared first on SpaceNews.",
-    "published_at": "2026-06-30T12:21:56Z",
-    "updated_at": "2026-06-30T12:30:45.053358Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38725,
-    "title": "Orbital files plans for 100,000 orbital data centers",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Orbital.jpg?fit=1024%2C625&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nFive-month-old startup Orbital has asked the Federal Communications Commission for permission to deploy up to 100,000 data center satellites, aiming to bring 10 gigawatts of computing power from space to meet rising artificial intelligence demand.\nThe post Orbital files plans for 100,000 orbital data centers appeared first on SpaceNews.",
-    "published_at": "2026-06-30T11:58:27Z",
-    "updated_at": "2026-06-30T12:00:46.932263Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38723,
-    "title": "Asteroid Day & eight other key dates in asteroid history",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_Day_eight_other_key_dates_in_asteroid_history",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/asteroid_heading_towards_earth/27354173-2-eng-GB/Asteroid_heading_towards_Earth_card_full.gif",
-    "news_site": "ESA",
-    "summary": "Happy Asteroid Day! Today is the annual UN-recognised global event to promote public education on asteroids and planetary defence. But why today, of all days? Read on to find out – and find out the other key dates in our current golden age of asteroids!",
-    "published_at": "2026-06-30T09:30:00Z",
-    "updated_at": "2026-06-30T08:00:35.003400Z",
     "featured": false,
     "launches": [],
     "events": [],
