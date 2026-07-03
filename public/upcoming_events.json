@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-07-03T01:46:24.583037Z",
+  "count": 9,
+  "last_updated": "2026-07-03T08:44:30.057971Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,9 +10,50 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
+    {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "name": "Pegasus XL | Swift Boost Mission",
+      "status": "Go",
+      "net": "2026-07-03T08:35:00Z",
+      "window_start": "2026-07-03T08:35:00Z",
+      "window_end": "2026-07-03T08:35:00Z",
+      "lsp_name": "Northrop Grumman Space Systems",
+      "lsp_description": "Northrup Grumman Space Systems designs, builds and delivers space, defence and aviation-related systems to customers around the world. They aquired Orbital ATK in 2018 along with its launchers and ongoing missions.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/northrop2520grumman2520innovation2520systems_logo_20190207032451.png",
+      "mission_name": "Swift Boost Mission",
+      "mission_description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA’s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission’s science lifetime in gamma ray astronomy.",
+      "mission_type": "Mission Extension",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Kwajalein Atoll, Air launch to orbit",
+      "pad": "Kwajalein Atoll",
+      "location": "Air launch to orbit",
+      "rocket": "Pegasus XL",
+      "rocket_config_description": "The Pegasus is an air-launched rocket developed by Orbital Sciences Corporation (now part of Northrop Grumman Innovation Systems). Capable of carrying small payloads of up to 443 kilograms (977 lb) into low Earth orbit, the vehicle consists of three solid propellant stages and an optional monopropellant fourth stage. Pegasus is released from its carrier aircraft at approximately 40,000 ft (12,000 m), and its first stage has a wing and a tail to provide lift and attitude control while in the atmosphere.",
+      "rocket_config_family": "Pegasus",
+      "rocket_config_full_name": "Pegasus XL",
+      "rocket_config_total_launch_count": 31,
+      "rocket_config_successful_launches": 28,
+      "rocket_config_failed_launches": 3,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Orbital Sciences Corporation",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "",
+      "rocket_manufacturer_total_launch_count": 72,
+      "rocket_manufacturer_successful_launches": 65,
+      "rocket_manufacturer_failed_launches": 7,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pegasus_xl_moun_image_20240307124328.jpeg",
+      "infographic": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/infographic_images/pegasus2520xl_infographic_20260612071925.jpeg",
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/f596ad48-881e-47d6-806d-113c6dd97427/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
     {
       "id": "9e0f6efb-4742-4ba3-9fd4-4ea218576c71",
       "name": "Long March 6A | Unknown Payload",
@@ -386,7 +427,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 9,
+    "total_launches": 9
   }
 }
