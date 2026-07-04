@@ -1,5 +1,45 @@
 [
   {
+    "id": 38807,
+    "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_NGC6426_3_July4_FINAL2.tif",
+    "news_site": "NASA",
+    "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
+    "published_at": "2026-07-04T11:15:37Z",
+    "updated_at": "2026-07-04T12:10:10.725842Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38806,
+    "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/07/FYsxAiQVQAE6yUJ.jpg?fit=800%2C467&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWatchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches\nThe post GAO flags satellite costs, launch risks in Space Force portfolio appeared first on SpaceNews.",
+    "published_at": "2026-07-04T10:17:06Z",
+    "updated_at": "2026-07-04T10:20:28.346006Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38805,
     "title": "Katalyst’s LINK On Its Way to Reboost Swift",
     "authors": [
@@ -985,51 +1025,6 @@
     "launches": [
       {
         "launch_id": "98ec4234-8c4e-4365-b6c5-6b89da53f8dd",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38755,
-    "title": "Unseen threats overhead: Drones endanger U.S. rocket launch sites",
-    "authors": [
-      {
-        "name": "Greg Hoyt and Chuck Webb",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/f9-starfall-scaled.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nOne small, errant drone can scrub a space launch at the cost of millions of dollars in delays, with further repercussions spanning across multiple commercial and government launch service providers. […]\nThe post Unseen threats overhead: Drones endanger U.S. rocket launch sites appeared first on SpaceNews.",
-    "published_at": "2026-07-01T13:00:00Z",
-    "updated_at": "2026-07-01T13:10:14.847955Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38754,
-    "title": "NASA’s TESS Mission Finds Planetary System in New Way",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/science/Brown%20superjupiter%20D2%201.jpg",
-    "news_site": "NASA",
-    "summary": "For the first time, NASA’s TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to ripples in space-time. Unlike the star-hugging transiting planets TESS regularly reveals, the newfound world is a super-Jupiter orbiting far from its host star. “When TESS launched, no one expected it to ever be capable […]",
-    "published_at": "2026-07-01T12:43:34Z",
-    "updated_at": "2026-07-01T13:11:18.764339Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "ca4e796d-f3e4-4b80-b2f7-f7fd6a7b325f",
         "provider": "Launch Library 2"
       }
     ],
