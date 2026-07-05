@@ -1,5 +1,32 @@
 [
   {
+    "id": 38811,
+    "title": "Airbus to build Aeolus-2 wind-monitoring satellite",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/aeolus2.jpeg?fit=1024%2C724&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe European Space Agency has selected Airbus Defence and Space to start work on the successor to a wind-monitoring satellite.\nThe post Airbus to build Aeolus-2 wind-monitoring satellite appeared first on SpaceNews.",
+    "published_at": "2026-07-05T15:17:47Z",
+    "updated_at": "2026-07-05T15:20:18.207477Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38810,
     "title": "Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch",
     "authors": [
@@ -995,31 +1022,6 @@
     "launches": [
       {
         "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38759,
-    "title": "Curiosity Blog, Sols 4934-4940: In the Land of the Polygons",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/june/https___mars.nasa.gov_msl-raw-images_msss_04932_mcam_4932MR1095440052503252C00_DXXX.jpg",
-    "news_site": "NASA",
-    "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 26, 2026 There were two planning cycles over this span of sols. The Monday planning took place with Curiosity situated within a unit that from orbital imagery appeared light-toned, and from earlier rover positions appeared smooth. Reaching this unit, the […]",
-    "published_at": "2026-07-01T14:41:46Z",
-    "updated_at": "2026-07-01T15:49:04.628126Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
         "provider": "Launch Library 2"
       }
     ],
