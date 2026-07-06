@@ -1,5 +1,52 @@
 [
   {
+    "id": 38813,
+    "title": "NASA and Small Business Administration partner on funding key space technologies",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/55364807011_9b87d7fd6c_k.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA is partnering with the U.S. Small Business Administration (SBA) on an effort to attract capital to invest in companies producing critical space components.\nThe post NASA and Small Business Administration partner on funding key space technologies appeared first on SpaceNews.",
+    "published_at": "2026-07-06T01:43:42Z",
+    "updated_at": "2026-07-06T01:50:32.482752Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38812,
+    "title": "What’s Happening in Space Policy July 5-18, 2026",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-5-18-2026/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/A2-Schmitt-on-stage-July-4-26-Barber-300x191.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the TWO weeks of July 5-18, 2026 and any insight we can offer about them. The House and Senate are in […]",
+    "published_at": "2026-07-05T22:17:17Z",
+    "updated_at": "2026-07-05T22:20:15.426158Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38811,
     "title": "Airbus to build Aeolus-2 wind-monitoring satellite",
     "authors": [
@@ -972,56 +1019,6 @@
     "launches": [
       {
         "launch_id": "f596ad48-881e-47d6-806d-113c6dd97427",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38760,
-    "title": "Webb studies how a planet survived the death of its star",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.",
-    "published_at": "2026-07-01T15:00:00Z",
-    "updated_at": "2026-07-01T15:48:55.582102Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38758,
-    "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KV8SMVYFK67J7RPRW1HB0SKS.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. Billions of years ago, a Sun-like star nearing the end of its life swelled tremendously in size to become a […]",
-    "published_at": "2026-07-01T15:00:00Z",
-    "updated_at": "2026-07-01T15:48:59.254987Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
         "provider": "Launch Library 2"
       }
     ],
