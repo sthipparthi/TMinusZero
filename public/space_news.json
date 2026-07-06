@@ -1,5 +1,110 @@
 [
   {
+    "id": 38821,
+    "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVT4GQMQ5MXV6XDPFPZMXG65.png",
+    "news_site": "NASA",
+    "summary": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing […]",
+    "published_at": "2026-07-06T14:00:00Z",
+    "updated_at": "2026-07-06T14:15:59.384100Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38819,
+    "title": "The term ‘dual-use’ is misleading and dangerous",
+    "authors": [
+      {
+        "name": "Graeme Ritchie",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/06/United-Kingdom.jpg?fit=1024%2C618&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThere is only technology. How it is employed is a question of intent, context and political will, not of the technology itself. A precision optical payload captures imagery whether the […]\nThe post The term ‘dual-use’ is misleading and dangerous appeared first on SpaceNews.",
+    "published_at": "2026-07-06T13:00:00Z",
+    "updated_at": "2026-07-06T13:10:28.706464Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38820,
+    "title": "BAE microchip designed for strategic defense missions passes radiation test",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Endura_3_gold_26_a57_169.webp?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe company is positioning its Endura computing for classified and missile-defense satellite programs\nThe post BAE microchip designed for strategic defense missions passes radiation test appeared first on SpaceNews.",
+    "published_at": "2026-07-06T13:00:00Z",
+    "updated_at": "2026-07-06T13:10:28.729715Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38817,
+    "title": "Connected Aircraft Fleet Set to Exceed 70,000 by 2035",
+    "authors": [
+      {
+        "name": "Novaspace",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Untitled-1080-x-1080-px-1.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nParis, France | May 2026 – Novaspace’s latest In-Flight Connectivity report points to sustained, long-term growth in the In-Flight Connectivity (IFC) market, with connected aircraft numbers to exceed 70,000 by 2035. Simultaneously, IFC penetration is expected to rise from 48% […]\nThe post Connected Aircraft Fleet Set to Exceed 70,000 by 2035 appeared first on SpaceNews.",
+    "published_at": "2026-07-06T12:00:00Z",
+    "updated_at": "2026-07-06T12:10:29.831619Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38816,
+    "title": "Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard",
+    "authors": [
+      {
+        "name": "Novaspace",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Untitled-1080-x-1080-px.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nRiyadh, Saudi Arabia – June, 2026 The Centre for Space Futures (CSF), together with leading international partners including Novaspace, and SpaceTech Gulf, have signed a Memorandum of Cooperation (MoC) to […]\nThe post Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard appeared first on SpaceNews.",
+    "published_at": "2026-07-06T10:00:00Z",
+    "updated_at": "2026-07-06T10:10:19.401061Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38815,
     "title": "Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed",
     "authors": [
@@ -34,6 +139,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-07-06T06:30:00Z",
     "updated_at": "2026-07-06T06:40:17.923314Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38818,
+    "title": "Examining Algal Blooms in Blue Mesa",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20170919.jpg",
+    "news_site": "NASA",
+    "summary": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.",
+    "published_at": "2026-07-06T04:01:00Z",
+    "updated_at": "2026-07-06T13:10:10.778993Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -881,140 +1006,6 @@
     "summary": "The Leo Atlas 8 mission is also the final flight of an Atlas 5 551 configuration. Liftoff from pad 41 at Cape Canaveral Space Force Station is scheduled for 12:24 a.m. EDT (0424 UTC). ",
     "published_at": "2026-07-01T23:20:40Z",
     "updated_at": "2026-07-01T23:30:35.545646Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38768,
-    "title": "Report links Starliner problems to overconfidence and unrealistic schedules",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/53988402529_bec93e5a26_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA new report links the long-running technical problems with Boeing’s CST-100 Starliner commercial crew vehicle to a combination of overconfidence, unrealistic schedules and NASA’s lack of insight into the vehicle.\nThe post Report links Starliner problems to overconfidence and unrealistic schedules appeared first on SpaceNews.",
-    "published_at": "2026-07-01T22:19:01Z",
-    "updated_at": "2026-07-01T22:20:22.823591Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38767,
-    "title": "NASA announces new lander contracts for Moon Base Phase One",
-    "authors": [
-      {
-        "name": "Eleanor Day",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/07/nasa-moon-base-update/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/IMG_4718.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "In June 2026, NASA announced four new lunar landers as part of its Moon Base…\nThe post NASA announces new lander contracts for Moon Base Phase One appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-07-01T21:38:25Z",
-    "updated_at": "2026-07-01T21:40:11.720332Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38766,
-    "title": "NASA’s Chandra Examines Milky Way at Arms’ Length",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/arms_illus2.jpg",
-    "news_site": "NASA",
-    "summary": "A new result using NASA’s Chandra X-ray Observatory shows that the outer spiral arms in the Milky Way galaxy may reach wider than previously thought. This finding may lead astronomers to adjust their understanding of our home galaxy’s structure. A team of astronomers made this discovery by making precise measurements of distances to dust clouds […]",
-    "published_at": "2026-07-01T20:17:20Z",
-    "updated_at": "2026-07-01T21:10:09.741262Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38765,
-    "title": "NASA chief praises progress Blue Origin is making after launch failure",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/News_NG-ReturnToFlight_2-RocketLift.webp",
-    "news_site": "Arstechnica",
-    "summary": "\"We've got time into 2027 before we're getting nervous.\"",
-    "published_at": "2026-07-01T19:57:36Z",
-    "updated_at": "2026-07-01T20:00:09.802512Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38764,
-    "title": "FCC to vote on satellite licensing overhaul July 22",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe FCC is set to vote July 22 on an order to overhaul its satellite application process, creating a “licensing assembly line” to keep up with increasingly large and complex constellation plans.\nThe post FCC to vote on satellite licensing overhaul July 22 appeared first on SpaceNews.",
-    "published_at": "2026-07-01T19:45:36Z",
-    "updated_at": "2026-07-01T19:50:15.202336Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38763,
-    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251007_Falcon-9_sunset.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 17-46 mission will fly on the 77th Falcon 9 rocket launch of the year. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:57 p.m. PDT (10:57 p.m. EDT / 0257 UTC). ",
-    "published_at": "2026-07-01T17:12:31Z",
-    "updated_at": "2026-07-01T17:20:22.663241Z",
     "featured": false,
     "launches": [],
     "events": [],
