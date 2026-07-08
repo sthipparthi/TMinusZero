@@ -1,5 +1,72 @@
 [
   {
+    "id": 38849,
+    "title": "D-Orbit signs launch-services contract with ArkEdge Space",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_render_of_gea_-_d-orbits_in-orbit_servicing_vehicle-1.jpg?fit=879%2C494&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Italian space logistics specialist D-Orbit will provide a series of launches aboard its ION Satellite Carrier for Japanese startup ArkEdge Space, under a contract announced July 8 […]\nThe post D-Orbit signs launch-services contract with ArkEdge Space appeared first on SpaceNews.",
+    "published_at": "2026-07-08T01:00:00Z",
+    "updated_at": "2026-07-08T01:10:17.755948Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38848,
+    "title": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/04/orbittfab-shuttle.jpg?fit=1024%2C697&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWith a new chief executive and funding round, satellite refueling company Orbit Fab hopes to make the transition from technology development to operations.\nThe post Orbit Fab hires new CEO and raises funding to support satellite refueling business appeared first on SpaceNews.",
+    "published_at": "2026-07-07T22:45:09Z",
+    "updated_at": "2026-07-07T22:50:32.763725Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38847,
+    "title": "RFA ONE Launch from SaxaVord Set for No Earlier Than 10 August",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/rfa-one-launch-from-saxavord-set-for-no-earlier-than-10-august/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/RFA-ONE-Launch-from-SaxaVord-Expected-No-Earlier-Than-10-August.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Almost two years after an RFA ONE first stage burst into flames during a static fire test, German rocket builder Rocket Factory Augsburg is preparing for a second attempt at the rocket’s inaugural flight from SaxaVord Spaceport in Scotland. In a notice published on 7 July, SaxaVord announced that a five-week launch window would open […]\nThe post RFA ONE Launch from SaxaVord Set for No Earlier Than 10 August appeared first on European Spaceflight.",
+    "published_at": "2026-07-07T19:57:37Z",
+    "updated_at": "2026-07-07T20:00:18.459126Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38845,
     "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
     "authors": [
@@ -241,6 +308,31 @@
     "detailed_news": ""
   },
   {
+    "id": 38835,
+    "title": "Unpacking Europe’s new weather imagers",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mtg-i2_is_unboxed_at_europe_s_spaceport/27366685-2-eng-GB/MTG-I2_is_unboxed_at_Europe_s_Spaceport_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The second Meteosat Third Generation Imager satellite (MTG-I2) has begun its launch campaign, during which it will go through final inspections before being fitted inside the fairing of the Ariane 6 rocket that will launch it into space towards the end of the summer. So how will this 3800 kg satellite help improve weather forecasts for Europe and North Africa?",
+    "published_at": "2026-07-07T08:00:00Z",
+    "updated_at": "2026-07-07T10:06:24.260354Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38834,
     "title": "Isar Aerospace signs agreement for Canadian launch site",
     "authors": [
@@ -264,31 +356,6 @@
     "updated_at": "2026-07-07T08:00:50.027503Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38835,
-    "title": "Unpacking Europe’s new weather imagers",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mtg-i2_is_unboxed_at_europe_s_spaceport/27366685-2-eng-GB/MTG-I2_is_unboxed_at_Europe_s_Spaceport_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The second Meteosat Third Generation Imager satellite (MTG-I2) has begun its launch campaign, during which it will go through final inspections before being fitted inside the fairing of the Ariane 6 rocket that will launch it into space towards the end of the summer. So how will this 3800 kg satellite help improve weather forecasts for Europe and North Africa?",
-    "published_at": "2026-07-07T08:00:00Z",
-    "updated_at": "2026-07-07T10:06:24.260354Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   },
@@ -967,66 +1034,6 @@
     "summary": "Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.",
     "published_at": "2026-07-03T15:01:17Z",
     "updated_at": "2026-07-03T15:10:12.561525Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38802,
-    "title": "The most spectacular aurora of the εpsilon mission (so far!)",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/The_most_spectacular_aurora_of_the_epsilon_mission_so_far!",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/the_most_spectacular_aurora_of_the_epsilon_mission_so_far!/27364460-1-eng-GB/The_most_spectacular_aurora_of_the_epsilon_mission_so_far!_card_full.png",
-    "news_site": "ESA",
-    "summary": " ",
-    "published_at": "2026-07-03T14:30:00Z",
-    "updated_at": "2026-07-03T15:20:18.586063Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38800,
-    "title": "Week in images: 29 June - 03 July 2026",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_June_-_03_July_2026",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mediterranean_sea_breaks_june_surface_heat_record/27360205-1-eng-GB/Mediterranean_Sea_breaks_June_surface_heat_record_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 29 June - 03 July 2026",
-    "published_at": "2026-07-03T13:15:00Z",
-    "updated_at": "2026-07-03T13:30:21.948585Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38799,
-    "title": "Chinese satellite manufacturer Hongqing raises $191 million",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nHELSINKI — Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced […]\nThe post Chinese satellite manufacturer Hongqing raises $191 million appeared first on SpaceNews.",
-    "published_at": "2026-07-03T13:10:37Z",
-    "updated_at": "2026-07-03T13:20:28.093009Z",
     "featured": false,
     "launches": [],
     "events": [],
