@@ -1,5 +1,184 @@
 [
   {
+    "id": 38862,
+    "title": "The satellite industry’s most expensive problem isn’t in orbit",
+    "authors": [
+      {
+        "name": "Darío Buschiazzo",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/LMV3-B62.jpg?fit=1024%2C573&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAST SpaceMobile recently deployed three more BlueBird satellites into low Earth orbit as it advances plans for a space-based cellular broadband network of 45 to 60 satellites by the end […]\nThe post The satellite industry’s most expensive problem isn’t in orbit appeared first on SpaceNews.",
+    "published_at": "2026-07-08T13:00:00Z",
+    "updated_at": "2026-07-08T13:10:37.128736Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38861,
+    "title": "Fi expands Starlink direct-to-device capability into dog-tracking",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Fi-Ultra-scaled.jpg?fit=1024%2C593&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nPet technology company Fi launched a dog tracker July 8 that uses T-Mobile’s Starlink-enabled T-Satellite service to remain connected across the United States, even outside the telco’s terrestrial network.\nThe post Fi expands Starlink direct-to-device capability into dog-tracking appeared first on SpaceNews.",
+    "published_at": "2026-07-08T13:00:00Z",
+    "updated_at": "2026-07-08T13:10:37.093920Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38859,
+    "title": "Blue Origin, for the first time, is expected to raise private capital",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-520716332.jpg",
+    "news_site": "Arstechnica",
+    "summary": "The company is raising $10 billion, leading to a valuation of $130 billion.",
+    "published_at": "2026-07-08T12:47:35Z",
+    "updated_at": "2026-07-08T12:50:11.245708Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38860,
+    "title": "Deep space software upgrade for Hera’s asteroid visit",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Hera/Deep_space_software_upgrade_for_Hera_s_asteroid_visit",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/02/hera_s_instruments_on_its_top_asteroid_deck/25468927-2-eng-GB/Hera_s_instruments_on_its_top_asteroid_deck_card_full.png",
+    "news_site": "ESA",
+    "summary": "Operating across 140 million km of space, the control team for ESA’s Hera mission have succeeded in upgrading the software running it, leaving the spacecraft ready to explore the distant Dimorphos and Didymos asteroids this autumn.",
+    "published_at": "2026-07-08T12:44:00Z",
+    "updated_at": "2026-07-08T13:21:04.475925Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "e1ffdd01-c146-44d0-a250-b845dc2eb20d",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38858,
+    "title": "Venus Aerospace raises $91 million to scale rocket engine technology",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/VenusAero_RDRE_Rocket_02.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nFunding will support development and production of the company’s rotating detonation rocket engine\nThe post Venus Aerospace raises $91 million to scale rocket engine technology appeared first on SpaceNews.",
+    "published_at": "2026-07-08T12:00:00Z",
+    "updated_at": "2026-07-08T12:00:25.533262Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38857,
+    "title": "Progress at the Cape: New Launch Pads rise for Stoke, Relativity",
+    "authors": [
+      {
+        "name": "Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/07/progress-cape-new-pads-stoke-relativity/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-08-04-11-13-783.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "The Space Coast’s rejuvination continues apace, with multiple launch providers advancing new facilities at Cape…\nThe post Progress at the Cape: New Launch Pads rise for Stoke, Relativity appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-07-08T11:45:19Z",
+    "updated_at": "2026-07-08T11:50:19.002496Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The Space Coast’s rejuvination continues apace, with multiple launch providers advancing new facilities at Cape…\nThe post Progress at the Cape: New Launch Pads rise for Stoke, Relativity appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 38856,
+    "title": "The government’s options to address strained spaceports",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/the-governments-options-to-address-strained-spaceports/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/f9-20260426.webp?fit=1024%2C657&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe May 28 explosion of a Blue Origin New Glenn rocket at Cape Canaveral’s Launch Complex 36 did more than destroy a rocket and severely damage a launch pad. The […]\nThe post The government’s options to address strained spaceports appeared first on SpaceNews.",
+    "published_at": "2026-07-08T11:00:00Z",
+    "updated_at": "2026-07-08T11:10:19.431641Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38854,
+    "title": "New European exercise device begins testing with first rope-pulling workout in space",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/New_European_exercise_device_begins_testing_with_first_rope-pulling_workout_in_space",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/sophie_testing_rope-pulling_workout_in_space/27370167-2-eng-GB/Sophie_testing_rope-pulling_workout_in_space_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "ESA astronaut Sophie Adenot has begun testing the European Enhanced Exploration Exercise Device (E4D) on the International Space Station. Installed inside ESA's Columbus laboratory, the new exercise system will spend the next two years helping researchers evaluate innovative ways to keep astronauts healthy during long-duration space missions.  ",
+    "published_at": "2026-07-08T08:36:00Z",
+    "updated_at": "2026-07-08T10:00:16.062308Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38853,
     "title": "Space Force adds Relativity, Impulse Space to national security launch program",
     "authors": [
@@ -731,26 +910,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38820,
-    "title": "BAE microchip designed for strategic defense missions passes radiation test",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Endura_3_gold_26_a57_169.webp?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe company is positioning its Endura computing for classified and missile-defense satellite programs\nThe post BAE microchip designed for strategic defense missions passes radiation test appeared first on SpaceNews.",
-    "published_at": "2026-07-06T13:00:00Z",
-    "updated_at": "2026-07-06T13:10:28.729715Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38819,
     "title": "The term ‘dual-use’ is misleading and dangerous",
     "authors": [
@@ -765,6 +924,26 @@
     "summary": "\nThere is only technology. How it is employed is a question of intent, context and political will, not of the technology itself. A precision optical payload captures imagery whether the […]\nThe post The term ‘dual-use’ is misleading and dangerous appeared first on SpaceNews.",
     "published_at": "2026-07-06T13:00:00Z",
     "updated_at": "2026-07-06T13:10:28.706464Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38820,
+    "title": "BAE microchip designed for strategic defense missions passes radiation test",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Endura_3_gold_26_a57_169.webp?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe company is positioning its Endura computing for classified and missile-defense satellite programs\nThe post BAE microchip designed for strategic defense missions passes radiation test appeared first on SpaceNews.",
+    "published_at": "2026-07-06T13:00:00Z",
+    "updated_at": "2026-07-06T13:10:28.729715Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -865,180 +1044,6 @@
     "summary": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.",
     "published_at": "2026-07-06T04:01:00Z",
     "updated_at": "2026-07-06T13:10:10.778993Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38813,
-    "title": "NASA and Small Business Administration partner on funding key space technologies",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/55364807011_9b87d7fd6c_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nNASA is partnering with the U.S. Small Business Administration (SBA) on an effort to attract capital to invest in companies producing critical space components.\nThe post NASA and Small Business Administration partner on funding key space technologies appeared first on SpaceNews.",
-    "published_at": "2026-07-06T01:43:42Z",
-    "updated_at": "2026-07-06T01:50:32.482752Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38812,
-    "title": "What’s Happening in Space Policy July 5-18, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-5-18-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/A2-Schmitt-on-stage-July-4-26-Barber-300x191.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the TWO weeks of July 5-18, 2026 and any insight we can offer about them. The House and Senate are in […]",
-    "published_at": "2026-07-05T22:17:17Z",
-    "updated_at": "2026-07-05T22:20:15.426158Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38811,
-    "title": "Airbus to build Aeolus-2 wind-monitoring satellite",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/aeolus2.jpeg?fit=1024%2C724&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe European Space Agency has selected Airbus Defence and Space to start work on the successor to a wind-monitoring satellite.\nThe post Airbus to build Aeolus-2 wind-monitoring satellite appeared first on SpaceNews.",
-    "published_at": "2026-07-05T15:17:47Z",
-    "updated_at": "2026-07-05T15:20:18.207477Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38810,
-    "title": "Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch",
-    "authors": [
-      {
-        "name": "Eleanor Day",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/07/vast-update-070426/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/IMG_4761.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "Vast Space’s Haven-1 station is on track to launch in Q1 2027, having achieved several…\nThe post Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-07-04T22:10:06Z",
-    "updated_at": "2026-07-04T22:10:17.314920Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Vast Space’s Haven-1 station is on track to launch in Q1 2027, having achieved several…\nThe post Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 38809,
-    "title": "Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch",
-    "authors": [
-      {
-        "name": "Steven Young",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260704-F9-File-Photo-Feature-Image.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "Liftoff of the Starlink 10-50 mission from Space Launch Complex 40 is currently scheduled for 6:46 a.m. EDT (1046 UTC). The rocket's first-stage booster will carry two semiconductor manufacturing pods for Besxar Space Industries. ",
-    "published_at": "2026-07-04T21:56:12Z",
-    "updated_at": "2026-07-04T22:00:23.212599Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38808,
-    "title": "Need a Lift? NASA Launches Swift Rescue Mission",
-    "authors": [
-      {
-        "name": "Scarlet Dominik",
-        "socials": null
-      }
-    ],
-    "url": "https://www.spacescout.info/2026/07/need-a-lift-nasa-launches-swift-rescue-mission/",
-    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/07/LINKGoddard-nasa-sophia-roberts-scaled.png",
-    "news_site": "Space Scout",
-    "summary": "The LINK spacecraft aims to rendezvous, capture, and reboost NASA’s 21 year old Neil Gehrels Swift Observatory.",
-    "published_at": "2026-07-04T15:46:58Z",
-    "updated_at": "2026-07-04T15:50:18.885901Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38807,
-    "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_NGC6426_3_July4_FINAL2.tif",
-    "news_site": "NASA",
-    "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
-    "published_at": "2026-07-04T11:15:37Z",
-    "updated_at": "2026-07-04T12:10:10.725842Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38806,
-    "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/07/FYsxAiQVQAE6yUJ.jpg?fit=800%2C467&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWatchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches\nThe post GAO flags satellite costs, launch risks in Space Force portfolio appeared first on SpaceNews.",
-    "published_at": "2026-07-04T10:17:06Z",
-    "updated_at": "2026-07-04T10:20:28.346006Z",
     "featured": false,
     "launches": [],
     "events": [],
