@@ -1,5 +1,77 @@
 [
   {
+    "id": 38853,
+    "title": "Space Force adds Relativity, Impulse Space to national security launch program",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/Impulse-GEO-Rideshare.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe NSSL Phase 3 Lane 1 program opens door to newer companies competing for military missions\nThe post Space Force adds Relativity, Impulse Space to national security launch program appeared first on SpaceNews.",
+    "published_at": "2026-07-08T07:48:02Z",
+    "updated_at": "2026-07-08T07:50:25.809015Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38851,
+    "title": "Cottonwood Fire Chars Utah",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cottonwood-fire-chars-utah/utcottonwoodfire_oli2_20260605.jpg",
+    "news_site": "NASA",
+    "summary": "The blaze burned more than 150 square miles and swept through parts of a ski resort.",
+    "published_at": "2026-07-08T04:01:00Z",
+    "updated_at": "2026-07-08T04:10:05.731690Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38850,
+    "title": "Skyroot prepares for first orbital launch attempt",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/vikram1-flagoff.jpeg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Indian launch startup Skyroot Aerospace is preparing for its first orbital launch attempt as soon as July 12, with plans to quickly scale up to monthly launches.\r\nThe post Skyroot prepares for first orbital launch attempt appeared first on SpaceNews.",
+    "published_at": "2026-07-08T02:10:30Z",
+    "updated_at": "2026-07-08T07:25:15.523097Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "10fa7952-f00b-4292-80a2-4207e208844e",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38849,
     "title": "D-Orbit signs launch-services contract with ArkEdge Space",
     "authors": [
@@ -639,20 +711,20 @@
     "detailed_news": ""
   },
   {
-    "id": 38819,
-    "title": "The term ‘dual-use’ is misleading and dangerous",
+    "id": 38852,
+    "title": "OpSTAR mission patch",
     "authors": [
       {
-        "name": "Graeme Ritchie",
+        "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/06/United-Kingdom.jpg?fit=1024%2C618&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThere is only technology. How it is employed is a question of intent, context and political will, not of the technology itself. A precision optical payload captures imagery whether the […]\nThe post The term ‘dual-use’ is misleading and dangerous appeared first on SpaceNews.",
-    "published_at": "2026-07-06T13:00:00Z",
-    "updated_at": "2026-07-06T13:10:28.706464Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/OpSTAR_mission_patch",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/opstar_mission_patch/27365980-1-eng-GB/OpSTAR_mission_patch_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-07-06T13:32:00Z",
+    "updated_at": "2026-07-08T07:40:15.914446Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -673,6 +745,26 @@
     "summary": "\nThe company is positioning its Endura computing for classified and missile-defense satellite programs\nThe post BAE microchip designed for strategic defense missions passes radiation test appeared first on SpaceNews.",
     "published_at": "2026-07-06T13:00:00Z",
     "updated_at": "2026-07-06T13:10:28.729715Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38819,
+    "title": "The term ‘dual-use’ is misleading and dangerous",
+    "authors": [
+      {
+        "name": "Graeme Ritchie",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/06/United-Kingdom.jpg?fit=1024%2C618&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThere is only technology. How it is employed is a question of intent, context and political will, not of the technology itself. A precision optical payload captures imagery whether the […]\nThe post The term ‘dual-use’ is misleading and dangerous appeared first on SpaceNews.",
+    "published_at": "2026-07-06T13:00:00Z",
+    "updated_at": "2026-07-06T13:10:28.706464Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -947,93 +1039,6 @@
     "summary": "\nWatchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches\nThe post GAO flags satellite costs, launch risks in Space Force portfolio appeared first on SpaceNews.",
     "published_at": "2026-07-04T10:17:06Z",
     "updated_at": "2026-07-04T10:20:28.346006Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38805,
-    "title": "Katalyst’s LINK On Its Way to Reboost Swift",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/katalysts-link-on-its-way-to-reboost-swift/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Katalyst Space’s LINK on-orbit servicing spacecraft is on its way to reboost NASA’s Swift observatory. Northrop Grumman’s Pegasus-XL rocket launched LINK this morning and contact has been successfully established, the […]",
-    "published_at": "2026-07-04T03:59:09Z",
-    "updated_at": "2026-07-04T04:00:25.216913Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Katalyst Space’s LINK on-orbit servicing spacecraft is on its way to reboost NASA’s Swift observatory. Northrop Grumman’s Pegasus-XL rocket launched LINK this morning and contact has been successfully established, the […]"
-  },
-  {
-    "id": 38804,
-    "title": "Starship in Florida pushing for launch this year",
-    "authors": [
-      {
-        "name": "Ryan Weber",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/DSC_4536-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Starship launches from Cape Canaveral are getting closer and closer as SpaceX and its contractors…\nThe post Starship in Florida pushing for launch this year appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-07-03T21:26:45Z",
-    "updated_at": "2026-07-03T21:30:16.952632Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Starship launches from Cape Canaveral are getting closer and closer as SpaceX and its contractors…\nThe post Starship in Florida pushing for launch this year appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 38803,
-    "title": "Pegasus launches Swift reboost mission",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/pegasus-launches-swift-reboost-mission/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/pegasus-swift.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA Pegasus XL launched a mission to reboost a NASA astrophysics spacecraft on what may be the final flight of that rocket.\nThe post Pegasus launches Swift reboost mission appeared first on SpaceNews.",
-    "published_at": "2026-07-03T20:55:34Z",
-    "updated_at": "2026-07-03T21:00:45.953181Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38801,
-    "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_L95_3F_July4_flat_FINAL.tif",
-    "news_site": "NASA",
-    "summary": "Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.",
-    "published_at": "2026-07-03T15:01:17Z",
-    "updated_at": "2026-07-03T15:10:12.561525Z",
     "featured": false,
     "launches": [],
     "events": [],
