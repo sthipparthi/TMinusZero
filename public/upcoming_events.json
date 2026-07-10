@@ -1,6 +1,6 @@
 {
-  "count": 6,
-  "last_updated": "2026-07-10T01:30:11.652839Z",
+  "count": 5,
+  "last_updated": "2026-07-10T08:57:04.595939Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (6 failed/unavailable)"
+    "Empty AI summaries (5 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
-      "name": "Long March 10B | Demo Flight",
-      "status": "Go",
-      "net": "2026-07-10T05:20:00Z",
-      "window_start": "2026-07-10T05:12:00Z",
-      "window_end": "2026-07-10T07:19:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Demo Flight",
-      "mission_description": "First test launch of CASC’s Long March 10B rocket.",
-      "mission_type": "Test Flight",
-      "orbit": "Unknown",
-      "launch_site": "Commercial LC-2, Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-2",
-      "location": "Wenchang Space Launch Site, People's Republic of China",
-      "rocket": "Long March 10B",
-      "rocket_config_description": "The Long March 10B is a reusable launch vehicle based on the 1st stage of the Long March 10A, in turn derived from a single 1st stage core of the Long March 10, with 7 YF-100 series kerosene/liquid oxygen staged-combustion cycle engines on the 1st stage. Like the Long March 10A, the 10B’s 1st stage is designed to be recovered downrange by a recovery barge equipped with an arrestor net and support frame, with the 1st stage landing on the net’s cables using its grid fins.\r\n\r\nThe 2nd stage, however, uses a single YF-219 gas generator cycle methane/liquid oxygen engine with 140 tonnes of thrust.",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 10B",
-      "rocket_config_total_launch_count": 0,
-      "rocket_config_successful_launches": 0,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 601,
-      "rocket_manufacturer_successful_launches": 586,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": null,
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/1e79a5e9-c02c-470f-882f-884120100fef/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "135fb199-a39e-48cc-ba27-0aecd96ba9f8",
       "name": "Falcon 9 Block 5 | Starlink Group 17-48",
@@ -288,7 +247,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 6,
-    "total_launches": 6
+    "empty_summaries": 5,
+    "total_launches": 5
   }
 }
