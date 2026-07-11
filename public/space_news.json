@@ -1,5 +1,92 @@
 [
   {
+    "id": 38917,
+    "title": "FCC approves first Reflect Orbital satellite",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/reflectorbital.jpeg?fit=1024%2C569&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Federal Communications Commission has given its approval for a satellite that will test the ability to reflect sunlight into nighttime regions, a project sharply criticized by astronomers and environmentalists.\nThe post FCC approves first Reflect Orbital satellite appeared first on SpaceNews.",
+    "published_at": "2026-07-11T00:29:25Z",
+    "updated_at": "2026-07-11T00:30:29.329853Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38916,
+    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Starlink 17-48 mission will add another 24 satellites to the low Earth orbit constellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 8 p.m. PDT (11 p.m. EDT / 0300 UTC). ",
+    "published_at": "2026-07-10T20:59:39Z",
+    "updated_at": "2026-07-10T21:00:26.587329Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38915,
+    "title": "Booster 20 completes record duration Static Fire",
+    "authors": [
+      {
+        "name": "Ryan Weber",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/COLLEEN_-_DSC001-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "With the 33 engine static fire completed for Booster 20, SpaceX is pushing hard to…\nThe post Booster 20 completes record duration Static Fire appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-07-10T19:46:17Z",
+    "updated_at": "2026-07-10T19:50:07.316587Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "With the 33 engine static fire completed for Booster 20, SpaceX is pushing hard to…\nThe post Booster 20 completes record duration Static Fire appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 38914,
+    "title": "Early Career Faculty (ECF) 2025 Awards",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
+    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "news_site": "NASA",
+    "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control",
+    "published_at": "2026-07-10T19:23:55Z",
+    "updated_at": "2026-07-10T19:30:08.076496Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38913,
     "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
     "authors": [
@@ -207,26 +294,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38903,
-    "title": "Space capitalism needs more than a bull market",
-    "authors": [
-      {
-        "name": "Alexander William Salter",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexipo-celebration.jpeg?fit=1024%2C467&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nBy most measures, commercial space is thriving. Washington produced a flurry of activity over the past year: two major executive orders, a raft of directives, and “space superiority” elevated to […]\nThe post Space capitalism needs more than a bull market appeared first on SpaceNews.",
-    "published_at": "2026-07-10T13:00:00Z",
-    "updated_at": "2026-07-10T13:00:42.636138Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38902,
     "title": "Startup testing nuclear battery technology in orbit",
     "authors": [
@@ -241,6 +308,26 @@
     "summary": "\nA City Labs mission aims to validate a tritium-powered electrical source for satellites and lunar systems that could operate where solar power falls short\nThe post Startup testing nuclear battery technology in orbit appeared first on SpaceNews.",
     "published_at": "2026-07-10T13:00:00Z",
     "updated_at": "2026-07-10T13:00:42.557709Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38903,
+    "title": "Space capitalism needs more than a bull market",
+    "authors": [
+      {
+        "name": "Alexander William Salter",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexipo-celebration.jpeg?fit=1024%2C467&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nBy most measures, commercial space is thriving. Washington produced a flurry of activity over the past year: two major executive orders, a raft of directives, and “space superiority” elevated to […]\nThe post Space capitalism needs more than a bull market appeared first on SpaceNews.",
+    "published_at": "2026-07-10T13:00:00Z",
+    "updated_at": "2026-07-10T13:00:42.636138Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -937,93 +1024,6 @@
     "summary": "\nJapanese lunar exploration company ispace is buying space on a future Starship lunar lander mission to deliver larger payloads to the moon.\nThe post ispace to send larger payloads to the moon on SpaceX’s Starship appeared first on SpaceNews.",
     "published_at": "2026-07-08T21:28:16Z",
     "updated_at": "2026-07-08T21:30:26.169721Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38867,
-    "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/06.29.26_Students_Connect_NASA_Science_With_Indigenous_Knowledge_to_Study_Coastal_Erosion.png",
-    "news_site": "NASA",
-    "summary": "Story by Keri Moskowitz, Gulf of Maine Research Institute For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the coast, learning from the tides, the land, and their […]",
-    "published_at": "2026-07-08T21:04:14Z",
-    "updated_at": "2026-07-08T21:10:09.767857Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38866,
-    "title": "Japan’s ispace Expanding into Lunar Infrastructure",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/japans-ispace-expanding-into-lunar-infrastructure/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Hakamada-Kamiya-2-300x166.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Japan’s ispace robotic lunar landing company is expanding into the lunar infrastructure business through an agreement with SpaceX. Instead of just landing on the Moon, they are offering end-to-end services […]",
-    "published_at": "2026-07-08T20:31:48Z",
-    "updated_at": "2026-07-08T20:40:15.831757Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38865,
-    "title": "Is this the year for a NASA authorization bill?",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/housesci-20260204.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAppropriators, like fans of hard-luck sports teams, say every year that this year will be different. That this will be the year that “regular order” returns to the appropriations process, […]\nThe post Is this the year for a NASA authorization bill? appeared first on SpaceNews.",
-    "published_at": "2026-07-08T18:06:39Z",
-    "updated_at": "2026-07-08T18:10:28.754271Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38873,
-    "title": "NASA Awards Contracts for Mars Advanced Surface Mobility Technology",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/mars-exploration-program/nasa-awards-contracts-for-mars-advanced-surface-mobility-technology/",
-    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "news_site": "NASA",
-    "summary": "July 8, 2026 C.13 NASA Awards Contracts for Mars Advanced Surface Mobility Technology NASA has selected seven companies for contract awards under the Mars Exploration Program’s Science Transport and Robotic Innovation for Deployment and Exploration, or STRIDE, initiative to advance next-generation commercial robotic surface mobility for future Mars exploration. The STRIDE awards will support the […]",
-    "published_at": "2026-07-08T16:22:50Z",
-    "updated_at": "2026-07-09T04:10:12.101611Z",
     "featured": false,
     "launches": [],
     "events": [],
