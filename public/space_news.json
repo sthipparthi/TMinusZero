@@ -1,5 +1,25 @@
 [
   {
+    "id": 38918,
+    "title": "Parabilis tests propulsion system for maneuverable cubesats",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/DOTS-1.jpg?fit=786%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Space Force is backing the development of the company’s hybrid engine technology for small satellites\nThe post Parabilis tests propulsion system for maneuverable cubesats appeared first on SpaceNews.",
+    "published_at": "2026-07-11T13:39:38Z",
+    "updated_at": "2026-07-11T13:40:23.125507Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 38917,
     "title": "FCC approves first Reflect Orbital satellite",
     "authors": [
@@ -294,26 +314,6 @@
     "detailed_news": ""
   },
   {
-    "id": 38902,
-    "title": "Startup testing nuclear battery technology in orbit",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/BOHR_Assembly_Finished.png.webp?fit=539%2C660&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA City Labs mission aims to validate a tritium-powered electrical source for satellites and lunar systems that could operate where solar power falls short\nThe post Startup testing nuclear battery technology in orbit appeared first on SpaceNews.",
-    "published_at": "2026-07-10T13:00:00Z",
-    "updated_at": "2026-07-10T13:00:42.557709Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38903,
     "title": "Space capitalism needs more than a bull market",
     "authors": [
@@ -328,6 +328,26 @@
     "summary": "\nBy most measures, commercial space is thriving. Washington produced a flurry of activity over the past year: two major executive orders, a raft of directives, and “space superiority” elevated to […]\nThe post Space capitalism needs more than a bull market appeared first on SpaceNews.",
     "published_at": "2026-07-10T13:00:00Z",
     "updated_at": "2026-07-10T13:00:42.636138Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 38902,
+    "title": "Startup testing nuclear battery technology in orbit",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/BOHR_Assembly_Finished.png.webp?fit=539%2C660&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA City Labs mission aims to validate a tritium-powered electrical source for satellites and lunar systems that could operate where solar power falls short\nThe post Startup testing nuclear battery technology in orbit appeared first on SpaceNews.",
+    "published_at": "2026-07-10T13:00:00Z",
+    "updated_at": "2026-07-10T13:00:42.557709Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -1001,32 +1021,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Rocket Lab’s Electron rocket has had a record stretch through the first half of 2026,…\nThe post Rocket Lab sees Electron gains, Neutron delays in first half of 2026 appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 38868,
-    "title": "ispace to send larger payloads to the moon on SpaceX’s Starship",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/ispace-mobilecargo.jpeg?fit=1024%2C724&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nJapanese lunar exploration company ispace is buying space on a future Starship lunar lander mission to deliver larger payloads to the moon.\nThe post ispace to send larger payloads to the moon on SpaceX’s Starship appeared first on SpaceNews.",
-    "published_at": "2026-07-08T21:28:16Z",
-    "updated_at": "2026-07-08T21:30:26.169721Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
