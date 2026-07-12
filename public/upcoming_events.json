@@ -1,6 +1,6 @@
 {
-  "count": 6,
-  "last_updated": "2026-07-11T18:41:33.553856Z",
+  "count": 7,
+  "last_updated": "2026-07-12T01:24:59.034722Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (6 failed/unavailable)"
+    "Empty AI summaries (7 failed/unavailable)"
   ],
   "launches": [
     {
@@ -147,6 +147,47 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
       "infographic": null,
       "url": "https://ll.thespacedevs.com/2.0.0/launch/a556b963-0f36-4660-95a8-fdffdba653e2/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
+      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+      "name": "Starship | Flight 13",
+      "status": "Go",
+      "net": "2026-07-16T22:45:00Z",
+      "window_start": "2026-07-16T22:45:00Z",
+      "window_end": "2026-07-17T00:15:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Flight 13",
+      "mission_description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3.\r\n\r\nFor the first time, Starship will carry 20 V3 Starlink satellites to space, which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. \r\n\r\n6 of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.",
+      "mission_type": "Test Flight",
+      "orbit": "Suborbital",
+      "launch_site": "Orbital Launch Pad 2, SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Pad 2",
+      "location": "SpaceX Starbase, TX, USA",
+      "rocket": "Starship V3",
+      "rocket_config_description": "Third development version of the Starship reusable two-stage super heavy-lift launch vehicle.",
+      "rocket_config_family": "Starship",
+      "rocket_config_full_name": "Starship V3",
+      "rocket_config_total_launch_count": 1,
+      "rocket_config_successful_launches": 1,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 702,
+      "rocket_manufacturer_successful_launches": 687,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/ac897b9f-44d2-4ff4-8416-1a0a076e98a2/",
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
@@ -296,7 +337,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 6,
-    "total_launches": 6
+    "empty_summaries": 7,
+    "total_launches": 7
   }
 }
