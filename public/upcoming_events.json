@@ -1,6 +1,6 @@
 {
-  "count": 9,
-  "last_updated": "2026-07-16T13:13:46.444643Z",
+  "count": 8,
+  "last_updated": "2026-07-16T18:52:38.382028Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (9 failed/unavailable)"
+    "Empty AI summaries (8 failed/unavailable)"
   ],
   "launches": [
     {
@@ -98,47 +98,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
       "infographic": null,
       "url": "https://ll.thespacedevs.com/2.0.0/launch/ac897b9f-44d2-4ff4-8416-1a0a076e98a2/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
-    {
-      "id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
-      "name": "Long March 7A | Unknown Payload",
-      "status": "Go",
-      "net": "2026-07-17T11:50:00Z",
-      "window_start": "2026-07-17T11:42:00Z",
-      "window_end": "2026-07-17T13:39:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "201, Wenchang Space Launch Site, People's Republic of China",
-      "pad": "201",
-      "location": "Wenchang Space Launch Site, People's Republic of China",
-      "rocket": "Long March 7A",
-      "rocket_config_description": "",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 7A",
-      "rocket_config_total_launch_count": 16,
-      "rocket_config_successful_launches": 15,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 604,
-      "rocket_manufacturer_successful_launches": 589,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e/",
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
@@ -411,7 +370,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 9,
-    "total_launches": 9
+    "empty_summaries": 8,
+    "total_launches": 8
   }
 }
