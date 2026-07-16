@@ -1,5 +1,92 @@
 [
   {
+    "id": 39025,
+    "title": "Office of Space Commerce makes its case for mission authorization",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/jordan-housesci260715.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe Office of Space Commerce defended its proposal for a mission authorization scheme for novel space activities, arguing it would provide certainty for companies while limiting regulatory burdens.\nThe post Office of Space Commerce makes its case for mission authorization appeared first on SpaceNews.",
+    "published_at": "2026-07-16T12:06:00Z",
+    "updated_at": "2026-07-16T12:10:28.735301Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39026,
+    "title": "Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations",
+    "authors": [
+      {
+        "name": "Bluestaq",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/TM-STAQ.png?fit=262%2C239&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nCOLORADO SPRINGS, CO, July 16, 2026 – Bluestaq today announced the launch of BLUESTAQ / ARQ, the company’s commercial data infrastructure platform.  / ARQ is built for organizations in healthcare, […]\nThe post Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations appeared first on SpaceNews.",
+    "published_at": "2026-07-16T12:00:00Z",
+    "updated_at": "2026-07-16T12:10:28.756115Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39024,
+    "title": "Expedition Sound podcast series",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Expedition_Sound_podcast_series",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/key_visual_of_expedition_sound_an_esa_space_science_podcast_series/27380753-1-eng-GB/Key_visual_of_Expedition_Sound_an_ESA_Space_Science_podcast_series_card_full.png",
+    "news_site": "ESA",
+    "summary": "Expedition Sound is a podcast series by the European Space Agency (ESA) in which you’re invited to explore the Universe through your ears. Guided by sonifications – the translation of data into sound – host Zsófi Szalavári travels from our Sun out into the depths of space to uncover what the space telescopes of ESA’s science missions teach us about the Universe.",
+    "published_at": "2026-07-16T11:30:00Z",
+    "updated_at": "2026-07-16T11:40:18.655466Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39023,
+    "title": "Test firing at brand new green chemical propulsion lab",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Test_firing_at_brand_new_green_chemical_propulsion_lab",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/test_firing_at_brand_new_green_chemical_propulsion_lab/27379503-1-eng-GB/Test_firing_at_brand_new_green_chemical_propulsion_lab_card_full.gif",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-07-16T09:00:00Z",
+    "updated_at": "2026-07-16T11:10:19.601924Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39021,
     "title": "Swissto12 raises $70 million to accelerate small GEO satellite production",
     "authors": [
@@ -427,26 +514,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39005,
-    "title": "Replay of the online media briefing on the total solar eclipse",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Replay_of_the_online_media_briefing_on_the_total_solar_eclipse",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/replay_of_the_online_media_briefing_on_the_total_solar_eclipse/27379376-2-eng-GB/Replay_of_the_online_media_briefing_on_the_total_solar_eclipse_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA experts explain the science of eclipses, including visibility and key opportunities for scientific observation.",
-    "published_at": "2026-07-15T13:00:00Z",
-    "updated_at": "2026-07-15T15:40:12.898572Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 38999,
     "title": "Icarus Robotics taps KULR to provide batteries for Space Station robots",
     "authors": [
@@ -461,6 +528,26 @@
     "summary": "\nNAPA, Calif. – Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, selected KULR Technology Group to provide batteries for Joy, a free-flying platform destined for […]\nThe post Icarus Robotics taps KULR to provide batteries for Space Station robots appeared first on SpaceNews.",
     "published_at": "2026-07-15T13:00:00Z",
     "updated_at": "2026-07-15T13:00:41.553297Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39005,
+    "title": "Replay of the online media briefing on the total solar eclipse",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Replay_of_the_online_media_briefing_on_the_total_solar_eclipse",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/replay_of_the_online_media_briefing_on_the_total_solar_eclipse/27379376-2-eng-GB/Replay_of_the_online_media_briefing_on_the_total_solar_eclipse_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "ESA experts explain the science of eclipses, including visibility and key opportunities for scientific observation.",
+    "published_at": "2026-07-15T13:00:00Z",
+    "updated_at": "2026-07-15T15:40:12.898572Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -909,86 +996,6 @@
     "summary": "\nThe British government is preparing to release a new space strategy that will provide a “whole-of-government” approach for space in the country.\nThe post U.K. government preparing to release new space strategy appeared first on SpaceNews.",
     "published_at": "2026-07-14T12:07:19Z",
     "updated_at": "2026-07-14T12:10:26.419218Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38978,
-    "title": "Artemis II astronauts visit ESA",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_astronauts_visit_ESA",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/artemis_ii_astronauts_visit_esa/27377896-1-eng-GB/Artemis_II_astronauts_visit_ESA_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Yesterday, the four Artemis II astronauts visited ESA’s technical site in the Netherlands, where they met the team behind the European Service Module that powered their Orion spacecraft around the Moon and safely back to Earth.",
-    "published_at": "2026-07-14T07:49:00Z",
-    "updated_at": "2026-07-14T10:10:12.214456Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38977,
-    "title": "Fans of the Arctic",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fans-of-the-arctic/duelingalluvialfans_oli2_20250801.jpg",
-    "news_site": "NASA",
-    "summary": "Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
-    "published_at": "2026-07-14T04:01:00Z",
-    "updated_at": "2026-07-14T04:10:11.069892Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38976,
-    "title": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04942_opgs_edr_ncam_NLB_836217572EDR_F1230102NCAM00290M_.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Deborah Padgett, MSL Operations Product Ground System Task Lead at NASA’s Jet Propulsion Laboratory Earth planning date: Thursday, July 2, 2026 Curiosity spent the week leading up to the Fourth of July holiday approaching a geologic boundary between a very smooth but somewhat sandy region and a rougher bedrock unit.  Leaving the polygonal […]",
-    "published_at": "2026-07-14T01:04:04Z",
-    "updated_at": "2026-07-14T01:10:09.288824Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 38975,
-    "title": "Flexell Space raises $20 Million in Series A round",
-    "authors": [
-      {
-        "name": "Flexell Space",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/LOGO_FLEXELLBlack_jpg.jpg?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nUIWANG, South Korea, July 14 — FLEXELL SPACE, a developer of next-generation space solar solutions, announced that it has completed a $20 million Series A funding round. Completed approximately two […]\nThe post Flexell Space raises $20 Million in Series A round appeared first on SpaceNews.",
-    "published_at": "2026-07-14T00:00:00Z",
-    "updated_at": "2026-07-14T00:01:36.438543Z",
     "featured": false,
     "launches": [],
     "events": [],

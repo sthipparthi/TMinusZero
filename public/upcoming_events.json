@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-07-16T07:51:35.263779Z",
+  "count": 9,
+  "last_updated": "2026-07-16T13:13:46.444643Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
     {
@@ -139,6 +139,47 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
       "infographic": null,
       "url": "https://ll.thespacedevs.com/2.0.0/launch/beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
+      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
+      "name": "Vikram-I | Demo Flight",
+      "status": "Go",
+      "net": "2026-07-18T06:00:00Z",
+      "window_start": "2026-07-18T05:00:00Z",
+      "window_end": "2026-07-18T09:00:00Z",
+      "lsp_name": "Skyroot Aerospace",
+      "lsp_description": "Indian private launch services provider based in Hyderabad.",
+      "lsp_type": "Private",
+      "lsp_country": "IND",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/skyroot_aerospa_image_20251115042548.png",
+      "mission_name": "Demo Flight",
+      "mission_description": "First launch of Skyroot Aerospace's Vikram-I launch vehicle, with several cubesats on board. Payload identities TBD.",
+      "mission_type": "Test Flight",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Satish Dhawan Space Centre First Launch Pad, Satish Dhawan Space Centre, India",
+      "pad": "Satish Dhawan Space Centre First Launch Pad",
+      "location": "Satish Dhawan Space Centre, India",
+      "rocket": "Vikram-I",
+      "rocket_config_description": "4-stage orbital launch vehicle developed by Indian private company Skyroot Aerospace, with capability of up to 350 kg to Low Earth Orbit. The first 3 stages are powered by solid fuel rocket motors, topped by a hypergolic fuel upper stage.",
+      "rocket_config_family": "Vikram",
+      "rocket_config_full_name": "Vikram-I",
+      "rocket_config_total_launch_count": 0,
+      "rocket_config_successful_launches": 0,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Skyroot Aerospace",
+      "rocket_manufacturer_type": "Private",
+      "rocket_manufacturer_description": "Indian private launch services provider based in Hyderabad.",
+      "rocket_manufacturer_total_launch_count": 0,
+      "rocket_manufacturer_successful_launches": 0,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vikram-i_artist_image_20251115043247.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/10fa7952-f00b-4292-80a2-4207e208844e/",
       "webcast_live": false,
       "probability": null,
       "video_urls": [],
@@ -370,7 +411,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 9,
+    "total_launches": 9
   }
 }
