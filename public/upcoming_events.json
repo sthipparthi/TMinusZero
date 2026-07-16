@@ -1,6 +1,6 @@
 {
-  "count": 7,
-  "last_updated": "2026-07-16T01:22:04.019440Z",
+  "count": 8,
+  "last_updated": "2026-07-16T07:51:35.263779Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (7 failed/unavailable)"
+    "Empty AI summaries (8 failed/unavailable)"
   ],
   "launches": [
     {
@@ -235,6 +235,47 @@
       "ai_summary": ""
     },
     {
+      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+      "name": "Gravity-1 | Unknown Payload",
+      "status": "Go",
+      "net": "2026-07-22T02:50:00Z",
+      "window_start": "2026-07-22T02:44:00Z",
+      "window_end": "2026-07-22T03:09:00Z",
+      "lsp_name": "Orienspace Technology",
+      "lsp_description": "Galactic Energy is a private aerospace company headquartered in Yantai, Shandong, China, established in 2020. The company is developing the Gravity Series of satellite launch vehicles.",
+      "lsp_type": "Commercial",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/orienspace2520technology_logo_20240112075736.png",
+      "mission_name": "Unknown Payload",
+      "mission_description": "Details TBD.",
+      "mission_type": "Unknown",
+      "orbit": "Unknown",
+      "launch_site": "Yellow Sea (launch location 5), Haiyang Oriental Spaceport",
+      "pad": "Yellow Sea (launch location 5)",
+      "location": "Haiyang Oriental Spaceport",
+      "rocket": "Gravity-1",
+      "rocket_config_description": "A 4 stage launch vehicle by Chinese private company OrienSpace, consisting of 5 solid rocket motors clustered together but with the center motor igniting just before boosters separation. The upper two stages also uses solid fuel.",
+      "rocket_config_family": "",
+      "rocket_config_full_name": "Gravity-1",
+      "rocket_config_total_launch_count": 2,
+      "rocket_config_successful_launches": 2,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Orienspace Technology",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Galactic Energy is a private aerospace company headquartered in Yantai, Shandong, China, established in 2020. The company is developing the Gravity Series of satellite launch vehicles.",
+      "rocket_manufacturer_total_launch_count": 2,
+      "rocket_manufacturer_successful_launches": 2,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gravity-1_image_20240108105446.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/d8eb4b68-5307-4b3b-b585-5598958defc2/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
       "id": "5b2f05d7-9052-49fb-9bd7-2a05d4910576",
       "name": "Falcon 9 Block 5 | Starlink Group 17-51",
       "status": "Go",
@@ -329,7 +370,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 7,
-    "total_launches": 7
+    "empty_summaries": 8,
+    "total_launches": 8
   }
 }
