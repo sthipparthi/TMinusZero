@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-07-17T12:58:08.449557Z",
+  "count": 10,
+  "last_updated": "2026-07-17T18:49:51.366789Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (10 failed/unavailable)"
   ],
   "launches": [
     {
@@ -99,6 +99,83 @@
           "description": "Livestream on X",
           "feature_image": "https://pbs.twimg.com/media/HM4Gcf8WsAAbIGb.jpg",
           "url": "https://x.com/i/broadcasts/1qGoNNQZvEMKv"
+        }
+      ],
+      "ai_summary": ""
+    },
+    {
+      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+      "name": "Starship | Flight 13",
+      "status": "Go",
+      "net": "2026-07-20T22:45:00Z",
+      "window_start": "2026-07-20T22:45:00Z",
+      "window_end": "2026-07-21T00:15:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Flight 13",
+      "mission_description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3.\r\n\r\nFor the first time, Starship will carry 20 V3 Starlink satellites to space, which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. \r\n\r\n6 of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.",
+      "mission_type": "Test Flight",
+      "orbit": "Suborbital",
+      "launch_site": "Orbital Launch Pad 2, SpaceX Starbase, TX, USA",
+      "pad": "Orbital Launch Pad 2",
+      "location": "SpaceX Starbase, TX, USA",
+      "rocket": "Starship V3",
+      "rocket_config_description": "Third development version of the Starship reusable two-stage super heavy-lift launch vehicle.",
+      "rocket_config_family": "Starship",
+      "rocket_config_full_name": "Starship V3",
+      "rocket_config_total_launch_count": 1,
+      "rocket_config_successful_launches": 1,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 705,
+      "rocket_manufacturer_successful_launches": 690,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/ac897b9f-44d2-4ff4-8416-1a0a076e98a2/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 7,
+          "title": "GO! - SpaceX - Starship - Starship Flight 13 - Pad 2 - Starbase, TX - Space Affairs Live",
+          "description": "Launch Date: July 16, 2026\nLaunch Time: 3:45 p.m. PDT, 5:45 p.m. CDT, 6:45 p.m. EDT, 2245 UTC (July 17, 00:45 CEST)\nLaunch Window: 90 minutes, open until 8:15 p.m. CDT\nStatus: Scheduled and announced\n\nLaunch Provider: SpaceX\nLauncher System: Starship-Super Heavy (Prototype) - (Vehicles: Starship 20  & Booster 20)\nMission: Starship Test Flight 13 - Suborbital\nFlight: 1st flight for Super Heavy Booster 20 - 1st flight for Starship 40\nLaunch Location: Pad 2, Starbase, Texas, USA\n\nThe thirteenth flight test of Starship is preparing to launch as soon as Thursday, July 16. The 90-minute launch window will open at 5:45 p.m. CDT, 2245 UTC (July 17, 00:45 CEST)\nAs is the case with all developmental testing, the schedule is dynamic and likely to change, so be sure to check in here and stay tune...",
+          "feature_image": "https://i.ytimg.com/vi/ubVe02oNDww/maxresdefault_live.jpg",
+          "url": "https://www.youtube.com/watch?v=ubVe02oNDww"
+        },
+        {
+          "priority": 8,
+          "title": "Watch Live: SpaceX Starship launches on 13th test flight",
+          "description": "Watch live as SpaceX launches its revolutionary Starship launcher for a 13th test flight. Liftoff of the Version 3 integrated Starship vehicle from Starbase in Texas is scheduled during a launch window that opens at 5:45 p.m. CDT / 6:45 p.m. EDT / 2245 UTC on Thursday, July 16.\n\nThe mission will see splashdowns of the Super Heavy booster (Booster 20) in the Gulf of Mexico and the Starship upper stage (Ship 40) in the Indian Ocean.\n\nThe Starship upper stage will deploy 20 production Starlink V3 satellites for a 20-minute sub-orbital test.\n\nOur live coverage, hosted by Will Robinson-Smith, will begin about two hours before launch.\n\nCamera support from our friends at Avid Space @LabPadre .  \n\nVideos like this are made possible by the support of our members. Join this channel to get acces...",
+          "feature_image": "https://i.ytimg.com/vi/dZ6-A4iZFWU/maxresdefault_live.jpg",
+          "url": "https://www.youtube.com/watch?v=dZ6-A4iZFWU"
+        },
+        {
+          "priority": 9,
+          "title": "SpaceX Starship Flight 13- Launch & Landing - LAUNCH STREAM",
+          "description": "Starship launches Flight 13, the second launch of the Block 3 vehicle from Pad 2 at Starbase.\n\nLaunch Window: July 16th at 5:45PM to 7:15PM CDT (22:45-00:15 UTC)\nCurrent T0: July 16th at 5:45PM CDT (22:45 UTC)\n\nMission: Starship's 13th integrated flight test. Correcting issues from version 3's debut flight.\nLaunch location: Pad 2, Starbase, Earth. \nTarget orbit: Trans-atmospheric\nBooster: B20-1\nShip: S40-1\nBooster recovery: Expended - will attempt a water splashdown, no recovery.\nShip recovery: Expended - will attempt a water splashdown, no recovery.\nRocket trajectory: Southeast passing between Cuba and the Yucatan Peninsula.\nPayload onboard: 20 Starlink v3 satellites, 6 of them fitted with a suite of cameras for heatshield inspection.\nPayload mass: ~34 metric tons\nStats:\n  - SpaceX's...",
+          "feature_image": "https://i.ytimg.com/vi/vYpQwwf1XNw/maxresdefault_live.jpg",
+          "url": "https://www.youtube.com/watch?v=vYpQwwf1XNw"
+        },
+        {
+          "priority": 10,
+          "title": "Starship's Thirteenth Flight Test",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/HNWqJ_TXcAADsAJ.jpg",
+          "url": "https://x.com/i/broadcasts/1MKgNNXAZdmxL"
+        },
+        {
+          "priority": 11,
+          "title": "[4K] Watch SpaceX's Starship Flight 13!",
+          "description": "SpaceX is about to launch their second V3 Starship as well as a deploying the first operational V3 Starlink satellites! It will still be a sub-orbital mission with similar objectives to Flight 12, but an important step towards orbit and full reuse.\n\nWant to learn what's new and different about Starship V3 vs V2? Check this out! - https://youtu.be/y_ecCDqTSJs\n\nWant to support what I do? Consider becoming a Patreon supporter for access to exclusive livestreams, our discord channel! - http://patreon.com/everydayastronaut\n\nOr become a YouTube member for some bonus perks as well! - https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q/join\n\nThe best place for all your space merch needs!\nhttps://everydayastronaut.com/shop/\n\nAll music is original! Check it out anywhere you listen to music...",
+          "feature_image": "https://i.ytimg.com/vi/2r31rEkUUaA/maxresdefault_live.jpg",
+          "url": "https://www.youtube.com/watch?v=2r31rEkUUaA"
         }
       ],
       "ai_summary": ""
@@ -364,13 +441,54 @@
       "probability": null,
       "video_urls": [],
       "ai_summary": ""
+    },
+    {
+      "id": "521f3a1c-f977-4306-9b7f-495858719adf",
+      "name": "Falcon Heavy | Nancy Grace Roman Space Telescope",
+      "status": "Go",
+      "net": "2026-08-30T11:20:00Z",
+      "window_start": "2026-08-30T11:20:00Z",
+      "window_end": "2026-08-30T11:20:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Nancy Grace Roman Space Telescope",
+      "mission_description": "The Nancy Grace Roman Space Telescope is a NASA infrared space telescope with a 2.4 m (7.9 ft) wide field of view primary mirror and two scientific instruments. The Wide-Field Instrument (WFI) is a 300.8-megapixel multi-band visible and near-infrared camera, providing a sharpness of images comparable to that achieved by the Hubble Space Telescope over a 0.28 square degree field of view, 100 times larger than imaging cameras on the Hubble. The Coronagraphic Instrument (CGI) is a high-contrast, small field of view camera and spectrometer covering visible and near-infrared wavelengths using novel starlight-suppression technology. Roman objectives include a search for extra-solar planets using gravitational microlensing, and probing the expansion history of the Universe and the growth of cosmic structure, with the goal of measuring the effects of dark energy, the consistency of general relativity, and the curvature of spacetime.",
+      "mission_type": "Astrophysics",
+      "orbit": "Sun-Earth L2",
+      "launch_site": "Launch Complex 39A, Kennedy Space Center, FL, USA",
+      "pad": "Launch Complex 39A",
+      "location": "Kennedy Space Center, FL, USA",
+      "rocket": "Falcon Heavy",
+      "rocket_config_description": "The Falcon Heavy is a variant of the Falcon 9 full thrust launch vehicle and consists of a standard Falcon 9 rocket core, with two additional boosters derived from the Falcon 9 first stage.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon Heavy",
+      "rocket_config_total_launch_count": 12,
+      "rocket_config_successful_launches": 12,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 14,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 705,
+      "rocket_manufacturer_successful_launches": 690,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/521f3a1c-f977-4306-9b7f-495858719adf/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
     }
   ],
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 10,
+    "total_launches": 10
   }
 }
