@@ -1,5 +1,45 @@
 [
   {
+    "id": 39081,
+    "title": "Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/07/launch-preview-072026/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "After last week’s aborted Starship Flight 13 launch, SpaceX is scheduling a new attempt as…\nThe post Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-07-20T20:53:25Z",
+    "updated_at": "2026-07-20T21:00:13.983259Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "After last week’s aborted Starship Flight 13 launch, SpaceX is scheduling a new attempt as…\nThe post Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 39079,
+    "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
+    "image_url": "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA and its partners will discuss the upcoming crew rotation mission to the International Space Station during a pair of news conferences on Monday, Aug. 3, from the agency’s Johnson Space Center in Houston. Mission leadership will provide an overview of NASA’s SpaceX Crew‑13 mission at 12 p.m. EDT. Next, crew members will discuss their […]",
+    "published_at": "2026-07-20T20:00:52Z",
+    "updated_at": "2026-07-20T20:10:10.599659Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39078,
     "title": "Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5",
     "authors": [
@@ -38,6 +78,26 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
+  },
+  {
+    "id": 39080,
+    "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg",
+    "news_site": "NASA",
+    "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public […]",
+    "published_at": "2026-07-20T18:54:44Z",
+    "updated_at": "2026-07-20T20:20:06.956836Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public […]"
   },
   {
     "id": 39077,
@@ -943,66 +1003,6 @@
     "summary": "\nNEW YORK — A study published last week in Nature Astronomy has proposed a new satellite design and technique to detect thermonuclear warheads in space. Funded in part by the […]\nThe post Nature study identifies a new way to spot nuclear weapons in orbit appeared first on SpaceNews.",
     "published_at": "2026-07-16T20:36:12Z",
     "updated_at": "2026-07-16T20:40:27.170689Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39032,
-    "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia21259.jpg",
-    "news_site": "NASA",
-    "summary": "New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by precisely tracking its motion through space and using powerful observatories that image faint celestial objects. This object has a dual personality: Past images hadn’t revealed obvious cometlike activity, suggesting it might be […]",
-    "published_at": "2026-07-16T18:40:26Z",
-    "updated_at": "2026-07-16T18:50:05.817488Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39030,
-    "title": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starcatcher-grid.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nDIU solicitation aims to move long-studied technology toward military use by fiscal 2030\nThe post Defense Innovation Unit seeks commercial path to deliver electrical power from orbit appeared first on SpaceNews.",
-    "published_at": "2026-07-16T15:29:45Z",
-    "updated_at": "2026-07-16T15:30:30.359861Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39031,
-    "title": "Building the infrastructure for a shifting space economy with Massi Ladovaz",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-spinlaunch-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this episode, David Ariosto speaks with SpinLaunch CEO Massi Ladovaz. They discuss what attracted Ladovaz to reimagining how to launch spacecraft, the changing needs and challenges of building constellations […]\nThe post Building the infrastructure for a shifting space economy with Massi Ladovaz appeared first on SpaceNews.",
-    "published_at": "2026-07-16T15:24:00Z",
-    "updated_at": "2026-07-16T15:30:30.399566Z",
     "featured": false,
     "launches": [],
     "events": [],
