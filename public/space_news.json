@@ -1,5 +1,25 @@
 [
   {
+    "id": 39117,
+    "title": "A Week of Smoky Skies Across North America",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg",
+    "news_site": "NASA",
+    "summary": "Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.",
+    "published_at": "2026-07-22T04:00:00Z",
+    "updated_at": "2026-07-22T04:10:12.777629Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39116,
     "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica",
     "authors": [
@@ -988,26 +1008,6 @@
     "summary": "\nHELSINKI — A six-month-old Chinese startup aiming to use artificial intelligence to compress rocket engine development cycles has raised $29.5 million in angel funding. LegendSpace, full name Linjie Hangtian (Beijing) […]\nThe post AI rocket engine startup LegendSpace raises $29.5 million angel round appeared first on SpaceNews.",
     "published_at": "2026-07-20T11:18:13Z",
     "updated_at": "2026-07-20T11:20:18.465739Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39066,
-    "title": "Artemis II crew at ESTEC",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Artemis_II_crew_at_ESTEC",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/artemis_ii_crew_at_estec/27383126-1-eng-GB/Artemis_II_crew_at_ESTEC_card_full.png",
-    "news_site": "ESA",
-    "summary": "The four Artemis II astronauts visited ESTEC, ESA’s technical centre in the Netherlands, on 13 July as the first stop in a series of post-flight visits to the European teams that made their mission possible.",
-    "published_at": "2026-07-20T08:30:00Z",
-    "updated_at": "2026-07-20T10:10:16.331416Z",
     "featured": false,
     "launches": [],
     "events": [],
