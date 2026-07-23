@@ -1,5 +1,77 @@
 [
   {
+    "id": 39141,
+    "title": "The silicon brains steering next-generation antennas",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/The_silicon_brains_steering_next-generation_antennas",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/the_silicon_brains_steering_next-generation_antennas/27387323-1-eng-GB/The_silicon_brains_steering_next-generation_antennas_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-07-23T12:00:00Z",
+    "updated_at": "2026-07-23T12:30:24.961156Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39140,
+    "title": "Airbus space business takes advantage of growing demand for satellite systems",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/aeolus2.jpeg?fit=1024%2C724&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAirbus executives say the turnaround in the company’s space business came just in time to tap growing demand, particularly from Europe, for space capabilities as it pursues a joint venture.\nThe post Airbus space business takes advantage of growing demand for satellite systems appeared first on SpaceNews.",
+    "published_at": "2026-07-23T11:55:22Z",
+    "updated_at": "2026-07-23T12:00:33.626931Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39139,
+    "title": "Watch the total solar eclipse with ESA in León",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
+    "news_site": "ESA",
+    "summary": "Discover the science behind one of nature's most extraordinary phenomena and experience a total solar eclipse with the European Space Agency (ESA), the City of León and the University of León.",
+    "published_at": "2026-07-23T10:00:00Z",
+    "updated_at": "2026-07-23T12:27:43.026329Z",
+    "featured": false,
+    "launches": [],
+    "events": [
+      {
+        "event_id": 1454,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
     "id": 39137,
     "title": "Olympic Mountain Glory",
     "authors": [
@@ -348,6 +420,26 @@
     "summary": "\nHistory demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transformed infantry combat during the 19th […]\nThe post The strategic competition with China: winning the multi-domain race appeared first on SpaceNews.",
     "published_at": "2026-07-22T13:00:00Z",
     "updated_at": "2026-07-22T13:10:25.407890Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39138,
+    "title": "Improved reporting needed on forest carbon emissions",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Improved_reporting_needed_on_forest_carbon_emissions",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/biomass_changes_in_xingu_indigenous_park_brazil/27386649-6-eng-GB/Biomass_changes_in_Xingu_Indigenous_Park_Brazil_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "More analysis is needed to ensure that tropical forest degeneration and regeneration are consistently reported in carbon cycle models and in national reporting, according to a study funded in part by ESA's Climate Change Initiative Biomass project.",
+    "published_at": "2026-07-22T13:00:00Z",
+    "updated_at": "2026-07-23T08:10:15.323573Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -924,100 +1016,6 @@
     "summary": "Background Human exploration of Mars will expose crews to a persistent, fine particulate environment whose physicochemical properties and health implications remain only partly understood. Because no samples of authentic Martian airborne dust have been returned to Earth, NASA must rely on lunar dust toxicology, Martian regolith simulants, and extensive rover/lander geochemical and mineralogical datasets to […]",
     "published_at": "2026-07-21T14:03:16Z",
     "updated_at": "2026-07-21T14:33:40.662384Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39093,
-    "title": "A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/Van_Allen_Belts1.jpg",
-    "news_site": "NASA",
-    "summary": "A team of NASA-sponsored scientists and engineers has developed a novel approach to observing high-energy particles in the near-Earth space environment, incorporating miniaturized sensors into a compact, multi-view particle detection instrument unlike any before it. Built for NASA’s Relativistic Electron Atmospheric Loss (REAL) CubeSat mission, the innovative instrument (also called REAL) enables more complete measurements […]",
-    "published_at": "2026-07-21T13:00:00Z",
-    "updated_at": "2026-07-21T13:10:06.478465Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39091,
-    "title": "UK and Florida commit $400,000 to joint space projects",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/DSC00133.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe British government and Florida’s space-focused economic development agency have each committed $200,000 to support joint research, innovation and commercialization projects.\nThe post UK and Florida commit $400,000 to joint space projects appeared first on SpaceNews.",
-    "published_at": "2026-07-21T12:00:00Z",
-    "updated_at": "2026-07-21T12:00:42.539284Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39092,
-    "title": "German component supplier deltaVision raises 10.2 million euros",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/german-component-supplier-deltavision-raises-10-2-million-euros/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/deltavision.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGerman spacecraft component developer deltaVision has raised 10.2 million euros ($11.6 million) to expand production of valves and related equipment, with a focus on enabling in-space refueling.\nThe post German component supplier deltaVision raises 10.2 million euros appeared first on SpaceNews.",
-    "published_at": "2026-07-21T11:57:21Z",
-    "updated_at": "2026-07-21T12:00:42.558965Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39090,
-    "title": "Live coverage: SpaceX to launch novel geosynchronous robotic servicing satellite on decade-long mission",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260721-mev-mep-high-01.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "Northrop Grumman’s Mission Robotic Vehicle features the Robotic Servicing of Geosynchronous Satellites (RSGS) payload from the U.S. Naval Research Laboratory and DARPA. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a four-hour window that opens at 5:15 p.m. EDT (2115 UTC). ",
-    "published_at": "2026-07-21T11:46:14Z",
-    "updated_at": "2026-07-21T11:50:19.822266Z",
     "featured": false,
     "launches": [],
     "events": [],
