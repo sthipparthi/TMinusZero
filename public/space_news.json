@@ -1,5 +1,25 @@
 [
   {
+    "id": 39137,
+    "title": "Olympic Mountain Glory",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/olympic-mountain-glory/ISS047-E-104144.jpg",
+    "news_site": "NASA",
+    "summary": "Snow-capped mountains carved by deep river valleys preside over northwestern Washington state.",
+    "published_at": "2026-07-23T04:01:00Z",
+    "updated_at": "2026-07-23T04:10:08.805996Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39136,
     "title": "Soyuz MS-29 crew arrives at ISS, U.S. EVA completes Canadarm2 repairs",
     "authors": [
@@ -998,26 +1018,6 @@
     "summary": "Northrop Grumman’s Mission Robotic Vehicle features the Robotic Servicing of Geosynchronous Satellites (RSGS) payload from the U.S. Naval Research Laboratory and DARPA. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a four-hour window that opens at 5:15 p.m. EDT (2115 UTC). ",
     "published_at": "2026-07-21T11:46:14Z",
     "updated_at": "2026-07-21T11:50:19.822266Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39089,
-    "title": "ExoMars ramps put up with cold, shaking and vacuum",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/ExoMars_ramps_put_up_with_cold_shaking_and_vacuum",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exomars_ramps_put_up_with_cold_shaking_and_vacuum/27385359-1-eng-GB/ExoMars_ramps_put_up_with_cold_shaking_and_vacuum_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-07-21T11:01:00Z",
-    "updated_at": "2026-07-21T11:30:24.315611Z",
     "featured": false,
     "launches": [],
     "events": [],
