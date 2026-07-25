@@ -1,5 +1,45 @@
 [
   {
+    "id": 39175,
+    "title": "Successful Flight for Starship IFT-13",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/successful-flight-for-starship-ift-13/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-IFT13-liftoff-July-24-26-300x170.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The 13th Integrated Flight Test of SpaceX’s Starship system, IFT-13, was mostly a success. One week after the launch was scrubbed at the last moment because of engine failures, and […]",
+    "published_at": "2026-07-25T17:36:37Z",
+    "updated_at": "2026-07-25T17:40:16.338924Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39174,
+    "title": "Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast",
+    "authors": [
+      {
+        "name": "Steven Young",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff from Vandenberg Space Force Base in California is scheduled for 8:51 a.m. PDT (11:51 a.m. EDT / 1551 UTC). The Falcon 9 will place 24 Starlink satellites into orbit. ",
+    "published_at": "2026-07-25T13:58:51Z",
+    "updated_at": "2026-07-25T14:00:30.394407Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39173,
     "title": "Super Heavy-Starship rocket chalks up mostly successful test flight",
     "authors": [
@@ -970,45 +1010,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 39127,
-    "title": "NASA’s Juno Peers Beneath Io’s Surface",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26756/PIA26756.png",
-    "news_site": "NASA",
-    "summary": "Description This map represents data captured by the Microwave Radiometer (MWR) aboard NASA’s Juno spacecraft, indicating heat rising from just beneath the surface of Jupiter’s moon Io. While infrared instruments measure the temperature of the moon’s surface, the lowest frequency microwave channels (0.6 and 1.25 gigahertz) on the MWR can penetrate between about 6 and […]",
-    "published_at": "2026-07-22T14:58:58Z",
-    "updated_at": "2026-07-22T15:10:13.470900Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39125,
-    "title": "Path to Starship Flight 13 requires additional Booster 20 test",
-    "authors": [
-      {
-        "name": "Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-22-15-44-28-486.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "SpaceX continues to target no earlier than Thursday, July 23, for the next attempt to…\nThe post Path to Starship Flight 13 requires additional Booster 20 test appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-07-22T14:57:56Z",
-    "updated_at": "2026-07-22T15:00:22.050920Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "SpaceX continues to target no earlier than Thursday, July 23, for the next attempt to…\nThe post Path to Starship Flight 13 requires additional Booster 20 test appeared first on NASASpaceFlight.com."
   }
 ]
