@@ -1,5 +1,124 @@
 [
   {
+    "id": 39173,
+    "title": "Super Heavy-Starship rocket chalks up mostly successful test flight",
+    "authors": [
+      {
+        "name": "William Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260724_launch1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "Powered by 33 methane-fueled Raptor engines, the 397-foot-tall two-stage rocket blasted off from SpaceX's \"Starbase,\" Texas, launch site at 5:51 p.m. EDT, putting on a spectacular show for area residents and tourists as it climbed away atop some 16 million pounds of thrust. ",
+    "published_at": "2026-07-25T01:08:45Z",
+    "updated_at": "2026-07-25T01:10:25.499751Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39172,
+    "title": "SpaceX conducts 13th Starship test flight",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg?fit=1024%2C569&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time.\nThe post SpaceX conducts 13th Starship test flight appeared first on SpaceNews.",
+    "published_at": "2026-07-25T00:29:32Z",
+    "updated_at": "2026-07-25T00:30:49.985431Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39171,
+    "title": "Fires near Madrid Force Evacuation of NASA’s DSN Facility",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/fires-near-madrid-force-evacuation-of-nasas-dsn-facility/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Madrid-300x60.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Wildfires near Madrid, Spain forced the evacuation of NASA’s Deep Space Network facility there today. The agency reports that everyone is safe. The Madrid station is one of three around […]",
+    "published_at": "2026-07-24T20:52:02Z",
+    "updated_at": "2026-07-24T21:00:24.392975Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Wildfires near Madrid, Spain forced the evacuation of NASA’s Deep Space Network facility there today. The agency reports that everyone is safe. The Madrid station is one of three around […]"
+  },
+  {
+    "id": 39170,
+    "title": "ULA deals with financial challenges caused by Vulcan grounding",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket.\r\nThe post ULA deals with financial challenges caused by Vulcan grounding appeared first on SpaceNews.",
+    "published_at": "2026-07-24T20:18:19Z",
+    "updated_at": "2026-07-24T20:30:12.426229Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "550f778d-6c2d-41fc-b182-6f0cd8feda93",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39169,
+    "title": "Critical NASA Deep Space ground station in Spain evacuated due to wildfires",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260724_Madrid_DSN.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Madrid Deep Space Communications Complex is one of three critical sites around the world that communicate with spacecraft beyond the reach of near-Earth communications capabilities. ",
+    "published_at": "2026-07-24T20:11:08Z",
+    "updated_at": "2026-07-24T20:20:19.051994Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39168,
     "title": "Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand",
     "authors": [
@@ -207,26 +326,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39159,
-    "title": "Why total solar eclipses are so special",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/why_total_solar_eclipses_are_so_special/27383397-1-eng-GB/Why_total_solar_eclipses_are_so_special_card_full.png",
-    "news_site": "ESA",
-    "summary": "More than 2500 years ago, a total solar eclipse is said to have ended a war between the Lydians and the Medes. Today, we understand the science behind eclipses, but witnessing one is still one of the most awe-inspiring experiences on Earth.",
-    "published_at": "2026-07-24T10:00:00Z",
-    "updated_at": "2026-07-24T11:30:21.899211Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39157,
     "title": "EU delays release of Copernicus imagery over Gulf of Oman",
     "authors": [
@@ -241,6 +340,26 @@
     "summary": "\nJOHANNESBURG — The European Union has ordered a 24-hour delay in the release of some Sentinel-1 and Sentinel-2 imagery following a request from the United States based on concerns that […]\nThe post EU delays release of Copernicus imagery over Gulf of Oman  appeared first on SpaceNews.",
     "published_at": "2026-07-24T10:00:00Z",
     "updated_at": "2026-07-24T10:10:26.574903Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39159,
+    "title": "Why total solar eclipses are so special",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/why_total_solar_eclipses_are_so_special/27383397-1-eng-GB/Why_total_solar_eclipses_are_so_special_card_full.png",
+    "news_site": "ESA",
+    "summary": "More than 2500 years ago, a total solar eclipse is said to have ended a war between the Lydians and the Medes. Today, we understand the science behind eclipses, but witnessing one is still one of the most awe-inspiring experiences on Earth.",
+    "published_at": "2026-07-24T10:00:00Z",
+    "updated_at": "2026-07-24T11:30:21.899211Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -891,112 +1010,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "SpaceX continues to target no earlier than Thursday, July 23, for the next attempt to…\nThe post Path to Starship Flight 13 requires additional Booster 20 test appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 39124,
-    "title": "NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/",
-    "image_url": "https://images-assets.nasa.gov/image/PIA26484/PIA26484~large.jpg",
-    "news_site": "NASA",
-    "summary": " NASA’s Juno mission has provided the first measurements of the temperature below the surface of Jupiter’s moon Io, revealing significant heating within the shallow subsurface of the most volcanically active world in the solar system. Collected during two close flybys, the data also shows that most of Io’s surface is remarkably smooth and composed of […]",
-    "published_at": "2026-07-22T14:54:35Z",
-    "updated_at": "2026-07-22T15:00:15.169971Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39122,
-    "title": "NASA Joins Genesis Mission to Accelerate AI-Driven Discovery",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "news_site": "NASA",
-    "summary": "NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering challenges to advance a new era of discovery. President Donald J. Trump issued the Executive Order “Launching the Genesis Mission” on Nov. 24, 2025, creating a national mission to leverage artificial intelligence to […]",
-    "published_at": "2026-07-22T14:04:06Z",
-    "updated_at": "2026-07-22T14:10:09.150812Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39123,
-    "title": "Vast establishes division for national security projects",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/vast-establishes-division-for-national-security-projects/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/stricklan-vast.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nCommercial space station and spacecraft developer Vast has established a new division intended to support work in national security space.\nThe post Vast establishes division for national security projects appeared first on SpaceNews.",
-    "published_at": "2026-07-22T14:03:37Z",
-    "updated_at": "2026-07-22T14:10:25.235789Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39121,
-    "title": "The strategic competition with China: winning the multi-domain race",
-    "authors": [
-      {
-        "name": "Thomas “Tav” Taverney",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/CZ6A-Qianfan-6th-18-TSLC-17oct2025-CASC1.jpg?fit=1024%2C604&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nHistory demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transformed infantry combat during the 19th […]\nThe post The strategic competition with China: winning the multi-domain race appeared first on SpaceNews.",
-    "published_at": "2026-07-22T13:00:00Z",
-    "updated_at": "2026-07-22T13:10:25.407890Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39138,
-    "title": "Improved reporting needed on forest carbon emissions",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Improved_reporting_needed_on_forest_carbon_emissions",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/biomass_changes_in_xingu_indigenous_park_brazil/27386649-6-eng-GB/Biomass_changes_in_Xingu_Indigenous_Park_Brazil_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "More analysis is needed to ensure that tropical forest degeneration and regeneration are consistently reported in carbon cycle models and in national reporting, according to a study funded in part by ESA's Climate Change Initiative Biomass project.",
-    "published_at": "2026-07-22T13:00:00Z",
-    "updated_at": "2026-07-23T08:10:15.323573Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
