@@ -1,19 +1,159 @@
 [
   {
-    "id": 39188,
-    "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
+    "id": 39197,
+    "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
     "authors": [
       {
-        "name": "Debra Werner",
+        "name": "NASA",
         "socials": null
       }
     ],
-    "url": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_orbes_symphony.png?fit=879%2C493&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […]\nThe post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews.",
-    "published_at": "2026-07-27T13:00:00Z",
-    "updated_at": "2026-07-27T13:10:26.041267Z",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/chris-williams-post-mission-conference-july-27.jpg",
+    "news_site": "NASA",
+    "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested […]",
+    "published_at": "2026-07-27T18:49:20Z",
+    "updated_at": "2026-07-27T18:50:09.550007Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39196,
+    "title": "Despite recent successes, rapid reuse of Starship remains a tough nut to crack",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks.png",
+    "news_site": "Arstechnica",
+    "summary": "NASA has not made substantial investments in thermal protection research for decades.",
+    "published_at": "2026-07-27T18:34:40Z",
+    "updated_at": "2026-07-27T18:40:07.791671Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39195,
+    "title": "NASA Science Soars During August Total Solar Eclipse",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg",
+    "news_site": "NASA",
+    "summary": "Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]",
+    "published_at": "2026-07-27T18:01:14Z",
+    "updated_at": "2026-07-27T18:10:10.005242Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39193,
+    "title": "NASA Astronaut Chris Williams Returns to Earth",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55419246867-809993deb3-o.jpg",
+    "news_site": "NASA",
+    "summary": "NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams’ first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of scientific investigations and technology demonstrations. He […]",
+    "published_at": "2026-07-27T16:48:46Z",
+    "updated_at": "2026-07-27T16:50:08.616705Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39194,
+    "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]",
+    "published_at": "2026-07-27T16:06:37Z",
+    "updated_at": "2026-07-27T17:10:10.758038Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39192,
+    "title": "Raging wildfires near Madrid, Spain",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/raging_wildfires_near_madrid_spain/27392687-1-eng-GB/Raging_wildfires_near_Madrid_Spain_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-07-27T14:55:00Z",
+    "updated_at": "2026-07-27T16:00:23.110795Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39191,
+    "title": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/meir.jpg",
+    "news_site": "NASA",
+    "summary": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables in support of space station operations. Experts will preview the upcoming spacewalks during a news conference at 2 p.m. EDT, Thursday, July 30, […]",
+    "published_at": "2026-07-27T14:35:11Z",
+    "updated_at": "2026-07-27T14:40:09.631387Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39190,
+    "title": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/07/STScI-01KXZZ6H029XBJTKYKRPARFJE9.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
+    "published_at": "2026-07-27T14:00:14Z",
+    "updated_at": "2026-07-27T14:10:09.648704Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -34,6 +174,26 @@
     "summary": "\nStarfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceNews.",
     "published_at": "2026-07-27T13:00:00Z",
     "updated_at": "2026-07-27T13:10:26.060241Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39188,
+    "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_orbes_symphony.png?fit=879%2C493&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […]\nThe post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews.",
+    "published_at": "2026-07-27T13:00:00Z",
+    "updated_at": "2026-07-27T13:10:26.041267Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -852,165 +1012,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 39149,
-    "title": "Poland commits $745 million to EU’s IRIS² constellation project",
-    "authors": [
-      {
-        "name": "Jarosław Adamowski",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
-    "image_url": "https://spacenews.com/wp-content/uploads/2024/10/IRIS2-image.avif",
-    "news_site": "SpaceNews",
-    "summary": "\nWARSAW, Poland — The Polish government has agreed to invest around $745 million in the development of the planned IRIS² multi-orbit satellite internet constellation with the European Union.  The money […]\nThe post Poland commits $745 million to EU’s IRIS² constellation project appeared first on SpaceNews.",
-    "published_at": "2026-07-23T21:14:49Z",
-    "updated_at": "2026-07-23T21:20:30.477139Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39148,
-    "title": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2020/02/rsz_matossian.png?fit=879%2C586&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […]\nThe post Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech appeared first on SpaceNews.",
-    "published_at": "2026-07-23T19:23:13Z",
-    "updated_at": "2026-07-23T19:30:31.638310Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39147,
-    "title": "Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260723_starship_ship_40_stack_5.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The flight comes as Tropical Storm Bertha is expected to make landfall in Texas on Thursday. Liftoff of the Starship Flight 13 mission is scheduled during a 90-minute window that opens at 5:45 p.m. CDT (6:45 p.m. EDT / 2245 UTC). ",
-    "published_at": "2026-07-23T19:12:50Z",
-    "updated_at": "2026-07-23T19:20:26.205191Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39146,
-    "title": "Look for NASA+ Now Streaming on Amazon Fire TV",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/nasa-image.jpeg",
-    "news_site": "NASA",
-    "summary": "Continuing agency efforts to bring space closer to home, NASA+ is heading to more streaming platforms. On Thursday, NASA announced its programming is on Fire TV Channels. Fire TV customers can easily access this content by asking Alexa+ on compatible devices. Future programming on Fire TV may include science mission launches, a test flight for […]",
-    "published_at": "2026-07-23T19:11:29Z",
-    "updated_at": "2026-07-23T19:20:09.423330Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39144,
-    "title": "Crews Move Artemis IV Liquid Hydrogen Tank",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/maf-20260515-cs4-lh2to451-08orig.jpg",
-    "news_site": "NASA",
-    "summary": "Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site on May 15, 2026. The liquid hydrogen tank will form part of the core stage for […]",
-    "published_at": "2026-07-23T15:20:19Z",
-    "updated_at": "2026-07-23T15:30:09.733256Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39145,
-    "title": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22076/PIA22076.tif",
-    "news_site": "NASA",
-    "summary": "NASA MAVEN (Mars Atmosphere and Volatile Evolution) mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a similar way to Earth-based auroras. Results published Thursday in Nature Communications show the same mechanism that circulates and catapults charged particles into Earth’s atmosphere is happening at […]",
-    "published_at": "2026-07-23T15:19:33Z",
-    "updated_at": "2026-07-23T16:10:11.627163Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39143,
-    "title": "Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/will-bruey-on-rethinking-the-role-of-pharmaceuticals-in-low-earth-orbit/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-varda-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this episode, David Ariosto speaks with Varda CEO Will Bruey at the Ascend conference. They discuss how Varda hopes to play a role bridging medicine and low Earth orbit […]\nThe post Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit appeared first on SpaceNews.",
-    "published_at": "2026-07-23T15:13:33Z",
-    "updated_at": "2026-07-23T15:20:31.782063Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39142,
-    "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/jsc2025e063520-altorig.jpg",
-    "news_site": "NASA",
-    "summary": "After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his assignment, Williams contributed to research for new cancer treatments, advanced the production of materials to improve computers and electronics, ventured into the vacuum of space to complete two spacewalks, and much […]",
-    "published_at": "2026-07-23T14:00:00Z",
-    "updated_at": "2026-07-23T14:00:11.888483Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his assignment, Williams contributed to research for new cancer treatments, advanced the production of materials to improve computers and electronics, ventured into the vacuum of space to complete two spacewalks, and much […]"
   }
 ]
