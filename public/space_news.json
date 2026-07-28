@@ -1,5 +1,65 @@
 [
   {
+    "id": 39207,
+    "title": "Ship 40’s flawless flight promotes next mission catch potential",
+    "authors": [
+      {
+        "name": "Ryan Weber",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-28-17-55-41-344.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX’s Starship Flight 13 demonstrated that the Ship can complete its mission and return intact,…\nThe post Ship 40’s flawless flight promotes next mission catch potential appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-07-28T17:33:20Z",
+    "updated_at": "2026-07-28T17:40:19.978355Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX’s Starship Flight 13 demonstrated that the Ship can complete its mission and return intact,…\nThe post Ship 40’s flawless flight promotes next mission catch potential appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 39206,
+    "title": "Germany Considers Dedicated Launch Facility for its Armed Forces",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/germany-considers-dedicated-launch-facility-for-its-armed-forces/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/Germany-Considers-Dedicated-Launch-Facility-for-its-Armed-Forces-hero-image.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Germany is considering building a dedicated launch facility for its armed forces to ensure military satellites can be deployed without having to compete for capacity with commercial payloads. German Defence Minister Boris Pistorius announced that the government was considering the proposal during a 23 July visit to Isar Aerospace’s facilities near Munich. Pistorius said that […]\nThe post Germany Considers Dedicated Launch Facility for its Armed Forces appeared first on European Spaceflight.",
+    "published_at": "2026-07-28T14:47:45Z",
+    "updated_at": "2026-07-28T14:50:12.790231Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39205,
+    "title": "How Sentinel-1 measured movement of Venezuela quakes",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/ground_displacement_following_venezuela_earthquakes/27394336-1-eng-GB/Ground_displacement_following_Venezuela_earthquakes_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was greater than first estimated.",
+    "published_at": "2026-07-28T12:04:00Z",
+    "updated_at": "2026-07-28T13:30:20.220488Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39204,
     "title": "NASA selects successor to CAPSTONE lunar mission",
     "authors": [
@@ -294,26 +354,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39189,
-    "title": "Intel debuts new chip for space computing",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/fab-52-manufacturing-stations-scaled-1.jpg?fit=1024%2C682&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nStarfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceNews.",
-    "published_at": "2026-07-27T13:00:00Z",
-    "updated_at": "2026-07-27T13:10:26.060241Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39188,
     "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
     "authors": [
@@ -328,6 +368,26 @@
     "summary": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […]\nThe post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews.",
     "published_at": "2026-07-27T13:00:00Z",
     "updated_at": "2026-07-27T13:10:26.041267Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39189,
+    "title": "Intel debuts new chip for space computing",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/fab-52-manufacturing-stations-scaled-1.jpg?fit=1024%2C682&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nStarfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceNews.",
+    "published_at": "2026-07-27T13:00:00Z",
+    "updated_at": "2026-07-27T13:10:26.060241Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -955,66 +1015,6 @@
     "summary": "This Hubble image features spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden).",
     "published_at": "2026-07-24T11:11:08Z",
     "updated_at": "2026-07-24T12:10:10.595206Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39158,
-    "title": "Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Tianlian2-06-CZ3B-XSLC-23july2026-CASC.jpg?fit=1024%2C599&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nHELSINKI — China conducted a pair of launches Thursday, including a Long March 3B rocket which delivered its payload to orbit despite a lightning strike. The Long March 3B rocket […]\nThe post Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites appeared first on SpaceNews.",
-    "published_at": "2026-07-24T10:32:53Z",
-    "updated_at": "2026-07-24T10:40:25.997615Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39157,
-    "title": "EU delays release of Copernicus imagery over Gulf of Oman",
-    "authors": [
-      {
-        "name": "Andrew Parsonson",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/The_Gulf-scaled.jpg?fit=1024%2C900&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nJOHANNESBURG — The European Union has ordered a 24-hour delay in the release of some Sentinel-1 and Sentinel-2 imagery following a request from the United States based on concerns that […]\nThe post EU delays release of Copernicus imagery over Gulf of Oman  appeared first on SpaceNews.",
-    "published_at": "2026-07-24T10:00:00Z",
-    "updated_at": "2026-07-24T10:10:26.574903Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39159,
-    "title": "Why total solar eclipses are so special",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/why_total_solar_eclipses_are_so_special/27383397-1-eng-GB/Why_total_solar_eclipses_are_so_special_card_full.png",
-    "news_site": "ESA",
-    "summary": "More than 2500 years ago, a total solar eclipse is said to have ended a war between the Lydians and the Medes. Today, we understand the science behind eclipses, but witnessing one is still one of the most awe-inspiring experiences on Earth.",
-    "published_at": "2026-07-24T10:00:00Z",
-    "updated_at": "2026-07-24T11:30:21.899211Z",
     "featured": false,
     "launches": [],
     "events": [],
