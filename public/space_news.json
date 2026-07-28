@@ -1,5 +1,32 @@
 [
   {
+    "id": 39204,
+    "title": "NASA selects successor to CAPSTONE lunar mission",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/capstone02.jpeg?fit=1024%2C453&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA has selected Advanced Space to fly a successor to a cislunar smallsat mission that will test rendezvous and proximity operations around the moon.\nThe post NASA selects successor to CAPSTONE lunar mission appeared first on SpaceNews.",
+    "published_at": "2026-07-28T12:03:50Z",
+    "updated_at": "2026-07-28T12:10:29.509915Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39202,
     "title": "Vertical liftoff as Ariane 6 takes flight for the first time",
     "authors": [
@@ -267,26 +294,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39188,
-    "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_orbes_symphony.png?fit=879%2C493&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […]\nThe post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews.",
-    "published_at": "2026-07-27T13:00:00Z",
-    "updated_at": "2026-07-27T13:10:26.041267Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39189,
     "title": "Intel debuts new chip for space computing",
     "authors": [
@@ -301,6 +308,26 @@
     "summary": "\nStarfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceNews.",
     "published_at": "2026-07-27T13:00:00Z",
     "updated_at": "2026-07-27T13:10:26.060241Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39188,
+    "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_orbes_symphony.png?fit=879%2C493&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […]\nThe post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews.",
+    "published_at": "2026-07-27T13:00:00Z",
+    "updated_at": "2026-07-27T13:10:26.041267Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -954,26 +981,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39159,
-    "title": "Why total solar eclipses are so special",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/why_total_solar_eclipses_are_so_special/27383397-1-eng-GB/Why_total_solar_eclipses_are_so_special_card_full.png",
-    "news_site": "ESA",
-    "summary": "More than 2500 years ago, a total solar eclipse is said to have ended a war between the Lydians and the Medes. Today, we understand the science behind eclipses, but witnessing one is still one of the most awe-inspiring experiences on Earth.",
-    "published_at": "2026-07-24T10:00:00Z",
-    "updated_at": "2026-07-24T11:30:21.899211Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39157,
     "title": "EU delays release of Copernicus imagery over Gulf of Oman",
     "authors": [
@@ -994,20 +1001,20 @@
     "detailed_news": ""
   },
   {
-    "id": 39156,
-    "title": "Air Force takes over troubled military GPS receiver program",
+    "id": 39159,
+    "title": "Why total solar eclipses are so special",
     "authors": [
       {
-        "name": "Sandra Erwin",
+        "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/09/050304-A-4920C-019.jpg?fit=1024%2C672&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Air Force Life Cycle Management Center will oversee development, integration and sustainment of equipment used to access the military’s encrypted GPS signal\nThe post Air Force takes over troubled military GPS receiver program appeared first on SpaceNews.",
-    "published_at": "2026-07-24T09:00:00Z",
-    "updated_at": "2026-07-24T09:10:26.951894Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/why_total_solar_eclipses_are_so_special/27383397-1-eng-GB/Why_total_solar_eclipses_are_so_special_card_full.png",
+    "news_site": "ESA",
+    "summary": "More than 2500 years ago, a total solar eclipse is said to have ended a war between the Lydians and the Medes. Today, we understand the science behind eclipses, but witnessing one is still one of the most awe-inspiring experiences on Earth.",
+    "published_at": "2026-07-24T10:00:00Z",
+    "updated_at": "2026-07-24T11:30:21.899211Z",
     "featured": false,
     "launches": [],
     "events": [],
