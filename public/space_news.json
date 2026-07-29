@@ -1,5 +1,72 @@
 [
   {
+    "id": 39210,
+    "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
+    "authors": [
+      {
+        "name": "Andrew Jones",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSINGAPORE — A Beijing-based startup has secured around $14 million to build a satellite constellation for tracking orbital objects, adding to China’s growing SSA sector.  Xingchen Daohe, also known as […]\nThe post Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush appeared first on SpaceNews.",
+    "published_at": "2026-07-29T01:18:28Z",
+    "updated_at": "2026-07-29T01:20:27.284963Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39209,
+    "title": "Swift reboost mission encounters attitude control problems",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA spacecraft launched nearly a month ago in a high-risk bid to boost the orbit of a NASA astrophysics satellite is suffering attitude control problems that could jeopardize its mission.\nThe post Swift reboost mission encounters attitude control problems appeared first on SpaceNews.",
+    "published_at": "2026-07-28T23:04:29Z",
+    "updated_at": "2026-07-28T23:10:19.824917Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39208,
+    "title": "ESA opens call to repurpose Gateway communications module",
+    "authors": [
+      {
+        "name": "Andrew Parsonson",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/gateway-full-configuration-hero-image-121123-scaled.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nJOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as […]\nThe post ESA opens call to repurpose Gateway communications module appeared first on SpaceNews.",
+    "published_at": "2026-07-28T20:38:20Z",
+    "updated_at": "2026-07-28T20:40:26.899325Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39207,
     "title": "Ship 40’s flawless flight promotes next mission catch potential",
     "authors": [
@@ -354,26 +421,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39188,
-    "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_orbes_symphony.png?fit=879%2C493&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […]\nThe post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews.",
-    "published_at": "2026-07-27T13:00:00Z",
-    "updated_at": "2026-07-27T13:10:26.041267Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39189,
     "title": "Intel debuts new chip for space computing",
     "authors": [
@@ -388,6 +435,26 @@
     "summary": "\nStarfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceNews.",
     "published_at": "2026-07-27T13:00:00Z",
     "updated_at": "2026-07-27T13:10:26.060241Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39188,
+    "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_orbes_symphony.png?fit=879%2C493&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […]\nThe post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews.",
+    "published_at": "2026-07-27T13:00:00Z",
+    "updated_at": "2026-07-27T13:10:26.041267Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -948,73 +1015,6 @@
     "summary": "ESA has awarded a contract to Luxembourg-based ispace-Europe to complete the development of the MAGPIE lunar rover and deliver it to the surface of the Moon in 2029. The Mission for Advanced Geophysics and Polar Ice Exploration (MAGPIE) is being developed under ESA’s Small Missions for Exploration initiative. The rover will explore the Moon’s south […]\nThe post ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon appeared first on European Spaceflight.",
     "published_at": "2026-07-24T15:00:40Z",
     "updated_at": "2026-07-24T15:10:16.352330Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39162,
-    "title": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT",
-    "authors": [
-      {
-        "name": "LatConnect 60",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60.png?fit=277%2C277&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nPERTH, Australia – 24 July 2026 – LatConnect 60 (“LC60”), an Australian satellite Earth observation and AI company, today unveiled a proprietary intelligence-fusion capability that leverages the latest advancements in […]\nThe post LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT appeared first on SpaceNews.",
-    "published_at": "2026-07-24T14:59:27Z",
-    "updated_at": "2026-07-24T15:00:37.108006Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39161,
-    "title": "Office of Space Commerce to move ahead on mission authorization",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/jordan-housesci260715.jpeg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Commerce Department is moving ahead with plans to implement a voluntary mission authorization system for novel space activities that are not regulated by other agencies.\nThe post Office of Space Commerce to move ahead on mission authorization appeared first on SpaceNews.",
-    "published_at": "2026-07-24T12:04:34Z",
-    "updated_at": "2026-07-24T12:10:28.486418Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39160,
-    "title": "Hubble Spies One-Sided Spiral",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/hubble-spies-one-sided-spiral/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC4654_potm2607a.jpg",
-    "news_site": "NASA",
-    "summary": "This Hubble image features spiral galaxy NGC 4654, located 72 million light-years away in the constellation Virgo (the Maiden).",
-    "published_at": "2026-07-24T11:11:08Z",
-    "updated_at": "2026-07-24T12:10:10.595206Z",
     "featured": false,
     "launches": [],
     "events": [],
