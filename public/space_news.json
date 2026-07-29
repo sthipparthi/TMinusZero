@@ -1,5 +1,92 @@
 [
   {
+    "id": 39218,
+    "title": "Contractor to Civil Servant: NASA Welcomes Ray Williams",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/s26-007-ray-williams.jpg",
+    "news_site": "NASA",
+    "summary": "Ray Williams’ progression at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has uniquely prepared him for his new role. As part of NASA’s plan to restore core competencies by converting contractors to civil service, the New Orleans native and Grambling State University graduate now works as a supervisor for test operations support at […]",
+    "published_at": "2026-07-29T13:32:50Z",
+    "updated_at": "2026-07-29T13:40:10.706049Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39217,
+    "title": "Fortastra and Hadrian join forces to streamline satellite production",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_hadrian_f3.jpg?fit=879%2C703&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Fortastra, a Los Angeles startup focused on defending on-orbit infrastructure, is working with manufacturing specialist Hadrian to explore ways to apply precision machining and additive manufacturing to […]\nThe post Fortastra and Hadrian join forces to streamline satellite production appeared first on SpaceNews.",
+    "published_at": "2026-07-29T13:00:00Z",
+    "updated_at": "2026-07-29T13:10:28.424892Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39216,
+    "title": "H3 to launch next ispace lunar lander mission",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/h3-202512.jpeg?fit=1024%2C808&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nJapanese lunar lander developer ispace has selected the H3 rocket to launch its next mission in 2028, creating what the companies called Japan’s first private lunar transportation system.\nThe post H3 to launch next ispace lunar lander mission appeared first on SpaceNews.",
+    "published_at": "2026-07-29T12:10:11Z",
+    "updated_at": "2026-07-29T12:10:27.386222Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39215,
+    "title": "Earth and Proba-3’s Coronagraph play hide and seek",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_and_Proba-3_s_Coronagraph_play_hide_and_seek",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_and_proba-3_s_coronagraph_play_hide_and_seek/27387754-1-eng-GB/Earth_and_Proba-3_s_Coronagraph_play_hide_and_seek_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-07-29T11:00:00Z",
+    "updated_at": "2026-07-29T10:50:19.609763Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39213,
     "title": "Sizing Up the Sargassum Belt",
     "authors": [
@@ -242,6 +329,31 @@
     "updated_at": "2026-07-28T07:20:16.989706Z",
     "featured": false,
     "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39214,
+    "title": "Liftoff as Ariane 6 takes flight for the first time",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Liftoff_as_Ariane_6_takes_flight_for_the_first_time",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/liftoff_as_ariane_6_takes_flight_for_the_first_time/27393783-2-eng-GB/Liftoff_as_Ariane_6_takes_flight_for_the_first_time_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-07-28T07:00:00Z",
+    "updated_at": "2026-07-29T08:57:20.889992Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "3e461ec0-8b64-4804-b9aa-e1e1f066065a",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -493,26 +605,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39189,
-    "title": "Intel debuts new chip for space computing",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/fab-52-manufacturing-stations-scaled-1.jpg?fit=1024%2C682&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nStarfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceNews.",
-    "published_at": "2026-07-27T13:00:00Z",
-    "updated_at": "2026-07-27T13:10:26.060241Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39188,
     "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
     "authors": [
@@ -527,6 +619,26 @@
     "summary": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […]\nThe post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews.",
     "published_at": "2026-07-27T13:00:00Z",
     "updated_at": "2026-07-27T13:10:26.041267Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39189,
+    "title": "Intel debuts new chip for space computing",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/fab-52-manufacturing-stations-scaled-1.jpg?fit=1024%2C682&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nStarfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceNews.",
+    "published_at": "2026-07-27T13:00:00Z",
+    "updated_at": "2026-07-27T13:10:26.060241Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -919,117 +1031,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Wildfires near Madrid, Spain forced the evacuation of NASA’s Deep Space Network facility there today. The agency reports that everyone is safe. The Madrid station is one of three around […]"
-  },
-  {
-    "id": 39170,
-    "title": "ULA deals with financial challenges caused by Vulcan grounding",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket.\r\nThe post ULA deals with financial challenges caused by Vulcan grounding appeared first on SpaceNews.",
-    "published_at": "2026-07-24T20:18:19Z",
-    "updated_at": "2026-07-24T20:30:12.426229Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "550f778d-6c2d-41fc-b182-6f0cd8feda93",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39169,
-    "title": "Critical NASA Deep Space ground station in Spain evacuated due to wildfires",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260724_Madrid_DSN.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Madrid Deep Space Communications Complex is one of three critical sites around the world that communicate with spacecraft beyond the reach of near-Earth communications capabilities. ",
-    "published_at": "2026-07-24T20:11:08Z",
-    "updated_at": "2026-07-24T20:20:19.051994Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39168,
-    "title": "Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand",
-    "authors": [
-      {
-        "name": "Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-24-17-51-12-365.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "NASA and Blue Origin have finalized plans to hot-fire test the second stage of the…\nThe post Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-07-24T18:01:12Z",
-    "updated_at": "2026-07-24T18:10:21.737591Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA and Blue Origin have finalized plans to hot-fire test the second stage of the…\nThe post Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 39167,
-    "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png",
-    "news_site": "NASA",
-    "summary": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively […]",
-    "published_at": "2026-07-24T17:47:06Z",
-    "updated_at": "2026-07-24T18:10:14.652091Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39166,
-    "title": "New Crew Members Welcomed to International Space Station",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0814792orig.jpg",
-    "news_site": "NASA",
-    "summary": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome […]",
-    "published_at": "2026-07-24T16:43:02Z",
-    "updated_at": "2026-07-24T16:50:09.315301Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
