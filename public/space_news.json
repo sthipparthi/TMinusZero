@@ -1,5 +1,77 @@
 [
   {
+    "id": 39213,
+    "title": "Sizing Up the Sargassum Belt",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606.jpg",
+    "news_site": "NASA",
+    "summary": "Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.",
+    "published_at": "2026-07-29T04:00:00Z",
+    "updated_at": "2026-07-29T04:10:10.881874Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39212,
+    "title": "DOT Issues Proposed Rule to Waive Environmental Regulations for Space Launches",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/dot-issues-proposed-rule-to-waive-environmental-regulations-for-space-launches/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/07/Sean-Duffy-200x300.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The Department of Transportation wants to loosen environmental regulations for space launches and reentries. A proposed rule released today would allow DOT to waive “unnecessary environmental laws and regulations” to […]",
+    "published_at": "2026-07-29T03:30:50Z",
+    "updated_at": "2026-07-29T03:40:14.149296Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39211,
+    "title": "Boeing still working with NASA to schedule next Starliner flight",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/NHQ202406030004large.jpg?fit=1024%2C705&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "Boeing is still working with NASA to determine when to fly its CST-100 Starliner commercial crew vehicle on a cargo mission to the International Space Station.\r\nThe post Boeing still working with NASA to schedule next Starliner flight appeared first on SpaceNews.",
+    "published_at": "2026-07-29T01:24:07Z",
+    "updated_at": "2026-07-29T06:31:02.284824Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "07e945c1-2ec6-4d29-a500-1afbe920440f",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39210,
     "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
     "authors": [
@@ -955,66 +1027,6 @@
     "summary": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome […]",
     "published_at": "2026-07-24T16:43:02Z",
     "updated_at": "2026-07-24T16:50:09.315301Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39165,
-    "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/capstone2.jpg",
-    "news_site": "NASA",
-    "summary": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characterize the […]",
-    "published_at": "2026-07-24T16:35:46Z",
-    "updated_at": "2026-07-24T16:40:08.766407Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency’s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characterize the […]"
-  },
-  {
-    "id": 39164,
-    "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/bo.jpg",
-    "news_site": "NASA",
-    "summary": "NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working […]",
-    "published_at": "2026-07-24T15:30:21Z",
-    "updated_at": "2026-07-24T15:40:09.370806Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company’s New Glenn rocket on the B-2 test stand at the agency’s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA’s commitment to working […]"
-  },
-  {
-    "id": 39163,
-    "title": "ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-awards-ispace-e65m-contract-to-build-and-deliver-magpie-rover-to-the-moon/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/ESA-Awards-ispace-65-Million-Euros-Contract-to-Build-and-Deliver-MAGPIE-Rover-to-the-Moon.webp",
-    "news_site": "European Spaceflight",
-    "summary": "ESA has awarded a contract to Luxembourg-based ispace-Europe to complete the development of the MAGPIE lunar rover and deliver it to the surface of the Moon in 2029. The Mission for Advanced Geophysics and Polar Ice Exploration (MAGPIE) is being developed under ESA’s Small Missions for Exploration initiative. The rover will explore the Moon’s south […]\nThe post ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon appeared first on European Spaceflight.",
-    "published_at": "2026-07-24T15:00:40Z",
-    "updated_at": "2026-07-24T15:10:16.352330Z",
     "featured": false,
     "launches": [],
     "events": [],
