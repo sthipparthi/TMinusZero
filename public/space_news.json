@@ -1,5 +1,117 @@
 [
   {
+    "id": 39244,
+    "title": "Rocket Lab wins another launch contract from Japan’s iQPS",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/electron-f79.jpeg?fit=1024%2C683&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nRocket Lab has won another contract from Japanese radar imaging company iQPS for multiple launches of its Electron rocket.\nThe post Rocket Lab wins another launch contract from Japan’s iQPS appeared first on SpaceNews.",
+    "published_at": "2026-07-30T11:59:29Z",
+    "updated_at": "2026-07-30T12:01:16.822720Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39243,
+    "title": "ArianeGroup Completes Themis Wet Dress Rehearsal",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/arianegroup-completes-themis-wet-dress-rehearsal/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/ArianeGroup-Complete-Themis-Wet-Dress-Rehearsal.webp",
+    "news_site": "European Spaceflight",
+    "summary": "ArianeGroup has completed a wet dress rehearsal of the Themis reusable booster demonstrator at the Esrange Space Centre in Sweden, providing the first substantive update on the vehicle’s test campaign in more than ten months. The rehearsal was conducted on 23 July by teams from ArianeGroup and SSC Space, the commercial entity that manages the […]\nThe post ArianeGroup Completes Themis Wet Dress Rehearsal appeared first on European Spaceflight.",
+    "published_at": "2026-07-30T09:54:53Z",
+    "updated_at": "2026-07-30T10:00:20.746761Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39242,
+    "title": "From drone flight to sounding rocket",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/From_drone_flight_to_sounding_rocket",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/student_team_and_advisors_during_retroreflector_test_campaign_at_estec/27397446-2-eng-GB/Student_team_and_advisors_during_retroreflector_test_campaign_at_ESTEC_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "A drone carrying an unusual payload recently took to the skies above ESTEC, the European Space Agency’s technical centre in the Netherlands, marking the first test flight of a student-developed radar retroreflector technology.",
+    "published_at": "2026-07-30T09:00:00Z",
+    "updated_at": "2026-07-30T09:00:29.255030Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39240,
+    "title": "NASA Johnson Interns Shaping the Future of Exploration",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/dsc03157.jpg",
+    "news_site": "NASA",
+    "summary": "NASA interns at Johnson Space Center are applying their talents to real-world projects while working alongside the engineers, scientists, communicators, and innovators advancing human spaceflight. Learn how these students are gaining hands-on experience, contributing to real missions, and preparing to join the nation’s highly skilled and competitive aerospace workforce.   Meet the students behind the work and discover what inspired them to pursue careers at […]",
+    "published_at": "2026-07-30T08:08:55Z",
+    "updated_at": "2026-07-30T08:10:12.700695Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39241,
+    "title": "SMOS salinity could offer early indicator of El Niño",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/pacific_ocean_salinity_june_2026/27397989-1-eng-GB/Pacific_Ocean_salinity_June_2026_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "As the Pacific Ocean moves into an El Niño phase, scientists are monitoring changes in sea-surface temperature, but also sea-surface salinity – which is another key indicator of this phenomenon.",
+    "published_at": "2026-07-30T07:20:00Z",
+    "updated_at": "2026-07-30T09:36:50.199964Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "44b77752-f7db-4401-b314-c89df2994ac8",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39238,
     "title": "APOD: July 30 – Red Sun trough Wildfire Smoke",
     "authors": [
@@ -906,106 +1018,6 @@
     "summary": "NASA has not made substantial investments in thermal protection research for decades.",
     "published_at": "2026-07-27T18:34:40Z",
     "updated_at": "2026-07-27T18:40:07.791671Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39195,
-    "title": "NASA Science Soars During August Total Solar Eclipse",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg",
-    "news_site": "NASA",
-    "summary": "Each time the Moon covers the Sun during a total solar eclipse — darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona — it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, […]",
-    "published_at": "2026-07-27T18:01:14Z",
-    "updated_at": "2026-07-27T18:10:10.005242Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39193,
-    "title": "NASA Astronaut Chris Williams Returns to Earth",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55419246867-809993deb3-o.jpg",
-    "news_site": "NASA",
-    "summary": "NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams’ first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of scientific investigations and technology demonstrations. He […]",
-    "published_at": "2026-07-27T16:48:46Z",
-    "updated_at": "2026-07-27T16:50:08.616705Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39194,
-    "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy’s core. “We were looking for these star-shredding events as a way […]",
-    "published_at": "2026-07-27T16:06:37Z",
-    "updated_at": "2026-07-27T17:10:10.758038Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39192,
-    "title": "Raging wildfires near Madrid, Spain",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/raging_wildfires_near_madrid_spain/27392687-1-eng-GB/Raging_wildfires_near_Madrid_Spain_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-07-27T14:55:00Z",
-    "updated_at": "2026-07-27T16:00:23.110795Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39191,
-    "title": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/meir.jpg",
-    "news_site": "NASA",
-    "summary": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables in support of space station operations. Experts will preview the upcoming spacewalks during a news conference at 2 p.m. EDT, Thursday, July 30, […]",
-    "published_at": "2026-07-27T14:35:11Z",
-    "updated_at": "2026-07-27T14:40:09.631387Z",
     "featured": false,
     "launches": [],
     "events": [],
