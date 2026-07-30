@@ -1,5 +1,65 @@
 [
   {
+    "id": 39238,
+    "title": "APOD: July 30 – Red Sun trough Wildfire Smoke",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sun.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: July 30 – Red Sun… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Red Sun […]",
+    "published_at": "2026-07-30T04:05:00Z",
+    "updated_at": "2026-07-30T05:50:09.388302Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39239,
+    "title": "New Zealand’s Southern Wilderness",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-zealand's-southern-wilderness/nzstewartisland_oli2_20260514.jpg",
+    "news_site": "NASA",
+    "summary": "Stewart Island/Rakiura, New Zealand’s third-largest island, is known for its vibrant birdlife, unique forests, wilderness beaches, and views of the night sky.",
+    "published_at": "2026-07-30T04:01:00Z",
+    "updated_at": "2026-07-30T05:50:09.422977Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39237,
+    "title": "Sophia Space and Caltech claim patent for space data centers",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_1tile.jpg?fit=879%2C494&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSAN FRANCISCO – Sophia Space announced the award July 30 of a patent, shared with the California Institute of Technology, covering large, modular space-based data centers. The patent, issued July […]\nThe post Sophia Space and Caltech claim patent for space data centers appeared first on SpaceNews.",
+    "published_at": "2026-07-30T04:00:00Z",
+    "updated_at": "2026-07-30T04:00:44.312465Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39235,
     "title": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office",
     "authors": [
@@ -946,66 +1006,6 @@
     "summary": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables in support of space station operations. Experts will preview the upcoming spacewalks during a news conference at 2 p.m. EDT, Thursday, July 30, […]",
     "published_at": "2026-07-27T14:35:11Z",
     "updated_at": "2026-07-27T14:40:09.631387Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39190,
-    "title": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/07/STScI-01KXZZ6H029XBJTKYKRPARFJE9.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
-    "published_at": "2026-07-27T14:00:14Z",
-    "updated_at": "2026-07-27T14:10:09.648704Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39189,
-    "title": "Intel debuts new chip for space computing",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/fab-52-manufacturing-stations-scaled-1.jpg?fit=1024%2C682&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nStarfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceNews.",
-    "published_at": "2026-07-27T13:00:00Z",
-    "updated_at": "2026-07-27T13:10:26.060241Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39188,
-    "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_orbes_symphony.png?fit=879%2C493&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […]\nThe post Orbes unveils Exo-ORB and agreement with Symphony Space appeared first on SpaceNews.",
-    "published_at": "2026-07-27T13:00:00Z",
-    "updated_at": "2026-07-27T13:10:26.041267Z",
     "featured": false,
     "launches": [],
     "events": [],
