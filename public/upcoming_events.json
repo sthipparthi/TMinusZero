@@ -1,6 +1,6 @@
 {
-  "count": 10,
-  "last_updated": "2026-07-30T13:22:23.851494Z",
+  "count": 11,
+  "last_updated": "2026-07-30T19:05:33.775969Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (10 failed/unavailable)"
+    "Empty AI summaries (11 failed/unavailable)"
   ],
   "launches": [
     {
@@ -462,13 +462,54 @@
       "probability": null,
       "video_urls": [],
       "ai_summary": ""
+    },
+    {
+      "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+      "name": "Vega-C | Sentinel-3C & FLEX",
+      "status": "Go",
+      "net": "2026-09-15T01:21:07Z",
+      "window_start": "2026-09-15T01:21:07Z",
+      "window_end": "2026-09-15T01:21:07Z",
+      "lsp_name": "Avio S.p.A",
+      "lsp_description": "Avio S.p.A. is an Italian company operating in the aerospace sector with its head office in Colleferro near Rome, Italy. Founded in 1908, it is present in Italy and abroad with different commercial offices and 10 production sites.",
+      "lsp_type": "Commercial",
+      "lsp_country": "ITA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/avio2520s.p.a_logo_20221130103121.png",
+      "mission_name": "Sentinel-3C & FLEX",
+      "mission_description": "Sentinel-3C is the third satellite in the Sentinel-3 constellation, which provides high-accuracy optical, radar and altimetry data for marine and land services.\r\n\r\nThe Fluorescence Explorer (FLEX) satellite is a part of ESA's Earth Explorer program. The satellite will map vegetation fluorescence to quantify photosynthetic activity.",
+      "mission_type": "Earth Science",
+      "orbit": "Sun-Synchronous Orbit",
+      "launch_site": "Ariane Launch Area 1 (ELV), Guiana Space Centre, French Guiana",
+      "pad": "Ariane Launch Area 1 (ELV)",
+      "location": "Guiana Space Centre, French Guiana",
+      "rocket": "Vega-C",
+      "rocket_config_description": "Vega-C is a single-body rocket nearly 35 m high with that weighs 210 tonnes on the launch pad. As with Vega, its main elements are three solid-propellant stages, an upper stage powered by a reignitable liquid-propellant engine and a payload fairing. Vega-C's P120C first stage replaces Vega’s smaller P80 to provide a significant increase in thrust at liftoff. It is also used as boosters (2 or 4) for the Ariane 6 rocket.",
+      "rocket_config_family": "Vega",
+      "rocket_config_full_name": "Vega-C",
+      "rocket_config_total_launch_count": 7,
+      "rocket_config_successful_launches": 6,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 22,
+      "rocket_manufacturer_name": "Avio S.p.A",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Avio S.p.A. is an Italian company operating in the aerospace sector with its head office in Colleferro near Rome, Italy. Founded in 1908, it is present in Italy and abroad with different commercial offices and 10 production sites.",
+      "rocket_manufacturer_total_launch_count": 1,
+      "rocket_manufacturer_successful_launches": 1,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/8effc13a-c658-4d2e-9f15-8dba4d7fe2dd/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
     }
   ],
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 10,
-    "total_launches": 10
+    "empty_summaries": 11,
+    "total_launches": 11
   }
 }
