@@ -1,5 +1,45 @@
 [
   {
+    "id": 39307,
+    "title": "Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest",
+    "authors": [
+      {
+        "name": "John Sharp",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-080326/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/IMG_1145-scaled.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "The first full week of August is shaping up to be another busy period for…\nThe post Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-08-03T21:24:28Z",
+    "updated_at": "2026-08-03T21:30:19.795188Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The first full week of August is shaping up to be another busy period for…\nThe post Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 39306,
+    "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/balloons-la-students-summer-2026.jpg",
+    "news_site": "NASA",
+    "summary": "Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia Scientific Balloon Facility fill with students and faculty from across Louisiana. They arrive carrying sensors, laptops, and carefully engineered payloads they have spent months preparing.  The goal is to send their experiments to the edge of space and return with meaningful data, while reflecting […]",
+    "published_at": "2026-08-03T19:22:43Z",
+    "updated_at": "2026-08-03T19:30:13.409831Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39305,
     "title": "Guinea-Bissau Tidal Waters",
     "authors": [
@@ -561,26 +601,6 @@
     "detailed_news": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA’s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia. The state-of-the-art facility will support research and technology development that will advance the agency’s aeronautics, exploration, and science goals, […]"
   },
   {
-    "id": 39277,
-    "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2015/04/prepost-flammability-test-photo-of-natural-webbing.png",
-    "news_site": "NASA",
-    "summary": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a […]",
-    "published_at": "2026-07-31T19:05:25Z",
-    "updated_at": "2026-07-31T19:10:12.887471Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a […]"
-  },
-  {
     "id": 39303,
     "title": "TB 26-05 Webbings for Use in Elevated Oxygen Environments",
     "authors": [
@@ -599,6 +619,26 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
+  },
+  {
+    "id": 39277,
+    "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2015/04/prepost-flammability-test-photo-of-natural-webbing.png",
+    "news_site": "NASA",
+    "summary": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a […]",
+    "published_at": "2026-07-31T19:05:25Z",
+    "updated_at": "2026-07-31T19:10:12.887471Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a […]"
   },
   {
     "id": 39276,
@@ -942,46 +982,6 @@
     "summary": "The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations.",
     "published_at": "2026-07-31T09:36:00Z",
     "updated_at": "2026-07-31T11:10:21.995311Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39256,
-    "title": "Earth from Space: New Orleans and the mighty Mississippi",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_new_orleans_and_the_mighty_mississippi/27399649-1-eng-GB/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-07-31T08:00:00Z",
-    "updated_at": "2026-07-31T08:30:19.317409Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39269,
-    "title": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/DARK-DOODAD_2048.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 July 31 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4372 […]",
-    "published_at": "2026-07-31T04:05:00Z",
-    "updated_at": "2026-07-31T14:10:10.658842Z",
     "featured": false,
     "launches": [],
     "events": [],
