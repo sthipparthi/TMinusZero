@@ -1,5 +1,126 @@
 [
   {
+    "id": 39339,
+    "title": "Think tank warns Europe’s orbital compute gap is widening",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Orbital.jpg?fit=1024%2C625&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nEurope risks becoming dependent on foreign orbital computing infrastructure as U.S. companies and China’s government-led push accelerate the development of space-based data centers, according to the European Space Policy Institute.\nThe post Think tank warns Europe’s orbital compute gap is widening appeared first on SpaceNews.",
+    "published_at": "2026-08-05T08:00:00Z",
+    "updated_at": "2026-08-05T08:00:38.629050Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39338,
+    "title": "Total solar eclipse: how to watch live from home",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
+    "news_site": "ESA",
+    "summary": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world.",
+    "published_at": "2026-08-05T08:00:00Z",
+    "updated_at": "2026-08-05T08:00:23.007967Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39337,
+    "title": "Live coverage: SpaceX to launch 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/08/05/live-coverage-spacex-to-launch-3-ast-spacemobile-bluebird-satellites-on-falcon-9-rocket-from-cape-canaveral/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The BlueBird 11-13 mission is the third time SpaceX will fly satellites to orbit supporting AST SpaceMobile’s direct-to-device constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a window that opens at 3:42 a.m. EDT (0742 UTC). ",
+    "published_at": "2026-08-05T06:55:35Z",
+    "updated_at": "2026-08-05T07:00:48.613321Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39336,
+    "title": "Neuraspace raises $18 million to expand sovereign space awareness",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_1neuraspace_def.jpg?fit=879%2C581&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNeuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities.\nThe post Neuraspace raises $18 million to expand sovereign space awareness appeared first on SpaceNews.",
+    "published_at": "2026-08-05T06:00:00Z",
+    "updated_at": "2026-08-05T06:10:36.395197Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39335,
+    "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Starlab_-_External_Config_2025_-_04.png?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nVoyager Technologies remains upbeat about the prospects for its Starlab commercial space station but is hoping for some tweaks to NASA’s plans to support the station’s development.\nThe post Voyager seeks relaxed requirements in NASA commercial space station RFP appeared first on SpaceNews.",
+    "published_at": "2026-08-05T03:01:23Z",
+    "updated_at": "2026-08-05T03:10:33.477155Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39334,
     "title": "Next Starship Will Deliver Operational V3 Starlinks to Orbit, Maybe Catch Ship",
     "authors": [
@@ -900,105 +1021,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Here is SpacePolicyOnline.com’s list of space policy events for the week of August 2-8, 2026 and any insight we can offer about them. The Senate is in session this week. […]"
-  },
-  {
-    "id": 39287,
-    "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/gallery-gallery_ng2-8615.jpg?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe Air Force Research Laboratory increased by $11.7 million Blue Origin’s contract to study the use of space rockets for point-to-point deliveries \nThe post U.S. Air Force expands Blue Origin rocket cargo contract  appeared first on SpaceNews.",
-    "published_at": "2026-08-02T12:03:27Z",
-    "updated_at": "2026-08-02T12:10:26.653992Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39288,
-    "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FireRainbow_Harbig_4000.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A […]",
-    "published_at": "2026-08-02T04:05:00Z",
-    "updated_at": "2026-08-02T15:10:09.718199Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39294,
-    "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FireRainbow_Harbig_4000.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A […]",
-    "published_at": "2026-08-02T04:05:00Z",
-    "updated_at": "2026-08-03T13:10:10.925057Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39286,
-    "title": "Boeing’s Starliner set for potential 2026 cargo run to ISS",
-    "authors": [
-      {
-        "name": "Martijn Luinstra and Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-01-22-12-28-760.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Boeing CEO Kelly Ortberg has noted redesign work on the company’s CST-100 Starliner spacecraft is…\nThe post Boeing’s Starliner set for potential 2026 cargo run to ISS appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-08-01T22:26:30Z",
-    "updated_at": "2026-08-01T22:30:16.421554Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Boeing CEO Kelly Ortberg has noted redesign work on the company’s CST-100 Starliner spacecraft is…\nThe post Boeing’s Starliner set for potential 2026 cargo run to ISS appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 39285,
-    "title": "Space Force awards K2 Space $22.9 million for orbital laser communications demonstration",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-19-at-8.07.27-AM.png?fit=1024%2C635&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nTwo K2 satellites will host optical terminals intended to connect military systems in orbit\nThe post Space Force awards K2 Space $22.9 million for orbital laser communications demonstration appeared first on SpaceNews.",
-    "published_at": "2026-08-01T20:28:39Z",
-    "updated_at": "2026-08-01T20:30:32.104874Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
