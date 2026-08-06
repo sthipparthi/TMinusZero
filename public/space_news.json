@@ -1,5 +1,52 @@
 [
   {
+    "id": 39354,
+    "title": "New Glenn explosion linked to rocket engine valve",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/08/BlueOrigin_BE4_EngineLineup.jpg?fit=1000%2C562&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nBlue Origin has traced the explosion of its New Glenn rocket during a static-fire test in May to a valve in the rocket’s BE-4 engine.\nThe post New Glenn explosion linked to rocket engine valve appeared first on SpaceNews.",
+    "published_at": "2026-08-05T22:30:16Z",
+    "updated_at": "2026-08-05T22:30:37.036802Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39352,
+    "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/newplot.png",
+    "news_site": "Arstechnica",
+    "summary": "\"The models are forecasting something outside the envelope of anything we have ever observed.\"",
+    "published_at": "2026-08-05T19:19:04Z",
+    "updated_at": "2026-08-05T19:30:14.014754Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39351,
     "title": "CNES Sets 2028 Target for Hot-Fire Test of New High-Thrust Rocket Engine",
     "authors": [
@@ -14,6 +61,26 @@
     "summary": "The head of the French space agency CNES told lawmakers in April that a subscale prototype of a future reusable full-flow staged-combustion rocket engine is expected to be tested for the first time in 2028. CNES President François Jacq disclosed the target in written answers submitted to the French National Assembly’s Economic Affairs Committee ahead […]\nThe post CNES Sets 2028 Target for Hot-Fire Test of New High-Thrust Rocket Engine appeared first on European Spaceflight.",
     "published_at": "2026-08-05T18:49:25Z",
     "updated_at": "2026-08-05T18:50:08.775991Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39353,
+    "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/ixpe/IXPEMagnetarArtistsConcept_Web.png",
+    "news_site": "NASA",
+    "summary": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E […]",
+    "published_at": "2026-08-05T18:49:14Z",
+    "updated_at": "2026-08-05T22:00:14.126781Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -950,73 +1017,6 @@
     "summary": "Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia Scientific Balloon Facility fill with students and faculty from across Louisiana. They arrive carrying sensors, laptops, and carefully engineered payloads they have spent months preparing.  The goal is to send their experiments to the edge of space and return with meaningful data, while reflecting […]",
     "published_at": "2026-08-03T19:22:43Z",
     "updated_at": "2026-08-03T19:30:13.409831Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39305,
-    "title": "Guinea-Bissau Tidal Waters",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/bijagosarchipelago-oli-20251128-lrg.jpg",
-    "news_site": "NASA",
-    "summary": "Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau’s Bijagós Archipelago (Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov. 28, 2025, the process leads to stark changes to the landscape: around low tide, intertidal mudflats and sandflats […]",
-    "published_at": "2026-08-03T17:15:39Z",
-    "updated_at": "2026-08-03T17:20:10.045239Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39304,
-    "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
-    "authors": [
-      {
-        "name": "Jason Rainbow",
-        "socials": {
-          "x": "",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
-          "mastodon": "",
-          "bluesky": ""
-        }
-      }
-    ],
-    "url": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/J-3-satellite--scaled.jpg?fit=1024%2C763&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nEchoStar’s Hughes geostationary satellite broadband business has filed for bankruptcy in the United States after years of mounting competition from SpaceX’s Starlink constellation.\nThe post Hughes files for bankruptcy after GEO business loses ground to Starlink appeared first on SpaceNews.",
-    "published_at": "2026-08-03T16:06:47Z",
-    "updated_at": "2026-08-03T16:10:30.684306Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39318,
-    "title": "A Bare Summer for Barnes Ice Cap",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-bare-summer-for-barnes-ice-cap/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bare-summer-for-barnes-ice-cap/barnesicecapzm2_oli2_20260712.jpg",
-    "news_site": "NASA",
-    "summary": "The expanse of glacial ice on Canada’s Baffin Island lost its snow cover quickly and early in summer 2026, revealing a network of melt features.",
-    "published_at": "2026-08-03T16:00:00Z",
-    "updated_at": "2026-08-04T13:40:17.365536Z",
     "featured": false,
     "launches": [],
     "events": [],
