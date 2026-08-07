@@ -1,5 +1,92 @@
 [
   {
+    "id": 39378,
+    "title": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nThe FCC is turning to Space Bureau deputy chief Jennifer Gilsenan to keep its satellite regulatory overhaul moving as Jay Schwarz prepares to retire as its chief later this month.\nThe post FCC Space Bureau deputy takes the reins amid licensing overhaul appeared first on SpaceNews.",
+    "published_at": "2026-08-07T17:54:30Z",
+    "updated_at": "2026-08-07T18:00:42.150749Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39377,
+    "title": "Join us live and enjoy the total solar eclipse!",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/join_us_live_and_enjoy_the_total_solar_eclipse/27409189-1-eng-GB/Join_us_live_and_enjoy_the_total_solar_eclipse_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "[English] On 12 August 2026, Europe will witness one of nature’s most spectacular events: a total solar eclipse starting at 19:30 CEST.",
+    "published_at": "2026-08-07T14:00:00Z",
+    "updated_at": "2026-08-07T14:11:31.404921Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39376,
+    "title": "Week in images: 03-07 August 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_August_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/webb_opens_a_treasure_chest_filled_with_stars/27404048-1-eng-GB/Webb_opens_a_Treasure_Chest_filled_with_stars_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Week in images: 03-07 August 2026",
+    "published_at": "2026-08-07T13:10:00Z",
+    "updated_at": "2026-08-07T13:10:11.925134Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39375,
+    "title": "U.S. Senate confirms Schiess to lead Space Force",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-F-JJ904-1320.jpg?fit=1024%2C981&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNew chief takes command as the Space Force prepares for rapid growth, acquisition reforms and Golden Dome\nThe post U.S. Senate confirms Schiess to lead Space Force  appeared first on SpaceNews.",
+    "published_at": "2026-08-07T12:42:44Z",
+    "updated_at": "2026-08-07T12:50:29.951279Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39373,
     "title": "Europe increases size and cost of IRIS² constellation",
     "authors": [
@@ -709,6 +796,26 @@
     "detailed_news": ""
   },
   {
+    "id": 39338,
+    "title": "Total solar eclipse: how to watch live from home",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
+    "news_site": "ESA",
+    "summary": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world.",
+    "published_at": "2026-08-05T08:00:00Z",
+    "updated_at": "2026-08-05T08:00:23.007967Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39339,
     "title": "Think tank warns Europe’s orbital compute gap is widening",
     "authors": [
@@ -730,26 +837,6 @@
     "summary": "\nEurope risks becoming dependent on foreign orbital computing infrastructure as U.S. companies and China’s government-led push accelerate the development of space-based data centers, according to the European Space Policy Institute.\nThe post Think tank warns Europe’s orbital compute gap is widening appeared first on SpaceNews.",
     "published_at": "2026-08-05T08:00:00Z",
     "updated_at": "2026-08-05T08:00:38.629050Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39338,
-    "title": "Total solar eclipse: how to watch live from home",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
-    "news_site": "ESA",
-    "summary": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world.",
-    "published_at": "2026-08-05T08:00:00Z",
-    "updated_at": "2026-08-05T08:00:23.007967Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -951,86 +1038,6 @@
     "summary": "\nArctic communications award will fund an expansion of Telesat’s Lightspeed, taking the planned LEO network to 225 spacecraft\nThe post Telesat lands $1.63 billion Canadian defense contract appeared first on SpaceNews.",
     "published_at": "2026-08-04T22:00:15Z",
     "updated_at": "2026-08-04T22:01:25.607889Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39329,
-    "title": "Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS",
-    "authors": [
-      {
-        "name": "Sawyer Rosenstein",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/jsc2026e404725large.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "After a previously targeted launch date in November, NASA has moved up the next International…\nThe post Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-08-04T20:05:26Z",
-    "updated_at": "2026-08-04T20:10:17.114504Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "After a previously targeted launch date in November, NASA has moved up the next International…\nThe post Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 39330,
-    "title": "NOAA purchases Spire hyperspectral microwave sounder data",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_hyms_image.jpg?fit=879%2C586&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO – The National Oceanic and Atmospheric Administration will continue to evaluate data from Spire Global’s Hyperspectral Microwave Sounder (HyMS) under a $3 million contract extension announced Aug. 4. […]\nThe post NOAA purchases Spire hyperspectral microwave sounder data appeared first on SpaceNews.",
-    "published_at": "2026-08-04T20:05:00Z",
-    "updated_at": "2026-08-04T20:10:29.521434Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39328,
-    "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/art002e024603orig.jpg",
-    "news_site": "NASA",
-    "summary": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell craters. The impact poses no danger to Earth and NASA scientists are planning to collect lunar data from the event […]",
-    "published_at": "2026-08-04T20:00:14Z",
-    "updated_at": "2026-08-04T20:10:10.300960Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39326,
-    "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/",
-    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "news_site": "NASA",
-    "summary": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space Research Scientific Meeting and under review at the journal Space Weather, could […]",
-    "published_at": "2026-08-04T18:02:55Z",
-    "updated_at": "2026-08-04T19:40:04.677551Z",
     "featured": false,
     "launches": [],
     "events": [],
