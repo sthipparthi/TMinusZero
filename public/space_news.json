@@ -1,5 +1,25 @@
 [
   {
+    "id": 39393,
+    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PIA26379-Sol-1295-Navcam-NLF_1295_0781909732_909RZS_N0603852NCAM02295_0A0195J01.jpg",
+    "news_site": "Arstechnica",
+    "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+    "published_at": "2026-08-08T11:30:48Z",
+    "updated_at": "2026-08-08T11:40:10.388265Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39392,
     "title": "IRIS2 Gets Green Light With More Money and More Satellites",
     "authors": [
@@ -990,26 +1010,6 @@
     "summary": "\nAnother wave of constellations has staked claims for communications satellites in non-geostationary orbit (NGSO), but what hope do newcomers have alongside the industry’s entrenched, vertically integrated giants? A mix of […]\nThe post Finding room in Starlink’s shadow appeared first on SpaceNews.",
     "published_at": "2026-08-05T15:00:00Z",
     "updated_at": "2026-08-05T15:01:28.838151Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39345,
-    "title": "Your chance to run software in deep space on ESA's asteroid mission",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/06/hera_surveying_dimorphos/19433870-2-eng-GB/Hera_surveying_Dimorphos_card_full.png",
-    "news_site": "ESA",
-    "summary": "The European Space Agency is offering European researchers and companies a rare and exciting opportunity to run their innovative software directly in deep space aboard ESA’s Hera mission, millions of kilometres distant.",
-    "published_at": "2026-08-05T14:04:00Z",
-    "updated_at": "2026-08-05T14:20:23.523494Z",
     "featured": false,
     "launches": [],
     "events": [],
