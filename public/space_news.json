@@ -1,5 +1,65 @@
 [
   {
+    "id": 39424,
+    "title": "APOD: 2026 August 11 – Six Moons of Saturn",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/2026-08-05-0609_7-SaturnSystem_c.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Six Moons […]",
+    "published_at": "2026-08-11T04:05:00Z",
+    "updated_at": "2026-08-11T04:30:05.390448Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39425,
+    "title": "Bountiful Roebuck Bay",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg",
+    "news_site": "NASA",
+    "summary": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.",
+    "published_at": "2026-08-11T04:01:00Z",
+    "updated_at": "2026-08-11T04:30:05.425113Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39423,
+    "title": "Chinese LM-7A Rocket Fails",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/chinese-lm-7a-rocket-fails/",
+    "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "China experienced a launch failure today of their relatively new Long March 7A rocket.  Introduced in 2020, the first launch failed, but the track record since then has been perfect. […]",
+    "published_at": "2026-08-11T01:17:56Z",
+    "updated_at": "2026-08-11T01:21:09.410673Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39422,
     "title": "Window for 2026 launch debut of Rocket Lab’s Neutron rocket ‘is narrowing’ as development continues",
     "authors": [
@@ -940,65 +1000,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers at the Lunar Development and Test Facility are tackling one of exploration’s biggest challenges: Moon dust.  Unlike sand on Earth, lunar dust is sharp, abrasive, and clings […]"
-  },
-  {
-    "id": 39395,
-    "title": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-6-rubins-cosmos-field/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/noirlab2618b.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin’s COSMOS Field […]",
-    "published_at": "2026-08-07T04:05:00Z",
-    "updated_at": "2026-08-08T15:30:17.475970Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39382,
-    "title": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/noirlab2618b.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 August 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rubin’s COSMOS Field […]",
-    "published_at": "2026-08-07T04:05:00Z",
-    "updated_at": "2026-08-07T19:30:13.905492Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39383,
-    "title": "Sensing the Poles’ Hidden Heat",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-moonlit-earth-as-seen-from-artemis-ii/art002e000192~orig_th.jpg",
-    "news_site": "NASA",
-    "summary": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
-    "published_at": "2026-08-07T04:00:00Z",
-    "updated_at": "2026-08-07T19:30:13.921255Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
