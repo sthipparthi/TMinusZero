@@ -1,5 +1,72 @@
 [
   {
+    "id": 39422,
+    "title": "Window for 2026 launch debut of Rocket Lab’s Neutron rocket ‘is narrowing’ as development continues",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/08/10/window-for-2026-launch-debut-of-rocket-labs-neutron-rocket-is-narrowing-as-development-continues/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260507_Neutron_launch_simulation.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The announcement came in a filing to the U.S. Securities and Exchange Commission ahead of a quarterly investor earnings call on Aug. 10. ",
+    "published_at": "2026-08-10T22:40:07Z",
+    "updated_at": "2026-08-10T22:50:28.849363Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39421,
+    "title": "Rocket Lab builds deployable infrastructure for Electron launches",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/54452351061_f80cf5db9c_k.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNamed ‘GHOST’ the containerized infrastructure is designed to support orbital and suborbital launches \nThe post Rocket Lab builds deployable infrastructure for Electron launches appeared first on SpaceNews.",
+    "published_at": "2026-08-10T21:31:34Z",
+    "updated_at": "2026-08-10T21:40:53.041446Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39420,
+    "title": "Kepler books Neutron for 2028 optical relay launch",
+    "authors": [
+      {
+        "name": "Jason Rainbow",
+        "socials": {
+          "x": "",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+          "mastodon": "",
+          "bluesky": ""
+        }
+      }
+    ],
+    "url": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HO6iYUea4AAYYav.jpeg?fit=1024%2C904&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nKepler Communications plans to deploy next-generation optical relay satellites on Rocket Lab’s upcoming Neutron rocket in one of several launches the Canadian operator has slated for 2028.\nThe post Kepler books Neutron for 2028 optical relay launch appeared first on SpaceNews.",
+    "published_at": "2026-08-10T20:25:23Z",
+    "updated_at": "2026-08-10T20:40:32.691340Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39419,
     "title": "Community College Instructors Bring Astronomy Textbook Into 21st Century",
     "authors": [
@@ -60,26 +127,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39416,
-    "title": "Lion Nebula Roars to Life With NASA’s Webb",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png",
-    "news_site": "NASA",
-    "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and revealing features such as the “mane” of hazy, comet-shaped objects. Now Webb […]",
-    "published_at": "2026-08-10T14:00:00Z",
-    "updated_at": "2026-08-10T14:30:15.566925Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39415,
     "title": "Lion Nebula roars to life for Webb",
     "authors": [
@@ -94,6 +141,26 @@
     "summary": "Observing across the starry “plains” of space, the NASA/ESA/CSA James Webb Space Telescope has taken images of NGC 2392, nicknamed the Lion Nebula.",
     "published_at": "2026-08-10T14:00:00Z",
     "updated_at": "2026-08-10T14:10:21.470450Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39416,
+    "title": "Lion Nebula Roars to Life With NASA’s Webb",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png",
+    "news_site": "NASA",
+    "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in 2000, imaging the lion face-shaped target in visible light and revealing features such as the “mane” of hazy, comet-shaped objects. Now Webb […]",
+    "published_at": "2026-08-10T14:00:00Z",
+    "updated_at": "2026-08-10T14:30:15.566925Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -929,66 +996,6 @@
     "summary": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
     "published_at": "2026-08-07T04:00:00Z",
     "updated_at": "2026-08-07T19:30:13.921255Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39369,
-    "title": "Blue Origin identifies engine issue behind New Glenn explosion",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/08/06/blue-origin-identifies-engine-issue-behind-new-glenn-explosion/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260529_NG-4_static_fire_explosion.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Aug. 5 update from Blue Origin CEO Dave Limp offered the first explanation for what caused the company’s 98-meter-tall (320 ft.) to explode at the pad on May 28. ",
-    "published_at": "2026-08-06T22:35:52Z",
-    "updated_at": "2026-08-06T22:40:26.429876Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39384,
-    "title": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Educators_and_Teens_Get_Hands-On_With_TEMPO_Data_to_Help_Investigate_Local_Air_Quality.jpg",
-    "news_site": "NASA",
-    "summary": "The NASA Science Activation Program’s Cosmic Storytelling with NASA Data (CosmicDS) project, led by Harvard University in Cambridge, Massachusetts, works to bring authentic NASA data into the hands of educators and learners. From July 27–29, 2026, the CosmicDS team partnered with the Smithsonian Institution’s BEST AQI (Breathing Easier: Supporting Teen Air Quality Investigations) project to […]",
-    "published_at": "2026-08-06T19:33:32Z",
-    "updated_at": "2026-08-07T19:30:13.937668Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39368,
-    "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"The anomaly originated at the main oxygen valve on one of the BE-4 engines.\"",
-    "published_at": "2026-08-06T18:20:32Z",
-    "updated_at": "2026-08-06T18:30:04.814173Z",
     "featured": false,
     "launches": [],
     "events": [],
