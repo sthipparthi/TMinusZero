@@ -1,6 +1,6 @@
 {
-  "count": 11,
-  "last_updated": "2026-08-14T12:36:10.436542Z",
+  "count": 13,
+  "last_updated": "2026-08-14T18:38:10.236763Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (11 failed/unavailable)"
+    "Empty AI summaries (13 failed/unavailable)"
   ],
   "launches": [
     {
@@ -194,6 +194,47 @@
       "ai_summary": ""
     },
     {
+      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
+      "name": "Zhuque-3 | Flight 2",
+      "status": "Go",
+      "net": "2026-08-18T23:35:00Z",
+      "window_start": "2026-08-18T23:27:00Z",
+      "window_end": "2026-08-19T00:04:00Z",
+      "lsp_name": "LandSpace",
+      "lsp_description": "LandSpace is a Chinese private space launch company based in Beijing. It was founded in 2015 by Tsinghua University alumni Zhang Changwu.",
+      "lsp_type": "Commercial",
+      "lsp_country": "CHN",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/landspace_logo_20220822100731.png",
+      "mission_name": "Flight 2",
+      "mission_description": "Second test launch of LandSpace’s ZQ-3 rocket. Payload identities are TBD.",
+      "mission_type": "Test Flight",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Launch Area 96B, Jiuquan Satellite Launch Center, People's Republic of China",
+      "pad": "Launch Area 96B",
+      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "rocket": "Zhuque-3",
+      "rocket_config_description": "Zhuque-3 (ZQ-3) is a reusable orbital launch vehicle developed by Chinese private company LandSpace. The rocket is built using stainless steel and shares the same series of gas generator cycle methane/liquid oxygen powered rocket engines as in the currently active ZQ-2E rocket.\r\n\r\nThe first stage uses 9 TQ-12 engines (initially the TQ-12A, then upgraded TQ-12B) while the second stage uses 1 TQ-15 engine (TQ-15A, then TQ-15B).\r\n\r\nOn launch missions where the first stage is recovered, it will land on a down-range landing pad located in Minqin County, Gansu Province.",
+      "rocket_config_family": "Zhuque",
+      "rocket_config_full_name": "Zhuque-3",
+      "rocket_config_total_launch_count": 1,
+      "rocket_config_successful_launches": 1,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "LandSpace",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "LandSpace is a Chinese private space launch company based in Beijing. It was founded in 2015 by Tsinghua University alumni Zhang Changwu.",
+      "rocket_manufacturer_total_launch_count": 10,
+      "rocket_manufacturer_successful_launches": 7,
+      "rocket_manufacturer_failed_launches": 3,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zq-3_flight_1_l_image_20251203064230.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/ef02e2cf-e617-4b38-a526-951ac9204b0a/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
       "id": "f6958a77-37bb-4559-a108-40ba0ff9e34a",
       "name": "Falcon 9 Block 5 | Starlink Group 17-50",
       "status": "Go",
@@ -287,6 +328,55 @@
           "description": "Livestream on X",
           "feature_image": "https://pbs.twimg.com/media/HPYJFZhWEAAPkiV.jpg",
           "url": "https://x.com/i/broadcasts/1qKDzWPePyaJV"
+        }
+      ],
+      "ai_summary": ""
+    },
+    {
+      "id": "6208f972-18ec-490f-bbe5-6f5c6cfcd48c",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-20",
+      "status": "Go",
+      "net": "2026-08-22T07:25:00Z",
+      "window_start": "2026-08-22T07:25:00Z",
+      "window_end": "2026-08-22T11:25:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "Starlink Group 15-20",
+      "mission_description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "mission_type": "Communications",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Space Launch Complex 4E, Vandenberg SFB, CA, USA",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 620,
+      "rocket_config_successful_launches": 619,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 112,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 716,
+      "rocket_manufacturer_successful_launches": 701,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/6208f972-18ec-490f-bbe5-6f5c6cfcd48c/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "Starlink Mission",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/HPsY5bwb0AAtPZn.jpg",
+          "url": "https://x.com/i/broadcasts/1PKqrNNknkZGb"
         }
       ],
       "ai_summary": ""
@@ -509,7 +599,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 11,
-    "total_launches": 11
+    "empty_summaries": 13,
+    "total_launches": 13
   }
 }
