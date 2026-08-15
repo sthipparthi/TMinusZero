@@ -1,5 +1,25 @@
 [
   {
+    "id": 39515,
+    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1774582700.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"Flamingo missiles were used. A good achievement.\"",
+    "published_at": "2026-08-15T15:46:05Z",
+    "updated_at": "2026-08-15T15:50:11.072329Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39514,
     "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
     "authors": [
@@ -421,26 +441,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39494,
-    "title": "A look back at the 2026 total solar eclipse",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/totality_in_leon_12_august_2026/27416484-1-eng-GB/Totality_in_Leon_12_August_2026_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer atmosphere. Totality could be seen from Greenland, Iceland, Spain and Portugal, while most of the rest of Europe saw a partial eclipse.",
-    "published_at": "2026-08-14T10:00:00Z",
-    "updated_at": "2026-08-14T11:30:20.352216Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39496,
     "title": "A double eclipse for Proba-3",
     "authors": [
@@ -455,6 +455,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-08-14T10:00:00Z",
     "updated_at": "2026-08-14T11:50:19.371312Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39494,
+    "title": "A look back at the 2026 total solar eclipse",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/totality_in_leon_12_august_2026/27416484-1-eng-GB/Totality_in_Leon_12_August_2026_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer atmosphere. Totality could be seen from Greenland, Iceland, Spain and Portugal, while most of the rest of Europe saw a partial eclipse.",
+    "published_at": "2026-08-14T10:00:00Z",
+    "updated_at": "2026-08-14T11:30:20.352216Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -980,25 +1000,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 39467,
-    "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg",
-    "news_site": "NASA",
-    "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA […]",
-    "published_at": "2026-08-12T20:40:27Z",
-    "updated_at": "2026-08-12T20:50:12.123470Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA […]"
   }
 ]
