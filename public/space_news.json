@@ -1,5 +1,92 @@
 [
   {
+    "id": 39519,
+    "title": "Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260815_CC_Globalstar_2_R_1_vertical.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The batch of eight Globalstar satellites will help refresh the company’s low Earth orbit constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 9:12 p.m. EDT (0112 UTC). ",
+    "published_at": "2026-08-15T23:51:27Z",
+    "updated_at": "2026-08-16T00:00:49.362543Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39518,
+    "title": "Lunar orbiter among upcoming NASA CLPS task orders",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nNASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter\nThe post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews.",
+    "published_at": "2026-08-15T23:49:58Z",
+    "updated_at": "2026-08-15T23:50:25.930370Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39517,
+    "title": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera, and Chris Bergin",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-23-52-07-432.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "As Blue Origin continues restoring its primary launch pad at LC-36A, the company has released…\nThe post Blue Origin overviews plan for dual pad ops at Cape Canaveral appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-08-15T22:57:11Z",
+    "updated_at": "2026-08-15T23:00:18.288292Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "As Blue Origin continues restoring its primary launch pad at LC-36A, the company has released…\nThe post Blue Origin overviews plan for dual pad ops at Cape Canaveral appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 39516,
+    "title": "Ukrainian Missiles Strike Russian Soyuz Rocket Factory",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Soyuz-MS-29-launch-Ingalls-300x273.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Ukrainian President Volodymyr Zelensky confirmed today that Ukrainian Flamingo missiles hit Russia’s Progress production facility in Samara. He cited the Progress Center’s role in producing electronics, but Soyuz rockets also […]",
+    "published_at": "2026-08-15T21:12:33Z",
+    "updated_at": "2026-08-15T21:20:19.119129Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39515,
     "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
     "authors": [
@@ -481,26 +568,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39491,
-    "title": "Bulgaria advances project to launch new space, defense innovation hub",
-    "authors": [
-      {
-        "name": "Jarosław Adamowski",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EnduroSat-Doboslavtsi-Starbase-Europe-1920-1920x1080-1.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWARSAW, Poland — Bulgaria’s government has approved a draft memorandum of understanding with local company Starbase Europe to collaborate on the development of a new space and defense innovation hub […]\nThe post Bulgaria advances project to launch new space, defense innovation hub appeared first on SpaceNews.",
-    "published_at": "2026-08-14T09:00:00Z",
-    "updated_at": "2026-08-14T09:10:26.091816Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39492,
     "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
     "authors": [
@@ -515,6 +582,26 @@
     "summary": "\nParis, France | August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development […]\nThe post In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade appeared first on SpaceNews.",
     "published_at": "2026-08-14T09:00:00Z",
     "updated_at": "2026-08-14T09:10:26.109865Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39491,
+    "title": "Bulgaria advances project to launch new space, defense innovation hub",
+    "authors": [
+      {
+        "name": "Jarosław Adamowski",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EnduroSat-Doboslavtsi-Starbase-Europe-1920-1920x1080-1.jpg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nWARSAW, Poland — Bulgaria’s government has approved a draft memorandum of understanding with local company Starbase Europe to collaborate on the development of a new space and defense innovation hub […]\nThe post Bulgaria advances project to launch new space, defense innovation hub appeared first on SpaceNews.",
+    "published_at": "2026-08-14T09:00:00Z",
+    "updated_at": "2026-08-14T09:10:26.091816Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -916,86 +1003,6 @@
     "summary": "\nVirgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months.\nThe post Virgin Galactic delays resumption of commercial flights to 2027 appeared first on SpaceNews.",
     "published_at": "2026-08-13T01:46:10Z",
     "updated_at": "2026-08-13T01:50:26.331933Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39471,
-    "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Impulse-Mira-Spacecraft-1-scaled.png?fit=1024%2C683&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nA $28 million contract expansion adds Victus Salo 2 and 3 to an earlier award for responsive-space missions\nThe post Space Force orders two more Impulse Space vehicles for maneuvering demonstrations appeared first on SpaceNews.",
-    "published_at": "2026-08-12T23:30:00Z",
-    "updated_at": "2026-08-12T23:40:27.609066Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39470,
-    "title": "Pentagon missile buildup changing the factory floor",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Machine-Image-2.jpg.jpeg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nStartups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produce weapons faster\nThe post Pentagon missile buildup changing the factory floor appeared first on SpaceNews.",
-    "published_at": "2026-08-12T23:00:00Z",
-    "updated_at": "2026-08-12T23:10:30.606900Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39469,
-    "title": "Space Command identifies capabilities it needs for the next space war",
-    "authors": [
-      {
-        "name": "Sandra Erwin",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-3.23.57-PM.png?fit=1024%2C500&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nGen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of large satellite constellations\nThe post Space Command identifies capabilities it needs for the next space war appeared first on SpaceNews.",
-    "published_at": "2026-08-12T22:00:00Z",
-    "updated_at": "2026-08-12T22:00:38.901741Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39468,
-    "title": "Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260812_Mike_Fincke-1-678x381.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "Mike Fincke trained on the Boeing CST-100 Starliner side of the Commercial Crew Program from January 2019 until his reassignment to the SpaceX Crew-11 mission. His fourth and final mission to the International Space Station launched on Aug. 1, 2025. ",
-    "published_at": "2026-08-12T21:24:47Z",
-    "updated_at": "2026-08-12T21:30:31.983508Z",
     "featured": false,
     "launches": [],
     "events": [],
