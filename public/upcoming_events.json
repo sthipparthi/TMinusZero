@@ -1,6 +1,6 @@
 {
-  "count": 10,
-  "last_updated": "2026-08-18T18:18:40.614616Z",
+  "count": 9,
+  "last_updated": "2026-08-19T00:31:48.352466Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (10 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
-      "name": "Zhuque-3 | Flight 2",
-      "status": "Go",
-      "net": "2026-08-18T23:35:00Z",
-      "window_start": "2026-08-18T23:27:00Z",
-      "window_end": "2026-08-19T00:04:00Z",
-      "lsp_name": "LandSpace",
-      "lsp_description": "LandSpace is a Chinese private space launch company based in Beijing. It was founded in 2015 by Tsinghua University alumni Zhang Changwu.",
-      "lsp_type": "Commercial",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/landspace_logo_20220822100731.png",
-      "mission_name": "Flight 2",
-      "mission_description": "Second test launch of LandSpace’s ZQ-3 rocket. Payload identities are TBD.",
-      "mission_type": "Test Flight",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Launch Area 96B, Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 96B",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Zhuque-3",
-      "rocket_config_description": "Zhuque-3 (ZQ-3) is a reusable orbital launch vehicle developed by Chinese private company LandSpace. The rocket is built using stainless steel and shares the same series of gas generator cycle methane/liquid oxygen powered rocket engines as in the currently active ZQ-2E rocket.\r\n\r\nThe first stage uses 9 TQ-12 engines (initially the TQ-12A, then upgraded TQ-12B) while the second stage uses 1 TQ-15 engine (TQ-15A, then TQ-15B).\r\n\r\nOn launch missions where the first stage is recovered, it will land on a down-range landing pad located in Minqin County, Gansu Province.",
-      "rocket_config_family": "Zhuque",
-      "rocket_config_full_name": "Zhuque-3",
-      "rocket_config_total_launch_count": 1,
-      "rocket_config_successful_launches": 1,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "LandSpace",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "LandSpace is a Chinese private space launch company based in Beijing. It was founded in 2015 by Tsinghua University alumni Zhang Changwu.",
-      "rocket_manufacturer_total_launch_count": 10,
-      "rocket_manufacturer_successful_launches": 7,
-      "rocket_manufacturer_failed_launches": 3,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zq-3_flight_1_l_image_20251203064230.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/ef02e2cf-e617-4b38-a526-951ac9204b0a/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "f6958a77-37bb-4559-a108-40ba0ff9e34a",
       "name": "Falcon 9 Block 5 | Starlink Group 17-50",
@@ -468,7 +427,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 10,
-    "total_launches": 10
+    "empty_summaries": 9,
+    "total_launches": 9
   }
 }
