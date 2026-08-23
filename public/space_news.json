@@ -1,5 +1,25 @@
 [
   {
+    "id": 39640,
+    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+    "published_at": "2026-08-23T14:30:16Z",
+    "updated_at": "2026-08-23T14:40:07.381703Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39639,
     "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
     "authors": [
@@ -654,6 +674,26 @@
     "detailed_news": ""
   },
   {
+    "id": 39604,
+    "title": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
+    "authors": [
+      {
+        "name": "Rock West Composites",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/RWC-square.jpg?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSan Diego, CA – Rock West Composites (RWC) is premiering its recently launched space-grade STRATOPultrusion™ product line at the 2026 Small Satellite Conference this August in Salt Lake City, Utah. […]\nThe post Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference appeared first on SpaceNews.",
+    "published_at": "2026-08-20T13:00:00Z",
+    "updated_at": "2026-08-20T13:10:31.881591Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39603,
     "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
     "authors": [
@@ -675,26 +715,6 @@
     "summary": "\nPortal Space Systems has acquired a Falcon 9 to launch its first Supernova spacecraft and will offer excess capacity on the vehicle for rideshare payloads.\nThe post Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova appeared first on SpaceNews.",
     "published_at": "2026-08-20T13:00:00Z",
     "updated_at": "2026-08-20T13:10:31.854461Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39604,
-    "title": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
-    "authors": [
-      {
-        "name": "Rock West Composites",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/RWC-square.jpg?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSan Diego, CA – Rock West Composites (RWC) is premiering its recently launched space-grade STRATOPultrusion™ product line at the 2026 Small Satellite Conference this August in Salt Lake City, Utah. […]\nThe post Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference appeared first on SpaceNews.",
-    "published_at": "2026-08-20T13:00:00Z",
-    "updated_at": "2026-08-20T13:10:31.881591Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -966,25 +986,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026…\nThe post Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 39589,
-    "title": "LandSpace becomes first commercial Chinese company to land an orbital-class booster",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260819_LandSpace_booster_landing.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The August 19 landing of its ZhuQue-3 rocket marked the first landing of a Chinese-made rocket using landing legs as well. ",
-    "published_at": "2026-08-19T20:35:51Z",
-    "updated_at": "2026-08-19T20:40:27.592152Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
