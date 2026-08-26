@@ -1,5 +1,45 @@
 [
   {
+    "id": 39682,
+    "title": "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. JWST Images […]",
+    "published_at": "2026-08-26T04:05:00Z",
+    "updated_at": "2026-08-26T04:40:17.314441Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39681,
+    "title": "Starbase, Louisiana: The Largest Private Spaceport in the World",
+    "authors": [
+      {
+        "name": "Alejandro Alcantarilla Romera, Ryan Caton, and Joe Kangas.",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-26-04-42-39-997.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX has unveiled plans for “Starbase, Louisiana,” described as the largest private spaceport in the…\nThe post Starbase, Louisiana: The Largest Private Spaceport in the World appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-08-26T03:56:21Z",
+    "updated_at": "2026-08-26T04:00:28.848629Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX has unveiled plans for “Starbase, Louisiana,” described as the largest private spaceport in the…\nThe post Starbase, Louisiana: The Largest Private Spaceport in the World appeared first on NASASpaceFlight.com."
+  },
+  {
     "id": 39678,
     "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
     "authors": [
@@ -280,26 +320,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39669,
-    "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/HelioSwarm.jpg",
-    "news_site": "NASA",
-    "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
-    "published_at": "2026-08-25T13:00:00Z",
-    "updated_at": "2026-08-25T15:40:18.065969Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39665,
     "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
     "authors": [
@@ -314,6 +334,26 @@
     "summary": "\nSALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug. […]\nThe post Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat appeared first on SpaceNews.",
     "published_at": "2026-08-25T13:00:00Z",
     "updated_at": "2026-08-25T13:10:31.105412Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39669,
+    "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/HelioSwarm.jpg",
+    "news_site": "NASA",
+    "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
+    "published_at": "2026-08-25T13:00:00Z",
+    "updated_at": "2026-08-25T15:40:18.065969Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -918,45 +958,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 39633,
-    "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "The Starlink 15-20 mission represents the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East is scheduled for 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC). ",
-    "published_at": "2026-08-21T18:53:18Z",
-    "updated_at": "2026-08-21T19:00:50.277827Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39632,
-    "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
-    "authors": [
-      {
-        "name": "Ryan Weber",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Ship-41-Six-Engine-Static-Fire-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship…\nThe post Ship 41 Completes Engine Testing Ahead of Flight 14 appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-08-21T18:45:52Z",
-    "updated_at": "2026-08-21T18:50:20.392772Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship…\nThe post Ship 41 Completes Engine Testing Ahead of Flight 14 appeared first on NASASpaceFlight.com."
   }
 ]
