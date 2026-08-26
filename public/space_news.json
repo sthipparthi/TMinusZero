@@ -1,5 +1,45 @@
 [
   {
+    "id": 39684,
+    "title": "MTG-I2 ready for launch",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I2_ready_for_launch",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/mtg-i2_ready_for_launch/27433458-1-eng-GB/MTG-I2_ready_for_launch_card_full.png",
+    "news_site": "ESA",
+    "summary": "The Meteosat Third Generation-Imager2 (MTG-I2) satellite, is ready for launch on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana. Lift off is scheduled for 27 August 2026 at 22:10 CEST (17:10 local time).",
+    "published_at": "2026-08-26T11:00:00Z",
+    "updated_at": "2026-08-26T11:30:57.824185Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39683,
+    "title": "Second spacewalk completed for Sophie Adenot",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Second_spacewalk_completed_for_Sophie_Adenot",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-98/27434014-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.png",
+    "news_site": "ESA",
+    "summary": "ESA astronaut Sophie Adenot and NASA astronaut Anil Menon successfully completed US EVA-98 at 20:57 CEST on Tuesday 25 August. It was Sophie’s second spacewalk, and the 32nd conducted by a European astronaut.   ",
+    "published_at": "2026-08-26T08:40:00Z",
+    "updated_at": "2026-08-26T09:40:39.243575Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39682,
     "title": "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
     "authors": [
@@ -320,26 +360,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39665,
-    "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
-    "authors": [
-      {
-        "name": "Tendeg",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Tendeg-Logo-Social-Media-200x200-1.png?fit=200%2C200&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug. […]\nThe post Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat appeared first on SpaceNews.",
-    "published_at": "2026-08-25T13:00:00Z",
-    "updated_at": "2026-08-25T13:10:31.105412Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39669,
     "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
     "authors": [
@@ -354,6 +374,26 @@
     "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
     "published_at": "2026-08-25T13:00:00Z",
     "updated_at": "2026-08-25T15:40:18.065969Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39665,
+    "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
+    "authors": [
+      {
+        "name": "Tendeg",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Tendeg-Logo-Social-Media-200x200-1.png?fit=200%2C200&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug. […]\nThe post Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat appeared first on SpaceNews.",
+    "published_at": "2026-08-25T13:00:00Z",
+    "updated_at": "2026-08-25T13:10:31.105412Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -914,46 +954,6 @@
     "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mostly Perseids Explanation: Recorded […]",
     "published_at": "2026-08-22T04:05:00Z",
     "updated_at": "2026-08-22T04:40:12.262978Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39636,
-    "title": "Chinese radio-frequency intelligence startup StarRF closes new funding round",
-    "authors": [
-      {
-        "name": "Andrew Jones",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/chinese-radio-frequency-intelligence-startup-starrf-closes-new-funding-round/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Yaogan39-02-CZ2D-XSLC-17sept2023-ourspace1.jpg?fit=1024%2C681&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nHELSINKI — A Chinese startup building a constellation to detect and geolocate radio-frequency emissions from orbit has closed a funding round as China’s commercial sector expands. Tianjin-based Xingkan Jiuzhou Technology, […]\nThe post Chinese radio-frequency intelligence startup StarRF closes new funding round appeared first on SpaceNews.",
-    "published_at": "2026-08-21T20:08:59Z",
-    "updated_at": "2026-08-21T20:10:31.512806Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39635,
-    "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
-    "authors": [
-      {
-        "name": "Novaspace",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nParis, France | August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign intelligence, surveillance, […]\nThe post New Novaspace forecast: 6,500+ EO satellites to launch by 2035 appeared first on SpaceNews.",
-    "published_at": "2026-08-21T19:48:14Z",
-    "updated_at": "2026-08-21T19:50:33.961730Z",
     "featured": false,
     "launches": [],
     "events": [],
