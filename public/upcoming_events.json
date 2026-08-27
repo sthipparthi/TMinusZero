@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-08-26T12:24:42.127371Z",
+  "count": 10,
+  "last_updated": "2026-08-27T05:27:41.962508Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (10 failed/unavailable)"
   ],
   "launches": [
     {
@@ -235,6 +235,47 @@
       "ai_summary": ""
     },
     {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
+      "status": "Go",
+      "net": "2026-09-09T16:15:03Z",
+      "window_start": "2026-09-09T16:15:03Z",
+      "window_end": "2026-09-09T16:15:03Z",
+      "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+      "lsp_description": "The Roscosmos State Corporation for Space Activities, commonly known as Roscosmos, is the governmental body responsible for the space science program of the Russian Federation and general aerospace research. Soyuz has many launch locations the Russian sites are Baikonur, Plesetsk and Vostochny however Ariane also purchases the vehicle and launches it from French Guiana.",
+      "lsp_type": "Government",
+      "lsp_country": "RUS",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/russian2520federal2520space2520agency25202528roscosmos2529_logo_20190207032459.png",
+      "mission_name": "Progress MS-35 (96P)",
+      "mission_description": "Progress resupply mission to the International Space Station.",
+      "mission_type": "Resupply",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "31/6, Baikonur Cosmodrome, Republic of Kazakhstan",
+      "pad": "31/6",
+      "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "rocket": "Soyuz 2.1b",
+      "rocket_config_description": "Soyuz-2 is the 21st-century version of the Russian Soyuz rocket. In its basic form, it is a three-stage carrier rocket for placing payloads into low Earth orbit.  The 2.1b version adds an upgraded engine (RD-0124) with improved performance to the second stage.",
+      "rocket_config_family": "Soyuz",
+      "rocket_config_full_name": "Soyuz 2.1b",
+      "rocket_config_total_launch_count": 24,
+      "rocket_config_successful_launches": 24,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 1,
+      "rocket_manufacturer_name": "Progress Rocket Space Center",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Progress Rocket Space Centre, formerly known as TsSKB-Progress, is a space science and aerospace research company which is known for manufacturing launch vehicles and satellites. Most notably, Progress Rocket Space Centre is the manufacturer of Soyuz launch vehicles.",
+      "rocket_manufacturer_total_launch_count": 45,
+      "rocket_manufacturer_successful_launches": 44,
+      "rocket_manufacturer_failed_launches": 1,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/d793ba47-faf5-4bab-a386-39a9ccc49c90/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
       "name": "Falcon 9 Block 5 | Crew-13",
       "status": "Go",
@@ -317,6 +358,47 @@
       "ai_summary": ""
     },
     {
+      "id": "e0741415-6c63-4236-9736-24a6c04485bc",
+      "name": "Nuri | NeonSat-2 to 6",
+      "status": "Go",
+      "net": "2026-10-07T03:23:00Z",
+      "window_start": "2026-10-07T03:23:00Z",
+      "window_end": "2026-10-07T04:23:00Z",
+      "lsp_name": "Korea Aerospace Research Institute",
+      "lsp_description": "The Korea Aerospace Research Institute (KARI) established in 1989, is the aeronautics and space agency of Republic of Korea. Its main laboratories are located in Daejeon, in the Daedeok Science Town.",
+      "lsp_type": "Government",
+      "lsp_country": "KOR",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/korea2520aerospace2520research2520institute_logo_20200806032236.png",
+      "mission_name": "NeonSat-2 to 6",
+      "mission_description": "NeonSat-2 to 6 are part of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite). The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula.",
+      "mission_type": "Earth Science",
+      "orbit": "Sun-Synchronous Orbit",
+      "launch_site": "LC-2, Naro Space Center, South Korea",
+      "pad": "LC-2",
+      "location": "Naro Space Center, South Korea",
+      "rocket": "KSLV-2 Nuri",
+      "rocket_config_description": "Nuri, also known as KSLV-II, is South Korea's second carrier rocket and the successor to KSLV-1.",
+      "rocket_config_family": "KSLV",
+      "rocket_config_full_name": "KSLV-2 Nuri",
+      "rocket_config_total_launch_count": 4,
+      "rocket_config_successful_launches": 3,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 2,
+      "rocket_manufacturer_name": "Korea Aerospace Research Institute",
+      "rocket_manufacturer_type": "Government",
+      "rocket_manufacturer_description": "The Korea Aerospace Research Institute (KARI) established in 1989, is the aeronautics and space agency of Republic of Korea. Its main laboratories are located in Daejeon, in the Daedeok Science Town.",
+      "rocket_manufacturer_total_launch_count": 8,
+      "rocket_manufacturer_successful_launches": 5,
+      "rocket_manufacturer_failed_launches": 3,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/nuri_liftoff_2_image_20240820080542.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
+    },
+    {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
       "name": "H3-24 | Martian Moon eXplorer (MMX)",
       "status": "Go",
@@ -362,7 +444,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 10,
+    "total_launches": 10
   }
 }
