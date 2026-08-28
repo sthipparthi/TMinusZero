@@ -1,6 +1,6 @@
 {
-  "count": 11,
-  "last_updated": "2026-08-27T16:59:04.950134Z",
+  "count": 10,
+  "last_updated": "2026-08-28T01:50:50.339741Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (11 failed/unavailable)"
+    "Empty AI summaries (10 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
-      "name": "Ariane 62 | MTG-I2",
-      "status": "Go",
-      "net": "2026-08-27T20:10:00Z",
-      "window_start": "2026-08-27T20:10:00Z",
-      "window_end": "2026-08-27T22:40:00Z",
-      "lsp_name": "Arianespace",
-      "lsp_description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
-      "lsp_type": "Commercial",
-      "lsp_country": "FRA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
-      "mission_name": "MTG-I2",
-      "mission_description": "Third of EUMETSAT's third generation of weather satellite.",
-      "mission_type": "Earth Science",
-      "orbit": "Geostationary Transfer Orbit",
-      "launch_site": "Ariane Launch Area 4, Guiana Space Centre, French Guiana",
-      "pad": "Ariane Launch Area 4",
-      "location": "Guiana Space Centre, French Guiana",
-      "rocket": "Ariane 62",
-      "rocket_config_description": "The Ariane 6 family is currently under development by the European Space Agency, with two variations including the Ariane 62 with two solid boosters intended for government and scientific missions.",
-      "rocket_config_family": "Ariane",
-      "rocket_config_full_name": "Ariane 62",
-      "rocket_config_total_launch_count": 5,
-      "rocket_config_successful_launches": 5,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 9,
-      "rocket_manufacturer_name": "ArianeGroup",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "ArianeGroup (formerly Airbus Safran Launchers) is an aerospace company based in France. A joint venture between Airbus and Safran, the company was founded in 2015 and is headquartered in Issy-les-Moulineaux. It consists of three core arms: aerospace, defence and security.",
-      "rocket_manufacturer_total_launch_count": 0,
-      "rocket_manufacturer_successful_launches": 0,
-      "rocket_manufacturer_failed_launches": 0,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/a57aed97-b94f-42e1-905e-9421dbd96ac8/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "521f3a1c-f977-4306-9b7f-495858719adf",
       "name": "Falcon Heavy | Nancy Grace Roman Space Telescope",
@@ -485,7 +444,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 11,
-    "total_launches": 11
+    "empty_summaries": 10,
+    "total_launches": 10
   }
 }
