@@ -1,6 +1,6 @@
 {
-  "count": 9,
-  "last_updated": "2026-09-01T02:21:48.111349Z",
+  "count": 8,
+  "last_updated": "2026-09-01T10:39:00.938895Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (9 failed/unavailable)"
+    "Empty AI summaries (8 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
-      "name": "Pallas-1 | Demo Flight",
-      "status": "Go",
-      "net": "2026-09-01T02:00:00Z",
-      "window_start": "2026-09-01T01:52:00Z",
-      "window_end": "2026-09-01T04:09:00Z",
-      "lsp_name": "Galactic Energy",
-      "lsp_description": "Galactic Energy is a private aerospace company headquartered in Beijing, China. Established by senior engineers in 2018, Galactic Energy engages in low-cost commercial space launch business.",
-      "lsp_type": "Commercial",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/galactic2520energy_logo_20201106095229.png",
-      "mission_name": "Demo Flight",
-      "mission_description": "First test launch of Galactic Energy’s Pallas-1 rocket.",
-      "mission_type": "Test Flight",
-      "orbit": "Unknown",
-      "launch_site": "Pallas-1 Launch Pad, Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Pallas-1 Launch Pad",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Pallas-1",
-      "rocket_config_description": "",
-      "rocket_config_family": "",
-      "rocket_config_full_name": "Pallas-1",
-      "rocket_config_total_launch_count": 0,
-      "rocket_config_successful_launches": 0,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "Galactic Energy",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Galactic Energy is a private aerospace company headquartered in Beijing, China. Established by senior engineers in 2018, Galactic Energy engages in low-cost commercial space launch business.",
-      "rocket_manufacturer_total_launch_count": 24,
-      "rocket_manufacturer_successful_launches": 21,
-      "rocket_manufacturer_failed_launches": 3,
-      "image": null,
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/a927b2f9-f9a5-4196-9abb-2e275e4a6b96/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "63181269-b125-4c36-951c-c9bd9bbc4b55",
       "name": "Falcon 9 Block 5 | Starlink Group 15-23",
@@ -403,7 +362,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 9,
-    "total_launches": 9
+    "empty_summaries": 8,
+    "total_launches": 8
   }
 }
