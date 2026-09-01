@@ -1,5 +1,65 @@
 [
   {
+    "id": 39784,
+    "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq202608310009large.jpg",
+    "news_site": "NASA",
+    "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration. “It is my privilege to welcome the Republic of Türkiye as the 71st signatory of the […]",
+    "published_at": "2026-08-31T21:14:12Z",
+    "updated_at": "2026-08-31T21:20:15.528376Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39783,
+    "title": "Launch Preview: Array of international launches planned this week",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-083126/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Six missions are scheduled to launch from launch sites across the globe this week. After…\nThe post Launch Preview: Array of international launches planned this week appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-08-31T20:55:13Z",
+    "updated_at": "2026-08-31T21:00:26.051051Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Six missions are scheduled to launch from launch sites across the globe this week. After…\nThe post Launch Preview: Array of international launches planned this week appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 39782,
+    "title": "September 2026 Satellite Puzzler",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_septemberpuzzler.jpg",
+    "news_site": "NASA",
+    "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
+    "published_at": "2026-08-31T19:37:57Z",
+    "updated_at": "2026-08-31T19:40:11.188362Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39747,
     "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
     "authors": [
@@ -956,66 +1016,6 @@
     "summary": "\nIn this episode, SpaceNews’ Mike Gruss interviews Jeff Janicik, CEO and chairman of Innoflight. They discuss Golden Dome, Artemis and working with big numbers for the Space Development Agency. Sponsored […]\nThe post The electronics ‘under the hood’ of space networking appeared first on SpaceNews.",
     "published_at": "2026-08-27T14:50:34Z",
     "updated_at": "2026-08-27T15:00:40.619711Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39701,
-    "title": "First contracts kick off European Launcher Challenge",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/First_contracts_kick_off_European_Launcher_Challenge",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/european_launcher_challenge_visual/26128354-4-eng-GB/European_Launcher_Challenge_visual_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-08-27T07:17:00Z",
-    "updated_at": "2026-08-27T09:10:14.412673Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39700,
-    "title": "MTG-I2 ready for launch on Ariane 6",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_ready_for_launch_on_Ariane_6",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/mtg-i2_encapsulated/27433682-1-eng-GB/MTG-I2_encapsulated_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The Meteosat Third Generation Imager2 satellite (MTG-I2) has been encapsulated inside the Ariane 6 fairing and is in place on its launch pad. It is scheduled to lift off on Thursday evening, 27 August, from Europe’s Spaceport in French Guiana.",
-    "published_at": "2026-08-27T07:00:00Z",
-    "updated_at": "2026-08-27T07:30:34.781479Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39699,
-    "title": "Watch live: BepiColombo begins its arrival at Mercury",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Operations/Watch_live_BepiColombo_begins_its_arrival_at_Mercury",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "After eight years, the ESA/JAXA BepiColombo mission is about to enter its Mercury Arrival Phase. On 3 September 2026, ESA’s Mercury Transfer Module (MTM) will separate from BepiColombo’s two science orbiters – the first major step in one of the most operationally challenging planetary arrival sequences ever attempted by ESA.  ",
-    "published_at": "2026-08-27T05:17:00Z",
-    "updated_at": "2026-08-27T07:20:38.281411Z",
     "featured": false,
     "launches": [],
     "events": [],
