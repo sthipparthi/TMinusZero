@@ -1,5 +1,25 @@
 [
   {
+    "id": 39798,
+    "title": "ESA’s first lunar rover rolls forward",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/magpie_on_the_moon/27444725-1-eng-GB/MAGPIE_on_the_Moon_card_full.png",
+    "news_site": "ESA",
+    "summary": "Yesterday evening, during a signing ceremony at the Space for Inspiration event in Copenhagen, Denmark, the European Space Agency (ESA) and ispace-Europe celebrated the implementation of MAGPIE, set to be the first European rover on the Moon.",
+    "published_at": "2026-09-02T07:00:00Z",
+    "updated_at": "2026-09-02T07:10:21.756565Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39797,
     "title": "House Clears FY2027 CR, Now to the President",
     "authors": [
@@ -972,26 +992,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39787,
-    "title": "Watch Sophie Adenot’s third spacewalk live",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Watch_Sophie_Adenot_s_third_spacewalk_live",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-987/27435962-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "After two successful spacewalks on 18 August (EVA-97) and 25 August (EVA-98), watch ESA astronaut Sophie Adenot venture into the vacuum of space for the third time on Tuesday 1 September, during EVA-99.",
-    "published_at": "2026-08-28T14:00:00Z",
-    "updated_at": "2026-09-01T07:20:20.435482Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39719,
     "title": "Sophie Adenot's third spacewalk (U.S. Spacewalk 99)",
     "authors": [
@@ -1012,20 +1012,20 @@
     "detailed_news": ""
   },
   {
-    "id": 39716,
-    "title": "Week in images: 24-28 August 2026",
+    "id": 39787,
+    "title": "Watch Sophie Adenot’s third spacewalk live",
     "authors": [
       {
         "name": "ESA",
         "socials": null
       }
     ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Watch_Sophie_Adenot_s_third_spacewalk_live",
     "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-987/27435962-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.jpg",
     "news_site": "ESA",
-    "summary": "Week in images: 24-28 August 2026",
-    "published_at": "2026-08-28T13:10:00Z",
-    "updated_at": "2026-08-28T13:20:22.018357Z",
+    "summary": "After two successful spacewalks on 18 August (EVA-97) and 25 August (EVA-98), watch ESA astronaut Sophie Adenot venture into the vacuum of space for the third time on Tuesday 1 September, during EVA-99.",
+    "published_at": "2026-08-28T14:00:00Z",
+    "updated_at": "2026-09-01T07:20:20.435482Z",
     "featured": false,
     "launches": [],
     "events": [],
