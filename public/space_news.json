@@ -1,5 +1,45 @@
 [
   {
+    "id": 39823,
+    "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
+    "image_url": "https://images-assets.nasa.gov/image/iss074e0395792/iss074e0395792~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m. EDT (9:15 p.m. Baikonur time), Wednesday, Sept. 9, on a […]",
+    "published_at": "2026-09-03T17:06:00Z",
+    "updated_at": "2026-09-03T17:10:09.594083Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39822,
+    "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04989_mhli_4989MH0001710001803430R00_DXXX.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]",
+    "published_at": "2026-09-03T15:59:48Z",
+    "updated_at": "2026-09-03T16:40:09.888305Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39821,
     "title": "Igniting Roman’s Journey",
     "authors": [
@@ -961,51 +1001,6 @@
     "updated_at": "2026-08-31T13:30:20.538966Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39741,
-    "title": "SES Awards OHB €1 billion for IRIS2 MEO Satellites",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/ses-awards-ohb-e1-billion-for-iris2-meo-satellites/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/SES-Awards-OHB-1-billion-Euros-for-IRIS2-MEO-Satellites.webp",
-    "news_site": "European Spaceflight",
-    "summary": "European satellite operator SES has awarded OHB a contract worth almost €1 billion to develop and build satellite platforms for the medium Earth orbit component of Europe’s €15.6 billion IRIS2 secure communications constellation. OHB announced that it had been awarded the contract on 31 August, describing it as the first major industrial order awarded since […]\nThe post SES Awards OHB €1 billion for IRIS2 MEO Satellites appeared first on European Spaceflight.",
-    "published_at": "2026-08-31T11:09:59Z",
-    "updated_at": "2026-08-31T11:10:15.286526Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39739,
-    "title": "Roman lifts off on a mission to survey the infrared sky",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/roman_lifts_off_on_a_mission_to_survey_the_infrared_sky/27439669-7-eng-GB/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope lifted off on a SpaceX Falcon Heavy rocket from NASA’s Kennedy Space Center in Florida, USA, at 07:26 EDT / 12:26 BST/ 13:26 CEST on 30 August 2026. With the successful launch, Roman began its mission to survey the sky in visible to near-infrared light to help reveal the nature of dark energy and dark matter. The telescope will also investigate the true diversity of exoplanets in our galaxy.",
-    "published_at": "2026-08-31T07:00:00Z",
-    "updated_at": "2026-08-31T08:34:06.341202Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "521f3a1c-f977-4306-9b7f-495858719adf",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
