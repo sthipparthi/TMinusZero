@@ -1,5 +1,115 @@
 [
   {
+    "id": 39821,
+    "title": "Igniting Roman’s Journey",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/igniting-romans-journey/",
+    "image_url": "https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg",
+    "news_site": "NASA",
+    "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large […]",
+    "published_at": "2026-09-03T14:24:23Z",
+    "updated_at": "2026-09-03T14:30:10.008924Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39820,
+    "title": "Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Could-Attempt-Second-Spectrum-Flight-as-Early-as-4-September.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Maritime safety notices indicate that a week-long launch window for Isar Aerospace’s second Spectrum flight will open on 4 September. On 1 September, the Norwegian Coastal Administration issued a warning outlining that rocket launch operations were expected to be conducted daily between 16:00 and 21:35 UTC from 4 to 10 September. The warning establishes two […]\nThe post Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September appeared first on European Spaceflight.",
+    "published_at": "2026-09-03T13:50:06Z",
+    "updated_at": "2026-09-03T13:50:22.182125Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39818,
+    "title": "NASA’s Hubble Spies Superbubble Scene",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_N44_potm2608a_lg.jpg",
+    "news_site": "NASA",
+    "summary": "This Hubble Space Telescope image features a sprawling cosmic vista called N44.",
+    "published_at": "2026-09-03T13:16:02Z",
+    "updated_at": "2026-09-03T13:40:15.015846Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39817,
+    "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+    "authors": [
+      {
+        "name": "Simera Sense",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square-scaled.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nLeuven, Belgium & Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging […]\nThe post Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager appeared first on SpaceNews.",
+    "published_at": "2026-09-03T13:00:00Z",
+    "updated_at": "2026-09-03T13:10:36.890512Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39816,
+    "title": "Latest updates: BepiColombo's arrival at Mercury",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout the mission's arrival.",
+    "published_at": "2026-09-03T10:00:00Z",
+    "updated_at": "2026-09-03T13:16:49.506270Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "e81bd43b-6359-4436-911f-01888c3369ef",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1517,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
     "id": 39814,
     "title": "Hubble's superbubble scene",
     "authors": [
@@ -896,138 +1006,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39738,
-    "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
-    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-    "published_at": "2026-08-31T04:05:00Z",
-    "updated_at": "2026-08-31T08:34:23.629955Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "521f3a1c-f977-4306-9b7f-495858719adf",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39737,
-    "title": "SLS picks up the pace, four vehicles in production",
-    "authors": [
-      {
-        "name": "Alejandro Alcantarilla Romera and Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-31-01-01-10-310.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "The NASA and contractor workforce continues to make progress ahead of next year’s Artemis III…\r\nThe post SLS picks up the pace, four vehicles in production appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-08-31T00:11:01Z",
-    "updated_at": "2026-08-31T08:55:22.750668Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "8034d81b-af96-460c-a7b7-5c8e7f1a1d86",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "372d94b1-88fe-4cc5-9296-d893c9fa9426",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "d7042e81-6420-449d-8154-2611641e9822",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "0c84ad4e-3a67-43fb-ab85-77f66127d732",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "The NASA and contractor workforce continues to make progress ahead of next year’s Artemis III…\r\nThe post SLS picks up the pace, four vehicles in production appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 39736,
-    "title": "What’s Happening in Space Policy August 30-September 5, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-30-september-5-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of August 30-September 5, 2026 and any insight we can offer about them. The House is in session this […]",
-    "published_at": "2026-08-30T22:08:52Z",
-    "updated_at": "2026-08-31T08:54:16.533713Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "521f3a1c-f977-4306-9b7f-495858719adf",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [
-      {
-        "event_id": 1510,
-        "provider": "Launch Library 2"
-      }
-    ],
-    "detailed_news": ""
-  },
-  {
-    "id": 39735,
-    "title": "Nancy Grace Roman Space Telescope Lifts Off to Open New Insights Into the Universe",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/nancy-grace-roman-space-telescope-lifts-off-to-open-new-insights-into-the-universe/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope lifted off this morning on a mission to find more planets around other stars in the universe and solve the mysteries of dark energy […]",
-    "published_at": "2026-08-30T18:59:50Z",
-    "updated_at": "2026-08-30T19:00:36.286636Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39734,
-    "title": "Why it matters that President Trump just dialed into a NASA news conference",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large.jpg",
-    "news_site": "Arstechnica",
-    "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
-    "published_at": "2026-08-30T17:40:30Z",
-    "updated_at": "2026-08-30T17:50:11.356378Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
