@@ -1,5 +1,50 @@
 [
   {
+    "id": 39828,
+    "title": "How Sentinel-3 tracks climate change",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/smoke_plume_from_greek_wildfires_seen_by_sentinel-3/27404001-1-eng-GB/Smoke_plume_from_Greek_wildfires_seen_by_Sentinel-3_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over the past decade. The launch of the mission’s third satellite heralds the continuity of this vital source of knowledge.",
+    "published_at": "2026-09-04T08:00:00Z",
+    "updated_at": "2026-09-04T09:20:12.216664Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39826,
+    "title": "A Trio of Tropical Cyclones in the Pacific",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg",
+    "news_site": "NASA",
+    "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
+    "published_at": "2026-09-04T04:01:00Z",
+    "updated_at": "2026-09-04T06:46:21.059803Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d8dd15a0-166e-4a97-b8a0-b8289bf5f500",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39825,
     "title": "Schiess Takes Charge of U.S. Space Force",
     "authors": [
@@ -74,6 +119,26 @@
     "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]",
     "published_at": "2026-09-03T15:59:48Z",
     "updated_at": "2026-09-03T16:40:09.888305Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39827,
+    "title": "BepiColombo’s Mercury arrival begins - full replay",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/bepicolombo_s_mercury_arrival_begins_-_full_replay/27450090-1-eng-GB/BepiColombo_s_Mercury_arrival_begins_-_full_replay_card_full.png",
+    "news_site": "ESA",
+    "summary": "Watch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.",
+    "published_at": "2026-09-03T15:00:00Z",
+    "updated_at": "2026-09-04T09:10:14.422443Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -926,76 +991,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39749,
-    "title": "Media briefing: BepiColombo's next milestone towards Mercury",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/media_briefing_bepicolombo_s_next_milestone_towards_mercury/27443108-2-eng-GB/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Rewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.",
-    "published_at": "2026-08-31T14:00:00Z",
-    "updated_at": "2026-08-31T15:52:58.941127Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "e81bd43b-6359-4436-911f-01888c3369ef",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [
-      {
-        "event_id": 394,
-        "provider": "Launch Library 2"
-      }
-    ],
-    "detailed_news": ""
-  },
-  {
-    "id": 39744,
-    "title": "Speed to Field Starts Below the Prime",
-    "authors": [
-      {
-        "name": "Frontgrade Technologies",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/speed-to-field-starts-below-the-prime/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/Astronaut001-headerImage-1200x930-1.webp?fit=1024%2C519&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nI have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company whose […]\nThe post Speed to Field Starts Below the Prime appeared first on SpaceNews.",
-    "published_at": "2026-08-31T13:30:43Z",
-    "updated_at": "2026-08-31T13:40:30.245470Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39748,
-    "title": "What happened this month at the European Space Agency? (August 2026)",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/What_happened_this_month_at_the_European_Space_Agency_August_2026",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/what_happened_this_month_at_the_european_space_agency_august_2026/27442711-4-eng-GB/What_happened_this_month_at_the_European_Space_Agency_August_2026_card_full.png",
-    "news_site": "ESA",
-    "summary": "August was a busy month for ESA, between spectacular views, historic milestones and exciting new discoveries. ",
-    "published_at": "2026-08-31T13:30:00Z",
-    "updated_at": "2026-08-31T15:20:35.407397Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
