@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-09-03T20:13:05.800979Z",
+  "count": 7,
+  "last_updated": "2026-09-04T01:43:17.267150Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (7 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "status": "Go",
-      "net": "2026-09-03T21:25:00Z",
-      "window_start": "2026-09-03T21:00:00Z",
-      "window_end": "2026-09-04T01:00:00Z",
-      "lsp_name": "Indian Space Research Organization",
-      "lsp_description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-      "lsp_type": "Government",
-      "lsp_country": "IND",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-      "mission_name": "GISAT-1A (EOS-05)",
-      "mission_description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.\r\n\r\nEOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.",
-      "mission_type": "Earth Science",
-      "orbit": "Geostationary Transfer Orbit",
-      "launch_site": "Satish Dhawan Space Centre Second Launch Pad, Satish Dhawan Space Centre, India",
-      "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "location": "Satish Dhawan Space Centre, India",
-      "rocket": "GSLV Mk. II",
-      "rocket_config_description": "Geosynchronous Satellite Launch Vehicle Mark II (GSLV Mk II) is the largest launch vehicle developed by India, which is currently in operation. This fourth generation launch vehicle is a three stage vehicle with four liquid strap-ons. The indigenously developed cryogenic Upper Stage (CUS), which is flight proven, forms the third stage of GSLV Mk II. From January 2014, the vehicle has achieved four consecutive successes.",
-      "rocket_config_family": "GSLV",
-      "rocket_config_full_name": "GSLV Mk. II",
-      "rocket_config_total_launch_count": 12,
-      "rocket_config_successful_launches": 10,
-      "rocket_config_failed_launches": 2,
-      "rocket_config_pending_launches": 5,
-      "rocket_manufacturer_name": "Indian Space Research Organization",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-      "rocket_manufacturer_total_launch_count": 99,
-      "rocket_manufacturer_successful_launches": 84,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/17d0ec68-f466-4916-9dc5-16123eda6484/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "153ef8ef-b12b-43f4-a4bf-05b225c0cd37",
       "name": "Falcon 9 Block 5 | Starlink Group 15-24",
@@ -362,7 +321,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 7,
+    "total_launches": 7
   }
 }

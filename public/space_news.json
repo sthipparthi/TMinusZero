@@ -1,5 +1,45 @@
 [
   {
+    "id": 39825,
+    "title": "Schiess Takes Charge of U.S. Space Force",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/schiess-takes-charge-of-u-s-space-force/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/09/scheiss-1-300x168.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Gen. Douglas Schiess took charge of the U.S. Space Force today at a Change of Responsibility ceremony outside Washington, D.C. Outgoing Chief of Space Operations Gen. Chance Saltzman praised his successor […]",
+    "published_at": "2026-09-03T21:59:19Z",
+    "updated_at": "2026-09-03T22:00:43.123054Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39824,
+    "title": "Schiess takes command of Space Force as the service prepares for expansion",
+    "authors": [
+      {
+        "name": "Sandra Erwin",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/9911318-scaled.jpg?fit=1024%2C667&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nGen. Douglas Schiess succeeds Gen. Chance Saltzman as the third chief of space operations of the U.S. Space Force\nThe post Schiess takes command of Space Force as the service prepares for expansion appeared first on SpaceNews.",
+    "published_at": "2026-09-03T21:03:23Z",
+    "updated_at": "2026-09-03T21:10:20.279370Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39823,
     "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
     "authors": [
@@ -954,51 +994,6 @@
     "summary": "August was a busy month for ESA, between spectacular views, historic milestones and exciting new discoveries. ",
     "published_at": "2026-08-31T13:30:00Z",
     "updated_at": "2026-08-31T15:20:35.407397Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39742,
-    "title": "Roman Commissioning",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/RST_Beauty_S2_4K_60_ProRes.00422_print.jpg",
-    "news_site": "NASA",
-    "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to make sure that Roman is performing […]",
-    "published_at": "2026-08-31T12:16:53Z",
-    "updated_at": "2026-08-31T14:09:38.312664Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "521f3a1c-f977-4306-9b7f-495858719adf",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39743,
-    "title": "Nepal flash flood imaged by satellites",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Nepal_flash_flood_imaged_by_satellites",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sentinel-2_captures_before_and_after_nepal_flash_flood/27442595-1-eng-GB/Sentinel-2_captures_before_and_after_Nepal_flash_flood_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on 26 August, satellite imagery is helping to reveal the scale of the inundation and devastation across the affected region.",
-    "published_at": "2026-08-31T11:57:00Z",
-    "updated_at": "2026-08-31T13:30:20.538966Z",
     "featured": false,
     "launches": [],
     "events": [],
