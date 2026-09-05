@@ -1,5 +1,45 @@
 [
   {
+    "id": 39841,
+    "title": "Isar Aerospace attempts launch of Spectrum rocket after months of delays",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/IMG_6221-scaled.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to…\nThe post Isar Aerospace attempts launch of Spectrum rocket after months of delays appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-09-05T09:41:57Z",
+    "updated_at": "2026-09-05T16:10:16.101347Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to…\nThe post Isar Aerospace attempts launch of Spectrum rocket after months of delays appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 39840,
+    "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
+    "published_at": "2026-09-05T04:05:00Z",
+    "updated_at": "2026-09-05T14:40:11.237348Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39839,
     "title": "Blue Origin expands test and launch sites across the Cape",
     "authors": [
@@ -943,55 +983,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida…\nThe post Launch Site and Facility Progress ahead of East Coast Starship debut appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 39792,
-    "title": "Historic Engines Take Their Place on Artemis III",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
-    "image_url": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg",
-    "news_site": "NASA",
-    "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight […]",
-    "published_at": "2026-09-01T17:30:35Z",
-    "updated_at": "2026-09-01T17:51:44.551609Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "8034d81b-af96-460c-a7b7-5c8e7f1a1d86",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39791,
-    "title": "It turns out that Orion's much-maligned heat shield performed really well",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/heat-shield-nasa.jpg",
-    "news_site": "Arstechnica",
-    "summary": "Independent safety officials also have high praise for changes by NASA leadership.",
-    "published_at": "2026-09-01T14:46:28Z",
-    "updated_at": "2026-09-01T15:17:25.528076Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "Independent safety officials also have high praise for changes by NASA leadership."
   }
 ]
