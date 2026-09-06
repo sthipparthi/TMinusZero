@@ -1,5 +1,45 @@
 [
   {
+    "id": 39843,
+    "title": "Live coverage: SpaceX to launch 80th Starlink mission of 2026",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "SpaceX decided to shift all Starlink missions flying on Falcon 9 rockets to the West Coast as it pushes towards the debut of its Starship-Super Heavy in Florida. Liftoff of the Starlink 15-24 mission from Vandenberg Space Force Base is scheduled during a window that opens at 3:59 a.m. PDT (6:59 a.m. EDT / 1059 UTC). ",
+    "published_at": "2026-09-05T22:06:47Z",
+    "updated_at": "2026-09-05T22:11:09.942076Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39842,
+    "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/spectrum_launches_to_orbit/27452129-2-eng-GB/Spectrum_launches_to_orbit_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-09-05T20:24:00Z",
+    "updated_at": "2026-09-05T22:00:22.915976Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39841,
     "title": "Isar Aerospace attempts launch of Spectrum rocket after months of delays",
     "authors": [
@@ -943,45 +983,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 39794,
-    "title": "What’s Up: September 2026 Skywatching Tips from NASA",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/september/Harvest%20Moon_212_Mike%20Linnihan_Used%20with%20Permission.jpg",
-    "news_site": "NASA",
-    "summary": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon meets up with […]",
-    "published_at": "2026-09-01T19:15:25Z",
-    "updated_at": "2026-09-01T19:40:11.250381Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39793,
-    "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
-    "authors": [
-      {
-        "name": "Ryan Weber",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Roberts-Road-and-the-VAB-scaled.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida…\nThe post Launch Site and Facility Progress ahead of East Coast Starship debut appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-09-01T18:15:54Z",
-    "updated_at": "2026-09-01T18:20:20.833383Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida…\nThe post Launch Site and Facility Progress ahead of East Coast Starship debut appeared first on NASASpaceFlight.com."
   }
 ]
