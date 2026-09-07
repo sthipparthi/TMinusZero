@@ -1,5 +1,90 @@
 [
   {
+    "id": 39851,
+    "title": "BepiColombo begins Mercury arrival with MTM separation success",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mtm_separation_signal_confirmation/27452584-1-eng-GB/MTM_separation_signal_confirmation_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "On 3 September 2026 at 15:49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for – BepiColombo’s Mercury Transfer Module (MTM) successfully separated from the spacecraft stack. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo's long-awaited arrival at Mercury. ",
+    "published_at": "2026-09-07T08:25:00Z",
+    "updated_at": "2026-09-07T10:50:19.733354Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39850,
+    "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/isar_aerospace_achieves_first_launch_to_orbit_from_continental_europe/27452918-1-eng-GB/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "German company Isar Aerospace successfully reached orbit with their Spectrum launcher, lifting off from Andøya Spaceport in Norway at 21:12 BST/22:12 CEST on 5 September 2026.",
+    "published_at": "2026-09-07T07:26:00Z",
+    "updated_at": "2026-09-07T09:25:13.840052Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39848,
+    "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican […]",
+    "published_at": "2026-09-07T04:05:00Z",
+    "updated_at": "2026-09-07T04:50:13.859291Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39849,
+    "title": "A Bright Spot at Mount Michael",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bright-spot-at-mount-michael/mountmichael_oli_20260824.jpg",
+    "news_site": "NASA",
+    "summary": "With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic.",
+    "published_at": "2026-09-07T04:01:00Z",
+    "updated_at": "2026-09-07T04:50:13.885714Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39847,
     "title": "What’s Happening in Space Policy September 6-12, 2026",
     "authors": [
@@ -899,86 +984,6 @@
     "summary": "\nDURANGO, Colo. — Sept. 2, 2026 — Agile Space Industries celebrated the completion of a 20,500-square-foot expansion of its Durango headquarters with a ribbon-cutting ceremony on August 26, joined by […]\nThe post Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting appeared first on SpaceNews.",
     "published_at": "2026-09-02T12:00:00Z",
     "updated_at": "2026-09-02T12:11:05.740835Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39801,
-    "title": "Third spacewalk completed for Sophie Adenot",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-99/27446273-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-99_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21:29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.   ",
-    "published_at": "2026-09-02T11:00:00Z",
-    "updated_at": "2026-09-02T12:00:51.304723Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39799,
-    "title": "HyImpulse Extends Series A Funding Round by €50 Million",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/hyimpulse-extends-series-a-funding-round-by-e50-million/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/HyImpulse-Extends-Series-A-Funding-Round-by-50-Million-Euros.webp",
-    "news_site": "European Spaceflight",
-    "summary": "German launch services provider HyImpulse announced on 2 September that it had extended its Series A funding round by more than €50 million, bringing its total funding to date to €125 million. The company is currently preparing for the second flight of its suborbital SR75 rocket and the inaugural launch attempt of its larger SL1 […]\nThe post HyImpulse Extends Series A Funding Round by €50 Million appeared first on European Spaceflight.",
-    "published_at": "2026-09-02T10:28:42Z",
-    "updated_at": "2026-09-02T10:30:22.998864Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39800,
-    "title": "Cluster’s encore for reentry science a success",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/tango_s_reentry_recorded/27446747-1-eng-GB/Tango_s_reentry_recorded_card_full.png",
-    "news_site": "ESA",
-    "summary": "The Cluster mission danced its final dance as Tango reentered the atmosphere on 1 September, at 23:30:31 CEST. The end of the Cluster mission in 2024 turned into the start of the reentry data collection campaign. After four ‘targeted’ reentries, this is now a proven method of safe end-of-life disposal. It also enabled the repeated observation of the reentries by a plane full of scientists, creating a unique reentry data set that will improve our understanding of the destructive process and can inform the design of safer and more sustainable satellites in the future.",
-    "published_at": "2026-09-02T10:20:00Z",
-    "updated_at": "2026-09-02T11:40:31.939740Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39798,
-    "title": "ESA’s first lunar rover rolls forward",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/magpie_on_the_moon/27444725-1-eng-GB/MAGPIE_on_the_Moon_card_full.png",
-    "news_site": "ESA",
-    "summary": "Yesterday evening, during a signing ceremony at the Space for Inspiration event in Copenhagen, Denmark, the European Space Agency (ESA) and ispace-Europe celebrated the implementation of MAGPIE, set to be the first European rover on the Moon.",
-    "published_at": "2026-09-02T07:00:00Z",
-    "updated_at": "2026-09-02T07:10:21.756565Z",
     "featured": false,
     "launches": [],
     "events": [],
