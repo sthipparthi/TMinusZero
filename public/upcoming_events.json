@@ -1,6 +1,6 @@
 {
-  "count": 7,
-  "last_updated": "2026-09-08T15:31:55.676917Z",
+  "count": 6,
+  "last_updated": "2026-09-08T20:24:35.793773Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (7 failed/unavailable)"
+    "Empty AI summaries (6 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
-      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
-      "status": "Go",
-      "net": "2026-09-09T16:15:03Z",
-      "window_start": "2026-09-09T16:15:03Z",
-      "window_end": "2026-09-09T16:15:03Z",
-      "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-      "lsp_description": "The Roscosmos State Corporation for Space Activities, commonly known as Roscosmos, is the governmental body responsible for the space science program of the Russian Federation and general aerospace research. Soyuz has many launch locations the Russian sites are Baikonur, Plesetsk and Vostochny however Ariane also purchases the vehicle and launches it from French Guiana.",
-      "lsp_type": "Government",
-      "lsp_country": "RUS",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/russian2520federal2520space2520agency25202528roscosmos2529_logo_20190207032459.png",
-      "mission_name": "Progress MS-35 (96P)",
-      "mission_description": "Progress resupply mission to the International Space Station.",
-      "mission_type": "Resupply",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "31/6, Baikonur Cosmodrome, Republic of Kazakhstan",
-      "pad": "31/6",
-      "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "rocket": "Soyuz 2.1b",
-      "rocket_config_description": "Soyuz-2 is the 21st-century version of the Russian Soyuz rocket. In its basic form, it is a three-stage carrier rocket for placing payloads into low Earth orbit.  The 2.1b version adds an upgraded engine (RD-0124) with improved performance to the second stage.",
-      "rocket_config_family": "Soyuz",
-      "rocket_config_full_name": "Soyuz 2.1b",
-      "rocket_config_total_launch_count": 24,
-      "rocket_config_successful_launches": 24,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "Progress Rocket Space Center",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Progress Rocket Space Centre, formerly known as TsSKB-Progress, is a space science and aerospace research company which is known for manufacturing launch vehicles and satellites. Most notably, Progress Rocket Space Centre is the manufacturer of Soyuz launch vehicles.",
-      "rocket_manufacturer_total_launch_count": 45,
-      "rocket_manufacturer_successful_launches": 44,
-      "rocket_manufacturer_failed_launches": 1,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/d793ba47-faf5-4bab-a386-39a9ccc49c90/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
       "name": "Long March 2D/YZ-3 | Unknown Payload",
@@ -321,7 +280,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 7,
-    "total_launches": 7
+    "empty_summaries": 6,
+    "total_launches": 6
   }
 }
