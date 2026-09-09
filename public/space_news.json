@@ -1,5 +1,80 @@
 [
   {
+    "id": 39869,
+    "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04998_opgs_edr_ncam_NRB_841193197EDR_F1241978NCAM00296M_.jpg",
+    "news_site": "NASA",
+    "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]",
+    "published_at": "2026-09-09T06:20:49Z",
+    "updated_at": "2026-09-09T09:12:13.620086Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39871,
+    "title": "MTG-I2 reaches its final orbit",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/partners_support_mtg-i2_through_leop/27458664-1-eng-GB/Partners_support_MTG-I2_through_LEOP_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Europe’s Meteosat Third Generation Imager 2 (MTG-I2) satellite has reached its designated orbit at 36 000 km from Earth and is ready to begin its commissioning phase, preparing it to provide years of service to improve weather forecasting over Europe and North Africa.",
+    "published_at": "2026-09-09T06:20:00Z",
+    "updated_at": "2026-09-09T09:12:18.923047Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39868,
+    "title": "Anak Krakatau Rumbles Again",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/anak-krakatau-rumbles-again/krakatau_oli_20260905.jpg",
+    "news_site": "NASA",
+    "summary": "A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.",
+    "published_at": "2026-09-09T04:01:00Z",
+    "updated_at": "2026-09-09T09:12:58.440262Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "f9b109c7-494a-4dd4-a4ef-daca7ddeb763",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39867,
     "title": "From the Corps to the Cosmos, featuring Jaden Caradine",
     "authors": [
@@ -924,66 +999,6 @@
     "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]",
     "published_at": "2026-09-03T15:59:48Z",
     "updated_at": "2026-09-03T16:40:09.888305Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39827,
-    "title": "BepiColombo’s Mercury arrival begins - full replay",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/bepicolombo_s_mercury_arrival_begins_-_full_replay/27450090-1-eng-GB/BepiColombo_s_Mercury_arrival_begins_-_full_replay_card_full.png",
-    "news_site": "ESA",
-    "summary": "Watch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.",
-    "published_at": "2026-09-03T15:00:00Z",
-    "updated_at": "2026-09-04T09:10:14.422443Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39821,
-    "title": "Igniting Roman’s Journey",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/igniting-romans-journey/",
-    "image_url": "https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg",
-    "news_site": "NASA",
-    "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large […]",
-    "published_at": "2026-09-03T14:24:23Z",
-    "updated_at": "2026-09-03T14:30:10.008924Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39820,
-    "title": "Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Could-Attempt-Second-Spectrum-Flight-as-Early-as-4-September.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Maritime safety notices indicate that a week-long launch window for Isar Aerospace’s second Spectrum flight will open on 4 September. On 1 September, the Norwegian Coastal Administration issued a warning outlining that rocket launch operations were expected to be conducted daily between 16:00 and 21:35 UTC from 4 to 10 September. The warning establishes two […]\nThe post Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September appeared first on European Spaceflight.",
-    "published_at": "2026-09-03T13:50:06Z",
-    "updated_at": "2026-09-03T13:50:22.182125Z",
     "featured": false,
     "launches": [],
     "events": [],
