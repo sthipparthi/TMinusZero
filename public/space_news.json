@@ -1,5 +1,45 @@
 [
   {
+    "id": 39894,
+    "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2017/01/iss046e027528_nr.jpg",
+    "news_site": "NASA",
+    "summary": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field. NASA will conduct flyovers, astronaut appearances, and fan engagement at NFL games across the United States as part of its new Inspiration Tour. “This is the […]",
+    "published_at": "2026-09-10T17:28:13Z",
+    "updated_at": "2026-09-10T17:30:20.704504Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39893,
+    "title": "Dust and Water in Sagittarius A*",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png",
+    "news_site": "NASA",
+    "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA’s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first […]",
+    "published_at": "2026-09-10T16:14:03Z",
+    "updated_at": "2026-09-10T16:20:25.892366Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39892,
     "title": "Name our dino – ESA’s Hera asteroid mission mascot!",
     "authors": [
@@ -953,45 +993,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "SpaceX is still building out assembly, test, and launch infrastructure at Starbase while Flight 14…\nThe post Starbase Infrastructure Advances Toward Flight 14 appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 39845,
-    "title": "Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights",
-    "authors": [
-      {
-        "name": "Alejandro Alcantarilla Romera and Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-06-06-08-48-181.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Along Missile Row at Cape Canaveral Space Force Station, Stoke Space and Relativity Space are…\nThe post Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-09-06T15:52:38Z",
-    "updated_at": "2026-09-06T16:00:26.932078Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Along Missile Row at Cape Canaveral Space Force Station, Stoke Space and Relativity Space are…\nThe post Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 39844,
-    "title": "Isar Aerospace Completes First Successful Spectrum Flight",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/isar-aerospace-completes-first-successful-spectrum-flight/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Completes-First-Successful-Spectrum-Flight-hero.webp",
-    "news_site": "European Spaceflight",
-    "summary": "German launch services provider Isar Aerospace has completed the first successful launch of its Spectrum rocket, deploying five CubeSats into low Earth orbit. The mission marked the first time a privately funded European orbital rocket had successfully reached orbit and the first successful orbital launch from continental Europe. The Spectrum rocket lifted off from Andøya […]\nThe post Isar Aerospace Completes First Successful Spectrum Flight appeared first on European Spaceflight.",
-    "published_at": "2026-09-06T05:40:14Z",
-    "updated_at": "2026-09-06T05:50:16.552628Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
