@@ -1,5 +1,45 @@
 [
   {
+    "id": 39912,
+    "title": "NASA’s Chandra Spots Galactic Gem",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg",
+    "news_site": "NASA",
+    "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical […]",
+    "published_at": "2026-09-11T17:19:47Z",
+    "updated_at": "2026-09-11T17:20:19.078003Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39911,
+    "title": "NASA moving at warp speed to set up US Space Academy",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1789141845.jpg",
+    "news_site": "Arstechnica",
+    "summary": "NASA asks US states to show them the money.",
+    "published_at": "2026-09-11T16:20:43Z",
+    "updated_at": "2026-09-11T16:30:12.123843Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "NASA asks US states to show them the money."
+  },
+  {
     "id": 39910,
     "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
     "authors": [
@@ -665,26 +705,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39873,
-    "title": "MTM's selfie footage of BepiColombo's eight-year journey",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/mtm_s_selfie_footage_of_bepicolombo_s_eight-year_journey/27459166-1-eng-GB/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey_card_full.png",
-    "news_site": "ESA",
-    "summary": "Witness how over the last eight years, the ESA/JAXA BepiColombo mission has been travelling through the inner Solar System and aligning itself with Mercury's orbit. So far, it has travelled 9.9 billion km and completed nine 'planetary flybys' to help steer its way. In the video, you can see the spacecraft fly past Earth once, Venus twice, and Mercury six times. ",
-    "published_at": "2026-09-09T12:00:00Z",
-    "updated_at": "2026-09-09T12:20:22.120865Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39902,
     "title": "Arctic isolation for science",
     "authors": [
@@ -699,6 +719,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-09-09T12:00:00Z",
     "updated_at": "2026-09-11T07:10:17.733142Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39873,
+    "title": "MTM's selfie footage of BepiColombo's eight-year journey",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/mtm_s_selfie_footage_of_bepicolombo_s_eight-year_journey/27459166-1-eng-GB/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey_card_full.png",
+    "news_site": "ESA",
+    "summary": "Witness how over the last eight years, the ESA/JAXA BepiColombo mission has been travelling through the inner Solar System and aligning itself with Mercury's orbit. So far, it has travelled 9.9 billion km and completed nine 'planetary flybys' to help steer its way. In the video, you can see the spacecraft fly past Earth once, Venus twice, and Mercury six times. ",
+    "published_at": "2026-09-09T12:00:00Z",
+    "updated_at": "2026-09-09T12:20:22.120865Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -934,46 +974,6 @@
     "summary": "Algorithm NASA first applied to satellite imagery is now used to peer into antiquity",
     "published_at": "2026-09-08T15:15:56Z",
     "updated_at": "2026-09-08T15:20:14.005922Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39861,
-    "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2026/AR_sandbox.jpg",
-    "news_site": "NASA",
-    "summary": "More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on June 6, 2026.",
-    "published_at": "2026-09-08T14:06:52Z",
-    "updated_at": "2026-09-08T14:40:14.755369Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39862,
-    "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.jpg",
-    "news_site": "NASA",
-    "summary": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than they expected, and that […]",
-    "published_at": "2026-09-08T14:00:28Z",
-    "updated_at": "2026-09-08T14:40:14.870297Z",
     "featured": false,
     "launches": [],
     "events": [],
