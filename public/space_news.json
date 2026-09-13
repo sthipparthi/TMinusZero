@@ -1,5 +1,25 @@
 [
   {
+    "id": 39918,
+    "title": "Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260913_O3b_mPOWER-F_delivery.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The launch marks the 400th orbital flight from Space Launch Complex 40 at Cape Canaveral Space Force Station. Liftoff is scheduled during an 87-minute window that opens at 2:49 p.m. EDT (1849 UTC). ",
+    "published_at": "2026-09-13T16:45:33Z",
+    "updated_at": "2026-09-13T16:50:29.787191Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39917,
     "title": "Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time",
     "authors": [
@@ -948,31 +968,6 @@
     "launches": [
       {
         "launch_id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39868,
-    "title": "Anak Krakatau Rumbles Again",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/anak-krakatau-rumbles-again/krakatau_oli_20260905.jpg",
-    "news_site": "NASA",
-    "summary": "A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.",
-    "published_at": "2026-09-09T04:01:00Z",
-    "updated_at": "2026-09-09T09:12:58.440262Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "f9b109c7-494a-4dd4-a4ef-daca7ddeb763",
         "provider": "Launch Library 2"
       }
     ],
