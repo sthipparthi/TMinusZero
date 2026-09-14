@@ -1,5 +1,95 @@
 [
   {
+    "id": 39924,
+    "title": "ESA’s FLEX mission reveals the secret glow of plants",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/esa_s_flex_mission_reveals_the_secret_glow_of_plants/27465436-1-eng-GB/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants_card_full.png",
+    "news_site": "ESA",
+    "summary": "Plants may look still and silent, but every leaf is constantly responding to its environment.",
+    "published_at": "2026-09-14T08:00:00Z",
+    "updated_at": "2026-09-14T08:32:33.058323Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39923,
+    "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Two Earth observation satellites – ESA’s Fluorescence Explorer (FLEX) satellite, and the third satellite for the Copernicus Sentinel-3 mission – are encapsulated inside the nose cone of a Vega-C launcher and are awaiting liftoff at Europe’s Spaceport in French Guiana.",
+    "published_at": "2026-09-14T07:20:00Z",
+    "updated_at": "2026-09-14T08:32:42.613527Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39922,
+    "title": "APOD: 2026 September 14 – Where Your Elements Came From",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 September 14 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Where Your Elements […]",
+    "published_at": "2026-09-14T04:05:00Z",
+    "updated_at": "2026-09-14T04:50:11.907528Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39921,
+    "title": "An Early Look at Fall Color in Canada",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-early-look-at-fall-color-in-canada/northerncanada_oli2_20260727.jpg",
+    "news_site": "NASA",
+    "summary": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut.",
+    "published_at": "2026-09-14T04:00:00Z",
+    "updated_at": "2026-09-14T04:40:12.859623Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39920,
     "title": "Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou",
     "authors": [
@@ -198,6 +288,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "NASA asks US states to show them the money."
+  },
+  {
+    "id": 39925,
+    "title": "ESA Space Environment Report 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/number_of_objects_will_skyrocket_-_2026_space_environment_report/27465798-1-eng-GB/Number_of_objects_will_skyrocket_-_2026_Space_environment_report_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-09-11T15:52:00Z",
+    "updated_at": "2026-09-14T08:50:19.857769Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
   },
   {
     "id": 39910,
@@ -859,106 +969,6 @@
     "summary": "Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in Houston. In an emeritus role, individuals with a high degree of technical and professional knowledge can continue to support the agency by donating their […]",
     "published_at": "2026-09-09T13:24:37Z",
     "updated_at": "2026-09-09T13:30:15.215595Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39902,
-    "title": "Arctic isolation for science",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Arctic_isolation_for_science",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/arctic_isolation_for_science/27460319-1-eng-GB/Arctic_isolation_for_science_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-09-09T12:00:00Z",
-    "updated_at": "2026-09-11T07:10:17.733142Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39873,
-    "title": "MTM's selfie footage of BepiColombo's eight-year journey",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/mtm_s_selfie_footage_of_bepicolombo_s_eight-year_journey/27459166-1-eng-GB/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey_card_full.png",
-    "news_site": "ESA",
-    "summary": "Witness how over the last eight years, the ESA/JAXA BepiColombo mission has been travelling through the inner Solar System and aligning itself with Mercury's orbit. So far, it has travelled 9.9 billion km and completed nine 'planetary flybys' to help steer its way. In the video, you can see the spacecraft fly past Earth once, Venus twice, and Mercury six times. ",
-    "published_at": "2026-09-09T12:00:00Z",
-    "updated_at": "2026-09-09T12:20:22.120865Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39872,
-    "title": "Vega-C flight VV30 with FLEX and Sentinel-3C",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_flight_vv30_with_flex_and_sentinel-3c/27459948-1-eng-GB/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-09-09T10:13:00Z",
-    "updated_at": "2026-09-09T10:30:20.226367Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39886,
-    "title": "pVega-C flight VV30 with FLEX and Sentinel-3C",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/pVega-C_flight_VV30_with_FLEX_and_Sentinel-3C",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pvega-c_flight_vv30_with_flex_and_sentinel-3c/27459948-1-eng-GB/pVega-C_flight_VV30_with_FLEX_and_Sentinel-3C_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-09-09T10:13:00Z",
-    "updated_at": "2026-09-10T06:00:27.462866Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39874,
-    "title": "Watch: FLEX and Sentinel-3C launch on Vega-C",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Watch_FLEX_and_Sentinel-3C_launch_on_Vega-C",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_fairing_opens_to_reveal_sentinel-3c_and_flex/27460042-1-eng-GB/Vega-C_fairing_opens_to_reveal_Sentinel-3C_and_FLEX_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s FLEX satellite and the Copernicus Sentinel-3C satellite are scheduled to launch together aboard a Vega-C rocket on 15 September at 03:21 CEST (14 September at 22:21 local time). Watch the VV30 launch live from Europe’s Spaceport in French Guiana, with coverage starting at 02:50 CEST.",
-    "published_at": "2026-09-09T09:56:00Z",
-    "updated_at": "2026-09-09T13:00:36.479433Z",
     "featured": false,
     "launches": [],
     "events": [],
