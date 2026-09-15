@@ -1,5 +1,70 @@
 [
   {
+    "id": 39950,
+    "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png",
+    "news_site": "NASA",
+    "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the […]",
+    "published_at": "2026-09-15T14:00:00Z",
+    "updated_at": "2026-09-15T14:50:13.222782Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39949,
+    "title": "Webb reveals stunning panorama of star formation",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/star-forming_region_ic_348_nircam_image/27515180-1-eng-GB/Star-forming_region_IC_348_NIRCam_image_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.",
+    "published_at": "2026-09-15T14:00:00Z",
+    "updated_at": "2026-09-15T14:16:47.717257Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39948,
+    "title": "This is by far the most peaceful Atlantic hurricane season we've ever seen",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ccd69f88-1d4c-4310-b001-22083aa5625e.jpeg",
+    "news_site": "Arstechnica",
+    "summary": "But there may be a price to pay for a quiet Atlantic hurricane season.",
+    "published_at": "2026-09-15T12:36:11Z",
+    "updated_at": "2026-09-15T12:40:12.146327Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "But there may be a price to pay for a quiet Atlantic hurricane season."
+  },
+  {
     "id": 39947,
     "title": "Avio Launches Second Successful Vega C Flight of 2026",
     "authors": [
@@ -929,66 +994,6 @@
     "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
     "published_at": "2026-09-11T04:01:00Z",
     "updated_at": "2026-09-11T13:00:20.418887Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39899,
-    "title": "NASA Invites Governors to Compete to be Home to the New U.S. Space Academy",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Trump-Space-Academy-EO-Aug-28-26-300x169.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "NASA issued a Request for Information today inviting governors to indicate interest in hosting and sponsoring the new U.S. Space Academy proposed in President Trump’s recent Executive Order. Responses are […]",
-    "published_at": "2026-09-10T23:30:48Z",
-    "updated_at": "2026-09-10T23:40:22.274132Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39898,
-    "title": "Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument",
-    "authors": [
-      {
-        "name": "Haygen Warren",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/RST_Unloading_Shot_4k_60_ProRes.00493_print.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope successfully launched on Sunday, Aug. 30, atop a SpaceX…\nThe post Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-09-10T22:24:00Z",
-    "updated_at": "2026-09-10T22:30:21.602724Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA’s Nancy Grace Roman Space Telescope successfully launched on Sunday, Aug. 30, atop a SpaceX…\nThe post Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 39897,
-    "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "news_site": "NASA",
-    "summary": "The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. EDT, Monday, Sept. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory. NASA Deputy Administrator Matt Anderson will host Ambassador of Djibouti to the United States Mohamed Siad Douale for the ceremony, together with U.S. State Department Assistant […]",
-    "published_at": "2026-09-10T21:11:32Z",
-    "updated_at": "2026-09-10T21:20:14.550391Z",
     "featured": false,
     "launches": [],
     "events": [],
