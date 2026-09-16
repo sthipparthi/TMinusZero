@@ -1,5 +1,65 @@
 [
   {
+    "id": 39976,
+    "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchin_Discovery_Reenactment.png",
+    "news_site": "NASA",
+    "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]",
+    "published_at": "2026-09-16T18:06:35Z",
+    "updated_at": "2026-09-16T18:40:22.578980Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39975,
+    "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/ribbon-cutting-edited.jpg",
+    "news_site": "NASA",
+    "summary": "NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the […]",
+    "published_at": "2026-09-16T16:12:01Z",
+    "updated_at": "2026-09-16T16:20:23.252359Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39974,
+    "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/1-earth-illustration-cropped.jpeg",
+    "news_site": "NASA",
+    "summary": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led […]",
+    "published_at": "2026-09-16T16:08:00Z",
+    "updated_at": "2026-09-16T16:10:17.522480Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39971,
     "title": "Indonesia’s Anak Krakatau",
     "authors": [
@@ -936,71 +996,6 @@
     "updated_at": "2026-09-14T15:40:31.195487Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39927,
-    "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/jsc2026e045076.jpg",
-    "news_site": "NASA",
-    "summary": "Did you spend part of your summer camping, hiking, at the pool, or in an aircraft? So did NASA’s 2025 Astronaut Candidate Class. The 10 candidates have been working their way through a comprehensive and rigorous training program since the agency introduced them to the public on Sept. 22, 2025, from NASA’s Johnson Space Center […]",
-    "published_at": "2026-09-14T15:00:00Z",
-    "updated_at": "2026-09-14T15:00:13.929995Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39926,
-    "title": "Questions? Ask our Hera Space Companion!",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/hera_space_companion_front_page/27518928-2-eng-GB/Hera_Space_Companion_front_page_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication platform, designed to make the European Space Agency’s first planetary defence mission accessible to everyone!",
-    "published_at": "2026-09-14T14:00:00Z",
-    "updated_at": "2026-09-14T14:50:21.693102Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39924,
-    "title": "ESA’s FLEX mission reveals the secret glow of plants",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/esa_s_flex_mission_reveals_the_secret_glow_of_plants/27465436-1-eng-GB/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants_card_full.png",
-    "news_site": "ESA",
-    "summary": "Plants may look still and silent, but every leaf is constantly responding to its environment.",
-    "published_at": "2026-09-14T08:00:00Z",
-    "updated_at": "2026-09-14T08:32:33.058323Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
