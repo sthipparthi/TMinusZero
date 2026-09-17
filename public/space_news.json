@@ -1,5 +1,25 @@
 [
   {
+    "id": 39993,
+    "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/spacex35.jpg",
+    "news_site": "NASA",
+    "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no earlier than October to launch […]",
+    "published_at": "2026-09-17T18:32:30Z",
+    "updated_at": "2026-09-17T18:40:22.715515Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39991,
     "title": "NASA Unveils Enterprise, the First Space Shuttle",
     "authors": [
@@ -180,6 +200,26 @@
     "detailed_news": ""
   },
   {
+    "id": 39992,
+    "title": "ESA starts next phase of IRIS² evolution through Low-LEO activities",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_starts_next_phase_of_IRIS2_evolution_through_Low-LEO_activities",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/group_picture_beginning_of_the_consolidation_phase_of_esa_low-leo_pre-operational_and_de-risk_activities/27528216-1-eng-GB/Group_Picture_beginning_of_the_Consolidation_Phase_of_ESA_Low-LEO_Pre-Operational_and_De-Risk_Activities_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "The European Space Agency (ESA) has signed 18 consolidation contracts bringing together nearly 80 companies to study new secure and resilient connectivity services. The contracts also cover associated mission concepts and aim to shape the future of the EU's secure connectivity constellation – IRIS² – which will provide Europeans with resilient communications, when and where it matters most.",
+    "published_at": "2026-09-17T08:07:00Z",
+    "updated_at": "2026-09-17T16:20:20.288850Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 39980,
     "title": "Three space companies win ESA awards for excellence and innovation",
     "authors": [
@@ -200,26 +240,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39983,
-    "title": "Galileo's first civil authenticated position fix in spoofing conditions",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
-    "news_site": "ESA",
-    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS). ",
-    "published_at": "2026-09-17T06:20:00Z",
-    "updated_at": "2026-09-17T10:20:18.701983Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39984,
     "title": "Galileo's first civil authenticated position fix under spoofing conditions",
     "authors": [
@@ -234,6 +254,26 @@
     "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS). ",
     "published_at": "2026-09-17T06:20:00Z",
     "updated_at": "2026-09-17T11:10:18.649215Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39983,
+    "title": "Galileo's first civil authenticated position fix in spoofing conditions",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
+    "news_site": "ESA",
+    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS). ",
+    "published_at": "2026-09-17T06:20:00Z",
+    "updated_at": "2026-09-17T10:20:18.701983Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -939,51 +979,6 @@
     "summary": "ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).",
     "published_at": "2026-09-15T07:00:00Z",
     "updated_at": "2026-09-15T09:28:02.198526Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39943,
-    "title": "Iceye’s global presence expands to address sovereign demand",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/rsz_iceye_korea.jpg?fit=879%2C494&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSince raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic […]\nThe post Iceye’s global presence expands to address sovereign demand appeared first on SpaceNews.",
-    "published_at": "2026-09-15T06:00:00Z",
-    "updated_at": "2026-09-15T06:00:53.924860Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39946,
-    "title": "Relive the launch of FLEX and Sentinel-3C",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Relive_the_launch_of_FLEX_and_Sentinel-3C",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/relive_the_launch_of_flex_and_sentinel-3c/27517955-7-eng-GB/Relive_the_launch_of_FLEX_and_Sentinel-3C_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Watch the full replay of the launch of ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite. Both were launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).",
-    "published_at": "2026-09-15T05:00:00Z",
-    "updated_at": "2026-09-15T09:28:09.351255Z",
     "featured": false,
     "launches": [
       {
