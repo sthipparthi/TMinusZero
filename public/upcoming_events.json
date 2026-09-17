@@ -1,6 +1,6 @@
 {
-  "count": 9,
-  "last_updated": "2026-09-17T02:07:10.330441Z",
+  "count": 8,
+  "last_updated": "2026-09-17T10:33:46.347522Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (9 failed/unavailable)"
+    "Empty AI summaries (8 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84",
-      "name": "Kuaizhou 11 | Unknown Payload",
-      "status": "Go",
-      "net": "2026-09-17T02:35:00Z",
-      "window_start": "2026-09-17T02:31:00Z",
-      "window_end": "2026-09-17T03:12:00Z",
-      "lsp_name": "ExPace",
-      "lsp_description": "ExPace is a Chinese space rocket company based in Wuhan, Hubei, China. It is a wholly owned subsidiary of missileer China Aerospace Science and Industry Corporation (CASIC), a Chinese state-owned company, and serves as its commercial rocket division. ExPace is focused on small satellite launchers to low Earth orbit.",
-      "lsp_type": "Commercial",
-      "lsp_country": "CHN",
-      "lsp_logo": null,
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Launch Area 95A, Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 95A",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Kuaizhou 11",
-      "rocket_config_description": "The Kuaizhou-11 (KZ-11), is a planned Chinese commercial launch vehicle.\r\n\r\nReportedly, the payload is about 1000 kg for low earth orbit and 700 kg for a sun-synchronous orbit.\r\n\r\nThe three stage rocket is possibly based on the DF-31 missile. It consists of three solid-fueled stages. The principal diameter is 2.2 m and the launch weight is 78 tons. the first stage features four grid rudders. The vehicle is launched from a launch truck.",
-      "rocket_config_family": "Kuaizhou",
-      "rocket_config_full_name": "Kuaizhou 11",
-      "rocket_config_total_launch_count": 6,
-      "rocket_config_successful_launches": 5,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "ExPace",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "ExPace is a Chinese space rocket company based in Wuhan, Hubei, China. It is a wholly owned subsidiary of missileer China Aerospace Science and Industry Corporation (CASIC), a Chinese state-owned company, and serves as its commercial rocket division. ExPace is focused on small satellite launchers to low Earth orbit.",
-      "rocket_manufacturer_total_launch_count": 34,
-      "rocket_manufacturer_successful_launches": 30,
-      "rocket_manufacturer_failed_launches": 4,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_11_lif_image_20240520155835.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
       "name": "Electron | Owl By The Dozen (StriX Launch 12)",
@@ -403,7 +362,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 9,
-    "total_launches": 9
+    "empty_summaries": 8,
+    "total_launches": 8
   }
 }
