@@ -40,6 +40,46 @@
     "detailed_news": ""
   },
   {
+    "id": 40016,
+    "title": "Russian Progress cargo ship arrives at International Space Station",
+    "authors": [
+      {
+        "name": "Steven Young",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260919-Progress-Final-Approach.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "The Progress M-25 docked at the space-facing port of Russia’s Poisk module at 9:44 a.m. EDT (1344 UTC) after a one-week delay. ",
+    "published_at": "2026-09-19T21:11:15Z",
+    "updated_at": "2026-09-19T21:20:30.448433Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40015,
+    "title": "Live coverage: SpaceX to launch 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 6:47 p.m. PDT (9:47 p.m. EDT / 0147 UTC). It will be the 81st Starlink mission of the year. ",
+    "published_at": "2026-09-19T20:06:04Z",
+    "updated_at": "2026-09-19T20:10:28.293616Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40014,
     "title": "DLR’s Suborbital MAPHEUS-17 Mission to Launch as Early as 1 October",
     "authors": [
@@ -674,26 +714,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39983,
-    "title": "Galileo's first civil authenticated position fix in spoofing conditions",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
-    "news_site": "ESA",
-    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS). ",
-    "published_at": "2026-09-17T06:20:00Z",
-    "updated_at": "2026-09-17T10:20:18.701983Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39984,
     "title": "Galileo's first civil authenticated position fix under spoofing conditions",
     "authors": [
@@ -708,6 +728,26 @@
     "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS). ",
     "published_at": "2026-09-17T06:20:00Z",
     "updated_at": "2026-09-17T11:10:18.649215Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39983,
+    "title": "Galileo's first civil authenticated position fix in spoofing conditions",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
+    "news_site": "ESA",
+    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS). ",
+    "published_at": "2026-09-17T06:20:00Z",
+    "updated_at": "2026-09-17T10:20:18.701983Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -933,46 +973,6 @@
     "summary": "Planning crewed missions to the Moon and Mars involves preparing for the medical realities of long-duration space travel. Factors like cosmic radiation, microgravity, and distance from Earth create unique health considerations for astronauts. To anticipate these needs ahead of time, NASA developed the Integrated Medical Model (IMM). The IMM is a decision-support tool that uses […]",
     "published_at": "2026-09-16T14:50:23Z",
     "updated_at": "2026-09-16T15:00:11.986481Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39965,
-    "title": "Newfound ‘Baby’ Planet Smashes Record for Youngest Known World",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/09/elias-00.jpg",
-    "news_site": "NASA",
-    "summary": "Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives. Called Elias 2-24 b, the baby planet is still whirling in its natal disk of dust and gas. “Our planet-formation models already struggled to explain the previous record holders for the youngest known […]",
-    "published_at": "2026-09-16T14:34:47Z",
-    "updated_at": "2026-09-16T14:50:14.021555Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39966,
-    "title": "Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/1345718/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05003_opgs_edr_ncam_NRB_841646474EDR_F1241978NCAM00200M_.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Benjamin Tutolo, Professor, University of Calgary Earth planning date: Friday, Sept. 4, 2026 Curiosity has marked several huge milestones (14 years on Mars; 5,000 sols on Mars; 1 kilometer of elevation gain since landing) over the past several weeks, and the team has duly celebrated these remarkable achievements. These celebrations punctuate the rover’s […]",
-    "published_at": "2026-09-16T14:26:25Z",
-    "updated_at": "2026-09-16T14:50:14.048004Z",
     "featured": false,
     "launches": [],
     "events": [],
