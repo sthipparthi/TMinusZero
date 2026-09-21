@@ -1,19 +1,59 @@
 [
   {
-    "id": 40010,
-    "title": "ESA x TPCI - Pikachu in the Cupola",
+    "id": 40029,
+    "title": "Exolaunch, Space Cargo book Starship Starfall missions",
     "authors": [
       {
-        "name": "ESA",
+        "name": "Chris Bergin",
         "socials": null
       }
     ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-09-21T14:00:00Z",
-    "updated_at": "2026-09-18T22:10:42.267209Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-21-17-46-39-798.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\nThe post Exolaunch, Space Cargo book Starship Starfall missions appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-09-21T16:57:40Z",
+    "updated_at": "2026-09-21T17:00:12.405542Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\nThe post Exolaunch, Space Cargo book Starship Starfall missions appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 40028,
+    "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/1-pia26815-mastcam-z-360-turquoise-bay-sols933-944-l0-natural-copy.jpg",
+    "news_site": "NASA",
+    "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top […]",
+    "published_at": "2026-09-21T16:54:43Z",
+    "updated_at": "2026-09-21T17:00:07.621024Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40027,
+    "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
+    "authors": [
+      {
+        "name": "Commercial Space Federation",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nSeptember 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […]\nThe post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews.",
+    "published_at": "2026-09-21T15:00:00Z",
+    "updated_at": "2026-09-21T15:10:20.013791Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -34,6 +74,86 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-09-21T14:00:00Z",
     "updated_at": "2026-09-18T23:10:20.648543Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40010,
+    "title": "ESA x TPCI - Pikachu in the Cupola",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-09-21T14:00:00Z",
+    "updated_at": "2026-09-18T22:10:42.267209Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40026,
+    "title": "Juice to fly past Earth for third gravity assist",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
+    "published_at": "2026-09-21T14:00:00Z",
+    "updated_at": "2026-09-21T15:00:15.141481Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40023,
+    "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/vol-better.jpg",
+    "news_site": "NASA",
+    "summary": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park.  For more than 30 years, the festival has immersed guests in traditional Japanese culture through food, dance, martial arts, music, and more, Johnson has supported the festival as an exhibitor for the […]",
+    "published_at": "2026-09-21T11:11:42Z",
+    "updated_at": "2026-09-21T11:20:18.693604Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park.  For more than 30 years, the festival has immersed guests in traditional Japanese culture through food, dance, martial arts, music, and more, Johnson has supported the festival as an exhibitor for the […]"
+  },
+  {
+    "id": 40024,
+    "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/investor_forum_2026/27532970-1-eng-GB/Investor_Forum_2026_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Paris, 18 September 2026 – Access to appropriate finance is becoming a strategic enabler of Europe’s space ambitions. At ESA Headquarters in Paris, investors, financial institutions, industry leaders, European institutions and policymakers, representing close to 200 participants, came together for the Investor Forum 2026 to explore how public demand and private capital can work together to strengthen Europe’s competitiveness, industrial capabilities and commercial growth.",
+    "published_at": "2026-09-21T09:52:00Z",
+    "updated_at": "2026-09-21T13:20:10.313503Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -94,6 +214,26 @@
     "summary": "APOD Science APOD APOD: 2026 September 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Cocoon Nebula Wide […]",
     "published_at": "2026-09-21T04:05:00Z",
     "updated_at": "2026-09-21T04:40:05.612744Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40025,
+    "title": "Arctic Melt Season Length Levels Off",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-melt-season-length-levels-off/arcticmelttrend_20002009.jpg",
+    "news_site": "NASA",
+    "summary": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010.",
+    "published_at": "2026-09-21T04:00:00Z",
+    "updated_at": "2026-09-21T13:50:18.448083Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -714,26 +854,6 @@
     "detailed_news": ""
   },
   {
-    "id": 39986,
-    "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/rsz_1screenshot_2026-09-16_at_33640-pm.png?fit=879%2C688&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nPARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the International Space […]\nThe post Icarus Robotics tests Joy in Canada ahead of ISS flight appeared first on SpaceNews.",
-    "published_at": "2026-09-17T13:00:00Z",
-    "updated_at": "2026-09-17T13:01:11.944929Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 39985,
     "title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
     "authors": [
@@ -748,6 +868,26 @@
     "summary": "\nCatalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative […]\nThe post Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A appeared first on SpaceNews.",
     "published_at": "2026-09-17T13:00:00Z",
     "updated_at": "2026-09-17T13:01:11.803956Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 39986,
+    "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+    "authors": [
+      {
+        "name": "Debra Werner",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/rsz_1screenshot_2026-09-16_at_33640-pm.png?fit=879%2C688&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nPARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the International Space […]\nThe post Icarus Robotics tests Joy in Canada ahead of ISS flight appeared first on SpaceNews.",
+    "published_at": "2026-09-17T13:00:00Z",
+    "updated_at": "2026-09-17T13:01:11.944929Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -828,151 +968,6 @@
     "summary": "On 16 September at its Industry Space Days 2026 event at ESA–ESTEC in the Netherlands, the European Space Agency (ESA) honoured three space companies with this year’s prestigious awards for excellence and innovation. ",
     "published_at": "2026-09-17T07:10:00Z",
     "updated_at": "2026-09-17T07:30:25.300806Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39984,
-    "title": "Galileo's first civil authenticated position fix under spoofing conditions",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
-    "news_site": "ESA",
-    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS). ",
-    "published_at": "2026-09-17T06:20:00Z",
-    "updated_at": "2026-09-17T11:10:18.649215Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39983,
-    "title": "Galileo's first civil authenticated position fix in spoofing conditions",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
-    "news_site": "ESA",
-    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS). ",
-    "published_at": "2026-09-17T06:20:00Z",
-    "updated_at": "2026-09-17T10:20:18.701983Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39979,
-    "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/JWST_Treasure_Chest.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Treasure […]",
-    "published_at": "2026-09-17T04:05:00Z",
-    "updated_at": "2026-09-17T09:40:53.975798Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39978,
-    "title": "Summer Goes Out With a Heat Dome",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/summer-goes-out-with-a-heat-dome/heatdome_geos5_20260915.jpg",
-    "news_site": "NASA",
-    "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
-    "published_at": "2026-09-17T04:01:00Z",
-    "updated_at": "2026-09-17T04:40:11.575717Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39977,
-    "title": "Passion Meets Precision at NASA’s Flight Research Lab",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
-    "image_url": "https://images-assets.nasa.gov/image/AFRC2026-0179-08/AFRC2026-0179-08~large.jpg",
-    "news_site": "NASA",
-    "summary": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight Research Laboratory at the agency’s Armstrong Flight […]",
-    "published_at": "2026-09-16T21:06:08Z",
-    "updated_at": "2026-09-16T21:10:13.968230Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39976,
-    "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchin_Discovery_Reenactment.png",
-    "news_site": "NASA",
-    "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]",
-    "published_at": "2026-09-16T18:06:35Z",
-    "updated_at": "2026-09-16T18:40:22.578980Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39975,
-    "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/ribbon-cutting-edited.jpg",
-    "news_site": "NASA",
-    "summary": "NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the […]",
-    "published_at": "2026-09-16T16:12:01Z",
-    "updated_at": "2026-09-16T16:20:23.252359Z",
     "featured": false,
     "launches": [],
     "events": [],
