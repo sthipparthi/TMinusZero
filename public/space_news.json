@@ -1,5 +1,105 @@
 [
   {
+    "id": 40040,
+    "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/m101-lg.jpg",
+    "news_site": "NASA",
+    "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two […]",
+    "published_at": "2026-09-22T15:40:48Z",
+    "updated_at": "2026-09-22T15:50:17.605431Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40039,
+    "title": "NASA Astronaut to Answer Questions from New Hampshire Students",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/anil-menon-downlink-sept-22.jpg",
+    "news_site": "NASA",
+    "summary": "Students in New Hampshire will hear from NASA astronaut Anil Menon as he answers prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 11:35 a.m. EDT Thursday, Sept. 24, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by the McAuliffe-Shepard Discovery Center in Concord, […]",
+    "published_at": "2026-09-22T13:38:53Z",
+    "updated_at": "2026-09-22T13:40:15.851314Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Students in New Hampshire will hear from NASA astronaut Anil Menon as he answers prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 11:35 a.m. EDT Thursday, Sept. 24, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by the McAuliffe-Shepard Discovery Center in Concord, […]"
+  },
+  {
+    "id": 40038,
+    "title": "SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/SaxaVord-Scrapped-Launch-Rail-Plans-Forcing-HyImpulse-to-Bring-Its-Own.webp",
+    "news_site": "European Spaceflight",
+    "summary": "UK-based launch facility SaxaVord Spaceport has confirmed that it abandoned plans to develop a shared suborbital launch rail, with German rocket builder HyImpulse now preparing to bring its own system to the Scottish launch site for the second flight of its SR75 rocket. The UK Space Agency awarded SaxaVord £378,000 in December 2022 for Project […]\nThe post SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own appeared first on European Spaceflight.",
+    "published_at": "2026-09-22T12:45:54Z",
+    "updated_at": "2026-09-22T12:50:18.828533Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40036,
+    "title": "A call to boost European space exploration",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/extended_reality_at_esa/27263586-1-eng-GB/Extended_reality_at_ESA_card_full.png",
+    "news_site": "ESA",
+    "summary": "The Call sets out a shared vision for strengthening Europe's role in human and robotic space exploration and provides political guidance for preparations ahead of the Intermediate Ministerial Meeting in Rome on 15 December.",
+    "published_at": "2026-09-22T11:26:00Z",
+    "updated_at": "2026-09-22T12:10:28.819423Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40037,
+    "title": "An Epic View of the Seasons",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-epic-view-of-the-seasons/equinox_epic_20240922.jpg",
+    "news_site": "NASA",
+    "summary": "The tilt in Earth’s axis of rotation makes the apparent position of continents shift with the seasons in imagery from a NASA camera in deep space.",
+    "published_at": "2026-09-22T04:01:00Z",
+    "updated_at": "2026-09-22T12:50:15.045509Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40035,
     "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
     "authors": [
@@ -200,26 +300,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40026,
-    "title": "Juice to fly past Earth for third gravity assist",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_card_full.png",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
-    "published_at": "2026-09-21T14:00:00Z",
-    "updated_at": "2026-09-21T15:00:15.141481Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40012,
     "title": "Pikachu in the Cupola",
     "authors": [
@@ -234,6 +314,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-09-21T14:00:00Z",
     "updated_at": "2026-09-18T23:10:20.648543Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40026,
+    "title": "Juice to fly past Earth for third gravity assist",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
+    "published_at": "2026-09-21T14:00:00Z",
+    "updated_at": "2026-09-21T15:00:15.141481Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -868,106 +968,6 @@
     "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no earlier than October to launch […]",
     "published_at": "2026-09-17T18:32:30Z",
     "updated_at": "2026-09-17T18:40:22.715515Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39991,
-    "title": "NASA Unveils Enterprise, the First Space Shuttle",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg",
-    "news_site": "NASA",
-    "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television series wrote the White House urging that the […]",
-    "published_at": "2026-09-17T15:22:42Z",
-    "updated_at": "2026-09-17T15:30:21.835272Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39990,
-    "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/SI-Dubai.jpg?fit=1024%2C576&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nPARIS — South Korean company Satrec Initiative is working with parent company Hanwha Systems to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical […]\nThe post Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation appeared first on SpaceNews.",
-    "published_at": "2026-09-17T15:05:15Z",
-    "updated_at": "2026-09-17T15:12:36.933392Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39989,
-    "title": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
-    "authors": [
-      {
-        "name": "Simera Sense",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square1-scaled.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of […]\nThe post Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges appeared first on SpaceNews.",
-    "published_at": "2026-09-17T14:40:51Z",
-    "updated_at": "2026-09-17T14:50:28.913354Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 39988,
-    "title": "NASA to order more Starliner missions and help certify a new rocket to keep it flying",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/starliner-rise-from-your-grave.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"They should fly their capsule. The government paid a lot of money for that.\"",
-    "published_at": "2026-09-17T14:37:37Z",
-    "updated_at": "2026-09-17T14:50:10.102157Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "\"They should fly their capsule. The government paid a lot of money for that.\""
-  },
-  {
-    "id": 39987,
-    "title": "Inside Europe’s push for space autonomy with Josef Aschbacher",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/space-minds-podcast-aschbacher-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […]\nThe post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews.",
-    "published_at": "2026-09-17T14:37:26Z",
-    "updated_at": "2026-09-17T14:40:14.733795Z",
     "featured": false,
     "launches": [],
     "events": [],
