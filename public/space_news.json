@@ -1,5 +1,119 @@
 [
   {
+    "id": 40073,
+    "title": "Record participation in ESA’s Industry Space Days 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/industry_space_days_20263/27536066-2-eng-GB/Industry_Space_Days_2026_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "On 16–17 September, the European Space Agency (ESA) hosted a record 3100 visitors from Europe’s space industry for a two-day Industry Space Days (ISD) event at ESA’s ESTEC technical centre in the Netherlands. ",
+    "published_at": "2026-09-24T07:05:00Z",
+    "updated_at": "2026-09-24T07:20:19.134672Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40072,
+    "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Awards-RFA-2.7-Million-Euros-in-New-Funding-for-SaxaVord-Operations.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency (ESA) has awarded Rocket Factory Augsburg (RFA) a contract amendment that will provide the company with €2.7 million in additional co-funding to support the build-out of the company’s launch and testing infrastructure at SaxaVord in Scotland. According to the agency, RFA is expected to resume preparations for static fire tests of […]\r\nThe post ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations appeared first on European Spaceflight.",
+    "published_at": "2026-09-24T06:00:15Z",
+    "updated_at": "2026-09-24T06:49:13.641073Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40070,
+    "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Ghosts […]",
+    "published_at": "2026-09-24T04:05:00Z",
+    "updated_at": "2026-09-24T04:40:12.473370Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40071,
+    "title": "Cloudy Cloak Over the Northwest",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919.jpg",
+    "news_site": "NASA",
+    "summary": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
+    "published_at": "2026-09-24T04:01:00Z",
+    "updated_at": "2026-09-24T04:50:13.492954Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40069,
+    "title": "Swift Rescue Mission May Not Have Succeeded, But No Regrets",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/swift-rescue-mission-may-not-have-succeeded-but-no-regrets/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The bold mission to extend the lifetime of NASA’s Swift observatory is coming to an end in the next 24 hours. Almost exactly one year after NASA signed a contract […]",
+    "published_at": "2026-09-24T02:01:59Z",
+    "updated_at": "2026-09-24T06:49:20.933302Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "db02116f-17ba-429a-b6c1-8e7f13b5e787",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "f596ad48-881e-47d6-806d-113c6dd97427",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40068,
     "title": "NASA Modernizes Commercial Airline Systems",
     "authors": [
@@ -879,106 +993,6 @@
     "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
     "published_at": "2026-09-21T14:00:00Z",
     "updated_at": "2026-09-21T15:00:15.141481Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40012,
-    "title": "Pikachu in the Cupola",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pikachu_in_the_cupola/27530034-1-eng-GB/Pikachu_in_the_Cupola_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-09-21T14:00:00Z",
-    "updated_at": "2026-09-18T23:10:20.648543Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40010,
-    "title": "ESA x TPCI - Pikachu in the Cupola",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-09-21T14:00:00Z",
-    "updated_at": "2026-09-18T22:10:42.267209Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40023,
-    "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/vol-better.jpg",
-    "news_site": "NASA",
-    "summary": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park.  For more than 30 years, the festival has immersed guests in traditional Japanese culture through food, dance, martial arts, music, and more, Johnson has supported the festival as an exhibitor for the […]",
-    "published_at": "2026-09-21T11:11:42Z",
-    "updated_at": "2026-09-21T11:20:18.693604Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park.  For more than 30 years, the festival has immersed guests in traditional Japanese culture through food, dance, martial arts, music, and more, Johnson has supported the festival as an exhibitor for the […]"
-  },
-  {
-    "id": 40024,
-    "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/investor_forum_2026/27532970-1-eng-GB/Investor_Forum_2026_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Paris, 18 September 2026 – Access to appropriate finance is becoming a strategic enabler of Europe’s space ambitions. At ESA Headquarters in Paris, investors, financial institutions, industry leaders, European institutions and policymakers, representing close to 200 participants, came together for the Investor Forum 2026 to explore how public demand and private capital can work together to strengthen Europe’s competitiveness, industrial capabilities and commercial growth.",
-    "published_at": "2026-09-21T09:52:00Z",
-    "updated_at": "2026-09-21T13:20:10.313503Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40022,
-    "title": "ESA and ISRO extend and broaden cooperation agreement",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa-isro/27532710-2-eng-GB/ESA-ISRO_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The European Space Agency (ESA) and the Indian Space Research Organisation (ISRO) have signed an exchange of letters extending their long-standing Cooperative Agreement for a further five years, until 8 January 2032, reaffirming Europe's and India's commitment to expanding cooperation in space.",
-    "published_at": "2026-09-21T08:44:00Z",
-    "updated_at": "2026-09-21T09:20:09.497952Z",
     "featured": false,
     "launches": [],
     "events": [],
