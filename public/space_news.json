@@ -1,5 +1,125 @@
 [
   {
+    "id": 40101,
+    "title": "Hubble Spots Chaotic Secret in Galaxy",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg",
+    "news_site": "NASA",
+    "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms […]",
+    "published_at": "2026-09-25T15:54:10Z",
+    "updated_at": "2026-09-25T16:00:08.745925Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40100,
+    "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Otter_Celebration_Trevor_Bennett.png",
+    "news_site": "Arstechnica",
+    "summary": "\"There is always a tension that comes with seeing the first of anything fly.\"",
+    "published_at": "2026-09-25T15:35:23Z",
+    "updated_at": "2026-09-25T15:40:16.935133Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "\"There is always a tension that comes with seeing the first of anything fly.\""
+  },
+  {
+    "id": 40099,
+    "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/tb-26-07-figure-12.png",
+    "news_site": "NASA",
+    "summary": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of […]",
+    "published_at": "2026-09-25T14:45:51Z",
+    "updated_at": "2026-09-25T14:50:16.649207Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40098,
+    "title": "Week in images: 21-25 Sep 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/space_explorers_in_the_land_of_volcanoes/27538504-1-eng-GB/Space_explorers_in_the_land_of_volcanoes_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Week in images: 21-25 Sep 2026",
+    "published_at": "2026-09-25T13:10:00Z",
+    "updated_at": "2026-09-25T13:30:36.251757Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40097,
+    "title": "Three Earth Explorer candidates go forward",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/03/advancing_earth_science/26001430-2-eng-GB/Advancing_Earth_science_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-09-25T12:20:00Z",
+    "updated_at": "2026-09-25T12:40:11.863010Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40096,
+    "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg",
+    "news_site": "Arstechnica",
+    "summary": "\"The customer got comfortable with a high reliability and a low price.\"",
+    "published_at": "2026-09-25T11:00:10Z",
+    "updated_at": "2026-09-25T11:10:05.568861Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "\"The customer got comfortable with a high reliability and a low price.\""
+  },
+  {
     "id": 40095,
     "title": "ESA and the EU partner with Museo Galileo on new exhibition",
     "authors": [
@@ -855,136 +975,6 @@
     "updated_at": "2026-09-23T13:50:08.886702Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40053,
-    "title": "First switch on for ESA-JAXA Ramses asteroid mission",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/first_switch-on_of_the_ramses_spacecraft/27537289-1-eng-GB/First_switch-on_of_the_Ramses_spacecraft_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s and Japan Aerospace Exploration Agency’s Ramses planetary defence spacecraft has been turned on for the first time by its prime contractor – marking a major milestone in its time-critical development schedule.",
-    "published_at": "2026-09-23T11:17:00Z",
-    "updated_at": "2026-09-23T12:26:08.985446Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "71b006aa-0d41-49fb-b0bf-dc30b10ef528",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40052,
-    "title": "There are now 17,000 satellites in orbit—and growing. Should we be concerned?",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/debris.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"I think we are going to lose the ability to use certain orbits.\"",
-    "published_at": "2026-09-23T11:00:17Z",
-    "updated_at": "2026-09-23T11:10:15.712068Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "\"I think we are going to lose the ability to use certain orbits.\""
-  },
-  {
-    "id": 40051,
-    "title": "A hitchhiker’s guide to Hera’s target asteroids",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/an_imaginary_astronaut_s_view_of_the_didymos_and_dimorphos_asteroids/27530597-2-eng-GB/An_imaginary_astronaut_s_view_of_the_Didymos_and_Dimorphos_asteroids_card_full.png",
-    "news_site": "ESA",
-    "summary": "Currently speeding through deep space at 12 km/s relative to Earth, ESA’s Hera spacecraft is due to reach its target Dimorphos asteroid this November. But if an astronaut were magically teleported onto the small-car-sized Hera upon arrival, what would they be seeing, and what would it feel like to walk on the asteroid’s surface?",
-    "published_at": "2026-09-23T08:10:00Z",
-    "updated_at": "2026-09-23T08:20:22.035705Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40050,
-    "title": "Rocket Factory Augsburg ‘Boost!’ extension in run-up to first launch",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Rocket_Factory_Augsburg_Boost!_extension_in_run-up_to_first_launch",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/rfa_one_rocket/25184937-1-eng-GB/RFA_One_rocket_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-09-23T08:00:00Z",
-    "updated_at": "2026-09-23T08:10:19.598891Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40049,
-    "title": "Italy to Spend Over $5 Billion to Send Two Astronauts to the Moon",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/italy-to-spend-over-5-billion-to-send-two-astronauts-to-the-moon/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Italy-to-Spend-Over-5-Billion-Dollars-to-Send-Two-Astronauts-to-the-Moon.webp",
-    "news_site": "European Spaceflight",
-    "summary": "According to NASA Administrator Jared Isaacman, Italy has committed more than $5 billion to the development of a lunar habitat for the agency’s Moon Base programme. In return, the country has secured spots for two Italian astronauts on future missions to the surface of the Moon. Speaking during the Air & Space Forces Association’s Air, […]\nThe post Italy to Spend Over $5 Billion to Send Two Astronauts to the Moon appeared first on European Spaceflight.",
-    "published_at": "2026-09-23T07:27:14Z",
-    "updated_at": "2026-09-23T07:30:31.678703Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40047,
-    "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AfterBefore A […]",
-    "published_at": "2026-09-23T04:05:00Z",
-    "updated_at": "2026-09-23T06:06:03.362164Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "d8d10fbf-b900-40c7-95ef-fb2f07489f6f",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
