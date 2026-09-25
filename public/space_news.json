@@ -1,5 +1,85 @@
 [
   {
+    "id": 40089,
+    "title": "NASA announces new space telescope ‘PRIMA’ to launch in 2033",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260924_PRIMA_rendering.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Once it goes through a confirmation review, the observatory can proceed into construction. The 5.9-foot telescope will be capped at a project cost of $1.2 billion, which excludes launch “and other non-project costs.” ",
+    "published_at": "2026-09-24T23:07:18Z",
+    "updated_at": "2026-09-24T23:10:17.969564Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40088,
+    "title": "Expedition 75 astronauts continue science work as Crew-13 readies for launch",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7485.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "AS the International Space Station continues to orbit Earth as it has for over a…\nThe post Expedition 75 astronauts continue science work as Crew-13 readies for launch appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-09-24T22:06:28Z",
+    "updated_at": "2026-09-24T22:10:16.662790Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "AS the International Space Station continues to orbit Earth as it has for over a…\nThe post Expedition 75 astronauts continue science work as Crew-13 readies for launch appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 40087,
+    "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-cote-divoire-75-092426.jpg",
+    "news_site": "NASA",
+    "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday as the 75th signatory during a signing ceremony in the nation’s largest city Abidjan, marking the largest milestone yet for the international coalition of like-minded countries committed to peaceful and responsible space exploration. “The United States and Côte d’Ivoire already cooperate on Earth,” said NASA’s Deputy Administrator […]",
+    "published_at": "2026-09-24T21:27:17Z",
+    "updated_at": "2026-09-24T21:30:08.264339Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40086,
+    "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg",
+    "news_site": "NASA",
+    "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa, and Roscosmos cosmonaut […]",
+    "published_at": "2026-09-24T21:15:46Z",
+    "updated_at": "2026-09-24T21:20:08.887637Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40085,
     "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
     "authors": [
@@ -913,86 +993,6 @@
     "summary": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of California’s Lassen Volcanic National Park, a […]",
     "published_at": "2026-09-22T17:33:10Z",
     "updated_at": "2026-09-22T17:50:11.775522Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40040,
-    "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/m101-lg.jpg",
-    "news_site": "NASA",
-    "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two […]",
-    "published_at": "2026-09-22T15:40:48Z",
-    "updated_at": "2026-09-22T15:50:17.605431Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40039,
-    "title": "NASA Astronaut to Answer Questions from New Hampshire Students",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/anil-menon-downlink-sept-22.jpg",
-    "news_site": "NASA",
-    "summary": "Students in New Hampshire will hear from NASA astronaut Anil Menon as he answers prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 11:35 a.m. EDT Thursday, Sept. 24, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by the McAuliffe-Shepard Discovery Center in Concord, […]",
-    "published_at": "2026-09-22T13:38:53Z",
-    "updated_at": "2026-09-22T13:40:15.851314Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Students in New Hampshire will hear from NASA astronaut Anil Menon as he answers prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 11:35 a.m. EDT Thursday, Sept. 24, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by the McAuliffe-Shepard Discovery Center in Concord, […]"
-  },
-  {
-    "id": 40038,
-    "title": "SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/SaxaVord-Scrapped-Launch-Rail-Plans-Forcing-HyImpulse-to-Bring-Its-Own.webp",
-    "news_site": "European Spaceflight",
-    "summary": "UK-based launch facility SaxaVord Spaceport has confirmed that it abandoned plans to develop a shared suborbital launch rail, with German rocket builder HyImpulse now preparing to bring its own system to the Scottish launch site for the second flight of its SR75 rocket. The UK Space Agency awarded SaxaVord £378,000 in December 2022 for Project […]\nThe post SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own appeared first on European Spaceflight.",
-    "published_at": "2026-09-22T12:45:54Z",
-    "updated_at": "2026-09-22T12:50:18.828533Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40036,
-    "title": "A call to boost European space exploration",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/extended_reality_at_esa/27263586-1-eng-GB/Extended_reality_at_ESA_card_full.png",
-    "news_site": "ESA",
-    "summary": "The Call sets out a shared vision for strengthening Europe's role in human and robotic space exploration and provides political guidance for preparations ahead of the Intermediate Ministerial Meeting in Rome on 15 December.",
-    "published_at": "2026-09-22T11:26:00Z",
-    "updated_at": "2026-09-22T12:10:28.819423Z",
     "featured": false,
     "launches": [],
     "events": [],
