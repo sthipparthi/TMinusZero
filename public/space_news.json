@@ -1,5 +1,125 @@
 [
   {
+    "id": 40107,
+    "title": "NASA, Boeing to Provide Update on Starliner Development",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg",
+    "news_site": "NASA",
+    "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy […]",
+    "published_at": "2026-09-25T22:06:50Z",
+    "updated_at": "2026-09-25T22:10:05.608049Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40106,
+    "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
+    "authors": [
+      {
+        "name": "Steven Young",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260925-Falcon-9-File.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff of the USSF-385 mission atop a Falcon 9 is scheduled for 5:56 a.m. PDT (8:56 a.m. EDT / 1256 UTC) at the opening of a three-hour launch window. ",
+    "published_at": "2026-09-25T20:26:14Z",
+    "updated_at": "2026-09-25T20:30:21.140474Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40105,
+    "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
+    "news_site": "NASA",
+    "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
+    "published_at": "2026-09-25T19:53:03Z",
+    "updated_at": "2026-09-25T20:00:19.114123Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40104,
+    "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
+    "image_url": "https://images-assets.nasa.gov/image/933/933~large.jpg",
+    "news_site": "NASA",
+    "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
+    "published_at": "2026-09-25T19:36:10Z",
+    "updated_at": "2026-09-25T19:40:05.866857Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40103,
+    "title": "2026-2027 DWU: Middle School Design Challenge",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
+    "news_site": "NASA",
+    "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make […]",
+    "published_at": "2026-09-25T17:20:51Z",
+    "updated_at": "2026-09-25T17:30:06.366037Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40102,
+    "title": "2026-2027 DWU: High School Engineering Challenge",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-hs-web.jpg",
+    "news_site": "NASA",
+    "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, […]",
+    "published_at": "2026-09-25T17:19:42Z",
+    "updated_at": "2026-09-25T17:20:05.908987Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40101,
     "title": "Hubble Spots Chaotic Secret in Galaxy",
     "authors": [
@@ -852,130 +972,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\""
-  },
-  {
-    "id": 40059,
-    "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/",
-    "image_url": "https://images-assets.nasa.gov/image/s79e5277/s79e5277~large.jpg",
-    "news_site": "NASA",
-    "summary": "Shannon Lucid’s Record-Setting Mission Aboard Mir  Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science […]",
-    "published_at": "2026-09-23T16:03:37Z",
-    "updated_at": "2026-09-23T16:10:17.486718Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40057,
-    "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
-    "authors": [
-      {
-        "name": "Ethereal Space, Inc.",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/ethereal-space.png?fit=800%2C800&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nDENVER, Colorado – September 2026 – Ethereal Space, Inc. today announced that it has been awarded Task Order 1 under NOAA’s ProTech 2.0 Space-Based Environmental Monitoring (SBEM) program, following NOAA’s […]\nThe post Ethereal Space Awarded NOAA SBEM Task Order 1 appeared first on SpaceNews.",
-    "published_at": "2026-09-23T15:18:10Z",
-    "updated_at": "2026-09-23T15:20:26.302536Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40058,
-    "title": "FFA 2026 Hyperwall Schedule",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/",
-    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "news_site": "NASA",
-    "summary": "FFA 2026 Hyperwall Schedule",
-    "published_at": "2026-09-23T14:58:13Z",
-    "updated_at": "2026-09-23T15:50:14.094870Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40055,
-    "title": "Risk of Hydrazine Use Following Freeze–Thaw Exposure",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2015/04/nesc-tb-26-06-hydrazine-powered-sls-bosster-thrust-vector-control-system.png",
-    "news_site": "NASA",
-    "summary": "For more information, contact Jonathan E. Jones, Langley Research Center, jonathan.e.jones@nasa.gov Download the PDF version The purpose of this Technical Bulletin is to communicate the risks associated with freeze–thaw cycles in hydrazine monopropellant systems and to provide general recommendations for mitigating damage, operational hazards, and loss of system reliability in propulsion and auxiliary hydrazine systems. […]",
-    "published_at": "2026-09-23T14:31:58Z",
-    "updated_at": "2026-09-23T14:40:08.307361Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40056,
-    "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/STSCI-H-p26023a-m-2000x1207.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another new milestone for an observatory that continues to transform our understanding of the universe. Hubble has traveled more than 5 billion miles around Earth over its 36-year lifetime, exceeding 1.7 million total observations. An observation completed on the day of […]",
-    "published_at": "2026-09-23T13:55:34Z",
-    "updated_at": "2026-09-23T15:08:49.318033Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40054,
-    "title": "Space explorers in the land of volcanoes",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Space_explorers_in_the_land_of_volcanoes",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/space_explorers_in_the_land_of_volcanoes/27538504-1-eng-GB/Space_explorers_in_the_land_of_volcanoes_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-09-23T13:29:00Z",
-    "updated_at": "2026-09-23T13:50:08.886702Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]

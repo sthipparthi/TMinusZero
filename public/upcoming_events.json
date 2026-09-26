@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-09-25T16:02:24.248141Z",
+  "count": 7,
+  "last_updated": "2026-09-26T02:18:30.779708Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (7 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "9e24bef7-c44b-4fdc-ba52-68545ce9457e",
-      "name": "Electron | Owlright, Owlright, Owlright (StriX Launch 13)",
-      "status": "Go",
-      "net": "2026-09-26T00:15:00Z",
-      "window_start": "2026-09-26T00:15:00Z",
-      "window_end": "2026-09-26T00:15:00Z",
-      "lsp_name": "Rocket Lab",
-      "lsp_description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
-      "lsp_type": "Commercial",
-      "lsp_country": "USA",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rocket2520lab2520ltd_logo_20220218075411.png",
-      "mission_name": "Owlright, Owlright, Owlright (StriX Launch 13)",
-      "mission_description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
-      "mission_type": "Earth Science",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Rocket Lab Launch Complex 1B, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "pad": "Rocket Lab Launch Complex 1B",
-      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "rocket": "Electron",
-      "rocket_config_description": "Electron is a two-stage orbital expendable launch vehicle (with an optional third stage) developed by the American aerospace company Rocket Lab. Electron is a small-lift launch vehicle designed to launch small satellites and cubesats to sun-synchronous orbit and low earth orbit. The Electron is the first orbital class rocket to use electric-pump-fed engines, powered by the 9 Rutherford engines on the first stage. It is also used as a suborbital testbed (called HASTE) for hypersonics research.",
-      "rocket_config_family": "",
-      "rocket_config_full_name": "Electron",
-      "rocket_config_total_launch_count": 96,
-      "rocket_config_successful_launches": 91,
-      "rocket_config_failed_launches": 4,
-      "rocket_config_pending_launches": 39,
-      "rocket_manufacturer_name": "Rocket Lab",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Rocket Lab is an American aerospace manufacturer with a wholly owned New Zealand subsidiary. The company develops lightweight, cost-effective commercial rocket launch services. The Electron Program was founded on the premise that small payloads such as CubeSats require dedicated small launch vehicles and flexibility not currently offered by traditional rocket systems. Its rocket, the Electron, is a light-weight rocket and is now operating commercially. The company is also producing a variety of spacecrafts and spacecrafts components.",
-      "rocket_manufacturer_total_launch_count": 96,
-      "rocket_manufacturer_successful_launches": 91,
-      "rocket_manufacturer_failed_launches": 4,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/9e24bef7-c44b-4fdc-ba52-68545ce9457e/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "7330d83b-c478-426c-8859-f9e3a335876d",
       "name": "Falcon 9 Block 5 | USSF-385",
@@ -386,7 +345,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 7,
+    "total_launches": 7
   }
 }
