@@ -1,5 +1,105 @@
 [
   {
+    "id": 40153,
+    "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg",
+    "news_site": "NASA",
+    "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey […]",
+    "published_at": "2026-09-29T15:31:56Z",
+    "updated_at": "2026-09-29T15:40:13.121166Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40152,
+    "title": "Starship Orbits Earth, Returns Early",
+    "authors": [
+      {
+        "name": "Beverly Casillas",
+        "socials": null
+      }
+    ],
+    "url": "https://www.spacescout.info/2026/09/starship-orbits-earth-returns-early/",
+    "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/09/cam-liftoff.jpg",
+    "news_site": "Space Scout",
+    "summary": "Although technical issues cut the mission short, Starship achieved most of its objectives, including its first deployment of an operational payload into orbit.",
+    "published_at": "2026-09-29T15:13:22Z",
+    "updated_at": "2026-09-29T15:20:35.717004Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40150,
+    "title": "NSTGRO 2026",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg",
+    "news_site": "NASA",
+    "summary": "NSTGRO Homepage Eleanor ZimmermannMichigan Technological UniversityRadiative Passive Processing Technology for Offworld Resource Separation (RaPPTORS) Tetiana TymoshevskaUniversity of MichiganLiquid Droplet Radiator Enabled by an Electrospray Array Hannah HuttonUniversity of MichiganRESIST: Radiation-Enabled Structural Improvement in Space Materials Elan GraupeUniversity Of MinnesotaModel-Driven Navigation for Robust Spacecraft Atmospheric Entry and Descent Emily GokieUniversity Of Colorado, BoulderA low-SWaP timing system […]",
+    "published_at": "2026-09-29T14:20:08Z",
+    "updated_at": "2026-09-29T14:20:16.073722Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40149,
+    "title": "CNES Publishes Call for New Rocket Launch Tracking Turrets for French Guiana",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/cnes-publishes-call-for-new-rocket-launch-tracking-turrets-for-french-guiana/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/CNES-Publishes-Call-for-New-Launch-Tracking-Turrets-for-French-Guiana.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The French space agency CNES has issued a call for new automated optical tracking systems for the Guiana Space Centre. The new system will need to be capable of tracking launch vehicles to altitudes of up to an altitude of 100 kilometres. Published on 24 September, the initiative aims to replace aging and partially obsolete […]\nThe post CNES Publishes Call for New Rocket Launch Tracking Turrets for French Guiana appeared first on European Spaceflight.",
+    "published_at": "2026-09-29T14:04:28Z",
+    "updated_at": "2026-09-29T14:10:38.966657Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40148,
+    "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/lsp-2-100x.jpg",
+    "news_site": "NASA",
+    "summary": "Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions. Developed at NASA’s Glenn Research Center in Cleveland, the material could be created directly on the Moon or Mars, allowing NASA to pack fewer supplies — saving weight and […]",
+    "published_at": "2026-09-29T14:00:00Z",
+    "updated_at": "2026-09-29T14:00:17.439652Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40146,
     "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
     "authors": [
@@ -14,6 +114,26 @@
     "summary": "\nOn September 9, 2026, Evan Hubinger, Anthropic’s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill […]\nThe post If AI cannot be trusted in a classroom, why should it be trusted in orbit? appeared first on SpaceNews.",
     "published_at": "2026-09-29T11:00:00Z",
     "updated_at": "2026-09-29T11:10:37.478656Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40147,
+    "title": "ESA investigates potential future European-led orbital outpost",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_investigates_potential_future_European-led_orbital_outpost",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/artist_s_impression_of_a_potential_european-led_orbital_station_1_3/27544855-1-eng-GB/Artist_s_impression_of_a_potential_European-led_orbital_station_1_3_card_full.png",
+    "news_site": "ESA",
+    "summary": "As part of the preparation for the end of utilisation of the International Space Station (ISS), the European Space Agency (ESA) awarded a contract to two European industrial consortia to conduct preliminary studies assessing the feasibility to develop a future European-led orbital outpost. These studies are part of the options currently explored by ESA for the post-ISS era, building on Europe's industrial capabilities and expertise in human spaceflight.",
+    "published_at": "2026-09-29T10:48:00Z",
+    "updated_at": "2026-09-29T13:40:20.071256Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -439,6 +559,26 @@
     "detailed_news": "NASA isn't saying much. The problem may be temporary."
   },
   {
+    "id": 40151,
+    "title": "How ESA astronauts return from space",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/How_ESA_astronauts_return_from_space",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/10/samantha_arrives_in_cologne6/24523998-4-eng-GB/Samantha_arrives_in_Cologne_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "When an astronaut from the European Space Agency (ESA) returns from space, the mission is far from over.",
+    "published_at": "2026-09-28T15:33:00Z",
+    "updated_at": "2026-09-29T14:30:28.658886Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40124,
     "title": "Space Station View of Earth at Night",
     "authors": [
@@ -853,146 +993,6 @@
     "summary": "Liftoff of the USSF-385 mission atop a Falcon 9 is scheduled for 5:56 a.m. PDT (8:56 a.m. EDT / 1256 UTC) at the opening of a three-hour launch window. ",
     "published_at": "2026-09-25T20:26:14Z",
     "updated_at": "2026-09-25T20:30:21.140474Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40105,
-    "title": "NASA Welcomes San Marino Signing the Artemis Accords",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
-    "news_site": "NASA",
-    "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
-    "published_at": "2026-09-25T19:53:03Z",
-    "updated_at": "2026-09-25T20:00:19.114123Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40104,
-    "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
-    "image_url": "https://images-assets.nasa.gov/image/933/933~large.jpg",
-    "news_site": "NASA",
-    "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
-    "published_at": "2026-09-25T19:36:10Z",
-    "updated_at": "2026-09-25T19:40:05.866857Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40103,
-    "title": "2026-2027 DWU: Middle School Design Challenge",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
-    "news_site": "NASA",
-    "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make […]",
-    "published_at": "2026-09-25T17:20:51Z",
-    "updated_at": "2026-09-25T17:30:06.366037Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40102,
-    "title": "2026-2027 DWU: High School Engineering Challenge",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-hs-web.jpg",
-    "news_site": "NASA",
-    "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, […]",
-    "published_at": "2026-09-25T17:19:42Z",
-    "updated_at": "2026-09-25T17:20:05.908987Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40101,
-    "title": "Hubble Spots Chaotic Secret in Galaxy",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg",
-    "news_site": "NASA",
-    "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms […]",
-    "published_at": "2026-09-25T15:54:10Z",
-    "updated_at": "2026-09-25T16:00:08.745925Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40100,
-    "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Otter_Celebration_Trevor_Bennett.png",
-    "news_site": "Arstechnica",
-    "summary": "\"There is always a tension that comes with seeing the first of anything fly.\"",
-    "published_at": "2026-09-25T15:35:23Z",
-    "updated_at": "2026-09-25T15:40:16.935133Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "\"There is always a tension that comes with seeing the first of anything fly.\""
-  },
-  {
-    "id": 40099,
-    "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/tb-26-07-figure-12.png",
-    "news_site": "NASA",
-    "summary": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of […]",
-    "published_at": "2026-09-25T14:45:51Z",
-    "updated_at": "2026-09-25T14:50:16.649207Z",
     "featured": false,
     "launches": [],
     "events": [],
