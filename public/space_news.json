@@ -1,5 +1,105 @@
 [
   {
+    "id": 40171,
+    "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1242530931.jpg",
+    "news_site": "Arstechnica",
+    "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
+    "published_at": "2026-09-30T16:48:56Z",
+    "updated_at": "2026-09-30T17:00:18.429918Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Russia says it has a \"promising, reusable manned transport spacecraft.\""
+  },
+  {
+    "id": 40170,
+    "title": "Starship makes orbit, Flight 15 preps in full swing",
+    "authors": [
+      {
+        "name": "Ryan Weber",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-Liftoff-for-Flight-14-scaled.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing…\nThe post Starship makes orbit, Flight 15 preps in full swing appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-09-30T15:17:07Z",
+    "updated_at": "2026-09-30T15:20:25.727284Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing…\nThe post Starship makes orbit, Flight 15 preps in full swing appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 40169,
+    "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+    "authors": [
+      {
+        "name": "NaviGate",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/navigate_logo_notext-scaled.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise […]\nThe post NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier appeared first on SpaceNews.",
+    "published_at": "2026-09-30T15:00:00Z",
+    "updated_at": "2026-09-30T15:10:56.924256Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40168,
+    "title": "Shaping Europe’s future in low Earth orbit",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Shaping_Europe_s_future_in_low_Earth_orbit",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-986/27435915-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "For more than 25 years, the Internation Space Station (ISS) has been humankind's home in space. It has enabled scientists to conduct research in weightlessness, helped astronauts learn how to live and work in orbit and provided engineers with experience that is shaping future exploration. ",
+    "published_at": "2026-09-30T13:19:00Z",
+    "updated_at": "2026-09-30T14:30:26.120055Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40167,
+    "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+    "authors": [
+      {
+        "name": "Quantum Space",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/quantum-space-logo-square.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for […]\nThe post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews.",
+    "published_at": "2026-09-30T13:00:00Z",
+    "updated_at": "2026-09-30T13:10:35.214137Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40166,
     "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
     "authors": [
@@ -903,106 +1003,6 @@
     "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.",
     "published_at": "2026-09-28T15:00:00Z",
     "updated_at": "2026-09-28T16:20:15.231243Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40123,
-    "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
-    "authors": [
-      {
-        "name": "Economist Enterprise",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/economist-enterprise.png?fit=900%2C902&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nORLANDO, FL — September 28th, 2026 — Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled technologies create […]\nThe post Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando appeared first on SpaceNews.",
-    "published_at": "2026-09-28T14:57:21Z",
-    "updated_at": "2026-09-28T15:01:03.324220Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40122,
-    "title": "NASA ORBIT Challenge 2027",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/nasa-orbit-challenge-2026.png",
-    "news_site": "NASA",
-    "summary": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve problems here on Earth (ORBIT Earth), or design next-generation technologies for space exploration […]",
-    "published_at": "2026-09-28T14:56:39Z",
-    "updated_at": "2026-09-28T15:00:26.158198Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve problems here on Earth (ORBIT Earth), or design next-generation technologies for space exploration […]"
-  },
-  {
-    "id": 40121,
-    "title": "UK Creates Space Effects Squadron to Protect Its Satellites",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/UK-Creates-Space-Effects-Squadron-to-Protect-Its-Satellites.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The United Kingdom has established a new specialised unit within the Royal Air Force to counter hostile threats to the country’s satellites. The Ministry of Defence announced the formation of No. III Space Effects Squadron on 23 September, describing it as the UK’s first unit dedicated to “disrupting, degrade, and deny hostile threats in space.” […]\nThe post UK Creates Space Effects Squadron to Protect Its Satellites appeared first on European Spaceflight.",
-    "published_at": "2026-09-28T13:33:49Z",
-    "updated_at": "2026-09-28T13:40:10.371331Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40120,
-    "title": "Contractor to Civil Servant: NASA Welcomes Kristie Foster",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/s26-011-kristie-foster.jpg",
-    "news_site": "NASA",
-    "summary": "Kristie Foster paved her road to becoming a NASA civil servant with literal miles of dedication. Her work at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, supports NASA’s mission to return American astronauts to the Moon, build a Moon Base for an enduring presence on the lunar surface, and ensure American leadership […]",
-    "published_at": "2026-09-28T13:00:00Z",
-    "updated_at": "2026-09-28T13:00:11.077371Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Kristie Foster paved her road to becoming a NASA civil servant with literal miles of dedication. Her work at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, supports NASA’s mission to return American astronauts to the Moon, build a Moon Base for an enduring presence on the lunar surface, and ensure American leadership […]"
-  },
-  {
-    "id": 40119,
-    "title": "One geology step closer to the Moon",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/astronauts_explore_ancient_volcano_in_lanzarote/27542460-1-eng-GB/Astronauts_explore_ancient_volcano_in_Lanzarote_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "As we prepare to return to the Moon, Europe’s leading geology training for astronauts PANGAEA celebrates its 10th anniversary turning extraordinary places on Earth into classrooms for space exploration.",
-    "published_at": "2026-09-28T12:03:00Z",
-    "updated_at": "2026-09-28T12:40:21.078182Z",
     "featured": false,
     "launches": [],
     "events": [],
