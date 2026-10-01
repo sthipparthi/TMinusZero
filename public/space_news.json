@@ -1,5 +1,105 @@
 [
   {
+    "id": 40181,
+    "title": "Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260930_Crew-13_Dragon_MC-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "NASA astronaut Jessica Watkins, will become the first agency astronaut to fly for a second time onboard a SpaceX Dragon spacecraft. Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Base is scheduled for 11:10 a.m. EDT (1510 UTC). ",
+    "published_at": "2026-10-01T02:03:53Z",
+    "updated_at": "2026-10-01T02:10:38.826653Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40180,
+    "title": "LTG David Miller Nominated as Next Leader of U.S. Space Command",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/ltg-david-miller-nominated-as-next-leader-of-u-s-space-command/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/09/LTG-David-Miller-Sept-2026-240x300.avif",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "U.S. Space Force Lieutenant General David Miller, Jr. has been nominated as the next Commander of U.S. Space Command, succeeding Gen. Stephen Whiting who will retire early next year. Yesterday, […]",
+    "published_at": "2026-10-01T01:13:53Z",
+    "updated_at": "2026-10-01T01:20:19.512562Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40179,
+    "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+    "authors": [
+      {
+        "name": "Galileo Space",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/galileo-logo-square-submission.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nGalileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can […]\nThe post Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit appeared first on SpaceNews.",
+    "published_at": "2026-10-01T00:24:08Z",
+    "updated_at": "2026-10-01T00:30:36.542833Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40178,
+    "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_msss_05016_mhli_5016MH0001930001804259R00_DXXX.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we’ve been seeing in our recent sulfate unit workspaces, suddenly we were looking […]",
+    "published_at": "2026-09-30T23:37:47Z",
+    "updated_at": "2026-09-30T23:40:12.760736Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40177,
+    "title": "Help Overlap Zoo Reveal Cosmic Dust",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/STScI-01GE08RNPH8RBMMGMC52JD3R93-Trevor_Butrum.jpg",
+    "news_site": "NASA",
+    "summary": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies […]",
+    "published_at": "2026-09-30T21:19:33Z",
+    "updated_at": "2026-09-30T21:50:15.710327Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40176,
     "title": "NASA Adds New Science Investigations for Moon Base",
     "authors": [
@@ -907,105 +1007,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 40132,
-    "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/misc--spacecraft-art/Swift_in_space_09.jpg",
-    "news_site": "NASA",
-    "summary": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
-    "published_at": "2026-09-28T17:44:33Z",
-    "updated_at": "2026-09-28T18:40:13.835568Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40129,
-    "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-san-marino-76-092526.jpg",
-    "news_site": "NASA",
-    "summary": "Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.  “Our momentum reflects a growing commitment to peaceful, responsible exploration and a shared understanding that the future in space will be shaped by those willing to lead,” […]",
-    "published_at": "2026-09-28T16:26:45Z",
-    "updated_at": "2026-09-28T16:30:15.776152Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40127,
-    "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-ii-crew.jpg",
-    "news_site": "NASA",
-    "summary": "The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft. It will be the first event in Houston for the public following their lunar mission earlier this year and marks […]",
-    "published_at": "2026-09-28T16:16:40Z",
-    "updated_at": "2026-09-28T16:20:08.322618Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft. It will be the first event in Houston for the public following their lunar mission earlier this year and marks […]"
-  },
-  {
-    "id": 40126,
-    "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/",
-    "image_url": "https://images-assets.nasa.gov/image/jsc2026e040445/jsc2026e040445~large.jpg",
-    "news_site": "NASA",
-    "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
-    "published_at": "2026-09-28T16:09:09Z",
-    "updated_at": "2026-09-28T16:10:16.447402Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory."
-  },
-  {
-    "id": 40125,
-    "title": "The large robotic arm on the International Space Station has stopped working",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/09/the-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k.jpg",
-    "news_site": "Arstechnica",
-    "summary": "NASA isn't saying much. The problem may be temporary.",
-    "published_at": "2026-09-28T16:03:50Z",
-    "updated_at": "2026-09-28T16:10:14.914040Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA isn't saying much. The problem may be temporary."
   }
 ]
