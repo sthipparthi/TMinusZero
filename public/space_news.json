@@ -1,5 +1,85 @@
 [
   {
+    "id": 40226,
+    "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20260828-admin-0031large.jpg",
+    "news_site": "NASA",
+    "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in […]",
+    "published_at": "2026-10-02T19:54:54Z",
+    "updated_at": "2026-10-02T20:00:41.094060Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40225,
+    "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions […]",
+    "published_at": "2026-10-02T19:30:00Z",
+    "updated_at": "2026-10-02T19:30:14.596010Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40224,
+    "title": "NASA’s DAVINCI Probe Can Stand the Heat",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/davinci-heat-test-1.jpg",
+    "news_site": "NASA",
+    "summary": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course […]",
+    "published_at": "2026-10-02T19:00:36Z",
+    "updated_at": "2026-10-02T19:10:05.916242Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40222,
+    "title": "US military ends long-running program to spot nuclear missile launches",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011.jpeg",
+    "news_site": "Arstechnica",
+    "summary": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
+    "published_at": "2026-10-02T17:32:14Z",
+    "updated_at": "2026-10-02T17:40:12.430641Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "A newer program has been operational since 2011, and the next generation could launch within 12 months."
+  },
+  {
     "id": 40221,
     "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
     "authors": [
@@ -14,6 +94,26 @@
     "summary": "Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro Espacial Johnson de la agencia, en Houston. Esta función es fundamental para reforzar el liderazgo […]",
     "published_at": "2026-10-02T16:36:25Z",
     "updated_at": "2026-10-02T16:40:12.530097Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40223,
+    "title": "NASA Campaign Explores Clouds Spawned by Wildfires",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/09/20260826-175244.jpg",
+    "news_site": "NASA",
+    "summary": "The Wildhorse grass fire in eastern Idaho erupted with a massive pulse of smoke. No one had expected it, but the wildfire had launched what’s known as a pyrocumulonimbus cloud, or pyroCb. It was an elusive weather phenomenon that scientists on NASA’s INSPYRE (INjected Smoke and PYRocumulonimbus Experiment) campaign spent weeks this summer hunting across […]",
+    "published_at": "2026-10-02T16:34:57Z",
+    "updated_at": "2026-10-02T17:40:14.347438Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -883,106 +983,6 @@
     "summary": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we’ve been seeing in our recent sulfate unit workspaces, suddenly we were looking […]",
     "published_at": "2026-09-30T23:37:47Z",
     "updated_at": "2026-09-30T23:40:12.760736Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40177,
-    "title": "Help Overlap Zoo Reveal Cosmic Dust",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/STScI-01GE08RNPH8RBMMGMC52JD3R93-Trevor_Butrum.jpg",
-    "news_site": "NASA",
-    "summary": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies […]",
-    "published_at": "2026-09-30T21:19:33Z",
-    "updated_at": "2026-09-30T21:50:15.710327Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40176,
-    "title": "NASA Adds New Science Investigations for Moon Base",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png",
-    "news_site": "NASA",
-    "summary": "NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies was selected through NASA’s Payloads and Research Investigations on the Surface of the Moon (PRISM) program and will […]",
-    "published_at": "2026-09-30T21:11:23Z",
-    "updated_at": "2026-09-30T21:20:11.545410Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40175,
-    "title": "Crew-13 astronauts set for launch to ISS after weeks of delays",
-    "authors": [
-      {
-        "name": "Sawyer Rosenstein",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/09/crew-13-launch/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/HTfJkaGXwAAn5W4.jpeg",
-    "news_site": "NASASpaceflight",
-    "summary": "One veteran astronaut and three first-time flyers are ready to begin a six-month mission to…\nThe post Crew-13 astronauts set for launch to ISS after weeks of delays appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-09-30T21:04:39Z",
-    "updated_at": "2026-09-30T21:10:14.832740Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "One veteran astronaut and three first-time flyers are ready to begin a six-month mission to…\nThe post Crew-13 astronauts set for launch to ISS after weeks of delays appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 40174,
-    "title": "NASA Awards Contract to Develop 5G Communications for Moon",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/cropped-nasa-meatball-1.jpg",
-    "news_site": "NASA",
-    "summary": "NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable, standards-based communications capability designed to […]",
-    "published_at": "2026-09-30T20:41:26Z",
-    "updated_at": "2026-09-30T20:50:10.766076Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40173,
-    "title": "NASA, International Partners Advance Work on Space Crops",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
-    "image_url": "https://images-assets.nasa.gov/image/KSC-20230417-PH-ILW01_0128/KSC-20230417-PH-ILW01_0128~large.jpg",
-    "news_site": "NASA",
-    "summary": "NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.",
-    "published_at": "2026-09-30T18:38:20Z",
-    "updated_at": "2026-09-30T18:50:14.037635Z",
     "featured": false,
     "launches": [],
     "events": [],
