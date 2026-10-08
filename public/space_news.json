@@ -1,5 +1,110 @@
 [
   {
+    "id": 40294,
+    "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_26_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_26_March_2022_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerous solar storms.",
+    "published_at": "2026-10-08T09:00:00Z",
+    "updated_at": "2026-10-08T09:28:41.003202Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "acdd0fab-b485-4c18-bb6f-c45cb62bdfd7",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40295,
+    "title": "The director’s take: telling Galileo’s story through film",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
+    "published_at": "2026-10-08T08:00:00Z",
+    "updated_at": "2026-10-08T11:51:19.528182Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40293,
+    "title": "Keeping the sky dark and quiet",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/one_hour_of_satellites_over_the_northern_atacama_desert_in_chile/27563255-1-eng-GB/One_hour_of_satellites_over_the_northern_Atacama_Desert_in_Chile_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "For thousands of years, the night sky has inspired humanity, guided explorers and helped scientists unlock the mysteries of the Universe. As the number of satellites in orbit grows, their reflected light and radio frequency interference become a challenge for both professional astronomy and simple stargazing.",
+    "published_at": "2026-10-08T08:00:00Z",
+    "updated_at": "2026-10-08T08:16:13.502853Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40290,
+    "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 October 8 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Saturn […]",
+    "published_at": "2026-10-08T04:05:00Z",
+    "updated_at": "2026-10-08T04:50:06.794444Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40289,
+    "title": "Fighting Drought in Texas Cotton Country",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg",
+    "news_site": "NASA",
+    "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
+    "published_at": "2026-10-08T04:01:00Z",
+    "updated_at": "2026-10-08T04:40:06.013400Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40287,
     "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
     "authors": [
@@ -160,6 +265,26 @@
     "detailed_news": ""
   },
   {
+    "id": 40292,
+    "title": "Géraldine Naja with the WIA-Europe award",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Geraldine_Naja_with_the_WIA-Europe_award",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/geraldine_naja_with_the_wia-europe_award/27562176-1-eng-GB/Geraldine_Naja_with_the_WIA-Europe_award_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-10-07T14:53:00Z",
+    "updated_at": "2026-10-08T07:30:19.428646Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40279,
     "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
     "authors": [
@@ -303,6 +428,31 @@
     "launches": [
       {
         "launch_id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40291,
+    "title": "Themis completes second fuelling rehearsal",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_completes_second_fuelling_rehearsal",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/themis_during_second_wet_dress_rehearsal/27560446-3-eng-GB/Themis_during_second_wet_dress_rehearsal_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "ESA’s Themis reusable rocket stage demonstrator successfully completed its second ‘wet dress rehearsal’ at Esrange Space Center in Sweden on 29 September, testing the vehicle and ground procedures under representative cryogenic conditions.",
+    "published_at": "2026-10-07T07:33:00Z",
+    "updated_at": "2026-10-08T07:50:03.145670Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
         "provider": "Launch Library 2"
       }
     ],
@@ -838,145 +988,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "On the heels of an impactful few days of launches from SpaceX, this week shapes…\nThe post Launch Preview: Flights from South Korea, China, USA planned for this week appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 40247,
-    "title": "Resource competition intensifies with surge in megaconstellations",
-    "authors": [
-      {
-        "name": "Hope Hodge Seck",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/spacex-odc.jpeg?fit=1024%2C623&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nAmazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering […]\nThe post Resource competition intensifies with surge in megaconstellations appeared first on SpaceNews.",
-    "published_at": "2026-10-05T19:13:40Z",
-    "updated_at": "2026-10-05T19:20:41.121030Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40246,
-    "title": "ESA at IAC 2026 – Day 1",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_direct_general_at_iac_2026/27557069-2-eng-GB/ESA_Direct_General_at_IAC_2026_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Stronger European capabilities and deeper international cooperation were at the heart of ESA’s first day at the 77th International Astronautical Congress (IAC) in Antalya, Türkiye. From exploration to the contribution of space to society, ESA Director General Josef Aschbacher underlined the importance of Europe becoming a stronger and more capable partner in a rapidly changing space environment.",
-    "published_at": "2026-10-05T18:28:00Z",
-    "updated_at": "2026-10-05T19:00:20.782881Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40245,
-    "title": "NASA Astronaut Christina Koch at Eagles vs. Rams",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg",
-    "news_site": "NASA",
-    "summary": "NASA astronaut and mission specialist of the agency’s Artemis II mission, Christina Koch, leads the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia. NASA’s engagement at NFL games is […]",
-    "published_at": "2026-10-05T17:42:56Z",
-    "updated_at": "2026-10-05T17:50:07.353872Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA astronaut and mission specialist of the agency’s Artemis II mission, Christina Koch, leads the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia. NASA’s engagement at NFL games is […]"
-  },
-  {
-    "id": 40243,
-    "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/",
-    "image_url": "https://images-assets.nasa.gov/image/GRC-2026-C-02774/GRC-2026-C-02774~large.jpg",
-    "news_site": "NASA",
-    "summary": "NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircraft encounter unusually large, very cold water droplets in clouds.   The problem, known as “supercooled large droplet icing,” occurs when aircraft fly through clouds containing unusually large drops of water that are […]",
-    "published_at": "2026-10-05T15:27:23Z",
-    "updated_at": "2026-10-05T15:30:08.049172Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40244,
-    "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/10/STScI-01M3CBK3T6SRKP4Q7WV9CGFGW9.jpg",
-    "news_site": "NASA",
-    "summary": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
-    "published_at": "2026-10-05T15:00:35Z",
-    "updated_at": "2026-10-05T15:50:06.767588Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40242,
-    "title": "Contacting NASA’s Langley Research Center",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/02/center-aerial-photo-2021.jpg",
-    "news_site": "NASA",
-    "summary": "By Mail: National Aeronautics and Space Administration Langley Research Center Hampton, VA  23681-2199 By Phone: Operator: (757) 864-1000 Public & Media Inquiries: larc-dl-public-inquiries@mail.nasa.gov Partnerships:larc-partnerships@mail.nasa.gov Educational Inquiries:Langley Office of Education (757) 864-6300 See also: NASA Learning Resources Visitors Center: Virginia Air & Space Science Center Telephone: (757) 727-0900",
-    "published_at": "2026-10-05T14:50:39Z",
-    "updated_at": "2026-10-05T15:00:09.999585Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "By Mail: National Aeronautics and Space Administration Langley Research Center Hampton, VA  23681-2199 By Phone: Operator: (757) 864-1000 Public & Media Inquiries: larc-dl-public-inquiries@mail.nasa.gov Partnerships:larc-partnerships@mail.nasa.gov Educational Inquiries:Langley Office of Education (757) 864-6300 See also: NASA Learning Resources Visitors Center: Virginia Air & Space Science Center Telephone: (757) 727-0900"
-  },
-  {
-    "id": 40240,
-    "title": "Second HyImpulse Suborbital SR75 Flight Slips to 2027",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Second-HyImpulse-Suborbital-SR75-Flight-Slips-to-2027-.webp",
-    "news_site": "European Spaceflight",
-    "summary": "German launch startup HyImpulse has pushed the second flight of its SR75 suborbital rocket into spring 2027. On 1 October, HyImpulse announced that it had secured a launch operator licence from the UK Civil Aviation Authority (CAA) to operate its SR75 rocket from SaxaVord in Scotland. With the announcement, the company said the rocket’s first […]\nThe post Second HyImpulse Suborbital SR75 Flight Slips to 2027 appeared first on European Spaceflight.",
-    "published_at": "2026-10-05T14:00:18Z",
-    "updated_at": "2026-10-05T14:10:23.573016Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
