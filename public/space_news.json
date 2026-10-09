@@ -1,5 +1,25 @@
 [
   {
+    "id": 40310,
+    "title": "Crew-12 Back on Earth as ISS Keeps Busy",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Crew12-splashdown-Keegan-300x200.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "NASA’s Crew-12 mission splashed down in the Pacific Ocean off the coast of California this morning, bringing the 237-day mission to an end. Their replacements on Crew-13 arrived a week […]",
+    "published_at": "2026-10-08T23:04:00Z",
+    "updated_at": "2026-10-08T23:10:25.485853Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40309,
     "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
     "authors": [
@@ -958,25 +978,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "\"The administrator's directive is a coherent and necessary vision for the future.\""
-  },
-  {
-    "id": 40260,
-    "title": "NASA’s Curiosity Rover Catches Stunning Martian Dawn",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.png",
-    "news_site": "NASA",
-    "summary": "A newly released panorama captured by NASA’s Curiosity rover offers the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close. The scene was snapped at 8:30 a.m. local Mars time, showing striking blue hues in the foreground as bright morning light illuminates […]",
-    "published_at": "2026-10-06T15:30:07Z",
-    "updated_at": "2026-10-06T15:40:19.074957Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "A newly released panorama captured by NASA’s Curiosity rover offers the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close. The scene was snapped at 8:30 a.m. local Mars time, showing striking blue hues in the foreground as bright morning light illuminates […]"
   }
 ]
