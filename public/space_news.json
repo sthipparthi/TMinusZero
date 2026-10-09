@@ -1,5 +1,90 @@
 [
   {
+    "id": 40314,
+    "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-1776275319.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
+    "published_at": "2026-10-09T11:00:57Z",
+    "updated_at": "2026-10-09T11:10:05.818885Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "\"I can say we’re weeks away from launching on Vulcan.\""
+  },
+  {
+    "id": 40313,
+    "title": "Earth from Space: Namibia’s biggest salt pan",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_namibia_s_biggest_salt_pan/27564541-1-eng-GB/Earth_from_Space_Namibia_s_biggest_salt_pan_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-10-09T08:00:00Z",
+    "updated_at": "2026-10-09T08:20:21.926248Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40311,
+    "title": "APOD: 2026 October 9 – Stickney Crater",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Stickney Crater Explanation: Stickney […]",
+    "published_at": "2026-10-09T04:05:00Z",
+    "updated_at": "2026-10-09T06:40:17.573273Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d23062f3-86d7-4b99-80f1-4c31cb07fcc0",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40312,
+    "title": "Floodwaters Overwhelm Thailand",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg",
+    "news_site": "NASA",
+    "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
+    "published_at": "2026-10-09T04:01:00Z",
+    "updated_at": "2026-10-09T06:24:57.985839Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40310,
     "title": "Crew-12 Back on Earth as ISS Keeps Busy",
     "authors": [
@@ -325,26 +410,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40295,
-    "title": "The director’s take: telling Galileo’s story through film",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
-    "published_at": "2026-10-08T08:00:00Z",
-    "updated_at": "2026-10-08T11:51:19.528182Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40293,
     "title": "Keeping the sky dark and quiet",
     "authors": [
@@ -359,6 +424,26 @@
     "summary": "For thousands of years, the night sky has inspired humanity, guided explorers and helped scientists unlock the mysteries of the Universe. As the number of satellites in orbit grows, their reflected light and radio frequency interference become a challenge for both professional astronomy and simple stargazing.",
     "published_at": "2026-10-08T08:00:00Z",
     "updated_at": "2026-10-08T08:16:13.502853Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40295,
+    "title": "The director’s take: telling Galileo’s story through film",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
+    "published_at": "2026-10-08T08:00:00Z",
+    "updated_at": "2026-10-08T11:51:19.528182Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -670,26 +755,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40278,
-    "title": "Finding Hera’s way: ESA’s Flight Dynamics team into action",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_card_full.gif",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
-    "published_at": "2026-10-07T08:03:00Z",
-    "updated_at": "2026-10-07T12:40:15.010887Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40288,
     "title": "Finding Hera’s way: Flight Dynamics team in action",
     "authors": [
@@ -704,6 +769,26 @@
     "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
     "published_at": "2026-10-07T08:03:00Z",
     "updated_at": "2026-10-08T00:20:23.244146Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40278,
+    "title": "Finding Hera’s way: ESA’s Flight Dynamics team into action",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_card_full.gif",
+    "news_site": "ESA",
+    "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
+    "published_at": "2026-10-07T08:03:00Z",
+    "updated_at": "2026-10-07T12:40:15.010887Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -898,85 +983,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 40266,
-    "title": "Lunar Grounding Challenge",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/feature-moonbase-img-2f4057.png",
-    "news_site": "NASA",
-    "summary": "As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate electric charge on the spacesuit. This problem is severely compounded when entering lunar shadows and Permanently Shadowed Regions (PSRs). In these dark zones, the spacesuit can buildup a substantial negative potential due […]",
-    "published_at": "2026-10-06T18:22:24Z",
-    "updated_at": "2026-10-06T18:30:11.852013Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate electric charge on the spacesuit. This problem is severely compounded when entering lunar shadows and Permanently Shadowed Regions (PSRs). In these dark zones, the spacesuit can buildup a substantial negative potential due […]"
-  },
-  {
-    "id": 40265,
-    "title": "NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the design and construction of the Aerospace Power Systems Laboratory. The principal purpose of this procurement is to deliver a laboratory facility to support the testing and development of power systems, with associated site work, infrastructure, and systems. The laboratory will provide modern […]",
-    "published_at": "2026-10-06T17:55:52Z",
-    "updated_at": "2026-10-06T18:00:16.931244Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40263,
-    "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg",
-    "news_site": "NASA",
-    "summary": "Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. This artist’s concept released on Oct. 5, 2026, depicts that possible explanation. The white dwarf is the “dead” core of a star that burned through all of its nuclear fuel and lost its outer […]",
-    "published_at": "2026-10-06T16:09:13Z",
-    "updated_at": "2026-10-06T16:10:15.796145Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. This artist’s concept released on Oct. 5, 2026, depicts that possible explanation. The white dwarf is the “dead” core of a star that burned through all of its nuclear fuel and lost its outer […]"
-  },
-  {
-    "id": 40262,
-    "title": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NASA-AMes.jpeg",
-    "news_site": "Arstechnica",
-    "summary": "\"The administrator's directive is a coherent and necessary vision for the future.\"",
-    "published_at": "2026-10-06T16:00:02Z",
-    "updated_at": "2026-10-06T16:00:28.618062Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "\"The administrator's directive is a coherent and necessary vision for the future.\""
   }
 ]
