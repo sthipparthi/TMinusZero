@@ -1,5 +1,65 @@
 [
   {
+    "id": 40357,
+    "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
+    "authors": [
+      {
+        "name": "Spaceflight Now",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East is scheduled for 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC). ",
+    "published_at": "2026-10-12T22:21:40Z",
+    "updated_at": "2026-10-12T22:30:36.655632Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40356,
+    "title": "CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/HUc3hl1WYAERB6z-scaled.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "The International Space Station, fresh off a crew handover and the return of Crew-12 to…\nThe post CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-10-12T21:08:32Z",
+    "updated_at": "2026-10-12T21:10:23.191679Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The International Space Station, fresh off a crew handover and the return of Crew-12 to…\nThe post CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 40355,
+    "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "news_site": "NASA",
+    "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through […]",
+    "published_at": "2026-10-12T17:45:27Z",
+    "updated_at": "2026-10-12T18:40:16.912989Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40353,
     "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
     "authors": [
@@ -14,6 +74,26 @@
     "summary": "\nMDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […]\nThe post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews.",
     "published_at": "2026-10-12T13:00:00Z",
     "updated_at": "2026-10-12T13:01:08.536855Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40354,
+    "title": "Welcome home, Sophie Adenot",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/welcome_home_sophie_adenot/27571908-1-eng-GB/Welcome_home_Sophie_Adenot_card_full.png",
+    "news_site": "ESA",
+    "summary": "After 237 days and over 3,700 orbits around Earth aboard the International Space Station, Sophie Adenot is back on Earth!",
+    "published_at": "2026-10-12T13:00:00Z",
+    "updated_at": "2026-10-12T14:10:18.126770Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -901,86 +981,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40295,
-    "title": "The director’s take: telling Galileo’s story through film",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
-    "published_at": "2026-10-08T08:00:00Z",
-    "updated_at": "2026-10-08T11:51:19.528182Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40293,
-    "title": "Keeping the sky dark and quiet",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/one_hour_of_satellites_over_the_northern_atacama_desert_in_chile/27563255-1-eng-GB/One_hour_of_satellites_over_the_northern_Atacama_Desert_in_Chile_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "For thousands of years, the night sky has inspired humanity, guided explorers and helped scientists unlock the mysteries of the Universe. As the number of satellites in orbit grows, their reflected light and radio frequency interference become a challenge for both professional astronomy and simple stargazing.",
-    "published_at": "2026-10-08T08:00:00Z",
-    "updated_at": "2026-10-08T08:16:13.502853Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40290,
-    "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 October 8 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Saturn […]",
-    "published_at": "2026-10-08T04:05:00Z",
-    "updated_at": "2026-10-08T04:50:06.794444Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40289,
-    "title": "Fighting Drought in Texas Cotton Country",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg",
-    "news_site": "NASA",
-    "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
-    "published_at": "2026-10-08T04:01:00Z",
-    "updated_at": "2026-10-08T04:40:06.013400Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
