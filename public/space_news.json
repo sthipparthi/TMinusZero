@@ -1,5 +1,180 @@
 [
   {
+    "id": 40353,
+    "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+    "authors": [
+      {
+        "name": "Jena-Optronik",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nMDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […]\nThe post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews.",
+    "published_at": "2026-10-12T13:00:00Z",
+    "updated_at": "2026-10-12T13:01:08.536855Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40350,
+    "title": "ExoMars rover twin rehearses first drive",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mars_rover_rolls_down_the_ramp/27567393-1-eng-GB/Mars_rover_rolls_down_the_ramp_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Before the Rosalind Franklin rover can explore Mars, it must first get off its lander.",
+    "published_at": "2026-10-12T09:30:00Z",
+    "updated_at": "2026-10-12T12:03:37.831677Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40349,
+    "title": "Preparing for a first drive on Mars",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/preparing_for_a_first_drive_on_mars/27569566-1-eng-GB/Preparing_for_a_first_drive_on_Mars_card_full.png",
+    "news_site": "ESA",
+    "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
+    "published_at": "2026-10-12T09:00:00Z",
+    "updated_at": "2026-10-12T12:04:24.433419Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40348,
+    "title": "Rolling onto Mars - testing a rover’s lander",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/rolling_onto_mars_-_testing_a_rover_s_lander/27569566-1-eng-GB/Rolling_onto_Mars_-_testing_a_rover_s_lander_card_full.png",
+    "news_site": "ESA",
+    "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
+    "published_at": "2026-10-12T09:00:00Z",
+    "updated_at": "2026-10-12T09:48:32.980327Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40351,
+    "title": "NovaMoon mission patch",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/NovaMoon_mission_patch",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-10-12T07:38:00Z",
+    "updated_at": "2026-10-12T12:50:18.839971Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40352,
+    "title": "Introducing NovaMoon",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Introducing_NovaMoon",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
+    "news_site": "ESA",
+    "summary": "The European Space Agency’s (ESA) NovaMoon mission will improve positioning, navigation and timing (PNT) services on the Moon. It will help rovers, landers and astronauts navigate on the Moon like cars, planes and pedestrians navigate on Earth. ",
+    "published_at": "2026-10-12T07:11:00Z",
+    "updated_at": "2026-10-12T12:50:18.854986Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40347,
+    "title": "APOD: 2026 October 12 – Jupiter and the Moons",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/JupiterMoons_Upreti_3105.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Jupiter and the […]",
+    "published_at": "2026-10-12T04:05:00Z",
+    "updated_at": "2026-10-12T06:15:01.226037Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40346,
+    "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914.jpg",
+    "news_site": "NASA",
+    "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
+    "published_at": "2026-10-12T04:00:00Z",
+    "updated_at": "2026-10-12T06:15:09.958295Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40345,
     "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
     "authors": [
@@ -705,26 +880,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40332,
-    "title": "3D-printed metal: unlocking crew autonomy",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://new.esa.int/articles/3d-printed-metal-unlocking-crew-autonomy",
-    "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-10-08T10:34:36Z",
-    "updated_at": "2026-10-09T21:00:28.440758Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40294,
     "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
     "authors": [
@@ -824,146 +979,6 @@
     "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
     "published_at": "2026-10-08T04:01:00Z",
     "updated_at": "2026-10-08T04:40:06.013400Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40287,
-    "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg",
-    "news_site": "NASA",
-    "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will […]",
-    "published_at": "2026-10-07T21:16:42Z",
-    "updated_at": "2026-10-07T21:20:09.623558Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40285,
-    "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-falcon9-dragon.png",
-    "news_site": "NASA",
-    "summary": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
-    "published_at": "2026-10-07T20:17:16Z",
-    "updated_at": "2026-10-07T20:20:24.537932Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40286,
-    "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26355/PIA26355.jpg",
-    "news_site": "NASA",
-    "summary": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. By observing far-infrared light, PRIMA will enable scientists to study cosmic […]",
-    "published_at": "2026-10-07T20:15:49Z",
-    "updated_at": "2026-10-07T20:50:21.791489Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40283,
-    "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26781/PIA26781.png",
-    "news_site": "NASA",
-    "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer […]",
-    "published_at": "2026-10-07T17:00:47Z",
-    "updated_at": "2026-10-07T17:50:19.250823Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40284,
-    "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia25/pia25629/PIA25629.png",
-    "news_site": "NASA",
-    "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yardangs. Since 2014, Curiosity […]",
-    "published_at": "2026-10-07T16:49:50Z",
-    "updated_at": "2026-10-07T17:50:19.374665Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40282,
-    "title": "Artemis II Crew Moon Photo Annotations",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg",
-    "news_site": "NASA",
-    "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their locations, which […]",
-    "published_at": "2026-10-07T15:44:59Z",
-    "updated_at": "2026-10-07T15:50:16.642436Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40280,
-    "title": "Mars’s oddest cloud may be even odder than we thought",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_arsia_mons_elongated_cloud_as_seen_by_mars_express/27546706-1-eng-GB/The_Arsia_Mons_Elongated_Cloud_as_seen_by_Mars_Express_card_full.png",
-    "news_site": "ESA",
-    "summary": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
-    "published_at": "2026-10-07T15:00:00Z",
-    "updated_at": "2026-10-07T15:00:50.125487Z",
     "featured": false,
     "launches": [],
     "events": [],
