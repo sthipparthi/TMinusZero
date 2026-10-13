@@ -1,5 +1,210 @@
 [
   {
+    "id": 40367,
+    "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png",
+    "news_site": "NASA",
+    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
+    "published_at": "2026-10-13T15:02:21Z",
+    "updated_at": "2026-10-13T15:10:10.096553Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40366,
+    "title": "SpaceX launches NASA science and cargo to the International Space Station",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
+    "news_site": "Spaceflight Now",
+    "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA. ",
+    "published_at": "2026-10-13T14:07:50Z",
+    "updated_at": "2026-10-13T14:10:34.159779Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40365,
+    "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg",
+    "news_site": "NASA",
+    "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense shaking and ear-splitting […]",
+    "published_at": "2026-10-13T13:00:00Z",
+    "updated_at": "2026-10-13T13:00:19.793436Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40364,
+    "title": "Mars moon lander set to launch on 19 October",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
+    "news_site": "ESA",
+    "summary": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth.",
+    "published_at": "2026-10-13T12:00:00Z",
+    "updated_at": "2026-10-13T13:06:48.500854Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40363,
+    "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-spacex-35th-commercial-resupply-services-launch.png",
+    "news_site": "NASA",
+    "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch, the SpaceX Dragon spacecraft will […]",
+    "published_at": "2026-10-13T11:12:18Z",
+    "updated_at": "2026-10-13T13:07:09.520340Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40362,
+    "title": "Press conference: ESA astronaut Sophie Adenot returns to Europe",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/press_conference_esa_astronaut_sophie_adenot_returns_to_europe/27575398-1-eng-GB/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "ESA astronaut Sophie Adenot has returned to Europe following her 237-day εpsilon mission aboard the International Space Station. A press conference with Sophie and Director of Human and Robotic Exploration Daniel Neuenschwander took place on 13 October 2026 at 11:00 CEST in Cologne, Germany.",
+    "published_at": "2026-10-13T10:20:00Z",
+    "updated_at": "2026-10-13T13:05:47.416697Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [
+      {
+        "event_id": 1559,
+        "provider": "Launch Library 2"
+      }
+    ],
+    "detailed_news": ""
+  },
+  {
+    "id": 40361,
+    "title": "Norway Details Funding Allocation for Second Andøya Launch Pad",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norway-Details-Funding-Allocation-for-Second-Andoya-Launch-Pad-.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The Norwegian government has detailed plans to finance a second orbital launch pad at Andøya Spaceport, an initiative the country’s Minister of Trade and Industry first announced on 30 September. In its proposed state budget, published on 7 October, the government allocated NOK 323.3 million (€30 million) towards the project in 2027. NOK 223.5 million […]\nThe post Norway Details Funding Allocation for Second Andøya Launch Pad appeared first on European Spaceflight.",
+    "published_at": "2026-10-13T06:32:20Z",
+    "updated_at": "2026-10-13T06:40:13.211324Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40360,
+    "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 October 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Desert Stairway […]",
+    "published_at": "2026-10-13T04:05:00Z",
+    "updated_at": "2026-10-13T04:50:15.209849Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40359,
+    "title": "An Impact Structure With Legs",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg",
+    "news_site": "NASA",
+    "summary": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.",
+    "published_at": "2026-10-13T04:01:00Z",
+    "updated_at": "2026-10-13T09:28:41.606066Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "f8a96988-9ba4-4480-84c4-496492e67e23",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40358,
     "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
     "authors": [
@@ -794,186 +999,6 @@
     "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant […]",
     "published_at": "2026-10-08T18:22:48Z",
     "updated_at": "2026-10-08T18:30:26.830682Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40304,
-    "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01KKCJGBWX6TE4ABRTFWE9B8SQ.jpg",
-    "news_site": "NASA",
-    "summary": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy of the most distant fast radio burst (FRB) seen to date. Their […]",
-    "published_at": "2026-10-08T18:00:00Z",
-    "updated_at": "2026-10-08T18:50:19.400222Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40302,
-    "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/crew12splashdown1.jpg",
-    "news_site": "NASA",
-    "summary": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m. EDT, Thursday, Oct. 15, at the agency’s Johnson Space Center in Houston. […]",
-    "published_at": "2026-10-08T17:02:28Z",
-    "updated_at": "2026-10-08T17:10:19.809457Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40307,
-    "title": "Splashdown confirmed for Sophie Adenot",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/crew-12_returning_back_to_earth/27565951-1-eng-GB/Crew-12_returning_back_to_Earth_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA astronaut Sophie Adenot returned to Earth with Crew-12 after her nearly eight-month εpsilon mission to the International Space Station, splashing down off the coast of California, USA, at 15:34 GMT/17:34 CEST on 8 October 2026. ",
-    "published_at": "2026-10-08T16:51:00Z",
-    "updated_at": "2026-10-08T19:00:26.849893Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40300,
-    "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-doe-mou-release-smaller-image-oct-8.jpg",
-    "news_site": "NASA",
-    "summary": "As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies will supercharge civil space exploration, unlock bold scientific discovery, and solidify American leadership in space nuclear power and propulsion.  “We are entering the ‘Nuclear NASA-era,’ […]",
-    "published_at": "2026-10-08T15:46:25Z",
-    "updated_at": "2026-10-08T15:50:18.447146Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40301,
-    "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lisa/news/2026/l3harris-award-for-test-telescope/LISA_key_visual_ESA_lg_ac.jpg",
-    "news_site": "NASA",
-    "summary": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents […]",
-    "published_at": "2026-10-08T15:31:24Z",
-    "updated_at": "2026-10-08T15:50:18.484052Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40299,
-    "title": "Amazon builds 1,000th satellite, is weeks away from space Internet rollout",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Satellite-1000.png",
-    "news_site": "Arstechnica",
-    "summary": "\"If this was easy, everybody else would be doing it.\"",
-    "published_at": "2026-10-08T15:28:36Z",
-    "updated_at": "2026-10-08T15:40:17.685454Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "\"If this was easy, everybody else would be doing it.\""
-  },
-  {
-    "id": 40298,
-    "title": "The Exploration Company to Test Lunar Hopper Demonstrator in 2027",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/the-exploration-company-to-test-lunar-hopper-demonstrator-in-2027/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/The-Exploration-Company-to-Test-Lunar-Hopper-Demonstrator-in-2027.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The Exploration Company has announced it will test a lunar hopper demonstrator called ONEIROS in the United Arab Emirates in 2027. ONEIROS is a privately funded initiative focused on validating technologies that could eventually support lower-cost access to the lunar surface. The company plans to build a one-tonne demonstrator that will use a throttleable methane-fuelled […]\nThe post The Exploration Company to Test Lunar Hopper Demonstrator in 2027 appeared first on European Spaceflight.",
-    "published_at": "2026-10-08T14:48:33Z",
-    "updated_at": "2026-10-08T14:50:21.940588Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40297,
-    "title": "What will it take to build a moon base?",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-jhu-moon-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […]\nThe post What will it take to build a moon base? appeared first on SpaceNews.",
-    "published_at": "2026-10-08T13:57:38Z",
-    "updated_at": "2026-10-08T14:00:52.506689Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40296,
-    "title": "Sentinel-3C returns its first views of Earth",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/italy_and_beyond_imaged_by_sentinel-3c/27561379-1-eng-GB/Italy_and_beyond_imaged_by_Sentinel-3C_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key instruments – a major milestone that confirms the satellite is working well and on the road to monitoring the health of Earth’s oceans, land, cryosphere and atmosphere.",
-    "published_at": "2026-10-08T12:25:00Z",
-    "updated_at": "2026-10-08T12:50:24.486196Z",
     "featured": false,
     "launches": [],
     "events": [],
