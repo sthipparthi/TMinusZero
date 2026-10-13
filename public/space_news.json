@@ -1,5 +1,25 @@
 [
   {
+    "id": 40358,
+    "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight. ",
+    "published_at": "2026-10-13T01:19:30Z",
+    "updated_at": "2026-10-13T01:20:29.647012Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40357,
     "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
     "authors": [
@@ -125,31 +145,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40349,
-    "title": "Preparing for a first drive on Mars",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/preparing_for_a_first_drive_on_mars/27569566-1-eng-GB/Preparing_for_a_first_drive_on_Mars_card_full.png",
-    "news_site": "ESA",
-    "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
-    "published_at": "2026-10-12T09:00:00Z",
-    "updated_at": "2026-10-12T12:04:24.433419Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40348,
     "title": "Rolling onto Mars - testing a rover’s lander",
     "authors": [
@@ -164,6 +159,31 @@
     "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
     "published_at": "2026-10-12T09:00:00Z",
     "updated_at": "2026-10-12T09:48:32.980327Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40349,
+    "title": "Preparing for a first drive on Mars",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/preparing_for_a_first_drive_on_mars/27569566-1-eng-GB/Preparing_for_a_first_drive_on_Mars_card_full.png",
+    "news_site": "ESA",
+    "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
+    "published_at": "2026-10-12T09:00:00Z",
+    "updated_at": "2026-10-12T12:04:24.433419Z",
     "featured": false,
     "launches": [
       {
@@ -956,31 +976,6 @@
     "updated_at": "2026-10-08T12:50:24.486196Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40294,
-    "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_26_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_26_March_2022_card_full.png",
-    "news_site": "ESA",
-    "summary": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerous solar storms.",
-    "published_at": "2026-10-08T09:00:00Z",
-    "updated_at": "2026-10-08T09:28:41.003202Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "acdd0fab-b485-4c18-bb6f-c45cb62bdfd7",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
