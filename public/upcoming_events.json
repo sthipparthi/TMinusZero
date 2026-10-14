@@ -1,6 +1,6 @@
 {
-  "count": 6,
-  "last_updated": "2026-10-14T10:45:24.303459Z",
+  "count": 5,
+  "last_updated": "2026-10-14T16:04:50.396728Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (6 failed/unavailable)"
+    "Empty AI summaries (5 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "dfcabb3c-078b-4f5b-a47c-0161f248cee9",
-      "name": "Zhuque-2E | Unknown Payload",
-      "status": "Go",
-      "net": "2026-10-14T11:40:00Z",
-      "window_start": "2026-10-14T11:33:00Z",
-      "window_end": "2026-10-14T12:19:00Z",
-      "lsp_name": "LandSpace",
-      "lsp_description": "LandSpace is a Chinese private space launch company based in Beijing. It was founded in 2015 by Tsinghua University alumni Zhang Changwu.",
-      "lsp_type": "Commercial",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/landspace_logo_20220822100731.png",
-      "mission_name": "Unknown Payload",
-      "mission_description": "Details TBD.",
-      "mission_type": "Unknown",
-      "orbit": "Unknown",
-      "launch_site": "Launch Area 96A, Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 96A",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Zhuque-2E",
-      "rocket_config_description": "Zhuque-2E (E stands for “enhanced”) is a medium-sized rocket powered by liquid oxygen and methane capable of lifting 6,000 kg of payload into a 200 km low Earth orbit, or 4,000 kg of payload into a 500 km Sun-synchronous orbit. It differs from the baseline Zhuque-2 in using enhanced TQ-12A engines on the 1st stage with higher thrust and specific impulse than the original TQ-12, and a new TQ-15A engine on the 2nd stage that has a moveable nozzle.",
-      "rocket_config_family": "Zhuque",
-      "rocket_config_full_name": "Zhuque-2E",
-      "rocket_config_total_launch_count": 3,
-      "rocket_config_successful_launches": 2,
-      "rocket_config_failed_launches": 1,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "LandSpace",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "LandSpace is a Chinese private space launch company based in Beijing. It was founded in 2015 by Tsinghua University alumni Zhang Changwu.",
-      "rocket_manufacturer_total_launch_count": 12,
-      "rocket_manufacturer_successful_launches": 9,
-      "rocket_manufacturer_failed_launches": 3,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhunque_2e_on_t_image_20241216101643.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/dfcabb3c-078b-4f5b-a47c-0161f248cee9/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "df88cfbf-f504-4e11-8370-e33dd6280b5b",
       "name": "Falcon 9 Block 5 | USSF-481",
@@ -296,7 +255,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 6,
-    "total_launches": 6
+    "empty_summaries": 5,
+    "total_launches": 5
   }
 }
