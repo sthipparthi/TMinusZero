@@ -1,5 +1,65 @@
 [
   {
+    "id": 40387,
+    "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+    "image_url": "https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg",
+    "news_site": "NASA",
+    "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]",
+    "published_at": "2026-10-14T20:13:29Z",
+    "updated_at": "2026-10-14T20:20:08.674083Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40386,
+    "title": "NASA Astronauts to Answer Questions from Florida Students",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg",
+    "news_site": "NASA",
+    "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Sally Ride Elementary School […]",
+    "published_at": "2026-10-14T19:12:51Z",
+    "updated_at": "2026-10-14T19:20:08.072074Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Sally Ride Elementary School […]"
+  },
+  {
+    "id": 40385,
+    "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/trebleclef.jpg",
+    "news_site": "NASA",
+    "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
+    "published_at": "2026-10-14T16:46:58Z",
+    "updated_at": "2026-10-14T17:40:11.302220Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40375,
     "title": "NASA’s Space X CRS-35 Launch Jellyfish",
     "authors": [
@@ -938,65 +998,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 40339,
-    "title": "APOD: 2026 October 10 – Lunar Farside",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally […]",
-    "published_at": "2026-10-10T04:05:00Z",
-    "updated_at": "2026-10-10T04:50:06.527537Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40338,
-    "title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency",
-    "authors": [
-      {
-        "name": "Spaceflight Now",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261009-SDA-Fairing.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation is scheduled for 12:39 a.m. PDT (3:39 EDT / 0739 UTC). ",
-    "published_at": "2026-10-09T21:41:30Z",
-    "updated_at": "2026-10-09T21:50:28.448265Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40337,
-    "title": "NASA issues long-awaited call to industry for private space stations",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
-    "published_at": "2026-10-09T21:34:09Z",
-    "updated_at": "2026-10-09T21:40:09.588614Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\""
   }
 ]
