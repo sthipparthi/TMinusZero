@@ -1,5 +1,110 @@
 [
   {
+    "id": 40399,
+    "title": "How NASA is thinking about a moon base",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-NASA-moon-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nIn this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […]\nThe post How NASA is thinking about a moon base appeared first on SpaceNews.",
+    "published_at": "2026-10-15T15:14:24Z",
+    "updated_at": "2026-10-15T15:20:32.926816Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40398,
+    "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/combineda1anda2-heatshield4k.jpg",
+    "news_site": "NASA",
+    "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection […]",
+    "published_at": "2026-10-15T14:57:21Z",
+    "updated_at": "2026-10-15T15:00:36.738200Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40397,
+    "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg",
+    "news_site": "NASA",
+    "summary": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. […]",
+    "published_at": "2026-10-15T14:19:06Z",
+    "updated_at": "2026-10-15T14:20:13.529208Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40395,
+    "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
+    "authors": [
+      {
+        "name": "Agile Space Industries",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nBELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […]\nThe post Agile Space Industries Expands to Seattle Area with New Bellevue Office appeared first on SpaceNews.",
+    "published_at": "2026-10-15T12:00:00Z",
+    "updated_at": "2026-10-15T12:01:26.484594Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40394,
+    "title": "Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Arianespace-Targets-23-Nov-Ariane-6-Return-Following-Reported-Turbopump-Fix.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Arianespace has announced that the next Ariane 6 launch will take place no earlier than 23 November, marking the rocket’s return to flight after ground testing reportedly revealed an issue with one of its turbopumps. The flight will carry 36 Amazon Leo satellites aboard an Ariane 64, the rocket’s four-booster configuration. It will be the […]\r\nThe post Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix appeared first on European Spaceflight.",
+    "published_at": "2026-10-15T10:50:18Z",
+    "updated_at": "2026-10-15T11:39:16.939228Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "7bdc412b-c965-4517-a131-f57a01189803",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40393,
     "title": "Trace Gas Orbiter — Facts and figures",
     "authors": [
@@ -34,6 +139,26 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-10-15T09:24:00Z",
     "updated_at": "2026-10-15T09:40:17.411089Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40396,
+    "title": "Act for more sustainable space",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Act_for_more_sustainable_space",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/08/vega_soars_to_space2/23431752-2-eng-GB/Vega_soars_to_space_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-10-15T07:57:00Z",
+    "updated_at": "2026-10-15T14:00:33.711440Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -294,26 +419,6 @@
     "summary": "The Dragon spacecraft will bring around 6,300 lbs of supplies, equipment, and human health experiments to the Expedition 75/76 crew.",
     "published_at": "2026-10-14T11:54:49Z",
     "updated_at": "2026-10-14T12:00:34.709863Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40371,
-    "title": "Earth Today, Jupiter Tomorrow: An insight into Juice’s recent Earth flyby",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Enabling_Support/Operations/Earth_Today_Jupiter_Tomorrow_An_insight_into_Juice_s_recent_Earth_flyby",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/juice_navigation_camera_images_of_the_moon/27577031-1-eng-GB/Juice_navigation_camera_images_of_the_Moon_card_full.gif",
-    "news_site": "ESA",
-    "summary": "On 28 September, ESA’s Juice mission reached another important Jupiter-bound milestone with its penultimate gravity assist manoeuvre: a flyby of Earth. This encounter, however, was not only an essential step on the road to Jupiter, but an opportunity to rehearse the observations and operations that will define Juice’s exploration of the Jovian system.  ",
-    "published_at": "2026-10-14T08:25:00Z",
-    "updated_at": "2026-10-14T12:50:21.396352Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -805,26 +910,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40353,
-    "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
-    "authors": [
-      {
-        "name": "Jena-Optronik",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nMDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […]\nThe post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews.",
-    "published_at": "2026-10-12T13:00:00Z",
-    "updated_at": "2026-10-12T13:01:08.536855Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40354,
     "title": "Welcome home, Sophie Adenot",
     "authors": [
@@ -839,6 +924,26 @@
     "summary": "After 237 days and over 3,700 orbits around Earth aboard the International Space Station, Sophie Adenot is back on Earth!",
     "published_at": "2026-10-12T13:00:00Z",
     "updated_at": "2026-10-12T14:10:18.126770Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40353,
+    "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+    "authors": [
+      {
+        "name": "Jena-Optronik",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nMDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […]\nThe post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews.",
+    "published_at": "2026-10-12T13:00:00Z",
+    "updated_at": "2026-10-12T13:01:08.536855Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -891,111 +996,6 @@
         "provider": "Launch Library 2"
       }
     ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40348,
-    "title": "Rolling onto Mars - testing a rover’s lander",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/rolling_onto_mars_-_testing_a_rover_s_lander/27569566-1-eng-GB/Rolling_onto_Mars_-_testing_a_rover_s_lander_card_full.png",
-    "news_site": "ESA",
-    "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
-    "published_at": "2026-10-12T09:00:00Z",
-    "updated_at": "2026-10-12T09:48:32.980327Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40351,
-    "title": "NovaMoon mission patch",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/NovaMoon_mission_patch",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-10-12T07:38:00Z",
-    "updated_at": "2026-10-12T12:50:18.839971Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40352,
-    "title": "Introducing NovaMoon",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Introducing_NovaMoon",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
-    "news_site": "ESA",
-    "summary": "The European Space Agency’s (ESA) NovaMoon mission will improve positioning, navigation and timing (PNT) services on the Moon. It will help rovers, landers and astronauts navigate on the Moon like cars, planes and pedestrians navigate on Earth. ",
-    "published_at": "2026-10-12T07:11:00Z",
-    "updated_at": "2026-10-12T12:50:18.854986Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40347,
-    "title": "APOD: 2026 October 12 – Jupiter and the Moons",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/JupiterMoons_Upreti_3105.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Jupiter and the […]",
-    "published_at": "2026-10-12T04:05:00Z",
-    "updated_at": "2026-10-12T06:15:01.226037Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40346,
-    "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914.jpg",
-    "news_site": "NASA",
-    "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
-    "published_at": "2026-10-12T04:00:00Z",
-    "updated_at": "2026-10-12T06:15:09.958295Z",
-    "featured": false,
-    "launches": [],
     "events": [],
     "detailed_news": ""
   }
