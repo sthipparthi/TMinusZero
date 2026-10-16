@@ -1,5 +1,85 @@
 [
   {
+    "id": 40420,
+    "title": "I Am Artemis: Allison Mjoen",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261013-ph-ajn01-0029.jpg",
+    "news_site": "NASA",
+    "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems program, helped shape the systems and ground operations that will one day send humans back to […]",
+    "published_at": "2026-10-16T14:24:29Z",
+    "updated_at": "2026-10-16T14:30:13.727443Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40418,
+    "title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate",
+    "authors": [
+      {
+        "name": "Will Robinson-Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/",
+    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png",
+    "news_site": "Spaceflight Now",
+    "summary": "The launch infrastructure improvements also include a substantial manufacturing expansion at Rocket Park and the addition of new landing barges. ",
+    "published_at": "2026-10-16T13:17:28Z",
+    "updated_at": "2026-10-16T13:20:54.755856Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40416,
+    "title": "UK to Award £25M Space Surveillance Radar Contract in July 2027",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/uk-to-award-25m-space-surveillance-radar-contract-in-july-2027/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/UK-to-Award-25M-Space-Surveillance-Radar-Contract-in-July-2027.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The UK Space Agency (UKSA) is expected to award a £25 million contract for a ground-based space surveillance radar in July 2027. The call, published in late September, follows several changes to the government’s procurement plans for the installation. According to the call, the contract will cover the development and manufacture of a high-power radar […]\nThe post UK to Award £25M Space Surveillance Radar Contract in July 2027 appeared first on European Spaceflight.",
+    "published_at": "2026-10-16T12:54:52Z",
+    "updated_at": "2026-10-16T13:00:18.632488Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40419,
+    "title": "NASA’s Hubble Spies Spiral’s Edge",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1827_1_flat_FINAL.jpg",
+    "news_site": "NASA",
+    "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+    "published_at": "2026-10-16T12:42:08Z",
+    "updated_at": "2026-10-16T13:40:06.459786Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40413,
     "title": "Blue Origin is going all in on the New Glenn rocket",
     "authors": [
@@ -274,6 +354,26 @@
     "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million […]",
     "published_at": "2026-10-15T15:57:47Z",
     "updated_at": "2026-10-15T16:00:33.441915Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40414,
+    "title": "New NAVISP activities support resilient transportation in Europe",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/New_NAVISP_activities_support_resilient_transportation_in_Europe",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/group_photo_from_navisp_industry_days_2026/27579774-1-eng-GB/Group_photo_from_NAVISP_Industry_Days_2026_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "On 14 October, at the NAVISP Industry Days in Rome, Italy, the European Space Agency (ESA) signed new contracts with three European companies that will support the development of innovative technologies for resilient rail transportation and aviation.",
+    "published_at": "2026-10-15T15:49:00Z",
+    "updated_at": "2026-10-16T12:20:36.830900Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -859,106 +959,6 @@
     "summary": "Description Members of NASA’s Perseverance Mars mission team gather in the Mars Yard at the agency’s Jet Propulsion Laboratory in Southern California with a certificate from Guinness World Records marking the rover distance record on the Red Planet. Positioned in front of the team is OPTIMISM (Operational Perseverance Twin for Integration of Mechanisms and Instruments […]",
     "published_at": "2026-10-13T17:48:46Z",
     "updated_at": "2026-10-14T15:20:35.028420Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40383,
-    "title": "Perseverance Navcam Image Marks Record Drive",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26812/PIA26812.png",
-    "news_site": "NASA",
-    "summary": "Description Rover tracks and a rocky Martian landscape are shown in this image captured by one of the navigation cameras (navcams) aboard NASA’s Perseverance Mars rover on Oct. 11, 2026, the 2,006th Martian day, or sol, of the mission. During that sol’s drive, spanning 299.6 feet (91.31 meters), the mission passed a major milestone: pushing Perseverance’s total […]",
-    "published_at": "2026-10-13T17:42:51Z",
-    "updated_at": "2026-10-14T15:20:35.073874Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40384,
-    "title": "Transporter-18 SmallSats Encapsulation",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg",
-    "news_site": "NASA",
-    "summary": "Three NASA-supported small spacecraft, along with many commercial payloads, are shown before being encapsulated in a SpaceX Falcon 9 ahead of launch on Oct. 1, 2026. The ASCENT Propulsion Dual Mode CubeSat, the Supernova Remnants and Proxies for ReIonization Testbed Experiment (SPRITE) CubeSat, and the Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission will demonstrate […]",
-    "published_at": "2026-10-13T17:38:37Z",
-    "updated_at": "2026-10-14T15:20:35.174751Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40367,
-    "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png",
-    "news_site": "NASA",
-    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
-    "published_at": "2026-10-13T15:02:21Z",
-    "updated_at": "2026-10-13T15:10:10.096553Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40366,
-    "title": "SpaceX launches NASA science and cargo to the International Space Station",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
-    "news_site": "Spaceflight Now",
-    "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA. ",
-    "published_at": "2026-10-13T14:07:50Z",
-    "updated_at": "2026-10-13T14:10:34.159779Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40365,
-    "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg",
-    "news_site": "NASA",
-    "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense shaking and ear-splitting […]",
-    "published_at": "2026-10-13T13:00:00Z",
-    "updated_at": "2026-10-13T13:00:19.793436Z",
     "featured": false,
     "launches": [],
     "events": [],
