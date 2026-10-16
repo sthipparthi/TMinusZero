@@ -1,5 +1,65 @@
 [
   {
+    "id": 40408,
+    "title": "JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Mars-Phobos-Deimos-NASA-300x154.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The Japan Aerospace Exploration Agency (JAXA) is getting ready to launch its Martian Moons eXploration mission early next week. The spacecraft will collect samples of Phobos, one of the moons […]",
+    "published_at": "2026-10-16T00:14:30Z",
+    "updated_at": "2026-10-16T01:10:36.693996Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40407,
+    "title": "Oct. 29: Applying AI to the GEOINT Mission",
+    "authors": [
+      {
+        "name": "SpaceNews Editor",
+        "socials": null
+      }
+    ],
+    "url": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nJoin us for a conversation on how machine learning is transforming the GEOINT mission across different markets\nThe post Oct. 29: Applying AI to the GEOINT Mission appeared first on SpaceNews.",
+    "published_at": "2026-10-15T20:41:50Z",
+    "updated_at": "2026-10-15T20:50:17.562209Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40406,
+    "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png",
+    "news_site": "NASA",
+    "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample […]",
+    "published_at": "2026-10-15T19:58:08Z",
+    "updated_at": "2026-10-15T20:50:06.390632Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40405,
     "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
     "authors": [
@@ -919,71 +979,6 @@
     "summary": "APOD Science APOD APOD: 2026 October 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Desert Stairway […]",
     "published_at": "2026-10-13T04:05:00Z",
     "updated_at": "2026-10-13T04:50:15.209849Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40359,
-    "title": "An Impact Structure With Legs",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg",
-    "news_site": "NASA",
-    "summary": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.",
-    "published_at": "2026-10-13T04:01:00Z",
-    "updated_at": "2026-10-13T09:28:41.606066Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "f8a96988-9ba4-4480-84c4-496492e67e23",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40358,
-    "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
-    "authors": [
-      {
-        "name": "Will Robinson-Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight. ",
-    "published_at": "2026-10-13T01:19:30Z",
-    "updated_at": "2026-10-13T01:20:29.647012Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40357,
-    "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
-    "authors": [
-      {
-        "name": "Spaceflight Now",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East is scheduled for 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC). ",
-    "published_at": "2026-10-12T22:21:40Z",
-    "updated_at": "2026-10-12T22:30:36.655632Z",
     "featured": false,
     "launches": [],
     "events": [],
