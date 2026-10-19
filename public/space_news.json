@@ -1,5 +1,94 @@
 [
   {
+    "id": 40432,
+    "title": "Space materials lab marks 10 years of innovation",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Space_in_Member_States/United_Kingdom/Space_materials_lab_marks_10_years_of_innovation",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_esa-ral_advanced_manufacturing_lab_marks_10_years_of_operations/27580847-1-eng-GB/The_ESA-RAL_Advanced_Manufacturing_Lab_marks_10_years_of_operations_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Space materials lab marks 10 years of innovation",
+    "published_at": "2026-10-19T09:48:00Z",
+    "updated_at": "2026-10-19T10:10:28.254244Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40433,
+    "title": "Science and technology for the Moon",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Science_and_technology_for_the_Moon",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/moonset_1_of_6/27385453-2-eng-GB/Moonset_1_of_6_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Returning to the Moon is about more than reaching the surface. Before we can live and work there long-term, we need to learn how to operate safely and sustainably in the lunar environment, understand its resources and develop the technologies that future explorers will depend on. ",
+    "published_at": "2026-10-19T09:12:00Z",
+    "updated_at": "2026-10-19T11:00:20.914471Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40430,
+    "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual […]",
+    "published_at": "2026-10-19T04:05:00Z",
+    "updated_at": "2026-10-19T09:41:34.270231Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "283c3310-50e9-49fb-992d-38b71e02c36f",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "0a5d89b0-aa14-4140-b72d-fbcc8340b222",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40431,
+    "title": "Autumn Paints Poland’s Bieszczady Mountains",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-paints-poland's-bieszczady-mountains/poland_bieszczady_oli2_20261008.jpg",
+    "news_site": "NASA",
+    "summary": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.",
+    "published_at": "2026-10-19T04:01:00Z",
+    "updated_at": "2026-10-19T04:40:25.970865Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40428,
     "title": "Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida",
     "authors": [
@@ -258,6 +347,26 @@
     "launches": [],
     "events": [],
     "detailed_news": "The infrastructure is designed to support multiple flights per week by the end of the decade."
+  },
+  {
+    "id": 40434,
+    "title": "Small lunar missions, big ambitions",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Small_lunar_missions_big_ambitions",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earthset_from_lunar_orbit/27197969-1-eng-GB/Earthset_from_lunar_orbit_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Europe is preparing for a future in which astronauts, robots and scientific instruments work on and around the Moon. While major missions often capture the headlines, smaller missions can move faster, test new ideas and provide essential support to larger missions.",
+    "published_at": "2026-10-16T08:05:00Z",
+    "updated_at": "2026-10-19T11:00:21.260827Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
   },
   {
     "id": 40412,
@@ -859,106 +968,6 @@
     "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
     "published_at": "2026-10-14T16:46:58Z",
     "updated_at": "2026-10-14T17:40:11.302220Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40375,
-    "title": "NASA’s Space X CRS-35 Launch Jellyfish",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20261013-admin-0005orig.jpg",
-    "news_site": "NASA",
-    "summary": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off […]",
-    "published_at": "2026-10-14T15:18:38Z",
-    "updated_at": "2026-10-14T15:20:34.634086Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40376,
-    "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03142.jpg",
-    "news_site": "NASA",
-    "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus […]",
-    "published_at": "2026-10-14T14:41:21Z",
-    "updated_at": "2026-10-14T15:20:34.679615Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40377,
-    "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-announcement-advisory-oct-13.jpg",
-    "news_site": "NASA",
-    "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
-    "published_at": "2026-10-14T13:32:25Z",
-    "updated_at": "2026-10-14T15:20:34.717320Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40372,
-    "title": "Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/spain-approves-early-release-of-e65-8-million-in-paz-2-spy-satellite-funding/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Spain-Approves-Early-Release-of-65.8-Million-Euros-in-PAZ-2-Spy-Satellite-Funding-.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The Spanish government has approved a request from satellite operator Hisdesat to bring forward €65.8 million of a €1 billion loan for the PAZ 2 spy satellite programme to cover payments due earlier than originally anticipated. Published in Spain’s official gazette on 3 September, the adjustment increases the funding scheduled for 2026 from €179.8 million […]\nThe post Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding appeared first on European Spaceflight.",
-    "published_at": "2026-10-14T13:10:12Z",
-    "updated_at": "2026-10-14T13:10:28.697570Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40374,
-    "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
-    "authors": [
-      {
-        "name": "Space Inventor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/1200x930-Space-Inventor-1.png?fit=1024%2C794&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWhen the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be […]\nThe post How mini-constellations could more quickly bring new tech to Europe, and to orbit appeared first on SpaceNews.",
-    "published_at": "2026-10-14T13:09:21Z",
-    "updated_at": "2026-10-14T13:10:46.791962Z",
     "featured": false,
     "launches": [],
     "events": [],
