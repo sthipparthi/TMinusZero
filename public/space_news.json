@@ -1,5 +1,85 @@
 [
   {
+    "id": 40498,
+    "title": "Does anyone actually want to win the medium-lift race in the United States?",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/428da033c0ad14482819d3e20c503b86ad29b17f-9504x6336-1.avif",
+    "news_site": "Arstechnica",
+    "summary": "Ars Technica is here to help with a guide to the medium-lift space race.",
+    "published_at": "2026-10-20T19:13:31Z",
+    "updated_at": "2026-10-20T19:20:16.404340Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Ars Technica is here to help with a guide to the medium-lift space race."
+  },
+  {
+    "id": 40497,
+    "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg",
+    "news_site": "NASA",
+    "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]",
+    "published_at": "2026-10-20T18:11:33Z",
+    "updated_at": "2026-10-20T18:20:16.816527Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40496,
+    "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
+    "authors": [
+      {
+        "name": "Joe Kangas",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…\nThe post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-10-20T17:22:03Z",
+    "updated_at": "2026-10-20T17:30:20.795769Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…\nThe post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 40495,
+    "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
+    "news_site": "NASA",
+    "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
+    "published_at": "2026-10-20T16:02:35Z",
+    "updated_at": "2026-10-20T16:32:05.463183Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40494,
     "title": "NASA Provides Progress Update on Moon Base Rovers",
     "authors": [
@@ -340,26 +420,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40444,
-    "title": "Instrumentation",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg",
-    "news_site": "NASA",
-    "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
-    "published_at": "2026-10-19T16:37:45Z",
-    "updated_at": "2026-10-19T17:06:13.530614Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]"
-  },
-  {
     "id": 40443,
     "title": "Instrumentation",
     "authors": [
@@ -374,6 +434,26 @@
     "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
     "published_at": "2026-10-19T16:37:45Z",
     "updated_at": "2026-10-19T16:42:17.729532Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]"
+  },
+  {
+    "id": 40444,
+    "title": "Instrumentation",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg",
+    "news_site": "NASA",
+    "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
+    "published_at": "2026-10-19T16:37:45Z",
+    "updated_at": "2026-10-19T17:06:13.530614Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -887,85 +967,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The infrastructure is designed to support multiple flights per week by the end of the decade."
-  },
-  {
-    "id": 40434,
-    "title": "Small lunar missions, big ambitions",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Small_lunar_missions_big_ambitions",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earthset_from_lunar_orbit/27197969-1-eng-GB/Earthset_from_lunar_orbit_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Europe is preparing for a future in which astronauts, robots and scientific instruments work on and around the Moon. While major missions often capture the headlines, smaller missions can move faster, test new ideas and provide essential support to larger missions.",
-    "published_at": "2026-10-16T08:05:00Z",
-    "updated_at": "2026-10-19T11:00:21.260827Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40412,
-    "title": "Earth from Space: West Antarctica",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_west_antarctica/27579693-1-eng-GB/Earth_from_Space_West_Antarctica_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-10-16T08:00:00Z",
-    "updated_at": "2026-10-16T08:20:26.336740Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40410,
-    "title": "APOD: 2026 October 16 – Chasing the International Space Station",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
-    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-    "published_at": "2026-10-16T04:05:00Z",
-    "updated_at": "2026-10-16T04:40:17.986540Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40411,
-    "title": "Isaias Dims the Gulf Coast",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg",
-    "news_site": "NASA",
-    "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
-    "published_at": "2026-10-16T04:00:00Z",
-    "updated_at": "2026-10-16T04:50:22.178128Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
