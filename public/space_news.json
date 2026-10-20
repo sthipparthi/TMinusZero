@@ -1,5 +1,45 @@
 [
   {
+    "id": 40482,
+    "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05037_opgs_edr_ncam_NRB_844669907EDR_S1250558NCAM00543M_.JPG",
+    "news_site": "NASA",
+    "summary": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude […]",
+    "published_at": "2026-10-20T01:21:38Z",
+    "updated_at": "2026-10-20T01:46:18.292282Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40481,
+    "title": "JAXA’s MMX Enroute to Mars To Return Samples of Phobos",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/MMX-liftoff-300x169.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The Japan Aerospace Exploration Agency successfully launch the Martian Moons eXploration (MMX) mission this afternoon EDT. MMX will not land on Mars, but instead explore its two moons, Phobos and […]",
+    "published_at": "2026-10-20T00:12:19Z",
+    "updated_at": "2026-10-20T01:24:44.137909Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40480,
     "title": "NASA Improves Shock, Vibration Analysis",
     "authors": [
@@ -80,26 +120,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40443,
-    "title": "Instrumentation",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg",
-    "news_site": "NASA",
-    "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
-    "published_at": "2026-10-19T16:37:45Z",
-    "updated_at": "2026-10-19T16:42:17.729532Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]"
-  },
-  {
     "id": 40444,
     "title": "Instrumentation",
     "authors": [
@@ -114,6 +134,26 @@
     "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
     "published_at": "2026-10-19T16:37:45Z",
     "updated_at": "2026-10-19T17:06:13.530614Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]"
+  },
+  {
+    "id": 40443,
+    "title": "Instrumentation",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg",
+    "news_site": "NASA",
+    "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
+    "published_at": "2026-10-19T16:37:45Z",
+    "updated_at": "2026-10-19T16:42:17.729532Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -923,46 +963,6 @@
     "summary": "On 14 October, at the NAVISP Industry Days in Rome, Italy, the European Space Agency (ESA) signed new contracts with three European companies that will support the development of innovative technologies for resilient rail transportation and aviation.",
     "published_at": "2026-10-15T15:49:00Z",
     "updated_at": "2026-10-16T12:20:36.830900Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40399,
-    "title": "How NASA is thinking about a moon base",
-    "authors": [
-      {
-        "name": "SpaceNews Editor",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-NASA-moon-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nIn this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […]\nThe post How NASA is thinking about a moon base appeared first on SpaceNews.",
-    "published_at": "2026-10-15T15:14:24Z",
-    "updated_at": "2026-10-15T15:20:32.926816Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40398,
-    "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/combineda1anda2-heatshield4k.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection […]",
-    "published_at": "2026-10-15T14:57:21Z",
-    "updated_at": "2026-10-15T15:00:36.738200Z",
     "featured": false,
     "launches": [],
     "events": [],
