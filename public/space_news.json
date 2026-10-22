@@ -1,5 +1,45 @@
 [
   {
+    "id": 40520,
+    "title": "Faster to Science: A Letter to the Science Community",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "news_site": "NASA",
+    "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+    "published_at": "2026-10-22T00:00:16Z",
+    "updated_at": "2026-10-22T00:40:39.286268Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40519,
+    "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
+    "news_site": "NASA",
+    "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During […]",
+    "published_at": "2026-10-21T20:51:50Z",
+    "updated_at": "2026-10-21T21:00:20.521544Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40518,
     "title": "China readies first commercial resupply craft, first booster reflight, and next landing attempt",
     "authors": [
@@ -923,45 +963,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Japanese Aerospace Exploration Agency (JAXA) is poised to launch a planetary probe to Mars’s…\nThe post Japanese MMX mission set for launch to study Martian moons appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 40485,
-    "title": "Celebrating BepiColombo, three words at a time",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/celebrating_bepicolombo_three_words_at_a_time/27584100-1-eng-GB/Celebrating_BepiColombo_three_words_at_a_time_card_full.png",
-    "news_site": "ESA",
-    "summary": "BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words.",
-    "published_at": "2026-10-19T15:00:00Z",
-    "updated_at": "2026-10-20T06:40:26.238991Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40438,
-    "title": "US political uncertainty complicates long-term Artemis commitments, Polish minister says",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/us-political-uncertainty-complicates-long-term-artemis-commitments-polish-minister-says/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/US-political-uncertainty-complicates-long-term-Artemis-commitments-Polish-minister-says.webp",
-    "news_site": "European Spaceflight",
-    "summary": "Political and budgetary uncertainty in the United States poses a risk to long-term planning for space exploration programmes, according to a Polish government minister. In a 13 October response to a parliamentary question, Polish Deputy Minister of Development and Technology Michał Jaros said Poland remained interested in participating in NASA’s Artemis programme but raised concerns […]\nThe post US political uncertainty complicates long-term Artemis commitments, Polish minister says appeared first on European Spaceflight.",
-    "published_at": "2026-10-19T14:49:20Z",
-    "updated_at": "2026-10-19T14:55:13.482826Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
