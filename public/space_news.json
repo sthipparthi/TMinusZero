@@ -1,5 +1,115 @@
 [
   {
+    "id": 40525,
+    "title": "ESA Open Days 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/esa_open_days_2026/27587076-1-eng-GB/ESA_Open_Days_2026_card_full.png",
+    "news_site": "ESA",
+    "summary": "ESA Open Days 2026 welcomed over 23 000 visitors across its six establishments, giving the public the opportunity to discover more about Europe’s space activities, meet the people behind the missions and explore how ESA is shaping the future of space.",
+    "published_at": "2026-10-22T09:00:00Z",
+    "updated_at": "2026-10-22T09:50:19.032466Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40523,
+    "title": "Stars brewing in a nebulous cauldron",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-10-22T08:00:00Z",
+    "updated_at": "2026-10-22T09:43:40.669329Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40524,
+    "title": "Moon crane to take a load off lunar landers",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/moon_crane_to_take_a_load_off_lunar_landers/27582872-2-eng-GB/Moon_crane_to_take_a_load_off_lunar_landers_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-10-22T07:45:00Z",
+    "updated_at": "2026-10-22T08:10:19.363435Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40522,
+    "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First […]",
+    "published_at": "2026-10-22T04:05:00Z",
+    "updated_at": "2026-10-22T04:50:10.339277Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40521,
+    "title": "Fires Char New Guinea",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg",
+    "news_site": "NASA",
+    "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+    "published_at": "2026-10-22T04:01:00Z",
+    "updated_at": "2026-10-22T09:40:19.538071Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "c19cfbc9-99a6-4423-86da-1b8e381fa854",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40520,
     "title": "Faster to Science: A Letter to the Science Community",
     "authors": [
@@ -863,105 +973,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 40443,
-    "title": "Instrumentation",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg",
-    "news_site": "NASA",
-    "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
-    "published_at": "2026-10-19T16:37:45Z",
-    "updated_at": "2026-10-19T16:42:17.729532Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]"
-  },
-  {
-    "id": 40444,
-    "title": "Instrumentation",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg",
-    "news_site": "NASA",
-    "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
-    "published_at": "2026-10-19T16:37:45Z",
-    "updated_at": "2026-10-19T17:06:13.530614Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]"
-  },
-  {
-    "id": 40445,
-    "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
-    "authors": [
-      {
-        "name": "Debra Werner",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/rsz_uarx_ossie-d.png?fit=879%2C628&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nSAN FRANCISCO –Spanish startup UARX Space is remedying anomalies identified during the maiden flight of OSSIE-D, an orbital transfer vehicle (OTV) launched Oct. 1 aboard SpaceX’s Transporter-18 mission. At least […]\nThe post UARX Space troubleshoots anomalies on maiden OTV Flight appeared first on SpaceNews.",
-    "published_at": "2026-10-19T16:31:12Z",
-    "updated_at": "2026-10-19T17:33:36.993558Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40441,
-    "title": "Martian Dawn",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/martian-dawn/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp",
-    "news_site": "NASA",
-    "summary": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]",
-    "published_at": "2026-10-19T16:03:51Z",
-    "updated_at": "2026-10-19T16:13:18.325768Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]"
-  },
-  {
-    "id": 40439,
-    "title": "Japanese MMX mission set for launch to study Martian moons",
-    "authors": [
-      {
-        "name": "Justin Davenport",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/10/mmx-launch/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/image-3.png",
-    "news_site": "NASASpaceflight",
-    "summary": "The Japanese Aerospace Exploration Agency (JAXA) is poised to launch a planetary probe to Mars’s…\nThe post Japanese MMX mission set for launch to study Martian moons appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-10-19T15:44:41Z",
-    "updated_at": "2026-10-19T15:54:26.510746Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "The Japanese Aerospace Exploration Agency (JAXA) is poised to launch a planetary probe to Mars’s…\nThe post Japanese MMX mission set for launch to study Martian moons appeared first on NASASpaceFlight.com."
   }
 ]
