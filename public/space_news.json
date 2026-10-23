@@ -1,5 +1,95 @@
 [
   {
+    "id": 40541,
+    "title": "Week in images: 19-23 October 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Week in images: 19-23 October 2026",
+    "published_at": "2026-10-23T13:15:00Z",
+    "updated_at": "2026-10-23T14:10:19.597916Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40539,
+    "title": "ESA Director “Not Sure” Themis Will Make Its First Flight in 2026",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Director-22Not-Sure22-Themis-Will-Make-Its-First-Flight-in-2026.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency’s (ESA) Director of Space Transportation, Géraldine Naja, said on 22 October that she was uncertain whether the agency would be able to complete the first flight of its Themis reusable rocket demonstrator before the end of the year. Speaking at a media briefing following ESA’s 350th Council meeting in Paris, Naja […]\r\nThe post ESA Director “Not Sure” Themis Will Make Its First Flight in 2026 appeared first on European Spaceflight.",
+    "published_at": "2026-10-23T11:06:47Z",
+    "updated_at": "2026-10-23T12:49:14.342427Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40538,
+    "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
+    "published_at": "2026-10-23T11:00:57Z",
+    "updated_at": "2026-10-23T12:58:52.062303Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "7bdc412b-c965-4517-a131-f57a01189803",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "de446468-057f-4c9d-a6a1-af99c93b541e",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "a8c191e1-b231-4b2e-aefd-5e8ad55c7a82",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "\"We believe Canada should be able to reach orbit on its own terms.\""
+  },
+  {
     "id": 40537,
     "title": "Earth from Space: The pink city",
     "authors": [
@@ -16,6 +106,31 @@
     "updated_at": "2026-10-23T08:30:37.548801Z",
     "featured": false,
     "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40540,
+    "title": "Spot the craters",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Spot_the_craters",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/spot_the_craters/27589258-1-eng-GB/Spot_the_craters_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-10-23T07:17:00Z",
+    "updated_at": "2026-10-23T12:59:08.526970Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d8d10fbf-b900-40c7-95ef-fb2f07489f6f",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -894,86 +1009,6 @@
     "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]",
     "published_at": "2026-10-20T15:00:10Z",
     "updated_at": "2026-10-20T15:00:28.890093Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40493,
-    "title": "Space Rider test model lost following failed drop test",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/space-rider-test-model-lost-following-failed-drop-test/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Space-Rider-Test-Model-Lost-Following-Failed-Drop-Test.webp",
-    "news_site": "European Spaceflight",
-    "summary": "A full-scale drop test of the European Space Agency’s Space Rider spaceplane ended abruptly after the test model’s parafoil failed to deploy as expected. This marks the second time this year that a Space Rider drop test has been interrupted by an anomaly, following an aborted attempt in May. The incident occurred during the vehicle’s […]\nThe post Space Rider test model lost following failed drop test appeared first on European Spaceflight.",
-    "published_at": "2026-10-20T14:52:57Z",
-    "updated_at": "2026-10-20T14:55:04.938872Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40492,
-    "title": "Webb Captures Stellar Jets",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png",
-    "news_site": "NASA",
-    "summary": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in […]",
-    "published_at": "2026-10-20T14:44:09Z",
-    "updated_at": "2026-10-20T14:48:22.808182Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40491,
-    "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-uzbekistan-77-101926.jpg",
-    "news_site": "NASA",
-    "summary": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build […]",
-    "published_at": "2026-10-20T14:21:42Z",
-    "updated_at": "2026-10-20T14:37:04.346793Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40490,
-    "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
-    "authors": [
-      {
-        "name": "AnySignal",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/AnySignal_GoogleBusinessProfile.png?fit=720%2C720&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nLOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital’s inaugural […]\nThe post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews.",
-    "published_at": "2026-10-20T13:00:00Z",
-    "updated_at": "2026-10-20T13:25:26.030206Z",
     "featured": false,
     "launches": [],
     "events": [],
