@@ -1,5 +1,50 @@
 [
   {
+    "id": 40537,
+    "title": "Earth from Space: The pink city",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_the_pink_city/27589033-1-eng-GB/Earth_from_Space_The_pink_city_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-10-23T08:00:00Z",
+    "updated_at": "2026-10-23T08:30:37.548801Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40536,
+    "title": "NASA Safety Panel Concerned About Artemis IV, Future Access to LEO",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Earthset-Apr-6-26-1-300x200.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "NASA’s Aerospace Safety Advisory Panel will soon open a formal recommendation that NASA re-examine plans for the Artemis IV mission.  Currently that will be a landing at the Moon’s South […]",
+    "published_at": "2026-10-23T03:23:10Z",
+    "updated_at": "2026-10-23T06:15:56.334076Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "372d94b1-88fe-4cc5-9296-d893c9fa9426",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40535,
     "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
     "authors": [
@@ -929,46 +974,6 @@
     "summary": "\nLOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital’s inaugural […]\nThe post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews.",
     "published_at": "2026-10-20T13:00:00Z",
     "updated_at": "2026-10-20T13:25:26.030206Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40489,
-    "title": "Lunar Link complete and ready for a new adventure",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Lunar_Link_complete_and_ready_for_a_new_adventure",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/lunar_link_team/27579203-1-eng-GB/Lunar_Link_team_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "ESA’s Lunar Link telecommunications element has completed its final major integration and testing campaign at Thales Alenia Space in Cannes, France. ",
-    "published_at": "2026-10-20T12:00:00Z",
-    "updated_at": "2026-10-20T13:02:06.841379Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40488,
-    "title": "French MPs propose symbolic €1 budget line for VORTEX spaceplane",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/French-MPs-propose-symbolic-E1-budget-line-for-VORTEX-spaceplane.webp",
-    "news_site": "European Spaceflight",
-    "summary": "French lawmakers have proposed allocating a symbolic €1 for Dassault Aviation’s VORTEX spaceplane programme in an effort to compel the government to clarify its financial commitments to the project. In a 16 October amendment to France’s proposed 2027 budget, 71 MPs from the La France Insoumise party proposed creating a dedicated budget line for VORTEX […]\nThe post French MPs propose symbolic €1 budget line for VORTEX spaceplane appeared first on European Spaceflight.",
-    "published_at": "2026-10-20T10:15:39Z",
-    "updated_at": "2026-10-20T10:20:17.655317Z",
     "featured": false,
     "launches": [],
     "events": [],
