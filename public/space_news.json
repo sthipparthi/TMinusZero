@@ -1,5 +1,45 @@
 [
   {
+    "id": 40544,
+    "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+    "published_at": "2026-10-23T22:48:25Z",
+    "updated_at": "2026-10-23T22:50:10.551603Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "\"We have the mandate, we have the resources, and the support from our stakeholders.\""
+  },
+  {
+    "id": 40543,
+    "title": "NASA is Full Steam Ahead on Artemis III, IV and V",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/group-300x167.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "NASA officials projected confidence today in their plans to launch the Artemis III earth-orbital test flight in mid-2027 and land American astronauts on the Moon in 2028.  Whether SpaceX’s Starship […]",
+    "published_at": "2026-10-23T22:39:54Z",
+    "updated_at": "2026-10-23T22:40:25.065559Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40542,
     "title": "Nov. 5: Satellite Mission Management at the Edge",
     "authors": [
@@ -969,46 +1009,6 @@
     "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]",
     "published_at": "2026-10-20T18:11:33Z",
     "updated_at": "2026-10-20T18:20:16.816527Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40496,
-    "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
-    "authors": [
-      {
-        "name": "Joe Kangas",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…\nThe post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-10-20T17:22:03Z",
-    "updated_at": "2026-10-20T17:30:20.795769Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…\nThe post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 40495,
-    "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
-    "news_site": "NASA",
-    "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
-    "published_at": "2026-10-20T16:02:35Z",
-    "updated_at": "2026-10-20T16:32:05.463183Z",
     "featured": false,
     "launches": [],
     "events": [],
