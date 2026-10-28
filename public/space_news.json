@@ -1,5 +1,75 @@
 [
   {
+    "id": 40614,
+    "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05048_mhli_5048MH0009170001804540R00_DXXX.jpg",
+    "news_site": "NASA",
+    "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]",
+    "published_at": "2026-10-28T05:39:46Z",
+    "updated_at": "2026-10-28T07:44:17.964756Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40613,
+    "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+    "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]",
+    "published_at": "2026-10-28T04:05:00Z",
+    "updated_at": "2026-10-28T07:44:38.069053Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40612,
+    "title": "The Land of the Standing-Up Rocks",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg",
+    "news_site": "NASA",
+    "summary": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
+    "published_at": "2026-10-28T04:01:00Z",
+    "updated_at": "2026-10-28T07:44:51.963546Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "f8a96988-9ba4-4480-84c4-496492e67e23",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40611,
     "title": "Ukrainian startup, GomSpace test satellite for future communications network",
     "authors": [
@@ -898,95 +968,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 40541,
-    "title": "Week in images: 19-23 October 2026",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "Week in images: 19-23 October 2026",
-    "published_at": "2026-10-23T13:15:00Z",
-    "updated_at": "2026-10-23T14:10:19.597916Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40539,
-    "title": "ESA Director “Not Sure” Themis Will Make Its First Flight in 2026",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Director-22Not-Sure22-Themis-Will-Make-Its-First-Flight-in-2026.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency’s (ESA) Director of Space Transportation, Géraldine Naja, said on 22 October that she was uncertain whether the agency would be able to complete the first flight of its Themis reusable rocket demonstrator before the end of the year. Speaking at a media briefing following ESA’s 350th Council meeting in Paris, Naja […]\r\nThe post ESA Director “Not Sure” Themis Will Make Its First Flight in 2026 appeared first on European Spaceflight.",
-    "published_at": "2026-10-23T11:06:47Z",
-    "updated_at": "2026-10-23T12:49:14.342427Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40538,
-    "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
-    "published_at": "2026-10-23T11:00:57Z",
-    "updated_at": "2026-10-23T12:58:52.062303Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "7bdc412b-c965-4517-a131-f57a01189803",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "de446468-057f-4c9d-a6a1-af99c93b541e",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "a8c191e1-b231-4b2e-aefd-5e8ad55c7a82",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": "\"We believe Canada should be able to reach orbit on its own terms.\""
   }
 ]
