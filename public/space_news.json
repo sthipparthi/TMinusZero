@@ -1,5 +1,90 @@
 [
   {
+    "id": 40633,
+    "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots.jpg",
+    "news_site": "Arstechnica",
+    "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
+    "published_at": "2026-10-29T11:00:08Z",
+    "updated_at": "2026-10-29T11:10:08.866336Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\""
+  },
+  {
+    "id": 40630,
+    "title": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/UK-MOD-Awards-15-million-Orbital-Warfare-Project-to-Astroscale-.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Japanese space technology company Astroscale has officially announced that its UK-based subsidiary has been awarded a £15 million (€17.9 million) Ministry of Defence contract for Project LEDA. While few details about the initiative were shared, an MoD official said it would “form part of the permanent pathway for UK’s understanding of orbital warfare.” Although the […]\nThe post UK MOD Awards £15 Million Orbital Warfare Project to Astroscale appeared first on European Spaceflight.",
+    "published_at": "2026-10-29T07:31:25Z",
+    "updated_at": "2026-10-29T07:40:09.902840Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40628,
+    "title": "APOD: 29 October 2026 – The Horns of Venus",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/venus_20261024a.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Horns […]",
+    "published_at": "2026-10-29T04:05:00Z",
+    "updated_at": "2026-10-29T04:50:13.656122Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40627,
+    "title": "Arnab Strikes India",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg",
+    "news_site": "NASA",
+    "summary": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
+    "published_at": "2026-10-29T04:01:00Z",
+    "updated_at": "2026-10-29T09:55:58.576430Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "c19cfbc9-99a6-4423-86da-1b8e381fa854",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40626,
     "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
     "authors": [
@@ -20,22 +105,27 @@
     "detailed_news": ""
   },
   {
-    "id": 40625,
-    "title": "Untied Launch Alliance announces mid-November return to flight for Vulcan rocket",
+    "id": 40629,
+    "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
     "authors": [
       {
         "name": "Will Robinson-Smith",
         "socials": null
       }
     ],
-    "url": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
+    "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+    "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
     "news_site": "Spaceflight Now",
-    "summary": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit. ",
+    "summary": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
     "published_at": "2026-10-28T22:46:41Z",
-    "updated_at": "2026-10-28T22:50:36.832570Z",
+    "updated_at": "2026-10-29T09:55:18.475136Z",
     "featured": false,
-    "launches": [],
+    "launches": [
+      {
+        "launch_id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+        "provider": "Launch Library 2"
+      }
+    ],
     "events": [],
     "detailed_news": ""
   },
@@ -138,6 +228,46 @@
     "launches": [],
     "events": [],
     "detailed_news": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.   Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed […]"
+  },
+  {
+    "id": 40631,
+    "title": "ESA at Spaceport Norway 2026",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/ESA_at_Spaceport_Norway_2026",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_at_spaceport_norway_2026/27593906-1-eng-GB/ESA_at_Spaceport_Norway_2026_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "From the ESA Blogs.",
+    "published_at": "2026-10-28T18:14:00Z",
+    "updated_at": "2026-10-29T08:30:27.229941Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40632,
+    "title": "ESA and Norway pen projects for resilient satellite navigation",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Satellite_navigation/NAVISP/ESA_and_Norway_pen_projects_for_resilient_satellite_navigation",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/gnss-based_electronic_aids_to_navigation_solutions/27593953-1-eng-GB/GNSS-Based_Electronic_Aids_To_Navigation_Solutions_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "On 27 October at Spaceport Norway in Oslo, the European Space Agency (ESA) signed new contracts with three Norwegian companies under ESA’s Navigation Innovation and Support Program (NAVISP). The projects follow a call for projects via NAVISP funding by the Norwegian Space Agency to support the development of resilient positioning, navigation and timing (PNT) solutions. ",
+    "published_at": "2026-10-28T18:11:00Z",
+    "updated_at": "2026-10-29T08:30:27.258520Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
   },
   {
     "id": 40619,
@@ -844,126 +974,6 @@
     "summary": "Falcon 9’s retirement could leave the market up for grabs, as SpaceX finds themselves still in the process of developing and marketing Starship as a worthy successor.",
     "published_at": "2026-10-26T12:11:43Z",
     "updated_at": "2026-10-26T12:20:27.052372Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40561,
-    "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Australia-Counters-ESAs-Offer-for-Mission-to-ISS-for-Bennell-Pegg.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The Australian government has submitted a counteroffer to the European Space Agency (ESA) to secure a flight to the International Space Station for Australian astronaut Katherine Bennell-Pegg. Support for the mission is not universal in Australia, with one government official calling the spending “reckless.” Australian Minister for Science Tim Ayres confirmed on 23 October that […]\nThe post Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg appeared first on European Spaceflight.",
-    "published_at": "2026-10-26T10:53:24Z",
-    "updated_at": "2026-10-26T11:00:22.623659Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40562,
-    "title": "Ice mission CRISTAL opens its wings",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
-    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_card_full.jpg",
-    "news_site": "ESA",
-    "summary": "With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly into the demanding testing phase that will demonstrate its readiness for the rigours of launch and life in orbit.",
-    "published_at": "2026-10-26T10:00:00Z",
-    "updated_at": "2026-10-26T11:30:21.356653Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40560,
-    "title": "2026 October 26 – M42: The Great Nebula in Orion",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M42: The […]",
-    "published_at": "2026-10-26T04:05:00Z",
-    "updated_at": "2026-10-26T09:35:27.739359Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40564,
-    "title": "2026 October 26 – M42: The Great Nebula in Orion",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M42: The […]",
-    "published_at": "2026-10-26T04:05:00Z",
-    "updated_at": "2026-10-26T14:50:46.793842Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40559,
-    "title": "Hunting Red Leaves with Satellites",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004.jpg",
-    "news_site": "NASA",
-    "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
-    "published_at": "2026-10-26T04:01:00Z",
-    "updated_at": "2026-10-26T04:40:11.674974Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40558,
-    "title": "What’s Happening in Space Policy October 25-November 1, 2026",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Nicky-Fox-2026-240x300.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of October 25-November 1, 2026 and any insight we can offer about them. The House and […]",
-    "published_at": "2026-10-25T20:35:16Z",
-    "updated_at": "2026-10-25T20:40:23.327421Z",
     "featured": false,
     "launches": [],
     "events": [],
