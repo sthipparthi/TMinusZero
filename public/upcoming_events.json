@@ -1,6 +1,6 @@
 {
-  "count": 7,
-  "last_updated": "2026-10-30T17:21:57.244939Z",
+  "count": 6,
+  "last_updated": "2026-10-30T21:44:41.271966Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (7 failed/unavailable)"
+    "Empty AI summaries (6 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
-      "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-      "status": "Go",
-      "net": "2026-10-30T18:21:00Z",
-      "window_start": "2026-10-30T17:00:00Z",
-      "window_end": "2026-10-30T21:00:00Z",
-      "lsp_name": "Indian Space Research Organization",
-      "lsp_description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-      "lsp_type": "Government",
-      "lsp_country": "IND",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/indian2520space2520research2520organization_logo_20190215225409.png",
-      "mission_name": "IRNSS-1L (NVS-03)",
-      "mission_description": "This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.",
-      "mission_type": "Navigation",
-      "orbit": "Geostationary Transfer Orbit",
-      "launch_site": "Satish Dhawan Space Centre Second Launch Pad, Satish Dhawan Space Centre, India",
-      "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "location": "Satish Dhawan Space Centre, India",
-      "rocket": "GSLV Mk. II",
-      "rocket_config_description": "Geosynchronous Satellite Launch Vehicle Mark II (GSLV Mk II) is the largest launch vehicle developed by India, which is currently in operation. This fourth generation launch vehicle is a three stage vehicle with four liquid strap-ons. The indigenously developed cryogenic Upper Stage (CUS), which is flight proven, forms the third stage of GSLV Mk II. From January 2014, the vehicle has achieved four consecutive successes.",
-      "rocket_config_family": "GSLV",
-      "rocket_config_full_name": "GSLV Mk. II",
-      "rocket_config_total_launch_count": 13,
-      "rocket_config_successful_launches": 11,
-      "rocket_config_failed_launches": 2,
-      "rocket_config_pending_launches": 5,
-      "rocket_manufacturer_name": "Indian Space Research Organization",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The Indian Space Research Organisation (ISRO) is the space agency of the Government of India headquartered in the city of Bangalore. Its vision is to \"harness space technology for national development while pursuing space science research and planetary exploration.\"",
-      "rocket_manufacturer_total_launch_count": 100,
-      "rocket_manufacturer_successful_launches": 85,
-      "rocket_manufacturer_failed_launches": 15,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk252_image_20240101090337.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/20d5676e-111b-40e3-8923-b218c3665ca2/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
       "name": "Falcon 9 Block 5 | Starlink Group 15-18",
@@ -329,7 +288,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 7,
-    "total_launches": 7
+    "empty_summaries": 6,
+    "total_launches": 6
   }
 }
