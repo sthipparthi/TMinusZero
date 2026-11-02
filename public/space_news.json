@@ -1,5 +1,75 @@
 [
   {
+    "id": 40675,
+    "title": "CubeSat achieves challenging laser link to ground",
+    "authors": [
+      {
+        "name": "ESA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
+    "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/illustration_of_three_ermis_technology_demonstration_cubesats_in_orbit/27596682-1-eng-GB/Illustration_of_three_ERMIS_technology_demonstration_CubeSats_in_orbit_card_full.jpg",
+    "news_site": "ESA",
+    "summary": "Despite it being a complex operation, ERMIS-3, an 8U CubeSat developed by the National and Kapodistrian University of Athens, has established a link with an optical ground station marking an important step in validating optical communications on small satellites. The demonstration, supported by the European Space Agency (ESA) and achieved using optical terminals developed by Lithuanian company Astrolight, happened only weeks after the satellite’s commissioning. ",
+    "published_at": "2026-11-02T08:55:00Z",
+    "updated_at": "2026-11-02T12:40:24.512504Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40674,
+    "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long […]",
+    "published_at": "2026-11-02T05:05:00Z",
+    "updated_at": "2026-11-02T08:55:26.230918Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "db62cfa1-4d10-41d3-b25f-a58e138ce202",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40673,
+    "title": "Pennsylvania’s Grand Canyon",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania%E2%80%99s-grand-canyon/pinecreekgorge_oli_20261025.jpg",
+    "news_site": "NASA",
+    "summary": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
+    "published_at": "2026-11-02T05:01:00Z",
+    "updated_at": "2026-11-02T08:54:09.709411Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "f9b109c7-494a-4dd4-a4ef-daca7ddeb763",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40672,
     "title": "What’s Happening in Space Policy November 1-8, 2026",
     "authors": [
@@ -600,26 +670,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40641,
-    "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg",
-    "news_site": "NASA",
-    "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia […]",
-    "published_at": "2026-10-29T15:21:23Z",
-    "updated_at": "2026-10-29T15:30:10.248796Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40640,
     "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
     "authors": [
@@ -928,45 +978,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.   “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks […]"
-  },
-  {
-    "id": 40622,
-    "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
-    "authors": [
-      {
-        "name": "Joe Kangas",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/kscvsstarbasecomparison.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and…\nThe post Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-10-28T21:12:08Z",
-    "updated_at": "2026-10-28T21:12:21.421495Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and…\nThe post Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 40623,
-    "title": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks",
-    "authors": [
-      {
-        "name": "Houston Harwood",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/",
-    "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261028-IROSA-Install-3.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "NASA is two spacewalks away from completing a major, years-long upgrade to the International Space Station that will power the orbiting lab through to its planned decommissioning in 2030. ",
-    "published_at": "2026-10-28T21:03:33Z",
-    "updated_at": "2026-10-28T21:13:09.025753Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
