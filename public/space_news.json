@@ -1,5 +1,55 @@
 [
   {
+    "id": 40745,
+    "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette […]",
+    "published_at": "2026-11-05T05:05:00Z",
+    "updated_at": "2026-11-05T09:25:02.821540Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "16e4908a-564a-4019-89a9-0d64ee4caaaa",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40744,
+    "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg",
+    "news_site": "NASA",
+    "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+    "published_at": "2026-11-05T05:01:00Z",
+    "updated_at": "2026-11-05T09:22:26.612770Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "f9b109c7-494a-4dd4-a4ef-daca7ddeb763",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40743,
     "title": "Former NASA Chief Economist is New Head of Canadian Space Agency",
     "authors": [
@@ -340,26 +390,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40730,
-    "title": "One geology step closer to the Moon",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://new.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/astronaut-training/one-geology-step-closer-to-the-moon",
-    "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-11-04T12:36:26Z",
-    "updated_at": "2026-11-05T00:10:17.330787Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40715,
     "title": "ExoMars rover twin rehearses first drive",
     "authors": [
@@ -374,26 +404,6 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-11-04T12:35:48Z",
     "updated_at": "2026-11-04T20:50:14.767515Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40731,
-    "title": "ExoMars rover twin rehearses first drive",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://new.esa.int/articles/what-we-do/explore-discover-space/mars/exomars-rover-twin-rehearses-first-drive",
-    "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-11-04T12:35:48Z",
-    "updated_at": "2026-11-05T00:10:17.360904Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -420,26 +430,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40732,
-    "title": "European rover trains for Mars in the desert",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://new.esa.int/articles/about-us/directorates/human-and-robotic-exploration/mars/european-rover-trains-for-mars-in-the-desert",
-    "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-11-04T12:29:19Z",
-    "updated_at": "2026-11-05T00:10:17.376225Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40701,
     "title": "PLD Space Completes MIURA 5 Flight Termination System Test",
     "authors": [
@@ -460,46 +450,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40721,
-    "title": "How ESA astronauts return from space",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronauts/how-esa-astronauts-return-from-space",
-    "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-11-04T09:43:59Z",
-    "updated_at": "2026-11-04T20:50:14.915800Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40737,
-    "title": "How ESA astronauts return from space",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://new.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronauts/how-esa-astronauts-return-from-space",
-    "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-11-04T09:43:59Z",
-    "updated_at": "2026-11-05T00:10:17.501011Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40717,
     "title": "Farewell to the Fluid Science Laboratory after 18 years in orbit",
     "authors": [
@@ -514,26 +464,6 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-11-04T09:38:31Z",
     "updated_at": "2026-11-04T20:50:14.797601Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40733,
-    "title": "Farewell to the Fluid Science Laboratory after 18 years in orbit",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://new.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/international-space-station/columbus/farewell-to-the-fluid-science-laboratory-after-18-years-in-orbit",
-    "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-11-04T09:38:31Z",
-    "updated_at": "2026-11-05T00:10:17.389585Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -760,26 +690,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40736,
-    "title": "ESA investigates potential future European-led orbital outpost",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://new.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/esa-investigates-potential-future-european-led-orbital-outpost",
-    "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-11-03T13:34:35Z",
-    "updated_at": "2026-11-05T00:10:17.473724Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
     "id": 40719,
     "title": "Shaping Europe’s future in low Earth orbit",
     "authors": [
@@ -794,26 +704,6 @@
     "summary": "From the ESA Blogs.",
     "published_at": "2026-11-03T13:34:20Z",
     "updated_at": "2026-11-04T20:50:14.874620Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40735,
-    "title": "Shaping Europe’s future in low Earth orbit",
-    "authors": [
-      {
-        "name": "ESA",
-        "socials": null
-      }
-    ],
-    "url": "https://new.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/shaping-europe-s-future-in-low-earth-orbit",
-    "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "news_site": "ESA",
-    "summary": "From the ESA Blogs.",
-    "published_at": "2026-11-03T13:34:20Z",
-    "updated_at": "2026-11-05T00:10:17.436711Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -991,5 +881,130 @@
     ],
     "events": [],
     "detailed_news": "Eight launches are expected this week, from launch sites in the United States, China, New…\r\nThe post Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 40684,
+    "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/s63-11625.jpg",
+    "news_site": "NASA",
+    "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping […]",
+    "published_at": "2026-11-02T21:35:59Z",
+    "updated_at": "2026-11-02T21:40:15.400547Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40683,
+    "title": "TB 26-09 Measured Hammer-Tap Inputs",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png",
+    "news_site": "NASA",
+    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record. […]",
+    "published_at": "2026-11-02T20:47:41Z",
+    "updated_at": "2026-11-02T20:50:17.572993Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40682,
+    "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
+    "news_site": "NASA",
+    "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year […]",
+    "published_at": "2026-11-02T18:50:42Z",
+    "updated_at": "2026-11-02T19:00:13.658556Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40681,
+    "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg",
+    "news_site": "NASA",
+    "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet […]",
+    "published_at": "2026-11-02T18:19:58Z",
+    "updated_at": "2026-11-02T18:40:11.872686Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40680,
+    "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+    "image_url": "https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg",
+    "news_site": "NASA",
+    "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, […]",
+    "published_at": "2026-11-02T17:33:22Z",
+    "updated_at": "2026-11-03T09:30:17.038458Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40679,
+    "title": "China releases timeline for lunar landing on the Moon, targeting \"before 2030\"",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1.jpg",
+    "news_site": "Arstechnica",
+    "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
+    "published_at": "2026-11-02T17:09:13Z",
+    "updated_at": "2026-11-02T17:10:10.805736Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The plan does not include a mission similar to Apollo 8 or Artemis II."
   }
 ]
