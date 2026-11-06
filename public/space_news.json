@@ -1,5 +1,45 @@
 [
   {
+    "id": 40758,
+    "title": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
+    "authors": [
+      {
+        "name": "Justin Davenport",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_9798.jpeg",
+    "news_site": "NASASpaceflight",
+    "summary": "The International Space Station program completed a critical power upgrade that had been ongoing for…\nThe post ISS astronauts install final iROSA solar panel to augment aging ISS power systems appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-11-06T01:15:08Z",
+    "updated_at": "2026-11-06T01:20:09.026254Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "The International Space Station program completed a critical power upgrade that had been ongoing for…\nThe post ISS astronauts install final iROSA solar panel to augment aging ISS power systems appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 40757,
+    "title": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
+    "news_site": "Arstechnica",
+    "summary": "\"This is going to be a game-changer.\"",
+    "published_at": "2026-11-06T00:17:06Z",
+    "updated_at": "2026-11-06T00:30:37.446839Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "\"This is going to be a game-changer.\""
+  },
+  {
     "id": 40755,
     "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
     "authors": [
@@ -928,45 +968,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 40691,
-    "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
-    "authors": [
-      {
-        "name": "Airbus",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/AIRBUS_Blue.png?fit=1024%2C1024&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nThe tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […]\nThe post DETUMBLER: Airbus’ Passive Spin Stabilization Solution appeared first on SpaceNews.",
-    "published_at": "2026-11-03T13:30:00Z",
-    "updated_at": "2026-11-03T13:31:03.800538Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40689,
-    "title": "Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman",
-    "authors": [
-      {
-        "name": "Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-03-03-55-27-762.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "NASA Administrator Jared Isaacman has addressed the ongoing debate about the Hubble Space Telescope’s long-term…\nThe post Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-11-03T13:05:40Z",
-    "updated_at": "2026-11-03T13:10:16.756106Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "NASA Administrator Jared Isaacman has addressed the ongoing debate about the Hubble Space Telescope’s long-term…\nThe post Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman appeared first on NASASpaceFlight.com."
   }
 ]
