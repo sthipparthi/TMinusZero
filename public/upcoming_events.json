@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-11-08T12:20:00.572254Z",
+  "count": 7,
+  "last_updated": "2026-11-08T21:25:42.595681Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (7 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "a2423132-f965-423f-8b03-6891b775dc54",
-      "name": "Long March 12 | SatNet LEO Group TBD?",
-      "status": "Go",
-      "net": "2026-11-05T21:15:00Z",
-      "window_start": "2026-11-05T21:10:00Z",
-      "window_end": "2026-11-05T21:39:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "SatNet LEO Group TBD?",
-      "mission_description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-      "mission_type": "Communications",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Commercial LC-2, Wenchang Space Launch Site, People's Republic of China",
-      "pad": "Commercial LC-2",
-      "location": "Wenchang Space Launch Site, People's Republic of China",
-      "rocket": "Long March 12",
-      "rocket_config_description": "The Long March 12 carrier rocket is a Chinese medium-lift launch vehicle currently under development by the Shanghai Academy of Spaceflight Technology, using kerosene and liquid oxygen as propellant. It will be capable of placing at least 10 tonnes of payload in low Earth orbit and at least 6 tonnes in a 700 km Sun-synchronous orbit.",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 12",
-      "rocket_config_total_launch_count": 9,
-      "rocket_config_successful_launches": 9,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 621,
-      "rocket_manufacturer_successful_launches": 605,
-      "rocket_manufacturer_failed_launches": 16,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/a2423132-f965-423f-8b03-6891b775dc54/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
       "name": "Falcon 9 Block 5 | USSF-627",
@@ -362,7 +321,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 7,
+    "total_launches": 7
   }
 }
