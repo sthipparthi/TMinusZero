@@ -1,5 +1,52 @@
 [
   {
+    "id": 40816,
+    "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg",
+    "news_site": "NASA",
+    "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]",
+    "published_at": "2026-11-12T00:41:35Z",
+    "updated_at": "2026-11-12T01:50:11.553459Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40815,
+    "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/steinau.jpeg?fit=1024%2C576&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nA Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.\nThe post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews.",
+    "published_at": "2026-11-12T00:00:18Z",
+    "updated_at": "2026-11-12T00:00:40.772610Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40814,
     "title": "NASA takes an all-hands-on-deck approach in its return to the Moon",
     "authors": [
@@ -959,45 +1006,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform. "
-  },
-  {
-    "id": 40766,
-    "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
-    "authors": [
-      {
-        "name": "Chris Bergin",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
-    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237.jpg",
-    "news_site": "NASASpaceflight",
-    "summary": "Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…\nThe post Stoke Space evaluating expansion of Cape site for second Nova pad appeared first on NASASpaceFlight.com.",
-    "published_at": "2026-11-06T21:19:28Z",
-    "updated_at": "2026-11-06T21:20:13.362881Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…\nThe post Stoke Space evaluating expansion of Cape site for second Nova pad appeared first on NASASpaceFlight.com."
-  },
-  {
-    "id": 40765,
-    "title": "AST SpaceMobile is so desperate for launch they're building their own rocket",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
-    "news_site": "Arstechnica",
-    "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-    "published_at": "2026-11-06T18:20:47Z",
-    "updated_at": "2026-11-06T18:30:10.576585Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\""
   }
 ]
