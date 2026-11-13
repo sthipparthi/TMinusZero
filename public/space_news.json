@@ -1,5 +1,164 @@
 [
   {
+    "id": 40839,
+    "title": "ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon",
+    "authors": [
+      {
+        "name": "Houston Harwood",
+        "socials": null
+      }
+    ],
+    "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+    "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
+    "news_site": "Spaceflight Now",
+    "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is scheduled for 12:54 p.m. EST (1754 UTC), at the opening of a 29-minute window. ",
+    "published_at": "2026-11-13T12:25:06Z",
+    "updated_at": "2026-11-13T12:30:29.825112Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is scheduled for 12:54 p.m. EST (1754 UTC), at the opening of a 29-minute window. "
+  },
+  {
+    "id": 40838,
+    "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery.jpeg",
+    "news_site": "Arstechnica",
+    "summary": "\"You can simplify it as a big tank feeding engines.\"",
+    "published_at": "2026-11-13T12:00:40Z",
+    "updated_at": "2026-11-13T12:10:09.180205Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "\"You can simplify it as a big tank feeding engines.\""
+  },
+  {
+    "id": 40837,
+    "title": "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Confirms-Latest-Prometheus-Tests-Not-Connected-to-Themis-Hop-Preparations.webp",
+    "news_site": "European Spaceflight",
+    "summary": "The European Space Agency (ESA) and ArianeGroup have confirmed that Prometheus engine tests conducted in Lampoldshausen in October were carried out independently of preparations for the long-delayed inaugural flight of the Themis reusable booster demonstrator. In a 6 November press release, ArianeGroup announced that it had completed a series of hot-fire tests of the latest […]\r\nThe post ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations appeared first on European Spaceflight.",
+    "published_at": "2026-11-13T07:57:07Z",
+    "updated_at": "2026-11-13T08:32:23.620422Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40836,
+    "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+    "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]",
+    "published_at": "2026-11-13T05:05:00Z",
+    "updated_at": "2026-11-13T08:34:12.755667Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40835,
+    "title": "A Global Rebound for Mangroves",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
+    "news_site": "NASA",
+    "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+    "published_at": "2026-11-13T05:01:00Z",
+    "updated_at": "2026-11-13T08:38:09.650538Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "f8a96988-9ba4-4480-84c4-496492e67e23",
+        "provider": "Launch Library 2"
+      },
+      {
+        "launch_id": "ed7d69f7-8563-454c-9ca6-6abf95bbf26e",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40834,
+    "title": "Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Senate-CJS-table-230x300.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The Senate Appropriations Committee released five more FY2027 bills this evening, including the Commerce-Justice-Science bill that funds NASA. The CJS subcommittee is proposing $24.874 billion for NASA, slightly more than […]",
+    "published_at": "2026-11-13T04:55:42Z",
+    "updated_at": "2026-11-13T05:00:58.230518Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40833,
+    "title": "Starship Flight 15 to attempt first catch of both stages",
+    "authors": [
+      {
+        "name": "Ryan Weber",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-03-14-56-684.jpg",
+    "news_site": "NASASpaceflight",
+    "summary": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history…\r\nThe post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-11-13T04:24:28Z",
+    "updated_at": "2026-11-13T08:32:46.048631Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history…\r\nThe post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com."
+  },
+  {
     "id": 40832,
     "title": "NASA Looking for New Ways to Return Perseverance Samples From Mars",
     "authors": [
@@ -873,145 +1032,5 @@
     "launches": [],
     "events": [],
     "detailed_news": ""
-  },
-  {
-    "id": 40792,
-    "title": "Newest Sample, Oldest Rock?",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg",
-    "news_site": "NASA",
-    "summary": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. However, the team felt strongly that it was worth the effort […]",
-    "published_at": "2026-11-09T22:25:52Z",
-    "updated_at": "2026-11-09T22:40:22.877976Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40790,
-    "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg",
-    "news_site": "NASA",
-    "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]",
-    "published_at": "2026-11-09T18:55:50Z",
-    "updated_at": "2026-11-09T19:40:09.832499Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40788,
-    "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg",
-    "news_site": "NASA",
-    "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]",
-    "published_at": "2026-11-09T17:42:42Z",
-    "updated_at": "2026-11-09T17:50:23.153502Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40786,
-    "title": "Astronauts Across Generations Share the Stage",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
-    "news_site": "NASA",
-    "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency’s […]",
-    "published_at": "2026-11-09T16:56:29Z",
-    "updated_at": "2026-11-09T17:00:16.869852Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40784,
-    "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261107-ph-jls01-0269.jpg",
-    "news_site": "NASA",
-    "summary": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the […]",
-    "published_at": "2026-11-09T16:07:10Z",
-    "updated_at": "2026-11-09T16:10:21.518007Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40785,
-    "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE-B_TMI_07.jpg",
-    "news_site": "NASA",
-    "summary": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. “This is […]",
-    "published_at": "2026-11-09T16:01:47Z",
-    "updated_at": "2026-11-09T16:50:15.544555Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40783,
-    "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d.png",
-    "news_site": "Arstechnica",
-    "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
-    "published_at": "2026-11-09T15:39:21Z",
-    "updated_at": "2026-11-09T15:50:11.739501Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "\"Grok analyzing the same video is 99.9 percent perfect.\""
   }
 ]
