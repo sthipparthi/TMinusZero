@@ -1,5 +1,52 @@
 [
   {
+    "id": 40832,
+    "title": "NASA Looking for New Ways to Return Perseverance Samples From Mars",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/05/MSR-architecture-April-30-25-300x160.png",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "In January, NASA will begin assessing new strategies to return the samples now being collected by the Mars Perseverance rover to Earth. The agency ended an earlier Mars Sample Return […]",
+    "published_at": "2026-11-13T02:48:46Z",
+    "updated_at": "2026-11-13T02:50:20.392796Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40831,
+    "title": "AST SpaceMobile presses case for developing own launch vehicle",
+    "authors": [
+      {
+        "name": "Jeff Foust",
+        "socials": {
+          "x": "https://x.com/jeff_foust",
+          "youtube": "",
+          "instagram": "",
+          "linkedin": "https://www.linkedin.com/in/jefffoust",
+          "mastodon": "https://mastodon.social/@jfoust",
+          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+        }
+      }
+    ],
+    "url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
+    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/blacklift2.jpeg?fit=1024%2C577&ssl=1",
+    "news_site": "SpaceNews",
+    "summary": "\nAST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.\nThe post AST SpaceMobile presses case for developing own launch vehicle appeared first on SpaceNews.",
+    "published_at": "2026-11-13T01:15:21Z",
+    "updated_at": "2026-11-13T01:20:41.590041Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40829,
     "title": "I Am Artemis Katie Spicer",
     "authors": [
@@ -966,45 +1013,5 @@
     "launches": [],
     "events": [],
     "detailed_news": "\"Grok analyzing the same video is 99.9 percent perfect.\""
-  },
-  {
-    "id": 40782,
-    "title": "UK Government Investment Secures More Than 25% Stake in SaxaVord",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/UK-Government-Investment-Secures-More-Than-25-Percent-Stake-in-SaxaVord.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The UK Government has secured a stake of more than 25% in SaxaVord Spaceport following the completion of a £60 million public-private investment agreement in late October. According to a filing submitted to Companies House on 6 November, the Department for Science, Innovation and Technology (DSIT) became a “person” with significant control of Shetland Space […]\nThe post UK Government Investment Secures More Than 25% Stake in SaxaVord appeared first on European Spaceflight.",
-    "published_at": "2026-11-09T14:29:42Z",
-    "updated_at": "2026-11-09T14:30:24.700671Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40781,
-    "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
-    "authors": [
-      {
-        "name": "CCIA",
-        "socials": null
-      }
-    ],
-    "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/ccia-logo-square.png?fit=929%2C927&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "\nWashington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access, […]\nThe post CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth appeared first on SpaceNews.",
-    "published_at": "2026-11-09T14:00:00Z",
-    "updated_at": "2026-11-09T14:02:07.337985Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
   }
 ]
