@@ -1,5 +1,45 @@
 [
   {
+    "id": 40845,
+    "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954.jpg",
+    "news_site": "Arstechnica",
+    "summary": "One way or another, the company will get some more data on Saturday.",
+    "published_at": "2026-11-14T00:49:13Z",
+    "updated_at": "2026-11-14T01:00:14.606446Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "One way or another, the company will get some more data on Saturday."
+  },
+  {
+    "id": 40844,
+    "title": "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "SpaceX launched the 15th Starship Integrated Flight Test (IFT-15) early this evening from Starbase, Texas. Plans to bring the first stage Booster back to the launch tower for a “catch” […]",
+    "published_at": "2026-11-13T23:54:54Z",
+    "updated_at": "2026-11-14T00:00:31.349576Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40843,
     "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
     "authors": [
@@ -969,55 +1009,6 @@
     "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the […]",
     "published_at": "2026-11-10T05:05:00Z",
     "updated_at": "2026-11-10T05:50:19.494249Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40797,
-    "title": "Autumn Mornings Bring Valley Fog",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108.jpg",
-    "news_site": "NASA",
-    "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
-    "published_at": "2026-11-10T05:00:00Z",
-    "updated_at": "2026-11-10T10:47:23.814964Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "85841db3-9422-4470-8327-0c42fc258987",
-        "provider": "Launch Library 2"
-      },
-      {
-        "launch_id": "060fc260-01bd-41ec-a0be-ce2223fbbc76",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40796,
-    "title": "NASA Shares Moon Base Progress, Contract Awards",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Isaacman-skydive-Nov-7-26-Jonathan-Shaban-300x168.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "NASA provided another update on the Moon Base project this weekend in conjunction with the MAX POWER airshow at Kennedy Space Center. Billions of dollars were awarded or soon will […]",
-    "published_at": "2026-11-10T04:54:58Z",
-    "updated_at": "2026-11-10T10:45:03.052871Z",
     "featured": false,
     "launches": [],
     "events": [],

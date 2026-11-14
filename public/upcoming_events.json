@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-11-13T22:58:05.253754Z",
+  "count": 7,
+  "last_updated": "2026-11-14T03:51:19.939059Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (7 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
-      "name": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others",
-      "status": "Go",
-      "net": "2026-11-14T00:50:00Z",
-      "window_start": "2026-11-14T00:50:00Z",
-      "window_end": "2026-11-14T01:50:00Z",
-      "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-      "lsp_description": "The Roscosmos State Corporation for Space Activities, commonly known as Roscosmos, is the governmental body responsible for the space science program of the Russian Federation and general aerospace research. Soyuz has many launch locations the Russian sites are Baikonur, Plesetsk and Vostochny however Ariane also purchases the vehicle and launches it from French Guiana.",
-      "lsp_type": "Government",
-      "lsp_country": "RUS",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/russian2520federal2520space2520agency25202528roscosmos2529_logo_20190207032459.png",
-      "mission_name": "MKA Kinosputnik, KOEN and others",
-      "mission_description": "Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems",
-      "mission_type": "Technology",
-      "orbit": "Sun-Synchronous Orbit",
-      "launch_site": "Cosmodrome Site 1S, Vostochny Cosmodrome, Siberia, Russian Federation",
-      "pad": "Cosmodrome Site 1S",
-      "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
-      "rocket": "Soyuz 2.1b Fregat-M",
-      "rocket_config_description": "Soyuz-2, GRAU index 14A14, is the collective designation for the 21st-century version of the Russian Soyuz rocket. In its basic form, it is a three-stage carrier rocket for placing payloads into low Earth orbit. The first-stage boosters and two core stages feature uprated engines with improved injection systems, compared to the previous versions of the Soyuz. Digital flight control and telemetry systems allow the rocket to be launched from a fixed launch platform, whereas the launch platforms for earlier Soyuz rockets had to be rotated as the rocket could not perform a roll to change its heading in flight.",
-      "rocket_config_family": "Soyuz",
-      "rocket_config_full_name": "Soyuz 2.1b Fregat-M",
-      "rocket_config_total_launch_count": 37,
-      "rocket_config_successful_launches": 37,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 3,
-      "rocket_manufacturer_name": "Progress Rocket Space Center",
-      "rocket_manufacturer_type": "Commercial",
-      "rocket_manufacturer_description": "Progress Rocket Space Centre, formerly known as TsSKB-Progress, is a space science and aerospace research company which is known for manufacturing launch vehicles and satellites. Most notably, Progress Rocket Space Centre is the manufacturer of Soyuz launch vehicles.",
-      "rocket_manufacturer_total_launch_count": 45,
-      "rocket_manufacturer_successful_launches": 44,
-      "rocket_manufacturer_failed_launches": 1,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
       "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
@@ -370,7 +329,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 7,
+    "total_launches": 7
   }
 }
