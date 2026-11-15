@@ -1,5 +1,45 @@
 [
   {
+    "id": 40848,
+    "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389.jpg",
+    "news_site": "Arstechnica",
+    "summary": "It felt like stepping into the future.",
+    "published_at": "2026-11-15T00:40:59Z",
+    "updated_at": "2026-11-15T00:50:07.987494Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "It felt like stepping into the future."
+  },
+  {
+    "id": 40847,
+    "title": "SpaceX Catches a Starship",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "SpaceX’s 15th Starship Integrated Flight Test (IFT-15) returned to Earth today and was “caught” back at the launch tower after orbiting Earth 14 times. It’s a milestone achievement for the […]",
+    "published_at": "2026-11-14T21:53:18Z",
+    "updated_at": "2026-11-14T22:00:24.827219Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40846,
     "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
     "authors": [
@@ -954,63 +994,6 @@
     "updated_at": "2026-11-10T14:10:28.669899Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40800,
-    "title": "ESCAPADE on its way to Mars after Earth flybys",
-    "authors": [
-      {
-        "name": "Jeff Foust",
-        "socials": {
-          "x": "https://x.com/jeff_foust",
-          "youtube": "",
-          "instagram": "",
-          "linkedin": "https://www.linkedin.com/in/jefffoust",
-          "mastodon": "https://mastodon.social/@jfoust",
-          "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
-        }
-      }
-    ],
-    "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
-    "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&ssl=1",
-    "news_site": "SpaceNews",
-    "summary": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.\r\nThe post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews.",
-    "published_at": "2026-11-10T08:01:39Z",
-    "updated_at": "2026-11-10T10:44:24.871891Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "9c950919-5d11-4a79-a4f1-be7387678c0a",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40799,
-    "title": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Isar-Could-Launch-Third-Spectrum-Rocket-as-Early-as-26-November.webp",
-    "news_site": "European Spaceflight",
-    "summary": "German launch company Isar Aerospace could attempt the third flight of its Spectrum rocket from Andøya Spaceport in Norway as early as 26 November, according to an aviation notice published on 28 October. The notice, published by Norwegian air navigation services provider Avinor, outlines a launch window for the flight opening on 26 November 2026 […]\r\nThe post Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November appeared first on European Spaceflight.",
-    "published_at": "2026-11-10T07:04:22Z",
-    "updated_at": "2026-11-10T10:44:54.523724Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "dff42a2e-f047-48d7-b260-3888d3a4fe33",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
