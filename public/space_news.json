@@ -1,5 +1,95 @@
 [
   {
+    "id": 40887,
+    "title": "PLD Space Investor Selects MIURA 5 to Launch Demo Mission",
+    "authors": [
+      {
+        "name": "European Spaceflight",
+        "socials": null
+      }
+    ],
+    "url": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
+    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Investor-Selects-MIURA-5-to-Launch-Demo-Mission.webp",
+    "news_site": "European Spaceflight",
+    "summary": "Japanese satellite manufacturer Mitsubishi Electric has signed a contract with Spanish rocket builder PLD Space to launch a small satellite aboard the company’s second MIURA 5 test flight. PLD Space announced that it had signed the launch contract on 18 November, describing the agreement as “a new stage in the relationship between the two companies.” […]\r\nThe post PLD Space Investor Selects MIURA 5 to Launch Demo Mission appeared first on European Spaceflight.",
+    "published_at": "2026-11-18T07:25:17Z",
+    "updated_at": "2026-11-18T08:14:55.637181Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40886,
+    "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg",
+    "news_site": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized […]",
+    "published_at": "2026-11-18T05:05:00Z",
+    "updated_at": "2026-11-18T08:10:04.737551Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40885,
+    "title": "Sierra Snow Season Spins Up",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg",
+    "news_site": "NASA",
+    "summary": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
+    "published_at": "2026-11-18T05:01:00Z",
+    "updated_at": "2026-11-18T08:05:34.309373Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "85841db3-9422-4470-8327-0c42fc258987",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40884,
+    "title": "ULA Investigating Low Booster Performance in Vulcan Launch Failure",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Vulcan-liftoff-300x292.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "The United Launch Alliance said today that low performance of its first stage booster is suspected of causing the failure of Vulcan Leo 1 on Sunday. It was the first […]",
+    "published_at": "2026-11-18T03:52:35Z",
+    "updated_at": "2026-11-18T08:03:49.211377Z",
+    "featured": false,
+    "launches": [
+      {
+        "launch_id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40881,
     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
     "authors": [
@@ -140,26 +230,6 @@
     "detailed_news": ""
   },
   {
-    "id": 40875,
-    "title": "Sources: Vulcan launch anomaly investigation is complex",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493.jpg",
-    "news_site": "Arstechnica",
-    "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
-    "published_at": "2026-11-17T18:00:51Z",
-    "updated_at": "2026-11-17T18:10:09.526096Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Information about the Vulcan failure is being closely held by ULA and Blue Origin."
-  },
-  {
     "id": 40876,
     "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
     "authors": [
@@ -174,6 +244,26 @@
     "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
     "published_at": "2026-11-17T18:00:51Z",
     "updated_at": "2026-11-17T18:40:09.048814Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "Information about the Vulcan failure is being closely held by ULA and Blue Origin."
+  },
+  {
+    "id": 40875,
+    "title": "Sources: Vulcan launch anomaly investigation is complex",
+    "authors": [
+      {
+        "name": "Eric Berger",
+        "socials": null
+      }
+    ],
+    "url": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493.jpg",
+    "news_site": "Arstechnica",
+    "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+    "published_at": "2026-11-17T18:00:51Z",
+    "updated_at": "2026-11-17T18:10:09.526096Z",
     "featured": false,
     "launches": [],
     "events": [],
@@ -888,91 +978,6 @@
     "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
     "published_at": "2026-11-13T16:05:54Z",
     "updated_at": "2026-11-13T16:10:28.398711Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40839,
-    "title": "ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon",
-    "authors": [
-      {
-        "name": "Houston Harwood",
-        "socials": null
-      }
-    ],
-    "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-    "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
-    "news_site": "Spaceflight Now",
-    "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is scheduled for 12:54 p.m. EST (1754 UTC), at the opening of a 29-minute window. ",
-    "published_at": "2026-11-13T12:25:06Z",
-    "updated_at": "2026-11-13T12:30:29.825112Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is scheduled for 12:54 p.m. EST (1754 UTC), at the opening of a 29-minute window. "
-  },
-  {
-    "id": 40838,
-    "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-    "authors": [
-      {
-        "name": "Eric Berger",
-        "socials": null
-      }
-    ],
-    "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery.jpeg",
-    "news_site": "Arstechnica",
-    "summary": "\"You can simplify it as a big tank feeding engines.\"",
-    "published_at": "2026-11-13T12:00:40Z",
-    "updated_at": "2026-11-13T12:10:09.180205Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": "\"You can simplify it as a big tank feeding engines.\""
-  },
-  {
-    "id": 40837,
-    "title": "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations",
-    "authors": [
-      {
-        "name": "European Spaceflight",
-        "socials": null
-      }
-    ],
-    "url": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/",
-    "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Confirms-Latest-Prometheus-Tests-Not-Connected-to-Themis-Hop-Preparations.webp",
-    "news_site": "European Spaceflight",
-    "summary": "The European Space Agency (ESA) and ArianeGroup have confirmed that Prometheus engine tests conducted in Lampoldshausen in October were carried out independently of preparations for the long-delayed inaugural flight of the Themis reusable booster demonstrator. In a 6 November press release, ArianeGroup announced that it had completed a series of hot-fire tests of the latest […]\r\nThe post ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations appeared first on European Spaceflight.",
-    "published_at": "2026-11-13T07:57:07Z",
-    "updated_at": "2026-11-13T08:32:23.620422Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40836,
-    "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
-    "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]",
-    "published_at": "2026-11-13T05:05:00Z",
-    "updated_at": "2026-11-13T08:34:12.755667Z",
     "featured": false,
     "launches": [],
     "events": [],
