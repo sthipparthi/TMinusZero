@@ -1,5 +1,65 @@
 [
   {
+    "id": 40934,
+    "title": "China details its path to a crewed Moon landing before 2030",
+    "authors": [
+      {
+        "name": "Martin Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+    "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Mengzhou-and-Lanyue-docking-in-orbit-render-3-Hero-CCTV.png",
+    "news_site": "NASASpaceflight",
+    "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon…\nThe post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com.",
+    "published_at": "2026-11-22T22:31:24Z",
+    "updated_at": "2026-11-22T22:40:13.733861Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": "China has set out its most detailed roadmap yet for landing astronauts on the Moon…\nThe post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com."
+  },
+  {
+    "id": 40933,
+    "title": "What’s Happening in Space Policy November 22-29, 2026",
+    "authors": [
+      {
+        "name": "Marcia Smith",
+        "socials": null
+      }
+    ],
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/",
+    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/ESA-BepiColombo-300x169.jpg",
+    "news_site": "SpacePolicyOnline.com",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of November 22-29, 2026 and any insight we can offer about them. The House and Senate […]",
+    "published_at": "2026-11-22T21:50:55Z",
+    "updated_at": "2026-11-22T22:00:21.648315Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
+    "id": 40932,
+    "title": "65 Years of Human Spaceflight at NASA Johnson",
+    "authors": [
+      {
+        "name": "NASA",
+        "socials": null
+      }
+    ],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
+    "news_site": "NASA",
+    "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and […]",
+    "published_at": "2026-11-22T19:13:25Z",
+    "updated_at": "2026-11-22T19:20:12.542062Z",
+    "featured": false,
+    "launches": [],
+    "events": [],
+    "detailed_news": ""
+  },
+  {
     "id": 40931,
     "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
     "authors": [
@@ -901,76 +961,6 @@
     "updated_at": "2026-11-18T08:14:55.637181Z",
     "featured": false,
     "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40886,
-    "title": "APOD: 2026 November 18 – An M-class Solar Flare",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg",
-    "news_site": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized […]",
-    "published_at": "2026-11-18T05:05:00Z",
-    "updated_at": "2026-11-18T08:10:04.737551Z",
-    "featured": false,
-    "launches": [],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40885,
-    "title": "Sierra Snow Season Spins Up",
-    "authors": [
-      {
-        "name": "NASA",
-        "socials": null
-      }
-    ],
-    "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg",
-    "news_site": "NASA",
-    "summary": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
-    "published_at": "2026-11-18T05:01:00Z",
-    "updated_at": "2026-11-18T08:05:34.309373Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "85841db3-9422-4470-8327-0c42fc258987",
-        "provider": "Launch Library 2"
-      }
-    ],
-    "events": [],
-    "detailed_news": ""
-  },
-  {
-    "id": 40884,
-    "title": "ULA Investigating Low Booster Performance in Vulcan Launch Failure",
-    "authors": [
-      {
-        "name": "Marcia Smith",
-        "socials": null
-      }
-    ],
-    "url": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure/",
-    "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Vulcan-liftoff-300x292.jpg",
-    "news_site": "SpacePolicyOnline.com",
-    "summary": "The United Launch Alliance said today that low performance of its first stage booster is suspected of causing the failure of Vulcan Leo 1 on Sunday. It was the first […]",
-    "published_at": "2026-11-18T03:52:35Z",
-    "updated_at": "2026-11-18T08:03:49.211377Z",
-    "featured": false,
-    "launches": [
-      {
-        "launch_id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-        "provider": "Launch Library 2"
-      }
-    ],
     "events": [],
     "detailed_news": ""
   }
