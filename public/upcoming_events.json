@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-11-24T16:37:55.703489Z",
+  "count": 7,
+  "last_updated": "2026-11-25T01:41:35.415316Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,50 +10,9 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (7 failed/unavailable)"
   ],
   "launches": [
-    {
-      "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
-      "name": "Long March 2F/G | Shenzhou 24",
-      "status": "Go",
-      "net": "2026-11-25T00:18:00Z",
-      "window_start": "2026-11-25T00:08:00Z",
-      "window_end": "2026-11-25T00:48:00Z",
-      "lsp_name": "China Aerospace Science and Technology Corporation",
-      "lsp_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "lsp_type": "Government",
-      "lsp_country": "CHN",
-      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/china2520aerospace2520science2520and2520technology2520corporation_logo_20220826093937.png",
-      "mission_name": "Shenzhou 24",
-      "mission_description": "Shenzhou 24 will be the 24th flight of the Shenzhou program.\r\n\r\nThe first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition.",
-      "mission_type": "Human Exploration",
-      "orbit": "Low Earth Orbit",
-      "launch_site": "Launch Area 91 (SLS-1 / 921), Jiuquan Satellite Launch Center, People's Republic of China",
-      "pad": "Launch Area 91 (SLS-1 / 921)",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "rocket": "Long March 2F/G",
-      "rocket_config_description": "The Long March 2F is a Chinese orbital carrier rocket, part of the Long March 2 rocket family. Designed to launch the crewed Shenzhou spacecraft, the Long March 2F is a human-rated two-stage version of the Long March 2E rocket, which in turn was based on the Long March 2C launch vehicle. It is launched from complex SLS at the Jiuquan Satellite Launch Center.\r\n\r\nThe Long March 2F/G version includes longer boosters for increased lift capability, among other improvements.",
-      "rocket_config_family": "Long March",
-      "rocket_config_full_name": "Long March 2F/G",
-      "rocket_config_total_launch_count": 22,
-      "rocket_config_successful_launches": 22,
-      "rocket_config_failed_launches": 0,
-      "rocket_config_pending_launches": 1,
-      "rocket_manufacturer_name": "China Aerospace Science and Technology Corporation",
-      "rocket_manufacturer_type": "Government",
-      "rocket_manufacturer_description": "The China Aerospace Science and Technology Corporation (CASC) is the main contractor for the Chinese space program. It is state-owned and has a number of subordinate entities which design, develop and manufacture a range of spacecraft, launch vehicles, strategic and tactical missile systems, and ground equipment. It was officially established in July 1999 as part of a Chinese government reform drive, having previously been one part of the former China Aerospace Corporation. Various incarnations of the program date back to 1956.",
-      "rocket_manufacturer_total_launch_count": 626,
-      "rocket_manufacturer_successful_launches": 609,
-      "rocket_manufacturer_failed_launches": 16,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg",
-      "infographic": null,
-      "url": "https://ll.thespacedevs.com/2.0.0/launch/c9605b67-8a53-4239-a8ae-577fe3b79799/",
-      "webcast_live": false,
-      "probability": null,
-      "video_urls": [],
-      "ai_summary": ""
-    },
     {
       "id": "b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4",
       "name": "Long March 2D | Unknown Payload",
@@ -354,7 +313,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 7,
+    "total_launches": 7
   }
 }
