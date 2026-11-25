@@ -1,6 +1,6 @@
 {
-  "count": 7,
-  "last_updated": "2026-11-25T01:41:35.415316Z",
+  "count": 8,
+  "last_updated": "2026-11-25T16:20:27.279619Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (7 failed/unavailable)"
+    "Empty AI summaries (8 failed/unavailable)"
   ],
   "launches": [
     {
@@ -307,13 +307,54 @@
       "probability": null,
       "video_urls": [],
       "ai_summary": ""
+    },
+    {
+      "id": "22e117bf-041c-49d5-9d09-7b180036e143",
+      "name": "Ariane 62 | Metop-SG B1",
+      "status": "Go",
+      "net": "2026-12-18T00:36:00Z",
+      "window_start": "2026-12-18T00:36:00Z",
+      "window_end": "2026-12-18T00:36:00Z",
+      "lsp_name": "Arianespace",
+      "lsp_description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
+      "lsp_type": "Commercial",
+      "lsp_country": "FRA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
+      "mission_name": "Metop-SG B1",
+      "mission_description": "Second of EUMETSAT's second generation of Metop weather satellites.",
+      "mission_type": "Earth Science",
+      "orbit": "Sun-Synchronous Orbit",
+      "launch_site": "Ariane Launch Area 4, Guiana Space Centre, French Guiana",
+      "pad": "Ariane Launch Area 4",
+      "location": "Guiana Space Centre, French Guiana",
+      "rocket": "Ariane 62",
+      "rocket_config_description": "The Ariane 6 family is currently under development by the European Space Agency, with two variations including the Ariane 62 with two solid boosters intended for government and scientific missions.",
+      "rocket_config_family": "Ariane",
+      "rocket_config_full_name": "Ariane 62",
+      "rocket_config_total_launch_count": 6,
+      "rocket_config_successful_launches": 6,
+      "rocket_config_failed_launches": 0,
+      "rocket_config_pending_launches": 8,
+      "rocket_manufacturer_name": "ArianeGroup",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "ArianeGroup (formerly Airbus Safran Launchers) is an aerospace company based in France. A joint venture between Airbus and Safran, the company was founded in 2015 and is headquartered in Issy-les-Moulineaux. It consists of three core arms: aerospace, defence and security.",
+      "rocket_manufacturer_total_launch_count": 0,
+      "rocket_manufacturer_successful_launches": 0,
+      "rocket_manufacturer_failed_launches": 0,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/22e117bf-041c-49d5-9d09-7b180036e143/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [],
+      "ai_summary": ""
     }
   ],
   "ai_model": "facebook/bart-large-cnn",
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 7,
-    "total_launches": 7
+    "empty_summaries": 8,
+    "total_launches": 8
   }
 }
