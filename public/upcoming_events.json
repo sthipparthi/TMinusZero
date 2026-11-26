@@ -1,6 +1,6 @@
 {
-  "count": 8,
-  "last_updated": "2026-11-25T16:20:27.279619Z",
+  "count": 9,
+  "last_updated": "2026-11-26T01:14:58.621065Z",
   "source": "The Space Devs API (Enhanced)",
   "filter_criteria": "status.name == \"Go\"",
   "data_includes": [
@@ -10,7 +10,7 @@
     "Rocket manufacturer details & statistics",
     "Launch site details",
     "Media URLs",
-    "Empty AI summaries (8 failed/unavailable)"
+    "Empty AI summaries (9 failed/unavailable)"
   ],
   "launches": [
     {
@@ -309,6 +309,55 @@
       "ai_summary": ""
     },
     {
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+      "name": "Falcon 9 Block 5 | CHORUS",
+      "status": "Go",
+      "net": "2026-12-04T12:55:00Z",
+      "window_start": "2026-12-04T12:55:00Z",
+      "window_end": "2026-12-04T13:24:00Z",
+      "lsp_name": "SpaceX",
+      "lsp_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "lsp_type": "Commercial",
+      "lsp_country": "USA",
+      "lsp_logo": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spacex_logo_20220826094919.png",
+      "mission_name": "CHORUS",
+      "mission_description": "CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission.\r\n\r\nAlso on board this mission are 2 satellites from ICEYE and PECCY.",
+      "mission_type": "Earth Science",
+      "orbit": "Low Earth Orbit",
+      "launch_site": "Space Launch Complex 40, Cape Canaveral SFS, FL, USA",
+      "pad": "Space Launch Complex 40",
+      "location": "Cape Canaveral SFS, FL, USA",
+      "rocket": "Falcon 9 Block 5",
+      "rocket_config_description": "Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. The Block 5 variant is the fifth major interval aimed at improving upon the ability for rapid reusability.",
+      "rocket_config_family": "Falcon",
+      "rocket_config_full_name": "Falcon 9 Block 5",
+      "rocket_config_total_launch_count": 649,
+      "rocket_config_successful_launches": 648,
+      "rocket_config_failed_launches": 1,
+      "rocket_config_pending_launches": 120,
+      "rocket_manufacturer_name": "SpaceX",
+      "rocket_manufacturer_type": "Commercial",
+      "rocket_manufacturer_description": "Space Exploration Technologies Corp., known as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX operates from many pads, on the East Coast of the US they operate from SLC-40 at Cape Canaveral Space Force Station and historic LC-39A at Kennedy Space Center. They also operate from SLC-4E at Vandenberg Space Force Base, California, usually for polar launches. Another launch site is being developed at Boca Chica, Texas.",
+      "rocket_manufacturer_total_launch_count": 749,
+      "rocket_manufacturer_successful_launches": 734,
+      "rocket_manufacturer_failed_launches": 15,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "infographic": null,
+      "url": "https://ll.thespacedevs.com/2.0.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
+      "webcast_live": false,
+      "probability": null,
+      "video_urls": [
+        {
+          "priority": 10,
+          "title": "MDA Space – MDA CHORUS Mission",
+          "description": "Livestream on X",
+          "feature_image": "https://pbs.twimg.com/media/HX_Glv3WgAA21pT.jpg",
+          "url": "https://x.com/i/broadcasts/2VNlrbYvYNmMgM"
+        }
+      ],
+      "ai_summary": ""
+    },
+    {
       "id": "22e117bf-041c-49d5-9d09-7b180036e143",
       "name": "Ariane 62 | Metop-SG B1",
       "status": "Go",
@@ -354,7 +403,7 @@
   "ai_enhancement": "AI-powered summaries using facebook/bart-large-cnn (with robust error handling)",
   "ai_summary_stats": {
     "successful_summaries": 0,
-    "empty_summaries": 8,
-    "total_launches": 8
+    "empty_summaries": 9,
+    "total_launches": 9
   }
 }
